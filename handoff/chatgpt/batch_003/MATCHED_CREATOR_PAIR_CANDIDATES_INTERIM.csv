@@ -1,0 +1,4 @@
+pair_id,creator_id,high_content_id,control_content_id,high_likes,control_likes
+
+# MATCHED_CREATOR_PAIRS = 0
+# No same-creator comparisons available
