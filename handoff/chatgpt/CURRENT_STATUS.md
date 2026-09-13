@@ -1,86 +1,96 @@
-# CURRENT_STATUS.md - Updated 2026-09-13 RC6D AUDIT
+# CURRENT_STATUS.md - Updated 2026-09-13 SEMANTIC CONVERGENCE v0.1
 
-## Corpus Status (FINAL - PENDING SEMANTIC REVIEW)
+## Corpus Status
 
 | Metric | Value |
-|--------|-------|
+|---|---|
 | **Verified Logic Corpus** | **85/100** |
 | Remaining Gap | 15 |
-| RC6D Net-New Valid | 0 |
-| Status | PENDING CHATGPT CONVERGENCE ANALYSIS |
+| Gapfill | STOPPED |
+| Collection Status | FROZEN pending later recovery |
+| Semantic Convergence | **PASS v0.1** |
+| Logic Architecture | **v0.3 COMPLETE** |
+| Hypothesis Matrix | **v0.1 COMPLETE** |
+| Guanyu Script Rules | **v0.1 COMPLETE** |
+
+The 100-sample milestone remains open for a later falsification pass; it no longer blocks production prototyping.
 
 ---
 
-## Wave001 Status (FROZEN - Accepted)
+## Frozen Data State
 
-| Item | Value |
-|------|-------|
-| Total | 20/20 |
-| Real Fulltext | 20/20 |
-| Verified | 20/20 logic samples |
+### Wave001
+- 20/20 accepted logic samples.
 
----
+### Wave002
+- 5 semantic LOGIC_ANALYZABLE samples.
+- other items retained only in their assigned auxiliary/reject/off-topic roles.
 
-## Wave002 Status (FROZEN - Semantic Review Applied)
-
-| Item | Value |
-|------|-------|
-| Total | 20/20 |
-| Real Fulltext | 18/20 |
-| Placeholder (login) | 2/20 |
-| LOGIC_ANALYZABLE | 5 |
-| Topic-Passed (Semantic) | **5** |
+### Wave003 / RC6C / RC6D Gapfill
+- no net-new verified logic samples.
+- repeated Toutiao gap-fill route STOPPED because of duplicates, provenance weakness, and CID identity conflicts.
 
 ---
 
-## Wave003 Status (RC6C - Rebuild, RC6D Audit)
+## Semantic Convergence Outputs
 
-| Item | Value |
-|------|-------|
-| Discovered | 5 |
-| All Duplicates | Yes (per RC6D audit) |
-| Net-New | 0 |
+1. `handoff/chatgpt/CROSS_SAMPLE_HYPOTHESIS_MATRIX_V0_1.md`
+   - H01–H12 operational definitions
+   - support / counterexamples / alternative explanations
+   - current confidence
+   - falsification conditions
+   - next-sample needs
 
----
+2. `handoff/chatgpt/LOGIC_ARCHITECTURE_V0_3.md`
+   - six primary reasoning engines L1–L6
+   - entry types X1–X6
+   - evidence architecture E1–E6
+   - action architecture A1–A4
+   - packaging/memory devices P1–P10
+   - comprehension/save/share/comment engines
 
-## Gapfill_100 Status (RC6D - AUDITED AND REJECTED)
-
-| Item | Value |
-|------|-------|
-| Toutiao Discovered | 9 |
-| All Duplicates | Yes (per RC6D audit) |
-| CID Conflicts | 2 (7684447381258666559, 7684096740282171948) |
-| Net-New Valid | **0** |
-| Status | STOPPED per ChatGPT directive |
-
----
-
-## RC6D Audit Findings
-
-1. All 9 gapfill Toutiao CIDs were already known before RC6D
-2. Two reused CIDs have content-identity conflicts
-3. PREFETCH_DEDUPE.csv ineffective (empty per-candidate tracking)
-4. Discovery log uses generic source URL, no provenance
-5. Net-new valid candidates = 0
-
-## Decision
-
-**Stop repeated Toutiao gap-fill route.** Do not attempt another scrape/rewrite.
-
-The research program now moves to **model convergence at 85 verified logic samples**. The 100-sample target remains an open later milestone, not a blocker for first formal convergence pass.
+3. `handoff/chatgpt/GUANYU_SCRIPT_RULES_V0_1.md`
+   - 4–5 minute default spine
+   - 3–5 cognitive-gain nodes
+   - evidence and fact-status requirements
+   - visual logic mapping
+   - script QA gate
+   - topic presets
 
 ---
 
-## Current State Summary
+## Current Research Position
 
-- Verified Logic Corpus: **85/100** (confirmed)
-- Gapfill: STOPPED
-- Next Action: WAIT FOR CHATGPT SEMANTIC CONVERGENCE ANALYSIS
-- Blocker: None (awaiting semantic review, not data collection)
+The working production model is now:
+
+`one reasoning spine + one proof architecture + one action unit + one memory device`
+
+Default 4–5 minute cognition structure:
+
+`conflict/anomaly -> Question Debt -> hidden mechanism -> real evidence -> constraint/counterexample -> decision rule -> memory model -> return to opening`
+
+Ability-monetization canonical chain:
+
+`ability -> costly problem -> deliverable result -> payer -> trust -> transaction -> repeat purchase`
+
+No spoken Voice Profile is frozen yet. Toutiao article prose may inform logic/written expression only; spoken voice awaits a larger real ASR corpus.
+
+---
+
+## Next Action
+
+**PRODUCTION PROTOTYPE v0.1**
+
+Create the first Guanyu 4–5 minute pilot using the new architecture. Pilot should be evaluated against the script QA gate before production.
+
+HERMES remains paused unless ChatGPT assigns a mechanical task.
 
 ---
 
 ## Key Files
 
-- `handoff/chatgpt/CHATGPT_AUDIT_RC6D.md` - RC6D audit report
-- `handoff/chatgpt/CURRENT_STATUS.md` - This file
+- `handoff/chatgpt/CHATGPT_AUDIT_RC6D.md`
+- `handoff/chatgpt/CROSS_SAMPLE_HYPOTHESIS_MATRIX_V0_1.md`
+- `handoff/chatgpt/LOGIC_ARCHITECTURE_V0_3.md`
+- `handoff/chatgpt/GUANYU_SCRIPT_RULES_V0_1.md`
+- `handoff/chatgpt/CURRENT_STATUS.md`
