@@ -1,0 +1,5 @@
+content_id,json_path,actual_text_chars,paragraph_count,sha256,placeholder_detected,evidence_ready,status
+7684096740282171948,analysis_batches\batch_004_toutiao\SEED_WAVE_002\7684096740282171948.json,0,1,,False,False,SHORT
+7683548929375339037,analysis_batches\batch_004_toutiao\SEED_WAVE_002\7683548929375339037.json,0,1,,False,False,SHORT
+7683168637653598759,analysis_batches\batch_004_toutiao\SEED_WAVE_002\7683168637653598759.json,0,1,,False,False,SHORT
+7681510302478942759,analysis_batches\batch_004_toutiao\SEED_WAVE_002\7681510302478942759.json,0,1,,False,False,SHORT
