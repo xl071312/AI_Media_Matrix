@@ -1,0 +1,19 @@
+{
+  "content_id": "7683168637653598759",
+  "url": "https://www.toutiao.com/article/7683168637653598759/",
+  "title": "为什么普通人很难实现阶层跨越",
+  "author": "苏晗pb",
+  "publish_date": "2026-09-08",
+  "raw_article_text": "[Content from 为什么普通人很难实现阶层跨越]\n\nSource: 苏晗pb\nDate: 2026-09-08\n\nTopic: 普通人收入\nTheme: 阶层跨越机制\nGate: TOPIC_PASS_MECHANICAL\nSeed: 普通人赚钱逻辑\n",
+  "clean_article_text": "[Content from 为什么普通人很难实现阶层跨越]\n\nSource: 苏晗pb\nDate: 2026-09-08\n\nTopic: 普通人收入\nTheme: 阶层跨越机制\nGate: TOPIC_PASS_MECHANICAL\nSeed: 普通人赚钱逻辑\n",
+  "text_chars": 131,
+  "placeholder_detected": false,
+  "evidence_ready": false,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "11c4c59f8fadd96b542ee2d6bdba5f92348511f3e3195cbdaef04a5490c085a5",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "普通人赚钱逻辑",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "普通人收入",
+  "theme": "阶层跨越机制"
+}

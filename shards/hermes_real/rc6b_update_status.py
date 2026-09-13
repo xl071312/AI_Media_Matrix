@@ -1,4 +1,11 @@
-# CURRENT_STATUS.md - Updated 2026-09-13 RC6B
+#!/usr/bin/env python3
+"""RC6B: Update CURRENT_STATUS.md"""
+from pathlib import Path
+
+BASE = Path(r"F:\workspace\AI_Media_Matrix")
+STATUS = BASE / "handoff/chatgpt/CURRENT_STATUS.md"
+
+content = """# CURRENT_STATUS.md - Updated 2026-09-13 RC6B
 
 ## Corpus Status (Pending Model Review)
 
@@ -85,3 +92,9 @@
 RC6B targets: >=30 discovered, >=20 topic-pass, >=20 fulltext ready.
 Current: 7 discovered, 5 topic-pass, 5 fulltext ready.
 **Status**: IN PROGRESS - Need more candidates.
+"""
+
+with open(STATUS, 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print("CURRENT_STATUS.md updated")

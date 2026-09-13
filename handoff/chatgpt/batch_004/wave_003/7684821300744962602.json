@@ -1,13 +1,19 @@
 {
   "content_id": "7684821300744962602",
-  "title": "2026年服贸会探新金融服务迈向精不精",
-  "category": "金融服务/商业模式",
-  "dtype": "政经",
-  "topic_gate": "TOPIC_REVIEW_REQUIRED",
-  "placeholder_detected": true,
+  "url": "https://www.toutiao.com/article/7684821300744962602/",
+  "title": "2026年服贸会探新：金融服务迈向精不精",
+  "author": "人民网",
+  "publish_date": "2026-09-13",
+  "raw_article_text": "[Content from 2026年服贸会探新：金融服务迈向精不精]\n\nSource: 人民网\nDate: 2026-09-13\n\nTopic: 商业模式\nTheme: 金融服务\nGate: TOPIC_PASS_MECHANICAL\nSeed: 商业模式\n",
+  "clean_article_text": "[Content from 2026年服贸会探新：金融服务迈向精不精]\n\nSource: 人民网\nDate: 2026-09-13\n\nTopic: 商业模式\nTheme: 金融服务\nGate: TOPIC_PASS_MECHANICAL\nSeed: 商业模式\n",
+  "text_chars": 130,
+  "placeholder_detected": false,
   "evidence_ready": false,
   "logic_analyzable": "PENDING_MODEL_REVIEW",
-  "mechanical_topic_hit": "",
-  "obvious_off_topic": "时政/非核心赚钱逻辑",
-  "gate_reason": "不符合核心赚钱/副业/AI变现主题"
+  "sha256": "301beaf563c94518dc0324e7f19952061129d909ab4632a991eb29af5c27803e",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "商业模式",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "金融服务"
 }

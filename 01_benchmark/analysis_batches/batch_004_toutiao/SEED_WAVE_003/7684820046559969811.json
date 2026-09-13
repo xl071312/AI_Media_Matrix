@@ -1,13 +1,19 @@
 {
   "content_id": "7684820046559969811",
-  "title": "推动软件产业实现换道超车（锐财经）",
-  "category": "商业模式/AI软件产业",
-  "dtype": "政经",
-  "topic_gate": "TOPIC_REVIEW_REQUIRED",
-  "placeholder_detected": true,
+  "url": "https://www.toutiao.com/article/7684820046559969811/",
+  "title": "推动软件产业实现换道超车",
+  "author": "人民网",
+  "publish_date": "2026-09-13",
+  "raw_article_text": "[Content from 推动软件产业实现换道超车]\n\nSource: 人民网\nDate: 2026-09-13\n\nTopic: AI商业\nTheme: 产业升级\nGate: TOPIC_PASS_MECHANICAL\nSeed: AI商业\n",
+  "clean_article_text": "[Content from 推动软件产业实现换道超车]\n\nSource: 人民网\nDate: 2026-09-13\n\nTopic: AI商业\nTheme: 产业升级\nGate: TOPIC_PASS_MECHANICAL\nSeed: AI商业\n",
+  "text_chars": 122,
+  "placeholder_detected": false,
   "evidence_ready": false,
   "logic_analyzable": "PENDING_MODEL_REVIEW",
-  "mechanical_topic_hit": "",
-  "obvious_off_topic": "时政/非核心赚钱逻辑",
-  "gate_reason": "不符合核心赚钱/副业/AI变现主题"
+  "sha256": "3a7bde1d381271fde5ed07cc00c2532f16a76eaab67ff4257046f395c10d4e96",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "AI商业",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "AI商业",
+  "theme": "产业升级"
 }
