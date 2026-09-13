@@ -1,0 +1,15 @@
+{
+  "content_id": "guanyu_pilot_001_ability_monetization",
+  "stage": "SCRIPT_QA",
+  "format": "4-5min cognition video",
+  "topic": "为什么很多有能力的人仍然很难把能力变成收入",
+  "primary_engine": "L3_STATE_TRANSITION",
+  "secondary_engine": "L5_CONSTRAINT_OPTIMIZATION",
+  "evidence_architecture": ["E1_USER_FIRST_HAND_CASE"],
+  "action_architecture": ["A3_DECISION_RULE"],
+  "packaging": ["P7_QUESTION_DEBT", "P3_NUMBER_BREAKDOWN", "P1_MAP"],
+  "target_chars": "900-1300",
+  "status": "PROTOTYPE_V0_1",
+  "publish_authorized": false,
+  "notes": "Personal business-case numbers must be user-verified before FACT_CHECK/PUBLISH. No Voice Profile claim is made."
+}
