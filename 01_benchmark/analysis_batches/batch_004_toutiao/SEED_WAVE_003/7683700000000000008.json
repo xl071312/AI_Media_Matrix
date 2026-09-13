@@ -1,0 +1,19 @@
+{
+  "content_id": "7683700000000000008",
+  "url": "https://www.toutiao.com/article/7683700000000000008/",
+  "title": "财富认知：普通人理财的五个误区",
+  "author": "理财观察",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "普通人理财常犯的五个误区：追求高收益忽视风险、盲目跟风、频繁交易、没有应急储备、长期规划缺失。正确的财富观是理性决策、长期主义。",
+  "clean_article_text": "普通人理财常犯的五个误区：追求高收益忽视风险、盲目跟风、频繁交易、没有应急储备、长期规划缺失。正确的财富观是理性决策、长期主义。",
+  "text_chars": 64,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "8c4ef653ddeaf22ec042c6f375d3b82cf54c6ba6ab372bc1e1e1d9b1f3ef4a99",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "财富认知",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "财富认知",
+  "theme": "理财认知"
+}

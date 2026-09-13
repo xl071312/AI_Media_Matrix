@@ -1,0 +1,19 @@
+{
+  "content_id": "7683800000000000009",
+  "url": "https://www.toutiao.com/article/7683800000000000009/",
+  "title": "AI商业应用：从概念到落地的完整路径",
+  "author": "AI观察",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "AI商业落地需要明确痛点而非追逐热点。从小场景切入验证价值，逐步扩展至核心业务流程，最终实现人机协同的效率提升。",
+  "clean_article_text": "AI商业落地需要明确痛点而非追逐热点。从小场景切入验证价值，逐步扩展至核心业务流程，最终实现人机协同的效率提升。",
+  "text_chars": 56,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "8d44377eda8201807dd1905d1ebcebdd539c06a7ce63ade5d4004fe0d33e8a4f",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "AI商业",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "AI商业",
+  "theme": "AI落地"
+}

@@ -1,0 +1,19 @@
+{
+  "content_id": "7683600000000000007",
+  "url": "https://www.toutiao.com/article/7683600000000000007/",
+  "title": "渠道增长：从0到1的冷启动策略",
+  "author": "增长黑客",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "冷启动的关键是找到精准渠道而非流量最大渠道。通过内容营销、社群运营实现低成本获客，逐步放大增长曲线。",
+  "clean_article_text": "冷启动的关键是找到精准渠道而非流量最大渠道。通过内容营销、社群运营实现低成本获客，逐步放大增长曲线。",
+  "text_chars": 50,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "8934b9fe507a480d2f2f49e27052ea1ebbb2ac022803cca2da525517f9465f9c",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "渠道增长",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "渠道增长"
+}

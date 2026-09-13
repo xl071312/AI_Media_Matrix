@@ -1,0 +1,19 @@
+{
+  "content_id": "7683300000000000005",
+  "url": "https://www.toutiao.com/article/7683300000000000005/",
+  "title": "创业失败后的复盘：如何避免重复踩坑",
+  "author": "创业笔记",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "创业失败是常态，成功是偶然。关键是从失败中提炼可复用的经验，避免重复踩坑。复盘的核心是诚实面对数据，而非自我安慰。",
+  "clean_article_text": "创业失败是常态，成功是偶然。关键是从失败中提炼可复用的经验，避免重复踩坑。复盘的核心是诚实面对数据，而非自我安慰。",
+  "text_chars": 57,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "9614287f4411c492c6a2ca258c8881e04568c8c3414a4acc35db7532fe571e45",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "创业失败",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "创业复盘"
+}

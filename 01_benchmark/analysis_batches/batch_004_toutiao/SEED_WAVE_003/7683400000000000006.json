@@ -1,0 +1,19 @@
+{
+  "content_id": "7683400000000000006",
+  "url": "https://www.toutiao.com/article/7683400000000000006/",
+  "title": "供应链管理：从成本中心到价值中心",
+  "author": "供应链专家",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "优秀的供应链管理不是压价，而是建立长期价值共创关系。通过优化库存周转、降低履约成本，实现从成本中心到价值中心的转变。",
+  "clean_article_text": "优秀的供应链管理不是压价，而是建立长期价值共创关系。通过优化库存周转、降低履约成本，实现从成本中心到价值中心的转变。",
+  "text_chars": 58,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "a031678d2a739f3dffc57fd8824ced4f421dd5a1b51d0075db8f7475d39baad3",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "供应链",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "供应链"
+}
