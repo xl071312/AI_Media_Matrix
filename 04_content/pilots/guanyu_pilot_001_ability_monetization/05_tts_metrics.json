@@ -1,0 +1,13 @@
+{
+  "script_sha256": "846b1518eee2700cba64829ad80324254e137e06d92981370fae05ee869cf105",
+  "tts_config_source": "edge-tts (system default)",
+  "voice_id": "zh-HK-HiuGaaiNeural",
+  "speed": null,
+  "char_count": 1420,
+  "punctuation_count": 156,
+  "paragraph_count": 60,
+  "duration_seconds": 425.1,
+  "duration_gate_label": "TTS_DURATION_FAIL_LONG",
+  "generated_at": "2026-09-13T06:34:21.596621",
+  "publish_authorized": false
+}
