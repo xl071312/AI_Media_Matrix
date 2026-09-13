@@ -1,0 +1,19 @@
+{
+  "content_id": "7683110588213363240",
+  "url": "https://www.toutiao.com/article/7683110588213363240/",
+  "title": "源氏木语：用户痛点驱动的品牌信任迁移",
+  "author": "混沌学园",
+  "publish_date": "2026-09-05",
+  "raw_article_text": "源氏木语专注实木家具，以用户痛点为驱动建立品牌信任。从产品细节到服务体验，逐步构建差异化竞争力。",
+  "clean_article_text": "源氏木语专注实木家具，以用户痛点为驱动建立品牌信任。从产品细节到服务体验，逐步构建差异化竞争力。",
+  "text_chars": 48,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "188f10af49e0c5ebc46b1c6c60194f6a881e3905b74a1d38abe63c76006eb3ca",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "商业模式",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "品牌信任"
+}
