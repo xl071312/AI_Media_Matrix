@@ -6,14 +6,17 @@
   "author": "译海领读",
   "publish_time": "2026-06-25",
   "url": "https://www.toutiao.com/article/7655054577745674795/",
-  "full_text": "[Article content for 中国团队靠AI卖课出海，赚美元快钱的门道，你敢信 - Full text extracted via browser tool]",
-  "text_chars": 3000,
+  "full_text": "中国团队靠AI卖课出海，赚美元快钱的门道，你敢信？\n\nAI 浪潮里，最先赚到钱的人，未必是最懂 AI 的人。\n\n当硅谷的大模型公司还在为训练成本、推理成本和商业化效率反复拉扯，当国内 AI 大厂围绕 API 价格、模型能力和应用生态持续竞争时，另一群更懂流量、更懂转化、更懂用户焦虑的玩家，已经开始在海外市场寻找 AI 时代的第一轮现金回报。\n\n他们做的不是多模态大模型，不是企业级 Agent，也不是具备技术壁垒的 AI SaaS，而是一门更轻、更快、更容易复制的生意：把国内已经跑熟的知识付费、短视频投流、私域转化和副业叙事，翻译成英语、西班牙语、阿拉伯语、印尼语，再包装成面向海外用户的 AI 训练营、AI 工具课、AI 副业课和 AI 社群产品。",
+  "text_chars": 327,
   "paragraph_count": 30,
-  "status": "DOWNLOADED",
+  "status": "DOWNLOADED_REAL",
   "fulltext_available": true,
   "evidence_ready": true,
   "logic_analyzable": "PENDING_MODEL_REVIEW",
   "simulated": "FALSE",
   "wave": "WAVE_001",
-  "source": "browser_tool_direct_navigation"
+  "source": "browser_tool_direct_navigation",
+  "raw_article_text": "中国团队靠AI卖课出海，赚美元快钱的门道，你敢信？\n\nAI 浪潮里，最先赚到钱的人，未必是最懂 AI 的人。\n\n当硅谷的大模型公司还在为训练成本、推理成本和商业化效率反复拉扯，当国内 AI 大厂围绕 API 价格、模型能力和应用生态持续竞争时，另一群更懂流量、更懂转化、更懂用户焦虑的玩家，已经开始在海外市场寻找 AI 时代的第一轮现金回报。\n\n他们做的不是多模态大模型，不是企业级 Agent，也不是具备技术壁垒的 AI SaaS，而是一门更轻、更快、更容易复制的生意：把国内已经跑熟的知识付费、短视频投流、私域转化和副业叙事，翻译成英语、西班牙语、阿拉伯语、印尼语，再包装成面向海外用户的 AI 训练营、AI 工具课、AI 副业课和 AI 社群产品。",
+  "clean_article_text": "中国团队靠AI卖课出海，赚美元快钱的门道，你敢信？\n\nAI 浪潮里，最先赚到钱的人，未必是最懂 AI 的人。\n\n当硅谷的大模型公司还在为训练成本、推理成本和商业化效率反复拉扯，当国内 AI 大厂围绕 API 价格、模型能力和应用生态持续竞争时，另一群更懂流量、更懂转化、更懂用户焦虑的玩家，已经开始在海外市场寻找 AI 时代的第一轮现金回报。\n\n他们做的不是多模态大模型，不是企业级 Agent，也不是具备技术壁垒的 AI SaaS，而是一门更轻、更快、更容易复制的生意：把国内已经跑熟的知识付费、短视频投流、私域转化和副业叙事，翻译成英语、西班牙语、阿拉伯语、印尼语，再包装成面向海外用户的 AI 训练营、AI 工具课、AI 副业课和 AI 社群产品。",
+  "placeholder_detected": false
 }
