@@ -1,0 +1,11 @@
+{
+  "duration_sec": 177.3,
+  "asr_segment_count": 126,
+  "total_chars": 1112,
+  "chars_per_sec": 6.27,
+  "first_person_count": 6,
+  "second_person_count": 52,
+  "number_count": 2,
+  "question_marker_count": 0,
+  "transcript_sha256": "5eee9d50b1a1223b"
+}

@@ -1,0 +1,20 @@
+{
+  "duration_sec": 170.2,
+  "segment_count": 99,
+  "total_chars": 864,
+  "chars_per_sec": 5.08,
+  "sentence_count": 1,
+  "avg_sentence_chars": 864.0,
+  "median_sentence_chars": 864,
+  "short_sentence_ratio": 0.0,
+  "long_sentence_ratio": 1.0,
+  "question_count": 0,
+  "question_rate": 0.0,
+  "first_person_count": 7,
+  "second_person_count": 31,
+  "transition_count": 4,
+  "contrast_count": 0,
+  "example_count": 0,
+  "number_count": 4,
+  "filler_count": 21
+}

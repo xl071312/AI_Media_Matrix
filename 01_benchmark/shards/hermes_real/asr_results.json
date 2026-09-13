@@ -1,0 +1,27 @@
+[
+  {
+    "id": "7302348364815928612",
+    "status": "FAIL",
+    "error": "Unable to open file 'model.bin' in model 'base'"
+  },
+  {
+    "id": "7378948118584282394",
+    "status": "FAIL",
+    "error": "Unable to open file 'model.bin' in model 'base'"
+  },
+  {
+    "id": "7525683513706810682",
+    "status": "FAIL",
+    "error": "Unable to open file 'model.bin' in model 'base'"
+  },
+  {
+    "id": "7543846940678589723",
+    "status": "FAIL",
+    "error": "Unable to open file 'model.bin' in model 'base'"
+  },
+  {
+    "id": "7546212425998454074",
+    "status": "FAIL",
+    "error": "Unable to open file 'model.bin' in model 'base'"
+  }
+]

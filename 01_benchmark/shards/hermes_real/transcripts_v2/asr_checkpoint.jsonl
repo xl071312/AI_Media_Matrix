@@ -1,0 +1,12 @@
+{"content_id": "7441108716197301519", "status": "DONE", "segments": 72, "chars": 542, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:45:08.410599"}
+{"content_id": "7477191872570477839", "status": "DONE", "segments": 157, "chars": 1731, "chunks": 2, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:45:47.732894"}
+{"content_id": "7511664213547519243", "status": "DONE", "segments": 135, "chars": 1367, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:46:05.419586"}
+{"content_id": "7559914938827803950", "status": "DONE", "segments": 821, "chars": 6266, "chunks": 5, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:47:13.327615"}
+{"content_id": "7564348993203948810", "status": "DONE", "segments": 874, "chars": 5847, "chunks": 4, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:48:12.294540"}
+{"content_id": "7584407684042165541", "status": "DONE", "segments": 142, "chars": 1811, "chunks": 2, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:48:30.909468"}
+{"content_id": "7592567871297932582", "status": "DONE", "segments": 93, "chars": 540, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:48:38.657532"}
+{"content_id": "7599188562650734516", "status": "DONE", "segments": 400, "chars": 3195, "chunks": 3, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:49:17.019581"}
+{"content_id": "7600369823520073126", "status": "DONE", "segments": 281, "chars": 2175, "chunks": 2, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:49:41.328982"}
+{"content_id": "7647446230122356665", "status": "DONE", "segments": 145, "chars": 1066, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:49:54.406307"}
+{"content_id": "7666798588350065338", "status": "DONE", "segments": 89, "chars": 1116, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:50:06.063897"}
+{"content_id": "7673172635974421760", "status": "DONE", "segments": 164, "chars": 1452, "chunks": 1, "chunk_failures": 0, "device": "cpu", "timestamp": "2026-09-10T17:50:22.178621"}

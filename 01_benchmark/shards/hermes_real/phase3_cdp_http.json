@@ -1,0 +1,8 @@
+{
+  "cdp_http": "PASS",
+  "chrome_version": "Chrome/152.0.7977.76",
+  "websocket_url": "ws://127.0.0.1:9222/devtools/browser/59ce87f6-2469-46fc-9e8d-1c5a4b5cf8d5",
+  "open_pages": 102,
+  "douyin_pages": true,
+  "timestamp": "2026-09-07T02:40:00+08:00"
+}

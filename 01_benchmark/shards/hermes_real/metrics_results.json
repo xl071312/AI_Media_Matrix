@@ -1,0 +1,23 @@
+[
+  {
+    "content_id": "7302348364815928612",
+    "status": "PASS",
+    "duration_sec": 205.24,
+    "total_chars": 973,
+    "sentence_count": 1
+  },
+  {
+    "content_id": "7378948118584282394",
+    "status": "PASS",
+    "duration_sec": 617.3,
+    "total_chars": 4670,
+    "sentence_count": 1
+  },
+  {
+    "content_id": "7525683513706810682",
+    "status": "PASS",
+    "duration_sec": 435.48,
+    "total_chars": 1568,
+    "sentence_count": 1
+  }
+]

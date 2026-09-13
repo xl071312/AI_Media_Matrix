@@ -1,0 +1,22 @@
+{
+  "content_id": "7302348364815928612",
+  "aweme_id": "7302348364815928612",
+  "url": "https://www.douyin.com/video/7302348364815928612",
+  "creator_id": "男***門",
+  "creator_name": "男***門",
+  "title": "从1到100万 普通人第一桶金",
+  "viral_type": "ABSOLUTE_VIRAL",
+  "sample_role": "ABSOLUTE_VIRAL",
+  "duration_sec": 205.37,
+  "likes": 1112455,
+  "comments": 61476,
+  "favorites": 279069,
+  "shares": 493633,
+  "capture_time": "2026-09-08T06:40:20.389628",
+  "metadata_source": "MEDIACRAWLER_REAL_CDP",
+  "video_path": "F:\\workspace\\AI_Media_Matrix\\10_automation\\benchmark_collector\\MediaCrawler\\data\\douyin\\videos\\7302348364815928612\\video.mp4",
+  "asr_segments": 111,
+  "timestamp_valid": true,
+  "last_timestamp": 205.24,
+  "transcript_sha256": "63fdb916475cd05d"
+}

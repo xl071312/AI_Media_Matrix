@@ -1,0 +1,7 @@
+{
+  "content_id": "7647797848847439706",
+  "status": "NOT_AVAILABLE",
+  "reason": "ArgusSecurityPlugin blocked Creator API",
+  "fallback_attempted": true,
+  "dom_fallback_status": "PARTIAL"
+}

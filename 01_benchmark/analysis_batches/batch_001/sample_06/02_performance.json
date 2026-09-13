@@ -1,0 +1,9 @@
+{
+  "likes": "NULL",
+  "comments": "NULL",
+  "favorites": "NULL",
+  "shares": "NULL",
+  "favorite_like_ratio": "NULL",
+  "share_like_ratio": "NULL",
+  "comment_like_ratio": "NULL"
+}

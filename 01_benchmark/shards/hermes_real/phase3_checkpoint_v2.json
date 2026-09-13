@@ -1,0 +1,27 @@
+{
+  "phase": "PHASE_3_IN_PROGRESS",
+  "timestamp": "2026-09-07T23:45:00+08:00",
+  "cdp_http": "PASS",
+  "cdp_websocket": "PASS",
+  "search_api": "PASS",
+  "search_new_records": 562,
+  "creator_api": "RUNNING",
+  "detail_api": "RUNNING",
+  "video_download": "PASS",
+  "videos_downloaded": 7,
+  "creator_baseline_done": 0,
+  "real_spoken_done": 0,
+  "timed_transcript_done": 0,
+  "deep_analysis_done": 0,
+  "placeholder_upgraded": 0,
+  "argus_blocked": false,
+  "blockers": [],
+  "data_preserved": {
+    "raw_pool_old": 414,
+    "raw_pool_new": 562,
+    "total_raw": 976,
+    "selection": 100,
+    "deep_batch": 30,
+    "simulated": 0
+  }
+}

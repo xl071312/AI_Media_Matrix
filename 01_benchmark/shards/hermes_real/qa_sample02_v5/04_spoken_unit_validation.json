@@ -1,0 +1,9 @@
+{
+  "unit_count": 18,
+  "segment_coverage": 99,
+  "max_duration": 12.72,
+  "units_over_15s": 0,
+  "units_over_25s": 0,
+  "all_segments_covered": true,
+  "no_duplicates": true
+}

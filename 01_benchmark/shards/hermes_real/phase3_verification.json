@@ -1,0 +1,16 @@
+{
+  "cdp_accessible": true,
+  "raw_pool_records": 414,
+  "selection_records": 100,
+  "deep_batch_records": 30,
+  "metrics_files": 30,
+  "templates_files": 30,
+  "transcripts_placeholder": 30,
+  "simulated_data": 0,
+  "blockers": [
+    "CREATOR_API: ArgusSecurityPlugin blocked",
+    "DETAIL_API: ArgusSecurityPlugin blocked",
+    "SEARCH: Session expired (returns empty)"
+  ],
+  "chrome_version": "Chrome/152.0.7977.76"
+}

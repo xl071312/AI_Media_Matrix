@@ -1,0 +1,1010 @@
+{
+  "timestamp": "2026-09-10T04:42:44.364533",
+  "total_new": 100,
+  "on_topic_count": 77,
+  "off_topic_count": 23,
+  "on_topic": [
+    {
+      "cid": "DY_REAL_7525683513706810682",
+      "title": "7个挣钱的铁律 温州人几代人的经验 希望可以给您帮助",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 98.99,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7439645541958552844",
+      "title": "00后大学生勇闯社会第一年#勇闯职场 #永不止步  #自强不息 #人穷志不穷 #人穷 #毕业生的精选 #好好毕业慢慢告别",
+      "source_keyword": "普通人收入",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 98.54,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7293036400465726783",
+      "title": "四个阶段：对钱有概念 花钱有概念 攒钱有概念 搞钱有概念 #赚钱思维",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 97.56,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7577322313134132520",
+      "title": "年轻人一定不要超前消费，要端正自己的消费观 #人生感悟 #情感共鸣 #认知 #存钱",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 97.36,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7600369823520073126",
+      "title": "悟了#如何花钱 #消费观",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 97.07,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7450364063030267151",
+      "title": "理想冰箱杯架创业过程分享. 关于我用8000块，在半年内赚到130万这事，毫无保留分享。\n#努力赚钱才是硬道理 #搞钱 #分享创业干货 #赚钱思维 #戚越",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (6 keywords)",
+      "performance_score": 96.53,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7540234540556619058",
+      "title": "对钱没概念这件事，真的会摧毁一个人的人生。 #人生感悟 #情感共鸣 #经济 #存钱",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 96.22,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7591984049339256177",
+      "title": "一瓶水带你搞懂赚钱的真相 水的3种卖法，决定了你一辈子的财富水平 #经济学 #商业逻辑 #财富思维 #认知觉醒 #AI创作浪潮计划",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (6 keywords)",
+      "performance_score": 95.31,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7479008308989316361",
+      "title": "年轻人如何赚到一笔大钱呢？如何从1万开始积累自己的财富 #财富 #财富自由 #赚钱",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 95.25,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7673172635974421760",
+      "title": "被人怼时一秒回击：别解释，一开口你就输了 #个人成长 #职场那些事 #职场反击 #职场干货 #认知觉醒",
+      "source_keyword": "职场",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 94.99,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7546212425998454074",
+      "title": "除了打工，用心给大家整理了16条路. 建议点赞收藏，欢迎评论区一起交流.#未来发展方向 #认知变现 #打工人逆袭",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 93.84,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7564348993203948810",
+      "title": "人一旦掌握了赚钱思维，钱就会源源不断地流向你 #超级个体 #副业",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 92.71,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7473417086673440012",
+      "title": "2025年，最应该提升的是赚钱能力#搞钱 #商业思维 #提升自己 #女性独立 #认知",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (7 keywords)",
+      "performance_score": 91.49,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7636452871718385906",
+      "title": "让我们打破短视频信息茧房#学习成长#思维训练 #认知提升 #信息茧房",
+      "source_keyword": "信息差",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 91.46,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7378948118584282394",
+      "title": "赚钱这事儿原理很简单不需要花钱买课 #科普 #知识 #商业思维 #金金乐道 #掘金计划2024 @金金乐道家",
+      "source_keyword": "搞钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 90.93,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7664587315726338697",
+      "title": "来了义乌才知道，原来自己生活在巨大的信息差里，刷新了我对赚钱的认知。#义乌 #义乌小商品 #世界工厂",
+      "source_keyword": "信息差",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 90.86,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7513092150196702476",
+      "title": "同志们，警惕消费主义陷阱 #植物大战僵尸 #消费主义 #拒绝定义 #马哲",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 90.83,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7583723020817124662",
+      "title": "查理芒格：慢富即永恒 慢富不是保守，是普通人对抗风险的智慧。财富不是你赚了多少，而是你能在风暴中站多久。#查理芒格#富人思维 #财务自由#赚钱思维 #抖音知识年终大赏",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (7 keywords)",
+      "performance_score": 90.52,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7477191872570477839",
+      "title": "消费陷阱来自资本的阴谋 #财经 #经济 #消费 #消费陷阱 #资本",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 89.81,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7647797848847439706",
+      "title": "普通人如何靠卖货翻身 #成长#认知",
+      "source_keyword": "副业",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 77.38,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7218880148861390118",
+      "title": "普通人需要多久才能赚够100万？#钱#赚钱#暴富#涨知识#冷知识#商业#轻漫计划 ",
+      "source_keyword": "普通人收入",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 77.26,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7647446230122356665",
+      "title": "创业首先是思维问题#创业 #思维 #认知",
+      "source_keyword": "创业失败",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 77.26,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7000743196867267871",
+      "title": "拆掉消费主义陷阱，拒绝洗脑，拒绝支配。#消费 #负债 ",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 77.15,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7599188562650734516",
+      "title": "金价暴涨，最大的受益者是谁？#揭秘 #黄金 #财经 #万万想不到 #艾羽西",
+      "source_keyword": "黄金回收",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 77.09,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7578347796505807729",
+      "title": "消费主义陷阱针对的就是你🫵，赶紧存钱#存钱 #攒钱 #赚钱 #消费 #陷阱",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 76.99,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7601115910648900027",
+      "title": "用豆包带我赚点小💰的邪修方法，全程免费。 #AI #搞钱 #干货 #个人成长 #抖音职场茶水间",
+      "source_keyword": "AI赚钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 76.38,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7584407684042165541",
+      "title": "一人说一个消费陷阱，我先来20个 #变美 #消费陷阱",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 76.35,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7592567871297932582",
+      "title": "老板的“艰辛”谁能懂？#个体户 #老板 #生意 #金融 #商业思维 ",
+      "source_keyword": "创业失败",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (6 keywords)",
+      "performance_score": 76.27,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7441108716197301519",
+      "title": "不要盲目创业，不然只会是不归路#商业思维 #创业 #老板思维 #行业秘密 #创业日记",
+      "source_keyword": "创业失败",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 76.23,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7672348685107679924",
+      "title": "年入千万=1万个人，每人每天心甘情愿给你20块\n#商业模式#搞钱#财富思维#赚钱#认知",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (8 keywords)",
+      "performance_score": 76.04,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7553519369038351667",
+      "title": "你的收入，在哪一级？ 数据来源：中金，月收入指家庭人均收入#内容太过真实 #收入 #金融常识 #商业思维 #掘金计划2025",
+      "source_keyword": "普通人收入",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 75.93,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7640403389876850152",
+      "title": "高估了自己的实力，错走了一步棋，落得个现在的下场，伪中产 #中产家庭 #高估自己 #买房 #人到中年 #后悔了",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 75.8,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7583876535636561215",
+      "title": "",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 75.69,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_6899414351829126413",
+      "title": "三件不注意就会倾家荡产的事，99%的人都接触过#投基不投机 #财经 #骗局",
+      "source_keyword": "加盟避坑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 75.07,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7545511555866119458",
+      "title": "普通女生快速搞钱的，20个邪修野路子 #搞钱 #女性成长 #安娜Plus #商业思维 #女性创业",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (6 keywords)",
+      "performance_score": 74.69,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7661964878575619368",
+      "title": "会存钱是人生破局的关键。 #存钱 #认知 #财富思维 #财经 #人生感悟",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 73.64,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7639944588144250138",
+      "title": "你工作的最大问题就是效率太高了 #职场 #上班 #领导 #打工",
+      "source_keyword": "职场",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 73.13,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7526167695562607887",
+      "title": "自媒体搞钱经验，五年博主说点真心话！ #乐仔Levi #暑期逆袭 #自媒体 #搞钱才是王道",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 72.96,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7532810970830327082",
+      "title": "中产如何避免返贫 #中产 #涨知识 #经济",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 60.24,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7513150827680795913",
+      "title": "为什么有些老板撑不过破产？也许不仅仅是钱的问题... #生意难做 #破产 #老赖 #创业思维 #赔钱",
+      "source_keyword": "创业失败",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 59.98,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7620749490244291886",
+      "title": "不上班怎么赚钱，8 种靠谱搞钱法，放下自我，抓住别人的需求。 #girlstalk#女性成长#冯大眼#赚钱思维",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 59.67,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7475716554173254947",
+      "title": "消费降级？错！春天来了 #消费降级最明显的现象 #老百姓关心的话题 #金融 #高晴",
+      "source_keyword": "消费降级",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 59.25,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7656743763552800015",
+      "title": "信息差，是普通人最便宜的杠杆，想翻盘，先把这几个看明白#财经 #政策 #认知",
+      "source_keyword": "信息差",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 58.64,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7557677477662788890",
+      "title": "别再用赚钱很难的借口 来掩盖你不敢开始的懦弱 #赚钱思维",
+      "source_keyword": "搞钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 58.57,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7430029536101682442",
+      "title": "消费降级，智商回归#内容过于真实 #情感共鸣 #消费降级",
+      "source_keyword": "消费降级",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 58.22,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7529799358624107811",
+      "title": "你说最近真的是在消费降级么？ #OLAY黑管精华",
+      "source_keyword": "消费降级",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 58.2,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7627522561143737650",
+      "title": "卖 AI token 毛利率 92%，但大部分人赚不到钱 #AI #AI赚钱 #商业思维 #创业 #Bridge聊AI",
+      "source_keyword": "AI赚钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 57.95,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7552461908918406450",
+      "title": "吐血整理，我们公司使用过的工具分享 如何让AI替我们打工赚钱\n#分享创业干货 #一人公司 #AI工具 #经验分享",
+      "source_keyword": "AI赚钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 57.91,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_6972484161688833292",
+      "title": "招商加盟到底会有多赚钱？（一家38万，五百家你能算过来这个帐么）#加盟",
+      "source_keyword": "加盟避坑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 57.79,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7637526701592815434",
+      "title": "不管在哪里上班，都要牢记这15句话。#职场#打工人#职场干货 #职场生存法则",
+      "source_keyword": "职场",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 57.55,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7608515921166552558",
+      "title": "普通人如何在下班之后做点副业 #每天跟我涨知识 #边画边写讲知识 #职场 #职场那些事 #职场干货",
+      "source_keyword": "副业",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 57.43,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7631183865323440037",
+      "title": "普通人逆袭 打工混日子是为了赚更多的钱#普通人 #赚钱思维 #认知提升 #ray充电站",
+      "source_keyword": "普通人翻身",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 57.22,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7389892716445846834",
+      "title": "一直存在的加盟陷阱，想创业的人一定要警惕 #反诈 #一本正经胡说八道#上上参谋",
+      "source_keyword": "加盟避坑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 57.16,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7327874463364615435",
+      "title": "没有背景 没有人脉 想翻身就一条路",
+      "source_keyword": "信息差",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 56.2,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7618440419327817704",
+      "title": "有钱人家的小孩从小就懂！0基础财商入门！ #财商 #存钱 #理财小白",
+      "source_keyword": "投资认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 55.62,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "SAVE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7595829485392432394",
+      "title": "85-95，真的太生不逢时了。 #8090后 #中产 #认知",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 55.43,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7331268719294942516",
+      "title": "中产到底怎么了？#过年回家#消费#中产#经济#国货",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 54.88,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7449714164832029961",
+      "title": "月入5000以上，已经超过全国95%的人了。#老百姓关心的话题 #当代打工人现状",
+      "source_keyword": "普通人收入",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 54.35,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7355350481545202953",
+      "title": "#日常唠嗑 #消费观 #消费降级 #我要上热门 #水果人的日常 2024不在追求高端奢侈，追求的是性价比了@抖音创作者中心",
+      "source_keyword": "消费降级",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 54.23,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7091848258103921934",
+      "title": "第638期：未来两年，中产，会返贫吗？活下去才是硬道理！#中产 #房贷 #就业 #裁员 #韩秀云 ",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 53.94,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7664590011446199141",
+      "title": "想翻身，就记住这3句话\n#负债#创业#赚钱#翻身#上岸",
+      "source_keyword": "普通人翻身",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 53.91,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7643008320555568355",
+      "title": "财务自由，就这三步 #财富 #认知 #vlog十亿流量扶持计划 一起来聊聊",
+      "source_keyword": "投资认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 31.45,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7652683577976491273",
+      "title": "人力、资本、资产三大杠杆，掌握才能跳出拿时间换钱，实现稳定被动收入！#赚钱思维 #认知 #创业 #老板思维 #认知",
+      "source_keyword": "能力变现",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (9 keywords)",
+      "performance_score": 31.05,
+      "sample_role": "CONTROL",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7680035972225977606",
+      "title": "13岁女孩用AI三天赚1.8万，她咋做到的？ #大有学问 #roblox #创业 #强者思维 #满级小孩",
+      "source_keyword": "AI赚钱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 30.47,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7539166936341515520",
+      "title": "大部分年轻人都掉进了消费陷阱 #消费陷阱  #国学文化 #人生感悟 #女性智慧 #悟人生之道",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 30.33,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7641861213336505636",
+      "title": "2026小白创业，千万别碰这些项目。#餐饮加盟 #餐饮创业 #开店 #避坑指南 #创业",
+      "source_keyword": "加盟避坑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 30.17,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7503135508731284796",
+      "title": "隐形贫困中产…#薇观察 #隐形贫困中产 #掘金计划2025 #抖音热评",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 29.61,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7593232881871326499",
+      "title": "夜之城的中产阶级过的好吗？ #赛博朋克2077",
+      "source_keyword": "中产焦虑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 29.38,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "NORMAL_REFERENCE"
+    },
+    {
+      "cid": "DY_REAL_7667977090729868122",
+      "title": "千万不要干奶茶加盟不然后悔一辈子 千万不要干奶茶加盟不然后悔一辈子#奶茶加盟#割韭菜#套路#奶茶行业#茶饮",
+      "source_keyword": "加盟避坑",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 29.34,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7572894561601931135",
+      "title": "普通人为何难翻身？#普通人  #财经 #知识分享 #掘金计划2025 #硬核深度计划",
+      "source_keyword": "普通人翻身",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 29.13,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7572089542825318883",
+      "title": "本视频即将遭到资本家连夜封杀 #消费陷阱 #消费主义 #内容过于真实",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 28.6,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_6979603337406582023",
+      "title": "消费主义的陷阱，看完你就知道该怎么做了。#消费 #涨知识 #财富",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 28.54,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7625998400923651371",
+      "title": "什么是消费主义陷阱？ #经济 #奇怪的知识增加了 #经济学 #金融 #知识分享",
+      "source_keyword": "消费陷阱",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 28.3,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7636720794030544794",
+      "title": "比金钱更值钱的，是时间和自由#认知#赚钱#财富 #金融常识",
+      "source_keyword": "财富认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (5 keywords)",
+      "performance_score": 28.04,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7648307131724234734",
+      "title": "为什么很多人创业最后成了“旺铺转让”？#创业#赚钱思维#创业思维",
+      "source_keyword": "创业",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (3 keywords)",
+      "performance_score": 28.0,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7647137802966985158",
+      "title": "创业失败的原因#创业 #经验分享 #避坑指南",
+      "source_keyword": "创业失败",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (2 keywords)",
+      "performance_score": 27.86,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7403301986499611940",
+      "title": "弄明白投资中的“不可能三角”#投资#理财#财经知识",
+      "source_keyword": "投资认知",
+      "on_topic": true,
+      "topic_reason": "ON_TOPIC (4 keywords)",
+      "performance_score": 27.67,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "NORMAL_REFERENCE"
+    }
+  ],
+  "off_topic": [
+    {
+      "cid": "DY_REAL_7533123064641506579",
+      "title": "《关于同事外卷这件事》 #内容过于真实  #办公室搞笑#至尊洗衣精华 #快洗洗衣液  #遇见至尊净享一生",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 搞笑",
+      "performance_score": 99.76,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7351254246710463755",
+      "title": "醍醐灌顶！本打工人已经将这段话刻进脑子里了！#电影银河写手",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 电影",
+      "performance_score": 99.55,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7666798588350065338",
+      "title": "我现在看到了满地商机。 #AI #商机 #自媒体",
+      "source_keyword": "信息差",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 96.41,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7559914938827803950",
+      "title": "很多人30岁了还不会上班: 不要在草台班子里拼命努力 #职场 #个人成长 #裸辞 #夏鹏 #姜dora",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 96.2,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7590019669398932763",
+      "title": "#每日分享 #内容太过真实 #日常唠嗑 #下大雪 #真实生活分享计划",
+      "source_keyword": "普通人收入",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 95.69,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_7256352085086571837",
+      "title": "欢迎收看《我的“消费降级”》\n#生活碎片 #消费降级 #平替 #洞洞鞋 #夏季穿搭",
+      "source_keyword": "消费降级",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 穿搭",
+      "performance_score": 90.36,
+      "sample_role": "ABSOLUTE_VIRAL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;ABSOLUTE_VIRAL"
+    },
+    {
+      "cid": "DY_REAL_6902671869661515019",
+      "title": "多数人负债，都因为这3个原因!",
+      "source_keyword": "创业失败",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 76.76,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7511664213547519243",
+      "title": "创业者们的集体迷茫和无措 #创业 #创业者 #工厂老板 #烘焙人的日常 #化妆品工厂",
+      "source_keyword": "创业失败",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 化妆",
+      "performance_score": 76.51,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7575727121427926298",
+      "title": "《职高生找兼职，用好这几个方法，店长抢着要！》 职高生周末别躺平！线上APP+线下扫街，我用亲身经历总结了最高效的找兼职流程和面试话术，都在视频里了。觉得有用记得点赞收藏，下次找工作时翻出来看！#职高",
+      "source_keyword": "副业",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 75.19,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7659251408893868913",
+      "title": "虽然赚的不多，但是我相信只要努力日子总会越来越好#知足#幸福#婚后生活#女性智慧#日常唠嗑",
+      "source_keyword": "普通人收入",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 75.0,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7576993270014674661",
+      "title": "创业8年教会我，你是个女孩子，赚💰是你唯一能抬起头的事，即使没有清晨熬好的粥也没有灯火通明的家，你也应该对自己的人生负责#创业女人",
+      "source_keyword": "创业",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 74.05,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7651175704382037091",
+      "title": "职场里是怎么看出来一个人工作能力很差的 #上班后才懂的事 #职场这课我来讲 #干货都在这 #职场干货 #职场菜鸟必看",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 73.43,
+      "sample_role": "RELATIVE_BREAKOUT",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;RELATIVE_BREAKOUT"
+    },
+    {
+      "cid": "DY_REAL_7629438426090296251",
+      "title": "负债不可怕，可怕的是你不再相信自己#年轻人创业 #创业失败 #低谷期  #情感共鸣 #重新振作",
+      "source_keyword": "创业失败",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 30.77,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7619938149996694838",
+      "title": "为什么劝你别盲目创业？ #青年创作者成长计划  #齐猫要术  #经济  #金融  #买房",
+      "source_keyword": "创业",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 猫",
+      "performance_score": 28.65,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7651572123555334883",
+      "title": "重新出发 #创业失败 #负债 #普通人生活 #从头再来 #真实日常",
+      "source_keyword": "创业失败",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 27.91,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7663772500710477071",
+      "title": "普通人的实际月收入是多少？ #收入 #老百姓关心的话题 #内容过于真实 #潮汕奶爸",
+      "source_keyword": "普通人收入",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 27.64,
+      "sample_role": "CONTROL",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY;CONTROL"
+    },
+    {
+      "cid": "DY_REAL_7582661454537739539",
+      "title": "大家问干啥了创业能赔这么多，看到最后你就知道我到底有多蠢了#负债 #创业失败",
+      "source_keyword": "创业失败",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 60.42,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7673952284586849765",
+      "title": "女性职场必看的几条建议 #girlstalk女性成长 #职场女生必备 #女生职场力 #职场女生干货 #高级职场女性",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 60.36,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7662612278332200357",
+      "title": "咱们普通人都生活都差不多！ #内容过于真实 #每日分享",
+      "source_keyword": "普通人收入",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 60.06,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7578046186452908401",
+      "title": "你穷的时候该怎么去翻身呢，记住这八点，你将会越来越好#翻身#真相#现实",
+      "source_keyword": "普通人翻身",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 58.49,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7615502207852724089",
+      "title": "如果你变成单位里最忙的人，要怎么调整？ 如果你变成单位里最忙的人，要怎么调整？ #女性成长 #职场女性 #职场 #抖音职场茶水间 #职场干货",
+      "source_keyword": "职场",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 57.64,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_6828488481807879435",
+      "title": "穷人怎么翻身？只需要记住这一件事！ @Dou热门  #钱",
+      "source_keyword": "普通人翻身",
+      "on_topic": false,
+      "topic_reason": "NO_TOPIC_SIGNALS",
+      "performance_score": 56.7,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SHARE_HEAVY"
+    },
+    {
+      "cid": "DY_REAL_7630779557494625641",
+      "title": "技术红利：Ai时代财富逻辑#财经#科技#财富 #零距离看懂财经 #科技",
+      "source_keyword": "AI赚钱",
+      "on_topic": false,
+      "topic_reason": "OFF_TOPIC: 科技",
+      "performance_score": 56.18,
+      "sample_role": "NORMAL_REFERENCE",
+      "viral_type": "COMMENT_HEAVY;SAVE_HEAVY;SHARE_HEAVY"
+    }
+  ]
+}

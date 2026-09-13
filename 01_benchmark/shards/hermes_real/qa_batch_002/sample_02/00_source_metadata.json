@@ -1,0 +1,21 @@
+{
+  "content_id": "7647797848847439706",
+  "aweme_id": "7647797848847439706",
+  "url": "https://www.douyin.com/video/7647797848847439706",
+  "creator_id": "辉***累",
+  "creator_name": "辉***累",
+  "title": "普通人如何靠卖货翻身",
+  "viral_type": "RELATIVE_BREAKOUT",
+  "sample_role": "RELATIVE_BREAKOUT",
+  "duration_sec": 170.2,
+  "likes": 144012,
+  "comments": 16989,
+  "favorites": 56538,
+  "shares": 26515,
+  "capture_time": "2026-09-08T03:30:00+08:00",
+  "metadata_source": "MEDIACRAWLER_REAL_CDP",
+  "video_path": "F:\\workspace\\AI_Media_Matrix\\10_automation\\benchmark_collector\\MediaCrawler\\data\\douyin\\videos\\7647797848847439706\\video.mp4",
+  "asr_segments": 99,
+  "timestamp_valid": true,
+  "last_timestamp": 170.2
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "1788772687",
+  "cdp": {
+    "status": "PASS",
+    "error": "",
+    "chrome_version": "Chrome/152.0.7977.76"
+  },
+  "search_test": {
+    "status": "ERROR",
+    "error": "Command '['uv', 'run', 'main.py', '--platform', 'dy', '--type', 'search', '--keywords', '赚钱逻辑', '--crawler_max_notes_count', '5', '--headless', 'false', '--get_comment', 'no', '--save_data_option', 'jsonl']' timed out after 120 seconds"
+  },
+  "creator_test": {
+    "status": "PENDING",
+    "error": ""
+  },
+  "detail_test": {
+    "status": "PENDING",
+    "error": ""
+  },
+  "media_test": {
+    "status": "PENDING",
+    "error": ""
+  }
+}

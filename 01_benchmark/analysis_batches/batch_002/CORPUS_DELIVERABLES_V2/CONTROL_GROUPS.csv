@@ -1,0 +1,5 @@
+group_id,content_id,creator_id,primary_topic,role_in_group,likes,comments,favorites,shares
+,,,,,,,,
+
+# MATCHED_CONTROL_GROUPS = 0
+# No same-creator comparisons available in current batch

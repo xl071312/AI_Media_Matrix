@@ -1,0 +1,24 @@
+{
+  "phase": "PHASE_3_IN_PROGRESS",
+  "timestamp": "1788772941.3077939",
+  "diagnostic": {
+    "status": "PASS",
+    "error": "",
+    "chrome_version": "Chrome/152.0.7977.76"
+  },
+  "data_counts": {
+    "raw_pool": 414,
+    "selection": 100,
+    "deep_batch": 30,
+    "metrics": 30,
+    "templates": 30,
+    "transcripts_placeholder": 30
+  },
+  "blockers": {
+    "search_now_empty": true,
+    "creator_api_blocked": false,
+    "detail_api_blocked": false
+  },
+  "simulated_data": 0,
+  "real_data_available": true
+}

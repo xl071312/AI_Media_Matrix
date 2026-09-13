@@ -1,0 +1,421 @@
+{
+  "baselines": {
+    "男***門": {
+      "baseline_sample_n": 4,
+      "median_likes": 362520.5,
+      "mean_likes": 474341.5,
+      "median_comments": 15867.5,
+      "median_favorites": 89708.0,
+      "median_shares": 87055.0,
+      "min_likes": 59870,
+      "max_likes": 1112455,
+      "videos": [
+        {
+          "aweme_id": "7302348364815928612",
+          "likes": 396403,
+          "comments": 14177,
+          "favorites": 105829,
+          "shares": 54221
+        },
+        {
+          "aweme_id": "7293036400465726783",
+          "likes": 1112455,
+          "comments": 61476,
+          "favorites": 279069,
+          "shares": 493633
+        },
+        {
+          "aweme_id": "7557677477662788890",
+          "likes": 59870,
+          "comments": 2919,
+          "favorites": 24479,
+          "shares": 10453
+        },
+        {
+          "aweme_id": "7296806521793563943",
+          "likes": 328638,
+          "comments": 17558,
+          "favorites": 73587,
+          "shares": 119889
+        }
+      ]
+    },
+    "辉***累": {
+      "baseline_sample_n": 4,
+      "median_likes": 99315.5,
+      "mean_likes": 88537.5,
+      "median_comments": 18094.5,
+      "median_favorites": 49891.0,
+      "median_shares": 17815.0,
+      "min_likes": 11507,
+      "max_likes": 144012,
+      "videos": [
+        {
+          "aweme_id": "7583876535636561215",
+          "likes": 120022,
+          "comments": 44781,
+          "favorites": 50771,
+          "shares": 14706
+        },
+        {
+          "aweme_id": "7677805180721492826",
+          "likes": 78609,
+          "comments": 19200,
+          "favorites": 49011,
+          "shares": 20924
+        },
+        {
+          "aweme_id": "7647797848847439706",
+          "likes": 144012,
+          "comments": 16989,
+          "favorites": 56538,
+          "shares": 26515
+        },
+        {
+          "aweme_id": "7678232889779357422",
+          "likes": 11507,
+          "comments": 4618,
+          "favorites": 5477,
+          "shares": 1455
+        }
+      ]
+    },
+    "齐***术": {
+      "baseline_sample_n": 3,
+      "median_likes": 9685,
+      "mean_likes": 110141.66666666667,
+      "median_comments": 1796,
+      "median_favorites": 2425,
+      "median_shares": 1928,
+      "min_likes": 4169,
+      "max_likes": 316571,
+      "videos": [
+        {
+          "aweme_id": "7629222890549808426",
+          "likes": 4169,
+          "comments": 1796,
+          "favorites": 1394,
+          "shares": 394
+        },
+        {
+          "aweme_id": "7611741995383393562",
+          "likes": 316571,
+          "comments": 10195,
+          "favorites": 116774,
+          "shares": 43882
+        },
+        {
+          "aweme_id": "7619938149996694838",
+          "likes": 9685,
+          "comments": 895,
+          "favorites": 2425,
+          "shares": 1928
+        }
+      ]
+    }
+  },
+  "results": [
+    {
+      "aweme_id": "7533123064641506579",
+      "creator": "李***闯",
+      "target_likes": 10177690,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7351254246710463755",
+      "creator": "喜***》",
+      "target_likes": 4468998,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7525683513706810682",
+      "creator": "温***板",
+      "target_likes": 1626655,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7439645541958552844",
+      "creator": "墨***龙",
+      "target_likes": 3811591,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7293036400465726783",
+      "creator": "男***門",
+      "target_likes": 1112455,
+      "median_likes": 362520.5,
+      "relative_ratio": 0,
+      "breakout_level": "INSUFFICIENT_DATA",
+      "baseline_sample_n": 4,
+      "verified": false
+    },
+    {
+      "aweme_id": "7577322313134132520",
+      "creator": "谢***界",
+      "target_likes": 979416,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7600369823520073126",
+      "creator": "非***哥",
+      "target_likes": 771853,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7450364063030267151",
+      "creator": "戚*",
+      "target_likes": 631163,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7647797848847439706",
+      "creator": "辉***累",
+      "target_likes": 144012,
+      "median_likes": 99315.5,
+      "relative_ratio": 0,
+      "breakout_level": "INSUFFICIENT_DATA",
+      "baseline_sample_n": 4,
+      "verified": false
+    },
+    {
+      "aweme_id": "7218880148861390118",
+      "creator": "蛋***谈",
+      "target_likes": 187576,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7647446230122356665",
+      "creator": "大***量",
+      "target_likes": 148488,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7000743196867267871",
+      "creator": "宇***音",
+      "target_likes": 253839,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7599188562650734516",
+      "creator": "艾***西",
+      "target_likes": 157506,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7578347796505807729",
+      "creator": "李***梨",
+      "target_likes": 148422,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "6902671869661515019",
+      "creator": "老***话",
+      "target_likes": 275376,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7511664213547519243",
+      "creator": "不***姐",
+      "target_likes": 122894,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7666798588350065338",
+      "creator": "胡***靓",
+      "target_likes": 1475303,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7540234540556619058",
+      "creator": "谢***界",
+      "target_likes": 859506,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7643008320555568355",
+      "creator": "乾***💰",
+      "target_likes": 7407,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7652683577976491273",
+      "creator": "周***赁",
+      "target_likes": 10648,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7629438426090296251",
+      "creator": "小***芽",
+      "target_likes": 10392,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7539166936341515520",
+      "creator": "静***说",
+      "target_likes": 7674,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7641861213336505636",
+      "creator": "萍***饮",
+      "target_likes": 8142,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7667977090729868122",
+      "creator": "小***记",
+      "target_likes": 6331,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7572894561601931135",
+      "creator": "小***长",
+      "target_likes": 10120,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7619938149996694838",
+      "creator": "齐***术",
+      "target_likes": 9685,
+      "median_likes": 9685,
+      "relative_ratio": 0,
+      "breakout_level": "INSUFFICIENT_DATA",
+      "baseline_sample_n": 3,
+      "verified": false
+    },
+    {
+      "aweme_id": "7590019669398932763",
+      "creator": "木***城",
+      "target_likes": 1189163,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7559914938827803950",
+      "creator": "姜***此",
+      "target_likes": 1091944,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7591984049339256177",
+      "creator": "认***!",
+      "target_likes": 1413670,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    },
+    {
+      "aweme_id": "7479008308989316361",
+      "creator": "歌***k",
+      "target_likes": 835280,
+      "median_likes": 0,
+      "relative_ratio": 0,
+      "breakout_level": "NO_BASELINE",
+      "baseline_sample_n": 0,
+      "verified": false
+    }
+  ],
+  "generated_at": "2026-09-07T01:42:13.317869",
+  "method": "ESTIMATED_FROM_SEARCH_DATA"
+}

@@ -1,0 +1,23 @@
+{
+  "phase": "STAGE_1_COMPLETE",
+  "timestamp": "2026-09-07T01:15:00+08:00",
+  "topics_completed": 20,
+  "total_keywords": 20,
+  "raw_pool_size": 414,
+  "selection_size": 100,
+  "distribution": {
+    "ABSOLUTE_VIRAL": 25,
+    "RELATIVE_BREAKOUT": 22,
+    "CONTROL": 15,
+    "NORMAL_REFERENCE": 38
+  },
+  "metrics": {
+    "total_likes_collected": true,
+    "total_comments_collected": true,
+    "total_favorites_collected": true,
+    "total_shares_collected": true,
+    "simulated_data_count": 0
+  },
+  "next_phase": "PHASE_3_CREATOR_BASELINE_AND_SELECTION",
+  "status": "READY_FOR_NEXT"
+}

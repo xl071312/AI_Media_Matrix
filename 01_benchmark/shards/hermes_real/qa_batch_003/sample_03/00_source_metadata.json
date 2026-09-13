@@ -1,0 +1,22 @@
+{
+  "content_id": "7546212425998454074",
+  "aweme_id": "7546212425998454074",
+  "url": "https://www.douyin.com/video/7546212425998454074",
+  "creator_id": "小***究",
+  "creator_name": "小***究",
+  "title": "除了打工，用心给大家整理了16条路",
+  "viral_type": "NORMAL_REFERENCE",
+  "sample_role": "NORMAL_REFERENCE",
+  "duration_sec": 245.83,
+  "likes": 410006,
+  "comments": 106874,
+  "favorites": 263470,
+  "shares": 83064,
+  "capture_time": "2026-09-08T06:40:20.679616",
+  "metadata_source": "MEDIACRAWLER_REAL_CDP",
+  "video_path": "F:\\workspace\\AI_Media_Matrix\\10_automation\\benchmark_collector\\MediaCrawler\\data\\douyin\\videos\\7546212425998454074\\video.mp4",
+  "asr_segments": 102,
+  "timestamp_valid": true,
+  "last_timestamp": 245.8,
+  "transcript_sha256": "5cd8c03bd03ee125"
+}

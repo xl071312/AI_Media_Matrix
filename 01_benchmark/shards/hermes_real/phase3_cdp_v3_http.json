@@ -1,0 +1,15 @@
+{
+  "benchmark_chrome_v3": "STARTED",
+  "cdp_port": 9223,
+  "cdp_http": "PASS",
+  "chrome_version": "Chrome/152.0.7977.76",
+  "ws_url": "ws://127.0.0.1:9223/devtools/browser/062368d2-7d1d-477f-b1c5-dfd1ac51267a",
+  "profile": "douyin_benchmark_v3",
+  "status": "WAITING_FOR_LOGIN",
+  "next_steps": [
+    "Complete Douyin login in new Chrome window",
+    "Complete any CAPTCHA/verification",
+    "Keep window open",
+    "Reply 'Chrome v3 ready'"
+  ]
+}

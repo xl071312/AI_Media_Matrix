@@ -1,0 +1,306 @@
+[
+  {
+    "cid": "7533123064641506579",
+    "status": "DONE",
+    "segments": 92,
+    "chars": 728
+  },
+  {
+    "cid": "7351254246710463755",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7293036400465726783",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7636452871718385906",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7256352085086571837",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7218880148861390118",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7000743196867267871",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "6902671869661515019",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7640403389876850152",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7583876535636561215",
+    "status": "DONE",
+    "segments": 103,
+    "chars": 693
+  },
+  {
+    "cid": "6899414351829126413",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7576993270014674661",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7651175704382037091",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7643008320555568355",
+    "status": "DONE",
+    "segments": 134,
+    "chars": 928
+  },
+  {
+    "cid": "7652683577976491273",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7629438426090296251",
+    "status": "DONE",
+    "segments": 71,
+    "chars": 651
+  },
+  {
+    "cid": "7680035972225977606",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7539166936341515520",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7641861213336505636",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7503135508731284796",
+    "status": "DONE",
+    "segments": 107,
+    "chars": 797
+  },
+  {
+    "cid": "7351254246710463755",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7293036400465726783",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7636452871718385906",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7256352085086571837",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7218880148861390118",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7000743196867267871",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "6902671869661515019",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7640403389876850152",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "6899414351829126413",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7576993270014674661",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7651175704382037091",
+    "status": "DONE",
+    "segments": 111,
+    "chars": 1049
+  },
+  {
+    "cid": "7652683577976491273",
+    "status": "BLOCKED"
+  },
+  {
+    "cid": "7680035972225977606",
+    "status": "DONE",
+    "segments": 130,
+    "chars": 1014
+  },
+  {
+    "cid": "7539166936341515520",
+    "status": "DONE",
+    "segments": 217,
+    "chars": 2143
+  },
+  {
+    "cid": "7641861213336505636",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7293036400465726783",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7636452871718385906",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7218880148861390118",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7000743196867267871",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "6902671869661515019",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7576993270014674661",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7582661454537739539",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7673952284586849765",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7662612278332200357",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7513150827680795913",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7620749490244291886",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7475716554173254947",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7656743763552800015",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7578046186452908401",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7430029536101682442",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7529799358624107811",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7627522561143737650",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7552461908918406450",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7615502207852724089",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7637526701592815434",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7608515921166552558",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7631183865323440037",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7389892716445846834",
+    "status": "DONE",
+    "segments": 177,
+    "chars": 1045
+  },
+  {
+    "cid": "6828488481807879435",
+    "status": "NO_AUDIO"
+  },
+  {
+    "cid": "7327874463364615435",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7618440419327817704",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7595829485392432394",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7331268719294942516",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7449714164832029961",
+    "status": "BLOCKED",
+    "deferred": true
+  },
+  {
+    "cid": "7355350481545202953",
+    "status": "BLOCKED",
+    "deferred": true
+  }
+]

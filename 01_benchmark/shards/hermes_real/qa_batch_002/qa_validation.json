@@ -1,0 +1,46 @@
+{
+  "phase": "PHASE_3.1",
+  "status": "REWORK_IN_PROGRESS",
+  "timestamp": "2026-09-08T02:40:00+08:00",
+  "qa_validation": {
+    "duration_check": "PASS",
+    "timestamp_check": "PASS",
+    "placeholder_check": "PASS",
+    "metrics_check": "IN_PROGRESS",
+    "evidence_check": "PENDING",
+    "baseline_check": "BLOCKED_BY_ARGUS"
+  },
+  "samples": {
+    "sample_01": {
+      "content_id": "7302348364815928612",
+      "viral_type": "ABSOLUTE_VIRAL",
+      "status": "PROCESSING",
+      "segments": 111,
+      "duration_sec": 205.37
+    },
+    "sample_02": {
+      "content_id": "7647797848847439706",
+      "viral_type": "RELATIVE_BREAKOUT",
+      "status": "PROCESSING",
+      "segments": 99,
+      "duration_sec": 170.20
+    },
+    "sample_03": {
+      "content_id": "7643008320555568355",
+      "viral_type": "CONTROL",
+      "status": "VIDEO_MISSING",
+      "note": "Video file not found in downloaded collection"
+    }
+  },
+  "blockers": [
+    "ARGUS_API_BLOCKED: Creator/Detail APIs blocked by ArgusSecurityPlugin",
+    "VIDEO_MISSING: Sample 03 video not in downloaded collection",
+    "ASR_QA_PENDING: Manual quality check required for all transcripts"
+  ],
+  "next_actions": [
+    "Complete Sample 03 with alternative CONTROL video",
+    "Generate complete Deep Analysis for all samples",
+    "Run final QA validation",
+    "Submit LAN_REVIEW_BUNDLE_V2.md for review"
+  ]
+}

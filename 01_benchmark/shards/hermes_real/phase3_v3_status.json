@@ -1,0 +1,17 @@
+{
+  "phase": "PHASE_3_IN_PROGRESS",
+  "timestamp": "2026-09-08T00:00:00+08:00",
+  "benchmark_chrome_v3": "STARTING",
+  "cdp_port": 9223,
+  "cdp_http": "PENDING",
+  "cdp_websocket": "PENDING",
+  "search_api": "PENDING",
+  "creator_api": "PENDING",
+  "detail_api": "PENDING",
+  "creator_baseline_done": 0,
+  "real_spoken_done": 0,
+  "timed_transcript_done": 0,
+  "deep_analysis_done": 0,
+  "argus_blocked": false,
+  "blockers": []
+}

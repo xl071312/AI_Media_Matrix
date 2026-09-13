@@ -1,0 +1,95 @@
+# Git Ignore - 禁止提交敏感文件
+# ============================================================
+
+# Browser profiles
+browser_profiles/
+*.profile/
+
+# Cookies and sessions
+cookies/
+*.cookies
+session*
+
+# Environment and credentials
+.env
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+api_keys.py
+credentials/
+
+# Tokens and passwords
+*token*
+*password*
+*.txt (in root)
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.iso
+*.dmg
+*.rar
+*.zip (except handoff)
+*.7z
+
+# Node modules and dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+.ENV
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+~*
+
+# Hermes cache
+~/.hermes/cache/
+
+# Transcripts (large JSON files)
+shards/hermes_real/transcripts_v2/
+transcripts/
+
+# Media files
+media/
+*.m4a
+*.mp3
+*.wav
+
+# Logs
+*.log
+logs/
+
+# Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# JS
+package-lock.json
+yarn.lock
+npm-debug.log*

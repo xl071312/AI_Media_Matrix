@@ -1,0 +1,77 @@
+{
+  "phase": "PHASE_3.1",
+  "status": "READY_FOR_LAN_REVIEW",
+  "pipeline_version": "V3",
+  "timestamp": "2026-09-08T06:52:55.574648",
+  "samples": [
+    {
+      "content_id": "7302348364815928612",
+      "type": "ABSOLUTE_VIRAL",
+      "duration": 205.37,
+      "segments": 111,
+      "units": 1,
+      "timestamp_valid": true,
+      "unit_aggregation_valid": true,
+      "checks": {
+        "media_identity": "PASS",
+        "transcript_identity": "PASS",
+        "duration": "PASS",
+        "segment_timestamp": "PASS",
+        "timeline_segment_binding": "PASS",
+        "logic_segment_binding": "PASS",
+        "placeholder": "PASS",
+        "metrics_source": "PASS",
+        "cross_compare_source": "PASS",
+        "baseline": "BLOCKED_BY_ARGUS",
+        "cross_sample_contamination": "PASS",
+        "unit_aggregation": "PASS"
+      }
+    },
+    {
+      "content_id": "7647797848847439706",
+      "type": "RELATIVE_BREAKOUT",
+      "duration": 170.2,
+      "segments": 99,
+      "units": 1,
+      "timestamp_valid": true,
+      "unit_aggregation_valid": true,
+      "checks": {
+        "media_identity": "PASS",
+        "transcript_identity": "PASS",
+        "duration": "PASS",
+        "segment_timestamp": "PASS",
+        "timeline_segment_binding": "PASS",
+        "logic_segment_binding": "PASS",
+        "placeholder": "PASS",
+        "metrics_source": "PASS",
+        "cross_compare_source": "PASS",
+        "baseline": "BLOCKED_BY_ARGUS",
+        "cross_sample_contamination": "PASS",
+        "unit_aggregation": "PASS"
+      }
+    },
+    {
+      "content_id": "7546212425998454074",
+      "type": "NORMAL_REFERENCE",
+      "duration": 245.83,
+      "segments": 102,
+      "units": 1,
+      "timestamp_valid": true,
+      "unit_aggregation_valid": true,
+      "checks": {
+        "media_identity": "PASS",
+        "transcript_identity": "PASS",
+        "duration": "PASS",
+        "segment_timestamp": "PASS",
+        "timeline_segment_binding": "PASS",
+        "logic_segment_binding": "PASS",
+        "placeholder": "PASS",
+        "metrics_source": "PASS",
+        "cross_compare_source": "PASS",
+        "baseline": "BLOCKED_BY_ARGUS",
+        "cross_sample_contamination": "PASS",
+        "unit_aggregation": "PASS"
+      }
+    }
+  ]
+}

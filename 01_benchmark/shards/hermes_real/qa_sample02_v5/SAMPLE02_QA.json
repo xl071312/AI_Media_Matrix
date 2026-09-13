@@ -1,0 +1,25 @@
+{
+  "phase": "PHASE_3.1",
+  "sample": "SAMPLE_02_ONLY",
+  "status": "EXPERIMENTAL",
+  "timestamp": "2026-09-08T22:07:51.424349",
+  "content_id": "7647797848847439706",
+  "checks": {
+    "artifact_report_consistency": "PASS",
+    "asr_quality": "PASS",
+    "question_detection": "PASS",
+    "segment_to_unit_coverage": "PASS",
+    "unit_duration": "PASS",
+    "unit_sequence": "PASS",
+    "block_duration": "PENDING",
+    "logic_evidence_binding": "PENDING",
+    "cross_sample_contamination": "PASS",
+    "placeholder_check": "PASS"
+  },
+  "summary": {
+    "asr_segments": 99,
+    "spoken_units": 18,
+    "questions": 8,
+    "max_unit_duration": 12.72
+  }
+}

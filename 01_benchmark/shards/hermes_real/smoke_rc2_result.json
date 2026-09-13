@@ -1,0 +1,68 @@
+{
+  "smoke_test": "RC2",
+  "timestamp": "2026-09-10T18:30:00+08:00",
+  "status": "MEDIA_PASS_ASR_SKIP",
+  "simulated": 0,
+  "targets": {
+    "total": 3,
+    "new_unique": 3,
+    "page_playable": 3,
+    "media_ready": 3,
+    "transcript_ready": 0,
+    "verified_performance": 3
+  },
+  "samples": [
+    {
+      "content_id": "7683219193294114063",
+      "title": "第10集 | 高中生PC得艾滋的一生 #人生副本 #热门",
+      "duration_sec": 333,
+      "size_mb": 8.6,
+      "likes": "8.5万",
+      "comments": "1.3万",
+      "favorites": "5833",
+      "shares": "9.1万",
+      "publish_time": "2026-09-08 19:00",
+      "author": "剧本人生活馆",
+      "media_path": "F:\\workspace\\AI_Media_Matrix\\01_benchmark\\media\\batch_002_smoke\\7683219193294114063.mp4",
+      "sha256": "afc59432c1bbfcbf",
+      "audio_status": "NO_AUDIO",
+      "asr_status": "SKIPPED_NO_AUDIO"
+    },
+    {
+      "content_id": "7682806976379620660",
+      "title": "第178集 | 新赛季版本之子，汤姆叔叔的轮椅 #三角洲行动 #无名教学",
+      "duration_sec": 162,
+      "size_mb": 121.1,
+      "likes": "52.7万",
+      "comments": "5287",
+      "favorites": "10.1万",
+      "shares": "7.3万",
+      "publish_time": "2026-09-07 18:30",
+      "author": "安澜（背锅大王）",
+      "media_path": "F:\\workspace\\AI_Media_Matrix\\01_benchmark\\media\\batch_002_smoke\\7682806976379620660.mp4",
+      "sha256": "aee8809db3a79fb5",
+      "audio_status": "NO_AUDIO",
+      "asr_status": "SKIPPED_NO_AUDIO"
+    },
+    {
+      "content_id": "7682728905966423334",
+      "title": "《我的妹妹不可爱》上部-超级加长版",
+      "duration_sec": 2828,
+      "size_mb": 83.8,
+      "likes": "72.8万",
+      "comments": "2.7万",
+      "favorites": "17.8万",
+      "shares": "50.4万",
+      "publish_time": "2026-09-07 03:26",
+      "author": "罗臣臣",
+      "media_path": "F:\\workspace\\AI_Media_Matrix\\01_benchmark\\media\\batch_002_smoke\\7682728905966423334.mp4",
+      "sha256": "dd8ae07c337b1784",
+      "audio_status": "NO_AUDIO",
+      "asr_status": "SKIPPED_NO_AUDIO"
+    }
+  ],
+  "download_route": "Browser Network Capture (CDP)",
+  "login_required": false,
+  "mediacrawler_search": "DEGRADED",
+  "dom_discovery": "PASS"
+}
