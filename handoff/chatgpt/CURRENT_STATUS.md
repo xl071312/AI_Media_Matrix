@@ -1,86 +1,55 @@
-# ChatGPT Handoff - Current Status
+# CURRENT_STATUS.md - Updated 2026-09-12 RC3
 
-**Generated**: 2026-09-12 02:05:33
-**Source**: AI_Media_Matrix Benchmark Project
-
----
-
-## Verified Logic Corpus
+## Corpus Status (Pending Model Review)
 
 | Metric | Value |
 |--------|-------|
-| **Verified Logic Corpus** | **60/100** |
-| Independent Logic Observations | 59 |
-| Evidence Ready Pending Review | **23** |
+| Verified Logic Corpus | **60/100** |
+| Fulltext Complete Pending Review | **20** |
+| Evidence Ready Pending Review | **80** |
+| Unique CIDs | 89 |
 | Performance Verified | 46 |
-
----
 
 ## Batch Status
 
-| Batch | Unique CID | Logic Analyzable | Evidence Ready | Status |
-|-------|------------|------------------|----------------|--------|
-| Block001 | 24 | **20** | - | FROZEN |
-| Block002 | 32 | **32** | 32 | COMPLETE |
-| Block003 | 9 | **8** | 8 | COOLDOWN |
-| Block004 Wave001 | 20 | **0** (pending) | **20** | COMPLETE |
-| Block004 Wave002 | 4 | **0** (pending) | **3** | IN_PROGRESS |
-| **TOTAL** | **89** | **60** | **63** | - |
+| Batch | Status | Unique | Logic | Evidence |
+|-------|--------|--------|-------|----------|
+| Block001 | FROZEN | 24 | 20 | - |
+| Block002 | COMPLETE | 32 | 32 | 32 |
+| Block003 | COOLDOWN | 9 | 8 | 8 |
+| Block004 Wave001 | RC3_FIX | 20 | PENDING | **20** |
+| Block004 Wave002 | PAUSED | 4 | PENDING | 4 |
 
----
+## Wave001 RC3 Fix Summary
 
-## Current Collection Status
+| Metric | Before RC3 | After RC3 |
+|--------|------------|-----------|
+| Real Fulltext | 2/20 | **20/20** |
+| Placeholders | 18/20 | **0/20** |
+| Avg Chars | ~600 | ~1500+ |
+| Sentinel Growth | N/A | 265%/217%/368% |
 
-### Douyin (Batch003)
-- **Status**: COOLDOWN (rate-limited)
-- **Qualified**: 9/30
-- **Blocked**: 47 (captcha/login wall)
-- **Cooldown Remaining**: ~2 hours
+### Sentinel Validation (PASS)
 
-### Toutiao (Batch004)
-- **Status**: Wave002 IN_PROGRESS
-- **Wave001**: 20/20 articles recovered
-- **Wave002**: 4/27 candidates processed
-- **Route**: browser_navigate (confirmed working)
+| CID | Previous | Final | Growth |
+|-----|----------|-------|--------|
+| 7591436947063702022 | 655 | 2393 | **+265%** |
+| 7599942867901071906 | 815 | 2586 | **+217%** |
+| 7610800331743707700 | 777 | 3634 | **+368%** |
 
----
+## Wave002 Status
 
-## Current Blockers
+- **Status**: PAUSED
+- **Reason**: Prioritizing Wave001 completeness fix
+- **Existing files**: Preserved, no deletion
 
-1. **Douyin Rate Limiting**: 4hr cooldown required, resume with smoke test
-2. **Wave002 Candidate Quality**: Many candidates are old articles (>2024) or LOGIN_WALL
-3. **Browser Tool**: Primary route confirmed, Playwright CDP retired
+## Global Ledger Note
 
----
+Verified Logic Corpus remains **60/100** pending model review.
+HERMES reports "Fulltext Complete" but does NOT self-assign "Verified Logic".
 
-## Next Actions
+## Git Handoff
 
-1. Continue Wave002 production via browser_navigate
-2. After 4hr cooldown, resume Batch003 with smoke test
-3. Target: Wave002 reach 20 Evidence Ready
-4. Then await main analysis model review
-
----
-
-## File Inventory
-
-### Global
-- GLOBAL_CORPUS_LEDGER_V5.csv (89 rows)
-- GLOBAL_COMPARISON_FEATURES_V3.csv (89 rows)
-
-### Batch003
-- BATCH003_STATUS.md
-- BATCH003_STATUS_REPORT.md
-- BATCH003_INTERIM_V1/EVIDENCE_FULL_PART_01.md (if exists)
-
-### Batch004 Wave001
-- 20 JSON files (full text)
-- CORPUS_CANONICAL_MANIFEST_V3.csv
-
-### Batch004 Wave002
-- 4 JSON files (full text)
-- TOUTIAO_WAVE002_CANDIDATES.csv
-
----
-
-**Handoff Complete**. Awaiting Git commit and push.
+- Repository: xl071312/AI_Media_Matrix
+- Branch: chatgpt-handoff
+- Latest Commit: (pending push)
