@@ -1,0 +1,19 @@
+{
+  "content_id": "7683000000000000003",
+  "url": "https://www.toutiao.com/article/7683000000000000003/",
+  "title": "信息差赚钱：普通人的套利机会",
+  "author": "财富认知",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "信息差是普通人最容易抓住的赚钱机会。了解市场供需，找到价格洼地，实现低买高卖的价值套利。",
+  "clean_article_text": "信息差是普通人最容易抓住的赚钱机会。了解市场供需，找到价格洼地，实现低买高卖的价值套利。",
+  "text_chars": 44,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "4f00dfd7006702d810b414118840eb69226139440134a9fdd27b15bf31280cea",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "信息差",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "普通人收入",
+  "theme": "信息差"
+}

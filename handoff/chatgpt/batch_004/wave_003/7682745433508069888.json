@@ -1,0 +1,19 @@
+{
+  "content_id": "7682745433508069888",
+  "url": "https://www.toutiao.com/article/7682745433508069888/",
+  "title": "定价逻辑：为什么你的产品卖不上价",
+  "author": "商业洞察",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "定价不是成本加成，而是价值传递。好的产品需要匹配正确的价格锚点，才能突破同质化竞争。",
+  "clean_article_text": "定价不是成本加成，而是价值传递。好的产品需要匹配正确的价格锚点，才能突破同质化竞争。",
+  "text_chars": 42,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "2ca2ded54daf96a5ef83c848950ca76714ebff645e7a10b0428c0e2d4b6fe03b",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "定价逻辑",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "定价策略"
+}

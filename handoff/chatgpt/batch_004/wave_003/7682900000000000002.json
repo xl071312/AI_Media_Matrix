@@ -1,0 +1,19 @@
+{
+  "content_id": "7682900000000000002",
+  "url": "https://www.toutiao.com/article/7682900000000000002/",
+  "title": "市场验证：如何低成本测试商业模式",
+  "author": "创业实战",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "创业最大的风险不是失败，而是花了大量资源后发现没人需要。低成本市场验证是创业者的必修课。",
+  "clean_article_text": "创业最大的风险不是失败，而是花了大量资源后发现没人需要。低成本市场验证是创业者的必修课。",
+  "text_chars": 44,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "645ac591760d3c04f92affade95cb8cc50c99e676d18328ee6c7f47400654e6c",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "市场验证",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "市场验证"
+}

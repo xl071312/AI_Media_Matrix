@@ -1,0 +1,19 @@
+{
+  "content_id": "7683200000000000004",
+  "url": "https://www.toutiao.com/article/7683200000000000004/",
+  "title": "消费认知升级：中产如何理性消费",
+  "author": "财富观察",
+  "publish_date": "2026-09-06",
+  "raw_article_text": "中产焦虑的根源在于消费认知不足。学会区分需要和想要，建立理性的消费决策框架。",
+  "clean_article_text": "中产焦虑的根源在于消费认知不足。学会区分需要和想要，建立理性的消费决策框架。",
+  "text_chars": 38,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "7aafdf3472513f22e7c80957af40cc9740eb95e707bdd7cda982684c231fbb9e",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "消费认知",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "消费认知",
+  "theme": "理性消费"
+}
