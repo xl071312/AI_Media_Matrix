@@ -1,0 +1,19 @@
+{
+  "content_id": "7684821300744962602",
+  "url": "https://www.toutiao.com/article/7684821300744962602/",
+  "title": "2026年服贸会金融服务：从有没有到精不精",
+  "author": "新浪财经",
+  "publish_date": "2026-09-13",
+  "raw_article_text": "金融既是服务贸易的重要组成，又具有独立业态加基础设施的双重属性。2026年中国国际服务贸易交易会上，折射出了目前金融服务的共同话题——从有没有的供给扩容，到好不好的品质提升，再到精不精的高效匹配。金融科技正在改变传统金融服务的边界和效率。",
+  "clean_article_text": "金融既是服务贸易的重要组成，又具有独立业态加基础设施的双重属性。2026年中国国际服务贸易交易会上，折射出了目前金融服务的共同话题——从有没有的供给扩容，到好不好的品质提升，再到精不精的高效匹配。金融科技正在改变传统金融服务的边界和效率。",
+  "text_chars": 119,
+  "placeholder_detected": false,
+  "evidence_ready": false,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "621fc7803fd611fe154ae994613dcb8dbbe85846a27af443d1205bbbff6e32f3",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "商业模式",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "商业模式",
+  "theme": "金融服务"
+}

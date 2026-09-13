@@ -1,4 +1,33 @@
-# CURRENT_STATUS.md - Updated 2026-09-13 RC6D
+#!/usr/bin/env python3
+"""RC6D: Final status update for gapfill_100"""
+from pathlib import Path
+import json
+
+BASE = Path(r"F:\workspace\AI_Media_Matrix")
+GAPFILL = BASE / "handoff/chatgpt/gapfill_100"
+TOUTIAO_DIR = GAPFILL / "toutiao"
+
+# Count saved articles
+articles = []
+for p in TOUTIAO_DIR.glob("*.json"):
+    if p.name.endswith(".json"):
+        with open(p, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            if data.get('content_id'):
+                articles.append(data)
+
+passed = sum(1 for a in articles if a.get('topic_gate') == 'TOPIC_PASS_MECHANICAL')
+fulltext = sum(1 for a in articles if a.get('text_chars', 0) >= 200 and a.get('topic_gate') == 'TOPIC_PASS_MECHANICAL')
+
+print(f"Gapfill Toutiao: {len(articles)} total")
+print(f"  Topic PASS: {passed}")
+print(f"  Fulltext >=200: {fulltext}")
+print(f"\nTarget: 20 NEW UNIQUE, 15 for corpus completion")
+print(f"Status: NEAR TARGET (limited by political news dominance)")
+
+# Update CURRENT_STATUS.md
+STATUS = BASE / "handoff/chatgpt/CURRENT_STATUS.md"
+status_content = f"""# CURRENT_STATUS.md - Updated 2026-09-13 RC6D
 
 ## Corpus Status (Pending Model Review)
 
@@ -27,9 +56,9 @@
 ### Toutiao Lane A
 | Item | Value |
 |------|-------|
-| Discovered | **9** |
-| Topic PASS Mechanical | **9** |
-| Fulltext Ready (>=200 chars) | **6** |
+| Discovered | **{len(articles)}** |
+| Topic PASS Mechanical | **{passed}** |
+| Fulltext Ready (>=200 chars) | **{fulltext}** |
 
 ### Blocker
 当前头条首页被BRICS峰会政治新闻主导（2026-09-13），商业/赚钱类内容稀缺。搜索功能返回空页面。已通过已知商业类文章ID进行抓取，但总数有限。
@@ -50,7 +79,7 @@
 
 ## Files
 
-- `handoff/chatgpt/gapfill_100/toutiao/*.json` - 9 articles
+- `handoff/chatgpt/gapfill_100/toutiao/*.json` - {len(articles)} articles
 - `handoff/chatgpt/gapfill_100/toutiao/DISCOVERY_LOG.csv`
 - `handoff/chatgpt/gapfill_100/toutiao/TOPIC_GATE.csv`
 - `handoff/chatgpt/gapfill_100/toutiao/FULLTEXT_QA.csv`
@@ -66,3 +95,9 @@
 3. 考虑替代信息源（B站专栏、知乎等）
 
 **Terminal Blocker**: 头条商业内容发现受阻，非数据质量问题。
+"""
+
+with open(STATUS, 'w', encoding='utf-8') as f:
+    f.write(status_content)
+
+print("\nCURRENT_STATUS.md updated")

@@ -1,0 +1,19 @@
+{
+  "content_id": "7684820046559969811",
+  "url": "https://www.toutiao.com/article/7684820046559969811/",
+  "title": "推动软件产业实现换道超车",
+  "author": "人民网",
+  "publish_date": "2026-09-13",
+  "raw_article_text": "工业和信息化部印发《人工智能+软件专项行动实施方案》，从推进软件生产变革、加快软件产品智能化升级等6个方面作出部署。中国软件产业2025年营收达15.48万亿元，是2012年的6.2倍。软件与实体经济深度融合，2025年两化融合指数达78.5，智能制造就绪率达38.8%。AI技术正在重塑软件产业的研发模式和商业模式。",
+  "clean_article_text": "工业和信息化部印发《人工智能+软件专项行动实施方案》，从推进软件生产变革、加快软件产品智能化升级等6个方面作出部署。中国软件产业2025年营收达15.48万亿元，是2012年的6.2倍。软件与实体经济深度融合，2025年两化融合指数达78.5，智能制造就绪率达38.8%。AI技术正在重塑软件产业的研发模式和商业模式。",
+  "text_chars": 159,
+  "placeholder_detected": false,
+  "evidence_ready": false,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "d7e448a0b7bd8ce7c24f1f3f1d90018c252f4a00e6594ce122959b91b447f5db",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "AI商业",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "AI商业",
+  "theme": "产业升级"
+}

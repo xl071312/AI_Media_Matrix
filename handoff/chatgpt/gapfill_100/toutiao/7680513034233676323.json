@@ -1,0 +1,19 @@
+{
+  "content_id": "7680513034233676323",
+  "url": "https://www.toutiao.com/article/7680513034233676323/",
+  "title": "李善友：DeepSeek的每一次取舍，都在增加AGI实现的概率",
+  "author": "混沌学园",
+  "publish_date": "2026-09-01",
+  "raw_article_text": "过去一个月，DeepSeek有三个大动作。7月31日，V4 Flash正式版上线；8月13日，V4 Pro正式版上线；8月21日，V4 Flash视觉实验模型发布。模型更强、更便宜，也开始能看懂图片。大模型行业由此多了一条DeepSeek斩杀线。DeepSeek选择克制。2025年春节，上亿用户涌来时，不做C端产品；AI Coding和Agent兴起后，不做B端应用。它始终把资源投向基础模型，坚持开源和原创研究。梁文锋说，唯一重要的事情，是增加我们做成AGI的概率。智能本身就是产品，研究方向便直接决定产品的未来。成本也与DeepSeek的愿景直接相关。如果AGI最终要服务全人类，智能就必须足够便宜。",
+  "clean_article_text": "过去一个月，DeepSeek有三个大动作。7月31日，V4 Flash正式版上线；8月13日，V4 Pro正式版上线；8月21日，V4 Flash视觉实验模型发布。模型更强、更便宜，也开始能看懂图片。大模型行业由此多了一条DeepSeek斩杀线。DeepSeek选择克制。2025年春节，上亿用户涌来时，不做C端产品；AI Coding和Agent兴起后，不做B端应用。它始终把资源投向基础模型，坚持开源和原创研究。梁文锋说，唯一重要的事情，是增加我们做成AGI的概率。智能本身就是产品，研究方向便直接决定产品的未来。成本也与DeepSeek的愿景直接相关。如果AGI最终要服务全人类，智能就必须足够便宜。",
+  "text_chars": 303,
+  "placeholder_detected": false,
+  "evidence_ready": true,
+  "logic_analyzable": "PENDING_MODEL_REVIEW",
+  "sha256": "51bfa158f987ca135e1aa6a54687e48790009305f442bc660a486eea540c2fa4",
+  "discovery_mode": "QUERY_FIRST",
+  "search_seed": "AI商业",
+  "topic_gate": "TOPIC_PASS_MECHANICAL",
+  "topic_category": "AI商业",
+  "theme": "DeepSeek战略"
+}
