@@ -1,4 +1,12 @@
-# CURRENT_STATUS.md - Updated 2026-09-13 RC5
+#!/usr/bin/env python3
+"""RC5 Final: Update CURRENT_STATUS.md and commit"""
+import json
+from pathlib import Path
+
+BASE = Path(r"F:\workspace\AI_Media_Matrix")
+STATUS = BASE / "handoff/chatgpt/CURRENT_STATUS.md"
+
+content = f"""# CURRENT_STATUS.md - Updated 2026-09-13 RC5
 
 ## Corpus Status (Pending Model Review)
 
@@ -89,3 +97,19 @@
 - `handoff/chatgpt/batch_004/wave_003/FULLTEXT_QA.csv`
 - `handoff/chatgpt/batch_004/wave_003/*.json` (5 files)
 - `shards/hermes_real/rc5_*.py` (scripts)
+"""
+
+with open(STATUS, 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print("CURRENT_STATUS.md updated")
+
+# Verify
+w1_src = BASE / "01_benchmark/analysis_batches/batch_004_toutiao/SEED_WAVE_001_REFETCH"
+w2_src = BASE / "01_benchmark/analysis_batches/batch_004_toutiao/SEED_WAVE_002"
+w3_src = BASE / "01_benchmark/analysis_batches/batch_004_toutiao/SEED_WAVE_003"
+
+print(f"\nWave001: {len(list(w1_src.glob('*.json')))} files")
+print(f"Wave002: {len(list(w2_src.glob('*.json')))} files")
+print(f"Wave003: {len(list(w3_src.glob('*.json')))} files")
+print(f"\nHandoff Wave003: {len(list((BASE / 'handoff/chatgpt/batch_004/wave_003').glob('*.json')))} files")
