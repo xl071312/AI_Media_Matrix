@@ -1,0 +1,23 @@
+{
+  "sample_id": "SAMPLE_005",
+  "content_id": "7666798588350065338",
+  "platform": "douyin",
+  "title": "我现在看到了满地商机。 #AI #商机 #自媒体",
+  "author": "胡***靓",
+  "url": "https://www.douyin.com/video/7666798588350065338",
+  "duration_sec": 184.05875,
+  "likes": 1475303,
+  "comments": 17931,
+  "favorites": 643846,
+  "shares": 323873,
+  "source_keyword": "信息差",
+  "capture_time": "2026-09-07T01:10:38.267048",
+  "transcript_chars": 1127,
+  "transcript_usable": true,
+  "first30s_available": false,
+  "duplicate_status": "NEW",
+  "source_url_or_source_key": "https://www.douyin.com/video/7666798588350065338",
+  "created_at": "2026-09-13T23:13:50.869706",
+  "asr_status": "COMPLETE",
+  "asr_model": "faster_whisper_base"
+}

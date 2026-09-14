@@ -1,0 +1,23 @@
+{
+  "sample_id": "SAMPLE_001",
+  "content_id": "7533123064641506579",
+  "platform": "douyin",
+  "title": "《关于同事外卷这件事》 #内容过于真实  #办公室搞笑#至尊洗衣精华 #快洗洗衣液  #遇见至尊净享一生",
+  "author": "李***闯",
+  "url": "https://www.douyin.com/video/7533123064641506579",
+  "duration_sec": 112.901188,
+  "likes": 10177690,
+  "comments": 238359,
+  "favorites": 574642,
+  "shares": 9605668,
+  "source_keyword": "职场",
+  "capture_time": "2026-09-07T01:10:38.269560",
+  "transcript_chars": 720,
+  "transcript_usable": true,
+  "first30s_available": false,
+  "duplicate_status": "NEW",
+  "source_url_or_source_key": "https://www.douyin.com/video/7533123064641506579",
+  "created_at": "2026-09-13T23:13:43.509020",
+  "asr_status": "COMPLETE",
+  "asr_model": "faster_whisper_base"
+}

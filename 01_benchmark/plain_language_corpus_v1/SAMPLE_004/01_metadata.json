@@ -1,0 +1,23 @@
+{
+  "sample_id": "SAMPLE_004",
+  "content_id": "7590019669398932763",
+  "platform": "douyin",
+  "title": "#每日分享 #内容太过真实 #日常唠嗑 #下大雪 #真实生活分享计划",
+  "author": "木***城",
+  "url": "https://www.douyin.com/video/7590019669398932763",
+  "duration_sec": 189.884626,
+  "likes": 1189163,
+  "comments": 200204,
+  "favorites": 92605,
+  "shares": 361336,
+  "source_keyword": "普通人收入",
+  "capture_time": "2026-09-07T01:10:38.272446",
+  "transcript_chars": 269,
+  "transcript_usable": true,
+  "first30s_available": false,
+  "duplicate_status": "NEW",
+  "source_url_or_source_key": "https://www.douyin.com/video/7590019669398932763",
+  "created_at": "2026-09-13T23:13:49.619986",
+  "asr_status": "COMPLETE",
+  "asr_model": "faster_whisper_base"
+}

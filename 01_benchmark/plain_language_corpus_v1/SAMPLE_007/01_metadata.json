@@ -1,0 +1,23 @@
+{
+  "sample_id": "SAMPLE_007",
+  "content_id": "7293036400465726783",
+  "platform": "douyin",
+  "title": "四个阶段：对钱有概念 花钱有概念 攒钱有概念 搞钱有概念 #赚钱思维",
+  "author": "男***門",
+  "url": "https://www.douyin.com/video/7293036400465726783",
+  "duration_sec": 153.469375,
+  "likes": 1112455,
+  "comments": 61476,
+  "favorites": 279069,
+  "shares": 493633,
+  "source_keyword": "财富认知",
+  "capture_time": "2026-09-07T01:10:38.273014",
+  "transcript_chars": 602,
+  "transcript_usable": true,
+  "first30s_available": false,
+  "duplicate_status": "NEW",
+  "source_url_or_source_key": "https://www.douyin.com/video/7293036400465726783",
+  "created_at": "2026-09-13T23:13:54.671194",
+  "asr_status": "COMPLETE",
+  "asr_model": "faster_whisper_base"
+}

@@ -1,0 +1,23 @@
+{
+  "sample_id": "SAMPLE_003",
+  "content_id": "7439645541958552844",
+  "platform": "douyin",
+  "title": "00后大学生勇闯社会第一年#勇闯职场 #永不止步  #自强不息 #人穷志不穷 #人穷 #毕业生的精选 #好好毕业慢慢告别",
+  "author": "墨***龙",
+  "url": "https://www.douyin.com/video/7439645541958552844",
+  "duration_sec": 458.631813,
+  "likes": 3811591,
+  "comments": 202111,
+  "favorites": 242557,
+  "shares": 3352575,
+  "source_keyword": "普通人收入",
+  "capture_time": "2026-09-07T01:10:38.272446",
+  "transcript_chars": 1804,
+  "transcript_usable": true,
+  "first30s_available": false,
+  "duplicate_status": "NEW",
+  "source_url_or_source_key": "https://www.douyin.com/video/7439645541958552844",
+  "created_at": "2026-09-13T23:13:46.410717",
+  "asr_status": "COMPLETE",
+  "asr_model": "faster_whisper_base"
+}
