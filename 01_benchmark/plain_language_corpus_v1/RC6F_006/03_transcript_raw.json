@@ -1,0 +1,226 @@
+{
+  "status": "COMPLETE",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "梦想",
+      "segment_id": "S0001"
+    },
+    {
+      "start": 0.5,
+      "end": 1.5,
+      "text": "电视台",
+      "segment_id": "S0002"
+    },
+    {
+      "start": 1.5,
+      "end": 2.0,
+      "text": "电视台",
+      "segment_id": "S0003"
+    },
+    {
+      "start": 4.4,
+      "end": 5.7,
+      "text": "自然的电视台",
+      "segment_id": "S0004"
+    },
+    {
+      "start": 5.7,
+      "end": 6.9,
+      "text": "下一次视频",
+      "segment_id": "S0005"
+    },
+    {
+      "start": 6.9,
+      "end": 7.7,
+      "text": "拍价",
+      "segment_id": "S0006"
+    },
+    {
+      "start": 7.7,
+      "end": 8.9,
+      "text": "有限内",
+      "segment_id": "S0007"
+    },
+    {
+      "start": 8.9,
+      "end": 9.4,
+      "text": "电视台",
+      "segment_id": "S0008"
+    },
+    {
+      "start": 9.4,
+      "end": 10.9,
+      "text": "有限内",
+      "segment_id": "S0009"
+    },
+    {
+      "start": 10.9,
+      "end": 11.6,
+      "text": "没有电视台",
+      "segment_id": "S0010"
+    },
+    {
+      "start": 11.6,
+      "end": 12.6,
+      "text": "可以",
+      "segment_id": "S0011"
+    },
+    {
+      "start": 12.6,
+      "end": 13.7,
+      "text": "有限内",
+      "segment_id": "S0012"
+    },
+    {
+      "start": 13.7,
+      "end": 14.6,
+      "text": "没有电视台",
+      "segment_id": "S0013"
+    },
+    {
+      "start": 14.6,
+      "end": 14.8,
+      "text": "用来",
+      "segment_id": "S0014"
+    },
+    {
+      "start": 14.8,
+      "end": 16.4,
+      "text": "电视台",
+      "segment_id": "S0015"
+    },
+    {
+      "start": 16.4,
+      "end": 17.8,
+      "text": "用来",
+      "segment_id": "S0016"
+    },
+    {
+      "start": 17.8,
+      "end": 18.4,
+      "text": "md3",
+      "segment_id": "S0017"
+    },
+    {
+      "start": 18.4,
+      "end": 19.4,
+      "text": "放开",
+      "segment_id": "S0018"
+    },
+    {
+      "start": 19.4,
+      "end": 19.9,
+      "text": "放开",
+      "segment_id": "S0019"
+    },
+    {
+      "start": 19.9,
+      "end": 22.3,
+      "text": "在",
+      "segment_id": "S0020"
+    },
+    {
+      "start": 22.3,
+      "end": 23.5,
+      "text": "底下",
+      "segment_id": "S0021"
+    },
+    {
+      "start": 23.5,
+      "end": 24.5,
+      "text": "放开",
+      "segment_id": "S0022"
+    },
+    {
+      "start": 24.5,
+      "end": 25.6,
+      "text": "放开",
+      "segment_id": "S0023"
+    },
+    {
+      "start": 25.6,
+      "end": 26.6,
+      "text": "的电视台",
+      "segment_id": "S0024"
+    },
+    {
+      "start": 26.6,
+      "end": 28.0,
+      "text": "放开",
+      "segment_id": "S0025"
+    },
+    {
+      "start": 58.0,
+      "end": 63.0,
+      "text": "我",
+      "segment_id": "S0026"
+    },
+    {
+      "start": 63.0,
+      "end": 68.0,
+      "text": "我",
+      "segment_id": "S0027"
+    },
+    {
+      "start": 68.0,
+      "end": 72.0,
+      "text": "我",
+      "segment_id": "S0028"
+    },
+    {
+      "start": 72.0,
+      "end": 76.0,
+      "text": "我",
+      "segment_id": "S0029"
+    },
+    {
+      "start": 76.0,
+      "end": 80.0,
+      "text": "我",
+      "segment_id": "S0030"
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "我",
+      "segment_id": "S0031"
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": "我",
+      "segment_id": "S0032"
+    },
+    {
+      "start": 88.0,
+      "end": 93.0,
+      "text": "我",
+      "segment_id": "S0033"
+    },
+    {
+      "start": 93.0,
+      "end": 98.0,
+      "text": "我",
+      "segment_id": "S0034"
+    },
+    {
+      "start": 98.0,
+      "end": 105.0,
+      "text": "我",
+      "segment_id": "S0035"
+    },
+    {
+      "start": 105.0,
+      "end": 110.0,
+      "text": "我",
+      "segment_id": "S0036"
+    }
+  ],
+  "full_text": "梦想\n电视台\n电视台\n自然的电视台\n下一次视频\n拍价\n有限内\n电视台\n有限内\n没有电视台\n可以\n有限内\n没有电视台\n用来\n电视台\n用来\nmd3\n放开\n放开\n在\n底下\n放开\n放开\n的电视台\n放开\n我\n我\n我\n我\n我\n我\n我\n我\n我\n我\n我",
+  "transcript_chars": 83,
+  "first30s_text": "梦想电视台电视台自然的电视台下一次视频拍价有限内电视台有限内没有电视台可以有限内没有电视台用来电视台用来md3放开放开在底下放开放开的电视台放开",
+  "source": "faster_whisper_base_model",
+  "generated_at": "2026-09-14T01:35:09.357541"
+}

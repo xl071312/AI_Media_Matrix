@@ -1,0 +1,28 @@
+{
+  "status": "COMPLETE",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.3,
+      "text": "一路搜 down",
+      "segment_id": "S0001"
+    },
+    {
+      "start": 10.3,
+      "end": 13.5,
+      "text": "一路搜 down",
+      "segment_id": "S0002"
+    },
+    {
+      "start": 13.5,
+      "end": 24.5,
+      "text": "一路搜 down",
+      "segment_id": "S0003"
+    }
+  ],
+  "full_text": "一路搜 down\n一路搜 down\n一路搜 down",
+  "transcript_chars": 21,
+  "first30s_text": "一路搜 down一路搜 down一路搜 down",
+  "source": "faster_whisper_base_model",
+  "generated_at": "2026-09-14T01:34:24.089196"
+}

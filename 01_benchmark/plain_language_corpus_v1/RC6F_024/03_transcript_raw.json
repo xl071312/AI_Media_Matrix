@@ -1,0 +1,6 @@
+{
+  "status": "PENDING_ASR",
+  "note": "ASR to be run after collection",
+  "segments": [],
+  "transcript_chars": 0
+}

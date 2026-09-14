@@ -1,0 +1,12 @@
+{
+  "sample_id": "RC6F_018",
+  "content_id": "7559775923579407631",
+  "files": [
+    "01_metadata.json",
+    "02_performance.json",
+    "03_transcript_raw.json",
+    "04_transcript_raw.md",
+    "audio.m4a"
+  ],
+  "collected_at": "2026-09-14T01:31:12.201596"
+}

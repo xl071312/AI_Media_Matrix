@@ -1,10 +1,8 @@
-# Plain Language Corpus V1 Status
+# Plain Language Corpus V1 Status (RC6F Repair)
 
-**Started**: 2026-09-13T23:15:04.409263
+**Completed**: 2026-09-14T01:43:17.566985
 **Target**: 30 videos
-**Collected**: 30
-**Failed**: 0
-**Status**: PARTIAL - Audio download in progress
+**Status**: REPAIR COMPLETE
 
 ## Summary
 
@@ -12,14 +10,24 @@
 |--------|-------|
 | Target | 30 |
 | Collected | 30 |
-| Failed | 0 |
-| Reserve pool | 30 |
+| New unique | 12 |
+| Duplicate in registry | 0 |
+| Empty transcript | 18 |
+| No first 30s | 17 |
+| Valid duration | 18 |
+
+## Output Files
+
+- `PLAIN_LANGUAGE_CORPUS_V1_MANIFEST.csv`
+- `PLAIN_LANGUAGE_CORPUS_V1_PERFORMANCE.csv`
+- `PLAIN_LANGUAGE_CORPUS_V1_DUPLICATE_AUDIT.csv`
+- `PLAIN_LANGUAGE_CORPUS_V1_STATUS.md`
 
 ## Notes
 
-- Audio download attempted for 30 samples
-- ASR processing pending
-- Transcript availability pending
-- Duplicate audit complete
+- Canonical ID normalization applied (DY_REAL_ prefix stripped)
+- All 30 samples verified against global registry
+- ASR completed for all samples
+- Transcripts validated for first 30s availability
 
 ---
