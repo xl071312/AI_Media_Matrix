@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "25届硕士拿到AI训练师offer，",
+      "normalized_text": "25届硕士拿到AI训练师offer，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "不到7000且大小周；作者认为应打破信息差、维护劳动者权益。",
+      "normalized_text": "不到7000且大小周；作者认为应打破信息差、维护劳动者权益。"
+    }
+  ],
+  "full_text": "25届硕士拿到AI训练师offer，\n不到7000且大小周；作者认为应打破信息差、维护劳动者权益。",
+  "transcript_chars": 48,
+  "source": "first30_text_field"
+}

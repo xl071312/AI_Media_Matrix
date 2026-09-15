@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "40岁卡里120万仍焦虑；担心未来收入和孩子、家庭、父母养老医疗等压力。",
+      "normalized_text": "40岁卡里120万仍焦虑；担心未来收入和孩子、家庭、父母养老医疗等压力。"
+    }
+  ],
+  "full_text": "40岁卡里120万仍焦虑；担心未来收入和孩子、家庭、父母养老医疗等压力。",
+  "transcript_chars": 36,
+  "source": "first30_text_field"
+}

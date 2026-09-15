@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "卡里有百万存款的人更焦虑；焦虑来自未来赚钱能力和孩子教育、婚嫁、家庭、养老等压力。",
+      "normalized_text": "卡里有百万存款的人更焦虑；焦虑来自未来赚钱能力和孩子教育、婚嫁、家庭、养老等压力。"
+    }
+  ],
+  "full_text": "卡里有百万存款的人更焦虑；焦虑来自未来赚钱能力和孩子教育、婚嫁、家庭、养老等压力。",
+  "transcript_chars": 41,
+  "source": "first30_text_field"
+}

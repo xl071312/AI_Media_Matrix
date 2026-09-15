@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "普通人可通过与AI闲聊提升思维模型；带刀读书、AI拷打自己和开神仙局三招。",
+      "normalized_text": "普通人可通过与AI闲聊提升思维模型；带刀读书、AI拷打自己和开神仙局三招。"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "（章节要点）",
+      "normalized_text": "（章节要点）"
+    }
+  ],
+  "full_text": "普通人可通过与AI闲聊提升思维模型；带刀读书、AI拷打自己和开神仙局三招。\n（章节要点）",
+  "transcript_chars": 43,
+  "source": "first30_text_field"
+}

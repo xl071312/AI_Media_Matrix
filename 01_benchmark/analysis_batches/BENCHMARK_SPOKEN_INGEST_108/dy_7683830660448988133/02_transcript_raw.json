@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "实体店房租从13万涨到16万又降回13万；每天睁眼欠350。",
+      "normalized_text": "实体店房租从13万涨到16万又降回13万；每天睁眼欠350。"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "（章节要点）",
+      "normalized_text": "（章节要点）"
+    }
+  ],
+  "full_text": "实体店房租从13万涨到16万又降回13万；每天睁眼欠350。\n（章节要点）",
+  "transcript_chars": 36,
+  "source": "first30_text_field"
+}

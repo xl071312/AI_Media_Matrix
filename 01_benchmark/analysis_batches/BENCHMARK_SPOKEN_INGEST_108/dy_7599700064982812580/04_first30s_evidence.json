@@ -1,0 +1,26 @@
+{
+  "first30_text": "35岁程序员失业第八天，主动向妻子坦白被裁员经过，商量后续计划。",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "35岁程序员失业第八天，",
+      "normalized_text": "35岁程序员失业第八天，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "主动向妻子坦白被裁员经过，",
+      "normalized_text": "主动向妻子坦白被裁员经过，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "商量后续计划。",
+      "normalized_text": "商量后续计划。"
+    }
+  ]
+}

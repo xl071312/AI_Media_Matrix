@@ -1,0 +1,30 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "创业需谨慎；房贷是透支消费中最严重的，",
+      "normalized_text": "创业需谨慎；房贷是透支消费中最严重的，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "要考虑未来收入；不碰7件套，",
+      "normalized_text": "要考虑未来收入；不碰7件套，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "守住财富和健康。",
+      "normalized_text": "守住财富和健康。"
+    }
+  ],
+  "full_text": "创业需谨慎；房贷是透支消费中最严重的，\n要考虑未来收入；不碰7件套，\n守住财富和健康。",
+  "transcript_chars": 41,
+  "source": "first30_text_field"
+}

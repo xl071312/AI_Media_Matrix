@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "父母一个月给一两千的生活费（页面可见字幕）。",
+      "normalized_text": "父母一个月给一两千的生活费（页面可见字幕）。"
+    }
+  ],
+  "full_text": "父母一个月给一两千的生活费（页面可见字幕）。",
+  "transcript_chars": 22,
+  "source": "first30_text_field"
+}

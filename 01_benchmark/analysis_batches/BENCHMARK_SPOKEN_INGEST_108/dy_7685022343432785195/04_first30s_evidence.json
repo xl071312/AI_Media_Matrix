@@ -1,0 +1,26 @@
+{
+  "first30_text": "24年毕业、25年初入职，25年10月起欠薪；项目结束后全组被约谈，考虑外部机会。",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "24年毕业、25年初入职，",
+      "normalized_text": "24年毕业、25年初入职，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "25年10月起欠薪；项目结束后全组被约谈，",
+      "normalized_text": "25年10月起欠薪；项目结束后全组被约谈，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "考虑外部机会。",
+      "normalized_text": "考虑外部机会。"
+    }
+  ]
+}

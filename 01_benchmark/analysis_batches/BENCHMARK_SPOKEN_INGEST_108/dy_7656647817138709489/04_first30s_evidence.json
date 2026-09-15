@@ -1,0 +1,19 @@
+{
+  "first30_text": "AI专门抢走行业新手岗；利用AI陪练和快速熟悉行业帮助新手成长。（章节要点）",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "AI专门抢走行业新手岗；利用AI陪练和快速熟悉行业帮助新手成长。",
+      "normalized_text": "AI专门抢走行业新手岗；利用AI陪练和快速熟悉行业帮助新手成长。"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "（章节要点）",
+      "normalized_text": "（章节要点）"
+    }
+  ]
+}

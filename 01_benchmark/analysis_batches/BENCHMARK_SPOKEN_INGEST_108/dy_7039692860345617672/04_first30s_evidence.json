@@ -1,0 +1,12 @@
+{
+  "first30_text": "大家一定会这么做（页面字幕）",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "大家一定会这么做（页面字幕）",
+      "normalized_text": "大家一定会这么做（页面字幕）"
+    }
+  ]
+}

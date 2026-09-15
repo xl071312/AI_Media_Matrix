@@ -1,0 +1,37 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "北京月薪1万处于普通水平，",
+      "normalized_text": "北京月薪1万处于普通水平，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "超过一半上班族但生活成本高，",
+      "normalized_text": "超过一半上班族但生活成本高，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "难以存钱。",
+      "normalized_text": "难以存钱。"
+    },
+    {
+      "segment_id": "S0004",
+      "start": 15.0,
+      "end": 20.0,
+      "raw_text": "（章节要点）",
+      "normalized_text": "（章节要点）"
+    }
+  ],
+  "full_text": "北京月薪1万处于普通水平，\n超过一半上班族但生活成本高，\n难以存钱。\n（章节要点）",
+  "transcript_chars": 38,
+  "source": "first30_text_field"
+}

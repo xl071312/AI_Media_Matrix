@@ -1,0 +1,19 @@
+{
+  "first30_text": "凌晨4点17分；当日领还在梦乡。（页面可见字幕）",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "凌晨4点17分；当日领还在梦乡。",
+      "normalized_text": "凌晨4点17分；当日领还在梦乡。"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "（页面可见字幕）",
+      "normalized_text": "（页面可见字幕）"
+    }
+  ]
+}

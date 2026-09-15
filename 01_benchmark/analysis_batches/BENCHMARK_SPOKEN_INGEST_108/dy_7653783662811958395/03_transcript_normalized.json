@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "最好的选择就是我不动（页面字幕）",
+      "normalized_text": "最好的选择就是我不动（页面字幕）"
+    }
+  ],
+  "full_text": "最好的选择就是我不动（页面字幕）",
+  "transcript_chars": 16,
+  "source": "first30_text_field"
+}

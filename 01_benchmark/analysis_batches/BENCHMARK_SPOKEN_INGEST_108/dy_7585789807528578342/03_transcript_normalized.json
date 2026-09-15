@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "一个月赚一万块真的很难吗？（页面字幕）",
+      "normalized_text": "一个月赚一万块真的很难吗？（页面字幕）"
+    }
+  ],
+  "full_text": "一个月赚一万块真的很难吗？（页面字幕）",
+  "transcript_chars": 19,
+  "source": "first30_text_field"
+}

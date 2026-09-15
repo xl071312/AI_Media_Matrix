@@ -1,0 +1,44 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "不知道做什么？问题不在方向，",
+      "normalized_text": "不知道做什么？问题不在方向，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "在找需求的方法。",
+      "normalized_text": "在找需求的方法。"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "普通人赚钱只有一条路：帮别人解决问题。",
+      "normalized_text": "普通人赚钱只有一条路：帮别人解决问题。"
+    },
+    {
+      "segment_id": "S0004",
+      "start": 15.0,
+      "end": 20.0,
+      "raw_text": "反常识：不是先有技能再找用户，",
+      "normalized_text": "反常识：不是先有技能再找用户，"
+    },
+    {
+      "segment_id": "S0005",
+      "start": 20.0,
+      "end": 25.0,
+      "raw_text": "而是先有需求再匹配技能。",
+      "normalized_text": "而是先有需求再匹配技能。"
+    }
+  ],
+  "full_text": "不知道做什么？问题不在方向，\n在找需求的方法。\n普通人赚钱只有一条路：帮别人解决问题。\n反常识：不是先有技能再找用户，\n而是先有需求再匹配技能。",
+  "transcript_chars": 68,
+  "source": "first30_text_field"
+}

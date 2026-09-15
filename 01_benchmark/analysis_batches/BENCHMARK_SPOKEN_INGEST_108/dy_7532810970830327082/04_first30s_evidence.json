@@ -1,0 +1,26 @@
+{
+  "first30_text": "日本30年的经验表明，低通胀经济模式下，中产阶级面临返贫风险；现在很流行一个概念叫……",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "日本30年的经验表明，",
+      "normalized_text": "日本30年的经验表明，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "低通胀经济模式下，",
+      "normalized_text": "低通胀经济模式下，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "中产阶级面临返贫风险；现在很流行一个概念叫……",
+      "normalized_text": "中产阶级面临返贫风险；现在很流行一个概念叫……"
+    }
+  ]
+}

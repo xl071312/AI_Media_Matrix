@@ -1,0 +1,12 @@
+{
+  "first30_text": "NULL",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "NULL",
+      "normalized_text": "NULL"
+    }
+  ]
+}

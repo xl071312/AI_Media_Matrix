@@ -1,0 +1,26 @@
+{
+  "first30_text": "毕业后只身赴福建打拼，收到3900薪资当晚落泪，觉得无力赡养父母。",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "毕业后只身赴福建打拼，",
+      "normalized_text": "毕业后只身赴福建打拼，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "收到3900薪资当晚落泪，",
+      "normalized_text": "收到3900薪资当晚落泪，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "觉得无力赡养父母。",
+      "normalized_text": "觉得无力赡养父母。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "AI目前未到大规模替代人力阶段，",
+      "normalized_text": "AI目前未到大规模替代人力阶段，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "应将AI视为工具提高生产力。",
+      "normalized_text": "应将AI视为工具提高生产力。"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "（章节要点）",
+      "normalized_text": "（章节要点）"
+    }
+  ],
+  "full_text": "AI目前未到大规模替代人力阶段，\n应将AI视为工具提高生产力。\n（章节要点）",
+  "transcript_chars": 36,
+  "source": "first30_text_field"
+}

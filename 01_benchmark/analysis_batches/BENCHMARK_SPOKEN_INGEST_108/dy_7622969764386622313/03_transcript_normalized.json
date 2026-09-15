@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "赚钱靠做局、交易和交付而非单纯干活；普通人可从信息差、连接、撮合、交易做起。",
+      "normalized_text": "赚钱靠做局、交易和交付而非单纯干活；普通人可从信息差、连接、撮合、交易做起。"
+    }
+  ],
+  "full_text": "赚钱靠做局、交易和交付而非单纯干活；普通人可从信息差、连接、撮合、交易做起。",
+  "transcript_chars": 38,
+  "source": "first30_text_field"
+}

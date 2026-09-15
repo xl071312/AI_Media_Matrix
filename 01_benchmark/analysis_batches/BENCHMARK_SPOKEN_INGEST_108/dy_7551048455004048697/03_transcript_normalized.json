@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "大学生生活费一个月3000还嫌少，",
+      "normalized_text": "大学生生活费一个月3000还嫌少，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "社会上干活一个月不到三千；房租加水电还要贴钱。",
+      "normalized_text": "社会上干活一个月不到三千；房租加水电还要贴钱。"
+    }
+  ],
+  "full_text": "大学生生活费一个月3000还嫌少，\n社会上干活一个月不到三千；房租加水电还要贴钱。",
+  "transcript_chars": 40,
+  "source": "first30_text_field"
+}

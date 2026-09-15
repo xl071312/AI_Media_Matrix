@@ -1,0 +1,30 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "单休、试用期无保险，",
+      "normalized_text": "单休、试用期无保险，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "底薪3000转正3500；房租1500、饮食1500、交通158，",
+      "normalized_text": "底薪3000转正3500；房租1500、饮食1500、交通158，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "剩余很少。",
+      "normalized_text": "剩余很少。"
+    }
+  ],
+  "full_text": "单休、试用期无保险，\n底薪3000转正3500；房租1500、饮食1500、交通158，\n剩余很少。",
+  "transcript_chars": 48,
+  "source": "first30_text_field"
+}

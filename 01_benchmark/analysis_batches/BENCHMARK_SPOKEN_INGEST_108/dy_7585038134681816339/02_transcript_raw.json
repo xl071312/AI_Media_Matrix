@@ -1,0 +1,30 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "手里有1000万，",
+      "normalized_text": "手里有1000万，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "不算普通人吧？你可不普通；你认知以外挣得钱，",
+      "normalized_text": "不算普通人吧？你可不普通；你认知以外挣得钱，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "都留不住。",
+      "normalized_text": "都留不住。"
+    }
+  ],
+  "full_text": "手里有1000万，\n不算普通人吧？你可不普通；你认知以外挣得钱，\n都留不住。",
+  "transcript_chars": 36,
+  "source": "first30_text_field"
+}

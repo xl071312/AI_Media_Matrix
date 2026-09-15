@@ -1,0 +1,33 @@
+{
+  "first30_text": "没有那么高，我才3000；那种谁来都能干、可以被轻易替代的岗位，就不可能高工资。（页面可见字幕）",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "没有那么高，",
+      "normalized_text": "没有那么高，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "我才3000；那种谁来都能干、可以被轻易替代的岗位，",
+      "normalized_text": "我才3000；那种谁来都能干、可以被轻易替代的岗位，"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "就不可能高工资。",
+      "normalized_text": "就不可能高工资。"
+    },
+    {
+      "segment_id": "S0004",
+      "start": 15.0,
+      "end": 20.0,
+      "raw_text": "（页面可见字幕）",
+      "normalized_text": "（页面可见字幕）"
+    }
+  ]
+}

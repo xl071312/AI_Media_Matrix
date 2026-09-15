@@ -1,0 +1,12 @@
+{
+  "sample_id": "dy_7449714164832029961",
+  "content_id": "7449714164832029961",
+  "files": [
+    "01_metadata.json",
+    "02_transcript_raw.json",
+    "03_transcript_normalized.json",
+    "04_first30s_evidence.json",
+    "05_metrics.json"
+  ],
+  "created_at": "2026-09-15T04:34:34.958801"
+}

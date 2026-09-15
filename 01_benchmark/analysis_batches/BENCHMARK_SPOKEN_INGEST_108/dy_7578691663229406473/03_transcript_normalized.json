@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "入职后工资低一两千可接受；契约精神重要，",
+      "normalized_text": "入职后工资低一两千可接受；契约精神重要，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "小公司岗位薪资可能更高但背书价值不同。",
+      "normalized_text": "小公司岗位薪资可能更高但背书价值不同。"
+    }
+  ],
+  "full_text": "入职后工资低一两千可接受；契约精神重要，\n小公司岗位薪资可能更高但背书价值不同。",
+  "transcript_chars": 39,
+  "source": "first30_text_field"
+}

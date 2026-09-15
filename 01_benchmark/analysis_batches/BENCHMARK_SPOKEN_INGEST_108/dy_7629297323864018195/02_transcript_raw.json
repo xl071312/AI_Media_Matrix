@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "钱越来越难赚，",
+      "normalized_text": "钱越来越难赚，"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "原因到底是什么（页面字幕）",
+      "normalized_text": "原因到底是什么（页面字幕）"
+    }
+  ],
+  "full_text": "钱越来越难赚，\n原因到底是什么（页面字幕）",
+  "transcript_chars": 20,
+  "source": "first30_text_field"
+}

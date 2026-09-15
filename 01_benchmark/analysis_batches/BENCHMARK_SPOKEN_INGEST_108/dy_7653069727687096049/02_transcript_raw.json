@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "手里存款200万反而很焦虑？围绕养老、资产配置和未来安全感展开。",
+      "normalized_text": "手里存款200万反而很焦虑？围绕养老、资产配置和未来安全感展开。"
+    }
+  ],
+  "full_text": "手里存款200万反而很焦虑？围绕养老、资产配置和未来安全感展开。",
+  "transcript_chars": 32,
+  "source": "first30_text_field"
+}

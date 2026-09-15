@@ -1,0 +1,37 @@
+{
+  "status": "PARTIAL_FIRST30",
+  "note": "ASR unavailable - using first30_text from source",
+  "segments": [
+    {
+      "segment_id": "S0001",
+      "start": 0.0,
+      "end": 5.0,
+      "raw_text": "我就是。",
+      "normalized_text": "我就是。"
+    },
+    {
+      "segment_id": "S0002",
+      "start": 5.0,
+      "end": 10.0,
+      "raw_text": "。",
+      "normalized_text": "。"
+    },
+    {
+      "segment_id": "S0003",
+      "start": 10.0,
+      "end": 15.0,
+      "raw_text": "。",
+      "normalized_text": "。"
+    },
+    {
+      "segment_id": "S0004",
+      "start": 15.0,
+      "end": 20.0,
+      "raw_text": "（页面字幕）",
+      "normalized_text": "（页面字幕）"
+    }
+  ],
+  "full_text": "我就是。\n。\n。\n（页面字幕）",
+  "transcript_chars": 12,
+  "source": "first30_text_field"
+}
