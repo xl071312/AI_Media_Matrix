@@ -1,0 +1,5 @@
+route,count,description
+route_a_douyin_search_data,0,Existing search data (new candidates)
+route_b_related,0,Related videos (unavailable)
+route_c_creator,0,Creator expansion (unavailable)
+route_d_toutiao,0,Toutiao fallback (unavailable)

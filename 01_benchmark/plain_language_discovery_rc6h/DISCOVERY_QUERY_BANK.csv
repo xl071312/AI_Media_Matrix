@@ -1,0 +1,42 @@
+query,category,order
+普通人赚钱,money,1
+普通人收入,money,2
+工资到底,money,3
+一个月工资,money,4
+攒钱,money,5
+花钱值不值,money,6
+消费降级,money,7
+消费陷阱,money,8
+赚钱思维,money,9
+搞钱,money,10
+副业避坑,money,11
+副业怎么选,money,12
+开店亏钱,money,13
+小生意,money,14
+普通人翻身,money,15
+打工人,work,16
+上班真相,work,17
+老板为什么,work,18
+职场真相,work,19
+汇报工作,work,20
+工资涨不上去,work,21
+为什么升职,work,22
+工作值不值,work,23
+职场避坑,work,24
+被裁员怎么办,work,25
+大白话讲,explain,26
+我给你算一笔账,explain,27
+给你算一下,explain,28
+到底什么意思,explain,29
+举个例子,explain,30
+一看就懂,explain,31
+普通人能听懂,explain,32
+说白了,explain,33
+你想一下,explain,34
+为什么呢,explain,35
+AI 普通人,ai,36
+AI 工作,ai,37
+AI 上班,ai,38
+AI 副业,ai,39
+AI 赚钱,ai,40
+AI 打工人,ai,41
