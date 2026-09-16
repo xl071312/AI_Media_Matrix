@@ -1,0 +1,5 @@
+﻿failure_id,bucket,task,blocked_url,failure_reason,publish_or_update_time,crawl_time,source_url,screenshot_path,old,notes
+bf_brand_prices,A,premium brand monthly fees,,壹心/小火竹/暖芽/悦童/惠心/大朗/书香致远/汇智公开站均无稳定2026月费价目,,2026-09-16T01:57:54-07:00,,,0,
+bf_enterprise_registry,A,enterprise registry snippets,qcc/tianyancha,未登录工商聚合库；仅智联个体工商户名称等公开招聘页线索,,2026-09-16T01:57:54-07:00,https://www.zhaopin.com/companydetail/CZL1524903980.htm,,0,
+bf_venue_500,C,200-500㎡ near school,,公开转让/出租稳定样本偏200㎡档；500㎡近校清单不足,,2026-09-16T01:57:54-07:00,,,0,
+bf_hvac_ins,D,新风/保险价,,无公开可引用济南采购/保费数字,,2026-09-16T01:57:54-07:00,,,0,

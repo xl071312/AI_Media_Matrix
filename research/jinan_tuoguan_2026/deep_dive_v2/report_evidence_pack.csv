@@ -1,0 +1,99 @@
+﻿evidence_id,topic,school_area,institution_name,plain_language_fact,numeric_value,source_type,source_url,screenshot_path,date,confidence,caveat
+E0001,三校招生规模对比,泉新学校,济南市槐荫区泉新学校,济南市槐荫区泉新学校公开信息显示2026招生班数/学位线索为班数12、学位540。,540,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,2026-09-16T01:56:33-07:00,A,dismissal_time_not_publicly_found
+E0002,学校公开信息缺口,泉新学校,济南市槐荫区泉新学校,济南市槐荫区泉新学校的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,,B,not_publicly_found
+E0003,三校招生规模对比,杨柳春风学校,济南市槐荫区杨柳春风学校,济南市槐荫区杨柳春风学校公开信息显示2026招生班数/学位线索为班数6、学位270。,270,官方事实,http://www.huaiyin.gov.cn/gongkai/site_hyqylcfxx/channel_66beb036f551899f22023a25/doc_686f754d71083ac9f249512b.html,,2026-09-16T01:56:33-07:00,A,dismissal_time_not_publicly_found
+E0004,学校公开信息缺口,杨柳春风学校,济南市槐荫区杨柳春风学校,济南市槐荫区杨柳春风学校的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.huaiyin.gov.cn/gongkai/site_hyqylcfxx/channel_66beb036f551899f22023a25/doc_686f754d71083ac9f249512b.html,,,B,not_publicly_found
+E0005,学校公开信息缺口,泉景小学,济南泉景中学小学部,济南泉景中学小学部的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.shizhong.gov.cn/gongkai/site_shizhongquqjyhtyjdjnqjzxp/channel_jns_shizhongquqjyhtyjdjnqjzxp_10d/doc_68464461bbba7295f1d281c7.html,,,B,not_publicly_found
+E0006,学校公开信息缺口,泉景中学,济南泉景中学,济南泉景中学的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.shizhong.gov.cn/gongkai/site_shizhongquqjyhtyjdjnqjzxp/channel_jns_shizhongquqjyhtyjdjnqjzxp_10d/doc_68464461bbba7295f1d281c7.html,,,B,not_publicly_found
+E0007,学校公开信息缺口,绿地泉景园,(小区·对口泉新学校),(小区·对口泉新学校)的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,,B,not_publicly_found
+E0008,三校招生规模对比,阳光100参照,山东省济南阳光100中学/济南市阳光100小学,山东省济南阳光100中学/济南市阳光100小学公开信息显示2026招生班数/学位线索为班数阳光100中学4班180;阳光100小学4班180(区计划表)、学位中学180+小学180。,中学180+小学180,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjd/channel_6389a745375991828263d29e/doc_6a228a104c48b9888dc2d3e3.html,,2026-09-16T01:56:33-07:00,A,
+E0009,学校公开信息缺口,阳光100参照,山东省济南阳光100中学/济南市阳光100小学,山东省济南阳光100中学/济南市阳光100小学的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjd/channel_6389a745375991828263d29e/doc_6a228a104c48b9888dc2d3e3.html,,,B,not_publicly_found
+E0010,学校公开信息缺口,泉海参照,济南市市中区泉海学校,济南市市中区泉海学校的放学时间/午休/配餐校级细则在公开网页中未稳定找到，需现场或家长侧核实。,,官方事实,http://www.shizhong.gov.cn/gongkai/site_shizhongquqjyhtyjdjnsszqqhxxw/channel_jns_shizhongquqjyhtyjdjnsszqqhxxw_10d/doc_6847fbf4bbba7295f1d28229.html,,,B,not_publicly_found
+E0011,每区竞争机构数量,绿地泉景园,,结构化采集中，标签为「绿地泉景园」的核心竞品候选共 7 家（含地图/社媒匹配，非现场核验名单）。,7,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0012,线上/外部参照竞争,阳光100参照,,结构化采集中，标签为「阳光100参照」的核心竞品候选共 10 家（含地图/社媒匹配，非现场核验名单）。,10,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0013,每区竞争机构数量,泉新学校,,结构化采集中，标签为「泉新学校」的核心竞品候选共 2 家（含地图/社媒匹配，非现场核验名单）。,2,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0014,每区竞争机构数量,杨柳春风学校,,结构化采集中，标签为「杨柳春风学校」的核心竞品候选共 6 家（含地图/社媒匹配，非现场核验名单）。,6,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0015,每区竞争机构数量,泉景中学,,结构化采集中，标签为「泉景中学」的核心竞品候选共 2 家（含地图/社媒匹配，非现场核验名单）。,2,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0016,每区竞争机构数量,泉景小学,,结构化采集中，标签为「泉景小学」的核心竞品候选共 5 家（含地图/社媒匹配，非现场核验名单）。,5,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0017,线上/外部参照竞争,泉海参照,,结构化采集中，标签为「泉海参照」的核心竞品候选共 3 家（含地图/社媒匹配，非现场核验名单）。,3,地图团购,,,2026-09-16T11:00:19+00:00,B,匹配置信度见 core_competitors.match_confidence
+E0018,每区代表竞品,绿地泉景园,金苹果小饭桌,竞品「金苹果小饭桌」被录入深挖表，地址线索为「济南市槐荫区绿地泉景园1期8号楼302室」，匹配级别A，服务线索「小饭桌」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0019,每区代表竞品,绿地泉景园,新星小饭桌,竞品「新星小饭桌」被录入深挖表，地址线索为「济南市槐荫区绿地泉景园9号楼102室」，匹配级别A，服务线索「小饭桌」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0020,每区代表竞品,绿地泉景园,博乐少儿托管所中心,竞品「博乐少儿托管所中心」被录入深挖表，地址线索为「济南市槐荫区绿地泉景园二期7号楼1单元202」，匹配级别A，服务线索「托管/小饭桌」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0021,每区代表竞品,阳光100参照,济南市槐荫区优佳家托,竞品「济南市槐荫区优佳家托」被录入深挖表，地址线索为「济南市阳光100F12-4-101」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0022,每区代表竞品,阳光100参照,100小饭桌,竞品「100小饭桌」被录入深挖表，地址线索为「济南市阳光100F5-2-501」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0023,每区代表竞品,阳光100参照,起航辅导班,竞品「起航辅导班」被录入深挖表，地址线索为「济南市阳光100F15-6-102」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0024,每区代表竞品,阳光100参照,金色阳光饭桌,竞品「金色阳光饭桌」被录入深挖表，地址线索为「济南市阳光100F15-5-101」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0025,每区代表竞品,阳光100参照,智博托辅中心,竞品「智博托辅中心」被录入深挖表，地址线索为「济南市阳光100F5-3-702」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0026,每区代表竞品,阳光100参照,鲁美教育托管中心,竞品「鲁美教育托管中心」被录入深挖表，地址线索为「济南市阳光100F12-7-102」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0027,每区代表竞品,阳光100参照,开心辅导班,竞品「开心辅导班」被录入深挖表，地址线索为「济南市阳光100F22-104」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0028,每区代表竞品,阳光100参照,优+小饭桌,竞品「优+小饭桌」被录入深挖表，地址线索为「济南市阳光100F22号楼1单元202」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0029,每区代表竞品,阳光100参照,袋鼠妈妈托管连锁机构阳光100十二部,竞品「袋鼠妈妈托管连锁机构阳光100十二部」被录入深挖表，地址线索为「济南市阳光100F12-6-902」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0030,每区代表竞品,阳光100参照,芽趣托教(阳光100校区),竞品「芽趣托教(阳光100校区)」被录入深挖表，地址线索为「济南市槐荫区阳光100」，匹配级别A，服务线索「小饭桌/托管」。,,官方事实,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00,A,广告/列表信息需再核实营业状态
+E0031,每区代表竞品,泉新学校,新智托管,竞品「新智托管」被录入深挖表，地址线索为「未公开」，匹配级别B，服务线索「托管」。,,广告宣传,file://research/jinan_tuoguan_2026/school_competition.csv,,2026-09-16T01:56:33-07:00,B,广告/列表信息需再核实营业状态
+E0032,每区代表竞品,泉新学校,静慧托管,竞品「静慧托管」被录入深挖表，地址线索为「未公开」，匹配级别B，服务线索「托管」。,,广告宣传,file://research/jinan_tuoguan_2026/school_competition.csv,,2026-09-16T01:56:33-07:00,B,广告/列表信息需再核实营业状态
+E0033,每区真实价格,unresolved,贝尔安亲(泉景校区),价格样本：贝尔安亲(泉景校区)，价型「团购价」，数额599元/周体验，服务范围「幼小衔接小学晚托1周+正音训练10次(新客)」。,599,地图团购,http://t.dianping.com/deal/1664209224,,2026-09-16,B,需对照价目/电询复核
+E0034,每区真实价格,unresolved,贝尔安亲(泉景校区),价格样本：贝尔安亲(泉景校区)，价型「体验价」，数额197元/5天体验，服务范围「小学晚托五天全托体验(午+晚)」。,197,地图团购,https://www.dianping.com/shop/kaV5uESeS4P2RCkN,,2026-09-16,B,需对照价目/电询复核
+E0035,每区真实价格,unresolved,贝尔安亲(泉景校区),价格样本：贝尔安亲(泉景校区)，价型「体验价」，数额19.9元/次，服务范围「小学晚托一次餐食体验」。,19.9,地图团购,https://www.dianping.com/shop/kaV5uESeS4P2RCkN,,2026-09-16,B,需对照价目/电询复核
+E0036,每区真实价格,unresolved,(匿名评论·槐荫),价格样本：(匿名评论·槐荫)，价型「评论口述价」，数额900元/月，服务范围「午餐三菜一汤+下午粥面包+看作业」。,900,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0037,每区真实价格,unresolved,(匿名评论·济南),价格样本：(匿名评论·济南)，价型「评论口述价」，数额750元/月，服务范围「午餐小饭桌」。,750,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0038,每区真实价格,unresolved,(匿名评论·济南),价格样本：(匿名评论·济南)，价型「评论口述价」，数额1100元/月，服务范围「午餐+晚餐」。,1100,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0039,每区真实价格,泉景小学,(匿名评论·市中区),价格样本：(匿名评论·市中区)，价型「评论口述价」，数额860元/月，服务范围「小饭桌(口径未拆午/晚)」。,860,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0040,每区真实价格,泉景小学,(匿名评论·市中区),价格样本：(匿名评论·市中区)，价型「评论口述价」，数额890元/月，服务范围「小饭桌(口径未拆午/晚)」。,890,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0041,每区真实价格,unresolved,花锦时代(槐荫实验附近晚辅),价格样本：花锦时代(槐荫实验附近晚辅)，价型「月费」，数额880元/月，服务范围「晚辅小班+作业+晚餐」。,880,广告宣传,https://www.xiaohongshu.com/explore/6a8a7111000000002802e94b,,2025-08-22,B,需对照价目/电询复核
+E0042,每区真实价格,unresolved,花锦时代(槐荫实验附近晚辅),价格样本：花锦时代(槐荫实验附近晚辅)，价型「体验价」，数额39.9元/3天，服务范围「晚辅体验含晚餐」。,39.9,广告宣传,https://www.xiaohongshu.com/explore/6a8a7111000000002802e94b,,2025-08-22,B,需对照价目/电询复核
+E0043,每区真实价格,unresolved,花锦时代(槐荫实验附近晚辅),价格样本：花锦时代(槐荫实验附近晚辅)，价型「首月优惠」，数额780元/首月，服务范围「晚辅首月优惠(880-100)」。,780,广告宣传,https://www.xiaohongshu.com/explore/6a8a7111000000002802e94b,,2025-08-22,B,需对照价目/电询复核
+E0044,每区真实价格,unresolved,济南小饭桌行业访谈(匿名),价格样本：济南小饭桌行业访谈(匿名)，价型「历史旧价」，数额550元/月，服务范围「只吃午饭」。,550,官方事实,https://news.iqilu.com/shandong/shandonggedi/20180508/3908948.shtml,,2018-05-08,C,历史旧价，不得当作2026现行月费
+E0045,每区真实价格,unresolved,济南小饭桌行业访谈(匿名),价格样本：济南小饭桌行业访谈(匿名)，价型「历史旧价」，数额700元/月，服务范围「午饭+下午放学托管」。,700,官方事实,https://news.iqilu.com/shandong/shandonggedi/20180508/3908948.shtml,,2018-05-08,C,历史旧价，不得当作2026现行月费
+E0046,每区真实价格,unresolved,历下健康午餐服务中心(绿城百合),价格样本：历下健康午餐服务中心(绿城百合)，价型「历史旧价」，数额680元/月，服务范围「午托」。,680,官方事实,http://sd.dzwww.com/sdnews/201608/t20160809_14747391.htm,,2016-08-09,C,历史旧价，不得当作2026现行月费
+E0047,每区真实价格,unresolved,历下健康午餐服务中心(绿城百合),价格样本：历下健康午餐服务中心(绿城百合)，价型「历史旧价」，数额980元/月，服务范围「午晚托」。,980,官方事实,http://sd.dzwww.com/sdnews/201608/t20160809_14747391.htm,,2016-08-09,C,历史旧价，不得当作2026现行月费
+E0048,每区真实价格,unresolved,巧克力牧场托管教育(甸柳参考),价格样本：巧克力牧场托管教育(甸柳参考)，价型「历史旧价」，数额580元/月，服务范围「中午小饭桌接送+午餐+午休」。,580,广告宣传,http://www.ywtds.com/school/9057/,,unknown_pre_2026,C,历史旧价，不得当作2026现行月费
+E0049,每区真实价格,unresolved,巧克力牧场托管教育(甸柳参考),价格样本：巧克力牧场托管教育(甸柳参考)，价型「历史旧价」，数额380元/月，服务范围「下午小饭桌晚餐+辅导」。,380,广告宣传,http://www.ywtds.com/school/9057/,,unknown_pre_2026,C,历史旧价，不得当作2026现行月费
+E0050,每区真实价格,unresolved,济南学易佳,价格样本：济南学易佳，价型「体验价」，数额199元/5天，服务范围「5-6岁整周适应体验课」。,199,广告宣传,https://www.xiaohongshu.com/explore/6a6c41290000000028007273,,2025-07-30,B,需对照价目/电询复核
+E0051,每区真实价格,杨柳春风学校,贝尔安亲课后托管加盟(探店内容·西客站),价格样本：贝尔安亲课后托管加盟(探店内容·西客站)，价型「评论口述价」，数额17800元/学期，服务范围「高投入托管学期收费(探店口述)」。,17800,用户评论,file://research/jinan_tuoguan_2026/02_douyin_competitors/posts.csv#西客站托管_17800,,2025-03-20,C,用户评论口述，未独立核实
+E0052,每区真实价格,unresolved,(匿名评论·济南),价格样本：(匿名评论·济南)，价型「评论口述价」，数额450元/月，服务范围「午托」。,450,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0053,每区真实价格,unresolved,(匿名评论·领秀城),价格样本：(匿名评论·领秀城)，价型「评论口述价」，数额1500元/月，服务范围「下午托管」。,1500,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0054,每区真实价格,unresolved,(匿名评论·济南),价格样本：(匿名评论·济南)，价型「评论口述价」，数额2000元/月，服务范围「午晚托」。,2000,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0055,每区真实价格,unresolved,(匿名评论·历下),价格样本：(匿名评论·历下)，价型「评论口述价」，数额1460元/月，服务范围「午晚托」。,1460,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论口述，未独立核实
+E0056,每区真实价格,杨柳春风学校,杨柳春风×济南青少年宫暑期托管,价格样本：杨柳春风×济南青少年宫暑期托管，价型「公开指导区间」，数额20-24元/人/天，服务范围「基础看护式暑期托管（公开搜索AI摘要，非门店价目）」。,20-24,官方事实,https://www.google.com/search?q=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E+%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1+%E4%BB%B7%E6%A0%BC,02_yangliu/screenshots/google_yangliu_qinggong_2026.png,2026,B,需对照价目/电询复核
+E0057,每区真实价格,杨柳春风学校,杨柳春风×济南青少年宫暑期托管,价格样本：杨柳春风×济南青少年宫暑期托管，价型「公开指导区间」，数额12-15元/餐，服务范围「自愿午餐（公开搜索AI摘要，非门店价目）」。,12-15,官方事实,https://www.google.com/search?q=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E+%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1+%E4%BB%B7%E6%A0%BC,02_yangliu/screenshots/google_yangliu_qinggong_2026.png,2026,B,需对照价目/电询复核
+E0058,家长主要需求/抱怨,泉景小学,绿沅幼儿园等评论线索,家长侧信号（recommendation_ask）：一年级新生求推荐泉景小学附近靠谱小饭桌,,用户评论,https://www.xiaohongshu.com/explore/6a824f6e0000000033013513,,2025-08-16,C,用户评论/未独立核实
+E0059,家长主要需求/抱怨,泉景中学,蛋仔妈咪666,家长侧信号（promo_meal）：泉景中学小饭桌餐食展示；最晚约六点；收费未答,,用户评论,https://www.xiaohongshu.com/explore/673098bd000000001a01dd9c,,2024-11-10,C,用户评论/未独立核实
+E0060,家长主要需求/抱怨,unresolved,,家长侧信号（price_crowd）：济南小饭桌一月多少钱讨论帖,,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,2025-07-20,C,用户评论/未独立核实
+E0061,家长主要需求/抱怨,泉海参照,壹心托管,家长侧信号（premium_flex）：壹心托管泉海校区场馆/餐厨/午休宣传,,用户评论,https://www.douyin.com/video/7525763465560313146,,2025,C,用户评论/未独立核实
+E0062,家长主要需求/抱怨,unresolved,,家长侧信号（regulation）：山东校外托管监管9月16实施解读,,用户评论,https://www.xiaohongshu.com/explore/6a8d6eeb000000001803c15e,,2025-08-25,C,用户评论/未独立核实
+E0063,家长主要需求/抱怨,泉新学校,,家长侧信号（review_request）：搜索结果出现“体验了学校旁边托管班，说说真实感受”，反映家长需要真实体验/评价。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%E6%89%98%E7%AE%A1&type=51,01_quanxin/screenshots/xhs_quanxin_search_public.png,2026-06-22,C,用户评论/未独立核实
+E0064,家长主要需求/抱怨,泉新学校,,家长侧信号（negative_review）：搜索结果出现“真的不建议送孩子去晚托班”，晚托体验/信任是明显避坑需求。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%E6%89%98%E7%AE%A1&type=51,01_quanxin/screenshots/xhs_quanxin_search_public.png,2026-03-06,C,用户评论/未独立核实
+E0065,家长主要需求/抱怨,泉新学校,,家长侧信号（negative_review）：搜索结果出现“学校附近的托管班都这样吗？太可怕了”，关注安全/质量和避坑。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%E6%89%98%E7%AE%A1&type=51,01_quanxin/screenshots/xhs_quanxin_search_public.png,2026-01-22,C,用户评论/未独立核实
+E0066,家长主要需求/抱怨,杨柳春风学校,,家长侧信号（complaint）：“老板态度特别差！！！”为公开搜索结果标题，提示家长关注沟通/服务态度。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E6%89%98%E7%AE%A1&type=51,02_yangliu/screenshots/xhs_yangliu_search_public.png,2026-08-31,C,用户评论/未独立核实
+E0067,家长主要需求/抱怨,杨柳春风学校,,家长侧信号（avoidance）：“避雷托管”为公开搜索结果标题，反映避坑/投诉内容需求。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E6%89%98%E7%AE%A1&type=51,02_yangliu/screenshots/xhs_yangliu_search_public.png,2026-05-10,C,用户评论/未独立核实
+E0068,家长主要需求/抱怨,杨柳春风学校,,家长侧信号（service_differentiation）：“是晚托，但不是普通的晚托班！！”提示家长对晚托差异化服务感兴趣。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E6%89%98%E7%AE%A1&type=51,02_yangliu/screenshots/xhs_yangliu_search_public.png,2026-06-26,C,用户评论/未独立核实
+E0069,家长主要需求/抱怨,泉景小学,,家长侧信号（recommendation_ask）：“泉景小学附近小饭桌，求推荐！”明确出现家长求推荐。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%B3%89%E6%99%AF%E5%B0%8F%E5%AD%A6%E6%89%98%E7%AE%A1&type=51,03_quanjing/screenshots/xhs_quanjing_search_public.png,2026-08-17,C,用户评论/未独立核实
+E0070,家长主要需求/抱怨,泉景中学,家长A（原昵称已匿名化）,家长侧信号（food_and_nap）：“济南泉景中学小学部附近小饭桌”公开结果配有餐食展示，提示饭菜/午休是家长关注点。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E6%B3%89%E6%99%AF%E5%B0%8F%E5%AD%A6%E6%89%98%E7%AE%A1&type=51,03_quanjing/screenshots/xhs_quanjing_search_public.png,2024-11-19,C,用户评论/未独立核实
+E0071,家长主要需求/抱怨,绿地泉景园,,家长侧信号（price_ask）：“你们那里都多少钱”公开标题，直接反映家长询价需求。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E7%BB%BF%E5%9C%B0%E6%B3%89%E6%99%AF%E5%9B%AD%E6%89%98%E7%AE%A1&type=51,03_quanjing/screenshots/xhs_lvdi_search_public.png,2026-09-01,C,用户评论/未独立核实
+E0072,家长主要需求/抱怨,绿地泉景园,绿地社区托,家长侧信号（affordability）：“绿地社区托｜国金姊妹园，普惠价就能拥有”公开宣传标题，提示普惠价/性价比诉求；未显示数字。,,用户评论,https://www.xiaohongshu.com/search_result/?keyword=%E7%BB%BF%E5%9C%B0%E6%B3%89%E6%99%AF%E5%9B%AD%E6%89%98%E7%AE%A1&type=51,03_quanjing/screenshots/xhs_lvdi_search_public.png,2026-08-26,C,用户评论/未独立核实
+E0073,租金,杨柳春风学校,,租盘样本：烟台路/临沂路转角绿地中央广场四区(西客站旁)，约180㎡，1-2F层，月租4166，餐饮可行性「Y」。,4166,地图团购,https://m.anjuke.com/jn/sp/zu/7538070615/,,2026-09-15,B,
+E0074,租金,杨柳春风学校,,租盘样本：西客站·杨柳春风春风路商铺，约150㎡，临街层，月租面议，餐饮可行性「Y」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0075,租金,杨柳春风学校,,租盘样本：西客站·中建锦绣广场-2号楼青岛路3716号，约202㎡，纯一层层，月租5800，餐饮可行性「Y」。,5800,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,
+E0076,租金,杨柳春风学校,,租盘样本：西客站·恒大晶都中心西区公寓B座附近青岛路，约115㎡，层，月租5500，餐饮可行性「未知」。,5500,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,
+E0077,租金,杨柳春风学校,,租盘样本：西客站·地平甲第时代沿街商铺，约135㎡，临街层，月租面议，餐饮可行性「未知」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0078,租金,阳光100参照,,租盘样本：阳光新路·阳光100国际新城B区商铺，约120㎡，层，月租面议，餐饮可行性「Y」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0079,租金,阳光100参照,,租盘样本：阳光100六期欧亚大观北侧商业街，约129㎡，层，月租面议，餐饮可行性「未知」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0080,租金,阳光100参照,,租盘样本：阳光100六期欧亚大观北侧商业街，约173㎡，层，月租面议，餐饮可行性「未知」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0081,租金,阳光100参照,,租盘样本：阳光100G区17号楼餐馆转让，约200㎡，纯一层层，月租6500，餐饮可行性「Y」。,6500,广告宣传,http://jinanspw.com/view/?id=38583,,2026-07-25,B,
+E0082,租金,阳光100参照,,租盘样本：阳光100凤凰街南邻泉景天沅秀园沿街一层(送2楼50平)，约200㎡，1F(+送2F50)层，月租面议，餐饮可行性「Y」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/7100676493/,,unknown,B,listing可能过时
+E0083,租金,绿地泉景园,,租盘样本：刘长山路槐荫段·腊山南苑(幼儿园对面)，约100㎡，层，月租面议，餐饮可行性「未知」。,面议,地图团购,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,2026-09-15,B,listing可能过时
+E0084,人工成本,济南,,公开招聘中「托管老师」可见薪资区间样本包括：3000-4500元/月；3000-6000元/月；2000-3500元/月；2000-2500元/月；3000-6000元/月。,,广告宣传,,,2026-09-16T11:00:19+00:00,B,招聘价非实际发薪；提成与底薪需分开看
+E0085,人工成本,济南,,公开招聘中「督学/晚辅老师」可见薪资区间样本包括：6000-12000元/月；试用4000-5000;转正综合6000-9000。,,广告宣传,,,2026-09-16T11:00:19+00:00,B,招聘价非实际发薪；提成与底薪需分开看
+E0086,人工成本,济南,,公开招聘中「厨师」可见薪资区间样本包括：5000-5500元/月；约4000-5000元/月。,,广告宣传,,,2026-09-16T11:00:19+00:00,B,招聘价非实际发薪；提成与底薪需分开看
+E0087,人工成本,济南,,公开招聘中「生活老师」可见薪资区间样本包括：3000-4000元/月。,,广告宣传,,,2026-09-16T11:00:19+00:00,B,招聘价非实际发薪；提成与底薪需分开看
+E0088,人工成本,济南,,公开招聘中「兼职老师」可见薪资区间样本包括：80-140元/天。,,广告宣传,,,2026-09-16T11:00:19+00:00,B,招聘价非实际发薪；提成与底薪需分开看
+E0089,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0090,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0091,合规,槐荫/济南,,合规公开线索：合规公开信息。省政府网站摘要页curl可能短,,官方事实,http://www.shandong.gov.cn/art/2026/8/9/art_97560_736080.html,raw/shandong_gov_tuoguan_brief.html,,A,
+E0092,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0093,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0094,合规,槐荫/济南,,合规公开线索：合规公开信息。对“作业辅导型晚辅”宣传有直接合规含义,,官方事实,http://www.shandong.gov.cn/art/2026/8/9/art_97560_736080.html,,,A,
+E0095,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0096,合规,槐荫/济南,,合规公开线索：合规公开信息。,,官方事实,http://news.e23.cn/shandong/2026-08-09/2026080900011.html,raw/shandong_tuoguan_opinion_e23.html,,A,
+E0097,线上竞争强弱,三商圈,,本轮社交深挖画像仅稳定写入 3 条账号级记录；抖音出现滑块验证、小红书通用搜索曾遇登录墙，故线上强弱样本偏少，不能外推为市场真实占比。,3,广告宣传,,deep_dive_v2/06_failures/,2026-09-16T11:00:19+00:00,B,采集受限
+E0098,数据缺口,三商圈,,失败/阻塞记录 12 条，未解决实体 4 条；具名2026真月费样本仍不足每区5家目标。,12,官方事实,,,2026-09-16T11:00:19+00:00,A,见 failures.csv / unresolved_matches.csv

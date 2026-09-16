@@ -1,0 +1,37 @@
+{
+  "issue": 3,
+  "version": "deep_dive_v2",
+  "status": "ready_for_analysis",
+  "updated_at": "2026-09-16T11:00:19+00:00",
+  "branch_target": "research/jinan-tuoguan-2026-v2",
+  "counts": {
+    "core_competitors": 35,
+    "prices_total": 25,
+    "prices_effective_like": 9,
+    "prices_historical": 6,
+    "prices_oral_comment": 10,
+    "parent_demand_signals": 15,
+    "local_rent": 11,
+    "labor": 16,
+    "school_facts": 7,
+    "social_deep_profiles": 3,
+    "report_evidence_pack": 98,
+    "unresolved": 4,
+    "failures": 12,
+    "competitors_by_area": {
+      "绿地泉景园": 7,
+      "阳光100参照": 10,
+      "泉新学校": 2,
+      "杨柳春风学校": 6,
+      "泉景中学": 2,
+      "泉景小学": 5,
+      "泉海参照": 3
+    }
+  },
+  "gaps": [
+    "真月费每区≥5家未达标",
+    "放学/午休/配餐校级细则多 not_publicly_found",
+    "抖音滑块、百度地图验证、小红书登录墙",
+    "贝尔安亲泉景校区名称地址冲突入 unresolved"
+  ]
+}

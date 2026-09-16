@@ -1,0 +1,8 @@
+﻿signal_id,platform,school_area_precise,signal_type,plain_text,price_mentioned,institution_mentioned,publish_or_update_time,crawl_time,source_url,screenshot_path,source_type,old,notes
+F_xhs_price_ask,xiaohongshu,unresolved,price_ask,请教济南小学家长！现在济南小饭桌一月多少钱？评论汇总多档价格,750/900/1100/860-890/1460/1500/2000+,,2025-07-20,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,,用户评论,0,济南美食情报局帖
+F_xhs_qjxx_ask,xiaohongshu,泉景小学,recommendation_ask,泉景小学附近小饭桌求推荐；后称找到附近幼儿园托管,,绿沅幼儿园/博雅(评论未核实),2025-08-16,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/6a824f6e0000000033013513,,用户评论,0,
+F_xhs_qjzx_meal,xiaohongshu,泉景中学,operator_or_parent_promo,泉景中学小饭桌餐食展示；评论问最晚几点，回复一般六点；收费问未答,,蛋仔妈咪666,2024-11-10,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/673098bd000000001a01dd9c,,广告宣传,1,
+F_xhs_compliance,xiaohongshu,unresolved,regulation_discussion,解读山东校外托管监管意见9月16实施；住宅小饭桌合规/消防成本或上涨,,,2025-08-25,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/6a8d6eeb000000001803c15e,,用户评论,0,
+F_dy_yixin_premium,douyin,泉海参照,premium_venue_flex,壹心强调酒店式服务、明厨、太空舱午休、省级视察食安住宿,,壹心托管,2025,2026-09-16T01:57:54-07:00,https://www.douyin.com/video/7575856001335147953,,广告宣传,0,
+F_dy_huajin_880,douyin,unresolved,price_ad,槐荫实验附近晚辅880/月，39.9体验3天,880元/月;39.9/3天,花锦时代,2025-08-22,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/6a8a7111000000002802e94b,,广告宣传,0,非三校核心
+F_xhs_labor_pain,xiaohongshu,unresolved,labor_signal,托管求职避雷：低薪1500-2500、隐形劳动、欠薪评论,工资1500-2500,臻源等(未核实),2025-05-09,2026-09-16T01:57:54-07:00,https://www.xiaohongshu.com/explore/69ff27630000000037034fca,,用户评论,0,全国向内容；济南关联弱

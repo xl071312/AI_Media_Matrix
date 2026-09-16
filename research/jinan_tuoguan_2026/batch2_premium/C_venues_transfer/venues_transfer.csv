@@ -1,0 +1,7 @@
+﻿listing_id,school_area_precise,address,area_sqm,floor,monthly_rent,transfer_fee,catering_fit,publish_or_update_time,crawl_time,source_url,screenshot_path,source_type,old,stale_flag,notes
+C_yg100_g_200,阳光100参照,阳光100G区17号楼餐馆,200,纯一层,6500,面议,Y(餐饮在营),2026-07-25,2026-09-16T01:57:54-07:00,http://jinanspw.com/view/?id=38583,raw/shanpu_yg100_g_transfer.html,广告宣传,0,0,200㎡达下限；非500上限样本
+C_yg100_phoenix_200,阳光100参照,阳光100凤凰街南邻泉景天沅秀园沿街,200,1F送2F50,面议,,可明火线索,unknown,2026-09-16T01:57:54-07:00,https://m.anjuke.com/jn/sp/zu/7100676493/,,地图团购,0,1,
+C_yg100_phoenix_74,阳光100参照,阳光100凤凰街餐饮小吃,74,临街,4000,45000,Y,2026-04-19,2026-09-16T01:57:54-07:00,http://jinanspw.com/view/?id=38636,,广告宣传,0,0,面积<100；作对照非主样本
+C_xike_180,杨柳春风学校,绿地中央广场四区烟台路转角,180,1-2F,4166,,Y天然气明火,2026-09-15,2026-09-16T01:57:54-07:00,https://m.anjuke.com/jn/sp/zu/7538070615/,,地图团购,0,0,<200㎡；西客站片
+C_xike_202,杨柳春风学校,中建锦绣广场2号楼,202,纯一层,5800,,Y,2026-09-15,2026-09-16T01:57:54-07:00,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,0,0,
+C_gap_500sqm,unresolved,,,,,,,,2026-09-16T01:57:54-07:00,,,,0,,FAILURE: 公开检索未稳定命中200-500㎡且近三校门的托管可转化转让清单；多数为面议或面积不符

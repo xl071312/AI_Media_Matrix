@@ -1,0 +1,5 @@
+﻿candidate_id,school_area_precise,name,why_unresolved,possible_links,source_url,screenshot_path,collected_at
+un_beier_quanjing,unresolved,贝尔安亲(泉景校区),点评店名含泉景但v1地址为王官庄小区；官方angelbell济南列表未列泉景校区；与绿地泉景园/泉景中学均无法A/B确认,dianping:kaV5uESeS4P2RCkN; inst_163d6c5fb8,https://www.dianping.com/shop/kaV5uESeS4P2RCkN,,2026-09-16T01:56:33-07:00
+un_longxing,unresolved,龙兴之家 课后伴学,v1仅社交命中泉景托管关键词；无地址无证照；match原C级,inst_71847529b4,file://research/jinan_tuoguan_2026/institutions.csv,,2026-09-16T01:56:33-07:00
+un_changqing_hengda,unresolved,长清恒大育贤博跃托管—李老师,地理上属长清/恒大，不应进杨柳春风核心；原v1弱关联,inst_3c1cc9bd19,file://research/jinan_tuoguan_2026/institutions.csv,,2026-09-16T01:56:33-07:00
+un_duocai,unresolved,多彩小饭桌,地址古城鑫都，距泉新较远；不宜标泉新/绿地泉景园,inst_87b96ec9a0,http://jn.bendibao.com/edu/2017918/47248.shtm,,2026-09-16T01:56:33-07:00

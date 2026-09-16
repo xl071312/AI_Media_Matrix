@@ -1,0 +1,13 @@
+﻿failure_id,school_area_precise,task,blocked_url,failure_reason,screenshot_path,fields_read,fields_unread,collected_at
+f_price_quanxin_monthly,泉新学校,current_prices_2026,,公开网页未找到泉新校门口机构2026月费价目；仅有历史旧价与跨区评论/团购,,学校招生/配餐遴选存在,机构现行月费,2026-09-16T01:56:33-07:00
+f_price_yangliu_monthly,杨柳春风学校,current_prices_2026,,真爱/锦绣等无公开月费；仅弱关联西客站探店17800/学期,,竞品名录,月费价目,2026-09-16T01:56:33-07:00
+f_price_lvdi_monthly,绿地泉景园,current_prices_2026,,金苹果/新星/博乐仅本地宝历史名录无价格,,地址星级,月费,2026-09-16T01:56:33-07:00
+f_price_quanjing_primary,泉景小学,current_prices_2026,,家长求推荐帖无报价；市中区860-890为泛评论弱关联,,需求信号,店家价目,2026-09-16T01:56:33-07:00
+f_dismissal_times,泉新学校,school_facts,,官方页未公布放学/课后服务结束时间；禁止臆造,,招生班数学区,"dismissal_time,afterschool_end",2026-09-16T01:56:33-07:00
+f_anjuke_block,阳光100参照,local_rent_2026,https://jinan.anjuke.com/community/view/226294,安居客小区页curl仅返回极短/验证页(955B)；房价改用58同城爱房等公开摘要,,,完整挂牌列表,2026-09-16T01:56:33-07:00
+f_yixin_price,泉海参照,current_prices_2026,,壹心抖音/ASR大量场馆线索但无公开月费数字,,地址厨房午休,price,2026-09-16T01:56:33-07:00
+f_beike_captcha,绿地泉景园,batch2_school_payment,贝壳/链家部分小区页,搜索摘要提示验证码；采用58/房天下/安居客公开数字,,第三方均价,贝壳原生成交明细,2026-09-16T01:56:33-07:00
+f_computeruse_forbidden,unresolved,all,,任务禁止ComputerUse/登录绕过；点评/抖音详情深层字段受限,,公开搜索与curl,需登录字段,2026-09-16T01:56:33-07:00
+f_douyin_quanxin_captcha,泉新学校,Douyin keyword/account search,https://www.douyin.com/search/%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%E6%89%98%E7%AE%A1?type=user,公开访问触发滑块验证码中间页；未尝试绕过,06_failures/douyin_quanxin_captcha.png,captcha wall only,account metrics;posts;comments;ASR,2026-09-16T02:08:00-07:00
+f_xhs_initial_login_wall,泉新学校,Xiaohongshu generic search,https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E6%89%98%E7%AE%A1&type=51,初次访问出现手机号登录弹窗；未登录/未绕过；后续精确关键词页面可公开加载,06_failures/xiaohongshu_login_wall.png,search shell and login wall,initial generic result detail fields,2026-09-16T02:08:00-07:00
+f_baidumap_quanjing_captcha,绿地泉景园,Baidu Maps place search,https://map.baidu.com/search/%E6%B3%89%E6%99%AF%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1,地图搜索触发Baidu Security Verification滑块；未尝试绕过,06_failures/baidu_map_quanjing_captcha.png,map shell and query,map list;detail;reviews;prices,2026-09-16T02:08:00-07:00

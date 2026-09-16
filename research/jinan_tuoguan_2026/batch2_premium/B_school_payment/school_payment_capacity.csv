@@ -1,0 +1,12 @@
+﻿record_id,school_or_community,school_area_precise,metric,value,unit,period,publish_or_update_time,crawl_time,source_url,screenshot_path,source_type,old,notes
+B_lvdi_58_202606,绿地泉景园,绿地泉景园,二手房挂牌/参考均价,9032.43,元/㎡,2026-06,2026-06,2026-09-16T01:57:54-07:00,https://mfang.58.com/jn/xinfang/xq100505057/fangjia/,raw/lvdi_quanjingyuan_fangjia_58.html,官方事实,0,58同城爱房；环比-0.27% 同比-7.69%
+B_lvdi_fang_8730,绿地泉景园,绿地泉景园,二手房参考均价,8730,元/㎡,2026-06左右,2026-06,2026-09-16T01:57:54-07:00,https://jn.esf.fang.com/loupan/2410698129.htm,,官方事实,0,房天下；不可作成交依据
+B_lvdi_lianjia_8395,绿地泉景园一期,绿地泉景园,链家参考成交均价,8395,元/㎡,上月(页面表述),unknown,2026-09-16T01:57:54-07:00,https://news.lianjia.com/jn/xiaoqu/4511059873723.html,,官方事实,0,资讯页；在售0套表述需复核
+B_yangliu_13500,济南·杨柳春风,杨柳春风学校,新房参考价,13500,元/㎡,2026-03-17报价,2026-03-17,2026-09-16T01:57:54-07:00,http://jn.goufang.com/loupan_69.html,,广告宣传,0,购房网参考价；开发商济南正信置业
+B_yg100_A_13448,阳光100国际新城A区,阳光100参照,二手均价,13448,元/㎡,6月,2026-06,2026-09-16T01:57:54-07:00,https://mobile.anjuke.com/esf/jn-cm367635/,,官方事实,0,安居客移动端摘要
+B_yg100_F_12478,阳光100国际新城F区,阳光100参照,小区单价,12478,元/㎡,近月,unknown,2026-09-16T01:57:54-07:00,https://jinan.anjuke.com/community/view/226294,raw/yangguang100_F_anjuke.html,官方事实,0,curl页可能被拦；数字来自搜索摘要
+B_yg100_G_11501,阳光100国际新城G区,阳光100参照,二手房均价,11500.87,元/㎡,2026-06,2026-06,2026-09-16T01:57:54-07:00,https://mfang.58.com/jn/xinfang/xq100506814/fangjia/,,官方事实,0,
+B_yg100_H_13399,阳光100国际新城H区,阳光100参照,二手房均价,13398.66,元/㎡,2026-06,2026-06,2026-09-16T01:57:54-07:00,https://jn.58.com/xinfang/xq100506815-fangjia.html,,官方事实,0,
+B_zhonghai_ftx_13596,中海国际社区,泉海参照,房价报告均价,13596,元/㎡,2026-03报告,2026-03,2026-09-16T01:57:54-07:00,https://jn.esf.fang.com/newsecond/news/54530178.htm,,官方事实,0,房天下中海段报告；分区差异大
+B_zhonghai_creprice_18900,中海国际社区,泉海参照,挂牌均价,18900,元/㎡,约2026-03,2026-03-17,2026-09-16T01:57:54-07:00,https://www.creprice.cn/community/PA0008867SZ534.html?city=jn,,官方事实,0,中国房价行情；与房天下口径差大，勿混用
+B_quanxin_catchment_link,泉新学校学区小区,泉新学校,支付能力代理指标,见绿地泉景园均价,,2026,2026-06-30,2026-09-16T01:57:54-07:00,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,官方事实,0,学区含绿地泉景园/国际花都/泉景嘉园

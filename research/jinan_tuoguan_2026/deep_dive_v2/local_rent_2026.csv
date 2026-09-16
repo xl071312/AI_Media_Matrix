@@ -1,0 +1,12 @@
+﻿listing_id,school_area_precise,address,area_sqm,floor,monthly_rent,rent_per_sqm_month,catering_possible,gas_fire,near_school_clue,listing_date,stale_flag,source_url,screenshot_path,source_type,verification_status,collected_at
+rent_v2_001,杨柳春风学校,烟台路/临沂路转角绿地中央广场四区(西客站旁),180,1-2F,4166,23.1,Y,Y,杨柳春风/西客站片,2026-09-15,0,https://m.anjuke.com/jn/sp/zu/7538070615/,,地图团购,v1_detail_html_ok,2026-09-16T01:56:33-07:00
+rent_v2_002,杨柳春风学校,西客站·杨柳春风春风路商铺,150,临街,面议,,Y,,杨柳春风,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet_only,2026-09-16T01:56:33-07:00
+rent_v2_003,杨柳春风学校,西客站·中建锦绣广场-2号楼青岛路3716号,202,纯一层,5800,28.7,Y,,杨柳春风/西客站,2026-09-15,0,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet,2026-09-16T01:56:33-07:00
+rent_v2_004,杨柳春风学校,西客站·恒大晶都中心西区公寓B座附近青岛路,115,,5500,47.8,,,杨柳春风/西客站,2026-09-15,0,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet;面积接近下限,2026-09-16T01:56:33-07:00
+rent_v2_005,杨柳春风学校,西客站·地平甲第时代沿街商铺,135,临街,面议,,,,杨柳春风/西客站,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet,2026-09-16T01:56:33-07:00
+rent_v2_006,阳光100参照,阳光新路·阳光100国际新城B区商铺,120,,面议,,Y,,阳光100,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet,2026-09-16T01:56:33-07:00
+rent_v2_007,阳光100参照,阳光100六期欧亚大观北侧商业街,129,,面议,,,,阳光100,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet,2026-09-16T01:56:33-07:00
+rent_v2_008,阳光100参照,阳光100六期欧亚大观北侧商业街,173,,面议,,,,阳光100,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet,2026-09-16T01:56:33-07:00
+rent_v2_009,阳光100参照,阳光100G区17号楼餐馆转让,200,纯一层,6500,32.5,Y,Y,阳光100G区,2026-07-25,0,http://jinanspw.com/view/?id=38583,,广告宣传,transfer_listing_public,2026-09-16T01:56:33-07:00
+rent_v2_010,阳光100参照,阳光100凤凰街南邻泉景天沅秀园沿街一层(送2楼50平),200,1F(+送2F50),面议,,Y,Y,阳光100/秀园,unknown,1,https://m.anjuke.com/jn/sp/zu/7100676493/,,地图团购,anjuke_public_card,2026-09-16T01:56:33-07:00
+rent_v2_011,绿地泉景园,刘长山路槐荫段·腊山南苑(幼儿园对面),100,,面议,,,,泉新/泉景园边缘,2026-09-15,1,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,,地图团购,list_snippet;面积达下限,2026-09-16T01:56:33-07:00

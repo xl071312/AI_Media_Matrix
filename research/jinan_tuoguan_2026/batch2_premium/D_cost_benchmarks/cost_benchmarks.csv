@@ -1,0 +1,10 @@
+﻿bench_id,category,item,value,unit,geo_scope,publish_or_update_time,crawl_time,source_url,screenshot_path,source_type,old,notes
+D_reno_15_20,装修,100㎡含水电厨房设备装修量级,150000-200000,元,行业笼统,2025-12,2026-09-16T01:57:54-07:00,https://wap.jinxun.cc/zixun/202512/4087964.html,,广告宣传,0,资讯站；非济南核验报价
+D_equip_5_8,设备,午休床餐桌椅等(15-20人档),50000-80000,元,行业笼统,unknown,2026-09-16T01:57:54-07:00,http://www.yu5.cc/wszq/20066023.html,,广告宣传,0,雨玩网经验贴
+D_reno_simple_2_3,装修,简装起步(小规模),20000-30000,元,行业笼统,unknown,2026-09-16T01:57:54-07:00,http://www.yu5.cc/wszq/20066023.html,,广告宣传,0,
+D_beier_reno_800,装修,贝尔安亲示例装修单价,800,元/㎡,加盟测算示例,unknown,2026-09-16T01:57:54-07:00,https://www.jiamengfei.com/xm/273241,raw/jiamengfei_beier.html,广告宣传,0,268.8㎡约21.5万
+D_food_cost_7_3,配餐,标准套餐食材+加工成本示例,食材约7+加工约3,元/份,行业笼统,unknown,2026-09-16T01:57:54-07:00,http://www.yu5.cc/wszq/20066023.html,,广告宣传,0,搜索综合；弱证据
+D_food_month_3_5k,配餐,15-20人食材月成本量级,3000-5000,元/月,行业笼统,unknown,2026-09-16T01:57:54-07:00,http://www.yu5.cc/wszq/20066023.html,,广告宣传,0,
+D_hvac_missing,新风,托管专用新风系统报价,,,济南,,2026-09-16T01:57:54-07:00,https://www.blauberg.cn/essay_detail?id=1,,官方事实,0,FAILURE: 公开页无托管场景价目；壹心内容自称24小时新风但无采购价
+D_ins_missing,保险,责任险/食安险保费,,,济南,,2026-09-16T01:57:54-07:00,,,,0,FAILURE: 公开检索未给出可引用保费数字；仅有应投保建议
+D_hist_rent_cost_2016,租金成本口述,商业街小饭桌成本口述,约2000,元/生/月成本口径(2016口述),历下绿城百合片,2016-08-09,2026-09-16T01:57:54-07:00,http://sd.dzwww.com/sdnews/201608/t20160809_14747391.htm,,官方事实,1,历史旧成本；勿当2026

@@ -1,0 +1,16 @@
+﻿school_area_precise,metric,value,unit,source_refs,caveat,collected_at
+杨柳春风学校,core_competitor_count,6,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+泉新学校,core_competitor_count,2,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+泉景中学,core_competitor_count,2,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+泉景小学,core_competitor_count,5,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+泉海参照,core_competitor_count,3,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+绿地泉景园,core_competitor_count,7,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+阳光100参照,core_competitor_count,10,家,core_competitors.csv,含参照圈时请注意标签,2026-09-16T11:00:19+00:00
+泉新学校,price_sample_count,0,条,current_prices_2026.csv,含非月费价型,2026-09-16T11:00:19+00:00
+杨柳春风学校,price_sample_count,3,条,current_prices_2026.csv,含非月费价型,2026-09-16T11:00:19+00:00
+泉景小学,price_sample_count,2,条,current_prices_2026.csv,含非月费价型,2026-09-16T11:00:19+00:00
+泉景中学,price_sample_count,0,条,current_prices_2026.csv,含非月费价型,2026-09-16T11:00:19+00:00
+绿地泉景园,price_sample_count,0,条,current_prices_2026.csv,含非月费价型,2026-09-16T11:00:19+00:00
+三商圈合计,parent_demand_signal_count,15,条,parent_demand_signals.csv,用户评论未独立核实,2026-09-16T11:00:19+00:00
+三商圈合计,local_rent_sample_count,11,条,local_rent_2026.csv,部分面议/可能过时,2026-09-16T11:00:19+00:00
+济南,labor_sample_count,16,条,labor_cost_2026.csv,公开招聘区间,2026-09-16T11:00:19+00:00
