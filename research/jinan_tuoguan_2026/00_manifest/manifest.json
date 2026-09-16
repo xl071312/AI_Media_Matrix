@@ -3,8 +3,8 @@
   "issue": 2,
   "version": "v1_issue2_acceptance",
   "role": "GROK_BOT_collect_structure_only",
-  "generated_at_pt": "2026-09-16 00:20 PT",
-  "generated_at": "2026-09-16T00:20:00-07:00",
+  "generated_at_pt": "2026-09-16 00:35 PT",
+  "generated_at": "2026-09-16T00:35:26-07:00",
   "layout": "issue2_required",
   "dirs": [
     "00_manifest",
@@ -50,18 +50,18 @@
     }
   ],
   "counts": {
-    "institutions_total": 87,
-    "confirmed_social_accounts": 33,
-    "douyin_posts": 85,
+    "institutions_total": 100,
+    "confirmed_social_accounts": 47,
+    "douyin_posts": 96,
     "xhs_notes": 15,
     "map_reviews": 7,
-    "unresolved_entities": 37,
+    "unresolved_entities": 38,
     "failures": 8,
     "poi_rows": 61,
     "recruitment_rows": 16,
     "evidence_rows": 84,
     "comments_total": 181,
-    "accounts_total": 62,
+    "accounts_total": 76,
     "school_areas": 5
   },
   "constraints": [
