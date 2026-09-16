@@ -1,0 +1,10 @@
+{
+  "video_id": "7674214245349730545",
+  "url": "https://www.douyin.com/video/7674214245349730545",
+  "asr_engine": "faster-whisper-medium",
+  "duration_sec": 26.82,
+  "text": "",
+  "collected_at": "2026-09-15 23:46:17 PT",
+  "status": "no_speech",
+  "note": "No reliable spoken speech (BGM/visual-only or ASR unusable)."
+}

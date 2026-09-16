@@ -26,3 +26,10 @@
 - keywords: 11
 - 同城 web entry: unavailable; search used
 - blocker: 泉海托管 user page login popup (saved)
+
+
+## Task6 Xiaohongshu + ASR follow-up (2026-09-16 00:07 PT)
+- `03_xiaohongshu/posts.csv` 15 notes and `03_xiaohongshu/comments.csv` 97 visible comments are merged into root `posts.csv`/`comments.csv` without duplicate platform IDs.
+- `任务6_小红书` now contains 15 post rows + 97 comment rows with source/evidence paths.
+- `06_transcripts/` contains 18 JSON/TXT transcript records; 10 spoken transcripts have paths in root `posts.csv` and the `asr_path` column of `任务1_抖音竞品`; 8 are retained as no-speech records.
+- No new scraping was performed; public-only artifacts and blocker notes retained.

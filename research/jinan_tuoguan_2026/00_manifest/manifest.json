@@ -61,7 +61,7 @@
     "README.md"
   ],
   "progress": {
-    "updated_at_pt": "2026-09-15 23:25 PT",
+    "updated_at_pt": "2026-09-16 00:07 PT",
     "douyin_target": {
       "status": "partial",
       "accounts_rows": 1,
@@ -146,6 +146,34 @@
       "workbook_data_rows": 132,
       "blocked_or_missing": [
         "同城入口不可用，使用公开综合搜索结果；未登录或绕过登录拦截"
+      ]
+    },
+    "xiaohongshu": {
+      "status": "done",
+      "workbook_sheet": "任务6_小红书",
+      "source_posts": "03_xiaohongshu/posts.csv",
+      "source_comments": "03_xiaohongshu/comments.csv",
+      "posts_rows": 15,
+      "comments_rows": 97,
+      "merged_posts_rows": 15,
+      "merged_comments_rows": 97,
+      "workbook_data_rows": 112,
+      "blocked_or_missing": [
+        "部分评论仍为折叠/懒加载可见行；仅使用公开可见内容，未绕过登录或验证"
+      ]
+    },
+    "transcripts": {
+      "status": "done",
+      "source_dir": "06_transcripts",
+      "workbook_sheet": "任务1_抖音竞品",
+      "json_files": 18,
+      "txt_files": 18,
+      "spoken_transcripts": 10,
+      "no_speech": 8,
+      "asr_paths_in_posts_csv": 10,
+      "asr_paths_in_workbook": 10,
+      "blocked_or_missing": [
+        "8个视频无可靠人声，保留空文本与JSON记录"
       ]
     }
   }
