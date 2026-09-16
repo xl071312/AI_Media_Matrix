@@ -12,3 +12,5 @@ F_010,dianping_login_wall,营市东街,https://www.dianping.com/,部分详情验
 F_011,models_capacity_measured_pairs,济南/山东,,构建空间/容量模型时山东“面积×在托人数”实测对仍稀缺；模型以engineering assumption为主并标注assumption_flag,,measured_area_x_students,2026-09-16T04:51:20-07:00
 F_012,models_capex_jinan_unit_rates,济南,,CAPEX单价大量依赖REN招商/外省口述与工程假设；缺2025-2026济南托管中标明细,,jinan_bid_unit_price,2026-09-16T04:51:20-07:00
 F_013,models_opex_rent_median,多校区,,大面积租金多数面议；OPEX所用30元/㎡/月为有价样本中位假设，非成交价,,transaction_rent,2026-09-16T04:51:20-07:00
+YSD_BF_1,yingshidongjie_browser,营市东街,,HTTP 429 reCAPTCHA wall; no bypass attempted,/workspace/AI_Media_Matrix/research/jinan_tuoguan_2026/deep_dive_v3/01_yingshidongjie/07_failures/google_captcha.png,,2026-09-16T04:53:16-07:00
+YSD_BF_2,yingshidongjie_browser,营市东街,,individual shop page was covered by app-download modal; top public fields were still visible,/workspace/AI_Media_Matrix/research/jinan_tuoguan_2026/deep_dive_v3/01_yingshidongjie/07_failures/dianping_app_modal.png,,2026-09-16T04:53:16-07:00
