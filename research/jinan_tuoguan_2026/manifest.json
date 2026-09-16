@@ -61,7 +61,7 @@
     "README.md"
   ],
   "progress": {
-    "updated_at_pt": "2026-09-15 23:12 PT",
+    "updated_at_pt": "2026-09-15 23:25 PT",
     "douyin_target": {
       "status": "partial",
       "accounts_rows": 1,
@@ -131,6 +131,21 @@
       "salary_rows": 16,
       "blocked_or_missing": [
         "部分岗位来自公开搜索摘要，详情页存在验证/JS墙；未启动新抓取"
+      ]
+    },
+    "task7": {
+      "status": "done",
+      "workbook_sheet": "任务7_抖音同城",
+      "source_accounts": "02_douyin_competitors/accounts.csv",
+      "source_posts": "02_douyin_competitors/posts.csv",
+      "competitor_accounts_unique": 62,
+      "competitor_posts_source_rows": 79,
+      "competitor_posts_unique": 70,
+      "merged_accounts_rows": 62,
+      "merged_posts_rows": 85,
+      "workbook_data_rows": 132,
+      "blocked_or_missing": [
+        "同城入口不可用，使用公开综合搜索结果；未登录或绕过登录拦截"
       ]
     }
   }
