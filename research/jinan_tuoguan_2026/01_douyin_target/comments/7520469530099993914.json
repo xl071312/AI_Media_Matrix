@@ -1,0 +1,83 @@
+{
+  "platform": "douyin",
+  "video_id": "7520469530099993914",
+  "url": "https://www.douyin.com/video/7520469530099993914",
+  "caption": "从市场调研到落地成型，前前后后大概一年的时间，拍了三个多月的视频，浓缩为三分钟，还担心屏幕前的你觉得没耐心看完直接跳过，视频有点长，只为记录一份校区从零到有的过程，愿星光不负赶路人#工作日常记录 #努力的人最幸运 #施工现场实拍 #高端托管 #泉海中学",
+  "publish_time": "2025-06-26 20:42",
+  "comment_count_public": 8,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7520469530099993914_c01",
+      "author": "家长A",
+      "content": "厉害",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7520469530099993914_c02",
+      "author": "家长B",
+      "content": "怎么联系",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7520469530099993914_c03",
+      "author": "家长C",
+      "content": "晚上可以到几点",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7520469530099993914_c04",
+      "author": "家长D",
+      "content": "有寒假托管吗",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7520469530099993914_c05",
+      "author": "家长E",
+      "content": "你好有联系方式吗，我想咨询一下",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

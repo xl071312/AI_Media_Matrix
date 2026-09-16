@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-09-15",
+  "platform": "gaode",
+  "count": 1,
+  "pois": [
+    {
+      "platform": "gaode",
+      "poi_id": "gaode_B0HA67DURI",
+      "name": "贝尔安亲托管中心济微校区",
+      "address": "济南市槐荫区济微中学南门旁（高德检索摘要）",
+      "lat": "",
+      "lng": "",
+      "distance_text": "济微中学南门旁；相对营东小学非门口级，作槐荫高德样本",
+      "phone": "18354166398",
+      "rating": "",
+      "review_count": "",
+      "price_text": "",
+      "open_status": "",
+      "near_school": "济南市营市东街小学",
+      "search_query": "济南槐荫 托管 site:amap.com",
+      "url": "https://www.amap.com/place/B0HA67DURI",
+      "images_paths": "",
+      "collected_at": "2026-09-15T22:40:00-07:00",
+      "evidence_path": "04_maps_reviews/gaode/B0HA67DURI.html",
+      "scrape_date": "2026-09-15",
+      "source": "amap_public_search_snippet",
+      "notes": "详情页为JS壳，结构化字段来自公开搜索摘要；本地HTML已存但无服务端渲染POI正文"
+    }
+  ]
+}

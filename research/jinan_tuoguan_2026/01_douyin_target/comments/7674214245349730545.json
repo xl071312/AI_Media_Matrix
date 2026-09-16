@@ -1,0 +1,41 @@
+{
+  "platform": "douyin",
+  "video_id": "7674214245349730545",
+  "url": "https://www.douyin.com/video/7674214245349730545",
+  "caption": "壹心的周末，娃儿们放假，老师们的主场😊 用心呵护每一处角落❤️#托管日常#卫生清洁 #托管老师的周末 #壹心托管 #真实生活记录",
+  "publish_time": "2026-08-15 04:10",
+  "comment_count_public": 4,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7674214245349730545_c01",
+      "author": "家长A",
+      "content": "周末还得加班",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7674214245349730545_c01_r1",
+      "author": "壹心托管济南校区",
+      "content": "感谢您的关注",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7674214245349730545_c01",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

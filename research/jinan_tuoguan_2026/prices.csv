@@ -1,0 +1,4 @@
+﻿platform,source_type,source_id,account_or_poi,price_text,price_value,unit,service_item,grade_range,raw_quote,evidence_path,collected_at
+baidu,news,iqilu_20180508,济南小饭桌行业访谈(汇才/匿名店),只吃午饭一个月550元；下午放学托管一个月700元,550,元/月,午餐小饭桌,小学,如果只吃午饭，一个月550元，如果下午放学需要托管，一个月700元，肯定比在学校吃配餐要贵，但是吃得好而且能睡觉。,web:https://news.iqilu.com/shandong/shandonggedi/20180508/3908948.shtml,2026-09-15T22:40:00-07:00
+baidu,news,iqilu_20180508_schoolmeal,汇才学校配餐对照,小学每餐13元；中学13.5元,13,元/餐,学校配餐对照,小学/中学,小学是每餐13元;中学是13.5元，都是两荤两素，吃的干净也管饱，家长能放心。,web:https://news.iqilu.com/shandong/shandonggedi/20180508/3908948.shtml,2026-09-15T22:40:00-07:00
+baidu,article,chocolate_ranch_ref,巧克力牧场托管教育(甸柳，非目标校门口，价格参考),中午小饭桌580元/月；下午小饭桌380元/月,580,元/月,中午小饭桌(接送+午餐+午休),中小学,中午小饭桌：午餐（三菜一汤 水果） 午休 绘本阅读(收费标准:580元/月)...下午小饭桌：晚餐 水果 作业辅导 绘本故事(收费标准:380元/月),web:http://www.ywtds.com/school/9057/,2026-09-15T22:40:00-07:00

@@ -1,0 +1,50 @@
+{
+  "nickname": "壹心托管济南校区",
+  "douyin_id": "82936373898",
+  "unique_id": "82936373898",
+  "sec_uid": "MS4wLjABAAAAaUBMtA-9SvagxcGJfXlgx1eQ3S1oGfkTKxnmmtUJdH8MPRQLIdeQwSV6JfHrTsaO",
+  "followers": 1797,
+  "total_likes": 2778,
+  "bio_signature": "家外有家 育德树人 托育结合 品质为先 用父母心",
+  "verification": null,
+  "region_ip_label": "山东",
+  "address": "山东·济南",
+  "contact": null,
+  "works_count": 186,
+  "company_name_public": "壹心托管",
+  "campus_addresses_public": [
+    "胜利大街校区（具体门牌未显示）",
+    "泉海校区；公开评论回复称视频内为泉海校区，位置在泉海学校对面"
+  ],
+  "public_store_address": null,
+  "group_buy_or_product_links": [],
+  "pinned_videos": [
+    {
+      "video_id": "7653846998802236337",
+      "likes_grid": 31,
+      "caption_preview": "壹心只做一件事，用心做好一件事；壹心托管全新空间今天正式上线"
+    },
+    {
+      "video_id": "7634466732150072826",
+      "likes_grid": 18,
+      "caption_preview": "用心做好每一餐，陪伴孩子健康成长"
+    },
+    {
+      "video_id": "7630839401760908005",
+      "likes_grid": 26,
+      "caption_preview": "有人说你们壹心托管花这么多钱做设计有必要么？"
+    }
+  ],
+  "live_public": false,
+  "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaUBMtA-9SvagxcGJfXlgx1eQ3S1oGfkTKxnmmtUJdH8MPRQLIdeQwSV6JfHrTsaO",
+  "collected_at": "2026-09-16T05:36:00Z",
+  "notes": [
+    "Public profile visible without login; no captcha or auth wall encountered.",
+    "Verification badge, phone/contact, legal company name, exact street address, group-buy/product links and prices were not shown.",
+    "Profile tab visibly reports 186 works; 186 profile video anchors were loaded into the page DOM while scrolling, but this dispatch file focuses on top/latest records.",
+    "No public live indicator or live frequency/content was visible on the profile."
+  ],
+  "bio": "家外有家 育德树人 托育结合 品质为先 用父母心",
+  "ip_label": "山东",
+  "store_address": null
+}

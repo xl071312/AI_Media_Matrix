@@ -1,0 +1,55 @@
+{
+  "platform": "douyin",
+  "video_id": "7678673116122259579",
+  "url": "https://www.douyin.com/video/7678673116122259579",
+  "caption": "世界上最好的关系，叫“值得托付”。不求陪伴最多人，但求对得起每一位选择我们的人。壹心托管 · 只托值得托付的人#壹心托管 #济南市胜利大街小学",
+  "publish_time": "2026-08-27 04:33",
+  "comment_count_public": 4,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7678673116122259579_c01",
+      "author": "家长A",
+      "content": "真心希望能来华山安置一区开",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7678673116122259579_c01_r1",
+      "author": "壹心托管济南校区",
+      "content": "感谢关注，我们尽早考察",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7678673116122259579_c01",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7678673116122259579_c02",
+      "author": "家长B",
+      "content": "收费标准是多少",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

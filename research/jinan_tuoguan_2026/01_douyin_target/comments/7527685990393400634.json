@@ -1,0 +1,55 @@
+{
+  "platform": "douyin",
+  "video_id": "7527685990393400634",
+  "url": "https://www.douyin.com/video/7527685990393400634",
+  "caption": "这是什么神仙托管，这就是小朋友大朋友都喜欢的壹心托管#工作日常记录",
+  "publish_time": "2025-07-16 07:26",
+  "comment_count_public": 10,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7527685990393400634_c01",
+      "author": "家长A",
+      "content": "有联系方式吗",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7527685990393400634_c02",
+      "author": "家长B",
+      "content": "具体哪个位置",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7527685990393400634_c03",
+      "author": "家长C",
+      "content": "托管天花板",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

@@ -1,0 +1,111 @@
+{
+  "platform": "douyin",
+  "video_id": "7525763465560313146",
+  "url": "https://www.douyin.com/video/7525763465560313146",
+  "caption": "壹心只做一件事，用心做好一件事！关于孩子们的事，全是大事，壹心托管从多维度思考孩子们的成长所需，让家长无后顾之忧！壹心托管，正式启航，欢迎大家共同品鉴！",
+  "publish_time": "2025-07-11 03:05",
+  "comment_count_public": 21,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7525763465560313146_c01",
+      "author": "家长A",
+      "content": "胜利大街小区有联系方式吗？",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c02",
+      "author": "家长B",
+      "content": "来济南领秀城泉秀小学吧，这里需求也挺多",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c02_r1",
+      "author": "壹心托管济南校区",
+      "content": "已经在准备了，等着我们吧",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7525763465560313146_c02",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c03",
+      "author": "家长C",
+      "content": "西城实验来吧，全校5000多人",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c03_r1",
+      "author": "壹心托管济南校区",
+      "content": "西城实验是小学和初中都有么",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7525763465560313146_c03",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c04",
+      "author": "家长D",
+      "content": "暑假托管多少钱？阳光一百这边会开吗",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": true,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7525763465560313146_c04_r1",
+      "author": "壹心托管济南校区",
+      "content": "有时间我们过去考察一下",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7525763465560313146_c04",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

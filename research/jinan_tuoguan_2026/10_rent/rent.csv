@@ -1,0 +1,18 @@
+﻿id,source_platform,url,scrape_date,address,area_sqm,floor,monthly_rent,monthly_rent_cny,can_do_catering,gas,near_schools_hint,notes,data_quality
+rent_001,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/7538070615/,2026-09-15T23:09:10-07:00,槐荫-槐荫周边 烟台路/临沂路十字路口转角（绿地中央广场四区烟台路商铺，西客站旁）,180,1层至2层,4166元/月,4166,True,True,杨柳春风/医学中心西客站片区参考,可明火/上水下水/380V/外摆区/天然气/管煤；日租金0.77元/㎡/天；押1付3；免租1个月；近杨柳春风/西客站片区,detail_html_ok
+rent_002,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,西客站·杨柳春风春风路商铺,150,临街门面（楼层未在列表页明示，非地下室）,面议,,True,,杨柳春风,可明火/上水下水/380V；列表页snippet；目标校杨柳春风~1km内优先参考,list_snippet
+rent_003,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,经十西路·凯旋新城（经十路24666号）,200,临街门面,面议,,True,,医学中心实验/经十西路,12米大门头；可明火/上水下水/380V；经十西路医学中心沿线参考,list_snippet
+rent_004,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,西客站·中建锦绣广场-2号楼（青岛路3716号）,202,纯一层,5800元/月,5800,True,,杨柳春风/西客站,可明火/上水下水/380V；约28.7元/㎡/月,list_snippet
+rent_005,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,西客站·恒大晶都中心西区公寓B座附近（青岛路）,115,纯一层,5500元/月,5500,,,杨柳春风/西客站,约47.8元/㎡/月；西客站片区,list_snippet
+rent_006,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,阳光新路·阳光100国际新城(B区)阳光新路商铺,120,纯一楼,面议,,True,,泉景园/泉海参考,社区底商；可明火/上水下水/380V；近泉景/阳光100-泉海参考圈,list_snippet
+rent_007,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,槐荫周边·西城济水上苑德州路商铺（南区117平好铺）,117,临街门面,面议,,True,,医学中心/济水上苑,可明火/上水下水/380V；同商圈另有61㎡约2745元/月（面积偏小未入主CSV）,list_snippet
+rent_008,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,经十西路·万融善能大厦-A栋地铁口底商,90,底商,4860元/月,4860,,,医学中心/经十西路,写字楼配套/临街/上水下水；约54元/㎡/月；面积段下限,list_snippet
+rent_009,安居客 anjuke,https://m.anjuke.com/jn/sp/zu/huaiyinqu-huaiyinquqita-yuezujin7/,2026-09-15T23:09:10-07:00,省立医院·山东省立医院门诊楼对面十字路口（经五纬七路324号附近）,230,纯一层沿街,面议,,True,,保利华府/营市东街小学片区参考,可明火；近西市场/保利中心华府/营市东街小学片区东侧,list_snippet
+rent_010,安居客 anjuke,https://m.anjuke.com/jn/sp/zhuan/huaiyinqu-gaotiexikezhan-mj6-yzj8-hy26/,2026-09-15T23:09:10-07:00,张庄路·张庄路/老屯市场路路口附近沿街铺,80,临街门面,面议,,True,,槐荫张庄路片区参考,森林公园正对面老屯汽配城地铁口旁；可明火；面积下限,list_snippet
+rent_011,安居客 anjuke,https://m.anjuke.com/jn/sp/zhuan/huaiyinqu-gaotiexikezhan-mj6-yzj8-hy26/,2026-09-15T23:09:10-07:00,西客站·地平甲第时代沿街商铺,135,临街门面,面议,,True,,杨柳春风/西客站,可明火/上水下水/380V,list_snippet
+rent_012,安居客 anjuke,https://m.anjuke.com/jn/sp/zhuan/lixia-cbdgs-hy6-vi1/,2026-09-15T23:09:10-07:00,西市场·经二纬八单位宿舍纬八路商铺,160,纯一楼,面议,,True,,保利华府/营市东街小学,社区底商；可餐饮/可明火/上水下水/380V/外摆区；近保利中心华府/西市场,list_snippet
+rent_013,58同城,https://www.58.com/jn/spcz-4-jn/,2026-09-15T23:09:10-07:00,槐荫-段店 经十路辅路,80.6,临街门面（空置中）,2500元/月,2500,True,,段店/经十路槐荫段参考,可餐饮/可明火/上水；约31元/㎡/月；搜索索引snippet，详情页curl遇验证码,search_index_snippet
+rent_014,指点网 shangpu99,https://www.shangpu99.com/spczdetail/id/1756.html,2026-09-15T23:09:10-07:00,山东济南槐荫（明星小区黄金地段沿街）,280,上下两层（沿街）,面议,,True,True,槐荫区（学校距离未标注）,标题写300平，正文280平米；自带天然气壁挂炉、上下水排污；餐饮/零售/宾馆/教育皆宜；页面可完整抓取,detail_html_ok
+rent_015,济南闪铺网 jinanspw,http://jinanspw.com/view/?id=38538,2026-09-15T23:09:10-07:00,槐荫区-阳光100-阳光100六期（欧亚大观北侧商业街）,129,上下两层,面议,,,True,泉景园/泉海参考,另有173㎡套可选；毛坯；水电消防齐全；天然气标注；近泉景/泉海参考,detail_html_ok
+rent_016,济南闪铺网 jinanspw,http://jinanspw.com/view/?id=38538,2026-09-15T23:09:10-07:00,槐荫区-阳光100-阳光100六期（欧亚大观北侧商业街）,173,上下两层,面议,,,True,泉景园/泉海参考,与129㎡同盘可选；总展示面约10米,detail_html_ok
+rent_017,济南闪铺网 jinanspw,http://www.jinanspw.com/view/?id=33326,2026-09-15T23:09:10-07:00,槐荫区-刘长山路槐荫段-腊山南苑（幼儿园对面）,100,可单独租一楼或上下户型,面议,,True,True,泉新/泉景园,招商盘：50-10000㎡均有；本行取100㎡作为托管可用样本；辐射泉景园/泉新学校/绿地国际花都；信息发布时间较早(2022)，需核验,detail_html_ok_stale

@@ -1,0 +1,80 @@
+[
+  {
+    "keyword": "济南托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "济南小饭桌",
+    "douyin_general": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E5%B0%8F%E9%A5%AD%E6%A1%8C?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E5%B0%8F%E9%A5%AD%E6%A1%8C?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E5%B0%8F%E9%A5%AD%E6%A1%8C&source=web_search_result_notes"
+  },
+  {
+    "keyword": "济南午托",
+    "douyin_general": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E5%8D%88%E6%89%98?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E5%8D%88%E6%89%98?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E5%8D%88%E6%89%98&source=web_search_result_notes"
+  },
+  {
+    "keyword": "济南晚托",
+    "douyin_general": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E6%99%9A%E6%89%98?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E6%99%9A%E6%89%98?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E6%99%9A%E6%89%98&source=web_search_result_notes"
+  },
+  {
+    "keyword": "济南课后托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E8%AF%BE%E5%90%8E%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E8%AF%BE%E5%90%8E%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%8E%E5%8D%97%E8%AF%BE%E5%90%8E%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "槐荫托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%A7%90%E8%8D%AB%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "槐荫小饭桌",
+    "douyin_general": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E5%B0%8F%E9%A5%AD%E6%A1%8C?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E5%B0%8F%E9%A5%AD%E6%A1%8C?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%A7%90%E8%8D%AB%E5%B0%8F%E9%A5%AD%E6%A1%8C&source=web_search_result_notes"
+  },
+  {
+    "keyword": "营东小学 托管",
+    "douyin_general": "https://www.douyin.com/search/%E8%90%A5%E4%B8%9C%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E8%90%A5%E4%B8%9C%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E8%90%A5%E4%B8%9C%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "营市东街小学 托管",
+    "douyin_general": "https://www.douyin.com/search/%E8%90%A5%E5%B8%82%E4%B8%9C%E8%A1%97%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E8%90%A5%E5%B8%82%E4%B8%9C%E8%A1%97%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E8%90%A5%E5%B8%82%E4%B8%9C%E8%A1%97%E5%B0%8F%E5%AD%A6%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "槐荫实验 托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E5%AE%9E%E9%AA%8C%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%A7%90%E8%8D%AB%E5%AE%9E%E9%AA%8C%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%A7%90%E8%8D%AB%E5%AE%9E%E9%AA%8C%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "杨柳春风学校 托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%9D%A8%E6%9F%B3%E6%98%A5%E9%A3%8E%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "泉新学校 托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B3%89%E6%96%B0%E5%AD%A6%E6%A0%A1%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  },
+  {
+    "keyword": "泉景 托管",
+    "douyin_general": "https://www.douyin.com/search/%E6%B3%89%E6%99%AF%20%E6%89%98%E7%AE%A1?type=general",
+    "douyin_video": "https://www.douyin.com/search/%E6%B3%89%E6%99%AF%20%E6%89%98%E7%AE%A1?type=video",
+    "xhs_search": "https://www.xiaohongshu.com/search_result?keyword=%E6%B3%89%E6%99%AF%20%E6%89%98%E7%AE%A1&source=web_search_result_notes"
+  }
+]

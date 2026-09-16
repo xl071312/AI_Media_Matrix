@@ -1,0 +1,97 @@
+{
+  "platform": "douyin",
+  "video_id": "7664065982533590181",
+  "url": "https://www.douyin.com/video/7664065982533590181",
+  "caption": "扫去的是尘埃，擦亮的是童心。致敬壹心陪伴师，以手温度，净护成长空间，爱在沉浸中流淌。#托管 #壹心托管 #深度清扫#托管老师的周末",
+  "publish_time": "2026-07-18 19:50",
+  "comment_count_public": 19,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7664065982533590181_c01",
+      "author": "家长A",
+      "content": "优秀，好干净！",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7664065982533590181_c02",
+      "author": "家长B",
+      "content": "桌子哪里买的",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7664065982533590181_c02_r1",
+      "author": "壹心托管济南校区",
+      "content": "桌椅是定制的",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7664065982533590181_c02",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7664065982533590181_c03",
+      "author": "家长C",
+      "content": "愿您的店铺客似云来，日进斗金笑开颜",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7664065982533590181_c04",
+      "author": "家长D",
+      "content": "很用心",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7664065982533590181_c04_r1",
+      "author": "壹心托管济南校区",
+      "content": "感谢关注",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7664065982533590181_c04",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}

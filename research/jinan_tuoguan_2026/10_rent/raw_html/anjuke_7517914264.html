@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport"
+		  content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width" />
+	<title>请输入验证码 ws:104.28.24.69</title>
+	<link rel="icon" href="data:;base64,=">
+	<link rel="stylesheet" type="text/css"
+		  href="/new_index.css">
+	<link rel="stylesheet" type="text/css" href="/easyui/easyui.css"/>
+	<script type="text/javascript"
+			src="/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="/easyui/jquery.easyui.min.js"></script>
+</head>
+<body>
+<div class="pop">
+	<p class="title">访问过于频繁，本次访问做以下验证码校验。（104.28.24.69）</p>
+	<div class="main">
+		<div class="code_img">
+			<span>请在五分钟内完成验证</span>
+		</div>
+		<div class="code_num">
+			<input type="button" class="btn_tj" id="btnSubmit"
+				   value="点击按钮进行验证">
+		</div>
+		<div class="toast_mess" id="errmsg"></div>
+		<div style="text-align: center;white-space: pre-wrap;word-wrap: break-word;overflow-wrap: break-word;">4e79db328ada91367e9912edb70171d1_c0a0b502e7d64828a9b2d6c5e32100f7</div>
+		<div id="ISDCaptcha"></div>
+	</div>
+
+</div>
+<div class="footer">
+	©  <a href="http://www.58.com">58.COM</a> </div>
+<input type="hidden" id="sessionId" value="" />
+<input type="hidden" id="serialId" value="4e79db328ada91367e9912edb70171d1_c0a0b502e7d64828a9b2d6c5e32100f7" />
+<input type="hidden" id="code" value="300" />
+<input type="hidden" id="sign" value="a4dda733bf85858e5e52c3805c4cb24a" />
+<input type="hidden" id="url" value="https://m.anjuke.com/jn/sp/zu/7517914264/" />
+<input type="hidden" id="namespace" value="anjuke_business_fang_m" />
+<input type="hidden" id="ip" value="104.28.24.69" />
+</body>
+<!--<script src="https://apps.bdimg.com/libs/jquery/1.9.1/jquery.js"></script>-->
+<script src="https://j1.58cdn.com.cn/firewall/NEcaptcha.js"></script>
+<script type="text/javascript"
+		src="/feedback.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		pv();
+
+		var namespace = $("#namespace").val();
+		var url = $("#url").val();
+		var serialId = $("#serialId").val();
+		var code = $("#code").val();
+		var sign =$("#sign").val();
+		var captchaIns;
+
+		function logYidun(message, data) {
+			if (window.console && console.log) {
+				console.log("[yidunCaptcha] " + message, data);
+			}
+		}
+
+		function warnYidun(message, data) {
+			if (window.console && console.warn) {
+				console.warn("[yidunCaptcha] " + message, data);
+			}
+		}
+
+		function getCaptchaConfig(parsedJson) {
+			var captchaData = parsedJson.data;
+			var captchaConfig = {
+				captchaId: captchaData
+			};
+
+			if (captchaData && typeof captchaData === "object") {
+				captchaConfig.captchaId = captchaData.captchaId || captchaData.id;
+			}
+
+			return captchaConfig;
+		}
+
+		function triggerCaptcha() {
+			if (!captchaIns) {
+				warnYidun("captchaIns is empty when button clicked", {
+					serialId: serialId,
+					namespace: namespace,
+					code: code
+				});
+				return;
+			}
+
+			logYidun("trigger captcha", {instance: captchaIns});
+			if (captchaIns.popUp) {
+				captchaIns.popUp();
+				return;
+			}
+			if (captchaIns.popup) {
+				captchaIns.popup();
+				return;
+			}
+			if (captchaIns.verify) {
+				captchaIns.verify();
+				return;
+			}
+			warnYidun("captcha instance has no trigger method", captchaIns);
+		}
+
+		function showTips( content, height, time ) {
+			var windowWidth  = $(window).width();
+			var tipsDiv = '<div class="tipsClass">' + content + '</div>';
+			$('body').append(tipsDiv);
+			$('div.tipsClass').css({
+				'top': height + 'px',
+				'left': (windowWidth / 2) - 120 / 2 + 'px',
+				'position': 'absolute',
+				'padding': '10px 5px',
+				'background': '#E0ECFF',
+				'font-size': 14 + 'px',
+				'margin': '0 auto',
+				'text-align': 'center',
+				'width': '120px',
+				'height': '20px',
+				'color': '#0E2D5F',
+				'opacity': '0.8'
+			});
+			setTimeout(function () {
+				$('div.tipsClass').fadeOut();
+			}, (time * 1000));
+		}
+
+		respMessage = $.ajax({
+			url : "/antibot/yidun/register.do?t="+new Date().getTime(),
+			data :{serialId:serialId,code:code,sign:sign,url:url,namespace:namespace},
+			type : "POST",
+			async : true,
+			success : function(results) {
+				logYidun("register.do raw results", results);
+				var parsedJson = jQuery.parseJSON(results);
+				logYidun("register.do parsed results", parsedJson);
+				if (parsedJson.code === 0 && parsedJson.data != null) {
+					var captchaConfig = getCaptchaConfig(parsedJson);
+					logYidun("initNECaptcha config", captchaConfig);
+					initNECaptchaWithFallback({
+						element: '#ISDCaptcha',
+						captchaId: captchaConfig.captchaId,
+						mode: 'popup',
+						width: '320px',
+						onVerify: function(err,data){
+							logYidun("onVerify callback", {err: err, data: data});
+							if (!err) {
+								respMessage = $.ajax({
+									url : "/antibot/yidun/checkcode.do",
+									data : {
+										namespace : namespace,
+										url : url,
+										serialId:serialId,
+										validate:data.validate
+									},
+									type : "POST",
+									async : true,
+									success : function(results) {
+										logYidun("checkcode.do raw results", results);
+										var parsedJson = jQuery.parseJSON(results);
+										logYidun("checkcode.do parsed results", parsedJson);
+										if (parsedJson.code === 0) {
+											showTips("验证成功！",50,1);
+											var redLocation = parsedJson.msg;
+											if(redLocation.indexOf("http://")===-1 && redLocation.indexOf("https://")===-1){
+												redLocation = "http://"+redLocation;
+											}
+											window.location.href = redLocation;
+										} else {
+											showTips("验证失败！",50,1);
+											$("#errmsg").html(parsedJson.msg);
+
+										}
+									}
+								});
+							}
+						}
+					}, function (instance) {
+						logYidun("initNECaptcha success", instance);
+						captchaIns = instance
+						logYidun("captchaIns after assignment", captchaIns);
+					}, function (err) {
+						warnYidun("initNECaptcha error", err);
+						$("#errmsg").html("验证码初始化失败！");
+					})
+				} else {
+					warnYidun("register.do business error", parsedJson);
+					if(parsedJson.data == null){
+						$("#errmsg").html(parsedJson.msg);
+					}else{
+						$("#errmsg").html(parsedJson.msg);
+						var reLocation = parsedJson.data;
+						if(reLocation.indexOf("http://")===-1 && reLocation.indexOf("https://")===-1){
+							reLocation = "http://"+reLocation;
+						}
+						setInterval(function(){
+							window.location.href = reLocation;
+						}, 5000);
+
+					}
+
+
+				}
+			}
+		});
+
+		var btnSubmit = document.getElementById('btnSubmit');
+		if (btnSubmit) {
+			btnSubmit.addEventListener('click', function (e) {
+				e.preventDefault()
+				triggerCaptcha()
+			})
+		}
+
+		function pv () {
+			var params = {};
+			//Document对象数据
+			if(document) {
+				params.domain = document.domain || '';
+				params.url = document.URL || '';
+				params.title = document.title || '';
+				params.referrer = document.referrer || '';
+			}
+			//Window对象数据
+			if(window && window.screen) {
+				params.sh = window.screen.height || 0;
+				params.sw = window.screen.width || 0;
+				params.cd = window.screen.colorDepth || 0;
+			}
+			//navigator对象数据
+			if(navigator) {
+				params.lang = navigator.language || '';
+			}
+
+			// 其他参数
+			var date = new Date();
+			params.ltime = date.getTime() / 1000;
+			//拼接参数串
+			var args = '';
+			for(var i in params) {
+				if(args != '') {
+					args += '&';
+				}
+				args += i + '=' + encodeURIComponent(params[i]);
+			}
+
+			//通过Image对象请求后端脚本
+			var img = new Image(1, 1);
+			img.src = '/fwdata/load.gif?' + args;
+		}
+	});
+
+</script>
+</html>

@@ -1,0 +1,111 @@
+{
+  "platform": "douyin",
+  "video_id": "7653846998802236337",
+  "url": "https://www.douyin.com/video/7653846998802236337",
+  "caption": "壹心只做一件事，用心做好一件事 壹心托管全新空间今天正式上线 继续秉持“以父母之心，成万千安心之托”的使命，以初心立根，以专业立身，深耕课后时光的育人价值。#托管 #暑假",
+  "publish_time": "2026-06-21 06:55",
+  "comment_count_public": 12,
+  "captured_at": "2026-09-15T22:50:00-07:00",
+  "anonymization": "All non-merchant public handles replaced with 家长A/B/C…; merchant replies retained by public account name.",
+  "comments": [
+    {
+      "comment_id": "7653846998802236337_c01",
+      "author": "家长A",
+      "content": "怎么收费呢，民生大街小学",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c02",
+      "author": "家长B",
+      "content": "胜利大街，位置在哪呀？",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": true,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c03",
+      "author": "家长C",
+      "content": "想知道整个装修下来多少钱，多少方",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c04",
+      "author": "家长D",
+      "content": "你好，胜利家长，咨询下怎么收费？",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c04_r1",
+      "author": "壹心托管济南校区",
+      "content": "您好，咱孩子几年级呀",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7653846998802236337_c04",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c05",
+      "author": "家长E",
+      "content": "你好，费用是多少？",
+      "likes": null,
+      "is_author_reply": false,
+      "parent_id": null,
+      "flags": {
+        "price_or_fee": true,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    },
+    {
+      "comment_id": "7653846998802236337_c05_r1",
+      "author": "壹心托管济南校区",
+      "content": "咱们孩子在哪上学呀",
+      "likes": null,
+      "is_author_reply": true,
+      "parent_id": "7653846998802236337_c05",
+      "flags": {
+        "price_or_fee": false,
+        "address_or_contact": false,
+        "quota_or_enrollment": false,
+        "negative": false
+      }
+    }
+  ],
+  "collection_note": "Rendered public comments/replies from detail page; blank-text rendered rows omitted from JSON. No login, posting, or private data access."
+}
