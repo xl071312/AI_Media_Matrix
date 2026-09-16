@@ -92,3 +92,7 @@
   "school_areas": 5
 }
 ```
+
+## Claude / 自动化工具直链
+
+完整 raw 链接清单见 [`CLAUDE_RAW_LINKS.md`](./CLAUDE_RAW_LINKS.md) / [`CLAUDE_RAW_LINKS.txt`](./CLAUDE_RAW_LINKS.txt)。
