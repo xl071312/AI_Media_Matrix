@@ -1,1 +1,8 @@
-../06_transcripts/7637491112080667633.json
+{
+  "video_id": "7637491112080667633",
+  "url": "https://www.douyin.com/video/7637491112080667633",
+  "asr_engine": "faster-whisper-medium",
+  "duration_sec": 153.321,
+  "text": "失败一下，厨房下班后：这是我们的水池，这是咱们的灶台、工作台。咱们的立下全部都分为别类签到标签了，冷冻区、冷藏区。",
+  "collected_at": "2026-09-15 23:57:47 PT"
+}

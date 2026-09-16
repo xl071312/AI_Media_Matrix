@@ -1,1 +1,10 @@
-../06_transcripts/7676858717410167473.json
+{
+  "video_id": "7676858717410167473",
+  "url": "https://www.douyin.com/video/7676858717410167473",
+  "asr_engine": "faster-whisper-medium",
+  "duration_sec": 22.177,
+  "text": "",
+  "collected_at": "2026-09-15 23:46:17 PT",
+  "status": "no_speech",
+  "note": "No reliable spoken speech (BGM/visual-only or ASR unusable)."
+}
