@@ -2,8 +2,8 @@
   "pack": "12_ai_eval_pack",
   "project": "jinan_tuoguan_2026",
   "purpose": "AI评估选址/竞品 — Douyin target (壹心托管) + competitors",
-  "collected_at": "2026-09-16T00:13:04-07:00",
-  "collected_at_pt": "2026-09-16 00:13 PT",
+  "collected_at": "2026-09-16T00:35:26-07:00",
+  "collected_at_pt": "2026-09-16 00:35 PT",
   "git_branch": "not_a_git_repo",
   "no_new_scrape": true,
   "sources": {
@@ -18,10 +18,10 @@
     "excel": "济南托管调研_v1.xlsx"
   },
   "counts": {
-    "accounts_total": 62,
+    "accounts_total": 76,
     "accounts_target": 1,
-    "accounts_competitor": 61,
-    "posts_douyin": 85,
+    "accounts_competitor": 75,
+    "posts_douyin": 96,
     "posts_with_asr_path": 10,
     "comments_douyin": 77,
     "author_replies": 19,

@@ -1,0 +1,3 @@
+platform,account_name,post_id,comment_count_shown,comments_collected,image_reply_notes,merchant_replies,status,captured_at
+douyin,壹心托管济南校区,7675336617532168185,0,0,[],[],public page showed 全部评论 / 暂无评论; no login wall,2026-09-16T00:26:00-07:00
+douyin,济南历山学校贝尔安亲托管,,,0,[],[],"not expanded: search-card captions available, but public search DOM did not expose stable post IDs; no attempt to bypass",2026-09-16T00:26:00-07:00

@@ -33,3 +33,12 @@
 - `任务6_小红书` now contains 15 post rows + 97 comment rows with source/evidence paths.
 - `06_transcripts/` contains 18 JSON/TXT transcript records; 10 spoken transcripts have paths in root `posts.csv` and the `asr_path` column of `任务1_抖音竞品`; 8 are retained as no-speech records.
 - No new scraping was performed; public-only artifacts and blocker notes retained.
+
+## Douyin deepen merge into Issue #2 pack (2026-09-16 00:35 PT)
+- Source: `02_douyin_competitors/` / `04_douyin_competitors/` deepen artifacts (76 competitor accounts claimed; public-only; no new scrape in this step).
+- Root `accounts.csv`: 76 rows (added 14; refreshed 3: 乐恩托管, 壹心托管济南校区, 泉海托管).
+- Root `posts.csv`: 111 rows total; Douyin 96 (added 11 from posts_detail; mainly 历山贝尔安亲 search cards). Existing post `7675336617532168185` already present.
+- Root `comments.csv`: unchanged (181 rows); deepen comments meta showed 0 public comments.
+- Institutions: +13 B candidates; institution_accounts +14; unresolved +1 (C only). No invented brand links (壹心官方号→现有壹心; 贝尔安亲历山新建候选，不并入泉景/济微校区).
+- `12_ai_eval_pack` CSVs/manifest refreshed to match root Douyin tables.
+- Competitor `posts.csv` cleaned (removed column-shifted deepen appends; posts_detail folded in).

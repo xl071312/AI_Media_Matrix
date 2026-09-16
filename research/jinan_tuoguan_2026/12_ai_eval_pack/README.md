@@ -4,7 +4,7 @@
 
 目标账号：**壹心托管济南校区**；竞品：关键词公开搜索所得 Douyin 账号与帖子。用途：卖点、价格线索、校区/区位、家长痛点、内容类型分布等评估——**仅基于本包字段与 corpus，禁止编造未见数据**。
 
-整理时间：2026-09-16 00:13 PT。
+整理时间：2026-09-16 00:35 PT（Douyin deepen 合并后刷新）。
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 字段说明
 
-### `douyin_accounts_for_eval.csv`（62 行）
+### `douyin_accounts_for_eval.csv`（76 行）
 
 | 字段 | 含义 |
 |------|------|
@@ -43,7 +43,7 @@
 
 **来源：** 根目录 `accounts.csv`（已合并 `01_douyin_target/account.json` 与 `02_douyin_competitors/accounts.csv`）。竞品原始行亦见 `corpus/02_douyin_competitors/accounts_raw.jsonl`。
 
-### `douyin_posts_for_eval.csv`（85 行）
+### `douyin_posts_for_eval.csv`（96 行）
 
 | 字段 | 含义 |
 |------|------|

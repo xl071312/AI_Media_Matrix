@@ -15,10 +15,11 @@
     "医学中心实验学校 托管",
     "泉海学校 托管"
   ],
-  "unique_accounts": 62,
+  "unique_accounts": 76,
   "posts_sampled": 79,
   "public_only": true,
   "login_captcha_blocker": "Public web user search for 泉海托管 triggered a login modal: 登录后即可搜索更多精彩视频. No login or bypass attempted; screenshot saved as 任务7_登录拦截_01.png.",
   "same_city_available": false,
-  "privacy": "No parent nicknames collected; no kid face close-ups intentionally captured."
+  "privacy": "No parent nicknames collected; no kid face close-ups intentionally captured.",
+  "deepen_merged_at": "2026-09-16T00:35:26-07:00"
 }
