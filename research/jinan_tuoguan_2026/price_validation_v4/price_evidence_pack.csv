@@ -1,0 +1,13 @@
+﻿evidence_id,topic,school_area,institution_name,plain_language_fact,numeric_value,source_type,source_url,screenshot_path,date,confidence,caveat
+ev01,学区边界,泉新学校,济南市槐荫区泉新学校,2026招生公告明确学区含绿地泉景园、绿地国际花都、绿地泉景嘉园,,招生简章,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,2026,high,证明学区边界；不含托管价
+ev02,具名机构名录,绿地泉景园,金苹果/新星/博乐,本地宝槐荫小饭桌名单列出金苹果、新星、博乐地址均在绿地泉景园小区内,,其他,http://jn.bendibao.com/edu/2017918/47248.shtm,01_quanxin/screenshots/bendibao_huaiyin_list.png,2018-01-08,medium,名单陈旧；无收费；2026经营状态未电话核实
+ev03,区级口述价,绿地泉景园,(匿名·槐荫),2025-07小红书评论：槐荫约900元/月，午餐三菜一汤+下午粥面包+看作业,900,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,01_quanxin/screenshots/xhs_jinan_xiaofanzhuo_prices.png,2025-07-20,low,活链已404；靠本地comments+截图；非具名门店正式月费
+ev04,市聚合口述价,营市东街小学,(匿名·济南),同帖评论：午餐750/月；更完整托管约1100/月；纯午托450/月,750/1100/450,用户评论,https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec,02_yingshidongjie/screenshots/xhs_jinan_xiaofanzhuo_prices.png,2025-07-20,low,非营东门口具名
+ev05,双校区,营市东街小学,济南市营市东街小学,官方统计：东校区经六路315号、西校区营市街158号；普通教室50间,2校区,招生简章,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnsysdjxxag/channel_jns_huaiyinquqjyhtyjdjnsysdjxxag_6d/doc_67f898cbb2eff34a156334cb.html,,2025-04-11,high,校区事实；无托管价
+ev06,东校区邻近机构,营市东街小学,金牌小饭桌,好位置名录2026-06仍列营市东街28号与电话，但无收费,,地图,https://haoweizhi.com/huaiyinqu2/jiaoyupeixun/bfhrqfrbiqds5chf.html,02_yingshidongjie/screenshots/haoweizhi_jinpai.png,2026-06-06,medium,有地址无价目
+ev07,东校区标注,营市东街小学,朵朵小饭桌,名录地址写作营市东街小学东校区,,地图,https://haoweizhi.com/huaiyinqu2/jiaoyupeixun/3ab5hifkkqds5chf.html,02_yingshidongjie/screenshots/haoweizhi_duoduo.png,2025-02-20,medium,无收费
+ev08,社区暑期托管,杨柳春风学校,杨柳春风×青少年宫,公开报道：暑期托管开在泉城书吧二楼，含作业辅导与兴趣活动；文中无收费数字,,其他,https://www.culturechina.cn/house/167089.html,03_yangliu/screenshots/yangliu_qinggong.png,未在文内标明精确年份,medium,无价；勿用AI摘要冒充官方价目
+ev09,学期口述价,杨柳春风学校,西客站托管探店口述,抖音竞品文案称西客站高投入托管学期17800元；弱关联杨柳,17800元/学期,抖音,file://research/jinan_tuoguan_2026/02_douyin_competitors/posts.csv,,2025-03-20,low,caption_only；月等价仅可derived，不得称正式月费
+ev10,历史旧价,全市参照,齐鲁网2018访谈,只吃午饭约550元/月；午饭+放学托管约700元/月,550/700,其他,https://news.iqilu.com/shandong/shandonggedi/20180508/3908948.shtml,06_failures/screenshots/iqilu_2018.png,2018-05-08,medium,old=1；非2026正式月费
+ev11,监管背景,全市,山东省校外托管监管意见,舜网2026-09报道：省级校外托管监管意见自2026-09-16施行，强调证照与预收费监管,,其他,http://news.e23.cn/jnnews/2026-09-09/2026090900147.html,,2026-09-09,high,无具体片区价目
+ev12,勿合并学区,绿地泉景园,N/A,泉新学校学区=绿地泉景园系；勿与泉景小学/泉景中学小学部合并，除非证据明确,,招生简章,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnshyqqxxxp/channel_jns_huaiyinquqjyhtyjdjnshyqqxxxp_10d/doc_685a5b80e34b9d2e43494bde.html,,2026,high,标签纪律

@@ -1,0 +1,24 @@
+﻿norm_id,school_area,institution_name,service_bucket,monthly_comparable_cny,basis,price_kind,source_price_id,caveat
+N001,绿地泉景园,(匿名评论·槐荫·未点名门店),午+晚,900,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_qx_oral_hy_900,price_kind=评论口述价≠正式月费; confidence=low; 家长BI口述槐荫900；非金苹果/新星/博乐具名价；勿标正式月费
+N002,绿地泉景园,(匿名评论·济南·未点名门店),午托,750,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_qx_oral_jn_750,price_kind=评论口述价≠正式月费; confidence=low; 家长BH:午餐750；同评论另述一个月1100
+N003,绿地泉景园,(匿名评论·济南·未点名门店),午+晚,1100,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_qx_oral_jn_1100,price_kind=评论口述价≠正式月费; confidence=low; 家长BH:一个月1100；勿当作正式月费门店价目
+N004,绿地泉景园,(匿名评论·济南·未点名门店),午托,450,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_qx_oral_jn_450,price_kind=评论口述价≠正式月费; confidence=low; 家长BL口述；price_kind用评论口述价而非午托月费门店价
+N005,泉新学校,(匿名评论·槐荫·未点名门店),午+晚,900,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_qx_school_oral_hy_900,price_kind=评论口述价≠正式月费; confidence=low; 与绿地泉景园行同源；school_area精确标泉新学校作学区参考
+N006,营市东街小学,(匿名评论·槐荫·未点名门店),午+晚,900,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yd_oral_hy_900,price_kind=评论口述价≠正式月费; confidence=low; 非天天/金牌/朵朵等具名价
+N007,营市东街小学,(匿名评论·济南·未点名门店),午托,750,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yd_oral_jn_750,price_kind=评论口述价≠正式月费; confidence=low
+N008,营市东街小学,(匿名评论·济南·未点名门店),其他/未分桶,1100,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yd_oral_jn_1100,price_kind=评论口述价≠正式月费; confidence=low
+N009,营市东街小学,(匿名评论·济南·未点名门店),午托,450,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yd_oral_jn_450,price_kind=评论口述价≠正式月费; confidence=low
+N010,杨柳春风学校,(匿名评论·济南·未点名门店),其他/未分桶,1100,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yl_oral_jn_1100,price_kind=评论口述价≠正式月费; confidence=low; 杨柳片无具名门店公开月费
+N011,杨柳春风学校,(匿名评论·济南·未点名门店),午托,750,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yl_oral_jn_750,price_kind=评论口述价≠正式月费; confidence=low
+N012,杨柳春风学校,(匿名评论·济南·未点名门店),午托,450,oral_comment_monthly_as_stated; NOT 正式月费,评论口述价,v4_yl_oral_jn_450,price_kind=评论口述价≠正式月费; confidence=low
+N013,杨柳春风学校,(探店口述·西客站托管/贝尔安亲加盟内容),高品质,3956,derived_monthly_from_学期(original=17800); NOT 正式月费,评论口述价,v4_yl_oral_17800_term,price_kind=评论口述价≠正式月费; derived_monthly_equivalent=1;不得冒充原始正式月费; confidence=low; 学期价保留original；月等价仅derived=1
+N014,绿地泉景园,济南小饭桌行业访谈(匿名店),午托,550,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_qx_iqilu_550,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1；严禁当2026正式月费
+N015,绿地泉景园,济南小饭桌行业访谈(匿名店),午+晚,700,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_qx_iqilu_700,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1
+N016,营市东街小学,济南小饭桌行业访谈(匿名店),午托,550,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_yd_iqilu_550,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1；严禁当2026正式月费
+N017,营市东街小学,济南小饭桌行业访谈(匿名店),午+晚,700,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_yd_iqilu_700,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1
+N018,杨柳春风学校,济南小饭桌行业访谈(匿名店),午托,550,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_yl_iqilu_550,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1；严禁当2026正式月费
+N019,杨柳春风学校,济南小饭桌行业访谈(匿名店),午+晚,700,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_yl_iqilu_700,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1
+N020,绿地泉景园,巧克力牧场托管教育(甸柳·非本片区),午托,580,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_choc_580,price_kind=历史旧价≠正式月费; old=1; confidence=low; 结构参考；非泉新/泉景园现价
+N021,绿地泉景园,巧克力牧场托管教育(甸柳·非本片区),午+晚,380,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_choc_380,price_kind=历史旧价≠正式月费; old=1; confidence=low; 结构参考
+N022,营市东街小学,历下健康午餐服务中心(绿城百合·历史),午托,680,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_dzwww_680,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1；非营东门店
+N023,营市东街小学,历下健康午餐服务中心(绿城百合·历史),午+晚,980,historical_monthly_as_stated; old=1; NOT 2026正式月费,历史旧价,v4_hist_dzwww_980,price_kind=历史旧价≠正式月费; old=1; confidence=medium; old=1

@@ -1,0 +1,9 @@
+# Extracted from research comments.csv (collected 2026-09-15 PT)
+# Source: https://www.xiaohongshu.com/explore/6a5ef485000000001b01c1ec
+# Tag date clue: 2025-07-20
+# Live fetch 2026-09-16: page gone; use comments.csv + screenshot
+
+家长BI: 槐荫900，中午三菜一汤，下午粥面包，看作业检查后接
+家长BH: 午餐750，一个月1100
+家长BL: 午托午餐加午休450一个月
+家长BO: 历下1460午托和晚托

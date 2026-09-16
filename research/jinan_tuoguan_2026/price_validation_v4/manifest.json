@@ -1,0 +1,45 @@
+{
+  "issue": 5,
+  "version": "price_validation_v4",
+  "status": "delivered_honest_gap",
+  "updated_at": "2026-09-16T05:38:46-07:00",
+  "branch": "research/jinan-tuoguan-2026-v4",
+  "counts": {
+    "named_price_rows": 23,
+    "formal_monthly": 0,
+    "trial_groupbuy": 0,
+    "oral": 13,
+    "historical": 10,
+    "fixed_store_scenarios": 280,
+    "failures": 25,
+    "per_area": {
+      "泉新学校": {
+        "total": 1,
+        "formal": 0,
+        "oral": 1,
+        "hist": 0
+      },
+      "绿地泉景园": {
+        "total": 8,
+        "formal": 0,
+        "oral": 4,
+        "hist": 4
+      },
+      "营市东街小学": {
+        "total": 8,
+        "formal": 0,
+        "oral": 4,
+        "hist": 4
+      },
+      "杨柳春风学校": {
+        "total": 6,
+        "formal": 0,
+        "oral": 4,
+        "hist": 2
+      }
+    },
+    "named_institutions_non_anon": 3,
+    "anonymous_price_rows": 18
+  },
+  "key_finding": "正式月费公开样本=0；不能据此写片区市场均价或固定店盈利用真实ARPU校准"
+}

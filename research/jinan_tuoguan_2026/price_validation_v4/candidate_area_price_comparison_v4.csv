@@ -1,0 +1,46 @@
+﻿school_area,metric,value,unit,source_refs,caveat,confidence
+泉新,2026招生规模,12班/540学位,班/人,deep_dive_v2/school_facts; E0001; deep_dive_v3,政府计划表；学位≠托管需求; 绿地泉景园指标可嵌套参照泉新学区,A
+泉新,在校生规模线索,未在school_facts给在校生总数,人,gap; deep_dive_v3,营东为2025统计；其余多缺口; 绿地泉景园指标可嵌套参照泉新学区,B
+泉新,当前具名价格样本数,5,条,named_current_prices.csv,含评论口述/弱关联；正式月费=0；绿地泉景园嵌套计泉新; 泉新学校行=1; 绿地泉景园嵌套=4,low
+泉新,正式月费样本数,0,条,named_current_prices.csv,公开源未找到具名门店正式月费,high
+泉新,主流价格带,insufficient_for_market_median（正式月费n=0）,元/月,area_price_summary.csv,口头区级/市级参考区间约450.0-1100.0（评论口述，非市场中位）,low
+泉新,高价样本,1100,元/月口述,named_current_prices.csv,最高口述/derived不得当作正式高价门店价目；杨柳另有学期17800 derived≈3956,low
+泉新,竞争密度,2,家,area_comparison_raw / core_competitors 标签泉新学校; deep_dive_v3,启发式归属或v2标签，非现场核验营业状态; 绿地泉景园指标可嵌套参照泉新学区,B
+泉新,大面积场地租金,3,条,large_space_rent_samples;多面议且部分stale; deep_dive_v3,多数面议；有价样本少; 绿地泉景园指标可嵌套参照泉新学区,B
+泉新,建议产品档位,证据不足，不作档位结论,,Issue#5,缺正式月费→无法建议产品档位；留给Sol判断,low
+泉新,固定店保本人数_ARPU1500_350㎡无店长,39,人,fixed_store_sensitivity.csv,model_assumption; 面积不随学生缩小; v3 unit rates,model
+泉新,固定店保本人数_ARPU1800_350㎡无店长,31,人,fixed_store_sensitivity.csv,model_assumption,model
+泉新,固定店保本人数_ARPU2200_350㎡无店长,25,人,fixed_store_sensitivity.csv,model_assumption,model
+泉新,固定店保本人数_ARPU1500_400㎡有店长,46,人,fixed_store_sensitivity.csv,model_assumption; 含店长6000,model
+泉新,固定店保本人数_ARPU1800_400㎡有店长,37,人,fixed_store_sensitivity.csv,model_assumption,model
+泉新,固定店保本人数_ARPU2200_400㎡有店长,30,人,fixed_store_sensitivity.csv,model_assumption,model
+营市东街,2026招生规模,8班/360学位,班/人,yingshidongjie_deep_dive YS_SCH_001/003; 槐荫区2026计划; deep_dive_v3,政府计划表；学位≠托管需求,A
+营市东街,在校生规模线索,2169人(2025统计),人,YS_SCH_004; deep_dive_v3,营东为2025统计；其余多缺口,B
+营市东街,当前具名价格样本数,4,条,named_current_prices.csv,含评论口述；正式月费=0,low
+营市东街,正式月费样本数,0,条,named_current_prices.csv,公开源未找到具名门店正式月费,high
+营市东街,主流价格带,insufficient_for_market_median（正式月费n=0）,元/月,area_price_summary.csv,口头区级/市级参考区间约450.0-1100.0（评论口述，非市场中位）,low
+营市东街,高价样本,1100,元/月口述,named_current_prices.csv,最高口述/derived不得当作正式高价门店价目；杨柳另有学期17800 derived≈3956,low
+营市东街,竞争密度,20,家,school_competition area_yingdong POI启发式20; 非实时围栏; deep_dive_v3,启发式归属或v2标签，非现场核验营业状态,B
+营市东街,大面积场地租金,6,条,large_space_rent_samples; deep_dive_v3,多数面议；有价样本少,B
+营市东街,建议产品档位,证据不足，不作档位结论,,Issue#5,缺正式月费→无法建议产品档位；留给Sol判断,low
+营市东街,固定店保本人数_ARPU1500_350㎡无店长,39,人,fixed_store_sensitivity.csv,model_assumption; 面积不随学生缩小; v3 unit rates,model
+营市东街,固定店保本人数_ARPU1800_350㎡无店长,31,人,fixed_store_sensitivity.csv,model_assumption,model
+营市东街,固定店保本人数_ARPU2200_350㎡无店长,25,人,fixed_store_sensitivity.csv,model_assumption,model
+营市东街,固定店保本人数_ARPU1500_400㎡有店长,46,人,fixed_store_sensitivity.csv,model_assumption; 含店长6000,model
+营市东街,固定店保本人数_ARPU1800_400㎡有店长,37,人,fixed_store_sensitivity.csv,model_assumption,model
+营市东街,固定店保本人数_ARPU2200_400㎡有店长,30,人,fixed_store_sensitivity.csv,model_assumption,model
+杨柳春风,2026招生规模,6班/270学位,班/人,deep_dive_v2/school_facts; E0003; deep_dive_v3,政府计划表；学位≠托管需求,A
+杨柳春风,在校生规模线索,未公开在校生总数,人,gap; deep_dive_v3,营东为2025统计；其余多缺口,B
+杨柳春风,当前具名价格样本数,4,条,named_current_prices.csv,含评论口述；正式月费=0,low
+杨柳春风,正式月费样本数,0,条,named_current_prices.csv,公开源未找到具名门店正式月费,high
+杨柳春风,主流价格带,insufficient_for_market_median（正式月费n=0）,元/月,area_price_summary.csv,口头区级/市级参考区间约450.0-3956.0（评论口述，非市场中位）,low
+杨柳春风,高价样本,3956,元/月口述,named_current_prices.csv,最高口述/derived不得当作正式高价门店价目；杨柳另有学期17800 derived≈3956,low
+杨柳春风,竞争密度,6,家,area_comparison_raw; deep_dive_v3,启发式归属或v2标签，非现场核验营业状态,B
+杨柳春风,大面积场地租金,7,条,large_space_rent_samples; deep_dive_v3,多数面议；有价样本少,B
+杨柳春风,建议产品档位,证据不足，不作档位结论,,Issue#5,缺正式月费→无法建议产品档位；留给Sol判断,low
+杨柳春风,固定店保本人数_ARPU1500_350㎡无店长,39,人,fixed_store_sensitivity.csv,model_assumption; 面积不随学生缩小; v3 unit rates,model
+杨柳春风,固定店保本人数_ARPU1800_350㎡无店长,31,人,fixed_store_sensitivity.csv,model_assumption,model
+杨柳春风,固定店保本人数_ARPU2200_350㎡无店长,25,人,fixed_store_sensitivity.csv,model_assumption,model
+杨柳春风,固定店保本人数_ARPU1500_400㎡有店长,46,人,fixed_store_sensitivity.csv,model_assumption; 含店长6000,model
+杨柳春风,固定店保本人数_ARPU1800_400㎡有店长,37,人,fixed_store_sensitivity.csv,model_assumption,model
+杨柳春风,固定店保本人数_ARPU2200_400㎡有店长,30,人,fixed_store_sensitivity.csv,model_assumption,model
