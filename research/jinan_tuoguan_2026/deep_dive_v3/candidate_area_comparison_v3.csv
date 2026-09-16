@@ -1,0 +1,61 @@
+﻿school_area,metric,value,unit,source_refs,caveat,confidence
+营市东街,2026招生班数学位,8班/360学位,班/人,yingshidongjie_deep_dive YS_SCH_001/003; 槐荫区2026计划,政府计划表；学位≠托管需求,A
+营市东街,在校生规模线索,2169人(2025统计),人,YS_SCH_004,营东为2025统计；其余多缺口,B
+营市东街,核心竞品/POI数量,20,家,school_competition area_yingdong POI启发式20; 非实时围栏,启发式归属或v2标签，非现场核验营业状态,B
+营市东街,大面积租金样本数(250-600带),6,条,large_space_rent_samples,多数面议；有价样本少,B
+营市东街,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+营市东街,2026真月费价目,营东未找到门口真月费,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+营市东街,东西校区结构,东西两校区；普通教室50间,—,YS_SCH_006/007,接送动线需按校区分别评估,A
+营市东街,近校大铺线索,400㎡面议(新世界); 380㎡约16000元/月(经五路); 正对面160㎡对照,—,YS_RENT_001/002/003; RENT_YD_*,160㎡低于大面积目标带,B
+营市东街,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+营市东街,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A
+泉新,2026招生班数学位,12班/540学位,班/人,deep_dive_v2/school_facts; E0001,政府计划表；学位≠托管需求,A
+泉新,在校生规模线索,未在school_facts给在校生总数,人,gap,营东为2025统计；其余多缺口,B
+泉新,核心竞品/POI数量,2,家,area_comparison_raw / core_competitors 标签泉新学校,启发式归属或v2标签，非现场核验营业状态,B
+泉新,大面积租金样本数(250-600带),3,条,large_space_rent_samples;多面议且部分stale,多数面议；有价样本少,B
+泉新,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+泉新,2026真月费价目,样本稀缺/评论口述为主,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+泉新,学区小区支付能力代理,绿地泉景园二手参考约8400-9000元/㎡(2026-06),元/㎡,batch2 B_school_payment,房价≠托管支付意愿,B
+泉新,学区范围线索,绿地泉景园/国际花都/泉景嘉园,—,school_facts,,A
+泉新,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+泉新,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A
+杨柳春风,2026招生班数学位,6班/270学位,班/人,deep_dive_v2/school_facts; E0003,政府计划表；学位≠托管需求,A
+杨柳春风,在校生规模线索,未公开在校生总数,人,gap,营东为2025统计；其余多缺口,B
+杨柳春风,核心竞品/POI数量,6,家,area_comparison_raw,启发式归属或v2标签，非现场核验营业状态,B
+杨柳春风,大面积租金样本数(250-600带),7,条,large_space_rent_samples,多数面议；有价样本少,B
+杨柳春风,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+杨柳春风,2026真月费价目,样本稀缺/评论口述为主,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+杨柳春风,租金有价样本例,320㎡×5000元/月≈15.6元/㎡(金科城)；180㎡×4166(v2),—,RENT_YL_250_3; local_rent_2026,低单价需核验是否可餐饮/托管改造,B
+杨柳春风,房价代理,新房参考约13500元/㎡(购房网2026-03),元/㎡,B_yangliu_13500,广告宣传口径,C
+杨柳春风,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+杨柳春风,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A
+泉景小学,2026招生班数学位,班数未公开具体数字,班/人,school_facts 市中公告,政府计划表；学位≠托管需求,A
+泉景小学,在校生规模线索,未公开,人,gap,营东为2025统计；其余多缺口,B
+泉景小学,核心竞品/POI数量,5,家,area_comparison_raw,启发式归属或v2标签，非现场核验营业状态,B
+泉景小学,大面积租金样本数(250-600带),4,条,large_space_rent_samples标签泉景/阳光100参照,多数面议；有价样本少,B
+泉景小学,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+泉景小学,2026真月费价目,样本稀缺/评论口述为主,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+泉景小学,行政区,市中区(非槐荫),—,school_facts,政策落地与槐荫校不完全同属,A
+泉景小学,阳光100参照租金,200㎡餐馆转让6500元/月≈32.5元/㎡,—,RENT_QJ_250_1,参照圈非校门口,B
+泉景小学,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+泉景小学,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A
+泉景中学,2026招生班数学位,班数未公开具体数字,班/人,school_facts,政府计划表；学位≠托管需求,A
+泉景中学,在校生规模线索,未公开,人,gap,营东为2025统计；其余多缺口,B
+泉景中学,核心竞品/POI数量,2,家,area_comparison_raw,启发式归属或v2标签，非现场核验营业状态,B
+泉景中学,大面积租金样本数(250-600带),4,条,同盘交叉；未拆小学中学门口,多数面议；有价样本少,B
+泉景中学,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+泉景中学,2026真月费价目,样本稀缺/评论口述为主,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+泉景中学,行政区,市中区(非槐荫),—,school_facts,政策落地与槐荫校不完全同属,A
+泉景中学,阳光100参照租金,200㎡餐馆转让6500元/月≈32.5元/㎡,—,RENT_QJ_250_1,参照圈非校门口,B
+泉景中学,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+泉景中学,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A
+槐荫实验,2026招生班数学位,4班/180学位(区计划表实验),班/人,07_gov/collection_log 2026计划 实验4/180,政府计划表；学位≠托管需求,A
+槐荫实验,在校生规模线索,未在本轮CSV稳定给出,人,gap,营东为2025统计；其余多缺口,B
+槐荫实验,核心竞品/POI数量,15,家,school_competition area_huaiyin_shiyan POI启发式15,启发式归属或v2标签，非现场核验营业状态,B
+槐荫实验,大面积租金样本数(250-600带),0,条,本轮large_space_rent_samples无专列；邻近匡山/张庄路样本可参照但勿等同,多数面议；有价样本少,B
+槐荫实验,校级午餐午休放学细则,未公开找到,—,failures F_001等同缺口; school_facts,各校普遍缺口,B
+槐荫实验,2026真月费价目,样本稀缺/评论口述为主,—,current_prices_2026; yingshidongjie YS_PR_*; F_002,勿把体验价/历史价当现行月费,C
+槐荫实验,竞品名录线索,向日葵/金贝育童/花锦时代等POI启发式,—,school_competition; px_huajin_880,花锦时代880元/月晚辅为广告宣传,B
+槐荫实验,与营东关系,同属槐荫中部偏西市场/张庄路生活圈，部分竞品交叉,—,poi启发式,非精确等距,C
+槐荫实验,40人全日空间模型需求(规划),A≈185.4㎡ / B≈370.0㎡ / C≈505.0㎡,㎡,venue_space_model_40_students,规划模型非实测；不可反推某校区已具备容量,B
+槐荫实验,山东生均面积法定数值,鲁政办发〔2026〕8号未规定,—,REG_SD_001; regulation_space_requirements,外省4㎡仅为planning_reference,A

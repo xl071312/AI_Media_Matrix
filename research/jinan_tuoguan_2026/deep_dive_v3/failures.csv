@@ -1,0 +1,14 @@
+﻿failure_id,task,school_area,blocked_url,failure_reason,screenshot_path,fields_unread,crawl_time
+F_001,yingshidongjie_lunch_nap_dismissal,营市东街,,校级公开页无午餐/午休/放学时间细则,,"lunch,nap,dismissal_time",2026-09-16T04:46:32-07:00
+F_002,yingshidongjie_2026_monthly_price,营市东街,,未找到营东门口机构2026真月费价目表,,monthly_fee_2026,2026-09-16T04:46:32-07:00
+F_003,capacity_jinan_measured,济南/山东,,山东本地门店极少同时公开面积与在托/招生人数；壹心槐荫有主体无面积人数,,building_area+students,2026-09-16T04:46:32-07:00
+F_004,yixin_capacity,营市东街/槐荫,https://www.zhaopin.com/companydetail/923740C83UNGPPKAHA.htm,壹心校外托管招聘页无面积与容量,,"area,capacity",2026-09-16T04:46:32-07:00
+F_005,renovation_hvac_quote,济南,https://www.blauberg.cn/essay_detail?id=1,托管场景新风公开价目未找到,,xinfeng_unit_price,2026-09-16T04:46:32-07:00
+F_006,renovation_jinan_bid,济南/山东,,2025-2026济南托管专项装修招标带㎡单价公开样本不足,,reno_bid_unit_price,2026-09-16T04:46:32-07:00
+F_007,large_rent_band_coverage,泉景/泉新,,250-600㎡且近校门独立挂牌少；多依赖招商盘分档或面议,,exact_rent_per_sqm,2026-09-16T04:46:32-07:00
+F_008,anjuke_detail_thin,营市东街,https://m.anjuke.com/jn/sp/zu/huaiyinqu/,部分安居客仅列表snippet无稳定详情URL；未做登录/验证码绕过,,listing_detail,2026-09-16T04:46:32-07:00
+F_009,jinan_implementing_rule,济南/槐荫,,鲁政办发〔2026〕8号市/区实施细则公开检索未发现,,local_shengjun_mianji,2026-09-16T04:46:32-07:00
+F_010,dianping_login_wall,营市东街,https://www.dianping.com/,部分详情验证中心；仅用已抓公开摘要复用,,full_reviews,2026-09-16T04:46:32-07:00
+F_011,models_capacity_measured_pairs,济南/山东,,构建空间/容量模型时山东“面积×在托人数”实测对仍稀缺；模型以engineering assumption为主并标注assumption_flag,,measured_area_x_students,2026-09-16T04:51:20-07:00
+F_012,models_capex_jinan_unit_rates,济南,,CAPEX单价大量依赖REN招商/外省口述与工程假设；缺2025-2026济南托管中标明细,,jinan_bid_unit_price,2026-09-16T04:51:20-07:00
+F_013,models_opex_rent_median,多校区,,大面积租金多数面议；OPEX所用30元/㎡/月为有价样本中位假设，非成交价,,transaction_rent,2026-09-16T04:51:20-07:00

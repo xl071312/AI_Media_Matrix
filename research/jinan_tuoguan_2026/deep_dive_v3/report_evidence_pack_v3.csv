@@ -1,0 +1,26 @@
+﻿evidence_id,topic,school_area,institution_name,plain_language_fact,numeric_value,source_type,source_url,screenshot_path,date,confidence,caveat
+EV3_001,法规生均面积,济南/山东,,山东省鲁政办发〔2026〕8号公开文本未规定校外托管生均建筑或使用面积的数值标准。,未规定,官方事实,https://gaige.zibo.gov.cn/art/2026/8/26/art_19874_3017529.html,06_evidence/raw/luzhengbanfa_2026_8_zibo.html,2026-08-06,A,济南/槐荫实施细则公开检索未发现(REG_JN_001)
+EV3_002,法规餐饮面积阈值,济南/山东,,餐饮服务相关区域面积不足50㎡且不符食品经营许可办理条件的，应办理小餐饮登记。,50,官方事实,https://gaige.zibo.gov.cn/art/2026/8/26/art_19874_3017529.html,,2026-08-06,A,
+EV3_003,法规场所禁止,济南/山东,,校外托管不得设在地下室/半地下室、低等级金属夹芯板建筑、仓储建筑，且不得与易燃易爆危险品场所同建筑。,,官方事实,http://news.e23.cn/shandong/2026-08-08/2026080800230.html,,2026-08-06,A,
+EV3_004,外省参照生均,外省参照,,海口/海南合规材料写明学生人均使用建筑面积不得小于4㎡，且应一人一床不得通铺；此为外省规定，不能当作山东法条。,4,官方事实,http://hkyshj.haikou.gov.cn/hgzd/zdcjhgqd/xwtgjg/202607/t1534372.shtml,06_evidence/raw/haikou_compliance_2026.html,2024,B,planning_reference_only_outer_province
+EV3_005,外省参照生均,外省参照,,深圳市管理办法写明托管场所建筑面积80㎡以上、生均建筑面积4㎡以上；外省参照。,4,官方事实,http://www.sz.gov.cn/gkmlpt/content/7/7786/post_7786617.html?jump=false,,2019-09-01,B,planning_reference_only
+EV3_006,培训标准勿套用,济南/山东,,山东省2019年校外培训机构意见有“场所≥200㎡、生均≥3㎡”等表述，文件对象是培训机构而非校外托管，不能直接当作托管法定面积标准。,3,官方事实,http://edu.shandong.gov.cn/art/2019/3/22/art_11990_7739809.html,,2019-03,A,REG_SD_TRAIN_001
+EV3_007,空间规划模型A,规划模型,,规划模型A紧凑复用：40人全日含午休自下而上合计约189㎡（含墙体损耗；就餐复用学习区；床假设1.2×0.6双层）。此为规划模型非实测。,185.4,规划模型非实测,venue_space_model_40_students.csv,,2026-09-16T04:51:20-07:00,B,model_assumption；禁止写成市场事实
+EV3_008,空间规划模型B,规划模型,,规划模型B标准舒适：40人全日含午休合计约370㎡（单层床1.5×0.7；功能相对独立）。规划模型非实测。,370.0,规划模型非实测,venue_space_model_40_students.csv,,2026-09-16T04:51:20-07:00,B,model_assumption
+EV3_009,空间规划模型C,规划模型,,规划模型C品质高端：40人全日含午休合计约505㎡（加宽过道与独立活动区）。规划模型非实测。,505.0,规划模型非实测,venue_space_model_40_students.csv,,2026-09-16T04:51:20-07:00,B,model_assumption
+EV3_010,容量样本缺口,济南/山东,,本轮venue_capacity_samples中，山东本地同时公开“面积+在托/招生人数”的实测门店对极少；多条为品牌招商或外省口述，brand_claim不得当作容量定律。,,采集结论,venue_capacity_samples.csv,,2026-09-16T04:51:20-07:00,A,见failures F_003
+EV3_011,品牌招商面积档,品牌宣传,贝尔安亲,加盟费网等招商材料给出二线约300㎡、三线约200㎡、一线约400㎡等店铺面积档及装修单价约800-1000元/㎡；页面通常不给该面积对应实测在托人数。,300,brand_claim,https://m.jiamengfei.cn/news/52847.html,02_capacity_samples/raw/jiamengfei_beier_52847.html,2025-02-24,C,不得推导200㎡=40或300㎡=固定人数
+EV3_012,装修单价样本,行业样本,,贝尔安亲招商示例装修约800元/㎡（268.8㎡约21.5万）；另有资讯站100㎡含水电厨房装修15-20万（隐含1500-2000元/㎡），非济南核验报价。,800-2000,加盟招商/资讯,renovation_cost_samples.csv,,2026-09-16T04:51:20-07:00,B,REN_003/REN_001
+EV3_013,家具单价口述,行业口述,,经营者经验贴：叠叠床约80-200元/张，架子床约150-600元/张，床品约200-300元/套，课桌椅约80-150元/套。,,经营者口述,https://www.xiaoyou3.com/extend/458.html,,2025-04-28,B,REN_006-009；非济南采购价
+EV3_014,营东招生2026,营市东街,济南市营市东街小学,槐荫区2026计划表：营市东街小学一年级8个班、最大班额45、计划学位360。,360,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjd/channel_6389a745375991828263d29e/doc_6a228a104c48b9888dc2d3e3.html,,2026-06-05,A,
+EV3_015,营东在校生2025,营市东街,济南市营市东街小学,2025年4月公开统计：在校生2169人、教职工131人、东西两个校区、普通教室50间。,2169,官方事实,http://www.huaiyin.gov.cn/gongkai/site_huaiyinquqjyhtyjdjnsysdjxxag/channel_jns_huaiyinquqjyhtyjdjnsysdjxxag_6d/doc_67f898cbb2eff34a156334cb.html,,2025-04-11,A,非2026在校生
+EV3_016,泉新招生2026,泉新,济南市槐荫区泉新学校,公开信息显示2026招生班数12、学位540；学区含绿地泉景园等。,540,官方事实,deep_dive_v2/school_facts.csv,,2026,A,E0001
+EV3_017,杨柳招生2026,杨柳春风,济南市槐荫区杨柳春风学校,公开信息显示2026招生班数6、学位270。,270,官方事实,deep_dive_v2/school_facts.csv,,2026,A,E0003
+EV3_018,租金有价中位,多校区,,large_space_rent_samples中能算出单价的样本中位约32.5元/㎡/月；deep_dive_v2有价样本中位约30.6元/㎡/月。OPEX模型采用“中位大面积租金假设30元/㎡/月”。,30,规划模型非实测,large_space_rent_samples.csv,,2026-09-16T04:51:20-07:00,B,多数挂牌面议；低价异常样本需核验
+EV3_019,营东租金例,营市东街,,安居客列表：西市场经五路附近双层约380㎡挂牌约16000元/月（约42元/㎡/月）；新世界阳光花园约400㎡面议。,16000,地图团购,large_space_rent_samples RENT_YD_350_2,,2026-09-16,B,列表snippet
+EV3_020,人工工资区间,济南,,公开招聘：托管老师常见3000-6000元/月，厨师约4000-5500元/月，生活老师约3000-4000元/月（区间含绩效可能）。,3000-6000,招聘侧面,deep_dive_v2/labor_cost_2026.csv,,2026-09-16T04:51:20-07:00,B,OPEX取老师4000/厨师5000/生活3500为模型假设
+EV3_021,价格口述带,槐荫/济南,,小红书聚合评论口述：槐荫午餐+看作业约900元/月；午餐约750；午晚托口述可达2000+；均为用户评论非门店价目。,900,用户评论,current_prices_2026 / YS_PR_*,,2025-07,C,非2026门店核验价
+EV3_022,CAPEX模型锚,规划模型,,CAPEX 3×3规划：300/400/500㎡ × 经济型/标准品质型/高端型；硬装单价假设900/1300/2000元/㎡，加盟费单列不计入装修；预备金10-15%。规划模型非实测。,,规划模型非实测,capex_budget_by_area.csv,,2026-09-16T04:51:20-07:00,B,济南托管专项招标㎡单价公开样本不足
+EV3_023,禁止伪等式,规划模型,,本证据包明确：不得把“200㎡=40人”或“350㎡=40人”当作事实；容量取决于床型、复用、疏散与品质标准，须分legal_allowed / physical_max / quality_ops_recommended三层解读。,,规划模型非实测,area_to_capacity_model.csv,,2026-09-16T04:51:20-07:00,A,纠偏条款
+EV3_024,竞品数量营东,营市东街,,school_competition启发式：营东/营市东街片区POI约20家托管/小饭桌相关（非实时地理围栏，未逐一核实2026营业）。,20,地图列表复用,school_competition.csv,,2026-09-16T04:51:20-07:00,B,
+EV3_025,竞品数量实验,槐荫实验,,school_competition启发式：槐荫实验片区POI约15家。,15,地图列表复用,school_competition.csv,,2026-09-16T04:51:20-07:00,B,

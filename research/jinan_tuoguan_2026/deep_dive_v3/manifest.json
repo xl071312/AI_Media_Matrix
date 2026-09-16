@@ -1,0 +1,38 @@
+{
+  "issue": 4,
+  "version": "deep_dive_v3",
+  "status": "models_complete",
+  "updated_at": "2026-09-16T04:51:20-07:00",
+  "branch": "research/jinan-tuoguan-2026-v3",
+  "corrections": [
+    "no_200sqm_equals_40",
+    "no_350sqm_equals_40",
+    "rent_sample_not_capacity",
+    "capex_opex_required",
+    "legal_vs_physical_vs_quality_separated",
+    "brand_claim_not_capacity_law",
+    "no_site_ranking"
+  ],
+  "counts": {
+    "venue_space_model_40_students": 36,
+    "area_to_capacity_model": 27,
+    "capex_budget_by_area": 342,
+    "monthly_opex_model": 112,
+    "unit_economics_v3": 35,
+    "candidate_area_comparison_v3": 60,
+    "report_evidence_pack_v3": 25,
+    "venue_capacity_samples": 20,
+    "renovation_cost_samples": 15,
+    "large_space_rent_samples": 20,
+    "yingshidongjie_deep_dive": 41,
+    "regulation_space_requirements": 8,
+    "failures": 13
+  },
+  "space_model_40_totals_sqm": {
+    "A": 185.4,
+    "B": 370.0,
+    "C": 505.0
+  },
+  "capex_totals_400_standard": 964680,
+  "opex_rent_assumption_cny_per_sqm": 30
+}

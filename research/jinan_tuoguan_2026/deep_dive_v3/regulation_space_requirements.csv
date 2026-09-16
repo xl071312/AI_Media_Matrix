@@ -1,0 +1,9 @@
+﻿reg_id,jurisdiction,doc_name,topic,requirement_text,applies_to_tuoguan,source_url,publish_date,crawl_time,status_flag,notes
+REG_SD_001,山东省,鲁政办发〔2026〕8号《关于加强校外托管机构监管的意见》,生均面积,全文未规定校外托管生均建筑/使用面积数值标准,yes,https://gaige.zibo.gov.cn/art/2026/8/26/art_19874_3017529.html,2026-08-06,2026-09-16T04:46:32-07:00,not_specified_in_current_rule,施行2026-09-16至2031-09-15
+REG_SD_002,山东省,鲁政办发〔2026〕8号,餐饮服务区域面积,不符食品经营许可条件且与食品加工制作供应相关的餐饮服务区域面积不足50㎡的，应办理小餐饮登记,yes,https://gaige.zibo.gov.cn/art/2026/8/26/art_19874_3017529.html,2026-08-06,2026-09-16T04:46:32-07:00,explicit_50sqm_xiaocanyin_threshold,
+REG_SD_003,山东省,鲁政办发〔2026〕8号,场所禁止,不得与易燃易爆同建筑；不应设地下室/半地下室、低等级金属夹芯板、仓储建筑；需安全出口疏散通道,yes,https://gaige.zibo.gov.cn/art/2026/8/26/art_19874_3017529.html,2026-08-06,2026-09-16T04:46:32-07:00,explicit,
+REG_SD_004,山东省,鲁政办发〔2026〕8号,消防审验,新建改扩建/改变使用性质装饰装修须依法消防设计审查验收或备案抽查；不合格停用,yes,http://news.e23.cn/shandong/2026-08-08/2026080800230.html,2026-08-06,2026-09-16T04:46:32-07:00,explicit,
+REG_JN_001,济南市/槐荫区,(检索)实施细则/通知,落地文件,公开检索未发现济南市或槐荫区针对鲁政办发〔2026〕8号的专门实施细则/生均面积补充规定,unknown,http://www.huaiyin.gov.cn/,,2026-09-16T04:46:32-07:00,not_found_public,
+REG_SD_TRAIN_001,山东省,规范校外培训机构发展实施意见(2019),校外培训生均面积(不可直接套用托管),办学场所建筑面积不得少于200㎡，教学用房不少于2/3，同一培训时段内生均建筑面积不低于3㎡,no_do_not_apply_as_tuoguan_law,http://edu.shandong.gov.cn/art/2019/3/22/art_11990_7739809.html,2019-03,2026-09-16T04:46:32-07:00,training_not_tuoguan,禁止把3㎡/生当作托管法定标准
+REG_HK_REF_001,海南省/海口(外省参照),海南省校外托管机构管理若干规定(2024)/海口合规清单,生均面积(规划参照),学生人均使用建筑面积不得小于4平方米；应为每位学生提供独立床位不得通铺,planning_reference_only_outer_province,http://hkyshj.haikou.gov.cn/hgzd/zdcjhgqd/xwtgjg/202607/t1534372.shtml,2024,2026-09-16T04:46:32-07:00,outer_province_reference,
+REG_SZ_REF_001,深圳市(外省参照),深圳市校外托管机构管理办法(市政府令第323号),生均面积(规划参照),建筑面积应在80㎡以上，托管学生人均建筑面积应当在4㎡以上,planning_reference_only_outer_province,http://www.sz.gov.cn/gkmlpt/content/7/7786/post_7786617.html?jump=false,2019-09-01,2026-09-16T04:46:32-07:00,outer_province_reference,

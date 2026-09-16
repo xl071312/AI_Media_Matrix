@@ -1,0 +1,16 @@
+﻿sample_id,item,unit_cost,unit,city_or_scope,project_type,total_or_unit,source_nature,source_url,screenshot_path,publish_or_update_time,crawl_time,old,confidence,notes
+REN_001,装修(含水电厨房设备),150000-200000,元/100㎡项目,行业笼统,小饭桌/托管,total,装修公司报价,https://wap.jinxun.cc/zixun/202512/4087964.html,04_capex_opex/raw/jinxun_reno_202512.html,2025-12,2026-09-16T04:46:32-07:00,0,low,非济南核验
+REN_002,装修单价(隐含),1500-2000,元/㎡,行业笼统,小饭桌100㎡,unit,装修公司报价,https://wap.jinxun.cc/zixun/202512/4087964.html,04_capex_opex/raw/jinxun_reno_202512.html,2025-12,2026-09-16T04:46:32-07:00,0,low,由15-20万/100㎡换算;estimated
+REN_003,贝尔安亲装修单价,800-1000,元/㎡,加盟测算一线1000/二线900/三线800,品牌托管加盟,unit,加盟招商,https://m.jiamengfei.cn/news/52847.html,02_capacity_samples/raw/jiamengfei_beier_52847.html,2025-02-24,2026-09-16T04:46:32-07:00,0,medium,
+REN_004,贝尔安亲标准店装修总价,215000,元/268.8㎡,加盟标准店,品牌托管加盟,total,加盟招商,https://www.jiamengfei.com/xm/273241,04_capex_opex/raw/jiamengfei_beier.html,,2026-09-16T04:46:32-07:00,0,medium,约800元/㎡
+REN_005,贝尔安亲装修总价(8158),270000,元/300㎡,加盟测算,品牌托管加盟,total,加盟招商,https://www.8158.com/jiaoyu/angelbell/index.html,02_capacity_samples/raw/8158_beier.html,,2026-09-16T04:46:32-07:00,0,medium,
+REN_006,午休床-叠叠床,80-200,元/张,行业口述,托管装备,unit,经营者口述,https://www.xiaoyou3.com/extend/458.html,04_capex_opex/raw/xiaoyou_invest_458.html,2025-04-28,2026-09-16T04:46:32-07:00,0,medium,
+REN_007,午休床-双层架子床,150-600,元/张,行业口述,托管装备,unit,经营者口述,https://www.xiaoyou3.com/extend/458.html,04_capex_opex/raw/xiaoyou_invest_458.html,2025-04-28,2026-09-16T04:46:32-07:00,0,medium,铁质150-300;木质400-600
+REN_008,床上用品套装,200-300,元/套,行业口述,托管装备,unit,经营者口述,https://www.xiaoyou3.com/extend/458.html,04_capex_opex/raw/xiaoyou_invest_458.html,2025-04-28,2026-09-16T04:46:32-07:00,0,medium,
+REN_009,课桌椅单人位,80-150,元/套,行业口述,托管装备,unit,经营者口述,https://www.xiaoyou3.com/extend/458.html,04_capex_opex/raw/xiaoyou_invest_458.html,2025-04-28,2026-09-16T04:46:32-07:00,0,medium,
+REN_010,设备(午休床餐桌椅等15-20人档),50000-80000,元,行业笼统,托管开办,total,品牌宣传,http://www.yu5.cc/wszq/20066023.html,,,2026-09-16T04:46:32-07:00,0,low,reuse_batch2_D
+REN_011,简装起步,20000-30000,元,行业笼统,小规模托管,total,品牌宣传,http://www.yu5.cc/wszq/20066023.html,,,2026-09-16T04:46:32-07:00,0,low,
+REN_012,核心设备(桌椅空调教具含监控),120000-158100,元,贝尔安亲加盟,品牌托管加盟,total,加盟招商,https://www.jiamengfei.com/xm/273241,04_capex_opex/raw/jiamengfei_beier.html,,2026-09-16T04:46:32-07:00,0,medium,含收银及监控;监控未单列
+REN_013,新风系统托管场景价目,未找到公开价目,—,济南,托管专用新风,—,官方事实,https://www.blauberg.cn/essay_detail?id=1,,,2026-09-16T04:46:32-07:00,0,low,FAILURE;见failures
+REN_014,商用厨房套餐,询价/工程定制,套,济南,教育/餐饮厨具,—,装修公司报价,http://www.xtjdyp.com/company/260.html,,,2026-09-16T04:46:32-07:00,0,low,页面无固定套餐价
+REN_015,济南毛坯硬装参考(非托管专项),800-1500,元/㎡,济南,住宅硬装对照,unit,装修公司报价,https://www.100ec.cn/pinpai/chanpin-116519/,,2026-08-21,2026-09-16T04:46:32-07:00,0,low,

@@ -1,0 +1,8 @@
+school_area,school_name,platform,listing_name,category,price,price_kind,location_text,source_url,notes,screenshot_path
+营市东街,济南市营市东街小学,大众点评,花儿朵朵托辅中心,托班/托儿所,,,营市东街25号；距地铁4号线营市街站A口步行约530m；营业10:00-22:00；3.9分/7条评价,https://www.dianping.com/shop/l2a3jfI9AM8YGvQC,公开搜索命中“营市东街托管”；页面未显示人均/托管收费,dianping_search_top.png
+营市东街,济南市营市东街小学,大众点评,金牌托管中心,中小学课后托管,,,营市东街28号；距地铁4号线营市街站A口步行约400m,https://www.dianping.com/shop/jAingcO9vUNsXNVG,公开搜索命中“营市东街托管”；页面未显示价格,dianping_jinpai_detail.png
+营市东街,济南市营市东街小学,百度/爱企查索引,济南槐荫思文营东校外托管中心,校外托管,,,经六路612号203室,https://www.baidu.com/s?wd=营东+托管+济南,百度索引显示儿童临时看护服务；搜索摘要称已注销；未见公开收费，需谨慎核验,baidu_yingdong_business.png
+营市东街,济南市营市东街小学,小红书,恐龙童成儿童成长中心,小学生托管,,,济南（具体校址未公开）,https://www.xiaohongshu.com/explore/69fee543000000002202bb05,公开笔记内容强调干净舒适/分区管理/阅读自习/现做餐食/晚托；未显示价格；与学校步行距离未证实,xhs_dinosaur_center.png
+营市东街,济南市营市东街小学,抖音,天天托管（招生视频海报）,校外托管,,,营东小学相关搜索结果中可见,https://www.douyin.com/search/营东小学%20托管费用,海报标题可见“托管班招生啦”；未显示明确价格或完整门店地址；名称按海报记录,douyin_fee_search.png
+营市东街,济南市营市东街小学,抖音,营东小学课后托管政策参考,校内基础托管/拓展性课后服务,"免费；拓展性课程每学期几十至几百元（AI问答示例含200元/学期）",school_policy_reference,营东小学相关搜索结果,https://www.douyin.com/search/营东小学%20托管费用,抖音AI问答摘要称基础托管免费、拓展性课后服务收费；具体以爱山东/学校小程序公示为准，不当作已核实价目,douyin_fee_search.png
+营市东街,济南市营市东街小学,百度/学校公告索引,营市东街小学课后延时服务（政策参考）,校内课后服务,"≤3.5元/生/课时",policy_cap_public_search_summary,槐荫区；学校2026年9月遴选第三方合作机构摘要,https://www.baidu.com/s?wd=营市东街小学+延时服务+收费,公开搜索摘要称具体收费尚未公布；政策层面上限为每生每课时不超过3.5元，最终以学校/区级公示为准；非校外托管价目,baidu_fee_policy.png
