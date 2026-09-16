@@ -1,0 +1,15 @@
+{
+  "topic": "槐荫区证照齐全校外托管机构名单",
+  "status": "not_found",
+  "failure_reason": "公开检索未发现济南市/槐荫区市场监管《证照齐全校外托管机构名单》Excel/PDF（含传闻2026-03槐荫Excel）。不得用培训机构黑白名单冒充托管名单。",
+  "analog_reference": {
+    "jurisdiction": "济南市莱芜区",
+    "title": "莱芜区证照齐全校外托管机构名单",
+    "count_claimed": "109家（供餐83/不供餐26）",
+    "note": "仅作同市参照格式/量级，不可当作槐荫母表。",
+    "source_url": "https://www.163.com/dy/article/L5L1ALOU0534DDHN.html",
+    "local_path": "07_gov/raw/laiwu_163_roster.html",
+    "also_mirrored": "01_official_registry/laiwu_roster_analog_note.md"
+  },
+  "scrape_date_pt": "2026-09-16"
+}

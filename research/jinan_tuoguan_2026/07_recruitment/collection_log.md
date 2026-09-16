@@ -1,0 +1,1 @@
+../11_labor/collection_log.md

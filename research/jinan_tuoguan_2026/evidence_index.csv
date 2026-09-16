@@ -1,0 +1,85 @@
+﻿evidence_id,file_path,file_type,platform,institution_id,post_id,account_id,description,source_type,verification_status,collected_at
+ev_0001,08_raw_screenshots/profile_full_01.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0002,08_raw_screenshots/profile_full_02.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0003,08_raw_screenshots/profile_full_03.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0004,08_raw_screenshots/profile_full_04.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0005,08_raw_screenshots/任务1_壹心托管_01.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0006,08_raw_screenshots/任务1_壹心托管_02.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0007,08_raw_screenshots/任务1_壹心托管_03.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0008,08_raw_screenshots/任务1_壹心托管_04.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0009,08_raw_screenshots/任务2_大众点评_登录墙.png,png,dianping,,,,任务2_大众点评_登录墙.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0010,08_raw_screenshots/任务2_美团_搜索404阻塞.png,png,dianping,,,,任务2_美团_搜索404阻塞.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0011,08_raw_screenshots/任务6_登录墙_1.png,png,xiaohongshu,,,,任务6_登录墙_1.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0012,03_douyin_target/screenshots/profile_full_01.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0013,03_douyin_target/screenshots/profile_full_02.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0014,03_douyin_target/screenshots/profile_full_03.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0015,03_douyin_target/screenshots/profile_full_04.png,png,douyin,inst_4a96cb7250,,82936373898,profile_full_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0016,03_douyin_target/screenshots/任务1_壹心托管_01.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0017,03_douyin_target/screenshots/任务1_壹心托管_02.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0018,03_douyin_target/screenshots/任务1_壹心托管_03.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0019,03_douyin_target/screenshots/任务1_壹心托管_04.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0020,03_douyin_target/screenshots/任务1_壹心托管_05.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_05.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0021,03_douyin_target/screenshots/任务1_壹心托管_06.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_06.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0022,03_douyin_target/screenshots/任务1_壹心托管_07.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_07.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0023,03_douyin_target/screenshots/任务1_壹心托管_08.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_08.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0024,03_douyin_target/screenshots/任务1_壹心托管_09.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_09.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0025,03_douyin_target/screenshots/任务1_壹心托管_10.png,png,douyin,inst_4a96cb7250,,82936373898,任务1_壹心托管_10.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0026,03_douyin_target/screenshots/任务1_壹心托管_cover_7525763465560313146.png,png,douyin,inst_4a96cb7250,7525763465560313146,82936373898,任务1_壹心托管_cover_7525763465560313146.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0027,03_douyin_target/screenshots/任务1_壹心托管_cover_7527685990393400634.png,png,douyin,inst_4a96cb7250,7527685990393400634,82936373898,任务1_壹心托管_cover_7527685990393400634.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0028,03_douyin_target/screenshots/任务1_壹心托管_cover_7637491112080667633.png,png,douyin,inst_4a96cb7250,7637491112080667633,82936373898,任务1_壹心托管_cover_7637491112080667633.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0029,03_douyin_target/screenshots/任务1_壹心托管_cover_7653846998802236337.png,png,douyin,inst_4a96cb7250,7653846998802236337,82936373898,任务1_壹心托管_cover_7653846998802236337.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0030,03_douyin_target/screenshots/任务1_壹心托管_cover_7677935290225392369.png,png,douyin,inst_4a96cb7250,7677935290225392369,82936373898,任务1_壹心托管_cover_7677935290225392369.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0031,04_douyin_competitors/screenshots/任务7_壹心托管_01.png,png,douyin,inst_4a96cb7250,,82936373898,任务7_壹心托管_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0032,04_douyin_competitors/screenshots/任务7_槐荫小火竹_01.png,png,douyin,,,,任务7_槐荫小火竹_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0033,04_douyin_competitors/screenshots/任务7_泉海学校_01.png,png,douyin,,,,任务7_泉海学校_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0034,04_douyin_competitors/screenshots/任务7_济南托管_01.png,png,douyin,,,,任务7_济南托管_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0035,04_douyin_competitors/screenshots/任务7_登录拦截_01.png,png,douyin,,,,任务7_登录拦截_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0036,04_douyin_competitors/screenshots/任务7_花锦时代_01.png,png,douyin,,,,任务7_花锦时代_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0037,04_douyin_competitors/screenshots/任务7_营东小学_01.png,png,douyin,,,,任务7_营东小学_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0038,04_douyin_competitors/screenshots/任务7_龙兴之家_01.png,png,douyin,,,,任务7_龙兴之家_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0039,05_xiaohongshu/screenshots/任务6_五六岁199_05.png,png,xiaohongshu,,,,任务6_五六岁199_05.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0040,05_xiaohongshu/screenshots/任务6_历城欠工资_08.png,png,xiaohongshu,,,,任务6_历城欠工资_08.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0041,05_xiaohongshu/screenshots/任务6_历城求职避雷_07.png,png,xiaohongshu,,,,任务6_历城求职避雷_07.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0042,05_xiaohongshu/screenshots/任务6_在济南托管_02.png,png,xiaohongshu,,,,任务6_在济南托管_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0043,05_xiaohongshu/screenshots/任务6_山东规范_03.png,png,xiaohongshu,,,,任务6_山东规范_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0044,05_xiaohongshu/screenshots/任务6_晚托不建议_13.png,png,xiaohongshu,,,,任务6_晚托不建议_13.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0045,05_xiaohongshu/screenshots/任务6_槐荫实验晚辅_09.png,png,xiaohongshu,,,,任务6_槐荫实验晚辅_09.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0046,05_xiaohongshu/screenshots/任务6_泉景中学小饭桌_11.png,png,xiaohongshu,,,,任务6_泉景中学小饭桌_11.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0047,05_xiaohongshu/screenshots/任务6_泉景小学求荐_10.png,png,xiaohongshu,,,,任务6_泉景小学求荐_10.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0048,05_xiaohongshu/screenshots/任务6_泉景小学部_12.png,png,xiaohongshu,,,,任务6_泉景小学部_12.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0049,05_xiaohongshu/screenshots/任务6_济南宝妈托管_01.png,png,xiaohongshu,,,,任务6_济南宝妈托管_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0050,05_xiaohongshu/screenshots/任务6_济南小饭桌价格_15.png,png,xiaohongshu,,,,任务6_济南小饭桌价格_15.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0051,05_xiaohongshu/screenshots/任务6_登录墙_1.png,png,xiaohongshu,,,,任务6_登录墙_1.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0052,05_xiaohongshu/screenshots/任务6_营养餐_06.png,png,xiaohongshu,,,,任务6_营养餐_06.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0053,05_xiaohongshu/screenshots/任务6_贝尔安亲_04.png,png,xiaohongshu,,,,任务6_贝尔安亲_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0054,05_xiaohongshu/screenshots/任务6_避雷托管_14.png,png,xiaohongshu,,,,任务6_避雷托管_14.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0055,06_maps_reviews/dianping/screenshots/任务2_小优伴学中小学智习托管中心_01.png,png,dianping,,,,任务2_小优伴学中小学智习托管中心_01.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0056,06_maps_reviews/dianping/screenshots/任务2_致远托管_02.png,png,dianping,,,,任务2_致远托管_02.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0057,06_maps_reviews/dianping/screenshots/任务2_花儿朵朵托辅中心_06.png,png,dianping,,,,任务2_花儿朵朵托辅中心_06.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0058,06_maps_reviews/dianping/screenshots/任务2_课小贝托管昆仑校区_05.png,png,dianping,,,,任务2_课小贝托管昆仑校区_05.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0059,06_maps_reviews/dianping/screenshots/任务2_贝尔安亲泉景校区_04.png,png,dianping,,,,任务2_贝尔安亲泉景校区_04.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0060,06_maps_reviews/dianping/screenshots/任务2_阳光托教营市街_03.png,png,dianping,,,,任务2_阳光托教营市街_03.png,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0061,06_maps_reviews/dianping/screenshots/任务2_验证中心_01.webp,webp,dianping,,,,任务2_验证中心_01.webp,screenshot,raw_asset,2026-09-16T00:20:00-07:00
+ev_0062,09_transcripts/7520469530099993914.txt,txt,douyin,inst_4a96cb7250,7520469530099993914,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0063,09_transcripts/7525763465560313146.txt,txt,douyin,inst_4a96cb7250,7525763465560313146,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0064,09_transcripts/7527685990393400634.txt,txt,douyin,inst_4a96cb7250,7527685990393400634,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0065,09_transcripts/7575856001335147953.txt,txt,douyin,inst_4a96cb7250,7575856001335147953,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0066,09_transcripts/7637491112080667633.txt,txt,douyin,inst_4a96cb7250,7637491112080667633,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0067,09_transcripts/7653846998802236337.txt,txt,douyin,inst_4a96cb7250,7653846998802236337,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0068,09_transcripts/7664065982533590181.txt,txt,douyin,inst_4a96cb7250,7664065982533590181,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0069,09_transcripts/7674214245349730545.txt,txt,douyin,inst_4a96cb7250,7674214245349730545,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0070,09_transcripts/7675336617532168185.txt,txt,douyin,inst_4a96cb7250,7675336617532168185,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0071,09_transcripts/7675698430941783409.txt,txt,douyin,inst_4a96cb7250,7675698430941783409,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0072,09_transcripts/7676858717410167473.txt,txt,douyin,inst_4a96cb7250,7676858717410167473,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0073,09_transcripts/7677898834409175729.txt,txt,douyin,inst_4a96cb7250,7677898834409175729,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0074,09_transcripts/7677935290225392369.txt,txt,douyin,inst_4a96cb7250,7677935290225392369,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0075,09_transcripts/7678673116122259579.txt,txt,douyin,inst_4a96cb7250,7678673116122259579,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0076,09_transcripts/7682957063013705841.txt,txt,douyin,inst_4a96cb7250,7682957063013705841,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0077,09_transcripts/7682957097429101681.txt,txt,douyin,inst_4a96cb7250,7682957097429101681,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0078,09_transcripts/7683668880833902757.txt,txt,douyin,inst_4a96cb7250,7683668880833902757,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0079,09_transcripts/7684511595175017209.txt,txt,douyin,inst_4a96cb7250,7684511595175017209,82936373898,ASR transcript,asr,machine_transcript,2026-09-16T00:20:00-07:00
+ev_0080,06_maps_reviews/poi_raw.jsonl,jsonl,,,,,raw structured dump,raw_dump,raw_asset,2026-09-16T00:20:00-07:00
+ev_0081,04_maps_reviews/poi_raw.jsonl,jsonl,,,,,raw structured dump,raw_dump,raw_asset,2026-09-16T00:20:00-07:00
+ev_0082,07_gov/findings.jsonl,jsonl,,,,,raw structured dump,raw_dump,raw_asset,2026-09-16T00:20:00-07:00
+ev_0083,11_labor/jobs.jsonl,jsonl,,,,,raw structured dump,raw_dump,raw_asset,2026-09-16T00:20:00-07:00
+ev_0084,07_recruitment/jobs.jsonl,jsonl,,,,,raw structured dump,raw_dump,raw_asset,2026-09-16T00:20:00-07:00

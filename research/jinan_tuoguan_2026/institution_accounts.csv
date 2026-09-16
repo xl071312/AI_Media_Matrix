@@ -1,0 +1,34 @@
+﻿institution_id,platform,account_id,nickname,url,match_confidence,match_reason,role_guess,source_type,screenshot_path,verification_status,collected_at
+inst_4a96cb7250,douyin,82936373898,壹心托管济南校区,https://www.douyin.com/user/MS4wLjABAAAAaUBMtA-9SvagxcGJfXlgx1eQ3S1oGfkTKxnmmtUJdH8MPRQLIdeQwSV6JfHrTsaO,B,指定目标抖音账号；主页可见昵称/粉丝/作品，但公开电话与精确门店地址未展示，故 match_confidence=B（非官方工商核验）,brand_or_campus_account,douyin_profile,08_raw_screenshots/profile_full_01.png,public_visible,2026-09-16T05:36:00Z
+inst_411a109d0e,douyin,douyin_comp_204a3b941ebf4a17,94年小王｜盘锦初中晚自习托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_271400b706,douyin,douyin_comp_cac3b8ec30e1bcdb,东街小学欣悦托辅,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_7ae829e9bb,douyin,douyin_comp_f9be00105c45008f,乐思托辅,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_d2c2670203,douyin,douyin_comp_d061d305505fcbc0,六六托管中心闫老师🙋（高端，专业）,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_2c4ef2679d,douyin,douyin_comp_355a9be2d34beab3,十七小学繁星托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_a4a265e96a,douyin,douyin_comp_f6bd6b511cba337e,博尔安亲托管中心官方号,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_386af912d3,douyin,douyin_comp_e5aceb77675c6f72,安馨托教｜西站路小学 52中午晚托,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_d76aafea8b,douyin,douyin_comp_c728000e6b72a9f0,开托管的80后,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_ee11007131,douyin,douyin_comp_da178a14cfd3daad,悦维美刻托管济南站,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_439720f86b,douyin,douyin_comp_29b53b9b46699e8c,新智托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_c4b547ad30,douyin,douyin_comp_b2fcb0520b2a9622,泉海托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_7f83436a76,douyin,douyin_comp_8ff3bfa3981b6c40,济南书墨托管李老师,https://www.douyin.com/user/MS4wLjABAAAA-XE1-eX-ShMbHMdNFxFd9rBmyxb8UFySlyvYsFcyC7Y,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_cda3e13530,douyin,douyin_comp_06ad5fa2c719c4e2,济南天才自助餐托管中心,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_80abf61274,douyin,douyin_comp_814e6f5c1494708d,济南市槐荫区惠心托管中心,https://www.douyin.com/user/MS4wLjABAAAAWdUDcQpSeHIiHy_bMc9BwZSfsRjrQaxuhgvih2V3S4Y,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_71dfac166e,douyin,douyin_comp_47f5b5ed9037567c,济南托管王校长,https://www.douyin.com/user/MS4wLjABAAAAVt6NUO0w1inbThSBgrXFgWmgQNMAMm2EDy2CASLfO-E,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_cc62a5f5c6,douyin,douyin_comp_d46953b55e0aa1f8,济南托管郑老师,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_1b9fd30e4c,douyin,douyin_comp_a514480442889cc1,济南托管高老师,https://www.douyin.com/user/MS4wLjABAAAAIYA9gydLiokUYk3crHxZ2YAhhh7ewb0WkYC23gR4gZo,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_d41efac010,douyin,douyin_comp_db5ba076f1b0d246,济南无忧托管,https://www.douyin.com/user/MS4wLjABAAAAvmz3VbMJzu2DRKl8OecxleSbqSjlnDL1AHdLw67dLxM,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_ede2c01332,douyin,douyin_comp_69fb4a41fe03dd3a,济南槐荫123托管成长中心,https://www.douyin.com/user/MS4wLjABAAAAVEn7Mb8t2LbYbQ2XMsDXYbOtVqM6uIGEdX1hTCzzeZ9sF3SCZYh8-XTVlkdeKTU3,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_43dd6ef65e,douyin,douyin_comp_a3f9524c75c02ff4,章丘托管金八力刘笑,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_fcc50e1397,douyin,douyin_comp_9080c253bd1643fc,精心托管槐荫区医学中心小学宸园北区12号,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_76d36966e2,douyin,douyin_comp_12ad8af5eb3d17d5,美吉精品托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_e865292146,douyin,douyin_comp_8d9b0c7e4571f96f,萌雅童乐托管,https://www.douyin.com/user/MS4wLjABAAAAGhzQAX8Wg_JxYiCpwrDq2J01qUtQjHFgtCQtHAh5TpPfZGu35AL3KWgCMKZSkiwG,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_d38b7c1ef0,douyin,douyin_comp_7448d2c200b364c0,营东小学天天托管来啦,,B,抖音昵称与已有 POI/列表品牌弱匹配（名称重叠）；缺电话/地址双强证据，故 B,possible_brand_or_teacher_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_5384a28c51,douyin,douyin_comp_32503004722a9413,诺德城依春然托管,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_9aa0ab1580,douyin,douyin_comp_6a3cf97d52322e35,贝尔安亲课后托管加盟,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_3c1cc9bd19,douyin,douyin_comp_2fc9ecf7cc7c9140,长清恒大育贤博跃托管—李老师,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_b258332a72,douyin,douyin_comp_978dc457dd07ce1e,静慧托管～雪婷,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_71847529b4,douyin,douyin_comp_4ef8bc889275b326,龙兴之家 课后伴学,https://www.douyin.com/user/MS4wLjABAAAAE5vr1pF_dwIVY_z7c8rmU50N5jVwmhyfXn50od8SM4i2PFlOFNZMLNWF8vAfXGFd,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_72290a1b84,douyin,douyin_comp_1c1f8e72101a36a9,龚老师和她的托管朋友,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_3ecf1383bf,douyin,douyin_comp_a325628adfdb7da6,🌈俊霖托管🌈,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00
+inst_caf44c4473,douyin,douyin_comp_8c1762cd1c003dba,💕济南武老师教育精品一站式托辅✨,,B,济南相关关键词搜索命中的托管向抖音账号；无门店地址/电话强一致证据，作为候选机构 B,candidate_account,douyin_search,,unverified,2026-09-15T23:07:00-07:00

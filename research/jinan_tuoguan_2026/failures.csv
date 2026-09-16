@@ -1,0 +1,9 @@
+﻿failure_id,area,target,failure_reason,source_attempted,recorded_at
+fail_huaiyin_tuoguan_roster,01_official_registry,槐荫区/济南市证照齐全校外托管机构名单 Excel/PDF,公开检索未发现济南市/槐荫区市场监管《证照齐全校外托管机构名单》Excel/PDF（含传闻2026-03槐荫Excel）。不得用培训机构黑白名单冒充托管名单。,web_search + huaiyin.gov.cn + jnedu + 163 analog,2026-09-16T00:20:00-07:00
+fail_dianping_login_wall,06_maps_reviews/dianping,大众点评搜索/详情,登录墙/验证中心；部分列表可见，详情多数未展开,public URL + screenshots,2026-09-15T22:50:00-07:00
+fail_meituan_404,06_maps_reviews/meituan,美团公开搜索,HTTP 404/NoSuchKey；无公开列表卡片,public search URLs,2026-09-15T22:50:00-07:00
+fail_gaode_baidu_spa,06_maps_reviews,高德/百度地图详情,主要为 SPA 壳，详情字段不完整；bendibao/好位置列表作 POI 种子,m_search / pois_raw.json,2026-09-15T22:40:00-07:00
+fail_huaiyin_local_rules,01_official_registry / 07_gov,济南/槐荫《鲁政办发〔2026〕8号》实施细则,公开检索未见市级/区级专门实施细则/通知/Q&A,web_search + gov portals,2026-09-16T00:00:00-07:00
+fail_school_ops_details,07_gov,目标校放学/午休/配餐校级细则,校级细则普遍未公开,huaiyin.gov.cn school pages,2026-09-16T00:00:00-07:00
+fail_douyin_tongcheng,04_douyin_competitors,抖音同城入口,同城入口不可用；改用公开综合搜索；未登录绕过,douyin public search,2026-09-15T23:07:00-07:00
+fail_yixin_contact_price,03_douyin_target,壹心托管公开电话/价格/完整评论ASR,主页未展示公开电话与价格；评论/ASR/OCR 部分未完整,public profile + partial works,2026-09-16T05:36:00Z
