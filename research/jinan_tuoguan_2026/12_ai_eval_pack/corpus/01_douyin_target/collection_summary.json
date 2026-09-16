@@ -1,0 +1,13 @@
+{
+  "profile_tab_works_count": 186,
+  "profile_work_anchors_loaded_after_scroll": 186,
+  "works_list_file_records": 20,
+  "works_list_file_scope": "Top-engagement and latest-profile samples for this dispatch; 186 public anchors were visible/loaded in the profile DOM.",
+  "detail_file_records": 18,
+  "comment_json_files": 10,
+  "comment_json_rendered_records": 77,
+  "comments_csv_rows_total": 112,
+  "comments_scope": "Ten pre-existing detail videos were revisited; public rendered comments and author replies were captured/anonymized. Eight latest-profile metadata records were added in a low-rate metadata pass; their comments were not revisited to limit repeat traffic.",
+  "asr_scope": "No full ASR/subtitle transcript endpoint or text was exposed in the public page DOM; asr_transcript is null in detail records.",
+  "privacy": "All non-merchant comment handles are anonymized as 家长A/B/C…; no child face close-up screenshots saved."
+}

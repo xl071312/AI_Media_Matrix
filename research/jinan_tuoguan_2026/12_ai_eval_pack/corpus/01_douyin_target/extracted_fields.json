@@ -1,0 +1,43 @@
+{
+  "platform": "douyin",
+  "account": "壹心托管济南校区",
+  "collected_at": "2026-09-15T22:50:00-07:00",
+  "public_company_name": {
+    "value": "壹心托管",
+    "confidence": "high",
+    "evidence": "账号名、视频标题及作者回复均公开使用“壹心托管”。"
+  },
+  "public_campuses": [
+    {
+      "value": "胜利大街校区",
+      "confidence": "high",
+      "evidence": "视频7677935290225392369和多条作者回复公开提及。",
+      "exact_address": null
+    },
+    {
+      "value": "泉海校区",
+      "confidence": "high",
+      "evidence": "视频7575856001335147953作者回复称视频内为泉海校区，并称济南目前有两家校区。",
+      "nearby_reference": "既有账号资料/公开回复提到泉海学校对面；未见门牌号。",
+      "exact_address": null
+    },
+    {
+      "value": "中海国际AS地块（视频字幕位置线索）",
+      "confidence": "medium",
+      "evidence": "视频7525763465560313146公开画面字幕显示“我们的位置在中海国际AS地块”；未能从评论核实具体门牌或是否为当前校区。",
+      "exact_address": null
+    }
+  ],
+  "prices": [],
+  "contacts": [],
+  "quota_or_enrollment": [],
+  "negative_or_concern_signals": [
+    "厨房卫生质疑：‘我们可没这么干净’；作者回复称厨房统一配置防火门。",
+    "评论询问水池下水道是否会有小飞虫；未见明确卫生检测材料。"
+  ],
+  "search_limitations": [
+    "仅采集无需登录即可渲染的公开详情页内容。",
+    "评论中多次出现收费/联系方式/位置询问，但未见公开价格、电话或精确门牌。",
+    "未访问私信、未发评论、未绕过登录或风控。"
+  ]
+}

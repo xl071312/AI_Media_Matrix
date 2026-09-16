@@ -1,0 +1,2 @@
+Douyin public-web blocker, captured 2026-09-15 23:07 UTC-7:
+User search for 泉海托管 displayed a modal: “登录后即可搜索更多精彩视频” with QR/phone login options. No login, CAPTCHA bypass, or credential entry was attempted. Existing public 综合 results were retained; other keyword searches continued. Evidence: screenshots/任务7_登录拦截_01.png

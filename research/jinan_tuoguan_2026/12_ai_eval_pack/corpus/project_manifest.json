@@ -1,0 +1,180 @@
+{
+  "project": "jinan_tuoguan_2026",
+  "version": "v1",
+  "created_at": "2026-09-16T05:34:31.297665+00:00",
+  "status": "in_progress",
+  "target_douyin_share": "https://v.douyin.com/gDnzMVaKpgE/",
+  "keywords": [
+    "济南托管",
+    "济南小饭桌",
+    "济南午托",
+    "济南晚托",
+    "济南课后托管",
+    "槐荫托管",
+    "槐荫小饭桌",
+    "营东小学 托管",
+    "营市东街小学 托管",
+    "槐荫实验 托管",
+    "杨柳春风学校 托管",
+    "泉新学校 托管",
+    "泉景 托管"
+  ],
+  "candidate_schools": [
+    "营东小学",
+    "营市东街小学",
+    "槐荫实验",
+    "杨柳春风学校",
+    "泉新学校",
+    "泉景"
+  ],
+  "platforms": [
+    "douyin",
+    "xiaohongshu",
+    "gaode",
+    "baidu",
+    "dianping",
+    "meituan"
+  ],
+  "constraints": [
+    "public_only",
+    "no_auth_bypass",
+    "utf8_sig_csv",
+    "raw_assets_retained"
+  ],
+  "dirs": [
+    "00_manifest",
+    "01_douyin_target",
+    "02_douyin_competitors",
+    "03_xiaohongshu",
+    "04_maps_reviews",
+    "05_raw_screenshots",
+    "06_transcripts"
+  ],
+  "files": [
+    "accounts.csv",
+    "posts.csv",
+    "comments.csv",
+    "prices.csv",
+    "services.csv",
+    "poi.csv",
+    "manifest.json",
+    "README.md"
+  ],
+  "progress": {
+    "updated_at_pt": "2026-09-16 00:07 PT",
+    "douyin_target": {
+      "status": "partial",
+      "accounts_rows": 1,
+      "posts_rows": 20,
+      "works_list_rows": 20,
+      "detail_partial_rows": 10,
+      "screenshots_named": 4,
+      "blocked_or_missing": [
+        "完整评论/ASR/OCR及联系方式、价格未公开或未完整抓取"
+      ]
+    },
+    "maps": {
+      "status": "partial",
+      "poi_rows": 53,
+      "baidu_rows": 50,
+      "gaode_rows": 1,
+      "dianping_rows": 0,
+      "meituan_rows": 0,
+      "blocked": [
+        "大众点评登录/验证墙",
+        "美团页面403/404",
+        "高德/百度详情主要为SPA壳"
+      ]
+    },
+    "gov": {
+      "status": "partial",
+      "findings_rows": 6,
+      "schools_public_info_rows": 6,
+      "raw_files": 21,
+      "downloads_files": 0,
+      "blocked_or_missing": [
+        "济南/槐荫托管证照齐全名单未找到",
+        "济南/槐荫专门实施细则未找到",
+        "学校放学/午休/配餐校级细则普遍未公开"
+      ]
+    },
+    "xueyijia": {
+      "status": "partial",
+      "profile_exists": true,
+      "raw_files": 7,
+      "exact_match_found": false,
+      "near_match_records": 5,
+      "blocked_or_missing": [
+        "精确“学一家”AI自习品牌未命中",
+        "官网JS挑战/跳转壳，加盟及官方价格未核实"
+      ]
+    },
+    "rent": {
+      "status": "complete",
+      "workbook_sheet": "任务8_场地租金",
+      "source_csv": "10_rent/rent.csv",
+      "source_listings_jsonl": "10_rent/listings.jsonl",
+      "rows": 17,
+      "priced_rows": 5,
+      "negotiable_rows": 12,
+      "excluded_jsonl_candidates": 2,
+      "blocked_or_missing": [
+        "12条主表记录标为面议，未公开月租；未启动新抓取"
+      ]
+    },
+    "labor": {
+      "status": "complete",
+      "workbook_sheet": "任务9_人工成本",
+      "source_csv": "11_labor/labor.csv",
+      "source_jobs_jsonl": "11_labor/jobs.jsonl",
+      "rows": 16,
+      "salary_rows": 16,
+      "blocked_or_missing": [
+        "部分岗位来自公开搜索摘要，详情页存在验证/JS墙；未启动新抓取"
+      ]
+    },
+    "task7": {
+      "status": "done",
+      "workbook_sheet": "任务7_抖音同城",
+      "source_accounts": "02_douyin_competitors/accounts.csv",
+      "source_posts": "02_douyin_competitors/posts.csv",
+      "competitor_accounts_unique": 62,
+      "competitor_posts_source_rows": 79,
+      "competitor_posts_unique": 70,
+      "merged_accounts_rows": 62,
+      "merged_posts_rows": 85,
+      "workbook_data_rows": 132,
+      "blocked_or_missing": [
+        "同城入口不可用，使用公开综合搜索结果；未登录或绕过登录拦截"
+      ]
+    },
+    "xiaohongshu": {
+      "status": "done",
+      "workbook_sheet": "任务6_小红书",
+      "source_posts": "03_xiaohongshu/posts.csv",
+      "source_comments": "03_xiaohongshu/comments.csv",
+      "posts_rows": 15,
+      "comments_rows": 97,
+      "merged_posts_rows": 15,
+      "merged_comments_rows": 97,
+      "workbook_data_rows": 112,
+      "blocked_or_missing": [
+        "部分评论仍为折叠/懒加载可见行；仅使用公开可见内容，未绕过登录或验证"
+      ]
+    },
+    "transcripts": {
+      "status": "done",
+      "source_dir": "06_transcripts",
+      "workbook_sheet": "任务1_抖音竞品",
+      "json_files": 18,
+      "txt_files": 18,
+      "spoken_transcripts": 10,
+      "no_speech": 8,
+      "asr_paths_in_posts_csv": 10,
+      "asr_paths_in_workbook": 10,
+      "blocked_or_missing": [
+        "8个视频无可靠人声，保留空文本与JSON记录"
+      ]
+    }
+  }
+}

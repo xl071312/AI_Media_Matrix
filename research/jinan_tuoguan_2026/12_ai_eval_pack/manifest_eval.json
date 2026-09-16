@@ -1,0 +1,48 @@
+{
+  "pack": "12_ai_eval_pack",
+  "project": "jinan_tuoguan_2026",
+  "purpose": "AI评估选址/竞品 — Douyin target (壹心托管) + competitors",
+  "collected_at": "2026-09-16T00:13:04-07:00",
+  "collected_at_pt": "2026-09-16 00:13 PT",
+  "git_branch": "not_a_git_repo",
+  "no_new_scrape": true,
+  "sources": {
+    "01_douyin_target": "01_douyin_target/",
+    "02_douyin_competitors": "02_douyin_competitors/",
+    "06_transcripts": "06_transcripts/",
+    "root_csv": [
+      "accounts.csv",
+      "posts.csv",
+      "comments.csv"
+    ],
+    "excel": "济南托管调研_v1.xlsx"
+  },
+  "counts": {
+    "accounts_total": 62,
+    "accounts_target": 1,
+    "accounts_competitor": 61,
+    "posts_douyin": 85,
+    "posts_with_asr_path": 10,
+    "comments_douyin": 77,
+    "author_replies": 19,
+    "search_raw_keyword_files": 11,
+    "transcript_json_txt_pairs": 18,
+    "corpus_symlinks_note": "corpus/ uses relative symlinks into parent research dirs"
+  },
+  "outputs": [
+    "README.md",
+    "douyin_accounts_for_eval.csv",
+    "douyin_posts_for_eval.csv",
+    "douyin_comments_for_eval.csv",
+    "corpus/",
+    "manifest_eval.json",
+    "prompts/ai_eval_brief.md"
+  ],
+  "blockers_summary": [
+    "Douyin public-web login modal on user search for 泉海托管 (no login/bypass attempted)",
+    "同城 web entry unavailable; competitor harvest used public 综合 search",
+    "Target: full comments/ASR/OCR/contact/price incomplete or not publicly shown",
+    "8 videos retained as no-speech ASR records",
+    "Competitor search cards often omit location/IP and profile URLs"
+  ]
+}
