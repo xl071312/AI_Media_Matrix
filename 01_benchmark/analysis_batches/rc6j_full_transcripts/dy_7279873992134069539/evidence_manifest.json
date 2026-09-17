@@ -1,0 +1,10 @@
+{
+  "sample_id": "dy_7279873992134069539",
+  "source_url": "https://www.douyin.com/video/7279873992134069539",
+  "media_file": null,
+  "media_sha256": null,
+  "transcript_file": "01_benchmark\\analysis_batches\\rc6j_full_transcripts\\dy_7279873992134069539\\transcript_raw.csv",
+  "transcript_sha256": "",
+  "source_commit": "b599197",
+  "source_type": "RC6J_MEDIA_UNAVAILABLE"
+}
