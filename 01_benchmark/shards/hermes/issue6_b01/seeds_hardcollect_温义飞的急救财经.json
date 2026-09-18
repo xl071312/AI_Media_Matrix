@@ -1,0 +1,48 @@
+{
+  "creator": "温义飞的急救财经",
+  "homepage": "https://www.toutiao.com/c/user/token/MS4wLjABAAAA92PXnGCa5PoJxO09OYd14kXBGpRWWHrXJWrmRbiAPXd1RDV10NIzqJlpiPXsv3_j/",
+  "seeds": [
+    {
+      "platform": "douyin",
+      "url": "https://www.douyin.com/video/7400350941863480628",
+      "title": "温义飞谈奥运金牌论",
+      "video_id": "dy_7400350941863480628"
+    },
+    {
+      "platform": "douyin",
+      "url": "https://www.douyin.com/video/7419914280511851828",
+      "title": "来源#温义飞的急救财经",
+      "video_id": "dy_7419914280511851828"
+    },
+    {
+      "platform": "douyin",
+      "url": "https://www.douyin.com/video/7365844756439584054",
+      "title": "耐心的资本怎么养成",
+      "video_id": "dy_7365844756439584054"
+    },
+    {
+      "platform": "toutiao",
+      "url": "https://www.toutiao.com/video/7068474047943672327/",
+      "title": "亲自翻车验证财经自媒体圈真相",
+      "video_id": "ttv_7068474047943672327"
+    },
+    {
+      "platform": "toutiao",
+      "url": "https://www.toutiao.com/article/7446304569308545570/",
+      "title": "山东凭什么成为中国的战备大省？",
+      "video_id": "tta_7446304569308545570"
+    },
+    {
+      "platform": "toutiao",
+      "url": "https://www.toutiao.com/article/7506434546527650356/",
+      "title": "2035年中国男女寿命差距高达7年…",
+      "video_id": "tta_7506434546527650356"
+    },
+    {
+      "platform": "toutiao",
+      "url": "https://www.toutiao.com/article/7641608159957697078/",
+      "title": "超6000万网友打卡，上交所联合抖音精选大V推出投资理财公开课",
+      "video_id": "tta_7641608159957697078"
+    }
+  ]
+}

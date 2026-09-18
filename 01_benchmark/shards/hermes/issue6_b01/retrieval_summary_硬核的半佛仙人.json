@@ -1,0 +1,16 @@
+{
+  "creator": "硬核的半佛仙人",
+  "homepage_url": "https://www.toutiao.com/c/user/token/MS4wLjABAAAA5X0VBPDBZMEMapObds7t3Z_5K6V61i3zNDYgSd6uPlM/",
+  "author_ui_name": "半佛仙人本仙人",
+  "followers": "58.4万",
+  "likes_received": "133.7万",
+  "unique_urls_collected": 25,
+  "verified_count": 25,
+  "complete_count": 23,
+  "full_article_count": 23,
+  "full_video_count": 0,
+  "captcha_encountered": false,
+  "blocker": null,
+  "notes": "Toutiao primary only. Homepage deep-scroll rendered 24 unique article URLs and then no additional cards; merged with 15 seeds added one extra URL (7591961786228818473). 23 COMPLETE rows. Seed 7686071556929274410 returned HTTP 404. Seed 7591961786228818473 opened but author UI was 潘乱, not 半佛. No captcha/login block observed. Likes/comments are null where the page did not display a numeric count.",
+  "captured_at": "2026-09-18T00:48:00-07:00"
+}

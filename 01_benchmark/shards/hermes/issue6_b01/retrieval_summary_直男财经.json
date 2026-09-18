@@ -1,0 +1,15 @@
+{
+  "creator": "直男财经",
+  "homepage_url": "https://www.douyin.com/user/MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6",
+  "works_count": "1422",
+  "followers": "2310.7万",
+  "likes_received": "4.3亿",
+  "unique_video_urls_collected": 57,
+  "videos_verified": 30,
+  "complete_count": 30,
+  "captcha_encountered": false,
+  "blocker": null,
+  "access_mode": "logged_in_search",
+  "notes": "Douyin session was visibly logged in (account navigation and creator search available). Search for 直男财经 opened the verified creator homepage. The works grid exposed 57 unique /video/ URLs in the loaded/deep-scrolled collection. Verification stopped at 30 COMPLETE videos as requested; all 30 matched the homepage creator, had positive-duration actively playing video elements (readyState 2-4), and had feasible captions via embedded on-screen subtitles and/or Douyin caption/chapter controls. Likes/comments were not normalized into proof rows because the detail UI exposes multiple counters without stable labels in the captured DOM.",
+  "output_jsonl": "/workspace/AI_Media_Matrix/01_benchmark/shards/hermes/issue6_b01/retrieval_proof_直男财经.jsonl"
+}

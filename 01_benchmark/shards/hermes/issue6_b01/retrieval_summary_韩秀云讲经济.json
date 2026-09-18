@@ -1,0 +1,16 @@
+{
+  "creator": "韩秀云讲经济",
+  "homepage_url": "https://www.douyin.com/user/MS4wLjABAAAAlbkNTw3vjBlQx6pzhzRnFX1YLHlpCoU8nMpnSKiL6-S0WquIQngezW4Ydt_0DXdk",
+  "creator_ui_name": "韩秀云讲经济",
+  "works_count": "1588",
+  "followers": "1295.5万",
+  "likes_received": "7862.0万",
+  "unique_video_urls_collected": 30,
+  "videos_verified": 30,
+  "complete_count": 30,
+  "captcha_encountered": false,
+  "blocker": null,
+  "complete_definition": "page_open AND full_playback AND transcript_feasible AND author_name_ui contains 韩秀云",
+  "notes": "Homepage opened at exact requested URL. Works grid exposed 30 unique /video/DIGITS links. Each listed page opened successfully; player visibly loaded and on-screen captions were present; author UI was 韩秀云讲经济.",
+  "output_jsonl": "retrieval_proof_韩秀云讲经济.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "logged_in": true,
+  "checked_at": "2026-09-17T22:11:00-07:00",
+  "login_check_url": "https://www.douyin.com/user/self?from_nav=1",
+  "login_evidence": "我的 page opened an authenticated profile (观屿; works 21; followers 2610).",
+  "target_profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPZgqlIO2MpT0SBcAjLaFbL_c6LvEojAXy1udEgzugQg",
+  "target_profile_access": "blocked_by_captcha_interstitial",
+  "blocker": "验证码中间页 requiring slider puzzle completion"
+}
