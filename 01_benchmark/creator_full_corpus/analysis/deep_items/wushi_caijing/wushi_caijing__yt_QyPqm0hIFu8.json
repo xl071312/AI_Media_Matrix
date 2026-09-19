@@ -1,0 +1,811 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_QyPqm0hIFu8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=QyPqm0hIFu8",
+  "source_sha256": "0c950f247e5a0a446e5dbc30b75cccb29a62898b2a5ff3635efc8fc2cd9a87bb",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 97,
+  "fields": {
+    "opening_move": {
+      "summary": "用当然了还是因为人便宜啊承接前集，迅速把风口从人便宜与电商升到3G到5G基础设施。",
+      "patterns": [
+        "承接前集口语起",
+        "基础设施升维开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "当然了还是因为人便宜啊",
+          "note": "人便宜承接"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "以及电商产业的快速发展",
+          "note": "电商快速发展"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "从3G到4G到5G",
+          "note": "3G到5G"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "图文网红红利后风口转视频直播；基建与资费下降使直播起飞；美ONE随李佳琦估值抬升；股权通过合资公司分蛋糕且谈妥；轻渠道模式对比薇娅重供应链；点出李佳琦本人不可替代风险。",
+      "patterns": [
+        "风口切换基建论",
+        "合资分蛋糕谈妥",
+        "轻模式对比重供应链",
+        "主播不可替代风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "就是从图纹转到的视频和直播",
+          "note": "图文转视频直播"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "李嘉奇和美万这边肯定分蛋糕比例都谈好了",
+          "note": "分蛋糕谈好了"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "就当过渠道",
+          "note": "只当渠道"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "没有李佳琦会怎样"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "风口从人便宜电商到基建资费下降",
+          "note": "技术基础设施主线"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "视频清晰度升级与直播造神运动引出李佳琦",
+          "note": "技术到人物"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s30",
+            "s31",
+            "s33"
+          ],
+          "function": "美ONE服务商到估值与投资人交叉李子柒线",
+          "note": "资本图谱"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s43",
+            "s44",
+            "s47",
+            "s48",
+            "s51",
+            "s52"
+          ],
+          "function": "合资公司分蛋糕且比例看似像李子柒但谈妥",
+          "note": "股权形式不等于冲突"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s65",
+            "s67",
+            "s68",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "股权只是利益表现形式；美ONE更纯粹做渠道",
+          "note": "形式服从利益"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s75",
+            "s76",
+            "s79",
+            "s80",
+            "s82",
+            "s85",
+            "s86",
+            "s88",
+            "s89",
+            "s91",
+            "s94"
+          ],
+          "function": "重供应链抗风险对比李佳琦轻模式依赖本人；回资本市场",
+          "note": "风险对照与下钩"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "而其实背后主线还是；还记得当初…吗回指；我们之后会讲预告；所以如果…没有了条件推演。",
+      "patterns": [
+        "背后主线升维",
+        "还记得回指",
+        "之后会讲预告",
+        "所以如果条件推演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "而其实背后主高的卖罗",
+          "note": "背后主线"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还记得当初搞别网红化的那个公司吗",
+          "note": "还记得当初"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我们之后会讲",
+          "note": "之后会讲"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "如果没有了"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "图文时代对比视频直播时代；李佳琦美ONE谈妥对比李子柒蛋糕没分好；轻渠道对比薇娅重供应链。",
+      "patterns": [
+        "媒介时代对照",
+        "分蛋糕谈妥对比谈崩",
+        "轻渠道对比重供应链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "图纹网红和陶细的飞胜",
+          "note": "图文淘宝"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "就是从图纹转到的视频和直播",
+          "note": "视频直播"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "李嘉奇和美万这边肯定分蛋糕比例都谈好了",
+          "note": "谈好了"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "但他们蛋糕就没分好",
+          "note": "蛋糕没分好"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "相对于威雅的签型那边",
+          "note": "薇娅签型那边"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "还记得当初那家公司吗唤起记忆；如果直播间没有李佳琦影响多大作反事实问。",
+      "patterns": [
+        "记忆唤起问",
+        "反事实影响问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "还记得当初搞别网红化的那个公司吗",
+          "note": "还记得吗"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "没有李佳琦"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "销售数据有多大影响",
+          "note": "影响多大"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "3G到5G资费、清晰度阶梯、美ONE持股51%加7%、铁打的供应链流水的主播。",
+      "patterns": [
+        "基建阶梯例",
+        "股权比例例",
+        "供应链谚语例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从3G到4G到5G",
+          "note": "3G到5G"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "后来有了720p1080p",
+          "note": "720p1080p"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "美万占51%加7%",
+          "note": "美万占51%"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打的公用量"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "股权是利益表现形式抽象后落到通知参股或成立合资都行；轻渠道抽象落到不自建供应链。",
+      "patterns": [
+        "利益形式抽象到具体股权工具",
+        "渠道抽象到不自建体系"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "只人和人之间利益关系的一种表现形式",
+          "note": "利益关系表现形式"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "那不论用通知参谷",
+          "note": "通知参股"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "还是成立合作公司",
+          "note": "成立合作公司"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "因此你加起来美万没有自建一套",
+          "note": "没有自建供应链"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言分蛋糕双方挺满意所以形式也稳；美ONE道路相对更加纯粹；铁打供应链流水主播定调抗风险。",
+      "patterns": [
+        "谈妥即稳判断",
+        "纯粹渠道判断",
+        "抗风险谚语判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "而且双方都挺满意",
+          "note": "双方都挺满意"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "你加起来美万的道路就相对更加纯粹了",
+          "note": "更加纯粹"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打流水"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "粉丝惊呼股权比例像李子柒，立刻纠正形式相同不等于利益谈妥；美ONE公关称欧尾用加7作口径补丁。",
+      "patterns": [
+        "形似纠偏为利妥",
+        "公关口径补丁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "这事和李子七那事太像了",
+          "note": "太像了"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "古全比例的数都一样",
+          "note": "比例一样"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "李子七就能说明什么",
+          "note": "就能说明什么"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "美万是欧尾用加7",
+          "note": "欧尾用加7"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "基建排比加速，人物引入后股权细算放慢，模式对照再加速，反事实问放缓留白。",
+      "patterns": [
+        "基建排比加速",
+        "股权细算放慢",
+        "反事实留白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从3G到4G到5G",
+          "note": "基建排比"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "美万占51%加7%",
+          "note": "股权细算"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "反事实留白"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "当然了承接口语",
+        "还记得吗互动唤起",
+        "铁打的…流水的…成语口播"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "当然了还是因为人便宜啊",
+          "note": "当然了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还记得当初搞别网红化的那个公司吗",
+          "note": "还记得吗"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打流水"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "承接轻松，基建起飞兴奋，股权图谱冷静，谈妥安心，不可替代风险冷警。",
+      "patterns": [
+        "轻松到兴奋到冷静到安心到冷警"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "当然了还是因为人便宜啊",
+          "note": "轻松承接"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "直播视频当然就起飞了",
+          "note": "起飞兴奋"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "而且双方都挺满意",
+          "note": "谈妥安心"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "冷警"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到资本市场钩子，预告李佳琦影响股价场景与薇娅相似，开放到2020年1月。",
+      "patterns": [
+        "回资本市场开放钩",
+        "日期悬置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s94",
+          "snippet": "我们再次说到资本市场",
+          "note": "再次说到资本市场"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "李家七这边有点相似",
+          "note": "有点相似"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "2020年1月",
+          "note": "2020年1月"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注CTA；我们之后会讲与再次说到资本市场作系列续看钩。",
+      "patterns": [
+        "系列续看钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "我们之后会讲",
+          "note": "之后会讲"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我们再次说到资本市场",
+          "note": "再次说到资本市场"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "人便宜啊口语、还记得吗互动、铁打流水改造谚语，系列主持感强。",
+      "patterns": [
+        "口语承接",
+        "互动唤起",
+        "谚语改造"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "当然了还是因为人便宜啊",
+          "note": "人便宜啊"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还记得当初搞别网红化的那个公司吗",
+          "note": "还记得吗"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打流水"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "专名ASR不稳（美万/李嘉奇/威雅）；部分股权百分比句破碎；结尾截在日期无展开。",
+      "patterns": [
+        "专名错写",
+        "百分比句破碎",
+        "结尾截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "就是李嘉奇背后的美万",
+          "note": "美万"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "这一时9%",
+          "note": "这一时9%破碎"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "2020年1月",
+          "note": "日期截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开把股权关系降维成利益表现形式；当场用如果没有李佳琦做思想实验。",
+      "patterns": [
+        "降维解释外化",
+        "反事实思想实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "只人和人之间利益关系的一种表现形式",
+          "note": "表现形式"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "也就是说如果大家一样说好了",
+          "note": "也就是说"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "如果没有了"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把盯股权比例惊呼的粉丝拉到利益谈妥层面；用图表中间蓝色公司作视觉听众假设。",
+      "patterns": [
+        "粉丝惊呼纠偏",
+        "看图听众假设"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "这个时候李嘉奇粉丝会被惊呼",
+          "note": "粉丝会被惊呼"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "也就是中间蓝色这两个公司",
+          "note": "中间蓝色这两个公司"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "3G/4G/5G、720p到4K、美ONE 51%加7%、铁打供应链对比点。",
+      "patterns": [
+        "网络代数锚",
+        "清晰度锚",
+        "持股比例锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从3G到4G到5G",
+          "note": "3G到5G"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "再到现在的4K8K",
+          "note": "4K8K"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "美万占51%加7%",
+          "note": "51%加7%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "基建段中高密，造神引入中密，股权与投资人高密，模式对照中密，反事实低密留白。",
+      "patterns": [
+        "股权峰",
+        "反事实谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从3G到4G到5G",
+          "note": "基建密"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "美万占51%加7%",
+          "note": "股权峰"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "反事实谷"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "承接风口到基建到造神人物到美ONE资本到分蛋糕形式到轻重模式对照到股价预告。",
+      "patterns": [
+        "技术到人物到资本到风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "就是从图纹转到的视频和直播",
+          "note": "风口"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "李嘉奇就是其中一例",
+          "note": "李佳琦"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "李嘉奇和美万这边肯定分蛋糕比例都谈好了",
+          "note": "分蛋糕"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所以如果李家七主播间没有李家七了",
+          "note": "风险"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "结构主义者：不神话股权数字，坚持利益谈妥优先；用轻重工业隐喻行业模式。",
+      "patterns": [
+        "利益优先于形式",
+        "轻重工业隐喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "只人和人之间利益关系的一种表现形式",
+          "note": "利益表现形式"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "更哪个表现形式都行",
+          "note": "哪个形式都行"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "也要看着更像重工业",
+          "note": "更像重工业"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "当然了还是因为人便宜；股权只是分蛋糕的表现形式；铁打的供应链流水的主播。",
+      "patterns": [
+        "人便宜承接句",
+        "分蛋糕表现形式",
+        "铁打流水"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "当然了还是因为人便宜啊",
+          "note": "人便宜"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "这个蛋糕怎么分",
+          "note": "蛋糕怎么分"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打流水"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "基建升维加分蛋糕形式服从利益加轻重模式对照，是观屿可直接复用的干净结构母本，仅需修正专名听写。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "还是互联网技术设施的进步",
+          "note": "基建主线可复用"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "只人和人之间利益关系的一种表现形式",
+          "note": "利益形式论可复用"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "毕竟铁打的公用量留水的主播",
+          "note": "铁打流水可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s9",
+    "s6",
+    "s43",
+    "s72",
+    "s89",
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s33",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s44",
+    "s47",
+    "s48",
+    "s51",
+    "s52",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s65",
+    "s67",
+    "s68",
+    "s70",
+    "s71",
+    "s75",
+    "s76",
+    "s79",
+    "s80",
+    "s82",
+    "s85",
+    "s86",
+    "s88",
+    "s91",
+    "s94",
+    "s37",
+    "s61",
+    "s62",
+    "s73",
+    "s55",
+    "s69",
+    "s96",
+    "s97",
+    "s49",
+    "s50"
+  ],
+  "fields_complete_25": true
+}

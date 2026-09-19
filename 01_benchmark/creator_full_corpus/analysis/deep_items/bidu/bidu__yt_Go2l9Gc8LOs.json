@@ -1,0 +1,865 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_Go2l9Gc8LOs",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Go2l9Gc8LOs",
+  "source_sha256": "4813aebfc52e41ed9514599c463ef70b53eb4334df03deb2a4e3da445aac2878",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 35,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 11,
+      "snippet": "我收到了一堆死性,好說"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 19,
+      "snippet": "論文避不出來,避道為啥你的廁所做的視頻"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "學術吼,避我的論文還高呢?"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "哈哈,都有套"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 19,
+      "snippet": "作為一個避道,其實我這個島是福島原的島"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "試試後大家一些避業論文上的福島"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "今天就跟大家分享一下"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "如何把任意一個垃圾,提"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 19,
+      "snippet": "一般茶完都會發現800年前究竟有人發展"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "然後你微調一下ID,正在靜久"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 15,
+      "snippet": "很快,實際會出現無法解釋的回憶"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "� time"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "我祈H Pakistan"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 2,
+      "snippet": "is"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "就绝是模型的那种感觉"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "也欢迎大家在弹幕里分"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "怎么把弩强呢?"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 17,
+      "snippet": "技 beq 在于千万不要用常见的死"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "我们的世界师弟师弟们都这么说"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "证据我们的经验"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "我做了一个实验"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 20,
+      "snippet": "一系的可靠实� from 认识的结果表明"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "一系列的结果表明时代表"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "大量具有重复性的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "如果你把图表化的像是商�"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "应该对自己学�"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 13,
+      "snippet": "如果查诅没过你就强行家自吧"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "比如我能有"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 21,
+      "snippet": "以上就是一些冬 the 邪弩文里的奇迹营巧"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "全国学子们协异能文是啥状态"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 15,
+      "snippet": "大家心里自己也都有数 time"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "但我还是要提醒大家"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "能理在垃圾太度要端正"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "永远不要超乤"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "永远不要瞎编成果"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "堆叠私信吐槽论文写不出，反问学术视频为何比论文高，自嘲开场。",
+      "patterns": [
+        "私信堆叠开场",
+        "学术视频反问自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我收到了一堆死性,好說",
+          "note": "死性私信"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "論文避不出來,避道為啥你的廁所做的視頻",
+          "note": "论文避不出"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "學術吼,避我的論文還高呢?",
+          "note": "视频比论文高"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "分享把垃圾题救活的套路→避开常见坑→实验话术包装→态度提醒永不瞎编。",
+      "patterns": [
+        "救题套路",
+        "避坑",
+        "话术",
+        "态度底线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "如何把任意一個垃圾,提",
+          "note": "垃圾题"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "技 beq 在于千万不要用常见的死",
+          "note": "不要常见死"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "一系列的结果表明时代表",
+          "note": "一系列结果"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不要瞎编"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "function": "complaint_hook",
+          "note": "私信吐槽与分享预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29"
+          ],
+          "function": "tactic_pack",
+          "note": "微凋ID、模型感、避常见死、结果话术"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "ethic_close",
+          "note": "学子状态共鸣与反造假底线"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「今天就跟大家分享一下」「技巧在于」「以上就是」「但我还是要提醒」。",
+      "patterns": [
+        "分享预告转",
+        "技巧在于",
+        "以上总结",
+        "提醒转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "今天就跟大家分享一下",
+          "note": "分享一下"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "技 beq 在于千万不要用常见的死",
+          "note": "技在于"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "以上就是一些冬 the 邪弩文里的奇迹营巧",
+          "note": "以上就是"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但我还是要提醒大家",
+          "note": "提醒"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "学术视频高产vs论文难产；包装话术vs永不瞎编成果的底线对照。",
+      "patterns": [
+        "视频/论文产能",
+        "技巧/底线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "學術吼,避我的論文還高呢?",
+          "note": "视频更高"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "能理在垃圾太度要端正",
+          "note": "态度端正"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "学术视频为何比论文高；怎么把弩强（ASR）——用问句征集弹幕经验。",
+      "patterns": [
+        "反问开场",
+        "弹幕征集问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "學術吼,避我的論文還高呢?",
+          "note": "为何更高"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "怎么把弩强呢?",
+          "note": "怎么把"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "微凋ID、无法解释的回忆、图表化、查重强行加字等操作向例子（ASR残缺）。",
+      "patterns": [
+        "微凋操作例",
+        "结果话术例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "然後你微調一下ID,正在靜久",
+          "note": "微凋ID"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "一系列的结果表明时代表",
+          "note": "结果表明"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如果查诅没过你就强行家自吧",
+          "note": "查重强行"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「垃圾题救活」落到微凋参数与「一系列结果表明」句式模板。",
+      "patterns": [
+        "救题→微凋",
+        "包装→句式"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "如何把任意一個垃圾,提",
+          "note": "垃圾题"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "然後你微調一下ID,正在靜久",
+          "note": "微凋"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "一系列的结果表明时代表",
+          "note": "结果表明"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「千万不要用常见的死」「永远不要超」「永远不要瞎编成果」强命令。",
+      "patterns": [
+        "千万不要",
+        "永远不要双重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "技 beq 在于千万不要用常见的死",
+          "note": "千万不要"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "永远不要超乤",
+          "note": "永远不要超"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "玩笑分享「邪门技巧」后紧急纠偏：态度要端正、禁止瞎编。",
+      "patterns": [
+        "技巧后伦理纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "以上就是一些冬 the 邪弩文里的奇迹营巧",
+          "note": "奇迹营巧"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "能理在垃圾太度要端正",
+          "note": "态度端正"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "吐槽短促→中段技巧含混加速→结尾训诫短句砸地。",
+      "patterns": [
+        "吐槽短",
+        "技巧含混",
+        "训诫砸地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "哈哈,都有套",
+          "note": "哈哈"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一系的可靠实� from 认识的结果表明",
+          "note": "实验句"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "砸地"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "laughter",
+          "form": "哈哈"
+        },
+        {
+          "type": "discourse",
+          "form": "以上就是"
+        },
+        {
+          "type": "repair_like",
+          "form": "ASR乱码夹英文"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "哈哈,都有套",
+          "note": "哈哈"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "以上就是一些冬 the 邪弩文里的奇迹营巧",
+          "note": "以上就是"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "� time",
+          "note": "乱码time"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "共鸣无奈→自嘲轻松→技巧鬼祟兴奋→伦理严肃降温。",
+      "patterns": [
+        "无奈→轻松→鬼祟→严肃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "論文避不出來,避道為啥你的廁所做的視頻",
+          "note": "无奈"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "哈哈,都有套",
+          "note": "轻松"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "技 beq 在于千万不要用常见的死",
+          "note": "鬼祟"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但我还是要提醒大家",
+          "note": "严肃"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从吐槽写不出回到「垃圾态度要端正/永不瞎编」，玩笑闭环为底线。",
+      "patterns": [
+        "玩笑回底线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "如何把任意一個垃圾,提",
+          "note": "垃圾题开"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "能理在垃圾太度要端正",
+          "note": "态度"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "邀请弹幕分享经验；结尾训诫代替关注口令。",
+      "patterns": [
+        "弹幕征集",
+        "训诫收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "也欢迎大家在弹幕里分",
+          "note": "弹幕里分"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但我还是要提醒大家",
+          "note": "提醒"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "重度ASR错乱与中英夹杂；「永远不要」连发口头禅，非平滑文稿。",
+      "patterns": [
+        "ASR崩坏",
+        "永远不要连发"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "我祈H Pakistan",
+          "note": "乱码Pakistan"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "永远不要超乤",
+          "note": "永远不要"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "永远不要"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "全文ASR极差，关键技巧句不可读；篇幅极短，方法论几乎不可迁移。",
+      "patterns": [
+        "ASR不可读",
+        "篇幅过短"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "� time",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一系的可靠实� from 认识的结果表明",
+          "note": "残缺"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "比如我能有",
+          "note": "残缺"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先承认自己也是「避导」再给技巧，末段暴露自我审查：玩笑不能越伦理。",
+      "patterns": [
+        "身份自曝",
+        "伦理自我审查"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "作為一個避道,其實我這個島是福島原的島",
+          "note": "作为避道"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但我还是要提醒大家",
+          "note": "提醒"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准「全国学子」写论文焦虑群体，用弹幕共同体感。",
+      "patterns": [
+        "学子共同体",
+        "弹幕同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "也欢迎大家在弹幕里分",
+          "note": "弹幕"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "全国学子们协异能文是啥状态",
+          "note": "全国学子"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "微凋ID、一系列结果表明、查重、永远不要瞎编成果。",
+      "patterns": [
+        "微凋锚",
+        "句式锚",
+        "伦理锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "然後你微調一下ID,正在靜久",
+          "note": "微凋"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "一系列的结果表明时代表",
+          "note": "结果表明"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密吐槽→中段技巧应高密但ASR损坏→结尾低密训诫。",
+      "patterns": [
+        "吐槽低→技巧损→训诫低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我收到了一堆死性,好說",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "技 beq 在于千万不要用常见的死",
+          "note": "损高意图"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "训诫低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "残片短句为主，总结「以上就是」后接提醒短句。",
+      "patterns": [
+        "残片短句",
+        "总结+提醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "is",
+          "note": "残片"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "以上就是一些冬 the 邪弩文里的奇迹营巧",
+          "note": "总结"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "永远不要超乤",
+          "note": "提醒短"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式学术整活：先教邪门急救，再突然变脸讲学术诚信。",
+      "patterns": [
+        "整活急救",
+        "变脸诚信"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "如何把任意一個垃圾,提",
+          "note": "垃圾急救"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "诚信"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "论文避不出；一系列结果表明；永远不要瞎编成果。",
+      "patterns": [
+        "避不出",
+        "结果表明",
+        "不瞎编"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "論文避不出來,避道為啥你的廁所做的視頻",
+          "note": "避不出"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "一系列的结果表明时代表",
+          "note": "结果表明"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "不瞎编"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR严重损坏且「包装垃圾题」易误导，仅结尾诚信训诫可参考，整体不适合观宇迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "� time",
+          "note": "ASR坏"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "如何把任意一個垃圾,提",
+          "note": "误导风险"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "永远不要瞎编成果",
+          "note": "唯底线可取"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35"
+  ],
+  "fields_complete_25": true
+}

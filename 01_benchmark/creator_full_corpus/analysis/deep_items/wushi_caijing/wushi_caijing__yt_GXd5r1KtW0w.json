@@ -1,0 +1,1653 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_GXd5r1KtW0w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=GXd5r1KtW0w",
+  "source_sha256": "ca77e7424cbe3a0e4b71238a40d5aebf837bd18509fd758d91e9a7b7459f4a7a",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "但是最近几个月大量媒体谈AI分口"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "50亿个视频秒杀他们这套傻逼到极制的梦议"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 21,
+      "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 25,
+      "snippet": "你们那个年代机会那么多改革开放下海经商到处都在渐钱"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 15,
+      "snippet": "而且当时房价那么低你为什么不买"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "那伙学历很尽量那么高"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "稍微独点出就能有个好处路"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "你确老老实是穷了一辈子"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "你是不是费我"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "好咱们换个版本"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "你们那个年代机会那么多"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "AI爆发短视频风口"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "黄金暴涨比特避暴涨"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "你随便擦个比二值个波"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "带个货都能赚钱"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 12,
+      "snippet": "肯定为什么一个都没把握住"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "你是不是费我"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "这时候有人闻这边就来了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "说你错过了短视频时代"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 11,
+      "snippet": "错过了黄金错过了九二四"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "那你就不要再错过AI时代"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "谁抓住了谁就能翻身"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "谁错过了就只能被时代淘汰"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "你原知不够啊"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "你赚不到认知以外的钱"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "你要买我的课要买我的会员"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "要听我的直播"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "要学习AI啊"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "放你妈的屁"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "其实吧"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "这种人他们转到的钱也不多"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "但却办了这样更坏的事"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "也就是隐藏了真正的经济关系"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "看了巫师制定视频"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "吃透中国房价但是主神社角了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "一定懂我在说什么"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "每个人唯一的毛"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "不是你的财富能力地位权利"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "而是你有现在青年劳动时间"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 13,
+      "snippet": "这是理解世界万物一切的根据"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 13,
+      "snippet": "这就是全网最接近中级的视角"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "无论是房地产"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "还是AI风口都是如此"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "人说巫师你口气真大"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "但我现在就敢说全网这两字"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "苗杀一切同类内容"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "你可能可以再回来骂我"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "技术和资本"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "不是机极或者消极的"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "不应该单独被讨论"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 12,
+      "snippet": "所以其他博主股吹的风口论"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 9,
+      "snippet": "包括最近的AI风口"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 15,
+      "snippet": "本至少是知道一种若有若无的希望"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 12,
+      "snippet": "让社会中层和下层彼此指责"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 12,
+      "snippet": "把真正的生产关系掩盖起来"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 7,
+      "snippet": "你骂他不够努力"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 7,
+      "snippet": "他骂你认知不够"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 5,
+      "snippet": "互相扣贸子"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 12,
+      "snippet": "但风口论的流量倒是某某来"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 14,
+      "snippet": "同时帮助记得利益群体稳如太山"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 9,
+      "snippet": "不但如此还逛进一步"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 15,
+      "snippet": "还有人把AI比成新鲁而工业革命"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 10,
+      "snippet": "这个比喻你应该都听过"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 15,
+      "snippet": "AI和当年的中期机和流水现一样"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 9,
+      "snippet": "表面而尝射毁进步了"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 9,
+      "snippet": "但发生隔新的是效率"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 11,
+      "snippet": "而不生产关系和分配罗记"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 9,
+      "snippet": "只要资源分配的全力"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 11,
+      "snippet": "还掌握在记得利益者手里"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "AI工具越先进"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 11,
+      "snippet": "抽毛的速度和效率就越快"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 14,
+      "snippet": "他们说AI是新时代的改革开放"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 6,
+      "snippet": "变地都是机会"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 4,
+      "snippet": "也是扯的"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 7,
+      "snippet": "再分享一个思惑"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 11,
+      "snippet": "改革开放初期是什么局面"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 6,
+      "snippet": "产业一片空白"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 6,
+      "snippet": "到处都是缺口"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 9,
+      "snippet": "市场上根本没有攻击"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 10,
+      "snippet": "那是真,正的增量时代"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 12,
+      "snippet": "大家的财富大幅记得的来源"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 9,
+      "snippet": "是因为大胆高做大了"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 10,
+      "snippet": "三给你的比例其实没变"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 7,
+      "snippet": "但基础不断分贝"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 11,
+      "snippet": "所以你分到的也不断分贝"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 12,
+      "snippet": "甚至你分到的比例还在減小"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 12,
+      "snippet": "但是由于大胆高的增长速度"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 15,
+      "snippet": "原原大于你败分配比例的缩小速度"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 12,
+      "snippet": "所以你提感上认为那个时代"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 11,
+      "snippet": "随便干掉什么都能付起来"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 8,
+      "snippet": "大量的交易要完成"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 10,
+      "snippet": "这些工作是真实存在的"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 6,
+      "snippet": "紧迫的海量的"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 5,
+      "snippet": "AI一进来"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 8,
+      "snippet": "效率翻败成本砍败"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 8,
+      "snippet": "这才是生产力提升"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 8,
+      "snippet": "它原本50个员工"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 9,
+      "snippet": "现在只需要30个了"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 7,
+      "snippet": "但效率还加倍了"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 5,
+      "snippet": "这才叫50"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 16,
+      "snippet": "这 The world你就会明白"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 12,
+      "snippet": "那些你看到的什么大费周章"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 10,
+      "snippet": "怎么弄了个AI工作流"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 13,
+      "snippet": "然后生产内容赚多少钱的截图"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 7,
+      "snippet": "他们的真实目的"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 8,
+      "snippet": "他们没有原本也无"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 8,
+      "snippet": "他们的业务就是你"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 14,
+      "snippet": "别人用AI赚钱的最重要的意义"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 10,
+      "snippet": "就是让你看见了他赚钱"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 7,
+      "snippet": "从而让你买会员"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 12,
+      "snippet": "AI风口现在最绝确定性的"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 9,
+      "snippet": "不是AI技术的体现"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 8,
+      "snippet": "而交别人怎么用也"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 2,
+      "snippet": "TE"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 1,
+      "snippet": ","
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 3,
+      "snippet": "- ,"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 1,
+      "snippet": "ا"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 26,
+      "snippet": "你                        你"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 1,
+      "snippet": "."
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "怒斥「AI风口」媒体话术开场，用「上一代错过改革开放」话术平行改写成「你错过AI」的贩卖焦虑对仗，再爆粗打断。",
+      "patterns": [
+        "怒斥风口开场",
+        "跨代焦虑话术对仗",
+        "爆粗打断钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但是最近几个月大量媒体谈AI分口",
+          "note": "媒体谈AI风口"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗",
+          "note": "以下话熟悉吗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "换个版本"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那你就不要再错过AI时代",
+          "note": "不要错过AI"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "放你妈的屁"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "风口话术制造错过羞耻→逼买课→掩盖真实经济关系→青年劳动时间才是本体→风口论让中下层互掐→AI如工业革命只提效率不改分配→改革开放增量幻觉不可复刻。",
+      "patterns": [
+        "话术拆穿链",
+        "生产关系掩盖",
+        "劳动时间本体",
+        "增量时代不可复刻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "你要买我的课要买我的会员",
+          "note": "买课买会员"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "也就是隐藏了真正的经济关系",
+          "note": "隐藏经济关系"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "而是你有现在青年劳动时间",
+          "note": "青年劳动时间"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "让社会中层和下层彼此指责",
+          "note": "中下层彼此指责"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "而不生产关系和分配罗记",
+          "note": "不改分配"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "那是真,正的增量时代",
+          "note": "真正增量时代"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29"
+          ],
+          "function": "anxiety_skit",
+          "note": "风口话术双版本+爆粗"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "labor_time_thesis",
+          "note": "劳动时间本体与全网视角宣称"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121"
+          ],
+          "function": "windfall_ideology",
+          "note": "风口论互掐与掩盖利益"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212"
+          ],
+          "function": "reform_contrast",
+          "note": "改革开放增量 vs 今日存量"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232"
+          ],
+          "function": "ai_real_use",
+          "note": "真业务效率 vs 卖课截图"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「好咱们换个版本」「其实吧」「这时候有人闻过来」「再分享一个思索」「所以」对抗式转场。",
+      "patterns": [
+        "换版本对仗转",
+        "其实吧揭底",
+        "再分享思索"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "换个版本"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "其实吧",
+          "note": "其实吧"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这时候有人闻这边就来了",
+          "note": "有人闻过来"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "再分享一个思惑",
+          "note": "再分享思索"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "所以其他博主股吹的风口论",
+          "note": "所以其他博主"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "上一代下海买房话术 vs 当代AI短视频话术；宣称翻身 vs 抽成更快；改革开放产业空白增量 vs 今日存量分配。",
+      "patterns": [
+        "跨代话术镜像",
+        "翻身vs抽成",
+        "增量vs存量"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你们那个年代机会那么多改革开放下海经商到处都在渐钱",
+          "note": "下海经商版"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "AI爆发短视频风口",
+          "note": "AI短视频版"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "AI工具越先进",
+          "note": "工具越先进"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "抽毛的速度和效率就越快",
+          "note": "抽越快"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "那是真,正的增量时代",
+          "note": "增量时代"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「以下的话你们熟悉吗」「你为什么不买」「你是不是废物」「肯定为什么一个都没把握住」连环质问模仿贩卖者，再自问拆解。",
+      "patterns": [
+        "熟悉吗共鸣问",
+        "贩卖者质问戏仿",
+        "自拆式追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗",
+          "note": "熟悉吗"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "而且当时房价那么低你为什么不买",
+          "note": "为什么不买"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你是不是费我",
+          "note": "是不是废"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "肯定为什么一个都没把握住",
+          "note": "为什么没把握"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "改革开放初期是什么局面",
+          "note": "初期什么局面"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "改革开放下海/房价、AI短视频黄金比特币、买课会员直播、房价视频互文、工厂50人变30人效率例、AI工作流赚钱截图。",
+      "patterns": [
+        "跨代机会例",
+        "卖课话术例",
+        "工厂减员例",
+        "截图生意例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "黄金暴涨比特避暴涨",
+          "note": "黄金比特暴涨"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你要买我的课要买我的会员",
+          "note": "买课会员"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "它原本50个员工",
+          "note": "50个员工"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "现在只需要30个了",
+          "note": "只要30个"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "然后生产内容赚多少钱的截图",
+          "note": "赚钱截图"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「隐藏经济关系」落到互骂努力/认知；「分配未变」落到AI越强抽越快；「真生产力」落到员工数与效率翻倍。",
+      "patterns": [
+        "关系→互骂落地",
+        "分配→抽成速度",
+        "生产力→编制效率"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s102",
+          "snippet": "你骂他不够努力",
+          "note": "骂不够努力"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "他骂你认知不够",
+          "note": "骂认知不够"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "抽毛的速度和效率就越快",
+          "note": "抽毛更快"
+        },
+        {
+          "sentence_id": "s207",
+          "snippet": "效率翻败成本砍败",
+          "note": "效率翻倍"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「放你妈的屁」「傻逼到极致」「也是扯的」「全网最接近中级视角」「秒杀一切」激烈价值判断与自我定位。",
+      "patterns": [
+        "爆粗否决",
+        "扯的断语",
+        "全网视角自居"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "50亿个视频秒杀他们这套傻逼到极制的梦议",
+          "note": "傻逼梦呓"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "放你妈的屁"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "这就是全网最接近中级的视角",
+          "note": "全网最接近"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "也是扯的",
+          "note": "也是扯的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "少见软性自我修正；更多是对流行叙事的外部纠偏。以「其实吧」把愤怒转为结构分析，算语气自调。",
+      "patterns": [
+        "其实吧降温纠偏",
+        "外部叙事纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "其实吧",
+          "note": "其实吧"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这种人他们转到的钱也不多",
+          "note": "赚的也不多"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "也就是隐藏了真正的经济关系",
+          "note": "隐藏关系纠偏"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "话术短句连射→爆粗尖峰→理论长句降速→互掐对句打击→改革回忆中述→效率例再加速→尾段ASR碎裂。",
+      "patterns": [
+        "话术连射",
+        "爆粗尖峰",
+        "对句打击",
+        "尾碎裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "那你就不要再错过AI时代",
+          "note": "短句连射"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "爆粗尖峰"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "你骂他不够努力",
+          "note": "对句"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "他骂你认知不够",
+          "note": "对句"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "TE",
+          "note": "尾碎"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "其实吧"
+        },
+        {
+          "type": "discourse",
+          "form": "好咱们换个版本"
+        },
+        {
+          "type": "expletive",
+          "form": "放你妈的屁"
+        },
+        {
+          "type": "filler_repair",
+          "form": "这时候有人闻这边就来了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "其实吧",
+          "note": "其实吧"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "换个版本"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "爆粗"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这时候有人闻这边就来了",
+          "note": "有人闻过来"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽熟悉→焦虑镜像加压→暴怒爆粗→冷静揭结构→冷愤怒批互掐→怀旧增量再泼冷水→揭穿卖课嫌恶。",
+      "patterns": [
+        "镜像加压",
+        "暴怒尖峰",
+        "结构冷怒",
+        "嫌恶收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗",
+          "note": "熟悉嘲讽"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "暴怒"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "让社会中层和下层彼此指责",
+          "note": "冷怒互掐"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "从而让你买会员",
+          "note": "买会员嫌恶"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「AI风口与你无关」在「业务就是你/让你看见他赚钱」处兑现；窗口尾ASR损坏使收束不完整。",
+      "patterns": [
+        "风口无关兑现",
+        "卖课本体回收",
+        "尾损不完整"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗",
+          "note": "与你无关铺垫"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "他们的业务就是你",
+          "note": "业务就是你"
+        },
+        {
+          "sentence_id": "s221",
+          "snippet": "就是让你看见了他赚钱",
+          "note": "让你看见赚钱"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "AI风口现在最绝确定性的",
+          "note": "最确定性"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "反卖课立场，无传统关注CTA；以「看了巫师房价视频就懂」互文拉新，尾残缺。",
+      "patterns": [
+        "反卖课",
+        "互文拉新",
+        "弱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "看了巫师制定视频",
+          "note": "房价视频互文"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你要买我的课要买我的会员",
+          "note": "反买课"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "你可能可以再回来骂我",
+          "note": "可回来骂我"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "刻意脏话、话术镜像排比、ASR口误残留、自称巫师口气大、工厂编制数字，口语攻击性强非平滑生成腔。",
+      "patterns": [
+        "脏话攻击",
+        "话术镜像排比",
+        "口气大自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "脏话"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "换版本镜像"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "人说巫师你口气真大",
+          "note": "口气真大"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "它原本50个员工",
+          "note": "50员工"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重（分口/费我/记得利益）；论证依赖情绪词；尾段碎裂；劳动时间命题展开受窗口截断。",
+      "patterns": [
+        "ASR严重",
+        "情绪压过论证",
+        "截断碎尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你是不是费我",
+          "note": "费我ASR"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "同时帮助记得利益群体稳如太山",
+          "note": "记得利益"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "TE",
+          "note": "碎尾"
+        },
+        {
+          "sentence_id": "s232",
+          "snippet": ".",
+          "note": "无效句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先演贩卖者再拆台，外露「话术→羞耻→商品」机制；用增量/存量分配思维解释体感财富。",
+      "patterns": [
+        "演完再拆台",
+        "羞耻商品机制",
+        "增量存量思维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "演贩卖者"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "也就是隐藏了真正的经济关系",
+          "note": "拆机制"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "三给你的比例其实没变",
+          "note": "比例没变"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "原原大于你败分配比例的缩小速度",
+          "note": "增速vs缩比"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当被风口课收割的年轻人，用「你们熟悉吗」拉入受害者同盟，再授予「劳动时间」解释权。",
+      "patterns": [
+        "受害者同盟",
+        "授予解释权",
+        "反收割站队"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "4个大资AI分口与你无关以下的话你们熟悉吗",
+          "note": "你们熟悉吗"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "而是你有现在青年劳动时间",
+          "note": "劳动时间授予"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "你可能可以再回来骂我",
+          "note": "可回来骂我"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "买课/会员/直播三件套、50→30员工、改革开放产业空白、AI=新工业革命流行比喻。",
+      "patterns": [
+        "卖课三件套锚",
+        "编制效率锚",
+        "工业革命喻锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "你要买我的课要买我的会员",
+          "note": "课会员"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "还有人把AI比成新鲁而工业革命",
+          "note": "新工业革命"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "它原本50个员工",
+          "note": "50员工"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "现在只需要30个了",
+          "note": "30个"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "话术低密情绪高→爆粗后理论密度升→互掐段中密→改革机制高密→尾ASR密度崩塌。",
+      "patterns": [
+        "情绪低密开",
+        "理论升密",
+        "机制高密",
+        "尾崩塌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "那你就不要再错过AI时代",
+          "note": "情绪低密"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "而是你有现在青年劳动时间",
+          "note": "理论升密"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "原原大于你败分配比例的缩小速度",
+          "note": "机制高密"
+        },
+        {
+          "sentence_id": "s228",
+          "snippet": "我",
+          "note": "崩塌"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "大量短口语分镜句；对仗排比块；理论段突然变长；尾部单字/乱码句。",
+      "patterns": [
+        "短分镜句",
+        "对仗块",
+        "理论拉长",
+        "乱码尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你们那个年代机会那么多",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "AI爆发短视频风口",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "原原大于你败分配比例的缩小速度",
+          "note": "长理论"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "你                        你",
+          "note": "乱码"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "暴怒左翼批评者+巫师自称权威；用脏话与「秒杀」建立反鸡汤人设。",
+      "patterns": [
+        "暴怒批评者",
+        "巫师权威自居",
+        "反鸡汤人设"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "暴怒"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "这就是全网最接近中级的视角",
+          "note": "全网视角"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "苗杀一切同类内容",
+          "note": "秒杀同类"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「放你妈的屁」打断、跨代话术换皮、青年劳动时间、AI越强抽越快、业务就是你。",
+      "patterns": [
+        "爆粗打断梗",
+        "换皮话术",
+        "抽越快金句",
+        "业务是你"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "放你妈的屁",
+          "note": "爆粗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "换版本"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "抽毛的速度和效率就越快",
+          "note": "抽越快"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "他们的业务就是你",
+          "note": "业务就是你"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「演贩卖话术→拆羞耻商品→回到分配/劳动本体」反鸡汤骨架可迁到观宇评论风口内容；需大幅降脏话并修ASR可读性。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "好咱们换个版本",
+          "note": "演话术"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "也就是隐藏了真正的经济关系",
+          "note": "拆关系"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "而是你有现在青年劳动时间",
+          "note": "劳动本体"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "他们的业务就是你",
+          "note": "业务是你"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s10",
+    "s21",
+    "s29",
+    "s26",
+    "s33",
+    "s39",
+    "s100",
+    "s113",
+    "s126",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s32",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s97",
+    "s98",
+    "s99",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232"
+  ],
+  "fields_complete_25": true
+}

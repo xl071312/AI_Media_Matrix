@@ -1,0 +1,1336 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_jm2Xp-r5-iI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=jm2Xp-r5-iI",
+  "source_sha256": "e1f665adee9247b19eb957f4a452ec5713b28b251715563678676d0d9c59004d",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "六家族是星巴的白鱷巴家族"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "三大哥的三大家族"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "方丈的丈门家族"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "张儿小子"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "小家族"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "二届的屢家班"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "以地拍摄其他七十六家族"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "没听说过这些事的人"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "可能觉得太模仿了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "名字非常有态度了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "你笑他们不能隔掉"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "他笑你们不懂中国"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "这一个家族和背后的庞大GMB"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "其实代表了整个中国下山市场"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "最大上一家旨"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "而其中最后代表性的"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "自动他路径最有的可说的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "也最低让起伏的"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "五十八七二十星班"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "如果说其他往后"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "从正日上"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "眼看人生终于找到一条"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "流暗花明的路径"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "最终却因为非法"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "不用留学生"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "被党地警方查封"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "然话是"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "日本警方外事科"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "19日以为反"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "出入警官李"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "其难民认定法"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "的嫌疑逮捕了中国决老板信用制"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "他涉嫌委托太人"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "大量购买治疗库"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "兵制服报仇"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "助长了非法劳弄"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "就是治疗库"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "这些有人可能会笑"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "那你继续听我说"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "日本警方称"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "发现信用制"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "一年时间内卖出了"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "总机1.4"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "1.4亿支队的治疗库"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "按照当时的会议局"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "算也就是725万人比"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "这点其实反应了"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "星巴左生意的天赋"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "虽然在日本这段"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "和跨过的能其中的门槛呢"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "就是当大哥"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "因为相对于排排起"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 14,
+      "snippet": "星巴在出入这个流量圈子的时候"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 7,
+      "snippet": "手里是有现金的"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "因此要封房的"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "在各大主播指边间打赏"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "重大绑一绑二"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "然后让主播帮他充分"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 3,
+      "snippet": "苏称率"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 12,
+      "snippet": "人这也是该平台的生态特点"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 7,
+      "snippet": "按照星巴的说法"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 8,
+      "snippet": "当时花了没有百万"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 5,
+      "snippet": "也有几十万"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 7,
+      "snippet": "但这种引入操作"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 7,
+      "snippet": "其实谁都可以做"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "真正星巴扭力的点"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "是星巴的引到的"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "这些流量之后"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 10,
+      "snippet": "还把这些流量流下来了"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 7,
+      "snippet": "而且还不如在用"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 11,
+      "snippet": "刚才说那些很合适的方法"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 8,
+      "snippet": "早期星巴的直播间"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "主要靠星巴几的口播"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "将商业、創意、将记得经历"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 8,
+      "snippet": "我没有专业的眼光"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 5,
+      "snippet": "管这种套路"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 7,
+      "snippet": "叫去牛逼直播间"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 8,
+      "snippet": "这里没有一点便宜"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 16,
+      "snippet": "因为经济学家、企业家、投资人的人"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 7,
+      "snippet": "都要走这条路的"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 15,
+      "snippet": "这点是从内容行业的专业性来说的"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 12,
+      "snippet": "将经济、商业、将会议政治"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 13,
+      "snippet": "也就是当代生态中的一个钢区"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 10,
+      "snippet": "而其实看了早期的内容"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 6,
+      "snippet": "我们可以看出"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 8,
+      "snippet": "星巴还是非常渴望"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 10,
+      "snippet": "得到主流社会的人口的"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 15,
+      "snippet": "并不想被扣上一个下程市场的帽子"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 11,
+      "snippet": "18年星巴开始直播待会"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 6,
+      "snippet": "并且点名批评"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 5,
+      "snippet": "新闻播出后"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 10,
+      "snippet": "初瑞姐发了一张雨师寒"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 8,
+      "snippet": "结果驴事物左方便"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 7,
+      "snippet": "马上在微博发文"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 6,
+      "snippet": "本所认真检查"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 13,
+      "snippet": "进行其中的发现并不任何本本"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 6,
+      "snippet": "成结该相法律"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 5,
+      "snippet": "过于南崩了"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 8,
+      "snippet": "就算是一段表演吧"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 2,
+      "snippet": "还有"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 14,
+      "snippet": "花剧字买下和商界政界名流合影"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 6,
+      "snippet": "关于新的家的"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 8,
+      "snippet": "家庭就不多这一数"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 17,
+      "snippet": "总之双方都是在行业内长期奉运的人物"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 6,
+      "snippet": "跑开具体做的"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 4,
+      "snippet": "除了提升"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 8,
+      "snippet": "刚才说牌齐的时候"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 13,
+      "snippet": "我们也说到各平台有加度基因"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 21,
+      "snippet": "所以新的新的新的新的也会复划自己的IPG人"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 8,
+      "snippet": "也就是自己的家族"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 9,
+      "snippet": "而自己家族的编陷路"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 8,
+      "snippet": "buzzword"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 1,
+      "snippet": ","
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 4,
+      "snippet": "并且成绩"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 4,
+      "snippet": "非常谣言"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 3,
+      "snippet": "曾经在"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 1,
+      "snippet": ","
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 1,
+      "snippet": "呢"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "快手口播六大家族点名开场，嘲名字土却代表下沉市场最大玩家。",
+      "patterns": [
+        "家族点名清单",
+        "土名/懂中国反讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "六家族是星巴的白鱷巴家族",
+          "note": "六家族辛巴"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "可能觉得太模仿了",
+          "note": "可能觉得太模仿了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "他笑你们不懂中国"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "六家族=下沉最大业态→辛巴路径最可说→日本卖退热药起家天赋→打赏当大哥留流量→吹牛逼直播间求主流认可。",
+      "patterns": [
+        "家族地图",
+        "辛巴代表路径",
+        "日本生意天赋",
+        "打赏引流",
+        "内容求认可"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "其实代表了整个中国下山市场",
+          "note": "代表下沉市场"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "五十八七二十星班",
+          "note": "辛巴最有可说"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "星巴左生意的天赋",
+          "note": "做生意的天赋"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就是当大哥",
+          "note": "就是当大哥"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "叫去牛逼直播间",
+          "note": "吹牛逼直播间"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s3",
+            "s12",
+            "s14",
+            "s19"
+          ],
+          "function": "map_open",
+          "note": "六家族地图与辛巴代表性"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s32",
+            "s38",
+            "s45",
+            "s49"
+          ],
+          "function": "japan_origin",
+          "note": "日本退热药灰色生意与天赋"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s70",
+            "s75",
+            "s81",
+            "s88"
+          ],
+          "function": "big_brother_traffic",
+          "note": "打赏当大哥并留存流量"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s91",
+            "s96",
+            "s105",
+            "s107"
+          ],
+          "function": "content_persona",
+          "note": "口播商业经历求主流认可"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s147",
+            "s151",
+            "s158",
+            "s167"
+          ],
+          "function": "crisis_ip",
+          "note": "舆情危机与家族IP复制"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "而其中最有代表性的/对就是退热药/那你继续听我说/真正扭力的点是。",
+      "patterns": [
+        "代表性聚焦",
+        "对就是X",
+        "扭力点揭底"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "而其中最后代表性的",
+          "note": "最有代表性的"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "就是治疗库",
+          "note": "就是退热药"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "那你继续听我说",
+          "note": "那你继续听我说"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "真正扭力的点"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "你笑他们土 vs 他笑你不懂中国；谁都能打赏 vs 只有他留住流量；下沉帽子 vs 渴望主流认可。",
+      "patterns": [
+        "土/懂中国",
+        "打赏人人会/留存稀缺",
+        "下沉/主流渴望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你笑他们不能隔掉",
+          "note": "你笑他们"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "他笑你们不懂中国"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "其实谁都可以做",
+          "note": "这种操作谁都可以做"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "还把这些流量流下来了",
+          "note": "还把流量留下来了"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "并不想被扣上一个下程市场的帽子",
+          "note": "不想扣下沉帽子"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用反问式嘲讽与揭底问题推动：门槛是什么？真正扭力点是什么？",
+      "patterns": [
+        "门槛追问",
+        "扭力点追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "和跨过的能其中的门槛呢",
+          "note": "跨过门槛呢"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "真正扭力的点"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "日本一年卖1.4亿支退热药、花几十万打赏、雨师寒舆情、花巨资买合影。",
+      "patterns": [
+        "日本销量",
+        "打赏金额",
+        "舆情表演",
+        "合影买名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "1.4亿支队的治疗库",
+          "note": "1.4亿支退热药"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "当时花了没有百万",
+          "note": "花了没有百万也有几十万"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "初瑞姐发了一张雨师寒",
+          "note": "发了一张雨师寒"
+        },
+        {
+          "sentence_id": "s158",
+          "snippet": "花剧字买下和商界政界名流合影",
+          "note": "买下和商界政界合影"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把家族抽象成平台生态基因，落到打赏绑一绑二与吹牛逼直播间方法论。",
+      "patterns": [
+        "家族→平台生态",
+        "引流方法具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "人这也是该平台的生态特点",
+          "note": "平台生态特点"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "重大绑一绑二",
+          "note": "重大绑一绑二"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "叫去牛逼直播间",
+          "note": "吹牛逼直播间命名"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言代表下沉最大上一家、反应生意天赋、过于南崩了。",
+      "patterns": [
+        "最大代表断语",
+        "天赋断语",
+        "崩了评价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "其实代表了整个中国下山市场",
+          "note": "下沉市场最大"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "星巴左生意的天赋",
+          "note": "生意的天赋"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "过于南崩了",
+          "note": "过于南崩了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说谁都能打赏引入，随即纠正真正难点是留存；看早期内容修正对其渴望主流的理解。",
+      "patterns": [
+        "谁都能做→留存才难",
+        "早期内容修正人设理解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "其实谁都可以做",
+          "note": "谁都可以做"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "还把这些流量流下来了",
+          "note": "流量留下来了"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "我们可以看出",
+          "note": "我们可以看出"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "点名短句连发→日本故事中速→机制拆解加速→舆情八卦轻快带刺。",
+      "patterns": [
+        "点名短拍",
+        "故事中",
+        "机制加速",
+        "八卦刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "六家族是星巴的白鱷巴家族",
+          "note": "点名短句"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "1.4亿支队的治疗库",
+          "note": "1.4亿支中速"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "扭力点加速"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "过于南崩了",
+          "note": "南崩了刺"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "对"
+        },
+        {
+          "type": "discourse",
+          "form": "那你继续听我说"
+        },
+        {
+          "type": "filler",
+          "form": "呢"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "对",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "那你继续听我说",
+          "note": "那你继续听我说"
+        },
+        {
+          "sentence_id": "s176",
+          "snippet": "呢",
+          "note": "呢"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽开场→灰色起家紧张→机制佩服→求认可复杂同情→舆情嘲弄。",
+      "patterns": [
+        "嘲讽→紧张→佩服→复杂→嘲弄"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "不懂中国嘲讽"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "星巴左生意的天赋",
+          "note": "天赋佩服"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "得到主流社会的人口的",
+          "note": "渴望主流复杂"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "过于南崩了",
+          "note": "南崩了嘲弄"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从六家族点名回到复制自己的家族IP，强调平台基因下的组织复制。",
+      "patterns": [
+        "家族开场→家族复制收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "六家族是星巴的白鱷巴家族",
+          "note": "六家族开场"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "也就是自己的家族",
+          "note": "也就是自己的家族"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "继续听我说留人，弱CTA偏讲故事推进。",
+      "patterns": [
+        "继续听我说留人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "那你继续听我说",
+          "note": "那你继续听我说"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "吹牛逼直播间土命名、南崩了、绑一绑二平台黑话。",
+      "patterns": [
+        "土命名",
+        "南崩了",
+        "平台黑话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s96",
+          "snippet": "叫去牛逼直播间",
+          "note": "吹牛逼直播间"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "重大绑一绑二",
+          "note": "绑一绑二"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "过于南崩了",
+          "note": "过于南崩了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重错字（星巴/治疗库/GMB）损害信息；中段大量截断；结尾标点碎片。",
+      "patterns": [
+        "ASR错字",
+        "截断",
+        "碎片结尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "就是治疗库",
+          "note": "治疗库错识"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "虽然在日本这段",
+          "note": "截断跳到s69"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": ",",
+          "note": "逗号碎片"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先否定人人可复制打赏，再揭示留存与内容定位才是辛巴扭力。",
+      "patterns": [
+        "否定表象→揭示扭力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "其实谁都可以做",
+          "note": "谁都可以做"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "真正扭力的点"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "还把这些流量流下来了",
+          "note": "流量留下来"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当嘲笑下沉土味的人，反过来教育你不懂中国生态。",
+      "patterns": [
+        "嘲讽看客反教育"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "没听说过这些事的人",
+          "note": "没听说过的人"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "他笑你们不懂中国"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1.4亿支退热药约725万人民币、打赏几十万、18年直播带货节点。",
+      "patterns": [
+        "销量金额",
+        "打赏花费",
+        "年份节点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "1.4亿支队的治疗库",
+          "note": "1.4亿支"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "算也就是725万人比",
+          "note": "725万人民币"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "当时花了没有百万",
+          "note": "几十万"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "18年星巴开始直播待会",
+          "note": "18年直播带货"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场名单中密→日本案例高密→机制拆解峰→舆情八卦降密。",
+      "patterns": [
+        "名单中",
+        "案例高",
+        "机制峰",
+        "八卦降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "六家族是星巴的白鱷巴家族",
+          "note": "名单中密"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "1.4亿支队的治疗库",
+          "note": "案例高密"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "机制峰"
+        },
+        {
+          "sentence_id": "s158",
+          "snippet": "花剧字买下和商界政界名流合影",
+          "note": "合影八卦降"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "名词短句点名与解说长句交替，揭底句突然变短。",
+      "patterns": [
+        "点名短句",
+        "解说长句",
+        "揭底短句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "方丈的丈门家族",
+          "note": "方丈丈门短句"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "星巴在出入这个流量圈子的时候",
+          "note": "出入流量圈子长句"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就是当大哥",
+          "note": "就是当大哥短揭底"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "懂行冷眼观察者：又嘲又懂，能把土味家族读成产业组织。",
+      "patterns": [
+        "又嘲又懂",
+        "产业读法"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "不懂中国反讽"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "其实代表了整个中国下山市场",
+          "note": "下沉市场产业读法"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "他笑你们不懂中国；吹牛逼直播间；真正扭力是留住流量。",
+      "patterns": [
+        "不懂中国",
+        "吹牛逼直播间",
+        "留存扭力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "不懂中国"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "叫去牛逼直播间",
+          "note": "吹牛逼直播间"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "还把这些流量流下来了",
+          "note": "流量留下来"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "家族地图+表象操作vs真扭力揭底结构可借，但灰产细节与ASR噪声需清洗改写后用于观宇。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "他笑你们不懂中国",
+          "note": "反讽定位可改编"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "真正星巴扭力的点",
+          "note": "扭力揭底结构可借"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "就是治疗库",
+          "note": "灰产细节需清洗"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s9",
+    "s12",
+    "s14",
+    "s19",
+    "s49",
+    "s70",
+    "s96",
+    "s3",
+    "s32",
+    "s38",
+    "s45",
+    "s75",
+    "s81",
+    "s88",
+    "s91",
+    "s105",
+    "s107",
+    "s147",
+    "s151",
+    "s158",
+    "s167",
+    "s16",
+    "s40",
+    "s85",
+    "s11",
+    "s84",
+    "s69",
+    "s149",
+    "s79",
+    "s76",
+    "s155",
+    "s104",
+    "s37",
+    "s176",
+    "s106",
+    "s50",
+    "s171",
+    "s8",
+    "s47",
+    "s108",
+    "s72"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,953 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7678649571081257482",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7678649571081257482/",
+  "source_sha256": "89718446174ff3716c2578afb6dc0c983ad49048411f3c6cf3236cd8108ee55c",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 39,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 23,
+      "snippet": "夜里刷到这个新闻的时候，我一时之间陷入了茫然。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "（新闻来自新京报）"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 16,
+      "snippet": "然后，神经一下，我突然开始笑了。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 19,
+      "snippet": "控制不住的笑了，我老婆以为我鬼上身了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "笑了，哪有这么简单。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 17,
+      "snippet": "跟牛来比，我的精神状态都算正常了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "为什么笑？"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 30,
+      "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 19,
+      "snippet": "当年那个扇贝在海里飘移的时候，我笑了。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "现在看到这个消杀，我又笑了。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 69,
+      "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "前几天还写了寿司郎和小菜园。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 40,
+      "snippet": "但看到这个新闻，我的心态大概是这样的，余华老师在《在细雨中呼喊里》写的很明白了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 22,
+      "snippet": "原来，一把年纪饱经风霜的我，还是如此的年轻。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 18,
+      "snippet": "感谢当年我找的消杀公司没有这么玩我。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "哎不对。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 24,
+      "snippet": "好像我的慢性咽炎就是从十多年前开店的时候才有的。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "不会我也中招了吧。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 27,
+      "snippet": "现在，我嗓子开始痒痒了，真的，我生理上呼吸开始难受了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "捏麻麻的怎么消杀公司也有大活啊？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 56,
+      "snippet": "我是这几个店的老板我已经陷入困惑了，现在这事情感觉像是都不是选址问题和选供应商问"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 84,
+      "snippet": "就，甚至用这种消杀公司的，都是比较有追求，非常正规，期望给顾客提供一个安全环境的"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 26,
+      "snippet": "但怎么，自己花了大钱，连个84也不给用啊，用敌敌畏？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "老师你不要这么玩啊。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 13,
+      "snippet": "怎么我花钱给自己下毒了啊？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 20,
+      "snippet": "不是这什么版本啊，还有这种全新的玩法吗？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 27,
+      "snippet": "我开个店想当资本家啊老师，怎么一打眼到处都是玩我的啊？"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 23,
+      "snippet": "房东觉得我赚钱非得涨房租弄我，我不高兴但理解。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 19,
+      "snippet": "顾客觉得不好吃要退款，我不高兴但理解。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 20,
+      "snippet": "供应商整次品AB货给我，我很难受但理解。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 40,
+      "snippet": "神人顾客整大活在店里倒钩破门随地大小便带宠物进来舔盘子我理解不了但我能试图理解。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 29,
+      "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 35,
+      "snippet": "赔钱就算了，被玩弄就罢了，什么叫做我资本家没当成结果弄不好自己中毒了？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "还让不让人玩了啊。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 26,
+      "snippet": "资本有毒吧怎么这么命苦啊，不行喘着气感觉没法呼吸了。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 39,
+      "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 37,
+      "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "开店你就是哈基米，哈基米呀没路躲。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "夜里刷新闻陷入茫然，随即失控发笑，用荒诞情绪钩住读者。",
+      "patterns": [
+        "刷新闻茫然",
+        "失控笑钩",
+        "老婆鬼上身"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "夜里刷到这个新闻的时候，我一时之间陷入了茫然。",
+          "note": "茫然开场"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "然后，神经一下，我突然开始笑了。",
+          "note": "突然开始笑"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "控制不住的笑了，我老婆以为我鬼上身了。",
+          "note": "老婆以为鬼上身"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "荒谬会笑→开店劝退履历→消杀反噬正规店→资本被虐升级→哈基米崩坏收束。",
+      "patterns": [
+        "荒谬即笑",
+        "开店劝退",
+        "正规店中招",
+        "理解边界",
+        "哈基米崩坏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。",
+          "note": "极度荒谬会笑"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "倒两位数店劝退"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "就，甚至用这种消杀公司的，都是比较有追求，非常正规，期望给顾客提供一个安全环境的",
+          "note": "有追求正规连锁"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。",
+          "note": "消杀把我当病毒"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "开店你就是哈基米，哈基米呀没路躲。",
+          "note": "开店你就是哈基米"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "absurd_laugh_hook",
+          "note": "新闻→茫然→笑→扇贝类比"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21"
+          ],
+          "function": "self_history_doubt",
+          "note": "倒店履历+咽炎自疑中招"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "regular_shop_irony",
+          "note": "正规店花大钱却用敌敌畏"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39"
+          ],
+          "function": "escalation_breakdown",
+          "note": "理解排比→蚌埠住→哈基米崩坏"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用然后/为什么笑/但看到/哎不对/就甚至推进情绪与论点。",
+      "patterns": [
+        "然后神经",
+        "为什么笑",
+        "但看到新闻",
+        "哎不对翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "然后，神经一下，我突然开始笑了。",
+          "note": "然后神经一下"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "为什么笑？",
+          "note": "为什么笑"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "但看到这个新闻，我的心态大概是这样的，余华老师在《在细雨中呼喊里》写的很明白了。",
+          "note": "但看到这个新闻"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "哎不对。",
+          "note": "哎不对"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "笑与正常、扇贝与消杀、小店自消杀与连锁正规、可理解剥削与不可理解下毒对打。",
+      "patterns": [
+        "牛与我精神",
+        "扇贝vs消杀",
+        "小店vs连锁",
+        "理解vs蚌埠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "跟牛来比，我的精神状态都算正常了。",
+          "note": "跟牛比算正常"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "当年那个扇贝在海里飘移的时候，我笑了。",
+          "note": "扇贝飘移我笑了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "就，甚至用这种消杀公司的，都是比较有追求，非常正规，期望给顾客提供一个安全环境的",
+          "note": "中小店消毒水"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。",
+          "note": "请来消杀反被整"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连珠设问把荒谬推到极致：为何笑、怎么消杀大活、花钱下毒、什么版本。",
+      "patterns": [
+        "为什么笑",
+        "消杀大活",
+        "花钱下毒",
+        "什么版本"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为什么笑？",
+          "note": "为什么笑"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "捏麻麻的怎么消杀公司也有大活啊？",
+          "note": "消杀公司也有大活"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "怎么我花钱给自己下毒了啊？",
+          "note": "花钱给自己下毒"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "不是这什么版本啊，还有这种全新的玩法吗？",
+          "note": "什么版本全新玩法"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "扇贝跑路新闻、余华细雨呼喊、寿司郎小菜园、房东顾客供应商神人排比实例。",
+      "patterns": [
+        "扇贝新闻",
+        "余华互文",
+        "寿司郎小菜园",
+        "神人顾客清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "当年那个扇贝在海里飘移的时候，我笑了。",
+          "note": "扇贝海里飘移"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "但看到这个新闻，我的心态大概是这样的，余华老师在《在细雨中呼喊里》写的很明白了。",
+          "note": "余华细雨中呼喊"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "前几天还写了寿司郎和小菜园。",
+          "note": "寿司郎和小菜园"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "神人顾客整大活在店里倒钩破门随地大小便带宠物进来舔盘子我理解不了但我能试图理解。",
+          "note": "倒钩破门大小便"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "极度荒谬会笑→具体消杀敌敌畏；祖坟问题→84不用改敌敌畏；资本家梦→各路被玩弄。",
+      "patterns": [
+        "荒谬→敌敌畏",
+        "祖坟→选消杀",
+        "资本家→被玩清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。",
+          "note": "极度荒谬会笑"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但怎么，自己花了大钱，连个84也不给用啊，用敌敌畏？",
+          "note": "连个84也不给用"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我开个店想当资本家啊老师，怎么一打眼到处都是玩我的啊？",
+          "note": "想当资本家到处玩我"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "用蚌埠住、祖坟问题、资本有毒等口语重判，把行业荒诞钉死。",
+      "patterns": [
+        "蚌埠住",
+        "祖坟问题",
+        "资本有毒",
+        "还让不让人玩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。",
+          "note": "真蚌埠住了"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "我是这几个店的老板我已经陷入困惑了，现在这事情感觉像是都不是选址问题和选供应商问",
+          "note": "祖坟出现了问题"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "资本有毒吧怎么这么命苦啊，不行喘着气感觉没法呼吸了。",
+          "note": "资本有毒命苦"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "还让不让人玩了啊。",
+          "note": "还让不让人玩"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先感谢消杀没玩我，随即咽炎自疑翻案，暴露思维回旋。",
+      "patterns": [
+        "感谢后翻案",
+        "咽炎自疑中招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "感谢当年我找的消杀公司没有这么玩我。",
+          "note": "感谢消杀没玩我"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "哎不对。",
+          "note": "哎不对"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "不会我也中招了吧。",
+          "note": "不会我也中招了吧"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问短叹与长履历句交替，末段笑声拟声与哈基米洗脑加速崩坏。",
+      "patterns": [
+        "短问连发",
+        "长履历句",
+        "笑声拟声加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为什么笑？",
+          "note": "为什么笑"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "倒两位数店长句"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "咦嘻嘻嘻道爷悟啦"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "茫然→失控笑→自嘲履历→生理恐惧→愤怒困惑→理解排比→彻底崩坏狂欢。",
+      "patterns": [
+        "茫然",
+        "失控笑",
+        "咽炎恐惧",
+        "愤怒困惑",
+        "崩坏狂欢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "夜里刷到这个新闻的时候，我一时之间陷入了茫然。",
+          "note": "陷入了茫然"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "控制不住的笑了，我老婆以为我鬼上身了。",
+          "note": "控制不住的笑"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "现在，我嗓子开始痒痒了，真的，我生理上呼吸开始难受了。",
+          "note": "嗓子开始痒痒"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我开个店想当资本家啊老师，怎么一打眼到处都是玩我的啊？",
+          "note": "到处都是玩我"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "道爷我悟啦"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣开店劝退主题，用哈基米没路躲把荒诞钉成口号闭环。",
+      "patterns": [
+        "哈基米闭环",
+        "开店没路躲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "南北绿豆"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "开店你就是哈基米，哈基米呀没路躲。",
+          "note": "开店你就是哈基米"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式关注/点赞CTA，以崩坏口号自完成收束。",
+      "patterns": [
+        "无硬CTA口号收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "开店你就是哈基米，哈基米呀没路躲。",
+          "note": "哈基米呀没路躲"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "鬼上身、捏麻麻、蚌埠住、哈基米网络梗与生理痒痒细节难模板化。",
+      "patterns": [
+        "鬼上身梗",
+        "捏麻麻粗口",
+        "哈基米洗脑",
+        "嗓子痒生理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "控制不住的笑了，我老婆以为我鬼上身了。",
+          "note": "老婆以为鬼上身"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "捏麻麻的怎么消杀公司也有大活啊？",
+          "note": "捏麻麻的怎么"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "现在，我嗓子开始痒痒了，真的，我生理上呼吸开始难受了。",
+          "note": "嗓子开始痒痒了"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米哈基米"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "后段笑声拟声与哈基米重复过载，论点从行业讽刺滑向纯情绪宣泄。",
+      "patterns": [
+        "拟声过载",
+        "论点滑向宣泄",
+        "新闻事实薄"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "嘻嘻嘿嘿嘎嘎过长"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米重复刷屏"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "（新闻来自新京报）",
+          "note": "新闻来源一笔带过"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "当场演示：茫然→笑因解释→履历回闪→咽炎反转→理解边界推演。",
+      "patterns": [
+        "笑因自解",
+        "履历回闪",
+        "中招自疑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。",
+          "note": "因为人在面对极度荒谬"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "倒了两位数的店"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "好像我的慢性咽炎就是从十多年前开店的时候才有的。",
+          "note": "慢性咽炎开店才有"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当同遭开店毒打的共谋者，用老师你不要这么玩拉近吐槽同盟。",
+      "patterns": [
+        "开店共谋",
+        "老师吐槽称谓",
+        "理解同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "劝大家不要开店"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "老师你不要这么玩啊。",
+          "note": "老师你不要这么玩"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "房东觉得我赚钱非得涨房租弄我，我不高兴但理解。",
+          "note": "我不高兴但理解"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "敌敌畏、84、慢性咽炎、房东涨租、神人大小便、寿司郎小菜园等硬锚。",
+      "patterns": [
+        "敌敌畏",
+        "84消毒液",
+        "咽炎",
+        "神人大小便"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但怎么，自己花了大钱，连个84也不给用啊，用敌敌畏？",
+          "note": "用敌敌畏"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "好像我的慢性咽炎就是从十多年前开店的时候才有的。",
+          "note": "慢性咽炎十多年前"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "前几天还写了寿司郎和小菜园。",
+          "note": "寿司郎和小菜园"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "神人顾客整大活在店里倒钩破门随地大小便带宠物进来舔盘子我理解不了但我能试图理解。",
+          "note": "随地大小便带宠物"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场情绪高、履历段信息中高、理解排比密、末段信息塌缩为情绪噪音。",
+      "patterns": [
+        "情绪钩中",
+        "履历信息高",
+        "排比密",
+        "末段塌缩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "倒店劝退信息密"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "房东觉得我赚钱非得涨房租弄我，我不高兴但理解。",
+          "note": "房东涨租理解"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "神人顾客整大活在店里倒钩破门随地大小便带宠物进来舔盘子我理解不了但我能试图理解。",
+          "note": "神人顾客清单密"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "拟声信息塌缩"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "超短问句与长排比交替，末段故意碎成拟声与重复口号。",
+      "patterns": [
+        "超短问",
+        "长排比",
+        "拟声碎句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为什么笑？",
+          "note": "为什么笑"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "房东觉得我赚钱非得涨房租弄我，我不高兴但理解。",
+          "note": "房东涨租句式"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "开店你就是哈基米，哈基米呀没路躲。",
+          "note": "开店哈基米短句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "受虐资本家自嘲者：劝退开店、能理解剥削却不能理解被消杀下毒。",
+      "patterns": [
+        "劝退开店仙人",
+        "理解边界毒舌",
+        "崩坏自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "这么多年，我倒了两位数的店，同时孜孜不倦地劝大家不要开店，从给房东打工，到被员工",
+          "note": "孜孜不倦劝不要开店"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。",
+          "note": "消杀当病毒蚌埠住"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "赔钱就算了，被玩弄就罢了，什么叫做我资本家没当成结果弄不好自己中毒了？",
+          "note": "资本家没当成中毒"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "会笑的荒谬、敌敌畏消杀、哈基米开店没路躲成为可复述钩子。",
+      "patterns": [
+        "荒谬会笑",
+        "敌敌畏",
+        "哈基米没路躲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。",
+          "note": "面对极度荒谬会笑"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但怎么，自己花了大钱，连个84也不给用啊，用敌敌畏？",
+          "note": "用敌敌畏"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "开店你就是哈基米，哈基米呀没路躲。",
+          "note": "哈基米呀没路躲"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "荒谬新闻→开店受虐排比→理解边界翻车的吐槽骨架可改编观宇行业吐槽，需大幅收敛崩坏拟声与哈基米。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为人在面对极度荒谬以及超出自己最狂野想象的时候，是会笑的。",
+          "note": "荒谬会笑可改编"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "房东觉得我赚钱非得涨房租弄我，我不高兴但理解。",
+          "note": "理解排比可改编"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但我请来消杀公司常规消毒结果把我当病毒给整了我真蚌埠住了。",
+          "note": "消杀反噬可改编"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s5",
+    "s9",
+    "s12",
+    "s23",
+    "s33",
+    "s39",
+    "s1",
+    "s22",
+    "s29",
+    "s8",
+    "s14",
+    "s17",
+    "s7",
+    "s10",
+    "s21",
+    "s26",
+    "s27",
+    "s13",
+    "s32",
+    "s24",
+    "s28",
+    "s36",
+    "s35",
+    "s16",
+    "s19",
+    "s37",
+    "s20",
+    "s38",
+    "s3",
+    "s18",
+    "s25",
+    "s34"
+  ],
+  "fields_complete_25": true
+}

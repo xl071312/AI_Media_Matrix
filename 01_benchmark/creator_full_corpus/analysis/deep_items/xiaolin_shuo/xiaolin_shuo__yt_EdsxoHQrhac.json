@@ -1,0 +1,1634 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_EdsxoHQrhac",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=EdsxoHQrhac",
+  "source_sha256": "6c1d1de3c59197ebaab7d0917582ed323888449a5f1517e44258c9d1b8e49e08",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 2,
+      "snippet": "Hi"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "你知道2023年全球最赚钱的基金"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "是干什么的吗"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "他不是买股票的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 11,
+      "snippet": "也不是买什么加密货币的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "而是一种非常神秘的金融产品"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 2,
+      "snippet": "叫做"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "巨灾债券"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "你是不是想说"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "巨什么债券"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "这个巨灾债券就是"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "巨大灾难的债券"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "Catastrophe Bond"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 15,
+      "snippet": "简称叫做 \"Cat Bond\""
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "2023年的回报率达到了20%"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "有人可能会觉得"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "20%也还好吧"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "那比特币有可能一天就涨20%"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "金融的世界"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "你不看风险"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "光说收益率"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "那不就耍流氓吗"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "不然你还存什么银行"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "全买比特币算了"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "你看啊这个是"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 14,
+      "snippet": "2023年美国债券大概的表现"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "而这个是巨灾债券的表现"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "你看看他不光收益率高"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "关键他还稳呢"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "你是不是好奇了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 20,
+      "snippet": "你说什么东西能这么稳稳的拿到20%的回报"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "是那些"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 17,
+      "snippet": "阴险的资本家又搞出什么骗人的产品吗"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "咱来看看"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "什么叫巨灾债券呢"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 11,
+      "snippet": "其实这个概念非常好理解"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "它跟你买普通的债券呢挺像的"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "就是你定期会拿到一些利息"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "然后到期呢"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "会把本金拿回来"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "唯一的区别"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "就是你其实是在和大自然对赌"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "一旦发生什么重大的灾难"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "就是巨灾"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "比如什么飓风啊"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 3,
+      "snippet": "洪水啊"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 3,
+      "snippet": "火灾啊"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "地震啊等等"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 5,
+      "snippet": "那不好意思"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "根据这个灾难的严重程度"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 8,
+      "snippet": "他登陆的概率越高"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 9,
+      "snippet": "这个债券跌的就越狠"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 15,
+      "snippet": "那你想你作为比如说这个对冲基金"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 8,
+      "snippet": "这个债券的持有者"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 19,
+      "snippet": "假设你能比别人先预测到这个飓风可能会来"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 4,
+      "snippet": "你先发现"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 15,
+      "snippet": "先卖掉就可能会规避掉巨额的亏损"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 5,
+      "snippet": "而反过来呢"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 9,
+      "snippet": "假设啊市场他评估说"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 13,
+      "snippet": "这个飓风登陆的概率是60%"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 9,
+      "snippet": "但是你非常专业对吧"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 8,
+      "snippet": "你经过缜密的分析"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 7,
+      "snippet": "感觉没那么严重"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 14,
+      "snippet": "那你其实就可以冲进市场捡便宜"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 7,
+      "snippet": "买大量这个债券"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 12,
+      "snippet": "这个飓风假设更如你所料啊"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 16,
+      "snippet": "就从佛罗里达坐那边擦个边就过去了"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 10,
+      "snippet": "没形成那个实际的灾难"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 11,
+      "snippet": "那债券价格立刻就涨下来"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 10,
+      "snippet": "你就从中间大赚了一笔"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 5,
+      "snippet": "再比如说啊"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 9,
+      "snippet": "比如说加州哪着火了"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 22,
+      "snippet": "这时候这帮基金经理可能就会动用身边一切的资源"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 8,
+      "snippet": "比如说搞什么卫星"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 8,
+      "snippet": "视图去看看哪着了"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 13,
+      "snippet": "哪没着来判断这个火势的大小"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 10,
+      "snippet": "会不会形成实际的灾难"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 14,
+      "snippet": "会不会实际的触发这个债券赔偿"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 8,
+      "snippet": "反正大概就是这样"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 10,
+      "snippet": "我相信你应该感觉到了"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 11,
+      "snippet": "这个钱他不是一般人能赚"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 18,
+      "snippet": "这10%的超额收益也不是一般人能拿的"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 4,
+      "snippet": "说到这啊"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 19,
+      "snippet": "有些爱动脑筋的朋友可能就会提出一个问题"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 11,
+      "snippet": "不对呀就算没有灾难发生"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 12,
+      "snippet": "他的超额收益也就10%啊"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 26,
+      "snippet": "你说为什么这个债券2023年的时候收益能达到20%呢"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 8,
+      "snippet": "我来给你揭秘一下"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 16,
+      "snippet": "这其实因为2022年9月的时候啊"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 16,
+      "snippet": "美国迎来了一个飓风叫 \"Ian\""
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 16,
+      "snippet": "而且呢他们也不是在那发什么灾难财"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 11,
+      "snippet": "他们反倒是整个市场里边"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 13,
+      "snippet": "最害怕最不希望灾难来临的人"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 11,
+      "snippet": "你看啊这债券它靠高收益"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 15,
+      "snippet": "就吸引来了这么一帮非常专业的人"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 6,
+      "snippet": "整天在那研究"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 2,
+      "snippet": "哎呀"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 13,
+      "snippet": "这个灾难发生的概率有多高啊"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 6,
+      "snippet": "会不会出事啊"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 6,
+      "snippet": "而且一旦出事"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 16,
+      "snippet": "他们是要拿出自己的保证金去赔付的"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 4,
+      "snippet": "这个分工"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 12,
+      "snippet": "你看是不是感觉还挺合理的"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 9,
+      "snippet": "你简单听这个巨灾债"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 18,
+      "snippet": "感觉可能又是华尔街包装出来的一个什么"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 11,
+      "snippet": "花里胡哨奇奇怪怪的产品"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 4,
+      "snippet": "确实是啊"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 5,
+      "snippet": "这个东西呢"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 19,
+      "snippet": "就是在2000年初的时候被高盛发扬光大"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 13,
+      "snippet": "但其实我们整个这么分析下来"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 8,
+      "snippet": "你是不是也感觉了"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 13,
+      "snippet": "它其实并不是像那种过于复杂"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 13,
+      "snippet": "根本没人能看得懂的金融产品"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 16,
+      "snippet": "它确确实实是通过金融市场的证券化"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 9,
+      "snippet": "通过单纯的利益驱动"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 14,
+      "snippet": "调整供需来自动分配风险和收益"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 10,
+      "snippet": "帮助社会合理化的分工"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 8,
+      "snippet": "是不是还挺神奇的"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 5,
+      "snippet": "这可能就是"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 6,
+      "snippet": "金融的魅力吧"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「2023最赚钱基金是干什么的」悬念开场，连否股票/加密后揭晓「巨灾债券」，并用「巨什么」共鸣降低门槛。",
+      "patterns": [
+        "最赚钱悬念",
+        "连否排除法",
+        "听清共鸣问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你知道2023年全球最赚钱的基金",
+          "note": "最赚钱基金"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "他不是买股票的",
+          "note": "不是股票"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "也不是买什么加密货币的",
+          "note": "不是加密"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "巨灾债券",
+          "note": "巨灾债券"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "巨什么债券",
+          "note": "巨什么"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "Cat Bond高收益且稳→本质与大自然对赌→灾难触发赔本→机构用预测/卫星交易→2023因Ian后供给紧张收益冲到20%→证券化分工合理非骗子产品。",
+      "patterns": [
+        "收益风险对照",
+        "对赌自然本质",
+        "信息优势交易",
+        "供给冲击解释",
+        "分工合理化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "2023年的回报率达到了20%",
+          "note": "回报20%"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "关键他还稳呢",
+          "note": "还稳"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "与大自然对赌"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "假设你能比别人先预测到这个飓风可能会来",
+          "note": "先预测规避"
+        },
+        {
+          "sentence_id": "s221",
+          "snippet": "这其实因为2022年9月的时候啊",
+          "note": "飓风Ian"
+        },
+        {
+          "sentence_id": "s400",
+          "snippet": "调整供需来自动分配风险和收益",
+          "note": "自动分配风险"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "hook_name",
+          "note": "悬念命名与风险收益观"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "mechanism",
+          "note": "普通债对比与灾难触发"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s183",
+            "s184",
+            "s185",
+            "s186",
+            "s187",
+            "s188",
+            "s189",
+            "s190",
+            "s191",
+            "s192",
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212"
+          ],
+          "function": "trading_edge",
+          "note": "飓风概率交易与卫星"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s375",
+            "s376",
+            "s377",
+            "s378",
+            "s379",
+            "s380",
+            "s381",
+            "s382",
+            "s383",
+            "s384"
+          ],
+          "function": "why_20pct",
+          "note": "Ian后收益揭秘铺垫"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s385",
+            "s386",
+            "s387",
+            "s388",
+            "s389",
+            "s390",
+            "s391",
+            "s392",
+            "s393",
+            "s394",
+            "s395",
+            "s396",
+            "s397",
+            "s398",
+            "s399",
+            "s400",
+            "s401",
+            "s402",
+            "s403",
+            "s404"
+          ],
+          "function": "social_role",
+          "note": "专业怕灾与分工魅力"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「你看啊」「唯一的区别」「反过来呢」「说到这」「我来给你揭秘」「但其实我们分析下来」讲解转场。",
+      "patterns": [
+        "你看啊示证",
+        "唯一区别转",
+        "揭秘转",
+        "分析下来收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "你看啊这个是",
+          "note": "你看啊"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "唯一的区别",
+          "note": "唯一区别"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "而反过来呢",
+          "note": "反过来呢"
+        },
+        {
+          "sentence_id": "s220",
+          "snippet": "我来给你揭秘一下",
+          "note": "揭秘"
+        },
+        {
+          "sentence_id": "s394",
+          "snippet": "但其实我们整个这么分析下来",
+          "note": "分析下来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "光看收益率耍流氓 vs 风险调整后Cat Bond又高又稳；普通债还本付息 vs 巨灾触发损本；外行以为发灾难财 vs 持有人最怕灾难。",
+      "patterns": [
+        "收益/风险对照",
+        "普通债vs巨灾债",
+        "发灾难财错觉vs怕灾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "那不就耍流氓吗",
+          "note": "耍流氓"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你看看他不光收益率高",
+          "note": "收益高"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "关键他还稳呢",
+          "note": "还稳"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "对赌自然"
+        },
+        {
+          "sentence_id": "s377",
+          "snippet": "最害怕最不希望灾难来临的人",
+          "note": "最不希望灾难"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「是干什么的吗」「巨什么」「20%也还好吧」「什么东西能稳拿20%」「资本家骗人？」「为什么能到20%」听众代问驱动。",
+      "patterns": [
+        "听众代问",
+        "贬低收益问",
+        "揭秘驱动问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "是干什么的吗",
+          "note": "干什么"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "20%也还好吧",
+          "note": "20%还好吧"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你说什么东西能这么稳稳的拿到20%的回报",
+          "note": "稳拿20%"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "阴险的资本家又搞出什么骗人的产品吗",
+          "note": "骗人产品吗"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "你说为什么这个债券2023年的时候收益能达到20%呢",
+          "note": "为何20%"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "飓风洪水火灾地震清单、佛罗里达擦边飓风、加州着火看卫星、飓风Ian、高盛发扬光大。",
+      "patterns": [
+        "灾难类型枚举",
+        "飓风交易情景",
+        "卫星火势例",
+        "Ian事件"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "比如什么飓风啊",
+          "note": "飓风"
+        },
+        {
+          "sentence_id": "s199",
+          "snippet": "就从佛罗里达坐那边擦个边就过去了",
+          "note": "擦边过去"
+        },
+        {
+          "sentence_id": "s206",
+          "snippet": "比如说搞什么卫星",
+          "note": "卫星"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "美国迎来了一个飓风叫 \"Ian\"",
+          "note": "Ian"
+        },
+        {
+          "sentence_id": "s393",
+          "snippet": "就是在2000年初的时候被高盛发扬光大",
+          "note": "高盛"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「和大自然对赌」落到触发清单；「信息优势」落到先卖出/捡便宜；「证券化分工」落到保证金赔付与概率研究。",
+      "patterns": [
+        "对赌→触发清单",
+        "信息优势→买卖动作",
+        "分工→保证金赔付"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "对赌"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "地震啊等等",
+          "note": "地震等"
+        },
+        {
+          "sentence_id": "s189",
+          "snippet": "先卖掉就可能会规避掉巨额的亏损",
+          "note": "先卖掉"
+        },
+        {
+          "sentence_id": "s197",
+          "snippet": "买大量这个债券",
+          "note": "买大量"
+        },
+        {
+          "sentence_id": "s385",
+          "snippet": "他们是要拿出自己的保证金去赔付的",
+          "note": "保证金赔付"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「不看风险光说收益率耍流氓」「这钱不是一般人能赚」「挺合理」「挺神奇」「金融的魅力」。",
+      "patterns": [
+        "耍流氓断语",
+        "非普通人能赚",
+        "合理/神奇收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "那不就耍流氓吗",
+          "note": "耍流氓"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "这个钱他不是一般人能赚",
+          "note": "一般人不能赚"
+        },
+        {
+          "sentence_id": "s387",
+          "snippet": "你看是不是感觉还挺合理的",
+          "note": "挺合理"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "是不是还挺神奇的",
+          "note": "挺神奇"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "金融魅力"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "预演「20%还好」误解并纠正风险观；预演「华尔街花里胡哨」偏见后分析纠偏为合理分工。",
+      "patterns": [
+        "预演误解纠正",
+        "花里胡哨偏见纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "20%也还好吧",
+          "note": "20%还好"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "那不就耍流氓吗",
+          "note": "纠正风险观"
+        },
+        {
+          "sentence_id": "s390",
+          "snippet": "花里胡哨奇奇怪怪的产品",
+          "note": "花里胡哨"
+        },
+        {
+          "sentence_id": "s397",
+          "snippet": "根本没人能看得懂的金融产品",
+          "note": "并非看不懂"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "Hi短开→悬念中速→概念短句拆解→交易情景加长→揭秘加速→分工哲理放慢收。",
+      "patterns": [
+        "悬念中速",
+        "短句拆概念",
+        "情景加长",
+        "哲理放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "Hi",
+          "note": "Hi"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "叫做",
+          "note": "叫做停顿"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "巨灾债券",
+          "note": "揭晓"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "假设你能比别人先预测到这个飓风可能会来",
+          "note": "情景长"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "放慢收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇→轻微不服（20%还好）→被稳住惊艳→对赌紧张→交易刺激→揭秘恍然→偏见消解赞叹。",
+      "patterns": [
+        "不服→惊艳",
+        "对赌紧张",
+        "恍然→赞叹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "20%也还好吧",
+          "note": "不服"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "关键他还稳呢",
+          "note": "惊艳稳"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "紧张"
+        },
+        {
+          "sentence_id": "s220",
+          "snippet": "我来给你揭秘一下",
+          "note": "揭秘"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "是不是还挺神奇的",
+          "note": "赞叹"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「神秘最赚钱」用机制+Ian供给解释闭环；「是不是骗子产品」用分工合理化回收，收于金融魅力。",
+      "patterns": [
+        "神秘收益闭环",
+        "骗子疑虑回收",
+        "魅力收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "而是一种非常神秘的金融产品",
+          "note": "神秘产品"
+        },
+        {
+          "sentence_id": "s221",
+          "snippet": "这其实因为2022年9月的时候啊",
+          "note": "Ian解释"
+        },
+        {
+          "sentence_id": "s389",
+          "snippet": "感觉可能又是华尔街包装出来的一个什么",
+          "note": "骗子疑虑"
+        },
+        {
+          "sentence_id": "s401",
+          "snippet": "帮助社会合理化的分工",
+          "note": "合理化分工"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "魅力"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA，以「是不是还挺神奇」共感问收束，知识快感代替关注号召。",
+      "patterns": [
+        "共感问收",
+        "弱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s402",
+          "snippet": "是不是还挺神奇的",
+          "note": "挺神奇"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "魅力吧"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「巨什么债券」听感共鸣、比特币一天20%抬杠、Ian专名、卫星看火、口红式类比缺席但有Florida擦边口语。",
+      "patterns": [
+        "听感共鸣",
+        "抬杠对比",
+        "专名事件",
+        "口语情景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "巨什么债券",
+          "note": "巨什么"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "那比特币有可能一天就涨20%",
+          "note": "比特币一天"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "美国迎来了一个飓风叫 \"Ian\"",
+          "note": "Ian"
+        },
+        {
+          "sentence_id": "s199",
+          "snippet": "就从佛罗里达坐那边擦个边就过去了",
+          "note": "擦个边"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断机制段中部；零售投资者可操作性弱却易被20%吸引；保险/再保险结构细节简化。",
+      "patterns": [
+        "窗口截断",
+        "吸引力/可操作性张力",
+        "结构简化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "根据这个灾难的严重程度",
+          "note": "触发段截断跳"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "2023年的回报率达到了20%",
+          "note": "20%吸引"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "这个钱他不是一般人能赚",
+          "note": "非一般人"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "暴露「先正名→比风险收益→类比普通债→加唯一区别→情景推演→解答反问」教学思维。",
+      "patterns": [
+        "教学五步",
+        "反问再揭秘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "其实这个概念非常好理解",
+          "note": "很好理解"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "它跟你买普通的债券呢挺像的",
+          "note": "像普通债"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "唯一的区别",
+          "note": "唯一区别"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "有些爱动脑筋的朋友可能就会提出一个问题",
+          "note": "爱动脑筋问"
+        },
+        {
+          "sentence_id": "s220",
+          "snippet": "我来给你揭秘一下",
+          "note": "揭秘"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众当聪明门外汉：代问「巨什么」「是不是骗人」，再拉成「爱动脑筋的朋友」。",
+      "patterns": [
+        "门外汉代问",
+        "爱动脑筋抬升"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你是不是想说",
+          "note": "你是不是想说"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "阴险的资本家又搞出什么骗人的产品吗",
+          "note": "骗人吗"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "有些爱动脑筋的朋友可能就会提出一个问题",
+          "note": "爱动脑筋朋友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2023回报20%、Cat Bond简称、飓风洪水火地震、Ian、佛罗里达60%概率情景、高盛2000初。",
+      "patterns": [
+        "20%锚",
+        "Cat Bond名锚",
+        "Ian锚",
+        "概率情景锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "2023年的回报率达到了20%",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "简称叫做 \"Cat Bond\"",
+          "note": "Cat Bond"
+        },
+        {
+          "sentence_id": "s192",
+          "snippet": "这个飓风登陆的概率是60%",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "美国迎来了一个飓风叫 \"Ian\"",
+          "note": "Ian"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密悬念→命名中密→机制中高密→交易情景高密→揭秘高密→哲理降密。",
+      "patterns": [
+        "悬念低密",
+        "机制升密",
+        "情景高密",
+        "哲理降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "巨灾债券",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "机制"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "假设你能比别人先预测到这个飓风可能会来",
+          "note": "情景高密"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "大量短分句口语；「叫做」停顿揭晓；枚举灾难四连；交易段条件句变长。",
+      "patterns": [
+        "短分句",
+        "停顿揭晓",
+        "四连枚举",
+        "条件长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "叫做",
+          "note": "叫做"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "比如什么飓风啊",
+          "note": "飓风啊"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "洪水啊",
+          "note": "洪水啊"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "假设你能比别人先预测到这个飓风可能会来",
+          "note": "条件长句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "友善金融科普官：敢说耍流氓、也肯承认神奇，平衡祛魅与赞叹。",
+      "patterns": [
+        "友善科普官",
+        "祛魅又赞叹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "那不就耍流氓吗",
+          "note": "耍流氓"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "其实这个概念非常好理解",
+          "note": "很好理解"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "金融的魅力吧",
+          "note": "魅力"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "巨灾债券/Cat Bond、与大自然对赌、又高又稳、Ian揭秘、金融魅力。",
+      "patterns": [
+        "Cat Bond名",
+        "对赌自然",
+        "又高又稳",
+        "Ian揭秘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "简称叫做 \"Cat Bond\"",
+          "note": "Cat Bond"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "就是你其实是在和大自然对赌",
+          "note": "对赌"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "关键他还稳呢",
+          "note": "还稳"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "美国迎来了一个飓风叫 \"Ian\"",
+          "note": "Ian"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「悬念命名→误解预演→机制唯一区别→情景推演→反问揭秘→社会功能升华」是观宇讲复杂金融/保险产品的高复用模板。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "巨灾债券",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "唯一的区别",
+          "note": "唯一区别"
+        },
+        {
+          "sentence_id": "s220",
+          "snippet": "我来给你揭秘一下",
+          "note": "揭秘"
+        },
+        {
+          "sentence_id": "s401",
+          "snippet": "帮助社会合理化的分工",
+          "note": "社会功能"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s5",
+    "s8",
+    "s10",
+    "s15",
+    "s29",
+    "s42",
+    "s187",
+    "s221",
+    "s400",
+    "s1",
+    "s3",
+    "s6",
+    "s7",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s183",
+    "s184",
+    "s185",
+    "s186",
+    "s188",
+    "s189",
+    "s190",
+    "s191",
+    "s192",
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s222",
+    "s375",
+    "s376",
+    "s377",
+    "s378",
+    "s379",
+    "s380",
+    "s381",
+    "s382",
+    "s383",
+    "s384",
+    "s385",
+    "s386",
+    "s387",
+    "s388",
+    "s389",
+    "s390",
+    "s391",
+    "s392",
+    "s393",
+    "s394",
+    "s395",
+    "s396",
+    "s397",
+    "s398",
+    "s399",
+    "s401",
+    "s402",
+    "s403",
+    "s404"
+  ],
+  "fields_complete_25": true
+}

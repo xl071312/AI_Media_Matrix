@@ -1,0 +1,1791 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_6vDsLvD4VDY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=6vDsLvD4VDY",
+  "source_sha256": "5efc5c6a508d644a573fe373d6f1d580dc7f3e1a350d56f1ab34f3fed7cb6565",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 163,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "如何在成温下把酒跟火柴变成液体"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "想不出来的吧"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "我来教你"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 1,
+      "snippet": "本"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "成温下是液体"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "有剧毒"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "就像无聊"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 1,
+      "snippet": "嗯"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 1,
+      "snippet": "嗯"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 4,
+      "snippet": "你 没有"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "嗯"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "多好玩啊和一个无聊"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "你们大家平平里"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "觉得那个本很有趣的"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "请在弹幕里打一"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "一 觉得很无聊的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 4,
+      "snippet": "请解除酸"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 1,
+      "snippet": "在"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "本领处的酸接他的展开"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "我人大家都觉得很有趣啊"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "我都不过的时候呢"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "经常有人跟我说"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "你们这把人"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "整天做化学实验"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "人生太无聊了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 5,
+      "snippet": "这我就误服"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "这种总有"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 17,
+      "snippet": "成功合成了一种长得像人意一样的分析"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "身高两难名"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "秘名为"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "Nanokit"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "你说这可以有什么意义呢"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "很难想像这种研究 也能发配合"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "他一步操作"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "合成了小人的上百身"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "又一通操作"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "合成了下百身"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 18,
+      "snippet": "然后本 senator 作为关键部位"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "所以我们小学"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "二名就学过了八岁"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "搜楼 gash 了"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "全程读完文信"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "a 个小人"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 16,
+      "snippet": "这个教授真是我人生见过最无聊的人"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "前年我曾经把这小人"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "声� I 个小人跳的"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "跳 声音 动作号"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "结果这的教措组里面有人说"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "把我的推送给教授看了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "教授 新为的表试"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "这个有趣的中国小伙子"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 8,
+      "snippet": "才是真正懂我的人"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 2,
+      "snippet": "是啊"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "科研的真地"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "不就是要快乐"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "明明之中"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "那明小人的无聊工作"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "跨越重扬"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 3,
+      "snippet": "将量用"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 10,
+      "snippet": "无聊化学动作这个心靈"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "连接在那里起"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "后来我发现"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 16,
+      "snippet": "像他这样的快乐科研主义者还蛮多的"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 5,
+      "snippet": "很多化学家"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 7,
+      "snippet": "都热中于用探链"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "编织这种奇怪的分子"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "这不是你小时候玩的俄羅"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "是一个巴着探的分子"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 11,
+      "snippet": "作者说这很像错乐的窗户"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 5,
+      "snippet": "所以秘名为"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 16,
+      "snippet": "broke and wind都配"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 3,
+      "snippet": "破窗篮"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 12,
+      "snippet": "然后化学家就分分开始实现"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "出梦想造出了"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "过家家的房玩"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 8,
+      "snippet": "歌特风车的教堂玩"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 5,
+      "snippet": "可以买次的"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "这就是外国测试家"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 5,
+      "snippet": "永远不认识"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 10,
+      "snippet": "21世纪是生物的世纪"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 3,
+      "snippet": "化学家"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "无聊的时候"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 4,
+      "snippet": "是个是个"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "不许诚迲的"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 9,
+      "snippet": "比如这个叫十足鸟西"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 6,
+      "snippet": "这个叫胡蝶西"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "就是起额图"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 9,
+      "snippet": "如果你今天还没有吃"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 6,
+      "snippet": "吃到嘴巴的话"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "可以给自己合成一个"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 3,
+      "snippet": "嘴巴的"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 9,
+      "snippet": "无聊化学家还喝一口"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 5,
+      "snippet": "自行自行车"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 5,
+      "snippet": "自行车云车"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 16,
+      "snippet": "自行车轻� on the car"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 4,
+      "snippet": "自行车车"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 5,
+      "snippet": "发现一个楼"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 4,
+      "snippet": "自行轨车"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 4,
+      "snippet": "自行车车"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 3,
+      "snippet": "自行车"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 29,
+      "snippet": "侯�.尔.尔.尔.尔.尔.尔.尔.尔.� and尔.尔.�"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 2,
+      "snippet": "尔."
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 147,
+      "snippet": "尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔.尔."
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 15,
+      "snippet": "这种实验一分钟修移系续期的感觉"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 11,
+      "snippet": "相集了你平时的科研进展"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 8,
+      "snippet": "我这大家查理一下"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 14,
+      "snippet": "第二简单你车赛已经开始报名了"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 14,
+      "snippet": "比赛将于2021年在法国主兴"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 6,
+      "snippet": "还有两年时间"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 9,
+      "snippet": "如果你想去挑战一下"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 10,
+      "snippet": "我觉得现在还不算太晚"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 2,
+      "snippet": "加油"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 14,
+      "snippet": "人类已经造了分子小人分子小车"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 15,
+      "snippet": "未来还可能会造分子工厂分子大楼"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 11,
+      "snippet": "这种目标的科研虽然快乐"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 10,
+      "snippet": "但往往面临至于的声音"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 11,
+      "snippet": "你用科研经费做这些纠约"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 11,
+      "snippet": "你用科研经费做这些究章"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 5,
+      "snippet": "有什么用的"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 4,
+      "snippet": "在我看来"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 16,
+      "snippet": "这些科研的关键不是化学家做出的啥"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 8,
+      "snippet": "而是他们想做出啥"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 6,
+      "snippet": "就可以做出啥"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 8,
+      "snippet": "一个破創完的合成"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 12,
+      "snippet": "需要克服分子内巨大的张力"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 9,
+      "snippet": "一个纳米小人的合成"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 9,
+      "snippet": "依靠精准高s的高s"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 9,
+      "snippet": "依靠精准高s的高s"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 4,
+      "snippet": "依靠给你"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 13,
+      "snippet": "而是知识 限制我们的想象力"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 10,
+      "snippet": "感谢大家收看本期视频"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 8,
+      "snippet": "我最近也写的无聊"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 11,
+      "snippet": "设计的一个巧本团内分子"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 11,
+      "snippet": "长 长 长 长 长 长"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 15,
+      "snippet": "一个用巧环连接的笨和耐的话和无"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 14,
+      "snippet": "有没有用大型的帮我合成一下呢"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 13,
+      "snippet": "最后一定要记得算连知识一下"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 6,
+      "snippet": "我们下期再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "室温把酒和火柴变成液体的谜题钩子+「我来教你」承诺，带弹幕投票互动立好奇课堂。",
+      "patterns": [
+        "谜题钩子",
+        "我来教你承诺",
+        "弹幕投票"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "如何在成温下把酒跟火柴变成液体",
+          "note": "酒跟火柴变成液体"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "我来教你",
+          "note": "我来教你"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "请在弹幕里打一",
+          "note": "请在弹幕里打"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "外人觉化学无聊→Nanokit纳米小人等玩笑分子→破窗篮造型合成→无聊实为想做就能做→知识限制想象力。",
+      "patterns": [
+        "刻板无聊反驳",
+        "玩笑分子例证",
+        "能力翻转金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "人生太无聊了",
+          "note": "人生太无聊了"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "Nanokit",
+          "note": "Nanokit"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "破窗篮",
+          "note": "破窗篮"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "而是他们想做出啥",
+          "note": "想做出啥"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "riddle_hook",
+          "note": "谜题与弹幕互动"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "stereotype",
+          "note": "外人说无聊与反驳"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "nanokit",
+          "note": "纳米小人故事"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91"
+          ],
+          "function": "fun_chemists",
+          "note": "快乐科研与破窗篮"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143"
+          ],
+          "function": "shape_jokes",
+          "note": "鸟西蝴蝶西自行车叠词"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158"
+          ],
+          "function": "skill_reframe",
+          "note": "想做就能做与张力"
+        },
+        {
+          "unit_id": "u7",
+          "sentence_ids": [
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163"
+          ],
+          "function": "cta_close",
+          "note": "感谢与求合成CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「后来我发现」扩圈；「所以秘名为」命名；「而是」翻转为能力/知识限制。",
+      "patterns": [
+        "后来我发现",
+        "所以秘名为",
+        "而是翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "后来我发现",
+          "note": "后来我发现"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "所以秘名为",
+          "note": "所以秘名为"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "而是他们想做出啥",
+          "note": "而是他们想做出啥"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "而是知识限制"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "外人觉无聊vs玩造型分子；常识苯vs高精合成张力；想象限制vs知识限制。",
+      "patterns": [
+        "无聊刻板/玩分子",
+        "常识/高精",
+        "想象/知识"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "人生太无聊了",
+          "note": "人生太无聊了"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这个教授真是我人生见过最无聊的人",
+          "note": "最无聊的人"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "需要克服分子内巨大的张力",
+          "note": "巨大的张力"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场谜题问；「有什么意义」质疑玩笑研究；弹幕有趣/无聊投票。",
+      "patterns": [
+        "谜题开场问",
+        "意义质疑问",
+        "弹幕投票"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "如何在成温下把酒跟火柴变成液体",
+          "note": "如何在成温下"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "你说这可以有什么意义呢",
+          "note": "有什么意义呢"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "请在弹幕里打一",
+          "note": "请在弹幕里打"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "Nanokit小人；破窗篮；哥特教堂分子；十足鸟西/蝴蝶西；自行车分子。",
+      "patterns": [
+        "Nanokit例",
+        "破窗篮例",
+        "自行车分子例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "Nanokit",
+          "note": "Nanokit"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "破窗篮",
+          "note": "破窗篮"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "歌特风车的教堂玩",
+          "note": "歌特风车的教堂"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "无聊落到上下半身苯键合；想做就能做落到破窗张力与纳米精准。",
+      "patterns": [
+        "无聊→合成步骤",
+        "能力→张力精准"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "合成了小人的上百身",
+          "note": "合成了小人上百身"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "需要克服分子内巨大的张力",
+          "note": "巨大的张力"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "依靠精准高s的高s",
+          "note": "精准高s"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言教授最无聊；快乐科研主义者还蛮多；不是想象而是知识限制。",
+      "patterns": [
+        "最无聊判断",
+        "主义者判断",
+        "知识限制金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "这个教授真是我人生见过最无聊的人",
+          "note": "最无聊的人"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "像他这样的快乐科研主义者还蛮多的",
+          "note": "还蛮多的"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「这我就误服」口语纠偏；毒信息后转向好玩自嘲。",
+      "patterns": [
+        "误服纠偏",
+        "毒信息转玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "这我就误服",
+          "note": "这我就误服"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "有剧毒",
+          "note": "有剧毒"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "多好玩啊和一个无聊",
+          "note": "多好玩啊"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "谜题短句→嗯嗯碎拍→故事中板→自行车叠词狂欢→金句急收。",
+      "patterns": [
+        "短谜题",
+        "叠词狂欢",
+        "金句急收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我来教你",
+          "note": "我来教你"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "自行自行车",
+          "note": "自行自行车"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler",
+          "form": "嗯"
+        },
+        {
+          "type": "repair",
+          "form": "你 没有"
+        },
+        {
+          "type": "repetition",
+          "form": "自行车×N"
+        },
+        {
+          "type": "discourse",
+          "form": "后来我发现"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "嗯",
+          "note": "嗯"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "你 没有",
+          "note": "你 没有"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "后来我发现",
+          "note": "后来我发现"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇挑衅→自嘲→讲述好玩→叠词嗨→升华敬意→求合成亲近。",
+      "patterns": [
+        "好奇→自嘲→嗨→升华"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "想不出来的吧",
+          "note": "想不出来的吧"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "这我就误服",
+          "note": "误服"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇无聊刻板呼应「知识限制想象力」翻转，并抛自制分子求合成。",
+      "patterns": [
+        "无聊开合翻转",
+        "求合成闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "人生太无聊了",
+          "note": "人生太无聊了"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "有没有用大型的帮我合成一下呢",
+          "note": "帮我合成一下"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "感谢收看+求实验室合成+关注提醒+下期再见。",
+      "patterns": [
+        "求合成互动CTA",
+        "关注提醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s156",
+          "snippet": "感谢大家收看本期视频",
+          "note": "感谢大家收看"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "有没有用大型的帮我合成一下呢",
+          "note": "帮我合成一下"
+        },
+        {
+          "sentence_id": "s162",
+          "snippet": "最后一定要记得算连知识一下",
+          "note": "算连知识一下"
+        },
+        {
+          "sentence_id": "s163",
+          "snippet": "我们下期再见",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR口误保留、自行车无意义叠念、Nanokit专名、误服自嘲。",
+      "patterns": [
+        "叠念玩梗",
+        "专名落地",
+        "误服自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "这我就误服",
+          "note": "这我就误服"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "Nanokit",
+          "note": "Nanokit"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真致专名残缺；窗口截断跳跃；部分句不可读。",
+      "patterns": [
+        "ASR失真",
+        "窗口截断",
+        "不可读句多"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "本",
+          "note": "本"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "然后本 senator 作为关键部位",
+          "note": "本 senator"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "依靠精准高s的高s",
+          "note": "依靠精准高s"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先甩外人质疑再举Nanokit反证；意义自问后用发论文顶回。",
+      "patterns": [
+        "质疑→反证",
+        "意义自问自答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "人生太无聊了",
+          "note": "人生太无聊了"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "你说这可以有什么意义呢",
+          "note": "有什么意义呢"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "很难想像这种研究 也能发配合",
+          "note": "也能发配合"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "弹幕投票拉进教室；结尾求合成把观众当可协作同行。",
+      "patterns": [
+        "弹幕投票共同体",
+        "求合成协作者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "请在弹幕里打一",
+          "note": "请在弹幕里打"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "一 觉得很无聊的",
+          "note": "觉得很无聊的"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "有没有用大型的帮我合成一下呢",
+          "note": "帮我合成一下"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "Nanokit、破窗篮、哥特教堂分子、自行车分子、巧环连接苯萘。",
+      "patterns": [
+        "Nanokit锚",
+        "破窗篮锚",
+        "自行车锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "Nanokit",
+          "note": "Nanokit"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "破窗篮",
+          "note": "破窗篮"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "一个用巧环连接的笨和耐的话和无",
+          "note": "巧环连接"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "谜题中密→ASR稀释→Nanokit回升→叠词低密狂欢→金句高密收。",
+      "patterns": [
+        "中密→稀释→回升→低密→高密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "如何在成温下把酒跟火柴变成液体",
+          "note": "酒跟火柴"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "嗯",
+          "note": "嗯"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "合成了小人的上百身",
+          "note": "上百身"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短谜题→嗯碎句→叙事中长句→名词点名→叠词排比→金句对仗。",
+      "patterns": [
+        "碎句ASR流",
+        "叠词排比",
+        "金句对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "嗯",
+          "note": "嗯"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "而是他们想做出啥",
+          "note": "想做出啥"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导科普喜剧人：敢说教授最无聊，又把无聊翻成顶尖合成敬意。",
+      "patterns": [
+        "科普喜剧人设",
+        "无聊翻敬意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "这个教授真是我人生见过最无聊的人",
+          "note": "最无聊的人"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "像他这样的快乐科研主义者还蛮多的",
+          "note": "快乐科研主义者"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "Nanokit；破窗篮；自行车叠念；知识限制想象力金句。",
+      "patterns": [
+        "Nanokit名",
+        "破窗篮名",
+        "自行车叠念",
+        "知识限制金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "Nanokit",
+          "note": "Nanokit"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "破窗篮",
+          "note": "破窗篮"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "自行车",
+          "note": "自行车"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "刻板印象→荒诞案例→能力翻转金句可改编到其他「外行觉无聊」专业，需清理ASR补专名。",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "人生太无聊了",
+          "note": "人生太无聊了"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "破窗篮",
+          "note": "破窗篮"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "而是知识 限制我们的想象力",
+          "note": "知识限制想象力"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s16",
+    "s26",
+    "s32",
+    "s74",
+    "s134",
+    "s155",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s160",
+    "s161",
+    "s162",
+    "s163"
+  ],
+  "fields_complete_25": true
+}

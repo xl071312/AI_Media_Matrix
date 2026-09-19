@@ -1,0 +1,1230 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_j5D6eqTWKls",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=j5D6eqTWKls",
+  "source_sha256": "f76c6af294c44170bb6e6f8d362fc6afead63b0a130f2501a9dc0346cdca9091",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 89,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "已經水流浮起十進木頭嗎?"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "肯定不行啊"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "水怎麼可能浮起比自己還中了東西呢?"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "我們直接實驗一下子"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "這是一坨木頭"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "它的重量是330克左右"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "把它扔到燒杯裡"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "才加了150克水"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "木頭已經浮起來了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "真浮起來啊"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "有沒有這邊水再少一點"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "我這還有一個玻璃杯"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "它指柄木頭倒了一丟丟"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "幾乎顏色和風"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "小心地加入30克水"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "在看什麼啊"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "還看什麼"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "已經浮起來了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 3,
+      "snippet": "自信看"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 12,
+      "snippet": "木頭底面已經離開了玻璃杯"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "往下吹一吹"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 11,
+      "snippet": "鬆手後也沒會下降一點點"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "說明水把它浮起來了一點點"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "雖然這薄薄一層水"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "只有30克"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "但它確實浮起了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "十倍於自身重量的木頭"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "你就說浮不浮吧"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "所以已經水確實可以浮起十進木頭"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "如果你是欠錢覺得不行呢"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "肯定是因為出中浮地是這麼交的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "乎如夜春風來"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "F5等於烏夜GV牌"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "物體受到的浮力"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "等於它排開水的重力"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "那水都沒有時間"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "怎麼能排開時間水呢"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "這個奇怪的問題啊"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "專門有的名字叫阿基女的辈論"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "阿基女的聽得都覺得被"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "但V牌說的其實是"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "假設水面有這麼高"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "這個物體排掉了多少水"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "也就是物體進落在水面以下"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "部分的提擊"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "在我們的實驗裡呢"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 5,
+      "snippet": "雖然水很少"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "但放進木頭後"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "水面漲到了這麼高"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "這麼長一段都是V牌"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 14,
+      "snippet": "只要物體和容器形狀的顏色和風"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "就能有很少的水"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "創造出很大的V牌"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 7,
+      "snippet": "產生很大的浮力"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "很多人問過"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 12,
+      "snippet": "液滴水能不能浮起萬噸劇能"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "理論上呢"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 16,
+      "snippet": "你找一個和萬噸劇能完美貼合的劇完"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 16,
+      "snippet": "讓液滴水恰好恰冷的份量就能浮起來"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "但實際上呢"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 2,
+      "snippet": "不行"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 6,
+      "snippet": "你可以算一下"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "液滴水是0.05號升"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 17,
+      "snippet": "有1.67穿一10-21次方的分子"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "就算把這些分子"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "一個一個不成單分子層"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "也大開就兩百平方米的面積"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "對於一艘長250米"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "寬40米的劇能來說"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 8,
+      "snippet": "液滴水只能在劇能"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 15,
+      "snippet": "裡面的液效跨上8那麼液層水分子"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 11,
+      "snippet": "這根本就沒有俗歷的概念"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "它能浮不起萬噸劇能"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "除了你是三體人的水滴"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "別說液滴水了"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 21,
+      "snippet": "如果水只都在Furley新穿一層即薄的水塗"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 15,
+      "snippet": "那這時表面張力可能會比福利更顯"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 14,
+      "snippet": "水磨甚至可能把物體和容器吸住"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "只有到物體這位包裹力層"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "宏觀連續可流動的水"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 12,
+      "snippet": "壓強能在水中不衰減的傳遞"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 12,
+      "snippet": "物體上下表面感受到壓力差"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "才能形成理想的福利"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 9,
+      "snippet": "已經水伏擊時機誤團"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 14,
+      "snippet": "我個人實驗的感覺是快到極限了"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 8,
+      "snippet": "所以現在大家覺得"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 9,
+      "snippet": "一個差在水底的球蹲"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "受到福利嗎"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "设问一斤水浮十斤木？先斩钉截铁「肯定不行」再立刻实验打脸。",
+      "patterns": [
+        "反直觉设问",
+        "先否后证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "已經水流浮起十進木頭嗎?",
+          "note": "一斤水浮十斤木"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "肯定不行啊"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我們直接實驗一下子",
+          "note": "直接实验"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "常识否定→实验浮起→减水仍浮→阿基米德原理澄清排开体积→液滴浮军舰不可能→宏观连续水条件。",
+      "patterns": [
+        "否→证→极限→原理→边界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "木頭已經浮起來了",
+          "note": "木头浮起来"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "十倍於自身重量的木頭",
+          "note": "十倍重量"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "等於它排開水的重力",
+          "note": "等于排开水重力"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "它能浮不起萬噸劇能",
+          "note": "浮不起万吨舰"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "myth_bust_demo",
+          "note": "否定常识后烧杯木头实验打脸"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "extreme_thin_water",
+          "note": "更少水/30克仍浮起强化反直觉"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54"
+          ],
+          "function": "archimedes_explain",
+          "note": "浮力=排开水重力与V排澄清"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "warship_limit",
+          "note": "液滴浮万吨舰理论vs分子层极限"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89"
+          ],
+          "function": "macro_condition",
+          "note": "连续可流水与压差条件+反问答疑"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "我们直接实验/有没有再少一点/所以/理论上呢/但实际上呢/所以现在大家觉得。",
+      "patterns": [
+        "直接实验",
+        "再少一点",
+        "理论vs实际"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我們直接實驗一下子",
+          "note": "直接实验一下子"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "有沒有這邊水再少一點",
+          "note": "再少一点"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "理論上呢",
+          "note": "理论上呢"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "但實際上呢",
+          "note": "但实际上呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "常识「水不能浮更重」vs实验浮起；理论可贴合浮起vs实际分子层无浮力；理想浮力vs表面张力粘连。",
+      "patterns": [
+        "常识vs实验",
+        "理论vs实际",
+        "浮力vs表面张力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "水怎麼可能浮起比自己還中了東西呢?",
+          "note": "怎能浮更重"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "木頭已經浮起來了",
+          "note": "真浮起来"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不行",
+          "note": "实际不行"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "那這時表面張力可能會比福利更顯",
+          "note": "表面张力更显"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场能否浮起；「你就说浮不浮」逼问；结尾「水底球蹲受浮力吗」留钩。",
+      "patterns": [
+        "开场能否",
+        "浮不浮逼问",
+        "结尾留钩问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "已經水流浮起十進木頭嗎?",
+          "note": "能浮起吗"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你就說浮不浮吧",
+          "note": "浮不浮吧"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "受到福利吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "330克木头+150克水；30克薄层水；液滴0.05毫升；250米×40米军舰尺度。",
+      "patterns": [
+        "烧杯木头称重",
+        "30克薄层",
+        "液滴军舰尺度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它的重量是330克左右",
+          "note": "330克木头"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "小心地加入30克水",
+          "note": "30克水"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "液滴水是0.05號升",
+          "note": "0.05毫升"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "對於一艘長250米",
+          "note": "长250米"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "F浮=ρ液gV排落到「水面涨到这么高」的V排；分子层算成约200平方米面积。",
+      "patterns": [
+        "公式落地涨水",
+        "分子层面积算"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "等於它排開水的重力",
+          "note": "排开水重力"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "水面漲到了這麼高",
+          "note": "水面涨到这么高"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "也大開就兩百平方米的面積",
+          "note": "两百平方米"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「肯定不行」「真浮起来」「你就说浮不浮」「根本就没浮力概念」。",
+      "patterns": [
+        "肯定不行",
+        "浮不浮逼判",
+        "没浮力概念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "肯定不行"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你就說浮不浮吧",
+          "note": "浮不浮吧"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "這根本就沒有俗歷的概念",
+          "note": "没俗历概念"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先否定再被实验纠正；澄清「水都没多少怎排开」的误解为排开体积定义。",
+      "patterns": [
+        "先否后纠",
+        "排开体积澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "先说不行"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "木頭已經浮起來了",
+          "note": "实验打脸"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但V牌說的其實是",
+          "note": "V牌说的其实是"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句实验快切→原理讲解中速→军舰极限计算加速→条件边界收束留问。",
+      "patterns": [
+        "实验快切",
+        "原理中速",
+        "计算加速",
+        "留问收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "把它扔到燒杯裡",
+          "note": "扔到烧杯"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "物體受到的浮力",
+          "note": "浮力定义"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "你可以算一下",
+          "note": "你可以算一下"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "留问"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "repair_like",
+          "form": "ASR乱码：阿基女的辈論/福利/劇能"
+        },
+        {
+          "type": "filler_like",
+          "form": "呢"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "所以已經水確實可以浮起十進木頭",
+          "note": "所以已經水"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "專門有的名字叫阿基女的辈論",
+          "note": "阿基女的辈論"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "理論上呢",
+          "note": "理论上呢"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "自信否定→实验惊喜→逼问得意→原理冷静→军舰打击感→开放疑问。",
+      "patterns": [
+        "否定→惊喜→得意→冷静→打击→疑问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "肯定不行"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "真浮起來啊",
+          "note": "真浮起来啊"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你就說浮不浮吧",
+          "note": "浮不浮"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "受浮力吗"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「一斤水浮十斤木」证成后，落到宏观浮力条件，再抛水底球新问续杯。",
+      "patterns": [
+        "证成后设边界",
+        "新问续杯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "所以已經水確實可以浮起十進木頭",
+          "note": "确实可浮十斤"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "才能形成理想的福利",
+          "note": "理想福利条件"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "球蹲问"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注口令，以「现在大家觉得…？」互动提问收。",
+      "patterns": [
+        "提问互动收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s87",
+          "snippet": "所以現在大家覺得",
+          "note": "现在大家觉得"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "受到福利吗"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "繁简混杂ASR、阿基女的辈論等错听、口语「你就说浮不浮」，实验口播感强。",
+      "patterns": [
+        "ASR错听",
+        "浮不浮口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "專門有的名字叫阿基女的辈論",
+          "note": "阿基女的"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你就說浮不浮吧",
+          "note": "浮不浮吧"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（福利/劇能/俗历）；结尾问题被损坏；部分诗句乱入干扰。",
+      "patterns": [
+        "ASR损关键术语",
+        "诗句乱入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "乎如夜春風來",
+          "note": "乎如夜春风来"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "福利吗乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「有没有再少一点」迭代实验；「你可以算一下」当众推演分子极限。",
+      "patterns": [
+        "迭代减水实验",
+        "当众计算"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "有沒有這邊水再少一點",
+          "note": "再少一点"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "你可以算一下",
+          "note": "你可以算一下"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当可被常识误导的科普对象，用「你就说」拉当面见证。",
+      "patterns": [
+        "打脸常识观众",
+        "当面见证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "水怎麼可能浮起比自己還中了東西呢?",
+          "note": "怎可能浮更重"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你就說浮不浮吧",
+          "note": "你就说浮不浮"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "330克木/150克水；30克水；0.05毫升液滴；250×40米军舰；单分子约200㎡。",
+      "patterns": [
+        "称重锚",
+        "液滴锚",
+        "军舰尺度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它的重量是330克左右",
+          "note": "330克"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "只有30克",
+          "note": "只有30克"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "對於一艘長250米",
+          "note": "250米军舰"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密设问→实验中密→原理高密→分子计算更高密→条件说明中密→提问低密。",
+      "patterns": [
+        "设问低",
+        "原理高",
+        "计算更高",
+        "提问低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "已經水流浮起十進木頭嗎?",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "等於它排開水的重力",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "有1.67穿一10-21次方的分子",
+          "note": "分子数"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "受到福利嗎",
+          "note": "提问"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短实验指令句与短判断句交替；原理段稍长；计算段数字句密集。",
+      "patterns": [
+        "指令短句",
+        "判断短句",
+        "数字密集"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "把它扔到燒杯裡",
+          "note": "扔到烧杯裡"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "已經浮起來了",
+          "note": "已经浮起来了"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "液滴水是0.05號升",
+          "note": "0.05号升"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式打脸科普：先装常识派再实验打脸，边界处泼冷水防过度外推。",
+      "patterns": [
+        "装傻打脸",
+        "边界泼冷水"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "肯定不行"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不行",
+          "note": "实际不行"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "除了你是三體人的水滴",
+          "note": "除非三体水滴"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "肯定不行→真浮起来；30克浮十倍；浮力=排开水重；液滴浮不起军舰。",
+      "patterns": [
+        "打脸反转",
+        "30克十倍",
+        "液滴军舰否"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "真浮起來啊",
+          "note": "真浮起来"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "十倍於自身重量的木頭",
+          "note": "十倍重量"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "它能浮不起萬噸劇能",
+          "note": "浮不起万吨"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「先否后证+极限边界」科普节奏极适合观宇科学口播；需清洗ASR并保留称重数字锚。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "肯定不行啊",
+          "note": "先否后证"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "等於它排開水的重力",
+          "note": "原理句可迁移"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "但實際上呢",
+          "note": "理论实际对照"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s9",
+    "s27",
+    "s35",
+    "s74",
+    "s11",
+    "s57",
+    "s60",
+    "s3",
+    "s61",
+    "s78",
+    "s28",
+    "s89",
+    "s6",
+    "s15",
+    "s63",
+    "s68",
+    "s49",
+    "s67",
+    "s72",
+    "s41",
+    "s7",
+    "s34",
+    "s62",
+    "s29",
+    "s39",
+    "s10",
+    "s84",
+    "s87",
+    "s32",
+    "s25",
+    "s64",
+    "s18",
+    "s75"
+  ],
+  "fields_complete_25": true
+}

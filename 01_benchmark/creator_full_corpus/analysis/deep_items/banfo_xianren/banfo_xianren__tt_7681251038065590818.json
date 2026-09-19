@@ -1,0 +1,918 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7681251038065590818",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7681251038065590818/",
+  "source_sha256": "8eb35d96b6f026809d7052ac78622867221d1028cafc34a1700a89f613da3eb8",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 32,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 21,
+      "snippet": "最近这个世界真的太颠了，不信你看这个新闻。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "健身房还要客户出示结婚证。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 15,
+      "snippet": "(新闻来自新民晚报&后浪视频)"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "是不是很颠？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 23,
+      "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "真的，越符合逻辑，越颠。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "你说教练的操作合理吗？"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 23,
+      "snippet": "完全不合理，但没办法，符合了他自己的利益逻辑。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "这是结构性利益摩擦。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 42,
+      "snippet": "所有从健身房经营角度思考的都错了，这个问题不是健身房的视角，而是场馆自己教练要甩锅。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 29,
+      "snippet": "说白了，这件事情之所以这么离奇，归根究底还是教练不想背锅。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 93,
+      "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维护健身房的利益，健身房利益管他啥事儿，其他会员怎么想管他啥事儿，这又不是他的健身"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 41,
+      "snippet": "男朋友练得这么好，指导看起来又这么专业，健身房一堆摄像头拍下来有疑似外来教练指导。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 17,
+      "snippet": "回头老板问他怎么不管，他没法解释。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 48,
+      "snippet": "你说你们是男女朋友，你说的对，但这不能解决他老板对他是否尽责的质疑，免不了他被他老板收拾，扣钱。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 36,
+      "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 20,
+      "snippet": "他可以拿着这个作为对自己老板的免责证据。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 16,
+      "snippet": "再说一遍，健身房怎么样他无所谓。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 25,
+      "snippet": "他提要求的时候也没考虑健身房，他是为了，自己免责。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 19,
+      "snippet": "从客户的视角，会觉得他很过分，没道理。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 26,
+      "snippet": "他从他的视角，他觉得得有个证据给他能让老板不难为他。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 16,
+      "snippet": "哪怕闹大，他也得先保证他不粘锅。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 82,
+      "snippet": "甚至，闹大了，闹到公安了，反而证明了他尽职尽责了，而且老板还不能多说啥，因为老板多说两句，就没有教练去管是不是外来私教了，上一个管的已经被你干掉了，你队伍不用带"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 35,
+      "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "不粘锅是这样的。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 26,
+      "snippet": "甚至，他可能都没考虑那上面么多，他就是下意识想甩锅。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 30,
+      "snippet": "然后自然而然，大家做了自己觉得没问题的事情，最终出现了问题。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "这就叫，结构性利益摩擦。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 24,
+      "snippet": "这时候你看，当一个很颠的事情居然符合逻辑的时候。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "一切就更颠了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "只能说，我爱这个魔幻的世界。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「世界真的太颠了」+健身房要结婚证新闻钩子，立刻抛「不合理但十分符合逻辑」张力命题。",
+      "patterns": [
+        "太颠新闻钩",
+        "不合理但合逻辑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近这个世界真的太颠了，不信你看这个新闻。",
+          "note": "太颠了"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "健身房还要客户出示结婚证。",
+          "note": "出示结婚证"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "不合理但符合逻辑"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "新闻颠→不合理但合逻辑→非场馆视角是教练甩锅→KPI与摄像头免责→结婚证作免责证据→客户/教练视角对撞→结构性利益摩擦→爱魔幻世界收。",
+      "patterns": [
+        "甩锅动机链",
+        "免责证据",
+        "结构摩擦金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这是结构性利益摩擦。",
+          "note": "结构性利益摩擦"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "说白了，这件事情之所以这么离奇，归根究底还是教练不想背锅。",
+          "note": "不想背锅"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。",
+          "note": "结婚证免责"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "个人利益最优解"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就叫，结构性利益摩擦。",
+          "note": "结构性利益摩擦"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻的世界"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "news_hook",
+          "note": "太颠新闻与合逻辑命题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "coach_liability",
+          "note": "教练甩锅KPI与摄像头压力"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "dual_perspective",
+          "note": "客户vs教练视角对撞"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "structure_close",
+          "note": "结构摩擦命名与魔幻收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「更颠的是」递进；「说白了」降维；「所以才要求」因果；「再说一遍」强调；「你看」总结。",
+      "patterns": [
+        "更颠递进",
+        "说白了",
+        "所以才",
+        "再说一遍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "更颠的是"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "说白了，这件事情之所以这么离奇，归根究底还是教练不想背锅。",
+          "note": "说白了"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。",
+          "note": "所以才要求"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "再说一遍，健身房怎么样他无所谓。",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "你看"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "完全不合理vs十分符合逻辑；客户觉过分vs教练要免责证据；维护健身房利益vs只为自己不粘锅；闹大反证尽职。",
+      "patterns": [
+        "不合理/合逻辑",
+        "客户/教练视角",
+        "场馆利益/个人免责"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "不合理但合逻辑"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "从客户的视角，会觉得他很过分，没道理。",
+          "note": "客户觉得过分"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "他从他的视角，他觉得得有个证据给他能让老板不难为他。",
+          "note": "他的视角要证据"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "健身房利益管他啥事儿"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至，闹大了，闹到公安了，反而证明了他尽职尽责了，而且老板还不能多说啥，因为老板",
+          "note": "闹大反而尽职"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「是不是很颠」；「教练操作合理吗」自问自答推进利益逻辑。",
+      "patterns": [
+        "是不是很颠",
+        "自问自答合理吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "是不是很颠？",
+          "note": "是不是很颠"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "你说教练的操作合理吗？",
+          "note": "操作合理吗"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "完全不合理，但没办法，符合了他自己的利益逻辑。",
+          "note": "完全不合理"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "健身房结婚证新闻；男朋友练得好像外来私教；摄像头+老板问责扣钱；闹到公安反证尽职。",
+      "patterns": [
+        "新闻主例",
+        "外来私教嫌疑例",
+        "老板问责例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "健身房还要客户出示结婚证。",
+          "note": "结婚证新闻"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "男朋友练得这么好，指导看起来又这么专业，健身房一堆摄像头拍下来有疑似外来教练指导",
+          "note": "外来教练指导"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "回头老板问他怎么不管，他没法解释。",
+          "note": "老板问他怎么不管"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至，闹大了，闹到公安了，反而证明了他尽职尽责了，而且老板还不能多说啥，因为老板",
+          "note": "闹到公安"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「结构性利益摩擦」落到KPI/摄像头/结婚证免责；「不粘锅」落到扣钱与老板质疑。",
+      "patterns": [
+        "结构摩擦→KPI结婚证",
+        "不粘锅→扣钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这是结构性利益摩擦。",
+          "note": "结构性利益摩擦"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "KPI"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。",
+          "note": "结婚证"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你说你们是男女朋友，你说的对，但这不能解决他老板对他是否尽责的质疑，免不了他被他",
+          "note": "扣钱"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定完全不合理但合逻辑；问题不是健身房视角；不管何种情况针对客户都是他个人最优解。",
+      "patterns": [
+        "合逻辑断定",
+        "非场馆视角",
+        "个人最优解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "符合逻辑"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "所有从健身房经营角度思考的都错了，这个问题不是健身房的视角，而是场馆自己教练要甩",
+          "note": "不是健身房的视角"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "利益最优解"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说教练认为不认为外来私教都无所谓，收束到「可能都没考虑那么多，下意识甩锅」，降低阴谋论。",
+      "patterns": [
+        "下意识甩锅降调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "不管认为不认为"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "甚至，他可能都没考虑那上面么多，他就是下意识想甩锅。",
+          "note": "都没考虑那么多"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "甚至，他可能都没考虑那上面么多，他就是下意识想甩锅。",
+          "note": "下意识想甩锅"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短钩「太颠」→命题短句→长句拆KPI免责→视角对撞短切→结构摩擦反复点题→一句爱魔幻收。",
+      "patterns": [
+        "短钩",
+        "长句拆动机",
+        "点题反复",
+        "一句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近这个世界真的太颠了，不信你看这个新闻。",
+          "note": "太颠"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "KPI长句"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就叫，结构性利益摩擦。",
+          "note": "摩擦点题"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "戏谑震惊→越讲越冷的结构洞察→对教练免责的理解性凉感→「爱魔幻世界」玩世不恭收。",
+      "patterns": [
+        "戏谑震惊",
+        "冷洞察",
+        "凉感理解",
+        "玩世收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "是不是很颠？",
+          "note": "很颠"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这是结构性利益摩擦。",
+          "note": "结构摩擦"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "最优解"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "我爱魔幻"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「太颠/合逻辑」收束到再次「符合逻辑时一切更颠」+爱魔幻世界，强闭环。",
+      "patterns": [
+        "更颠闭环",
+        "魔幻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "合逻辑开"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这时候你看，当一个很颠的事情居然符合逻辑的时候。",
+          "note": "符合逻辑的时候"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "一切就更颠了。",
+          "note": "更颠了"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻的世界"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无行动CTA；以认知命名「结构性利益摩擦」和态度金句收束。",
+      "patterns": [
+        "命名认知无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "这就叫，结构性利益摩擦。",
+          "note": "结构性利益摩擦"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "我爱这个魔幻的世界"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「管他啥事儿」「不粘锅」「粘锅」口语；新闻来源标注；反复再说一遍，强半佛口吻。",
+      "patterns": [
+        "不粘锅口语",
+        "再说一遍",
+        "新闻标注"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "(新闻来自新民晚报&后浪视频)",
+          "note": "新闻来源"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "管他啥事儿"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "再说一遍，健身房怎么样他无所谓。",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不粘锅是这样的。",
+          "note": "不粘锅"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "单新闻样本外推；对客户权益与法规面几乎不谈；结尾玩世可能削弱建设性。",
+      "patterns": [
+        "单样本",
+        "缺法规面",
+        "玩世收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "健身房还要客户出示结婚证。",
+          "note": "单新闻"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻收"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式排除「从健身房经营角度」错误视角，再推教练免责链，思考路径外露。",
+      "patterns": [
+        "排除错视角",
+        "推免责链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "所有从健身房经营角度思考的都错了，这个问题不是健身房的视角，而是场馆自己教练要甩",
+          "note": "都错了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "说白了，这件事情之所以这么离奇，归根究底还是教练不想背锅。",
+          "note": "不想背锅"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。",
+          "note": "免责证据"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当看热闹的互联网人，用「你说…吗」拉对话，默认能共情客户愤怒再翻盘理解结构。",
+      "patterns": [
+        "看热闹对话",
+        "先怒后懂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "是不是很颠？",
+          "note": "是不是很颠"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "你说教练的操作合理吗？",
+          "note": "你说教练"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "从客户的视角，会觉得他很过分，没道理。",
+          "note": "从客户的视角"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "结婚证；摄像头；外来私教；老板扣钱；闹到公安；结构性利益摩擦。",
+      "patterns": [
+        "结婚证锚",
+        "摄像头",
+        "扣钱",
+        "公安"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "健身房还要客户出示结婚证。",
+          "note": "结婚证"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "男朋友练得这么好，指导看起来又这么专业，健身房一堆摄像头拍下来有疑似外来教练指导",
+          "note": "摄像头"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你说你们是男女朋友，你说的对，但这不能解决他老板对他是否尽责的质疑，免不了他被他",
+          "note": "扣钱"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至，闹大了，闹到公安了，反而证明了他尽职尽责了，而且老板还不能多说啥，因为老板",
+          "note": "公安"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩→动机长句高密→视角对撞中密→概念点题中密→态度句降密。",
+      "patterns": [
+        "动机高密",
+        "点题中密",
+        "态度降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "场馆教练不管认为不认为是外来私教，他的KPI都导致他必须走这么一步，他不是为了维",
+          "note": "KPI高密"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "最优解密"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "新闻钩→命题→纠视角→动机长述→证据逻辑→双视角→结构命名→更颠收。",
+      "patterns": [
+        "钩-命题-动机-双视角-命名-收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "健身房还要客户出示结婚证。",
+          "note": "钩"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "命题"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "所有从健身房经营角度思考的都错了，这个问题不是健身房的视角，而是场馆自己教练要甩",
+          "note": "纠视角"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "从客户的视角，会觉得他很过分，没道理。",
+          "note": "双视角"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就叫，结构性利益摩擦。",
+          "note": "命名"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "结构主义吐槽者：不站队道德审判，专挖利益最优解，凉薄又清醒。",
+      "patterns": [
+        "结构吐槽",
+        "凉薄清醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "你看，从他的角度，不管什么情况下，针对客户，都是对他个人的利益最优解。",
+          "note": "利益最优解"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "甚至，他可能都没考虑那上面么多，他就是下意识想甩锅。",
+          "note": "下意识甩锅"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "爱魔幻"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「不合理但十分符合逻辑」；「结构性利益摩擦」；「不粘锅」；「我爱这个魔幻的世界」。",
+      "patterns": [
+        "不合理但合逻辑",
+        "结构摩擦",
+        "不粘锅",
+        "魔幻世界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "更颠的是，这件事情完全不合理，但十分符合逻辑。",
+          "note": "合逻辑"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这是结构性利益摩擦。",
+          "note": "结构性利益摩擦"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不粘锅是这样的。",
+          "note": "不粘锅"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻的世界"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「荒诞新闻→纠错视角→个人免责最优解→结构摩擦命名」是高迁移组织行为/职场洞察模板。",
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "所有从健身房经营角度思考的都错了，这个问题不是健身房的视角，而是场馆自己教练要甩",
+          "note": "纠视角"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以才要求有个结婚证，有结婚证的话，有问题是结婚证的问题，不是他的问题。",
+          "note": "免责证据"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就叫，结构性利益摩擦。",
+          "note": "结构摩擦"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s6",
+    "s10",
+    "s12",
+    "s17",
+    "s25",
+    "s29",
+    "s32",
+    "s1",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31"
+  ],
+  "fields_complete_25": true
+}

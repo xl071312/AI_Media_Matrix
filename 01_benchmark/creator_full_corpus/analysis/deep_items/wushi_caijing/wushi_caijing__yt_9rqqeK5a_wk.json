@@ -1,0 +1,578 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_9rqqeK5a_wk",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=9rqqeK5a_wk",
+  "source_sha256": "4d6ed27cc4c453574fbbbed107c24602b2f2cadd1328b1ef1a0dc454512ec3ae",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 53,
+  "fields": {
+    "opening_move": {
+      "summary": "从恋爱综艺八卦与违规风险切入，预告故事精彩但放不出来。",
+      "patterns": [
+        "风险八卦钩子",
+        "精彩但不可说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "中文互聯網上的戀愛總�",
+          "note": "恋爱综艺"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "設計其實故事到還挺精彩的",
+          "note": "故事挺精彩"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "放不出来"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "恋爱综艺IP热度短、无持续内容力、PR风险高、合作难；试图引出更大定义后被ASR循环截断。",
+      "patterns": [
+        "短热度加高PR风险",
+        "概念升级意图中断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "戀愛總益塑造的IP今天是在非常小地段時間",
+          "note": "短时间热度"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "不但沒有持續出動內容的能力",
+          "note": "无持续内容力"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "强PR风险"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "對 就是聰者",
+          "note": "更大定义"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "恋爱综艺风险与不可播八卦",
+          "note": "法律取向风险暗示"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s20"
+          ],
+          "function": "总结短热度无续航高PR合作难",
+          "note": "清晰论断段"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "提问网红是谁并预告更大定义",
+          "note": "过渡到下一概念"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s33",
+            "s36",
+            "s43",
+            "s52"
+          ],
+          "function": "ASR崩溃循环段几乎无信息",
+          "note": "标记为噪声单元"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "简单总结一下收束；但我可以给你们请出更大定义本应换挡，随后被循环句打断。",
+      "patterns": [
+        "简单总结收束",
+        "更大定义升级过渡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "簡單總結一下",
+          "note": "简单总结"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但我可以給你們請出一個更大的FINITION",
+          "note": "更大定义"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "故事精彩对比放不出来；短时关注对比无持续内容。",
+      "patterns": [
+        "精彩对比不可说",
+        "短热对比无续航"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "設計其實故事到還挺精彩的",
+          "note": "精彩"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "放不出"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "戀愛總益塑造的IP今天是在非常小地段時間",
+          "note": "短时间"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "不但沒有持續出動內容的能力",
+          "note": "无持续"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "网红是谁我估计你名字都搭不上，挑战记忆；另有孤立问号。",
+      "patterns": [
+        "记忆挑战问",
+        "孤立问号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "?",
+          "note": "孤立问号"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "網紅是誰",
+          "note": "网红是谁"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "我估計你迷失都搭不上來",
+          "note": "名字搭不上"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "恋爱综艺IP与韩国电竞IP被提及作对照，细节被噪声吞没。",
+      "patterns": [
+        "恋爱综艺例",
+        "韩国电竞IP对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "中文互聯網上的戀愛總�",
+          "note": "恋爱综艺"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而且人可能會回來一些韓國電IP",
+          "note": "韩国电IP"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "PR风险抽象后未能落到具体事件，停留在总结句。",
+      "patterns": [
+        "抽象风险缺少事件落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "PR风险"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "戀愛總益塑造的IP今天是在非常小地段時間",
+          "note": "短时间热度"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言恋爱综艺IP没有持续出内容能力且有非常强的PR风险。",
+      "patterns": [
+        "双否定能力判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "不但沒有持續出動內容的能力",
+          "note": "没有持续能力"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "非常强PR风险"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "几乎未见清晰自纠；可惜放不出来是表达限制声明而非观点修正。",
+      "patterns": [
+        "表达限制声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "放不出来"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前15句尚有论证节奏，此后陷入同一长句循环，节奏死亡。",
+      "patterns": [
+        "前段正常后段循环停摆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "簡單總結一下",
+          "note": "总结节奏"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "循环开始"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "对就是确认口语",
+        "超长估计你循环口误或ASR",
+        "孤立问号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "對 就是聰者",
+          "note": "对就是"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "循环句"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "?",
+          "note": "问号"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "八卦兴奋，总结冷静，提问挑衅，噪声段情绪不可辨。",
+      "patterns": [
+        "兴奋到冷静到挑衅到不可辨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "設計其實故事到還挺精彩的",
+          "note": "精彩兴奋"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "簡單總結一下",
+          "note": "冷静总结"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "網紅是誰",
+          "note": "挑衅问"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "未能闭环；在更大定义处被ASR循环截断，无回收开场风险命题。",
+      "patterns": [
+        "开放中断无闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但我可以給你們請出一個更大的FINITION",
+          "note": "更大定义未展开"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "估計",
+          "note": "估计残片结尾"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无CTA；结尾不具备行动号召功能。",
+      "patterns": [
+        "无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "估計",
+          "note": "残片无号召"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "放不出来的审查暗示与口语挑衅问有人味；后段循环更像坏转写。",
+      "patterns": [
+        "审查暗示人味",
+        "循环非文风"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "放不出来"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "我估計你迷失都搭不上來",
+          "note": "名字搭不上"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "半数以上句子为同一ASR循环；狼人杀主题在可见窗口几乎未出现；分析可用性极低。",
+      "patterns": [
+        "循环占比过高",
+        "题面信息缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "無論是機動和電視頻中的8個月",
+          "note": "八个月循环雏形"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "完整循环"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "估計你迷失都搇著的電視頻中的8個月",
+          "note": "仍在循环"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "简单总结一下外显归纳；请出更大定义外显概念升级意图。",
+      "patterns": [
+        "归纳外显",
+        "概念升级意图外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "簡單總結一下",
+          "note": "总结"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但我可以給你們請出一個更大的FINITION",
+          "note": "更大定义"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "假设听众记不住恋爱综艺网红名字，用遗忘羞辱拉动好奇。",
+      "patterns": [
+        "遗忘羞辱拉好奇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我估計你迷失都搭不上來",
+          "note": "名字搭不上"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "几乎无稳定数字锚；八个月在循环中反复出现但语义不明。",
+      "patterns": [
+        "脆弱时间锚八个月"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "無論是機動和電視頻中的8個月",
+          "note": "八个月"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "s1到s15中高密，s16后断崖降至近零。",
+      "patterns": [
+        "前段峰后段谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "风险高密"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "密度归零"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "风险铺垫到总结论断到提问升级到流程断裂。",
+      "patterns": [
+        "升级前断裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "簡單總結一下",
+          "note": "总结"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "網紅是誰",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "断裂"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "八卦审查边缘的毒舌观察者，但人格被坏转写淹没。",
+      "patterns": [
+        "毒舌观察被噪声淹没"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "不可说"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "PR风险判断"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "故事精彩但放不出来；短热度加强PR风险仍可记；循环段无记忆点。",
+      "patterns": [
+        "精彩不可说",
+        "短热加PR"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不過可惜放不出來",
+          "note": "放不出来"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且有非常強的PR風險",
+          "note": "PR风险"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "可见有效信息过短且后半损坏，不能作为观屿迁移母本；仅可抽取短热IP加PR风险一句判断另找干净源。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "不但沒有持續出動內容的能力",
+          "note": "可抽判断"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我估計你迷失都搇著的電視頻中的8個月",
+          "note": "损坏不可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s6",
+    "s7",
+    "s12",
+    "s14",
+    "s15",
+    "s25",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s8",
+    "s10",
+    "s11",
+    "s13",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s33",
+    "s36",
+    "s43",
+    "s52",
+    "s9",
+    "s53",
+    "s16"
+  ],
+  "fields_complete_25": true
+}

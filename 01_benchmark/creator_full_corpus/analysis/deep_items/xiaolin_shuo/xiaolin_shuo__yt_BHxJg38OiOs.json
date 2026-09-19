@@ -1,0 +1,1574 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_BHxJg38OiOs",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=BHxJg38OiOs",
+  "source_sha256": "360a6bcf751323d2a73f23142466586b63c4c7e0746833ca624405e91d91591f",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "客单价不到8块"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "年营收却能远超百亿"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "国内65万家奶茶店里头"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "它的数量"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "几乎是第二名到第五名的总和"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 4,
+      "snippet": "哎说到这"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "你应该已经猜出来它是谁了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 2,
+      "snippet": "就是"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "小Lin奶茶店"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "不不不咱没有那么厉害啊"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "是蜜雪冰城"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "你看啊这是2023年"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "全球连锁餐饮品牌门店数量的排行榜"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "蜜雪冰城超过了36,000家"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "前几名里头"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 15,
+      "snippet": "至少都是那种50多年的老品牌了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "而蜜雪真正起来也就是近十来年的事"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "而且它依然保持着强劲的增长"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "你比如说它那个招牌的柠檬水"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "一年能卖出10亿杯"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "想当年香飘飘著名的广告语说"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "一年7亿杯"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 6,
+      "snippet": "能绕地球两圈"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "蜜雪2023年前三个季度"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "出货量就58亿杯了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "这都不知道能绕地球多少圈了是吧"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "你看啊"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 15,
+      "snippet": "现在火爆的茶饮品牌那是数不胜数"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "喜茶奈雪古茗茶百道霸王茶姬对吧"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "非常多但是他们是有区别的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "最主要的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 12,
+      "snippet": "就是各自都有自己的价格带"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "而蜜雪呢"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 16,
+      "snippet": "它一直深耕的都是10元以下的市场"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "毫不夸张的说哈"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 13,
+      "snippet": "在这个价格带是独一档的存在"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "其实吧你看高价市场"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "它可能玩法很多"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "但是越到平价的市场呢"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 14,
+      "snippet": "它其实是越需要商业能力的支撑"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 1,
+      "snippet": "哎"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 15,
+      "snippet": "咱们就来剖析一下它这个商业秘密"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "蜜雪冰城的创始人叫张红超"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "小时候家境比较贫寒"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "初中刚毕业"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "就干了不少那种谋出路的活"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 15,
+      "snippet": "什么修摩托 卖食品 养殖都干过"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 13,
+      "snippet": "后来到河南财经政法大学读书"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "还在上学的时候"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 17,
+      "snippet": "1997年就开始了自己的第一次创业"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 16,
+      "snippet": "它是一个披着奶茶外衣的供应链公司"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 5,
+      "snippet": "哎这一点啊"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 13,
+      "snippet": "从它的财务数据上也非常明显"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 15,
+      "snippet": "比如你看这个是蜜雪的招股说明书"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 17,
+      "snippet": "2023年前三季度收入是150多亿"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 5,
+      "snippet": "其中98%"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 6,
+      "snippet": "主要都来源于"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 12,
+      "snippet": "向加盟商的商品和设备销售"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 15,
+      "snippet": "加盟费和相关的服务只占1.8%"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 7,
+      "snippet": "所以你看到没有"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 17,
+      "snippet": "它根本不是一个ToC的卖奶茶的公司"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 3,
+      "snippet": "基本上"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 16,
+      "snippet": "就是一个纯纯的ToB的供应链公司"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 15,
+      "snippet": "好像更像是一个奶茶行业的卖铲人"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 9,
+      "snippet": "而卖铲人这个角色哈"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 11,
+      "snippet": "给蜜雪又带来了一个好处"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 13,
+      "snippet": "这也是它供应链的第三个好处"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 10,
+      "snippet": "就是帮助蜜雪降低风险"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 6,
+      "snippet": "这个怎么讲呢"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 11,
+      "snippet": "你比如说蜜雪的尤力克柠"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 15,
+      "snippet": "它现在也会供应给其他的奶茶品牌"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 13,
+      "snippet": "这个奶茶品牌可以一茬一茬的"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 4,
+      "snippet": "常换常新"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 12,
+      "snippet": "但如果我作为供应链的上游"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 8,
+      "snippet": "我就是个卖柠檬的"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 17,
+      "snippet": "那只要柠檬茶 柠檬水这个市场在增长"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 9,
+      "snippet": "不管奶茶品牌怎么样"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 5,
+      "snippet": "我就在增长"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 13,
+      "snippet": "就好像新能源汽车的品牌对吧"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 7,
+      "snippet": "来一波走一波的"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 11,
+      "snippet": "但如果我是个卖锂电池的"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 13,
+      "snippet": "只要整体新能源的市场在增长"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 6,
+      "snippet": "那我就在增长"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 3,
+      "snippet": "而不会"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 14,
+      "snippet": "受某几个新能源汽车品牌的影响"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 5,
+      "snippet": "所以你看啊"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 10,
+      "snippet": "它越往供应链的上游走"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 12,
+      "snippet": "它其实抗风险能力是越强的"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 11,
+      "snippet": "也可以帮它去尽量的避开"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 10,
+      "snippet": "奶茶可以说是红海市场"
+    },
+    {
+      "sentence_id": "s542",
+      "char_len": 15,
+      "snippet": "通过雪王这个IP跟用户产生连接"
+    },
+    {
+      "sentence_id": "s543",
+      "char_len": 8,
+      "snippet": "去建立用户的心智"
+    },
+    {
+      "sentence_id": "s544",
+      "char_len": 12,
+      "snippet": "你看啊经过咱们这么一分析"
+    },
+    {
+      "sentence_id": "s545",
+      "char_len": 7,
+      "snippet": "蜜雪冰城乍一看"
+    },
+    {
+      "sentence_id": "s546",
+      "char_len": 13,
+      "snippet": "好像是个连锁的现制茶饮公司"
+    },
+    {
+      "sentence_id": "s547",
+      "char_len": 4,
+      "snippet": "仔细一看"
+    },
+    {
+      "sentence_id": "s548",
+      "char_len": 3,
+      "snippet": "发现哎"
+    },
+    {
+      "sentence_id": "s549",
+      "char_len": 9,
+      "snippet": "原来是个供应链公司"
+    },
+    {
+      "sentence_id": "s550",
+      "char_len": 13,
+      "snippet": "现在又要拓展成一个文化公司"
+    },
+    {
+      "sentence_id": "s551",
+      "char_len": 6,
+      "snippet": "你是不是感觉"
+    },
+    {
+      "sentence_id": "s552",
+      "char_len": 12,
+      "snippet": "奶茶行业的门道还是挺深的"
+    },
+    {
+      "sentence_id": "s553",
+      "char_len": 3,
+      "snippet": "虽说哈"
+    },
+    {
+      "sentence_id": "s554",
+      "char_len": 13,
+      "snippet": "蜜雪冰城它从门店的数量来看"
+    },
+    {
+      "sentence_id": "s555",
+      "char_len": 8,
+      "snippet": "已经紧逼星巴克了"
+    },
+    {
+      "sentence_id": "s556",
+      "char_len": 14,
+      "snippet": "但是从营收全球化的程度来看呢"
+    },
+    {
+      "sentence_id": "s557",
+      "char_len": 11,
+      "snippet": "它肯定还有很长的路要走"
+    },
+    {
+      "sentence_id": "s558",
+      "char_len": 13,
+      "snippet": "要成为一家标杆性的茶饮品牌"
+    },
+    {
+      "sentence_id": "s559",
+      "char_len": 7,
+      "snippet": "它也有很多挑战"
+    },
+    {
+      "sentence_id": "s560",
+      "char_len": 3,
+      "snippet": "比如说"
+    },
+    {
+      "sentence_id": "s561",
+      "char_len": 16,
+      "snippet": "它现在主要拓展的还都是发展中国家"
+    },
+    {
+      "sentence_id": "s562",
+      "char_len": 13,
+      "snippet": "未来发达国家它能不能打进去"
+    },
+    {
+      "sentence_id": "s563",
+      "char_len": 13,
+      "snippet": "这个性价比的路线能不能走通"
+    },
+    {
+      "sentence_id": "s564",
+      "char_len": 11,
+      "snippet": "和加盟商合作的这个模式"
+    },
+    {
+      "sentence_id": "s565",
+      "char_len": 6,
+      "snippet": "需不需要调整"
+    },
+    {
+      "sentence_id": "s566",
+      "char_len": 6,
+      "snippet": "包括现在这个"
+    },
+    {
+      "sentence_id": "s567",
+      "char_len": 16,
+      "snippet": "IP战略从长期看效果到底会怎么样"
+    },
+    {
+      "sentence_id": "s568",
+      "char_len": 4,
+      "snippet": "这些问题"
+    },
+    {
+      "sentence_id": "s569",
+      "char_len": 13,
+      "snippet": "就交给蜜雪冰城自己去思考吧"
+    },
+    {
+      "sentence_id": "s570",
+      "char_len": 9,
+      "snippet": "我得赶紧去筹划一下"
+    },
+    {
+      "sentence_id": "s571",
+      "char_len": 10,
+      "snippet": "咱的小Lin奶茶店了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "客单价<8却营收破百亿+门店数碾压的反差钩子，假称「小Lin奶茶店」再纠正蜜雪冰城。",
+      "patterns": [
+        "反差数据钩",
+        "假认亲再纠正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "客单价不到8块",
+          "note": "客单价不到8块"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "年营收却能远超百亿",
+          "note": "营收远超百亿"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "小Lin奶茶店",
+          "note": "小Lin奶茶店"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "是蜜雪冰城",
+          "note": "是蜜雪冰城"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "门店与杯量统治力→深耕10元下价格带→创始人草根创业→实质是ToB供应链/卖铲人→IP文化延伸与挑战。",
+      "patterns": [
+        "规模统治",
+        "价格带",
+        "创业史",
+        "供应链本质",
+        "IP挑战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "蜜雪冰城超过了36,000家",
+          "note": "超36000家"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "它一直深耕的都是10元以下的市场",
+          "note": "10元以下"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "蜜雪冰城的创始人叫张红超",
+          "note": "张红超"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "它是一个披着奶茶外衣的供应链公司",
+          "note": "供应链公司"
+        },
+        {
+          "sentence_id": "s550",
+          "snippet": "现在又要拓展成一个文化公司",
+          "note": "拓展成文化公司"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "scale_hook_brand",
+          "note": "规模反差与品牌点名纠偏"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "priceband_founder",
+          "note": "价格带差异与创始人创业史引入"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s266",
+            "s267",
+            "s268",
+            "s269",
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279",
+            "s280",
+            "s281",
+            "s282",
+            "s283",
+            "s284",
+            "s285",
+            "s286",
+            "s287"
+          ],
+          "function": "supply_chain_reveal",
+          "note": "招股书揭示ToB供应链本质"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s288",
+            "s289",
+            "s290",
+            "s291",
+            "s292",
+            "s293",
+            "s294",
+            "s295",
+            "s296",
+            "s297",
+            "s298",
+            "s299",
+            "s300",
+            "s301",
+            "s302",
+            "s303",
+            "s304",
+            "s305",
+            "s542",
+            "s543",
+            "s544",
+            "s545",
+            "s546",
+            "s547"
+          ],
+          "function": "upstream_risk_hedge",
+          "note": "上游卖铲抗风险类比新能源"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s548",
+            "s549",
+            "s550",
+            "s551",
+            "s552",
+            "s553",
+            "s554",
+            "s555",
+            "s556",
+            "s557",
+            "s558",
+            "s559",
+            "s560",
+            "s561",
+            "s562",
+            "s563",
+            "s564",
+            "s565",
+            "s566",
+            "s567",
+            "s568",
+            "s569",
+            "s570",
+            "s571"
+          ],
+          "function": "ip_and_outlook",
+          "note": "雪王IP与全球化挑战收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「哎说到这」「你看啊」「所以你看到没有」「经过咱们这么一分析」。",
+      "patterns": [
+        "哎说到这",
+        "你看啊",
+        "所以看到没有",
+        "一分析"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "哎说到这",
+          "note": "哎说到这"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你看啊这是2023年",
+          "note": "你看啊"
+        },
+        {
+          "sentence_id": "s275",
+          "snippet": "所以你看到没有",
+          "note": "所以你看到没有"
+        },
+        {
+          "sentence_id": "s544",
+          "snippet": "你看啊经过咱们这么一分析",
+          "note": "经过咱们一分析"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "蜜雪 vs 喜茶奈雪等价格带；加盟费1.8% vs 商品设备销售98%；ToC表象 vs ToB实质。",
+      "patterns": [
+        "价格带对照",
+        "收入结构对照",
+        "ToC vs ToB"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "喜茶奈雪古茗茶百道霸王茶姬对吧",
+          "note": "喜茶奈雪古茗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "它一直深耕的都是10元以下的市场",
+          "note": "10元以下"
+        },
+        {
+          "sentence_id": "s271",
+          "snippet": "其中98%",
+          "note": "其中98%"
+        },
+        {
+          "sentence_id": "s274",
+          "snippet": "加盟费和相关的服务只占1.8%",
+          "note": "只占1.8%"
+        },
+        {
+          "sentence_id": "s276",
+          "snippet": "它根本不是一个ToC的卖奶茶的公司",
+          "note": "不是ToC"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你应该已经猜出来」「这个怎么讲呢」「你是不是感觉门道挺深」互动推进。",
+      "patterns": [
+        "猜谜互动",
+        "怎么讲",
+        "门道确认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "你应该已经猜出来它是谁了",
+          "note": "应该已经猜出来"
+        },
+        {
+          "sentence_id": "s284",
+          "snippet": "这个怎么讲呢",
+          "note": "这个怎么讲呢"
+        },
+        {
+          "sentence_id": "s551",
+          "snippet": "你是不是感觉",
+          "note": "你是不是感觉"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "柠檬水10亿杯对香飘飘7亿；招股书收入结构；尤力克柠外供；新能源电池卖铲类比。",
+      "patterns": [
+        "杯量对比例",
+        "招股书例",
+        "柠檬外供例",
+        "电池类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一年能卖出10亿杯",
+          "note": "10亿杯"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一年7亿杯",
+          "note": "一年7亿杯"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "比如你看这个是蜜雪的招股说明书",
+          "note": "招股说明书"
+        },
+        {
+          "sentence_id": "s285",
+          "snippet": "你比如说蜜雪的尤力克柠",
+          "note": "尤力克柠"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "但如果我是个卖锂电池的",
+          "note": "卖锂电池的"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "商业秘密抽象→招股书98%收入结构；抗风险抽象→柠檬/电池上游类比。",
+      "patterns": [
+        "秘密→财报结构",
+        "抗风险→上游类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "咱们就来剖析一下它这个商业秘密",
+          "note": "剖析商业秘密"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "向加盟商的商品和设备销售",
+          "note": "商品和设备销售"
+        },
+        {
+          "sentence_id": "s290",
+          "snippet": "我就是个卖柠檬的",
+          "note": "卖柠檬的"
+        },
+        {
+          "sentence_id": "s303",
+          "snippet": "它其实抗风险能力是越强的",
+          "note": "抗风险越强"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「独一档的存在」「纯纯的ToB供应链」「奶茶行业的卖铲人」。",
+      "patterns": [
+        "独一档",
+        "纯纯ToB",
+        "卖铲人定性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "在这个价格带是独一档的存在",
+          "note": "独一档"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "就是一个纯纯的ToB的供应链公司",
+          "note": "纯纯的ToB"
+        },
+        {
+          "sentence_id": "s279",
+          "snippet": "好像更像是一个奶茶行业的卖铲人",
+          "note": "卖铲人"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "故意说「小Lin奶茶店」后立刻「不不不咱没有那么厉害」纠正为蜜雪。",
+      "patterns": [
+        "玩笑认亲纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "小Lin奶茶店",
+          "note": "小Lin奶茶店"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "不不不咱没有那么厉害啊",
+          "note": "不不不没那么厉害"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "是蜜雪冰城",
+          "note": "是蜜雪冰城"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "反差钩子快→价格带对比中速→财报揭秘加速→类比讲解拉长→挑战清单慢收。",
+      "patterns": [
+        "钩子快",
+        "对比中",
+        "揭秘加速",
+        "类比拉长",
+        "清单慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "几乎是第二名到第五名的总和",
+          "note": "第二到第五总和"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "它一直深耕的都是10元以下的市场",
+          "note": "10元以下"
+        },
+        {
+          "sentence_id": "s271",
+          "snippet": "其中98%",
+          "note": "98%"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "就好像新能源汽车的品牌对吧",
+          "note": "新能源类比"
+        },
+        {
+          "sentence_id": "s560",
+          "snippet": "比如说",
+          "note": "比如说挑战"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "惊讶规模→玩笑认亲轻松→揭秘供应链恍然→类比顿悟→对挑战审慎留白。",
+      "patterns": [
+        "惊讶",
+        "轻松",
+        "恍然",
+        "顿悟",
+        "审慎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "蜜雪冰城超过了36,000家",
+          "note": "36000家"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "不不不咱没有那么厉害啊",
+          "note": "不不不"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "它是一个披着奶茶外衣的供应链公司",
+          "note": "供应链公司"
+        },
+        {
+          "sentence_id": "s279",
+          "snippet": "好像更像是一个奶茶行业的卖铲人",
+          "note": "卖铲人"
+        },
+        {
+          "sentence_id": "s569",
+          "snippet": "就交给蜜雪冰城自己去思考吧",
+          "note": "交给蜜雪思考"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "三层身份复盘（茶饮→供应链→文化）后留挑战题，玩笑收「筹划小Lin奶茶店」。",
+      "patterns": [
+        "三层复盘",
+        "挑战留白",
+        "玩笑回扣开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s546",
+          "snippet": "好像是个连锁的现制茶饮公司",
+          "note": "连锁茶饮公司"
+        },
+        {
+          "sentence_id": "s549",
+          "snippet": "原来是个供应链公司",
+          "note": "供应链公司"
+        },
+        {
+          "sentence_id": "s550",
+          "snippet": "现在又要拓展成一个文化公司",
+          "note": "文化公司"
+        },
+        {
+          "sentence_id": "s571",
+          "snippet": "咱的小Lin奶茶店了",
+          "note": "小Lin奶茶店"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注CTA，以开放问题清单+自我玩笑收束。",
+      "patterns": [
+        "开放问题",
+        "玩笑收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s568",
+          "snippet": "这些问题",
+          "note": "这些问题"
+        },
+        {
+          "sentence_id": "s571",
+          "snippet": "咱的小Lin奶茶店了",
+          "note": "小Lin奶茶店了"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "假认亲纠正、香飘飘绕地球梗、卖铲人口语、招股书具体占比，强讲解现场感。",
+      "patterns": [
+        "假认亲",
+        "绕地球梗",
+        "卖铲人",
+        "招股占比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "小Lin奶茶店",
+          "note": "小Lin奶茶店"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "能绕地球两圈",
+          "note": "绕地球两圈"
+        },
+        {
+          "sentence_id": "s279",
+          "snippet": "好像更像是一个奶茶行业的卖铲人",
+          "note": "卖铲人"
+        },
+        {
+          "sentence_id": "s274",
+          "snippet": "加盟费和相关的服务只占1.8%",
+          "note": "1.8%"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口大幅跳号（创业史中段与结尾挑战之间大段缺失）；长视频信息截断。",
+      "patterns": [
+        "跳号截断",
+        "中段缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "1997年就开始了自己的第一次创业",
+          "note": "创业后跳号"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "它是一个披着奶茶外衣的供应链公司",
+          "note": "跳入供应链"
+        },
+        {
+          "sentence_id": "s542",
+          "snippet": "通过雪王这个IP跟用户产生连接",
+          "note": "再跳IP段"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "「咱们就来剖析商业秘密」→财报验证→「这一点从财务数据上也非常明显」。",
+      "patterns": [
+        "剖析声明",
+        "财报验证路径"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "咱们就来剖析一下它这个商业秘密",
+          "note": "剖析商业秘密"
+        },
+        {
+          "sentence_id": "s268",
+          "snippet": "从它的财务数据上也非常明显",
+          "note": "财务数据上也明显"
+        },
+        {
+          "sentence_id": "s275",
+          "snippet": "所以你看到没有",
+          "note": "所以你看到没有"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当能猜品牌的茶饮消费者，再升级为看懂供应链的商业课学生。",
+      "patterns": [
+        "猜品牌消费者",
+        "商业课学生"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "你应该已经猜出来它是谁了",
+          "note": "应该已经猜出来"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "咱们就来剖析一下它这个商业秘密",
+          "note": "剖析商业秘密"
+        },
+        {
+          "sentence_id": "s551",
+          "snippet": "你是不是感觉",
+          "note": "门道挺深"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "36000家门店、10亿杯柠檬水、150亿收入中98%/1.8%、客单价<8。",
+      "patterns": [
+        "门店数",
+        "杯量",
+        "收入结构",
+        "客单价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "蜜雪冰城超过了36,000家",
+          "note": "36000家"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "一年能卖出10亿杯",
+          "note": "10亿杯"
+        },
+        {
+          "sentence_id": "s270",
+          "snippet": "2023年前三季度收入是150多亿",
+          "note": "150多亿"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "客单价不到8块",
+          "note": "不到8块"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数据高密→创业史中密→财报揭秘高密峰→类比中密→挑战清单中低密。",
+      "patterns": [
+        "高密钩",
+        "中密史",
+        "高密财报",
+        "中密类比",
+        "清单收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "几乎是第二名到第五名的总和",
+          "note": "总和"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "什么修摩托 卖食品 养殖都干过",
+          "note": "修摩托卖食品"
+        },
+        {
+          "sentence_id": "s271",
+          "snippet": "其中98%",
+          "note": "98%"
+        },
+        {
+          "sentence_id": "s297",
+          "snippet": "只要整体新能源的市场在增长",
+          "note": "新能源市场"
+        },
+        {
+          "sentence_id": "s562",
+          "snippet": "未来发达国家它能不能打进去",
+          "note": "发达国家"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "反差设谜→纠偏点名→价格带对照→财报揭底→上游类比→三层复盘，讲解流清晰。",
+      "patterns": [
+        "设谜纠偏",
+        "对照揭底",
+        "类比复盘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "是蜜雪冰城",
+          "note": "蜜雪冰城"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "它是一个披着奶茶外衣的供应链公司",
+          "note": "供应链"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "就好像新能源汽车的品牌对吧",
+          "note": "新能源"
+        },
+        {
+          "sentence_id": "s544",
+          "snippet": "你看啊经过咱们这么一分析",
+          "note": "一分析"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说「先骗认亲再拆财报」亲和讲解员，爱用生活类比降维商业本质。",
+      "patterns": [
+        "认亲玩笑",
+        "财报拆解",
+        "生活类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "不不不咱没有那么厉害啊",
+          "note": "没那么厉害"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "就是一个纯纯的ToB的供应链公司",
+          "note": "纯纯ToB"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "但如果我是个卖锂电池的",
+          "note": "卖锂电池"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "假小Lin奶茶店 + 卖铲人 + 98%来自加盟商进货 + 茶饮/供应链/文化三层。",
+      "patterns": [
+        "假认亲",
+        "卖铲人",
+        "98%",
+        "三层身份"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "小Lin奶茶店",
+          "note": "小Lin奶茶店"
+        },
+        {
+          "sentence_id": "s279",
+          "snippet": "好像更像是一个奶茶行业的卖铲人",
+          "note": "卖铲人"
+        },
+        {
+          "sentence_id": "s271",
+          "snippet": "其中98%",
+          "note": "98%"
+        },
+        {
+          "sentence_id": "s549",
+          "snippet": "原来是个供应链公司",
+          "note": "供应链公司"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反差钩→价格带→财报揭本质→上游抗风险→挑战留白，完整可直接改编观宇商业案例口播。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "客单价不到8块",
+          "note": "反差钩可迁"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "它是一个披着奶茶外衣的供应链公司",
+          "note": "本质句可迁"
+        },
+        {
+          "sentence_id": "s544",
+          "snippet": "你看啊经过咱们这么一分析",
+          "note": "三层复盘可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s9",
+    "s11",
+    "s14",
+    "s34",
+    "s43",
+    "s266",
+    "s550",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s267",
+    "s268",
+    "s269",
+    "s270",
+    "s271",
+    "s272",
+    "s273",
+    "s274",
+    "s275",
+    "s276",
+    "s277",
+    "s278",
+    "s279",
+    "s280",
+    "s281",
+    "s282",
+    "s283",
+    "s284",
+    "s285",
+    "s286",
+    "s287",
+    "s288",
+    "s289",
+    "s290",
+    "s291",
+    "s292",
+    "s293",
+    "s294",
+    "s295",
+    "s296",
+    "s297",
+    "s298",
+    "s299",
+    "s300",
+    "s301",
+    "s302",
+    "s303",
+    "s304",
+    "s305",
+    "s542",
+    "s543",
+    "s544",
+    "s545",
+    "s546",
+    "s547",
+    "s548",
+    "s549",
+    "s551",
+    "s552",
+    "s553",
+    "s554",
+    "s555",
+    "s556",
+    "s557",
+    "s558",
+    "s559",
+    "s560",
+    "s561",
+    "s562",
+    "s563",
+    "s564",
+    "s565",
+    "s566",
+    "s567",
+    "s568",
+    "s569",
+    "s570",
+    "s571"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1126 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7616678939553022518",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7616678939553022518/",
+  "source_sha256": "33de69da494424e654d6b28bd0ecf3bbf078d8e53ec70e1cffe61db16b15b10c",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 82,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "“本文仅在今日头条发布，请勿转载”"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 17,
+      "snippet": "30万亿4%的赤字率，钱从哪里来？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "会流向哪里去？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 16,
+      "snippet": "哪些行业会迎来更多的机会和风口？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 52,
+      "snippet": "2026年你想要得到的教育、医疗、养老、就业、资产消费等等一系列答案，都藏在这场"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 49,
+      "snippet": "全国一般公共预算支出首次突破 30万亿元 ，连续两年赤字率 4% ，这在中国财政"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 39,
+      "snippet": "它是一个明确的信号，意味着我们正式进入了一个结构性扩张、财富锚切换的全新周期。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "这些数字意味着什么？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "这笔钱要怎么花？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "又会怎么样影响到你？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 20,
+      "snippet": "我是温义飞，一个喜欢保护韭菜的财经博主。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 28,
+      "snippet": "这期内容带你一次性拆解清楚今年的两会背后的那个财富密码。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 34,
+      "snippet": "首先，搞清楚一个 底层逻辑 ：这30万亿一般公共预算支出会花在哪里？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "哪里就是接下来扩张周期的风口。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 40,
+      "snippet": "正如上一轮，你如果看懂了2009年的4万亿计划，就知道应该去搞房地产、土木基建。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 67,
+      "snippet": "而眼下这一轮的答案，就藏在下面几笔钱的具体流向里面，它们分别是：民生兜底的经费、"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "先说说距离大家最近的一笔预算。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 60,
+      "snippet": "今年的中央财政安排了1.25万亿元的基本养老金转移支付，城乡居民基础养老金每个月"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 40,
+      "snippet": "不要小看这几十元钱，它的意义远远不止于补贴本身，而在于我们新提出的“投资于人”。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 54,
+      "snippet": "这是一个大的趋势：随着养老兜底越来越牢固，老人不用拼命存钱防老，作为子女也不必把"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 42,
+      "snippet": "同时，医保补助提高，让你看个病不至于负担太重，平时也就不会把钱全部捂在口袋里不敢"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 55,
+      "snippet": "所以，国家这一步做的事情，就是用1.25万亿去提高十几亿人的安全感——养老有底，"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 33,
+      "snippet": "而当十几亿人同时敢于花钱的时候，这个消费引擎的马力就会被真正点燃。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "接下来说说第二笔钱——国补。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 33,
+      "snippet": "去年以旧换新的国补力度是 3000亿 ，今年变成了 2500亿 。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 24,
+      "snippet": "很多人一看到这个数字就担心，是不是补贴要退坡了？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 46,
+      "snippet": "其实，去年3000亿砸下去，该换的大件大家已经换过一轮了，你总不能去年刚买的新车"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "所以今年的2500亿是走向了精准化。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "今年的变化主要有三点："
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 58,
+      "snippet": "第一，补贴品种更聚焦： 从“什么都补”，变成重点补能拉动产业升级的产品，比如智能"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 53,
+      "snippet": "第二，补贴方式更灵活： 不是“一刀切”的满减，而是结合地方实际情况制定，有些省份"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 47,
+      "snippet": "第三，与金融工具深度结合： 你不仅能拿到财政直接补贴，还能享受低息、分期、免息贷"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 34,
+      "snippet": "所以，这2500亿看似数字在变小，但撬动的消费规模并不一定比去年少。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 46,
+      "snippet": "但最值得关注的是一笔新钱——今年首次设立了 1000亿元 的 财政金融协同促内需"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 43,
+      "snippet": "这个名字听起来绕口，逻辑其实很简单：过去财政促消费，就是自己掏钱补贴，花1块就是"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 67,
+      "snippet": "今年变了，国家用这1000亿作为“引子”，联合银行通过贷款、贴息、融资担保等工具"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 30,
+      "snippet": "用千亿级资金撬动万亿级信贷放水，这就是“四两拨千斤”的效果。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 49,
+      "snippet": "如果你今年打算换车、换家电、换手机，等各地这套“财政+金融”组合拳细则落地后，大"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 19,
+      "snippet": "第三大方面是4.4万亿元的地方专项债。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 34,
+      "snippet": "这笔钱除了支持重大项目建设，还要拿来置换隐形债务、消化政府拖欠账款。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 15,
+      "snippet": "你可能会问，这跟我有什么关系？"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "关系可大了去了。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 72,
+      "snippet": "试想一下：一个地方如果欠了一堆工程款，施工企业拿不到钱，供应商没钱给工人发工资，"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 29,
+      "snippet": "因此，今年用专项债还旧账，恰恰是在疏通中国经济的毛细血管。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 59,
+      "snippet": "如果你是做工程的、搞供应链的，甚至是做B端服务的，今年你的回款速度大概率会比去年"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 28,
+      "snippet": "最后，是一笔决定未来的钱—— 4264亿元 的科技支出。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 28,
+      "snippet": "预算草案明确提出，中央本级科技支出要同比增长 10% 。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "这是什么概念？"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 39,
+      "snippet": "今年GDP的增长目标只有 4.5%到5% ，科技支出的增速是GDP的整整两倍。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 20,
+      "snippet": "说白了，国家现在就是在“超配”科技产业。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 41,
+      "snippet": "集成电路、航空航天、生物医药、低空经济、人工智能等产业，目前正处在技术突破的前夜"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 38,
+      "snippet": "国家砸下这笔钱，押注的是5年以后中国经济最赚钱的主赛道，也是下一轮的大风口。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 12,
+      "snippet": "图片截取自: 别再瞎忙！"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 24,
+      "snippet": "30万亿+4%赤字率，2026两会告诉你钱往哪赚"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 20,
+      "snippet": "普通人的机会：顺着财政流向，抓住时代红利"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 47,
+      "snippet": "对于每一个普通人来说，财政的流向就决定了订单的流向，而订单的流向最终决定的就是你"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 51,
+      "snippet": "这4264亿元砸下去，带动的是数万亿的产业规模：新能源要造车、建充电桩，就需要工"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 36,
+      "snippet": "人工智能要落地，就需要数据标注、应用开发，需要各行各业的人结合AI工作。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 33,
+      "snippet": "这些机会不只属于高精尖人才，更会像水一样渗透到社会的每一个毛孔里。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 50,
+      "snippet": "哪怕你是开餐馆的、做电商的、跑物流的，只要你的行业和这些新赛道沾一点边，大概率都"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 29,
+      "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 29,
+      "snippet": "面对这种经济周期的更迭，思路和规划永远要比盲目行动更重要。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 27,
+      "snippet": "看清大方向，顺势而为，才能在这个时代抓住属于你的机会。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 31,
+      "snippet": "我是温义飞，关注我，带你看懂更多关于中国经济和财富运转的秘密。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题式三问砸出30万亿+4%赤字，宣称答案都藏在两会。",
+      "patterns": [
+        "数字冲击三问",
+        "两会藏答案"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "30万亿4%的赤字率，钱从哪里来？",
+          "note": "钱从哪来"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "哪些行业会迎来更多的机会和风口？",
+          "note": "行业风口问"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "2026年你想要得到的教育、医疗、养老、就业、资产消费等等一系列答案，都藏在这场",
+          "note": "答案藏两会"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "结构性扩张信号→四笔钱流向(民生/国补金融/专项债/科技)→普通人顺势机会→关注CTA。",
+      "patterns": [
+        "信号→四笔流向",
+        "普通人机会映射"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "它是一个明确的信号，意味着我们正式进入了一个结构性扩张、财富锚切换的全新周期。",
+          "note": "财富锚切换"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "而眼下这一轮的答案，就藏在下面几笔钱的具体流向里面，它们分别是：民生兜底的经费、",
+          "note": "四笔经费"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "对于每一个普通人来说，财政的流向就决定了订单的流向，而订单的流向最终决定的就是你",
+          "note": "订单决定收入"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "frame_signal",
+          "note": "30万亿赤字史无前例信号"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "bucket_minsheng",
+          "note": "民生养老金医保投资于人"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "bucket_consume",
+          "note": "国补精准化+千亿撬动信贷"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "bucket_debt",
+          "note": "专项债疏通回款"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70"
+          ],
+          "function": "bucket_tech",
+          "note": "科技超配下一风口"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82"
+          ],
+          "function": "retail_map_cta",
+          "note": "普通人机会+关注收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先/先说说/接下来说说/第三大方面/最后」清晰枚举过渡。",
+      "patterns": [
+        "首先底层逻辑",
+        "接下来第二笔",
+        "最后决定未来"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先，搞清楚一个 底层逻辑 ：这30万亿一般公共预算支出会花在哪里？",
+          "note": "首先底层逻辑"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "接下来说说第二笔钱——国补。",
+          "note": "接下来说国补"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "最后，是一笔决定未来的钱—— 4264亿元 的科技支出。",
+          "note": "最后科技支出"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "对照2009年4万亿地产基建 vs 本轮民生消费科技；3000亿vs2500亿退坡误会。",
+      "patterns": [
+        "上一轮vs本轮风口",
+        "数字变小vs撬动更大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "正如上一轮，你如果看懂了2009年的4万亿计划，就知道应该去搞房地产、土木基建。",
+          "note": "4万亿对照"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "去年以旧换新的国补力度是 3000亿 ，今年变成了 2500亿 。",
+          "note": "3000变2500"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "所以，这2500亿看似数字在变小，但撬动的消费规模并不一定比去年少。",
+          "note": "撬动未必少"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连续政策解读问：意味着什么、怎么花、跟我有什么关系、是什么概念。",
+      "patterns": [
+        "政策含义追问",
+        "跟我有关追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这些数字意味着什么？",
+          "note": "意味着什么"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "你可能会问，这跟我有什么关系？",
+          "note": "跟我什么关系"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "这是什么概念？",
+          "note": "什么概念"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用换车家电、工程回款、新能源充电桩就业等生活化例子落地财政流向。",
+      "patterns": [
+        "消费换新例",
+        "工程回款例",
+        "产业就业例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "其实，去年3000亿砸下去，该换的大件大家已经换过一轮了，你总不能去年刚买的新车",
+          "note": "新车不能再换"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "如果你是做工程的、搞供应链的，甚至是做B端服务的，今年你的回款速度大概率会比去年",
+          "note": "回款更快"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "这4264亿元砸下去，带动的是数万亿的产业规模：新能源要造车、建充电桩，就需要工",
+          "note": "造车充电桩"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「投资于人/四两拨千斤/超配科技」落到1.25万亿、1000亿、4264亿与产业名单。",
+      "patterns": [
+        "口号→预算数字",
+        "超配→产业清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "所以，国家这一步做的事情，就是用1.25万亿去提高十几亿人的安全感——养老有底，",
+          "note": "1.25万亿安全感"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "用千亿级资金撬动万亿级信贷放水，这就是“四两拨千斤”的效果。",
+          "note": "四两拨千斤"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "集成电路、航空航天、生物医药、低空经济、人工智能等产业，目前正处在技术突破的前夜",
+          "note": "产业名单"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "明确信号判断：前所未有、超配科技、顺势而为才能抓住机会。",
+      "patterns": [
+        "前所未有定性",
+        "超配判断",
+        "顺势忠告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "全国一般公共预算支出首次突破 30万亿元 ，连续两年赤字率 4% ，这在中国财政",
+          "note": "前所未有"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "说白了，国家现在就是在“超配”科技产业。",
+          "note": "超配科技"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "看清大方向，顺势而为，才能在这个时代抓住属于你的机会。",
+          "note": "顺势而为"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "对「补贴退坡担忧」先摆误解再纠正为精准化。",
+      "patterns": [
+        "误解先摆再纠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "很多人一看到这个数字就担心，是不是补贴要退坡了？",
+          "note": "担心退坡"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "所以今年的2500亿是走向了精准化。",
+          "note": "走向精准化"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场连问快节奏→中段数字段较密→结尾四句排比收束放慢。",
+      "patterns": [
+        "连问快开",
+        "数字中密",
+        "排比慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "30万亿4%的赤字率，钱从哪里来？",
+          "note": "连问"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "今年的中央财政安排了1.25万亿元的基本养老金转移支付，城乡居民基础养老金每个月",
+          "note": "数字段"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "四句排比"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "焦虑提问→安心兜底→纠偏国补→疏通回款信心→科技兴奋→激励收尾。",
+      "patterns": [
+        "焦虑→安心",
+        "纠偏→信心→激励"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "30万亿4%的赤字率，钱从哪里来？",
+          "note": "焦虑来源"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "所以，国家这一步做的事情，就是用1.25万亿去提高十几亿人的安全感——养老有底，",
+          "note": "安全感"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "看清大方向，顺势而为，才能在这个时代抓住属于你的机会。",
+          "note": "抓住机会"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣「钱往哪赚」到四流向口诀，并以关注博主作身份闭环。",
+      "patterns": [
+        "四流向口诀回扣",
+        "人设关注闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "四句口诀"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "我是温义飞，关注我，带你看懂更多关于中国经济和财富运转的秘密。",
+          "note": "关注我"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软CTA：关注我看懂更多经济财富秘密；中段暗示等细则再换车。",
+      "patterns": [
+        "关注博主",
+        "等细则再行动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s82",
+          "snippet": "我是温义飞，关注我，带你看懂更多关于中国经济和财富运转的秘密。",
+          "note": "关注我"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "如果你今年打算换车、换家电、换手机，等各地这套“财政+金融”组合拳细则落地后，大",
+          "note": "等细则省钱"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自我介绍「保护韭菜」、口语「关系可大了去了」、反复图片截取占位。",
+      "patterns": [
+        "保护韭菜人设句",
+        "口语夸张确认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "我是温义飞，一个喜欢保护韭菜的财经博主。",
+          "note": "保护韭菜"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "关系可大了去了。",
+          "note": "关系可大了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片截取标题句大量重复占篇幅；政策解读偏乐观单向。",
+      "patterns": [
+        "截图标题重复",
+        "乐观单向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "图片截取自: 别再瞎忙！",
+          "note": "重复截图标题"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "国家砸下这笔钱，押注的是5年以后中国经济最赚钱的主赛道，也是下一轮的大风口。",
+          "note": "大风口乐观"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "用「其实/说白了/试想一下」把推理步骤讲给读者。",
+      "patterns": [
+        "其实纠偏",
+        "说白了翻译",
+        "试想链条"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "其实，去年3000亿砸下去，该换的大件大家已经换过一轮了，你总不能去年刚买的新车",
+          "note": "其实去年已换"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "说白了，国家现在就是在“超配”科技产业。",
+          "note": "说白了超配"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "试想一下：一个地方如果欠了一堆工程款，施工企业拿不到钱，供应商没钱给工人发工资，",
+          "note": "试想欠款链"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "定位普通人/工程供应链/换车家庭，强调财政流向=你的订单收入。",
+      "patterns": [
+        "普通人映射",
+        "行业身份切片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "我是温义飞，一个喜欢保护韭菜的财经博主。",
+          "note": "保护韭菜定位"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "如果你是做工程的、搞供应链的，甚至是做B端服务的，今年你的回款速度大概率会比去年",
+          "note": "工程供应链"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "对于每一个普通人来说，财政的流向就决定了订单的流向，而订单的流向最终决定的就是你",
+          "note": "收入机会"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "30万亿、4%、1.25万亿、2500亿、1000亿、4.4万亿、4264亿、GDP4.5%-5%。",
+      "patterns": [
+        "预算硬数字锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "全国一般公共预算支出首次突破 30万亿元 ，连续两年赤字率 4% ，这在中国财政",
+          "note": "30万亿4%"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "但最值得关注的是一笔新钱——今年首次设立了 1000亿元 的 财政金融协同促内需",
+          "note": "1000亿专项"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "最后，是一笔决定未来的钱—— 4264亿元 的科技支出。",
+          "note": "4264亿科技"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密问题→四桶钱高密数字→机会段中密举例→结尾低密口号。",
+      "patterns": [
+        "问题中密",
+        "四桶高密",
+        "口号低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "全国一般公共预算支出首次突破 30万亿元 ，连续两年赤字率 4% ，这在中国财政",
+          "note": "高密信号数字"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "第一，补贴品种更聚焦： 从“什么都补”，变成重点补能拉动产业升级的产品，比如智能",
+          "note": "三点变化密"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "低密口诀"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句串→定义信号→枚举桶→因果长句→排比收。",
+      "patterns": [
+        "问句串开场",
+        "枚举桶推进",
+        "排比收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "而眼下这一轮的答案，就藏在下面几笔钱的具体流向里面，它们分别是：民生兜底的经费、",
+          "note": "枚举四笔"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "今年变了，国家用这1000亿作为“引子”，联合银行通过贷款、贴息、融资担保等工具",
+          "note": "因果长句"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "排比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "温义飞「保护韭菜」财经博主：把两会预算翻译成普通人赚钱地图。",
+      "patterns": [
+        "保护韭菜翻译官"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "我是温义飞，一个喜欢保护韭菜的财经博主。",
+          "note": "人设自报"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这期内容带你一次性拆解清楚今年的两会背后的那个财富密码。",
+          "note": "拆解财富密码"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "四笔钱口诀+「投资于人」「四两拨千斤」「超配科技」标签。",
+      "patterns": [
+        "四笔口诀",
+        "金句标签"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "不要小看这几十元钱，它的意义远远不止于补贴本身，而在于我们新提出的“投资于人”。",
+          "note": "投资于人"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "用千亿级资金撬动万亿级信贷放水，这就是“四两拨千斤”的效果。",
+          "note": "四两拨千斤"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "四句口诀"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "两会预算→四流向→普通人机会的财经口播骨架完整，可直接改编观宇宏观理财解读。",
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "而眼下这一轮的答案，就藏在下面几笔钱的具体流向里面，它们分别是：民生兜底的经费、",
+          "note": "四笔流向"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "对于每一个普通人来说，财政的流向就决定了订单的流向，而订单的流向最终决定的就是你",
+          "note": "订单=收入"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "用民生稳预期，用金融促消费，用专项债修账本，用科技抢未来。",
+          "note": "四句策略"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s4",
+    "s6",
+    "s7",
+    "s9",
+    "s20",
+    "s74",
+    "s5",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s17",
+    "s18",
+    "s19",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s29",
+    "s30",
+    "s31",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s73",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s15"
+  ],
+  "fields_complete_25": true
+}

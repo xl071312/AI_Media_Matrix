@@ -1,0 +1,1539 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_fKoWrF49Qo8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=fKoWrF49Qo8",
+  "source_sha256": "25e2f64419263d6238b105279688d49b5179e4092e52ba8d264dfad13cb78321",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "你知道吗"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "特朗普刚刚当总统"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "这短短一年多时间"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 5,
+      "snippet": "他赚到的钱"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "就赶上了他之前半个多世纪"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "攒下来的全部身家"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "他的个人财富"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "已经翻了近3倍"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "从23亿美元暴涨到65亿"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "是美国历史上"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "最赚钱的总统"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "你要知道"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "他第一任任期的时候"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "虽说也是风光无限"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "但在商业上"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "打击是非常大的"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "你看看这个身家"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "可以说一路是连滚带爬"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "而中间经历了重创之后"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "一下子悟了啊"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "不光政治上重回白宫"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "商业上"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "更是总结出了一套"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "一家人全上阵"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "完全颠覆了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "自己之前的经商逻辑"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 5,
+      "snippet": "总统的红利"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "时代的红利"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "他在这中间游刃有余"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "特朗普到底悟出了什么"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "他背后最大的金主又是谁"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "废话少说"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "我们就来看看"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "美国总统的赚钱秘籍"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "Pro Max"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "要了解他的新版秘籍"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 11,
+      "snippet": "咱先来看看他之前的版本"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 4,
+      "snippet": "众所周知"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "特朗普是个富二代"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "早期接过"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "父亲的地产生意之后"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 10,
+      "snippet": "80年代末疯狂加杠杆"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "胃口非常大"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "要盖最高的楼"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 6,
+      "snippet": "开最大的赌场"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 3,
+      "snippet": "结果呢"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "经营非常不顺"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "前前后后破产了6次"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "但砸了这么多钱呢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "\"创普\"这个名号"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 5,
+      "snippet": "也是特朗普"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 8,
+      "snippet": "最大客户最大金主"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 6,
+      "snippet": "这个客户就是"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 2,
+      "snippet": "中东"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 7,
+      "snippet": "2025年5月"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 5,
+      "snippet": "卡塔尔王室"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 6,
+      "snippet": "直接送了一架"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 12,
+      "snippet": "价值4亿美元的波音747"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 7,
+      "snippet": "给特朗普当专机"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 6,
+      "snippet": "虽然名义上是"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 7,
+      "snippet": "送给美国政府的"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 6,
+      "snippet": "但已经说好了"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 5,
+      "snippet": "是要转赠给"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 10,
+      "snippet": "特朗普先生的基金会的"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 10,
+      "snippet": "而且从2024年开始"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 11,
+      "snippet": "特朗普集团和中东国家们"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 11,
+      "snippet": "签下了一连串的巨型项目"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 5,
+      "snippet": "包括卡塔尔"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 12,
+      "snippet": "55亿美元的高尔夫度假村"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 9,
+      "snippet": "沙特好几座特朗普塔"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 10,
+      "snippet": "沙特价值70亿美元的"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 4,
+      "snippet": "新城项目"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 6,
+      "snippet": "还有迪拜新塔"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 7,
+      "snippet": "阿曼度假村等等"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 10,
+      "snippet": "20多个海外挂名项目"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 7,
+      "snippet": "总盘子粗略估算"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 5,
+      "snippet": "有一两百亿"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 5,
+      "snippet": "而且注意哈"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 11,
+      "snippet": "不是说特朗普这边出团队"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 10,
+      "snippet": "大老远跑去中东去开发"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 2,
+      "snippet": "不用"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 7,
+      "snippet": "他一分钱不用出"
+    },
+    {
+      "sentence_id": "s486",
+      "char_len": 10,
+      "snippet": "就是拿挂名费和管理费"
+    },
+    {
+      "sentence_id": "s487",
+      "char_len": 4,
+      "snippet": "这还没完"
+    },
+    {
+      "sentence_id": "s488",
+      "char_len": 7,
+      "snippet": "沙特的主权基金"
+    },
+    {
+      "sentence_id": "s489",
+      "char_len": 7,
+      "snippet": "向特朗普的女婿"
+    },
+    {
+      "sentence_id": "s490",
+      "char_len": 9,
+      "snippet": "伊万卡的老公库什纳"
+    },
+    {
+      "sentence_id": "s491",
+      "char_len": 6,
+      "snippet": "他的私募基金"
+    },
+    {
+      "sentence_id": "s492",
+      "char_len": 8,
+      "snippet": "投资了20亿美元"
+    },
+    {
+      "sentence_id": "s916",
+      "char_len": 7,
+      "snippet": "哪天买了英特尔"
+    },
+    {
+      "sentence_id": "s917",
+      "char_len": 7,
+      "snippet": "大家要是感兴趣"
+    },
+    {
+      "sentence_id": "s918",
+      "char_len": 8,
+      "snippet": "特朗普都买了什么"
+    },
+    {
+      "sentence_id": "s919",
+      "char_len": 13,
+      "snippet": "我们之后也可以做一期小视频"
+    },
+    {
+      "sentence_id": "s920",
+      "char_len": 11,
+      "snippet": "这套披露制度的设计逻辑"
+    },
+    {
+      "sentence_id": "s921",
+      "char_len": 7,
+      "snippet": "就是美国大法官"
+    },
+    {
+      "sentence_id": "s922",
+      "char_len": 9,
+      "snippet": "布兰代斯的那句名言"
+    },
+    {
+      "sentence_id": "s923",
+      "char_len": 9,
+      "snippet": "阳光是最好的消毒剂"
+    },
+    {
+      "sentence_id": "s924",
+      "char_len": 6,
+      "snippet": "钱它最怕见光"
+    },
+    {
+      "sentence_id": "s925",
+      "char_len": 5,
+      "snippet": "只要你公开"
+    },
+    {
+      "sentence_id": "s926",
+      "char_len": 6,
+      "snippet": "那媒体会曝光"
+    },
+    {
+      "sentence_id": "s927",
+      "char_len": 5,
+      "snippet": "选民会惩罚"
+    },
+    {
+      "sentence_id": "s928",
+      "char_len": 10,
+      "snippet": "总统就会进行自我约束"
+    },
+    {
+      "sentence_id": "s929",
+      "char_len": 6,
+      "snippet": "这个自我约束"
+    },
+    {
+      "sentence_id": "s930",
+      "char_len": 8,
+      "snippet": "会比提前我设立好"
+    },
+    {
+      "sentence_id": "s931",
+      "char_len": 6,
+      "snippet": "一些条条框框"
+    },
+    {
+      "sentence_id": "s932",
+      "char_len": 5,
+      "snippet": "要有效的多"
+    },
+    {
+      "sentence_id": "s933",
+      "char_len": 9,
+      "snippet": "特朗普之前历任总统"
+    },
+    {
+      "sentence_id": "s934",
+      "char_len": 9,
+      "snippet": "也都是这么自我约束"
+    },
+    {
+      "sentence_id": "s935",
+      "char_len": 6,
+      "snippet": "但对特朗普呢"
+    },
+    {
+      "sentence_id": "s936",
+      "char_len": 4,
+      "snippet": "这个阳光"
+    },
+    {
+      "sentence_id": "s937",
+      "char_len": 10,
+      "snippet": "好像是他最好的防护罩"
+    },
+    {
+      "sentence_id": "s938",
+      "char_len": 8,
+      "snippet": "很多事你直观感觉"
+    },
+    {
+      "sentence_id": "s939",
+      "char_len": 5,
+      "snippet": "还能这么干"
+    },
+    {
+      "sentence_id": "s940",
+      "char_len": 5,
+      "snippet": "哎他就干了"
+    },
+    {
+      "sentence_id": "s941",
+      "char_len": 4,
+      "snippet": "不光干了"
+    },
+    {
+      "sentence_id": "s942",
+      "char_len": 7,
+      "snippet": "他还大声喊出来"
+    },
+    {
+      "sentence_id": "s943",
+      "char_len": 9,
+      "snippet": "然后好像也没什么事"
+    },
+    {
+      "sentence_id": "s944",
+      "char_len": 11,
+      "snippet": "似乎当一切发生在阳光下"
+    },
+    {
+      "sentence_id": "s945",
+      "char_len": 6,
+      "snippet": "大家就接受了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "一年赚回半世纪身家+财富翻近3倍钩，对比第一任商业重创再抛「悟了什么」。",
+      "patterns": [
+        "暴富倍数钩",
+        "任期对比",
+        "悟了什么悬念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就赶上了他之前半个多世纪",
+          "note": "赶上半个多世纪身家"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "23亿到65亿"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "最赚钱的总统",
+          "note": "最赚钱的总统"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "特朗普到底悟出了什么",
+          "note": "悟出了什么"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "暴富事实→旧版地产杠杆破产史→新版全家上阵→中东金主挂名项目→披露阳光失灵→大声干也没事。",
+      "patterns": [
+        "暴富→旧逻辑→新逻辑→金主→制度反讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "翻近3倍"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "前前后后破产了6次",
+          "note": "破产了6次"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "一家人全上阵",
+          "note": "一家人全上阵"
+        },
+        {
+          "sentence_id": "s456",
+          "snippet": "中东",
+          "note": "中东"
+        },
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名费管理费"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "阳光成防护罩"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "wealth_hook_and_old_playbook",
+          "note": "暴富钩与旧版地产杠杆"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s453",
+            "s454",
+            "s455",
+            "s456",
+            "s457",
+            "s458",
+            "s459",
+            "s460",
+            "s461",
+            "s462",
+            "s463",
+            "s464",
+            "s465",
+            "s466",
+            "s467",
+            "s468",
+            "s469",
+            "s470",
+            "s471",
+            "s472",
+            "s473",
+            "s474",
+            "s475",
+            "s476",
+            "s477",
+            "s478",
+            "s479",
+            "s480",
+            "s481",
+            "s482",
+            "s483",
+            "s484",
+            "s485",
+            "s486",
+            "s487",
+            "s488",
+            "s489",
+            "s490",
+            "s491",
+            "s492"
+          ],
+          "function": "gulf_patron_deals",
+          "note": "中东金主飞机与挂名项目"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s916",
+            "s917",
+            "s918",
+            "s919",
+            "s920",
+            "s921",
+            "s922",
+            "s923",
+            "s924",
+            "s925",
+            "s926",
+            "s927",
+            "s928",
+            "s929",
+            "s930",
+            "s931",
+            "s932",
+            "s933",
+            "s934",
+            "s935",
+            "s936",
+            "s937",
+            "s938",
+            "s939",
+            "s940",
+            "s941",
+            "s942",
+            "s943",
+            "s944",
+            "s945"
+          ],
+          "function": "disclosure_irony_close",
+          "note": "披露制度与阳光防护罩反讽"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「废话少说」「要了解新版先看旧版」「这还没完」「对特朗普呢」转折。",
+      "patterns": [
+        "废话少说开讲",
+        "新旧版本对照转",
+        "这还没完加码",
+        "对特朗普反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "废话少说",
+          "note": "废话少说"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "要了解他的新版秘籍",
+          "note": "先来看看之前版本"
+        },
+        {
+          "sentence_id": "s487",
+          "snippet": "这还没完",
+          "note": "这还没完"
+        },
+        {
+          "sentence_id": "s935",
+          "snippet": "但对特朗普呢",
+          "note": "但对特朗普呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "第一任连滚带爬vs第二任暴涨；出团队开发vs纯挂名；阳光消毒剂vs阳光防护罩。",
+      "patterns": [
+        "两任命运对",
+        "开发vs挂名",
+        "消毒剂vs防护罩反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "可以说一路是连滚带爬",
+          "note": "连滚带爬"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "已经翻了近3倍",
+          "note": "翻了近3倍"
+        },
+        {
+          "sentence_id": "s482",
+          "snippet": "不是说特朗普这边出团队",
+          "note": "不是出团队"
+        },
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名费"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "阳光消毒剂"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "最好的防护罩"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "你知道吗开场、悟出了什么、最大金主是谁、还能这么干。",
+      "patterns": [
+        "你知道吗钩问",
+        "悟道追问",
+        "金主追问",
+        "伦理震惊问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你知道吗",
+          "note": "你知道吗"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "特朗普到底悟出了什么",
+          "note": "悟出了什么"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "他背后最大的金主又是谁",
+          "note": "最大的金主又是谁"
+        },
+        {
+          "sentence_id": "s939",
+          "snippet": "还能这么干",
+          "note": "还能这么干"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "身家23→65亿、破产6次、卡塔尔4亿波音747、55亿高尔夫、沙特70亿新城、库什纳20亿注资。",
+      "patterns": [
+        "身家数字例",
+        "破产次数例",
+        "中东项目清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "23到65亿"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "前前后后破产了6次",
+          "note": "破产6次"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "价值4亿美元的波音747",
+          "note": "4亿美元747"
+        },
+        {
+          "sentence_id": "s472",
+          "snippet": "55亿美元的高尔夫度假村",
+          "note": "55亿高尔夫"
+        },
+        {
+          "sentence_id": "s474",
+          "snippet": "沙特价值70亿美元的",
+          "note": "70亿新城"
+        },
+        {
+          "sentence_id": "s492",
+          "snippet": "投资了20亿美元",
+          "note": "投资20亿"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "总统红利落到挂名费；金主抽象落到飞机与塔楼清单；披露制度落到布兰代斯名言再打脸。",
+      "patterns": [
+        "红利收入化",
+        "金主项目化",
+        "制度名言化再反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名费和管理费"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "价值4亿美元的波音747",
+          "note": "波音747"
+        },
+        {
+          "sentence_id": "s478",
+          "snippet": "20多个海外挂名项目",
+          "note": "20多个海外挂名"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "阳光是最好的消毒剂"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言最赚钱总统、商业上总结出颠覆逻辑、阳光对他成防护罩、干了也没事。",
+      "patterns": [
+        "最赚钱断言",
+        "逻辑颠覆判断",
+        "制度失灵判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "最赚钱的总统",
+          "note": "最赚钱的总统"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "完全颠覆了",
+          "note": "颠覆经商逻辑"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "阳光防护罩"
+        },
+        {
+          "sentence_id": "s943",
+          "snippet": "然后好像也没什么事",
+          "note": "好像也没什么事"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先讲披露应带来自我约束，再承认对特朗普阳光失效——制度预期被现实打脸。",
+      "patterns": [
+        "制度预期先立",
+        "特朗普例外纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s928",
+          "snippet": "总统就会进行自我约束",
+          "note": "就会自我约束"
+        },
+        {
+          "sentence_id": "s935",
+          "snippet": "但对特朗普呢",
+          "note": "但对特朗普呢"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "防护罩"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句暴富钩→旧史中速→中东清单密敲→制度议论放慢反讽。",
+      "patterns": [
+        "短句钩",
+        "项目清单密敲",
+        "反讽慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "23到65"
+        },
+        {
+          "sentence_id": "s471",
+          "snippet": "包括卡塔尔",
+          "note": "包括卡塔尔"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "阳光消毒剂"
+        },
+        {
+          "sentence_id": "s945",
+          "snippet": "大家就接受了",
+          "note": "大家就接受了"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "震惊暴富→旧史唏嘘→悟道好奇→金主项目目眩→制度无力荒诞接受。",
+      "patterns": [
+        "暴富震惊",
+        "项目目眩",
+        "荒诞接受"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "攒下来的全部身家",
+          "note": "全部身家"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "有一两百亿",
+          "note": "一两百亿"
+        },
+        {
+          "sentence_id": "s939",
+          "snippet": "还能这么干",
+          "note": "还能这么干"
+        },
+        {
+          "sentence_id": "s945",
+          "snippet": "大家就接受了",
+          "note": "大家就接受了"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从赚钱秘籍落到「阳光下发生就被接受」的制度反讽，回扣暴富何以可能。",
+      "patterns": [
+        "秘籍→制度条件回扣",
+        "接受即许可"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "美国总统的赚钱秘籍",
+          "note": "赚钱秘籍"
+        },
+        {
+          "sentence_id": "s944",
+          "snippet": "似乎当一切发生在阳光下",
+          "note": "一切发生在阳光下"
+        },
+        {
+          "sentence_id": "s945",
+          "snippet": "大家就接受了",
+          "note": "大家就接受了"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软预告「之后也可以做一期」英特尔持仓，非硬关注。",
+      "patterns": [
+        "下期预告软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s917",
+          "snippet": "大家要是感兴趣",
+          "note": "大家要是感兴趣"
+        },
+        {
+          "sentence_id": "s919",
+          "snippet": "我们之后也可以做一期小视频",
+          "note": "之后也可以做一期"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「废话少说」「一下子悟了啊」「哎他就干了」口语叙述感强。",
+      "patterns": [
+        "废话少说",
+        "悟了啊",
+        "哎他就干了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "废话少说",
+          "note": "废话少说"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "一下子悟了啊",
+          "note": "一下子悟了啊"
+        },
+        {
+          "sentence_id": "s940",
+          "snippet": "哎他就干了",
+          "note": "哎他就干了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "945句截成三段，中间商业模式主体缺失；部分项目金额为粗略估算。",
+      "patterns": [
+        "窗口三段断层",
+        "金额粗估"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "\"创普\"这个名号",
+          "note": "后跳s453"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "有一两百亿",
+          "note": "粗略估算"
+        },
+        {
+          "sentence_id": "s492",
+          "snippet": "投资了20亿美元",
+          "note": "后跳s916"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显「先看旧版再看新版」对照法；挂名模式「一分钱不用出」推理。",
+      "patterns": [
+        "新旧对照外显",
+        "挂名模式拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "要了解他的新版秘籍",
+          "note": "先看之前版本"
+        },
+        {
+          "sentence_id": "s485",
+          "snippet": "他一分钱不用出",
+          "note": "一分钱不用出"
+        },
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名费管理费"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "用「你知道吗/你要知道/你看看」拉听众进八卦式财经围观。",
+      "patterns": [
+        "你知道吗围观",
+        "你看看共证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你知道吗",
+          "note": "你知道吗"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你要知道",
+          "note": "你要知道"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "你看看这个身家",
+          "note": "你看看这个身家"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "23→65亿、破产6次、4亿飞机、55亿球村、70亿新城、库什纳20亿、一两百亿盘子。",
+      "patterns": [
+        "身家锚",
+        "飞机锚",
+        "项目金额锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "23亿到65亿"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "前前后后破产了6次",
+          "note": "破产6次"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "价值4亿美元的波音747",
+          "note": "4亿美元"
+        },
+        {
+          "sentence_id": "s492",
+          "snippet": "投资了20亿美元",
+          "note": "20亿美元"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密钩→旧史中密→中东项目高密→制度议论中密语义高。",
+      "patterns": [
+        "项目清单高密",
+        "反讽中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "从23亿美元暴涨到65亿",
+          "note": "身家中密"
+        },
+        {
+          "sentence_id": "s470",
+          "snippet": "签下了一连串的巨型项目",
+          "note": "项目高密"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "名言中密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "暴富事实→旧破产史→悬念金主→中东交易清单→披露哲学→反讽收束（中段缺失）。",
+      "patterns": [
+        "史→交易→制度反讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "前前后后破产了6次",
+          "note": "破产6次"
+        },
+        {
+          "sentence_id": "s456",
+          "snippet": "中东",
+          "note": "中东"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "消毒剂"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "防护罩"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "八卦宏观解说：又惊又讽，敢把阳光消毒剂改写成防护罩。",
+      "patterns": [
+        "惊叹记账",
+        "制度反讽者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "最赚钱的总统",
+          "note": "最赚钱总统"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "防护罩"
+        },
+        {
+          "sentence_id": "s940",
+          "snippet": "哎他就干了",
+          "note": "哎他就干了"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "一年赶上半世纪、破产六次、挂名费、阳光消毒剂→防护罩。",
+      "patterns": [
+        "半世纪身家",
+        "挂名费",
+        "防护罩反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就赶上了他之前半个多世纪",
+          "note": "半个多世纪"
+        },
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名费"
+        },
+        {
+          "sentence_id": "s923",
+          "snippet": "阳光是最好的消毒剂",
+          "note": "消毒剂"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "防护罩"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "人物暴富钩→新旧商业逻辑对照→金主清单→制度反讽收束可用于观宇政商人物钱权叙事。",
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "要了解他的新版秘籍",
+          "note": "新旧版本对照"
+        },
+        {
+          "sentence_id": "s486",
+          "snippet": "就是拿挂名费和管理费",
+          "note": "挂名模式"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "好像是他最好的防护罩",
+          "note": "阳光防护罩"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s453",
+    "s454",
+    "s455",
+    "s456",
+    "s457",
+    "s458",
+    "s459",
+    "s460",
+    "s461",
+    "s462",
+    "s463",
+    "s464",
+    "s465",
+    "s466",
+    "s467",
+    "s468",
+    "s469",
+    "s470",
+    "s471",
+    "s472",
+    "s473",
+    "s474",
+    "s475",
+    "s476",
+    "s477",
+    "s478",
+    "s479",
+    "s480",
+    "s481",
+    "s482",
+    "s483",
+    "s484",
+    "s485",
+    "s486",
+    "s487",
+    "s488",
+    "s489",
+    "s490",
+    "s491",
+    "s492",
+    "s916",
+    "s917",
+    "s918",
+    "s919",
+    "s920",
+    "s921",
+    "s922",
+    "s923",
+    "s924",
+    "s925",
+    "s926",
+    "s927",
+    "s928",
+    "s929",
+    "s930",
+    "s931",
+    "s932",
+    "s933",
+    "s934",
+    "s935",
+    "s936",
+    "s937",
+    "s938",
+    "s939",
+    "s940",
+    "s941",
+    "s942",
+    "s943",
+    "s944",
+    "s945"
+  ],
+  "fields_complete_25": true
+}

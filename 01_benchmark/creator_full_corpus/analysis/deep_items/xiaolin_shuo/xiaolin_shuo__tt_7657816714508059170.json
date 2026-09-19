@@ -1,0 +1,2081 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7657816714508059170",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7657816714508059170/",
+  "source_sha256": "248eab9bd91d04593b68ca7e7c8226f31fe669c225c16b24aa0982db161f5674",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 219,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "美国AI资本圈"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "派系斗争有多乱？"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 41,
+      "snippet": "朋友们，咱们今天来一口气拆析一下，错综复杂的美国AI资本圈，和它们之间的派系之争。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "AI就像是一个资本黑洞一样，吸引着全球的钱。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 56,
+      "snippet": "谷歌、微软、英伟达、亚马逊、OpenAI、甲骨文等等巨头，自身估值不断膨胀的同时，互相之间也投来投去、买来买去。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 100,
+      "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthropic可是谷歌Gemini的直接竞争对手，俩人前两个月还在给企业服务的AI市场打"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 25,
+      "snippet": "基本上，这就是过去三年，整个AI投资圈的缩影，乱。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 94,
+      "snippet": "所以今天呢，我们不评价模型、不对比芯片，只看资本操作，来跟大家捋一捋，截止到目前为止，这些AI公司、之间是怎么个盘根错节的投资合作关系，其实我们分析到最后，你就"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 4,
+      "snippet": "入围玩家"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "首先，我今天会聊到哪些公司呢？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 27,
+      "snippet": "做AI的公司那么多，这年头谁不都多少搞点AI啊，是吧。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 31,
+      "snippet": "这个范围说实在的就很主观了，我先跟大家解释一下大概的选择标准："
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 33,
+      "snippet": "首先，肯定得是最前沿，站在AI风口浪尖的公司，苹果我就不算进去了；"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 44,
+      "snippet": "其次，因为我们今天是说这些公司之间的资本关系、投资关系，所以我会选资本市场很活跃的公司；"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 21,
+      "snippet": "再有就是体量够大，估值至少在千亿美元以上。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 34,
+      "snippet": "像CoreWeave、FigureAI，这都小公司，上不了咱的牌桌~"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 19,
+      "snippet": "根据这三个标准，我就选出来了这些公司。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "产业关系"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 23,
+      "snippet": "好，那这些公司在AI产业链里到底是个什么关系？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 17,
+      "snippet": "谁和谁是竞争关系，谁和谁是上下游？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 24,
+      "snippet": "我简单把AI产业链从上游到下游，分成了这么四层："
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "最底层芯片层。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "GPU、CPU、存储等等芯片都算在内。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 30,
+      "snippet": "英伟达显然是这一层的王者了，AI加速器市占率有百分之八九十。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 14,
+      "snippet": "除此之外还有AMD、英特尔。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 66,
+      "snippet": "谷歌也有自己针对AI训练研发的TPU，数量非常庞大，2026年预计能产超过300万颗，它的Gemini主要都是靠这些TPU来训练的；"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 42,
+      "snippet": "亚马逊也有自研的AI芯片Trainium，虽然优化得也不错, 但目前总量还没有很大。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 58,
+      "snippet": "还有一个很厉害的就是博通，其实它是ASIC芯片的霸主，刚才说到的谷歌TPU、还有Meta的芯片都是和博通合作生产的。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "大概是这些玩家啊。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 35,
+      "snippet": "其它巨头可能多多少少也有自研的AI芯片，不过不太成气候，我们就不算了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "再往上是数据中心和云计算层。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 24,
+      "snippet": "这俩其实放在一起不太严谨，我就简化把它俩合并了。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 24,
+      "snippet": "大概都是把一大堆AI芯片放在一起，来提供算力的。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 20,
+      "snippet": "云计算基本上有三大巨头：亚马逊的AWS；"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "微软的Azure；"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 16,
+      "snippet": "谷歌的Google Cloud。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 21,
+      "snippet": "除此之外甲骨文，这两年在数据中心这块很猛；"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 71,
+      "snippet": "SpaceXAI，也就是原来的xAI，也建了非常大的数据中心Colossus，现在马斯克还号称要在太空上建全球，或者说全太阳系最大的数据中心。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 12,
+      "snippet": "它们都是这层里的大玩家。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 11,
+      "snippet": "然后，就是大模型公司。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 47,
+      "snippet": "这层市占率断层领先的三巨头：OpenAI、Anthropic、还有Google的Gemini。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 105,
+      "snippet": "这个Anthropic，可能有些朋友没那么熟，但我说Claude你可能就听过了，它最近这半年，发展势头极其迅猛, 根据刚刚5月份的一轮融资，它的估值已经超过了O"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 55,
+      "snippet": "你知道资本圈看看这些AI大模型公司，一个很常用的指标叫做ARR：年化经常性营收，你可以大概理解成估算的年收入。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 89,
+      "snippet": "这个Anthropic，虽然用户数量肯定还是没有OpenAI多，但它营收，15个月里增长了30倍，26年4月份达到了300亿的ARR，5月达到了470亿，已经超"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 30,
+      "snippet": "也就是说它虽然用户少，但更赚钱，而且还在以火箭般的速度上升。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 15,
+      "snippet": "这就是大模型层的三个主要玩家。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 35,
+      "snippet": "其它巨头肯定也是人人都有自己的大模型了，但市占率上目前还拼不过这三位。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 22,
+      "snippet": "最上面一层就是应用层，这些大模型公司也都做。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 35,
+      "snippet": "以上就是我对AI产业链一个非常笼统的划分，以及这些AI巨头的业务分布。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 58,
+      "snippet": "划重点：我们说的都是它们比较成气候的主营业务，比如英伟达哪个都做点，Meta也有自己的芯片，但我们先只看核心的部分。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 4,
+      "snippet": "资本博弈"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "OA争夺战"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 22,
+      "snippet": "接下来，我们就来看看他们之间的投资合作了啊。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 44,
+      "snippet": "这些大模型公司里面其实最最核心的，就是这两家公司：OpenAI 和 Anthropic。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 44,
+      "snippet": "其它都是大厂，只有这两个是独立的纯模型公司，而且模型能力、人才实力也一直是全球第一梯队。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 26,
+      "snippet": "所以这些股权投资，很主要一部分就是围绕着它俩展开的。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 60,
+      "snippet": "其实谷歌的Geimini也强，但它背靠谷歌，又不缺钱又不缺算力，谷歌也不愿意让别人进来，所以资本圈都还是围绕OA这两位。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 24,
+      "snippet": "早期其实就是OpenAI的天下，是独一档的存在。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 22,
+      "snippet": "它背后最著名的投资人也是众人皆知，就是微软。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 35,
+      "snippet": "早早入局，到现在前前后后总共投资了130亿美元，占它大概27%的股权。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 89,
+      "snippet": "要知道，现在OpenAI的估值已经大概8500亿美元了，微软手上的股权估值大概已经有2290亿美元了，也就是说从纯投资的角度看，微软OpenAI这笔投资已经翻了"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 72,
+      "snippet": "作为对比，软银的孙正义已经花了超过600亿美元投资OpenAI，是微软投资的四五倍，却只拿到OpenAI股权的13%左右，还不到微软股份的一半。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 15,
+      "snippet": "可见微软这押宝还是非常成功的。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 39,
+      "snippet": "顺带一提，软银孙正义为了凑这笔钱，把手上 58 亿美元的英伟达股票全部清仓了。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 45,
+      "snippet": "他自己后来在投资者会议上说：\"我太尊重黄仁勋，太尊重英伟达了\"\"我是哭着把英伟达卖掉的\"。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 60,
+      "snippet": "也正是因为微软在OpenAI的股份非常高，作为另一大巨头亚马逊，当时觉得再赶过去投资OpenAI，就没啥意思了，怎么办？"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 26,
+      "snippet": "赶紧扶持OpenAI的竞争对手 Anthropic。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 50,
+      "snippet": "亚马逊早在2023年就投了它40亿美元，2024年又跟了40亿，是最早投Anthropic的一批了。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 18,
+      "snippet": "但有意思的来了，后来亚马逊换思路了。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "它干了什么呢？"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 83,
+      "snippet": "今年OpenAI和Anthropic都进行了一轮大规模融资，亚马逊都是他俩最核心的外部投资人之一，承诺投OpenAI最多500亿，Anthropic追加最多25"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 67,
+      "snippet": "所以你会发现，大厂里微软和亚马逊，都没有自己非常出圈的AI大模型，因为它俩都是早早入股了大模型公司，选择不费那么大劲自研，而是去扶持！"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 5,
+      "snippet": "那谷歌呢？"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 40,
+      "snippet": "早期也和亚马逊一样，投了Anthropic，不过不多，每笔都是几亿几亿这个规模。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 39,
+      "snippet": "了解投资的朋友知道，这种一般压根就不是为了投资，而主要是想交个朋友，认识一下。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 23,
+      "snippet": "谷歌主要重心还是放在研发自己的Gemini上。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 47,
+      "snippet": "但后来呢，这个Anthropic的发展太快了，不光没被OpenAI落下，反倒有追赶上来的势头。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 23,
+      "snippet": "尤其是Claude Code出圈让它一飞冲天。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "对谷歌来说怎么办？"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 31,
+      "snippet": "俩竞争对手都这么变态，把注全押在自己的Gemini，风险太高；"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 24,
+      "snippet": "所以它开始虽然没有大额投资，但是我可以怎么样啊？"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "卖给你服务！"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 5,
+      "snippet": "咱俩合作！"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 62,
+      "snippet": "他就找到了Anthropic，说: 你来，你不是缺算力么，我的TPU便宜点租给你，咱俩交个朋友，以后有什么好事儿记得带上我！"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 57,
+      "snippet": "2025年10月，双方宣布大规模合作，谷歌提供最多100万颗定制TPU芯片，新增超过1吉瓦的算力，这就非常暧昧了。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 103,
+      "snippet": "而今年随着Anthropic的爆火，谷歌忍不了了，不暧昧了，亲儿子Gemini，不好意思了，他直接去和Anthropic抱在一起了，4月24日宣布投资最多400"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 37,
+      "snippet": "其实围绕这两家核心大模型公司的投资还没完——还有一个重要玩家没登场，谁啊？"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 4,
+      "snippet": "英伟达。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 28,
+      "snippet": "英伟达和OpenAI，签了300亿美元的战略合作意向书。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "什么叫战略合作意向书呢？"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 34,
+      "snippet": "就是我给你投资300亿，但前提是你得用多少多少我的GPU、我的芯片。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 59,
+      "snippet": "其实这笔投资本来最高有1000亿美元，但OpenAI的估值实在太高了，说白了就是英伟达上车太晚了，OpenAI太贵了。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 41,
+      "snippet": "Anthropic 那边呢，黄仁勋说过最多战略投资 100 亿美元，目前还没敲定。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 68,
+      "snippet": "黄仁勋自己在 4 月份的一档播客上承认自己上车晚了：\"我承认我错过了 OpenAI 和 Anthropic 的早期入股机会......\""
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 29,
+      "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为："
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 44,
+      "snippet": "微软和OpenAI是一边的，但有点被OpenAI边缘化，也在和Anthropic搞暧昧；"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 17,
+      "snippet": "谷歌是跟Anthropic一边的；"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 35,
+      "snippet": "亚马逊最开始独宠Anthropic，但今年开始两边都猛猛投资，搞双押；"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 25,
+      "snippet": "英伟达入局晚了，两边都投了一些，OpenAI更多；"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 73,
+      "snippet": "SpaceX和Meta并没有明显的投资、站边，但要补充的是，马斯克和OpenAI的关系是出了名的差，所以他即便要站边，也一定是Anthropic。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 21,
+      "snippet": "其实最近也有动作了，这个我们一会儿会说到。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 31,
+      "snippet": "当然我强调一下啊，并不是微软、谷歌、亚马逊就是它们最大金主了。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 13,
+      "snippet": "很大一部分都是财务投资人。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 22,
+      "snippet": "比如，软银不就投了OpenAI 600亿么。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 38,
+      "snippet": "包括阿联酋的基金、卡塔尔的基金也都投了不少钱，这些纯财务投资我们就不多说了。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 5,
+      "snippet": "上下游合作"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 19,
+      "snippet": "上文是围绕这两边主要的股权投资来分析。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 44,
+      "snippet": "那上下游的合作呢，基本上就完全没有什么派系的关系了，大家又不是直接竞争，那就都是好伙伴。"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 32,
+      "snippet": "微软不光给OpenAI提供云服务，也会给Anthropic提供；"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 37,
+      "snippet": "亚马逊的AWS自然更是两边都满足，年初跟OpenAI签了8年的云服务合同；"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 20,
+      "snippet": "谷歌的TPU主要是给Anthropic；"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 13,
+      "snippet": "还有马斯克，非常有戏剧性。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 44,
+      "snippet": "他今年2月26号在X上发文直接骂Anthropic, 说它反人类，邪恶，都整这么大词儿；"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 52,
+      "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要给它提供22万颗GPU。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 45,
+      "snippet": "这马斯克赶紧给自己打圆场，说\"我跟Anthropic团队聊过了，没人触发我的邪恶探测器\"～"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 39,
+      "snippet": "你看这就是AI圈，如此巨大的利益面前，打脸就打脸吧，况且敌人的敌人就是朋友嘛！"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 56,
+      "snippet": "所以现在很明显，Anthropic的朋友，从数量上来讲更多，是三大云厂商唯一的共同选择，还有SpaceX的合作。"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 19,
+      "snippet": "而OpenAI那边怎么没那么多合作呢？"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 8,
+      "snippet": "它不是领头羊么？"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 31,
+      "snippet": "因为它有那个著名的算力项目 - Stargate， 星际之门。"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 26,
+      "snippet": "但这个Stargate，星际之门项目其实挺戏剧化的。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 16,
+      "snippet": "给不太了解的朋友简单介绍一下啊。"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 68,
+      "snippet": "它是一个有史以来最大的数据中心项目，2025年特朗普一上台，就牵头，把OpenAI、软银、甲骨文的老大都拉到白宫里，高调宣布了这个项目。"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 61,
+      "snippet": "要造号称\"史上规模最大的人工智能基础设施计划\"，要在得克萨斯州，建一个总规模5000亿美元、10吉瓦的超大型数据中心集群。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 52,
+      "snippet": "初始股权出资是软银 190 亿、OpenAI 190 亿、甲骨文 70 亿、阿联酋的 MGX 70 亿。"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 70,
+      "snippet": "那这么庞大的项目，肯定首先是要满足OpenAI的算力需求啊，它甚至还牵头在阿联酋、英国、挪威、阿根廷等等地方，都要建立Stargate项目。"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 28,
+      "snippet": "大概是这么个庞大的计划，甚至有人拿它和曼哈顿计划相比较。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 28,
+      "snippet": "可发布当晚，马斯克就开怼，说 \"他们其实根本没那个钱\"。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 16,
+      "snippet": "而结果呢……还真让马斯克说对了。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 31,
+      "snippet": "这个项目，除了初始那四位承诺的钱以外，几乎没融到像样的大投资。"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 56,
+      "snippet": "去年12月份，有媒体爆料OpenAI、甲骨文、软银三方，在东京谈判桌上吵得不可开交，争场地所有权、争系统控制权；"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 40,
+      "snippet": "OpenAI觉得，我是咱仨里的明星，虽然我没钱，但是我应该有设计权和长期使用权；"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 20,
+      "snippet": "甲骨文觉得这都是我主要建的，应该听我的！"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 31,
+      "snippet": "软银觉得我出钱最多，你们甭管怎么搞，但是得保证我的投资回报率！"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 14,
+      "snippet": "这是我猜的啊，大概这意思吧。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 26,
+      "snippet": "你看看，特朗普就管攒局，你倒是指定个老大啊，他不管。"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 79,
+      "snippet": "现在据说OpenAI内部，已经实质性放弃了所谓\"星际之门\"这个大型联合项目了，而变成传统的、简单的找甲骨文、AWS走双边合同，OpenAI就是一个简单的租客。"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 41,
+      "snippet": "当然它很多项目还是在建，只是整体这个庞大的项目，就变成一个个单独的数据中心项目了。"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 32,
+      "snippet": "这就是AI时代的速度，千亿美元级别的项目也是说起就起，说没就没。"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 56,
+      "snippet": "你看甲骨文的股价很能说明问题，去年下半年，因为星际之门项目一路疯长，帮助它创始人Ellison一度登上世界首富。"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 39,
+      "snippet": "但后来，随着星际之门项目的负面小道消息，接连爆出，感觉要黄，这股价又跌回来了。"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 2,
+      "snippet": "其它"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 13,
+      "snippet": "我们再来看看底层芯片层啊。"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 33,
+      "snippet": "其实要说合作，英伟达几乎是和所有人都合作，谁不需要英伟达的显卡啊。"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 33,
+      "snippet": "要是全都在这图上表示出来就太乱了，所以我没加上，大家知道一下就好。"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 23,
+      "snippet": "英伟达，这两年混得风生水起，手里也确实不差钱。"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 64,
+      "snippet": "所以除了投资了OpenAI，承诺投资Anthropic，在美国政府的牵线下，投资了英特尔50个亿，还投资了SpaceX 20亿。"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 55,
+      "snippet": "除此之外，其实英伟达投资了非常多小型AI公司，当然，我指的\"小型\"是在咱们今天这个量级来看的啊，千亿以下都算:"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 62,
+      "snippet": "比如CoreWeave、FigureAI、Wayve、Mistral、Cohere等等，光今年总计承诺投资400亿美元左右。"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 18,
+      "snippet": "要从卖铲人，变成整个产业链的大股东。"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 32,
+      "snippet": "试想一下，英伟达这边垄断性越强，作为下游的大模型公司就越不踏实。"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 80,
+      "snippet": "海量的算力，需求全指望着英伟达这一家公司，一天到晚要看老黄脸色，总归是有点不踏实，所以大家一方面肯定是要和老黄搞好关系，同时还是想尽办法分散一下风险，找找备胎。"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 31,
+      "snippet": "所以，咱上文提到Anthropic就和谷歌合作，用它的TPU；"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 19,
+      "snippet": "和亚马逊合作，用它的Trainium。"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 37,
+      "snippet": "而OpenAI呢，主要就是通过各种Stargate项目，用英伟达的GPU。"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 38,
+      "snippet": "所以OA这两家大模型公司，非常笼统的来说，OpenAI主要是用英伟达的芯片；"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 23,
+      "snippet": "而Anthropic，主要是用非英伟达的芯片。"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 13,
+      "snippet": "有这么一个朦胧的合作倾向。"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 93,
+      "snippet": "但听完我这么分析后，你可别觉得英伟达的统治力就不行了啊，其实Anthropic属于比较个例了，其它大部分算力需求，基本上都还是会用英伟达的，它基本上还可以说是垄"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 23,
+      "snippet": "那OpenAI，也不想在英伟达这一棵树上吊死。"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 49,
+      "snippet": "它一方面和英伟达战略合作，同时还要和博通合作自研芯片，在去年年底，还和AMD谈下了一笔超级大合作："
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 68,
+      "snippet": "在接下来几年，AMD提供总计6吉瓦的算力，但同时必须要专门为OpenAI，发行最多1.6亿股Warrant，权证，行权价$0.01/股。"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 6,
+      "snippet": "什么意思呢？"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 53,
+      "snippet": "就相当于OpenAI，可以以1分钱每股的价格，购买1.6亿股的AMD股票，那就是白送给它1.6亿股股票嘛。"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 90,
+      "snippet": "当然，具体的条款不是这么简单，还是有很多条件、细节的，但大概就是AMD牺牲自己10%的股权，去换了大订单，说实话对它来说成本挺高的，但没办法，想要坐上这最中心的"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 55,
+      "snippet": "然后紧接着，今年2月份，Meta终于有资本大动作了，也和AMD签了协议，几乎就是AMD和OpenAI的复刻版。"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 13,
+      "snippet": "6吉瓦算力，换10%股权。"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 4,
+      "snippet": "写在最后"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 52,
+      "snippet": "这就是整体的大框架，从结果来看，错综复杂，但我们简单拆解了一下每家公司的思考逻辑，其实也不难理解，是吧。"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 4,
+      "snippet": "中心牌桌"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 53,
+      "snippet": "AI这么一桌人，大家都清楚，这种剧烈波动的行业，短期赚多少钱是次要的，关键是什么，你得留在最中心的牌桌上。"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 6,
+      "snippet": "这个牌桌上："
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 66,
+      "snippet": "OpenAI和Anthropic，有点像两个天才的年轻创业者，势头很猛、天赋极高，目前还没那么有钱，但未来的天花板极高，风险也极大；"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 45,
+      "snippet": "Meta、谷歌、亚马逊、微软这些互联网巨头，已经算是那种体量很大的\"老钱\"了，手里不差钱。"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 57,
+      "snippet": "这张图为了清晰美观，所以并没有完全按市值，来画它们的大小，实际上要按比例画谷歌，应该是Anthropic的十多倍。"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 47,
+      "snippet": "这些\"老钱\"呢，打法有点跟不上年轻人，一边自己培养自己的\"年轻人\"，一边赶紧投资、拉拢年轻人；"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 54,
+      "snippet": "英伟达，就像是正处于鼎盛时期的中年大佬，运筹帷幄统筹整个桌子，它的目标不是分更大的蛋糕，而是把整个蛋糕做大；"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 27,
+      "snippet": "博通，就和各个老钱关系都很好，很靠谱供应商，成了新贵；"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 43,
+      "snippet": "甲骨文、AMD、英特尔，就属于费不少劲好不容易坐到了这主桌上来，想也来争取更大的蛋糕；"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 85,
+      "snippet": "SpaceX呢，就属于那种不是名门正派，完全另一套路数、另一套打法，和大家的竞争关系、合作关系都不是特别紧密，但未来天花板也极高，有可能在某些时候和大家形成强力"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 42,
+      "snippet": "有点像这种感觉，这个比喻，就是我非常主观的感觉啊，你要是觉得不妥，可以发表你的版本~"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 39,
+      "snippet": "那这一桌人之间，错综复杂的资本关系呢，基本上就是同级之间竞争，不同级之间捆绑。"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 8,
+      "snippet": "有这么三条主线："
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 37,
+      "snippet": "扶持整个行业加控股，也锁定未来订单，\"你以后还得继续用咱这边的GPU啊\"；"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 20,
+      "snippet": "所有人投资OA两强，换取他俩的算力订单；"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 35,
+      "snippet": "你看这么多箭头都指向它俩，尤其是今年它俩临近上市，融资活动明显更活跃；"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 13,
+      "snippet": "大家都不想在一棵树上吊死；"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 18,
+      "snippet": "都在努力脚踩两条船、三条船、四条船。"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 4,
+      "snippet": "一条船上"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 25,
+      "snippet": "所以，这么乱七八糟一捆绑，大家都成了一条船上的人。"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 27,
+      "snippet": "这张图里的投资，其实和我们普通意义上的投资完全不一样。"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 40,
+      "snippet": "看似OpenAI和Anthropic很光鲜，众星捧月，融那么多钱，一定很舒服吧。"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 28,
+      "snippet": "其实不是的，它融资的同时，是承诺出去很多的算力和合作的。"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 46,
+      "snippet": "上文咱们分析不管是英伟达的投资、亚马逊的投资、谷歌的投资等等，都是\"承诺最多\"多少亿美元么。"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 39,
+      "snippet": "什么意思啊，就是你得用我的算力，达到多少多少的指标，我才继续投资给你这么多钱。"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 39,
+      "snippet": "粗略估算，乱七八糟全加起来，OpenAI已经累计承诺出去超过万亿美元的订单了。"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 49,
+      "snippet": "所以，OpenAI不是一家融资1100亿的公司，而是一家融资1100亿、同时立刻欠出去万亿的公司。"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 16,
+      "snippet": "它已经把自己跟别人死死的绑住了。"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 39,
+      "snippet": "这种股份、合作捆绑，它降低了每家公司自己的风险，但增大了整体行业的系统性风险。"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 23,
+      "snippet": "就像这么多艘大船小船都绑在了一起，来抵御风浪。"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 19,
+      "snippet": "那看过三国的朋友都知道，他们怕什么啊？"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 2,
+      "snippet": "火。"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 14,
+      "snippet": "这推翻整个行业的火是什么呢？"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 46,
+      "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"火烧赤壁\"；"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 45,
+      "snippet": "但反过来呢，如果需求持续爆发、算力需求旺盛、行业爆发，那就皆大欢喜，至少是这帮人皆大欢喜。"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 28,
+      "snippet": "以上就是大体上这帮巨头、这帮资本之间的关系，有点意思吧。"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 99,
+      "snippet": "其实，半年之前这幅图还完全不长这个样子，这里很多箭头，都是最近两个月才加上去的，现在这张图里SpaceX、OpenAI、Anthropic，都计划在年内上市，到"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 10,
+      "snippet": "到时候咱们就再聊吧～"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 11,
+      "snippet": "—— E N D ——"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题派系之乱+「一口气拆析」承诺，用谷歌投Anthropic「死对头钻一个被窝」作乱象钩。",
+      "patterns": [
+        "派系之乱标题",
+        "一口气承诺",
+        "死对头同被窝钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "派系斗争有多乱？",
+          "note": "派系斗争有多乱"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们今天来一口气拆析一下，错综复杂的美国AI资本圈，和它们之间的派系之争",
+          "note": "一口气拆析"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "基本上，这就是过去三年，整个AI投资圈的缩影，乱。",
+          "note": "乱"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "入围标准筛玩家→四层产业链定位→OA两强股权站队→上下游无派系→Stargate戏剧→同级竞争异级捆绑→一条船系统性风险。",
+      "patterns": [
+        "筛玩家→四层→站队→合作→Stargate→捆绑风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "这个范围说实在的就很主观了，我先跟大家解释一下大概的选择标准：",
+          "note": "选择标准"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "我简单把AI产业链从上游到下游，分成了这么四层：",
+          "note": "四层"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "站队总结"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "那上下游的合作呢，基本上就完全没有什么派系的关系了，大家又不是直接竞争，那就都是",
+          "note": "上下游无派系"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "但这个Stargate，星际之门项目其实挺戏剧化的。",
+          "note": "Stargate"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "这种股份、合作捆绑，它降低了每家公司自己的风险，但增大了整体行业的系统性风险。",
+          "note": "系统性风险"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "function": "hook_chaos",
+          "note": "乱象钩与议程"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "player_filter",
+          "note": "入围标准与玩家"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "industry_layers",
+          "note": "四层产业链"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109"
+          ],
+          "function": "equity_camps",
+          "note": "OA股权站队"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129"
+          ],
+          "function": "coop_stargate",
+          "note": "上下游与Stargate"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s190",
+            "s191",
+            "s192",
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219"
+          ],
+          "function": "one_boat_risk",
+          "note": "一条船与系统性风险收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「所以今天呢我们不评价模型」「首先」「再往上」「其实围绕…还没完」「上文是…那上下游呢」「所以现在很明显」。",
+      "patterns": [
+        "范围设限过渡",
+        "层递再往上",
+        "上文/那…呢对举",
+        "所以很明显收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "所以今天呢，我们不评价模型、不对比芯片，只看资本操作，来跟大家捋一捋，截止到目前",
+          "note": "不评价模型只看资本"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "最底层芯片层。",
+          "note": "最底层"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "再往上是数据中心和云计算层。",
+          "note": "再往上"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "其实围绕这两家核心大模型公司的投资还没完——还有一个重要玩家没登场，谁啊？",
+          "note": "还没完"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "那上下游的合作呢，基本上就完全没有什么派系的关系了，大家又不是直接竞争，那就都是",
+          "note": "那上下游呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "死对头竞争vs同被窝投资；股权有派系vs上下游都是好伙伴；骂完Anthropic70天又合作；融资光鲜vs欠出万亿订单。",
+      "patterns": [
+        "对手/同窝",
+        "股权派系/合作无派系",
+        "骂完又合作",
+        "光鲜/欠单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "打得你死我活却同窝"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "那上下游的合作呢，基本上就完全没有什么派系的关系了，大家又不是直接竞争，那就都是",
+          "note": "没有派系都是好伙伴"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "他今年2月26号在X上发文直接骂Anthropic, 说它反人类，邪恶，都整这么",
+          "note": "骂反人类"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要",
+          "note": "70天后合作"
+        },
+        {
+          "sentence_id": "s206",
+          "snippet": "所以，OpenAI不是一家融资1100亿的公司，而是一家融资1100亿、同时立刻",
+          "note": "融资即欠万亿"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "派系有多乱；会聊哪些公司；谁竞争谁上下游；什么叫战略合作意向书；OpenAI为何合作少；怕什么火。",
+      "patterns": [
+        "有多乱总问",
+        "关系层问",
+        "术语拆问",
+        "赤壁火问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "派系斗争有多乱？",
+          "note": "有多乱"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "首先，我今天会聊到哪些公司呢？",
+          "note": "聊哪些公司"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "谁和谁是竞争关系，谁和谁是上下游？",
+          "note": "谁竞争谁上下游"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "什么叫战略合作意向书呢？",
+          "note": "什么叫意向书"
+        },
+        {
+          "sentence_id": "s211",
+          "snippet": "火。",
+          "note": "怕什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "谷歌≤400亿投Anthropic；英伟达300亿意向；软银600亿；马斯克70天打脸；Stargate 5000亿/10GW。",
+      "patterns": [
+        "巨额投资例",
+        "打脸时间线例",
+        "Stargate规模例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "400亿"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "英伟达和OpenAI，签了300亿美元的战略合作意向书。",
+          "note": "300亿意向"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "比如，软银不就投了OpenAI 600亿么。",
+          "note": "软银600亿"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要",
+          "note": "22万GPU"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "要造号称\"史上规模最大的人工智能基础设施计划\"，要在得克萨斯州，建一个总规模50",
+          "note": "5000亿10吉瓦"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「乱」落到同层竞争异层捆绑三条主线；「战略投资」落到用我的GPU才给钱；「一条船」落到火烧赤壁。",
+      "patterns": [
+        "乱→三主线",
+        "战略投→绑定订单",
+        "一条船→赤壁火"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s191",
+          "snippet": "有这么三条主线：",
+          "note": "三条主线"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "就是我给你投资300亿，但前提是你得用多少多少我的GPU、我的芯片。",
+          "note": "用我的GPU"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "就像这么多艘大船小船都绑在了一起，来抵御风浪。",
+          "note": "大船绑一起"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「基本上这就是缩影，乱」；「上车太晚了」；「打脸就打脸吧」；「不是融资1100亿而是欠万亿」。",
+      "patterns": [
+        "乱定性",
+        "上车晚判",
+        "打脸容忍",
+        "融资即负债"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "基本上，这就是过去三年，整个AI投资圈的缩影，乱。",
+          "note": "缩影乱"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "其实这笔投资本来最高有1000亿美元，但OpenAI的估值实在太高了，说白了就是",
+          "note": "上车太晚"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "你看这就是AI圈，如此巨大的利益面前，打脸就打脸吧，况且敌人的敌人就是朋友嘛！",
+          "note": "打脸就打脸"
+        },
+        {
+          "sentence_id": "s206",
+          "snippet": "所以，OpenAI不是一家融资1100亿的公司，而是一家融资1100亿、同时立刻",
+          "note": "欠出去万亿"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「这俩放一起不太严谨我就简化了」；强调「并不是最大金主还有财务投资人」；「当然我强调一下」。",
+      "patterns": [
+        "合并不严谨自注",
+        "金主澄清强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "这俩其实放在一起不太严谨，我就简化把它俩合并了。",
+          "note": "不太严谨简化"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "当然我强调一下啊，并不是微软、谷歌、亚马逊就是它们最大金主了。",
+          "note": "强调一下"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "很大一部分都是财务投资人。",
+          "note": "很大一部分财务投资人"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "乱字短砸→标准清单→四层中板→站队总结加速→打脸故事爆点→一条船慢喻收。",
+      "patterns": [
+        "乱字短砸",
+        "站队加速",
+        "打脸爆点",
+        "慢喻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "基本上，这就是过去三年，整个AI投资圈的缩影，乱。",
+          "note": "乱"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "站队总结"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要",
+          "note": "打脸爆点"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "就像这么多艘大船小船都绑在了一起，来抵御风浪。",
+          "note": "船喻慢收"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "乱象好奇→筛选爽感→层析冷静→站队恍然→打脸爆笑→捆绑不安→赤壁警惕→下期期待。",
+      "patterns": [
+        "好奇",
+        "恍然",
+        "爆笑",
+        "不安警惕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "基本上，这就是过去三年，整个AI投资圈的缩影，乱。",
+          "note": "乱"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "格局总结"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "这马斯克赶紧给自己打圆场，说\"我跟Anthropic团队聊过了，没人触发我的邪恶",
+          "note": "打圆场笑"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "这种股份、合作捆绑，它降低了每家公司自己的风险，但增大了整体行业的系统性风险。",
+          "note": "系统性风险"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "到时候咱们就再聊吧～",
+          "note": "再聊吧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「乱」回扣到「都成一条船上的人」+系统性风险，预告上市后再聊。",
+      "patterns": [
+        "乱→一条船回扣",
+        "上市后再聊"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s199",
+          "snippet": "所以，这么乱七八糟一捆绑，大家都成了一条船上的人。",
+          "note": "一条船上的人"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "这种股份、合作捆绑，它降低了每家公司自己的风险，但增大了整体行业的系统性风险。",
+          "note": "系统性风险"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "其实，半年之前这幅图还完全不长这个样子，这里很多箭头，都是最近两个月才加上去的，",
+          "note": "年内上市"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "到时候咱们就再聊吧～",
+          "note": "再聊吧"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性「有点意思吧」确认+「到时候咱们再聊」续集预告，无硬链。",
+      "patterns": [
+        "有点意思确认",
+        "再聊续集"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s215",
+          "snippet": "以上就是大体上这帮巨头、这帮资本之间的关系，有点意思吧。",
+          "note": "有点意思吧"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "到时候咱们就再聊吧～",
+          "note": "再聊吧"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "钻一个被窝；脚踩四五条船；邪恶探测器；火烧赤壁；敌人的敌人就是朋友。",
+      "patterns": [
+        "同被窝",
+        "四五条船",
+        "邪恶探测器",
+        "火烧赤壁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "都在努力脚踩两条船、三条船、四条船。",
+          "note": "四五条船"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "这马斯克赶紧给自己打圆场，说\"我跟Anthropic团队聊过了，没人触发我的邪恶",
+          "note": "邪恶探测器"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断应用层与Stargate中段；ARR/估值数字需核时点；船喻后风险场景枚举偏快。",
+      "patterns": [
+        "截断跳段",
+        "数字时点需核",
+        "风险枚举快"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "最上面一层就是应用层，这些大模型公司也都做。",
+          "note": "跳到s90"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这个Anthropic，虽然用户数量肯定还是没有OpenAI多，但它营收，15个",
+          "note": "ARR数字"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"",
+          "note": "风险枚举"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显入围三标准主观性；「分析到最后你就能看出脉络」预告推理；用三国类比外化风险。",
+      "patterns": [
+        "标准主观外显",
+        "脉络预告",
+        "三国类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "这个范围说实在的就很主观了，我先跟大家解释一下大概的选择标准：",
+          "note": "标准很主观"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "所以今天呢，我们不评价模型、不对比芯片，只看资本操作，来跟大家捋一捋，截止到目前",
+          "note": "分析到最后脉络"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "那看过三国的朋友都知道，他们怕什么啊？",
+          "note": "看过三国"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "当朋友聊资本八卦，「朋友们」；给「不太了解的朋友」补Stargate背景。",
+      "patterns": [
+        "朋友们同位",
+        "补课式说明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们今天来一口气拆析一下，错综复杂的美国AI资本圈，和它们之间的派系之争",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "给不太了解的朋友简单介绍一下啊。",
+          "note": "不太了解的朋友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "400亿/300亿/100亿投资额；Claude估值9650亿；ARR 300→470亿；22万GPU；5000亿Stargate。",
+      "patterns": [
+        "投资额锚",
+        "估值ARR锚",
+        "GPU与Stargate锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "400亿"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "这个Anthropic，可能有些朋友没那么熟，但我说Claude你可能就听过了，",
+          "note": "9650亿"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这个Anthropic，虽然用户数量肯定还是没有OpenAI多，但它营收，15个",
+          "note": "470亿ARR"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要",
+          "note": "22万GPU"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "要造号称\"史上规模最大的人工智能基础设施计划\"，要在得克萨斯州，建一个总规模50",
+          "note": "5000亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密→标准低密→四层高密→站队高密→打脸故事中密→船喻风险中密。",
+      "patterns": [
+        "四层高密",
+        "站队高密",
+        "故事中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "英伟达显然是这一层的王者了，AI加速器市占率有百分之八九十。",
+          "note": "芯片层密"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "站队密"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "可70天之后，5月6号，马斯克的SpaceX就和Anthropic宣布合作了，要",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s206",
+          "snippet": "所以，OpenAI不是一家融资1100亿的公司，而是一家融资1100亿、同时立刻",
+          "note": "风险密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "乱钩→范围→筛玩家→四层→股权站队→合作打脸→Stargate→捆绑三条线→船与火收。",
+      "patterns": [
+        "钩→层→队→合→绑→收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我简单把AI产业链从上游到下游，分成了这么四层：",
+          "note": "四层"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "站队"
+        },
+        {
+          "sentence_id": "s199",
+          "snippet": "所以，这么乱七八糟一捆绑，大家都成了一条船上的人。",
+          "note": "一条船"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说资本关系测绘员：爱画派系、敢说打脸、用历史喻系统性风险。",
+      "patterns": [
+        "派系测绘",
+        "敢说打脸",
+        "历史喻风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "格局总结"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "你看这就是AI圈，如此巨大的利益面前，打脸就打脸吧，况且敌人的敌人就是朋友嘛！",
+          "note": "打脸就打脸"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "钻一个被窝；脚踩四五条船；邪恶探测器；融资即欠万亿；火烧赤壁。",
+      "patterns": [
+        "同被窝",
+        "四五条船",
+        "欠万亿",
+        "火烧赤壁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "比如，最近谷歌就承诺了最多400亿美元投资Anthropic，要知道Anthro",
+          "note": "被窝"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "都在努力脚踩两条船、三条船、四条船。",
+          "note": "四五条船"
+        },
+        {
+          "sentence_id": "s206",
+          "snippet": "所以，OpenAI不是一家融资1100亿的公司，而是一家融资1100亿、同时立刻",
+          "note": "欠万亿"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "可能是算力需求达不到预期，可能是电力跟不上，可能是某个公司的暴雷，都确实有可能\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "筛玩家→产业链分层→股权站队→合作打脸→系统性风险船喻，可直接用于观宇AI资本关系长视频。",
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我简单把AI产业链从上游到下游，分成了这么四层：",
+          "note": "分层教法"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "所以，围绕这两家公司投资大致的格局，可以非常笼统地总结为：",
+          "note": "站队总结"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "就像这么多艘大船小船都绑在了一起，来抵御风浪。",
+          "note": "船喻风险"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s6",
+    "s7",
+    "s12",
+    "s22",
+    "s98",
+    "s112",
+    "s125",
+    "s208",
+    "s1",
+    "s4",
+    "s5",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s190",
+    "s191",
+    "s192",
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219"
+  ],
+  "fields_complete_25": true
+}

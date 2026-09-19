@@ -1,0 +1,1221 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7650814640167666216",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7650814640167666216/",
+  "source_sha256": "2941a0179f7d897a03851359dab40cb41ebe01a8d39c57008fdaa640dcddeaa9",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 93,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "最近花呗玩出了个很神的操作。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 30,
+      "snippet": "在很多城市的便利店买完东西，碰一下付款，就能得到一个歌词袋。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 54,
+      "snippet": "很多朋友说这是一代人有一代人的鸡蛋要领，一个袋子有什么好炫耀的，但只要你多刷几回后，心中就会生出别样的情愫。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "它，不，一，样。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 23,
+      "snippet": "什么有人把这个包背着通勤的，享受超绝松驰感的；"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 27,
+      "snippet": "什么给它掏窟窿，改成狗包的，或者装上背带，改成背包的；"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 55,
+      "snippet": "什么不光年轻人上头，老奶奶也上头，有嬢嬢说这个包袋子看起来质量很好，能不能送给她，年轻人赠人玫瑰，手有余香了。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 52,
+      "snippet": "最魔幻的是，因为这是歌词袋，毛不易的歌词中【变有钱，我变有钱】那句也被印在了袋子上，这袋子就被抢疯了呀。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 75,
+      "snippet": "你别说有年轻人发动人脉，走了很多家便利店，就为了集齐毛不易的八款，就是我自己抢到一个后，都要说年轻人还是太没想象力了，我现在就想把这袋子改个马甲，走！"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 2,
+      "snippet": "街！"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 2,
+      "snippet": "串！"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 2,
+      "snippet": "巷！"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 2,
+      "snippet": "招！"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 2,
+      "snippet": "摇！"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 2,
+      "snippet": "过！"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 2,
+      "snippet": "市！"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 18,
+      "snippet": "谢谢你花呗，谢谢你，救了我的松驰感。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 25,
+      "snippet": "说白了，这种情绪源于最近很火的一个词，叫“痛X”。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 56,
+      "snippet": "粗暴点解释，就是因为太喜欢某个事物，所以恨不得把它在自己的身上或者车上挂满，密集到让人看到眼睛都痛了，就叫痛X。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 18,
+      "snippet": "本来这词儿是偏贬义，说这样漾银笑幻。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 41,
+      "snippet": "可这几年越来越发现，这生活真的好紧绷啊，好痛啊好痛啊好痛啊，我就想发疯发疯发疯啊！"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 42,
+      "snippet": "大家谁不是战战兢兢地捅了一大堆篓子，扣扣索索地花了一大笔圆子，稚气未脱的在城里办事。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 41,
+      "snippet": "小时候幻想着工作就是将头发梳成大人模样，穿上一身帅气西装，跟同事聊着几千万的生意。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 44,
+      "snippet": "没想到后来我这工作没有西装，更没有头发，那点工资让我千万别迟到，千万要用心，千万要注意。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 46,
+      "snippet": "曾经我还好奇为什么林正英老师能用一张黄纸就封印住一屋子的妖怪，长大了就看懂了，那玩意叫工牌。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 23,
+      "snippet": "嗨呀好尴尬啊，不是说人类已经进化得很高级了嘛。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 59,
+      "snippet": "怎么就我上班要当老板旋转的牛马，下班当商家待宰的鸡鸭，出门就是案板的鱼肉，回家就是白眼的狼，我一个人就是一个动物乐园。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 68,
+      "snippet": "就这么长的人生，这么多的关卡，那可不是要抓紧时间把我爱的东西痛起来嘛，就是这些小确幸是我情绪上的养分，在帮我活下去，就贴就贴就贴我就贴。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 36,
+      "snippet": "遇到一个刚好击中我情绪的歌词袋时，歌词是静音的，但我的情绪是炸裂有声的。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 45,
+      "snippet": "每个袋子都是随机的，碰一下都是随机的盲盒，从售货员掏袋子的那一刻，我就开始了几秒钟的期待。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 18,
+      "snippet": "用坏了我也不会难过，还能再期待新的。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 40,
+      "snippet": "甚至每一句歌词都像是对我的生活的嘴替，因为毛不易老师他真上过班，还是在医院上班。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 36,
+      "snippet": "要么说苦难是文学的温床，上了一天班的毛老师用两个小时，就完成了这首金曲。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 19,
+      "snippet": "开玩笑的，他其实写歌的时候还没下班呢。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 53,
+      "snippet": "挎上袋子通勤的那一刻，突然想起来了小时候还没想好要成为什么样的人的时刻，妈妈也是这样拉着自己的手去买葱的。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 41,
+      "snippet": "没成为大出息的人，也没成为聪明的人，也没成为懦弱的人，只是成为迷茫和碌碌无为的人。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 40,
+      "snippet": "整个城市有好多跟我一样的人，戴上小袋子的一刻，像是戴上了面具，又像是摘下了面具。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 63,
+      "snippet": "哎呀没关系，还来得及，这趟地铁赶不上还有下一班，下一个袋子一定会是变有钱，我的人生也一定会变有钱，变有钱我一定会变有钱变有钱！"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "正好有个袋子，我要接接接！"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 11,
+      "snippet": "搞出这一手的，是花呗；"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 14,
+      "snippet": "理解年轻人心态的，还是花呗。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 47,
+      "snippet": "道理也很简单，花呗已经成了年轻人生活习惯的一部分，对于年轻人到底热爱什么，有足够的观察和理解。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 63,
+      "snippet": "比起傻了吧唧，用花里胡哨的操作提供几分几毛的折扣，试图让受够了规训的年轻人，在支付的时刻还要感受窘迫，这一个小袋子，非常高级。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 22,
+      "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 68,
+      "snippet": "看不见的虚拟的折扣，变成了实在的情绪权益，老登们一定会觉得这一手很魔幻，但被击中内心的年轻人，甚至会再买个透明袋子，给这个袋子保护起来。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 61,
+      "snippet": "一个个年轻人常去的便利店，都能成为具体的惊喜点，生活这张千篇一律的网，突然多出了一个个小彩蛋打开点，生活也多了一点不一样。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 20,
+      "snippet": "柴米油盐中，也想要守护看星辰大海的浪漫。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 53,
+      "snippet": "甚至这个袋子操作被花呗越玩越出花，现在不光有毛不易的歌词袋，袋性恋的年轻人，现在也能挎上凤凰传奇的歌词袋。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 22,
+      "snippet": "蚂蚁你好坏，一浪又一浪，像乌蒙山连着山外山。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 58,
+      "snippet": "被PUA了这么多年所谓高级审美，现在顿悟咱就中意凤凰传奇这种血气很旺的美，小袋子一挎，原来咱就是凤凰传奇的兄弟姐妹。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "苍茫的天涯是我！"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 2,
+      "snippet": "的！"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 2,
+      "snippet": "爱！"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 31,
+      "snippet": "公交晃又怎么样，晃到司机旁边我要问他，什么样的节奏才是最呀最！"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 2,
+      "snippet": "摇！"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 2,
+      "snippet": "摆！"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 39,
+      "snippet": "甲方再找碴，你说到底为什么，都是我的错，是我的创意太想在你的心上，自由的飞翔！"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 61,
+      "snippet": "就连走在路上，跟大妈撞袋子了，那一瞬间突然觉得她也好有趣，也可以是我的好homie，不是她广场舞跳早了，而是我还是痛晚了。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 30,
+      "snippet": "甚至不光能有凤凰传奇的歌词袋，它还推出了凤凰传奇的歌词皮肤。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 19,
+      "snippet": "图片截取自: 花呗这么玩，给我整破防了"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 111,
+      "snippet": "花呗官方小编遇见凤凰传奇也仿佛“血脉觉醒”了，在一场小型凤凰传奇演唱会（凤凰传奇本人不来），主唱凤凰传人的活动中，你能看到评论区里一大群网友们开启了“鬼哭狼嚎”"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 28,
+      "snippet": "生活就像是突然喝了氮泵，下一站路，也要精精神神地走下去。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 15,
+      "snippet": "凤凰传奇之后，还会有新的歌词。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 30,
+      "snippet": "一个个写了不同文案的小袋子，就像是一个个周边，值得期待下去。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 44,
+      "snippet": "经历了物质暴增，极繁主义的时代，如今新一代年轻人成长起来，更知道自己要追求的是什么东西。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 52,
+      "snippet": "幸福也从外物，价格标签上的多少零，多少花里胡哨的噱头，变成向内求，寻找真正能够让自己获得内心平静的东西。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 20,
+      "snippet": "我知道成功本就是罕见的，平凡才是常见的。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 26,
+      "snippet": "我也知道年轻的路总是格外长，翻过这座山，还有新的坎。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 72,
+      "snippet": "回头看我的人生，很多东西我已经记不得了，只剩下一个个瞬间，那些瞬间里，一定有我拿到想要的歌词袋的那一刻，那几秒钟的快乐，拯救了我一个枯燥的下午。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 5,
+      "snippet": "谢谢花呗。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 13,
+      "snippet": "更要谢谢，热爱生活的自己。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "花呗便利店歌词袋神操作开场，先驳「袋子有什么好炫耀」再立「它不一样」。",
+      "patterns": [
+        "神操作钩子",
+        "反驳无感",
+        "它不一样定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "最近花呗玩出了个很神的操作。",
+          "note": "花呗神操作"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "很多朋友说这是一代人有一代人的鸡蛋要领，一个袋子有什么好炫耀的，但只要你多刷几回",
+          "note": "一代人鸡蛋要领"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "它，不，一，样。",
+          "note": "它不一样"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "歌词袋玩法走红→痛X情绪解释→社畜紧绷需小确幸→花呗给情绪权益非折扣→凤凰传奇扩圈→向内求幸福致谢。",
+      "patterns": [
+        "现象→痛X概念→情绪权益→扩圈→向内求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "说白了，这种情绪源于最近很火的一个词，叫“痛X”。",
+          "note": "痛X概念"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。",
+          "note": "情绪权益"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "幸福也从外物，价格标签上的多少零，多少花里胡哨的噱头，变成向内求，寻找真正能够让",
+          "note": "向内求平静"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "bag_craze",
+          "note": "歌词袋改造通勤与变有钱抢疯"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "tong_x_emotion",
+          "note": "痛X定义+社畜动物乐园+盲盒期待"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83"
+          ],
+          "function": "emotion_equity",
+          "note": "情绪权益vs折扣+凤凰传奇歌词袋狂欢"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93"
+          ],
+          "function": "inward_thanks",
+          "note": "向内求幸福+谢谢花呗与自己"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「说白了源于痛X」「搞出这一手的是花呗」「凤凰传奇之后」推进概念与品牌。",
+      "patterns": [
+        "说白了概念转",
+        "搞出这一手归因",
+        "之后还会有期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "说白了，这种情绪源于最近很火的一个词，叫“痛X”。",
+          "note": "说白了痛X"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "搞出这一手的，是花呗；",
+          "note": "搞出这一手花呗"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "凤凰传奇之后，还会有新的歌词。",
+          "note": "之后还会有"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "几分几毛折扣窘迫 vs 情绪权益高级；PUA高级审美 vs 凤凰传奇血气美；外物标签 vs 向内平静。",
+      "patterns": [
+        "折扣窘迫/情绪权益",
+        "高级审美/血气美",
+        "外物/向内"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "比起傻了吧唧，用花里胡哨的操作提供几分几毛的折扣，试图让受够了规训的年轻人，在支",
+          "note": "折扣窘迫对照"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "被PUA了这么多年所谓高级审美，现在顿悟咱就中意凤凰传奇这种血气很旺的美，小袋子",
+          "note": "凤凰传奇血气"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "幸福也从外物，价格标签上的多少零，多少花里胡哨的噱头，变成向内求，寻找真正能够让",
+          "note": "外物变向内"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不以设问驱动；用「能不能送给她」他人问句点缀现象。",
+      "patterns": [
+        "嵌入他人口语问",
+        "少用作者设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "什么不光年轻人上头，老奶奶也上头，有嬢嬢说这个包袋子看起来质量很好，能不能送给她",
+          "note": "能不能送给她"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "背袋通勤、改狗包、嬢嬢讨袋、集齐毛不易八款、凤凰传奇皮肤与鬼哭狼嚎K歌。",
+      "patterns": [
+        "改造玩法列举",
+        "代际上头",
+        "联名扩圈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "什么有人把这个包背着通勤的，享受超绝松驰感的；",
+          "note": "背着通勤"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "你别说有年轻人发动人脉，走了很多家便利店，就为了集齐毛不易的八款，就是我自己抢到",
+          "note": "集齐八款"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "花呗官方小编遇见凤凰传奇也仿佛“血脉觉醒”了，在一场小型凤凰传奇演唱会（凤凰传奇",
+          "note": "鬼哭狼嚎K歌"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「情绪权益」落到便利店碰付得袋、透明袋保护、歌词皮肤、氮泵比喻生活。",
+      "patterns": [
+        "权益抽象→触点动作",
+        "幸福向内→歌词袋瞬间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "在很多城市的便利店买完东西，碰一下付款，就能得到一个歌词袋。",
+          "note": "碰一下付款得袋"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "看不见的虚拟的折扣，变成了实在的情绪权益，老登们一定会觉得这一手很魔幻，但被击中",
+          "note": "透明袋保护"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "回头看我的人生，很多东西我已经记不得了，只剩下一个个瞬间，那些瞬间里，一定有我拿",
+          "note": "几秒钟快乐"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「非常高级」「老登们觉得魔幻」价值分层；「平凡才是常见」自况裁定。",
+      "patterns": [
+        "高级裁定",
+        "代际价值分层",
+        "平凡常见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "比起傻了吧唧，用花里胡哨的操作提供几分几毛的折扣，试图让受够了规训的年轻人，在支",
+          "note": "小袋子非常高级"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "我知道成功本就是罕见的，平凡才是常见的。",
+          "note": "平凡才常见"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "痛X本偏贬义，纠正为紧绷生活下的合理发疯；玩笑毛不易两小时写歌再纠「还没下班」。",
+      "patterns": [
+        "贬义痛X正名",
+        "玩笑立即纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "本来这词儿是偏贬义，说这样漾银笑幻。",
+          "note": "本偏贬义"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "可这几年越来越发现，这生活真的好紧绷啊，好痛啊好痛啊好痛啊，我就想发疯发疯发疯啊",
+          "note": "想发疯正名"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "开玩笑的，他其实写歌的时候还没下班呢。",
+          "note": "还没下班玩笑纠"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "「走！街！串！巷！」单字爆破与「好痛啊」三重叠加速情绪。",
+      "patterns": [
+        "单字爆破",
+        "三重叠喊叫",
+        "歌词断句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "街！",
+          "note": "走街串巷爆破"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "可这几年越来越发现，这生活真的好紧绷啊，好痛啊好痛啊好痛啊，我就想发疯发疯发疯啊",
+          "note": "好痛啊叠叫"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "苍茫的天涯是我！",
+          "note": "苍茫天涯断句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "猎奇玩梗→松弛感谢→紧绷崩溃→情绪炸裂→凤凰狂欢→温柔自谢。",
+      "patterns": [
+        "猎奇→崩→炸→狂→温"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "谢谢你花呗，谢谢你，救了我的松驰感。",
+          "note": "救了松弛感"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "可这几年越来越发现，这生活真的好紧绷啊，好痛啊好痛啊好痛啊，我就想发疯发疯发疯啊",
+          "note": "紧绷崩溃"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "更要谢谢，热爱生活的自己。",
+          "note": "谢谢自己"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场谢花呗救松弛感，结尾再谢花呗并加「热爱生活的自己」。",
+      "patterns": [
+        "双谢闭环",
+        "自爱升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "谢谢你花呗，谢谢你，救了我的松驰感。",
+          "note": "谢谢花呗松弛"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "谢谢花呗。",
+          "note": "谢谢花呗"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "更要谢谢，热爱生活的自己。",
+          "note": "谢谢自己"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性期待下一批歌词袋；无分期催用，主打情绪共鸣种草。",
+      "patterns": [
+        "周边期待软CTA",
+        "无催贷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "一个个写了不同文案的小袋子，就像是一个个周边，值得期待下去。",
+          "note": "值得期待下去"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "正好有个袋子，我要接接接！",
+          "note": "我要接接接"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "林正英工牌封印、动物乐园自嘲链、袋性恋造词、氮泵生活比喻。",
+      "patterns": [
+        "鬼片职场梗",
+        "动物乐园链",
+        "造词玩梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "曾经我还好奇为什么林正英老师能用一张黄纸就封印住一屋子的妖怪，长大了就看懂了，那",
+          "note": "林正英工牌"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "怎么就我上班要当老板旋转的牛马，下班当商家待宰的鸡鸭，出门就是案板的鱼肉，回家就",
+          "note": "动物乐园"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "甚至这个袋子操作被花呗越玩越出花，现在不光有毛不易的歌词袋，袋性恋的年轻人，现在",
+          "note": "袋性恋"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "截图堆叠多；品牌感恩段重复；部分歌词玩梗对圈外读者门檻高。",
+      "patterns": [
+        "截图多",
+        "感恩重复",
+        "圈层门檻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "（截图来自小红书）",
+          "note": "截图注释"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "甲方再找碴，你说到底为什么，都是我的错，是我的创意太想在你的心上，自由的飞翔！",
+          "note": "歌词门檻"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从「袋子咋炫耀」想到痛X，再到折扣vs情绪权益的营销认知升级。",
+      "patterns": [
+        "现象→概念→营销认知升级"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "说白了，这种情绪源于最近很火的一个词，叫“痛X”。",
+          "note": "想到痛X"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。",
+          "note": "情绪权益命名"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准「被规训的年轻人/老登看不懂」二元中的前者，邀请共戴面具松弛。",
+      "patterns": [
+        "年轻人共犯",
+        "老登对照他者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "看不见的虚拟的折扣，变成了实在的情绪权益，老登们一定会觉得这一手很魔幻，但被击中",
+          "note": "老登觉得魔幻"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "整个城市有好多跟我一样的人，戴上小袋子的一刻，像是戴上了面具，又像是摘下了面具。",
+          "note": "戴上面具摘下面具"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "变有钱歌词、毛不易八款、凤凰传奇皮肤、便利店碰付。",
+      "patterns": [
+        "歌词锚",
+        "款式数量锚",
+        "支付动作锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "最魔幻的是，因为这是歌词袋，毛不易的歌词中【变有钱，我变有钱】那句也被印在了袋子",
+          "note": "变有钱印袋"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "你别说有年轻人发动人脉，走了很多家便利店，就为了集齐毛不易的八款，就是我自己抢到",
+          "note": "八款"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "在很多城市的便利店买完东西，碰一下付款，就能得到一个歌词袋。",
+          "note": "碰一下付款"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "玩法展示中密→痛X社畜段高情低信→权益理论中密→歌词玩梗低密狂欢→收束降密。",
+      "patterns": [
+        "展示→情绪高→理论→狂欢→降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "粗暴点解释，就是因为太喜欢某个事物，所以恨不得把它在自己的身上或者车上挂满，密集",
+          "note": "痛X解释"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。",
+          "note": "权益理论"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "回头看我的人生，很多东西我已经记不得了，只剩下一个个瞬间，那些瞬间里，一定有我拿",
+          "note": "瞬间降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现象枚举→概念命名→自嘲控诉→品牌归因→联名扩写→价值收束。",
+      "patterns": [
+        "枚举-命名-控诉-归因-收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "说白了，这种情绪源于最近很火的一个词，叫“痛X”。",
+          "note": "命名痛X"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "理解年轻人心态的，还是花呗。",
+          "note": "归因花呗"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "幸福也从外物，价格标签上的多少零，多少花里胡哨的噱头，变成向内求，寻找真正能够让",
+          "note": "价值收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "社畜发疯体+营销鉴赏：又喊痛又夸高级，结尾忽然温柔。",
+      "patterns": [
+        "发疯体社畜",
+        "温柔收尾反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "可这几年越来越发现，这生活真的好紧绷啊，好痛啊好痛啊好痛啊，我就想发疯发疯发疯啊",
+          "note": "发疯"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "更要谢谢，热爱生活的自己。",
+          "note": "温柔自谢"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「情绪权益」命名+「变有钱我变有钱」+「谢谢热爱生活的自己」。",
+      "patterns": [
+        "情绪权益命名",
+        "变有钱口号",
+        "谢自己"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。",
+          "note": "情绪权益"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "哎呀没关系，还来得及，这趟地铁赶不上还有下一班，下一个袋子一定会是变有钱，我的人",
+          "note": "变有钱叠唱"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "更要谢谢，热爱生活的自己。",
+          "note": "谢自己"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「物质折扣→情绪权益」框架可迁到其他年轻向品牌活动评述，需换联名IP与痛点段。",
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "比起傻了吧唧，用花里胡哨的操作提供几分几毛的折扣，试图让受够了规训的年轻人，在支",
+          "note": "折扣vs袋子"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "它提供的不是粗暴的物质价值，是【情绪权益】。",
+          "note": "情绪权益"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "幸福也从外物，价格标签上的多少零，多少花里胡哨的噱头，变成向内求，寻找真正能够让",
+          "note": "向内求"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s5",
+    "s6",
+    "s26",
+    "s56",
+    "s88",
+    "s1",
+    "s2",
+    "s4",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93"
+  ],
+  "fields_complete_25": true
+}

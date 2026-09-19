@@ -1,0 +1,1376 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_XDXeZk6a170",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=XDXeZk6a170",
+  "source_sha256": "924effc1055b9df55fe08b7c1928da5a28b393ad99deb0076a85437d51c40b2a",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "你有沒有想過一個問題"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "為什麼美國總是有持續不斷"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "大量的貿易逆差"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "咱們上厲害的圖了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "我統計了過去35年裡"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "全球所有國家的經常賬戶差額"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "這個圖裡邊"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "上面這些就是順差"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "下面這些就是逆差"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "咱們把美國、中國、德國、日本"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 12,
+      "snippet": "和石油輸出國單獨給拎出來"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "是不是很明顯"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 2,
+      "snippet": "這個"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "人就能說撐起了貿易逆差的大旗"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "一個人扛下了所有"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 15,
+      "snippet": "成了全世界最能\"買買買\"的國家"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "說好聽點就是全世界最大的甲方"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "這個其實也是讓特朗普"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "他非常不爽的地方"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "他就多次提到"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 10,
+      "snippet": "要減小美國的貿易逆差"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "你看他一上任"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "首要任務就是開始貿易戰"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "給加拿大三個中國加關稅"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "而這"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "恰好是美國最大的進口"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "國說官方最後的理由是說"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 18,
+      "snippet": "為了報復邊境安全、毒品問題、移民問題"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "但是很多人都認為"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 17,
+      "snippet": "這個很可能跟美國巨大的貿易逆差有關"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "咱們縱觀歷史"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "美國從1970年代開始"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "貿易逆差就在持續不斷的擴大"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 13,
+      "snippet": "這個現像在全球所有國家裡頭"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "可以說是絕無僅有"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "冠絕非全球"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "你說美國"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 41,
+      "snippet": "它為什麼會積累這麼大的貿易逆差而為什麼也這麼大的貿易逆差而為什麼也這麼大的貿易逆"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "而為什麼也這麼大只有美國"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 13,
+      "snippet": "才可能累積這麼大的貿易逆差"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "貿易逆差它真的就不好嗎"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "哎這些問題"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 13,
+      "snippet": "可能並不像你想像的那麼簡單"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "哎大家做好心理準備"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "這期內容呢"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "我覺得是非常有意思"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "但相對來說呢"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "可能也比較硬核"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 10,
+      "snippet": "如果你覺得太乾的話呢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 15,
+      "snippet": "我建議你可以就點水或者收藏起來"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 13,
+      "snippet": "對吧這都屬於資本本身的流動"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 10,
+      "snippet": "雖說美國它在貿易這塊"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 7,
+      "snippet": "一直是處於逆差"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 20,
+      "snippet": "但如果我們把金融賬戶資本賬戶的流動一起看"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 16,
+      "snippet": "是吧多麼漂亮完美的一個軸對稱圖表"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 14,
+      "snippet": "所以說這個匯率自動調節的機制"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 8,
+      "snippet": "它其實並沒有失靈"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 10,
+      "snippet": "只不過大家平時聽到的"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 9,
+      "snippet": "可能只是故事的一半"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 3,
+      "snippet": "這張圖"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 8,
+      "snippet": "這 是這個視頻的"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 2,
+      "snippet": "精髓"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 2,
+      "snippet": "才是"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 2,
+      "snippet": "這個"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 2,
+      "snippet": "故事"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 2,
+      "snippet": "全貌"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 7,
+      "snippet": "Account"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 15,
+      "snippet": "Capital Account"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 17,
+      "snippet": "Financial Account"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 9,
+      "snippet": "這三大帳戶結合起來"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 13,
+      "snippet": "就是一個國家整體的國際收支"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 18,
+      "snippet": "Balance of Payment"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 11,
+      "snippet": "怎麼變成英語課了..."
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 9,
+      "snippet": "這個經常賬戶下面呢"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 8,
+      "snippet": "最主要的就是貿易"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 4,
+      "snippet": "除此之外"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 15,
+      "snippet": "可能有一些投資收入股息工資等等"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 1,
+      "snippet": "但"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 6,
+      "snippet": "主要就是貿易"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 7,
+      "snippet": "所以很多時候呢"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 11,
+      "snippet": "有人會把貿易的順差逆差"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 1,
+      "snippet": "和"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 2,
+      "snippet": "金融"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 3,
+      "snippet": "賬戶的"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 6,
+      "snippet": "順差逆差流動"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 7,
+      "snippet": "用跨國直接投資"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 16,
+      "snippet": "再比如說各地各國銀行保險公司基金"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 9,
+      "snippet": "他可能去買美股美債"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 6,
+      "snippet": "包括各國央行"
+    },
+    {
+      "sentence_id": "s593",
+      "char_len": 5,
+      "snippet": "我記得當時"
+    },
+    {
+      "sentence_id": "s594",
+      "char_len": 17,
+      "snippet": "默克爾經常就拉著各國領導人正好開會"
+    },
+    {
+      "sentence_id": "s595",
+      "char_len": 5,
+      "snippet": "哎你乍一看"
+    },
+    {
+      "sentence_id": "s596",
+      "char_len": 14,
+      "snippet": "就覺得這個德國非常有大哥風範"
+    },
+    {
+      "sentence_id": "s597",
+      "char_len": 3,
+      "snippet": "啊 救"
+    },
+    {
+      "sentence_id": "s598",
+      "char_len": 4,
+      "snippet": "那些小弟"
+    },
+    {
+      "sentence_id": "s599",
+      "char_len": 1,
+      "snippet": "己"
+    },
+    {
+      "sentence_id": "s600",
+      "char_len": 14,
+      "snippet": "還有一種貿易逆差它也非常不好"
+    },
+    {
+      "sentence_id": "s601",
+      "char_len": 7,
+      "snippet": "比如說斯里蘭卡"
+    },
+    {
+      "sentence_id": "s602",
+      "char_len": 8,
+      "snippet": "國家經濟面臨崩潰"
+    },
+    {
+      "sentence_id": "s603",
+      "char_len": 9,
+      "snippet": "政府借了大量的外債"
+    },
+    {
+      "sentence_id": "s604",
+      "char_len": 12,
+      "snippet": "它的貨幣面臨著崩盤的壓力"
+    },
+    {
+      "sentence_id": "s605",
+      "char_len": 11,
+      "snippet": "央行不得不人為抬高匯率"
+    },
+    {
+      "sentence_id": "s606",
+      "char_len": 12,
+      "snippet": "它也陷入了嚴重的貿易逆差"
+    },
+    {
+      "sentence_id": "s607",
+      "char_len": 6,
+      "snippet": "甚至物資短缺"
+    },
+    {
+      "sentence_id": "s608",
+      "char_len": 7,
+      "snippet": "所以你看到沒有"
+    },
+    {
+      "sentence_id": "s609",
+      "char_len": 6,
+      "snippet": "這個貿易逆差"
+    },
+    {
+      "sentence_id": "s610",
+      "char_len": 13,
+      "snippet": "它可以發生在非常健康的國家"
+    },
+    {
+      "sentence_id": "s611",
+      "char_len": 6,
+      "snippet": "也可以發生在"
+    },
+    {
+      "sentence_id": "s612",
+      "char_len": 7,
+      "snippet": "這種經濟泥潭家"
+    },
+    {
+      "sentence_id": "s613",
+      "char_len": 3,
+      "snippet": "要不那"
+    },
+    {
+      "sentence_id": "s614",
+      "char_len": 19,
+      "snippet": "ItItItIt depends..."
+    },
+    {
+      "sentence_id": "s615",
+      "char_len": 4,
+      "snippet": "這期影片"
+    },
+    {
+      "sentence_id": "s616",
+      "char_len": 16,
+      "snippet": "其實是我當時查關稅那期影片的時候"
+    },
+    {
+      "sentence_id": "s617",
+      "char_len": 10,
+      "snippet": "產生出來的一些小思考"
+    },
+    {
+      "sentence_id": "s618",
+      "char_len": 10,
+      "snippet": "說實在的可能有點理論"
+    },
+    {
+      "sentence_id": "s619",
+      "char_len": 18,
+      "snippet": "就他其實涉及到了很多的推導和邏輯思考"
+    },
+    {
+      "sentence_id": "s620",
+      "char_len": 8,
+      "snippet": "不是那種講故事的"
+    },
+    {
+      "sentence_id": "s621",
+      "char_len": 10,
+      "snippet": "所以看到這的朋友們哎"
+    },
+    {
+      "sentence_id": "s622",
+      "char_len": 7,
+      "snippet": "也是辛苦你們了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "设问美国为何持续巨额贸易逆差，立刻甩全球经常账户图把美国一人扛逆差可视化。",
+      "patterns": [
+        "设问开场",
+        "图表砸脸可视化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你有沒有想過一個問題",
+          "note": "你有没有想过一个问题"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "大量的貿易逆差",
+          "note": "大量的贸易逆差"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "咱們上厲害的圖了",
+          "note": "上厉害的图了"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "一個人扛下了所有",
+          "note": "一个人扛下了所有"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "美国独扛全球逆差→特朗普关税欲缩逆差→1970s起绝无仅有扩大→贸易只是故事一半→经常/资本/金融三账户对称→逆差可好可坏取决于国。",
+      "patterns": [
+        "独扛逆差",
+        "关税动机",
+        "历史独特性",
+        "三账户全貌",
+        "逆差情境依赖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "一個人扛下了所有",
+          "note": "一个人扛下所有"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "首要任務就是開始貿易戰",
+          "note": "首要任务贸易战"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "貿易逆差就在持續不斷的擴大",
+          "note": "1970年代持续扩大"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "只是故事的一半"
+        },
+        {
+          "sentence_id": "s312",
+          "snippet": "這三大帳戶結合起來",
+          "note": "三大账户结合"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s4",
+            "s10",
+            "s15",
+            "s16"
+          ],
+          "function": "chart_hook",
+          "note": "设问+经常账户图美国独扛"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s23",
+            "s30",
+            "s33",
+            "s40"
+          ],
+          "function": "trump_history",
+          "note": "特朗普不爽与历史独特性追问"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s41",
+            "s48",
+            "s292",
+            "s296",
+            "s300"
+          ],
+          "function": "half_story",
+          "note": "逆差好不好+资本金融对称补全"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s303",
+            "s312",
+            "s314",
+            "s317"
+          ],
+          "function": "bop_framework",
+          "note": "国际收支三账户精髓框架"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s600",
+            "s606",
+            "s610",
+            "s614",
+            "s622"
+          ],
+          "function": "context_close",
+          "note": "健康国vs泥潭国逆差+辛苦观众收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "咱们上图了/纵观历史/哎这些问可能不简单/所以说机制并没失灵/你看到没有。",
+      "patterns": [
+        "上图转场",
+        "纵观历史",
+        "所以说揭底",
+        "你看到没有"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "咱們上厲害的圖了",
+          "note": "咱们上厉害的图了"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "咱們縱觀歷史",
+          "note": "咱们纵观历史"
+        },
+        {
+          "sentence_id": "s297",
+          "snippet": "所以說這個匯率自動調節的機制",
+          "note": "所以说汇率机制并未失灵"
+        },
+        {
+          "sentence_id": "s608",
+          "snippet": "所以你看到沒有",
+          "note": "所以你看到没有"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "顺差国上面 vs 逆差美国下面；贸易逆差一半故事 vs 资本金融对称全貌；健康国逆差 vs 斯里兰卡崩溃逆差。",
+      "patterns": [
+        "图上下对撞",
+        "一半/全貌",
+        "健康/泥潭逆差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "上面這些就是順差",
+          "note": "上面顺差"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "下面這些就是逆差",
+          "note": "下面逆差"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "故事的一半"
+        },
+        {
+          "sentence_id": "s308",
+          "snippet": "全貌",
+          "note": "故事的全貌"
+        },
+        {
+          "sentence_id": "s601",
+          "snippet": "比如說斯里蘭卡",
+          "note": "斯里兰卡"
+        },
+        {
+          "sentence_id": "s610",
+          "snippet": "它可以發生在非常健康的國家",
+          "note": "健康国家也能逆差"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "为何持续逆差、为何只有美国能累这么大、逆差真的不好吗、层层硬核预告。",
+      "patterns": [
+        "为何逆差",
+        "为何只有美国",
+        "好不好开放问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "為什麼美國總是有持續不斷",
+          "note": "为什么美国总是"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "它為什麼會積累這麼大的貿易逆差而為什麼也這麼大的貿易逆差而為什麼也這麼大的貿易逆",
+          "note": "为什么会积累这么大"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "貿易逆差它真的就不好嗎",
+          "note": "贸易逆差真的就不好吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "加中加关税对象、轴对称账户图、默克尔救小弟观感、斯里兰卡外债崩盘。",
+      "patterns": [
+        "关税对象",
+        "轴对称图",
+        "德国大哥",
+        "斯里兰卡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "給加拿大三個中國加關稅",
+          "note": "加拿大中国加关税"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "是吧多麼漂亮完美的一個軸對稱圖表",
+          "note": "轴对称图表"
+        },
+        {
+          "sentence_id": "s596",
+          "snippet": "就覺得這個德國非常有大哥風範",
+          "note": "德国非常有大哥风范"
+        },
+        {
+          "sentence_id": "s603",
+          "snippet": "政府借了大量的外債",
+          "note": "借了大量外债"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把国际收支抽象框架落到贸易/股息工资与买美股美债的具体资金流。",
+      "patterns": [
+        "账户框架落地",
+        "资金流具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s317",
+          "snippet": "最主要的就是貿易",
+          "note": "最主要的就是贸易"
+        },
+        {
+          "sentence_id": "s319",
+          "snippet": "可能有一些投資收入股息工資等等",
+          "note": "投资收入股息工资"
+        },
+        {
+          "sentence_id": "s330",
+          "snippet": "他可能去買美股美債",
+          "note": "买美股美债"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言绝无仅有冠绝全球、这张图是精髓全貌、It depends。",
+      "patterns": [
+        "绝无仅有断语",
+        "精髓全貌断语",
+        "情境依赖断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "可以說是絕無僅有",
+          "note": "绝无仅有"
+        },
+        {
+          "sentence_id": "s303",
+          "snippet": "精髓",
+          "note": "精髓"
+        },
+        {
+          "sentence_id": "s308",
+          "snippet": "全貌",
+          "note": "故事的全貌"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先暗示汇率失灵，随即纠正并没失灵只是只听一半；先说贸易逆差再澄清常与金融账户混谈。",
+      "patterns": [
+        "失灵纠正",
+        "账户混谈澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s298",
+          "snippet": "它其實並沒有失靈",
+          "note": "其实并没有失灵"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "只是故事一半"
+        },
+        {
+          "sentence_id": "s322",
+          "snippet": "所以很多時候呢",
+          "note": "有人会把贸易和金融混"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "设问短句→图表解说中速→硬核预警→账户定义稍慢→案例对比加速→轻松致谢收。",
+      "patterns": [
+        "设问短",
+        "图解中",
+        "硬核预警",
+        "致谢轻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你有沒有想過一個問題",
+          "note": "设问短"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "可能也比較硬核",
+          "note": "比较硬核预警"
+        },
+        {
+          "sentence_id": "s314",
+          "snippet": "Balance of Payment",
+          "note": "Balance of Payment"
+        },
+        {
+          "sentence_id": "s622",
+          "snippet": "也是辛苦你們了",
+          "note": "辛苦你们了"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇设问→图表震撼→政治焦虑→硬核紧张→揭秘爽感→案例警惕→体贴收束。",
+      "patterns": [
+        "好奇→震撼→焦虑→紧张→揭秘→警惕→体贴"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "一個人扛下了所有",
+          "note": "一人扛下震撼"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "他非常不爽的地方",
+          "note": "特朗普不爽焦虑"
+        },
+        {
+          "sentence_id": "s303",
+          "snippet": "精髓",
+          "note": "精髓揭秘爽"
+        },
+        {
+          "sentence_id": "s622",
+          "snippet": "也是辛苦你們了",
+          "note": "辛苦你们了体贴"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从逆差好不好开放问回到健康/泥潭都可能逆差，It depends收束并致谢硬核观众。",
+      "patterns": [
+        "开放问回扣",
+        "depends收束",
+        "致谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "貿易逆差它真的就不好嗎",
+          "note": "逆差真的不好吗"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        },
+        {
+          "sentence_id": "s622",
+          "snippet": "也是辛苦你們了",
+          "note": "辛苦你们了"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "太干可点水或收藏的降低门槛提示，无硬关注话术。",
+      "patterns": [
+        "点水收藏降门槛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "如果你覺得太乾的話呢",
+          "note": "觉得太干的话"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "我建議你可以就點水或者收藏起來",
+          "note": "点赞或收藏起来"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "上厉害的图了、怎么变成英语课了、ItItIt depends口误式口语。",
+      "patterns": [
+        "上图口语",
+        "英语课自嘲",
+        "depends口误"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "咱們上厲害的圖了",
+          "note": "上厉害的图了"
+        },
+        {
+          "sentence_id": "s315",
+          "snippet": "怎麼變成英語課了...",
+          "note": "怎么变成英语课了"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口从开场跳到中后段截断感强；ASR重复句；硬核推导对音频听众负担大。",
+      "patterns": [
+        "截断跳跃",
+        "ASR重复",
+        "硬核负担"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "它為什麼會積累這麼大的貿易逆差而為什麼也這麼大的貿易逆差而為什麼也這麼大的貿易逆",
+          "note": "ASR重复堆积"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "我建議你可以就點水或者收藏起來",
+          "note": "之后跳到s292"
+        },
+        {
+          "sentence_id": "s619",
+          "snippet": "就他其實涉及到了很多的推導和邏輯思考",
+          "note": "涉及很多推导"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开展示从贸易半边故事补到三账户轴对称，再落到情境依赖结论。",
+      "patterns": [
+        "半边补全",
+        "框架后情境化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s295",
+          "snippet": "但如果我們把金融賬戶資本賬戶的流動一起看",
+          "note": "金融资本账户一起看"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "是吧多麼漂亮完美的一個軸對稱圖表",
+          "note": "轴对称完美"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "取决于情境"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当被媒体叙事带偏的认真学习者，预警硬核并致谢看到最后的人。",
+      "patterns": [
+        "被带偏的学习者",
+        "硬核观众致谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "哎大家做好心理準備",
+          "note": "做好心理准备"
+        },
+        {
+          "sentence_id": "s299",
+          "snippet": "只不過大家平時聽到的",
+          "note": "平时听到只是一半"
+        },
+        {
+          "sentence_id": "s621",
+          "snippet": "所以看到這的朋友們哎",
+          "note": "看到这的朋友们"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "35年全球经常账户图、1970s起扩大、三账户英文名、斯里兰卡外債。",
+      "patterns": [
+        "35年统计图",
+        "1970年代",
+        "账户名称",
+        "斯里兰卡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我統計了過去35年裡",
+          "note": "过去35年"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "美國從1970年代開始",
+          "note": "从1970年代开始"
+        },
+        {
+          "sentence_id": "s314",
+          "snippet": "Balance of Payment",
+          "note": "Balance of Payment"
+        },
+        {
+          "sentence_id": "s601",
+          "snippet": "比如說斯里蘭卡",
+          "note": "斯里兰卡"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场图解中高密→问题清单升密→账户定义峰值→案例降密致谢。",
+      "patterns": [
+        "图解中高",
+        "问题升",
+        "账户峰",
+        "案例降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我統計了過去35年裡",
+          "note": "35年统计中高"
+        },
+        {
+          "sentence_id": "s312",
+          "snippet": "這三大帳戶結合起來",
+          "note": "三大账户峰"
+        },
+        {
+          "sentence_id": "s615",
+          "snippet": "這期影片",
+          "note": "创作缘起降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问短句与账户定义短词交替，中段出现解释长句与英文插入。",
+      "patterns": [
+        "设问短句",
+        "英文插入",
+        "解释长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你有沒有想過一個問題",
+          "note": "设问短句"
+        },
+        {
+          "sentence_id": "s309",
+          "snippet": "Account",
+          "note": "Account英文碎句"
+        },
+        {
+          "sentence_id": "s295",
+          "snippet": "但如果我們把金融賬戶資本賬戶的流動一起看",
+          "note": "金融账户一起看长句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "硬核财经老师：敢预警太干，也敢说故事一半并留给观众It depends。",
+      "patterns": [
+        "硬核预警",
+        "反媒体半故事",
+        "开放结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "可能也比較硬核",
+          "note": "比较硬核"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "故事一半"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "一个人扛下所有；故事的一半/全貌；It depends。",
+      "patterns": [
+        "一人扛下",
+        "一半全貌",
+        "depends"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "一個人扛下了所有",
+          "note": "一个人扛下了所有"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "故事的一半"
+        },
+        {
+          "sentence_id": "s308",
+          "snippet": "全貌",
+          "note": "故事的全貌"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "It depends"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "图表设问+纠正媒体半故事+三账户框架+情境依赖收束，是观宇宏观硬核解说高复用模板。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "咱們上厲害的圖了",
+          "note": "上图开场可直接用"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "可能只是故事的一半",
+          "note": "半故事纠正可直接用"
+        },
+        {
+          "sentence_id": "s614",
+          "snippet": "ItItItIt depends...",
+          "note": "depends收束可直接用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s4",
+    "s15",
+    "s23",
+    "s33",
+    "s300",
+    "s312",
+    "s614",
+    "s10",
+    "s16",
+    "s18",
+    "s30",
+    "s40",
+    "s41",
+    "s48",
+    "s292",
+    "s296",
+    "s303",
+    "s314",
+    "s317",
+    "s600",
+    "s606",
+    "s610",
+    "s622",
+    "s31",
+    "s297",
+    "s608",
+    "s8",
+    "s9",
+    "s308",
+    "s601",
+    "s2",
+    "s38",
+    "s24",
+    "s596",
+    "s603",
+    "s319",
+    "s330",
+    "s35",
+    "s298",
+    "s322",
+    "s19",
+    "s49",
+    "s50",
+    "s315",
+    "s619",
+    "s295",
+    "s44",
+    "s299",
+    "s621",
+    "s5",
+    "s32",
+    "s615",
+    "s309"
+  ],
+  "fields_complete_25": true
+}

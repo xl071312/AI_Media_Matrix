@@ -1,0 +1,940 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7680083230761976330",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7680083230761976330/",
+  "source_sha256": "4499aa254bf85627a3ffbd0a4a7f465bb88b00d9e3f964f10667d09881845181",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 36,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 35,
+      "snippet": "周末跟老婆逛街，逛到拱宸桥那边，突然发现那边的盒马杭州首店，要闭店了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 58,
+      "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 40,
+      "snippet": "而且桥对面也有个更大的天阳D32店，这家的确是有点老了，顶不住了要收缩也能理解。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "但又一想，不对。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 40,
+      "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 34,
+      "snippet": "店当然要开，但与其怼大店给房东上供，不如整大仓库+中小店的效率更高。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 77,
+      "snippet": "线下开店，房东收租是绕不过的事情，基本你开过店都会被房东收拾过，而且跟房东讲合同"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 24,
+      "snippet": "也不用觉得房东来者不善，因为严格来说你才是来者。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 21,
+      "snippet": "但这时候，要思考一个问题，那为啥还要开呢？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "不租不行吗？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "为什么要给房东交租呢？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "闲着没事儿跟钱有仇吗？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "喜欢这种开店不赚钱纯当牛马的感觉吗？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "在当年，这个答案是，不得不开。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 60,
+      "snippet": "因为你需要这个店在这里，房租越贵越得在这里，你需要这件事情存在，告诉那些消费者，"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 54,
+      "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 51,
+      "snippet": "但，当品牌知名到一定程度之后，你会发现你不需要支付这种广告费了，消费者知道你了，"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 22,
+      "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 54,
+      "snippet": "当你不需要告诉消费者你是谁了，大家都默认你跑不了了，聊点实在的吧，那最需要的还是"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 23,
+      "snippet": "没必要去整大店了，反正太多消费者已经不逛店了。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "送的更快，更重要。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 66,
+      "snippet": "只要货是一样的，没人会在意这个货是从大店拿来的还是前置仓拿来的，只要你能足额保质"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 23,
+      "snippet": "当消费者知道你是谁的时候，速度就成了关键要素。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "那，如何送的更快？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "铺更多的店，更多的仓库。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 19,
+      "snippet": "注意，不是更多大店，是中小店+大仓库。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 60,
+      "snippet": "大店虽然得有，但不需要这么多了，一个城市有1到2家作为样板其实就足够了，其他所有"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "只有这样，才能对抗房东的压力。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 46,
+      "snippet": "中小店的房东，在盒马面前，攻守易型，持有大物业的人难搞，持有中小物业的分散房东其"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 28,
+      "snippet": "而大仓库的房东，那真的是仓库这种非商业体有人租就不错了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 26,
+      "snippet": "注意哦，不是大物业，是，大仓库，类似快递那种大仓库。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 57,
+      "snippet": "而省下来的钱，可以更激进的用于发券，拓更多的仓库和小店，然后更大的规模，更快的速"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 21,
+      "snippet": "之前说过无数次，线下实体最大的挑战是房东。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 33,
+      "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 14,
+      "snippet": "下一赛段，就是比谁跑得快了。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "周末逛街发现拱宸桥盒马首店闭店，先感慨九年记忆再翻盘。",
+      "patterns": [
+        "逛街偶遇",
+        "九年记忆",
+        "翻盘不对"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "周末跟老婆逛街，逛到拱宸桥那边，突然发现那边的盒马杭州首店，要闭店了。",
+          "note": "首店闭店"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "九年记忆"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "但又不对"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "看似收缩→实为进攻优化房东→大店曾是信任抵押→品牌够强后要跑得快→中小店+大仓库→压房东成本翻BOSS。",
+      "patterns": [
+        "假收缩真进攻",
+        "租金即广告",
+        "跑得快",
+        "仓店模型",
+        "翻BOSS"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "更激进进攻"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "房租是广告费"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "跑得快更重要"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "注意，不是更多大店，是中小店+大仓库。",
+          "note": "中小店+仓库"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "翻过BOSS"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "function": "reframe_closure",
+          "note": "闭店=优化房东进攻"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "rent_as_trust",
+          "note": "为何不得不交租=信誉抵押"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "speed_over_presence",
+          "note": "品牌够后速度优先"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "store_warehouse_model",
+          "note": "样板大店+中小店仓库"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "boss_stage",
+          "note": "压房东=翻BOSS下一赛段"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但又一想不对」「这时候要思考」「注意哦不是…是…」纠偏推进。",
+      "patterns": [
+        "又一想不对",
+        "要思考",
+        "注意不是是"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "又不对"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但这时候，要思考一个问题，那为啥还要开呢？",
+          "note": "要思考"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "注意哦，不是大物业，是，大仓库，类似快递那种大仓库。",
+          "note": "注意不是大物业"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "收缩 vs 进攻；跑不了 vs 跑得快；大店上供 vs 仓库效率；大物业房东难搞 vs 分散中小房东。",
+      "patterns": [
+        "收缩/进攻",
+        "跑不了/跑得快",
+        "大店/仓库",
+        "房东攻守"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "进攻"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "跑得快"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "店当然要开，但与其怼大店给房东上供，不如整大仓库+中小店的效率更高。",
+          "note": "仓库效率"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "中小店的房东，在盒马面前，攻守易型，持有大物业的人难搞，持有中小物业的分散房东其",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为啥还要开」「不租不行吗」「闲着跟钱有仇吗」连环逼问后自答。",
+      "patterns": [
+        "连环逼问",
+        "自答不得不"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但这时候，要思考一个问题，那为啥还要开呢？",
+          "note": "为啥还开"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "不租不行吗？",
+          "note": "不租不行"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "闲着没事儿跟钱有仇吗？",
+          "note": "跟钱有仇"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "在当年，这个答案是，不得不开。",
+          "note": "不得不开"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "拱宸桥杭州首店；对面天阳D32；一城1-2家样板大店；快递式大仓库。",
+      "patterns": [
+        "首店",
+        "D32",
+        "样板店数",
+        "快递仓"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "周末跟老婆逛街，逛到拱宸桥那边，突然发现那边的盒马杭州首店，要闭店了。",
+          "note": "拱宸桥首店"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "而且桥对面也有个更大的天阳D32店，这家的确是有点老了，顶不住了要收缩也能理解。",
+          "note": "天阳D32"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "大店虽然得有，但不需要这么多了，一个城市有1到2家作为样板其实就足够了，其他所有",
+          "note": "1到2家样板"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "注意哦，不是大物业，是，大仓库，类似快递那种大仓库。",
+          "note": "快递大仓库"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「信任招牌」落到大额房租抵押；「跑得快」落到更多前置仓与发券拓店。",
+      "patterns": [
+        "房租抵押具象",
+        "仓店拓张具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "房租=广告费"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "铺更多的店，更多的仓库。",
+          "note": "更多仓库"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "而省下来的钱，可以更激进的用于发券，拓更多的仓库和小店，然后更大的规模，更快的速",
+          "note": "发券拓仓"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「跟房东讲道理很荒谬」「跑得快比跑不了更重要」「等于翻过BOSS阶段」。",
+      "patterns": [
+        "荒谬",
+        "跑得快",
+        "翻BOSS"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "线下开店，房东收租是绕不过的事情，基本你开过店都会被房东收拾过，而且跟房东讲合同",
+          "note": "讲道理荒谬"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "跑得快更重要"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "翻BOSS"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先感慨顶不住收缩，立刻改判「不是收缩是更激进进攻」。",
+      "patterns": [
+        "收缩→进攻改判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "而且桥对面也有个更大的天阳D32店，这家的确是有点老了，顶不住了要收缩也能理解。",
+          "note": "收缩理解"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "改判进攻"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "叙事慢开→不对翻盘→逼问连珠加速→理论段稳→仓店方案中速→BOSS短收。",
+      "patterns": [
+        "慢开",
+        "翻盘",
+        "连珠问",
+        "稳论",
+        "短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "慢开"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "翻盘"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "不租不行吗？",
+          "note": "连珠"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "下一赛段，就是比谁跑得快了。",
+          "note": "短收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "怀旧感慨→警觉翻盘→对房东无奈嘲讽→顿悟速度→进攻兴奋→通关感。",
+      "patterns": [
+        "怀旧",
+        "警觉",
+        "嘲讽",
+        "顿悟",
+        "兴奋",
+        "通关"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "怀旧"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "警觉"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "线下开店，房东收租是绕不过的事情，基本你开过店都会被房东收拾过，而且跟房东讲合同",
+          "note": "嘲讽"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "顿悟"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "通关"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场闭店疑问，收束压房东成本=翻BOSS、下一赛段比谁跑得快。",
+      "patterns": [
+        "闭店问",
+        "翻BOSS收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "周末跟老婆逛街，逛到拱宸桥那边，突然发现那边的盒马杭州首店，要闭店了。",
+          "note": "闭店"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "翻BOSS"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "下一赛段，就是比谁跑得快了。",
+          "note": "比谁跑得快"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬广；「聊点实在的」态度号召，行动隐含看仓店效率。",
+      "patterns": [
+        "态度软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "当你不需要告诉消费者你是谁了，大家都默认你跑不了了，聊点实在的吧，那最需要的还是",
+          "note": "聊点实在的"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "下一赛段，就是比谁跑得快了。",
+          "note": "比谁跑得快"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "拱宸桥九年恋爱记忆；「你才是来者」房东金句；游戏BOSS隐喻。",
+      "patterns": [
+        "私密记忆",
+        "来者金句",
+        "BOSS喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "恋爱记忆"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不用觉得房东来者不善，因为严格来说你才是来者。",
+          "note": "你才是来者"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "BOSS"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "盒马策略属推断缺财报引用；对房东态度偏情绪化；样板店数量缺来源。",
+      "patterns": [
+        "推断缺数",
+        "情绪化",
+        "店数无源"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "推断进攻"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "线下开店，房东收租是绕不过的事情，基本你开过店都会被房东收拾过，而且跟房东讲合同",
+          "note": "情绪"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "大店虽然得有，但不需要这么多了，一个城市有1到2家作为样板其实就足够了，其他所有",
+          "note": "1-2家"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「闭店→不像收缩→租金曾是广告→品牌后速度优先」的改判推理。",
+      "patterns": [
+        "改判推理链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "不对"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "租金广告"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "跑得快"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准开过店/关心零售的读者，用「基本你开过店都会被房东收拾过」同盟。",
+      "patterns": [
+        "开店同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "线下开店，房东收租是绕不过的事情，基本你开过店都会被房东收拾过，而且跟房东讲合同",
+          "note": "开过店被收拾"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不用觉得房东来者不善，因为严格来说你才是来者。",
+          "note": "你才是来者"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "拱宸桥杭州首店；九年；天阳D32；一城1-2家样板；中小店+大仓库。",
+      "patterns": [
+        "首店",
+        "九年",
+        "D32",
+        "1-2家",
+        "仓店"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "周末跟老婆逛街，逛到拱宸桥那边，突然发现那边的盒马杭州首店，要闭店了。",
+          "note": "首店"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "九年"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "而且桥对面也有个更大的天阳D32店，这家的确是有点老了，顶不住了要收缩也能理解。",
+          "note": "D32"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "大店虽然得有，但不需要这么多了，一个城市有1到2家作为样板其实就足够了，其他所有",
+          "note": "1-2家"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "叙事低密→逼问低密→理论中密→仓店方案高密→BOSS金句低密。",
+      "patterns": [
+        "低叙事",
+        "低问",
+        "中论",
+        "高方案",
+        "低金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "大店虽然得有，但不需要这么多了，一个城市有1到2家作为样板其实就足够了，其他所有",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "金句"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "生活长句开；短句「但又不对」；四连短问；判断金句短收。",
+      "patterns": [
+        "生活长句",
+        "短翻盘",
+        "四连问",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一开始有点感慨，毕竟这家店承载了我们年轻时候很多记忆，我和我老婆谈恋爱的时候没少",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "短翻"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "不租不行吗？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "下一赛段，就是比谁跑得快了。",
+          "note": "短收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "零售老炮：把闭店读成打房东，用游戏通关语感讲效率战争。",
+      "patterns": [
+        "打房东老炮",
+        "通关语感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "优化房东"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "中小店的房东，在盒马面前，攻守易型，持有大物业的人难搞，持有中小物业的分散房东其",
+          "note": "攻守易型"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "翻BOSS"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "盒马闭店打房东；房租是广告费；跑得快比跑不了重要；中小店+大仓库；翻BOSS。",
+      "patterns": [
+        "打房东",
+        "广告费",
+        "跑得快",
+        "仓店",
+        "翻BOSS"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "盒马这不是要收缩，这是要更激进的进攻了，为了放开手脚打，得把房东部分给优化一下。",
+          "note": "打房东"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "广告费"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候，很显然【跑得快】比【跑不了】更重要。",
+          "note": "跑得快"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "注意，不是更多大店，是中小店+大仓库。",
+          "note": "仓店"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但反过来，如果能把这个成本压下来，那其实就等于翻过了BOSS阶段。",
+          "note": "BOSS"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "生活偶遇翻盘+租金即广告+仓店模型三段论适合观宇零售/本地生活解读直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但又一想，不对。",
+          "note": "翻盘"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这笔大额房租，是给房东的，但也是一种广告费，也是给消费者的信任招牌，一种信誉的抵",
+          "note": "租金广告"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "注意，不是更多大店，是中小店+大仓库。",
+          "note": "仓店模型"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s17",
+    "s19",
+    "s27",
+    "s35",
+    "s1",
+    "s4",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36"
+  ],
+  "fields_complete_25": true
+}

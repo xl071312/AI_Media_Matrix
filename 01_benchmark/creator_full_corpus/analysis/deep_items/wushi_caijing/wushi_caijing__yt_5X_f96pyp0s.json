@@ -1,0 +1,959 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_5X_f96pyp0s",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=5X_f96pyp0s",
+  "source_sha256": "0c946996a2e193330a53b382ef137d941affe8e7c5c20e937ce1d0a180045403",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 34,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "大使给大家回报"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "回报一下我们进期下工作"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 19,
+      "snippet": "2024年第一季的我们先下半的这场沙龙"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "生病有大得有两场"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "和相输官方合伴的一场"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "以及和弊战官方合伴的一场"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "至此我们和平台"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "合伴沙龙已经提起了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "抖碑弊红这四届"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "大家的客户和平台直接交流的场景"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "这其实也说明了"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "2024年起初做IP的人和机构"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "是长选出的主战场"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "内容平台很早期的百家中民"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "到几个寡通龙段"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 18,
+      "snippet": "而现在我们感受到新世代的车轮正在连过"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "中间某些点就给你咳死了"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 16,
+      "snippet": "别说你根本不知道怎么解决的办法了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "你甚至都不知道卡在哪了"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 12,
+      "snippet": "连问题本身是什么都不知道"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 15,
+      "snippet": "你要更别谈解决问题的办法是什么"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "当然这些状况未来可能有变数"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "但我们对这些状况未来可能有变数"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 15,
+      "snippet": "但我们对这些状况未来可能有变数"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "个人在平台规则想大事下是瞄小的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 13,
+      "snippet": "你想改变事件可能是改变不了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 8,
+      "snippet": "当然可以改变自己"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "不如误实地用一些方法应对"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "紧根平台政策和号召"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "对内容市场的每一个快速变化"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "都能第一时间反映和调整"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "运风局是不会打呀"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "打好逆风局才是真的是吧"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "这位用不应 下一件"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「汇报一下近期线下工作」直接公务开场，列出2024Q1两场平台合作沙龙。",
+      "patterns": [
+        "公务汇报开场",
+        "两场沙龙清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大使给大家回报",
+          "note": "给大家回报"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "回报一下我们进期下工作",
+          "note": "近期线下工作"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "生病有大得有两场",
+          "note": "大概有两场"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "平台合作沙龙齐四家→IP主战场转向平台→内容平台从百家到寡头→新时代车轮碾过→个人渺小→改变自己紧跟政策→打好逆风局。",
+      "patterns": [
+        "沙龙成果",
+        "主战场判断",
+        "寡头化",
+        "逆风局对策"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "抖快B红四家"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "是长选出的主战场",
+          "note": "主战场"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "到几个寡通龙段",
+          "note": "寡头垄断"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而现在我们感受到新世代的车轮正在连过",
+          "note": "新世代车轮"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "打好逆风局"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "salon_report",
+          "note": "线下沙龙与四平台合作汇报"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "battlefield_shift",
+          "note": "IP主战场与平台寡头化判断"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "stuck_unknowing",
+          "note": "卡点未知连问题本身都不知道"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "adapt_policy",
+          "note": "个人渺小→改自己跟政策"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s33",
+            "s34"
+          ],
+          "function": "adverse_wind_close",
+          "note": "逆风局才是真本事收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「至此」总结沙龙；「这其实也说明了」升维；「当然…但」反复；「不如务实地」。",
+      "patterns": [
+        "至此总结",
+        "这说明了升维",
+        "当然但",
+        "不如务实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "至此我们和平台",
+          "note": "至此我们和平台"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这其实也说明了",
+          "note": "这其实也说明了"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "当然这些状况未来可能有变数",
+          "note": "当然这些状况"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "不如误实地用一些方法应对",
+          "note": "不如务实地"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "百家争鸣早期vs寡头垄断现在；想改变世界vs改变不了只能改自己；顺风vs逆风局真本事。",
+      "patterns": [
+        "百家/寡头",
+        "改世界/改自己",
+        "顺风/逆风"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "内容平台很早期的百家中民",
+          "note": "百家争鸣"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "到几个寡通龙段",
+          "note": "寡头垄断"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你想改变事件可能是改变不了",
+          "note": "改变不了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "当然可以改变自己",
+          "note": "可以改变自己"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "打好逆风局"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "少设问；用「你甚至都不知道卡在哪」「连问题本身是什么都不知道」修辞问逼出失控感。",
+      "patterns": [
+        "卡在哪修辞问",
+        "问题是什么修辞问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "你甚至都不知道卡在哪了",
+          "note": "不知道卡在哪了"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "问题本身是什么都不知道"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "相书/B站合作沙龙；抖快B红四家；（ASR）平台规则下个人渺小。",
+      "patterns": [
+        "两场沙龙例",
+        "四平台例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "和相输官方合伴的一场",
+          "note": "相书官方合作"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "以及和弊战官方合伴的一场",
+          "note": "B站官方合作"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "抖快B红四家"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「主战场」落到四平台合作沙龙；「车轮碾过」落到卡点未知；「应对」落到紧跟政策第一时间调整。",
+      "patterns": [
+        "主战场→四平台沙龙",
+        "车轮→卡点未知",
+        "应对→跟政策"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "是长选出的主战场",
+          "note": "主战场"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "四家平台"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "你甚至都不知道卡在哪了",
+          "note": "卡在哪"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "紧根平台政策和号召",
+          "note": "紧跟平台政策"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定四家合作齐；主战场在平台；个人在规则下渺小；打好逆风局才是真的。",
+      "patterns": [
+        "四家齐判断",
+        "主战场判断",
+        "渺小判断",
+        "逆风局真本事"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "合伴沙龙已经提起了",
+          "note": "合作沙龙已经齐了"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "是长选出的主战场",
+          "note": "主战场"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "个人在平台规则想大事下是瞄小的",
+          "note": "个人是渺小的"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "打好逆风局才是真的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「当然这些状况未来可能有变数」连说两遍（ASR重复）自我留口；从改世界退到改自己。",
+      "patterns": [
+        "变数留口",
+        "改世界退到改自己"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "当然这些状况未来可能有变数",
+          "note": "未来可能有变数"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你想改变事件可能是改变不了",
+          "note": "改变不了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "当然可以改变自己",
+          "note": "可以改变自己"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "汇报短句→升维判断中句→卡点连问加速压迫→对策列举→逆风局金句刹住。",
+      "patterns": [
+        "汇报短句",
+        "卡点连问压迫",
+        "金句刹住"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "生病有大得有两场",
+          "note": "两场"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "你甚至都不知道卡在哪了",
+          "note": "卡在哪"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "问题是什么"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "这其实也说明了"
+        },
+        {
+          "type": "repeat",
+          "form": "未来可能有变数×2"
+        },
+        {
+          "type": "discourse",
+          "form": "是吧"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这其实也说明了",
+          "note": "这其实也说明了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "但我们对这些状况未来可能有变数",
+          "note": "变数重复"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "是吧"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "公事汇报平静→对行业洗牌的凝重→卡点未知的焦虑→务实接受的冷静→逆风局激励。",
+      "patterns": [
+        "平静汇报",
+        "凝重洗牌",
+        "焦虑卡点",
+        "逆风激励"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "回报一下我们进期下工作",
+          "note": "汇报工作"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而现在我们感受到新世代的车轮正在连过",
+          "note": "车轮碾过"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "问题都不知道"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从线下合作成果收到「逆风局才是真本事」，对策与开场汇报形成「做事→认清→自强」闭环。",
+      "patterns": [
+        "逆风局收束",
+        "做事到自强"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "不如误实地用一些方法应对",
+          "note": "务实应对"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "都能第一时间反映和调整",
+          "note": "第一时间调整"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "打好逆风局"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无粉丝互动CTA；对同行/创作者下「紧跟政策、打好逆风局」行动训诫。",
+      "patterns": [
+        "训诫式行动",
+        "无互动CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "紧根平台政策和号召",
+          "note": "紧跟平台政策"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "打好逆风局"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错字连篇仍保留口语重复；「咳死了/卡在哪」身体隐喻；逆风局电竞黑话。",
+      "patterns": [
+        "口语重复",
+        "卡点隐喻",
+        "逆风局黑话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "中间某些点就给你咳死了",
+          "note": "咳死了"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "你甚至都不知道卡在哪了",
+          "note": "卡在哪"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "极短+ASR损毁；沙龙细节缺失；「变数」句机械重复；结尾「下一件」截断。",
+      "patterns": [
+        "过短ASR",
+        "细节缺失",
+        "重复与截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大使给大家回报",
+          "note": "ASR错字"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "但我们对这些状况未来可能有变数",
+          "note": "变数重复"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但我们对这些状况未来可能有变数",
+          "note": "再次重复"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "这位用不应 下一件",
+          "note": "下一件截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从沙龙事实归纳主战场；进一步推到「连问题是什么都不知道」的认知困境；再给出改自己策略。",
+      "patterns": [
+        "事实归纳主战场",
+        "认知困境外化",
+        "改自己策略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这其实也说明了",
+          "note": "这说明了"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "问题本身不知道"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "当然可以改变自己",
+          "note": "改变自己"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对做IP的同行汇报；「大家」既是粉丝也是从业者；训诫口吻强于陪伴。",
+      "patterns": [
+        "同行汇报",
+        "从业者训诫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大使给大家回报",
+          "note": "给大家回报"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "2024年起初做IP的人和机构",
+          "note": "做IP的人和机构"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "紧根平台政策和号召",
+          "note": "紧跟政策"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2024第一季；两场沙龙；抖快B红四家；紧跟平台政策。",
+      "patterns": [
+        "2024Q1",
+        "两场",
+        "四平台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "2024年第一季的我们先下半的这场沙龙",
+          "note": "2024第一季"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "生病有大得有两场",
+          "note": "两场"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "抖快B红四家"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "紧根平台政策和号召",
+          "note": "平台政策"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密清单→中段判断高密→卡点修辞中情密→对策中密→金句低密收。",
+      "patterns": [
+        "清单中密",
+        "判断高密",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "和相输官方合伴的一场",
+          "note": "合作场次"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "到几个寡通龙段",
+          "note": "寡头"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局金句"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "汇报清单→至此总结→这说明了升维→失控描写→当然但→对策→金句。",
+      "patterns": [
+        "清单升维",
+        "失控到对策",
+        "金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "生病有大得有两场",
+          "note": "清单"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这其实也说明了",
+          "note": "升维"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "别说你根本不知道怎么解决的办法了",
+          "note": "失控"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "不如误实地用一些方法应对",
+          "note": "对策"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "金句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "从业者教练：务实、认平台权力、强调逆风局，少情绪多训诫。",
+      "patterns": [
+        "从业者教练",
+        "认平台权力",
+        "逆风训诫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "个人在平台规则想大事下是瞄小的",
+          "note": "个人渺小"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "不如误实地用一些方法应对",
+          "note": "务实应对"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "抖快B红四家；新世代车轮碾过；连问题是什么都不知道；打好逆风局才是真的。",
+      "patterns": [
+        "四家平台",
+        "车轮碾过",
+        "问题都不知道",
+        "逆风局"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "四家"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而现在我们感受到新世代的车轮正在连过",
+          "note": "车轮碾过"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "问题都不知道"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局才是真的"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「成果汇报→格局判断→认知困境→改自己跟规则→逆风局」可改编创作者行业口播，需重录清晰并补案例。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "抖碑弊红这四届",
+          "note": "四平台成果"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "连问题本身是什么都不知道",
+          "note": "认知困境"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "打好逆风局才是真的是吧",
+          "note": "逆风局"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s9",
+    "s13",
+    "s15",
+    "s16",
+    "s33",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s34"
+  ],
+  "fields_complete_25": true
+}

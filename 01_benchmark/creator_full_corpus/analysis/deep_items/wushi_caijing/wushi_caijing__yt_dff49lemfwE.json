@@ -1,0 +1,1392 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_dff49lemfwE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=dff49lemfwE",
+  "source_sha256": "c5205e55be044300059274f5337abce92944faf896257582d5698866fc2d70a6",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 129,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "連前五大共用國都拍不進去"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "不用擔心斷供"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "現在倒是一個很主流的觀點"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "說有價要漲 物ed 物"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": ",國內有價就不跟著了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 20,
+      "snippet": "其他媒體說最多的只多的油價推高了運輸成本"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "他們最愛講這種英國鏈"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "因為有一點點好懂"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "觀眾一聽就覺得對啊"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "運輸車輛的融貴了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 12,
+      "snippet": "那他運得肉菜飲料當然加價"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 13,
+      "snippet": "不是還是給你們展示上帝市角"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "因為有價的影響非常小"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "很多項coron就沒有運費"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 21,
+      "snippet": "更別說現在的新動員交通工資的滲透率逐年爆炸"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 14,
+      "snippet": "油價很重要那都上個時代的事了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "油價在這個時代的影響力不在於運費"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "而是劃工板塊"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "就我開片給你們看的那些"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "看本以西二六零四"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "這也有一個人說明了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "當然美國作為全球第一大戰爭策員國"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "把美國SPR作成圖就這麼抽象"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 25,
+      "snippet": "美國SPR在2022年俄羅巫衝突時被拜登大量釋放過"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "目前酷存處於歷史地位"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 13,
+      "snippet": "中美SPR暫停操作好消息是"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "說明雙方認為當前油價雖然偏高"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "但上位到危機級級別"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "短期共用還稱得住"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "壞消息是這不等於局勢可控"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 15,
+      "snippet": "更多還是沒到最壞的情況還是官方"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "很可能巫師一口獨奶"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 14,
+      "snippet": "明天這兩條曲線就開始上串下跳"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "總之想看國家的判斷"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "你們自己去關注"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "從這地間接到中東國家"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 17,
+      "snippet": "共用出現安全和平衝的目的來靠近中國"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 27,
+      "snippet": "意外加速能源貸ливо with the public"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "無論是評價者"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "人力的國際化還是得看創"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 14,
+      "snippet": "但以上這些在乎看來太過於紅大"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "一朴這能目前出了一個離譜的事"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 14,
+      "snippet": "到實實在在的利好中國最大車子"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "別人"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 21,
+      "snippet": "321日大概率是海外版的BRD1 Plus"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 13,
+      "snippet": "在一路沙拉收到一朴導彧導彧"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 19,
+      "snippet": "但電汽未人稜稜稜稜稜稜稜稜稜稜稜稜稜稜"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 4,
+      "snippet": "還沒說過"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "還沒說過"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "還沒說過"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 4,
+      "snippet": "還沒說過"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 1,
+      "snippet": "碟"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 1,
+      "snippet": "-"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 1,
+      "snippet": "-"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "先安抚「不用担心断供」，再打脸主流「油价推高物价」因果链。",
+      "patterns": [
+        "断供安抚开场",
+        "打脸主流因果链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "不用擔心斷供",
+          "note": "不用担心断供"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "其他媒體說最多的只多的油價推高了運輸成本",
+          "note": "其他媒体最爱讲油价推运输成本"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "不是還是給你們展示上帝市角",
+          "note": "还给你们展示上帝视角"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主链：油价对CPI影响很小→关键在化工板块→SPR显示未到危机→中东靠近中国加速→实利好中国车企（比亚迪）。",
+      "patterns": [
+        "油价CPI弱影响",
+        "化工才是关键",
+        "SPR未到危机",
+        "利好中国车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "因為有價的影響非常小",
+          "note": "油价影响非常小"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "而是化工板块"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "但上位到危機級級別",
+          "note": "未到危机级别"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "利好中国最大车子"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「不是还是」「更别说」「总之」「但以上这些」从驳论转到SPR再到车企。",
+      "patterns": [
+        "不是还是转折",
+        "更别说递进",
+        "总之收束",
+        "但以上太宏大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "不是還是給你們展示上帝市角",
+          "note": "不是还是给上帝视角"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "更別說現在的新動員交通工資的滲透率逐年爆炸",
+          "note": "更别说新能源渗透"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "總之想看國家的判斷",
+          "note": "总之想看国家判断"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但以上這些在乎看來太過於紅大",
+          "note": "但以上太过于宏大"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "媒体好懂因果链vs上帝视角小影响；好消息未到危机vs坏消息非局势可控；宏大叙事vs车企实利。",
+      "patterns": [
+        "媒体链/上帝视角",
+        "好消息/坏消息",
+        "宏大/实利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "其他媒體說最多的只多的油價推高了運輸成本",
+          "note": "媒体运输成本链"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "因為有價的影響非常小",
+          "note": "影响非常小"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "中美SPR暫停操作好消息是",
+          "note": "好消息"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "壞消息是這不等於局勢可控",
+          "note": "坏消息不等于可控"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但以上這些在乎看來太過於紅大",
+          "note": "太宏大"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "实实在在利好"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "少设问，以「观众一听就觉得对啊」模拟伪共鸣再打碎。",
+      "patterns": [
+        "模拟伪共鸣再打碎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "觀眾一聽就覺得對啊",
+          "note": "观众一听就觉得对啊"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "新能源渗透率、美SPR 2022释放、中美SPR暂停、321日海外版BYD1 Plus被导弹。",
+      "patterns": [
+        "新能源渗透例",
+        "SPR史例",
+        "BYD被袭例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "更別說現在的新動員交通工資的滲透率逐年爆炸",
+          "note": "新能源交通渗透率爆炸"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "美國SPR在2022年俄羅巫衝突時被拜登大量釋放過",
+          "note": "2022拜登大量释放SPR"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "321日大概率是海外版的BRD1 Plus",
+          "note": "海外版BRD1 Plus"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "油价影响力抽象→不是运费而是化工；国家判断抽象→看SPR操作曲线。",
+      "patterns": [
+        "影响力→化工通道",
+        "国家判断→SPR曲线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "油價在這個時代的影響力不在於運費",
+          "note": "影响力不在于运费"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "而是化工板块"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "把美國SPR作成圖就這麼抽象",
+          "note": "把美国SPR作成图"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "總之想看國家的判斷",
+          "note": "想看国家判断"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言运费链条过时；油价重要是上时代的事；宏大叙事不如车企实利。",
+      "patterns": [
+        "运费链过时",
+        "油价时代错位",
+        "实利优于宏大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "油價很重要那都上個時代的事了",
+          "note": "油价重要是上时代的事"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "因為有價的影響非常小",
+          "note": "影响非常小"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但以上這些在乎看來太過於紅大",
+          "note": "太过于宏大"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "自承「很可能巫师一口毒奶」曲线明天就跳；把宏大段降级为配菜。",
+      "patterns": [
+        "自嘲毒奶",
+        "宏大降级"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "很可能巫師一口獨奶",
+          "note": "很可能巫师一口独奶"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但以上這些在乎看來太過於紅大",
+          "note": "以上太过于宏大"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "驳论短句连打→SPR数据中段→宏大一笔带过→车企爆点短收（后被ASR切断）。",
+      "patterns": [
+        "驳论短句连打",
+        "SPR中段",
+        "爆点短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "因為有價的影響非常小",
+          "note": "影响非常小短句"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "美國SPR在2022年俄羅巫衝突時被拜登大量釋放過",
+          "note": "SPR史例"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "利好车子短句"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "安抚→鄙视媒体好懂链→冷静SPR→自嘲毒奶→兴奋车企实利。",
+      "patterns": [
+        "安抚→鄙视→冷静→自嘲→兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "不用擔心斷供",
+          "note": "安抚"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他們最愛講這種英國鏈",
+          "note": "鄙视英国链"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "中美SPR暫停操作好消息是",
+          "note": "冷静好消息"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "很可能巫師一口獨奶",
+          "note": "自嘲毒奶"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "兴奋实利"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "本应落在车企实利爆点，但ASR自s47起崩坏，闭环残缺。",
+      "patterns": [
+        "车企爆点残缺收束",
+        "ASR腰斩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "利好中国最大车子"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "321日大概率是海外版的BRD1 Plus",
+          "note": "海外版BYD"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但電汽未人稜稜稜稜稜稜稜稜稜稜稜稜稜稜",
+          "note": "电汽未人棱棱循环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：自己去关注SPR曲线以读国家判断。",
+      "patterns": [
+        "自己看SPR CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "總之想看國家的判斷",
+          "note": "想看国家判断"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "你們自己去關注",
+          "note": "你们自己去关注"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "上帝视角自称、一口毒奶自嘲、点名打脸其他媒体，非平滑中立AI腔。",
+      "patterns": [
+        "上帝视角",
+        "毒奶自嘲",
+        "打脸媒体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "不是還是給你們展示上帝市角",
+          "note": "上帝视角"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "很可能巫師一口獨奶",
+          "note": "一口独奶"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他們最愛講這種英國鏈",
+          "note": "他们最爱讲"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "s47后严重ASR崩坏（棱/短横循环）；短片信息后半缺失；国名/车型识别噪。",
+      "patterns": [
+        "后半ASR全毁",
+        "短片后半缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "但電汽未人稜稜稜稜稜稜稜稜稜稜稜稜稜稜",
+          "note": "棱棱循环"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "-",
+          "note": "短横噪声"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "321日大概率是海外版的BRD1 Plus",
+          "note": "BRD1识别噪"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先拆「好懂伪因果」再给替代通道（化工），再用SPR作为官方判断代理指标。",
+      "patterns": [
+        "伪因果拆解",
+        "替代通道",
+        "SPR代理指标"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "因為有一點點好懂",
+          "note": "因为有一点点好懂"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "化工板块"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "說明雙方認為當前油價雖然偏高",
+          "note": "说明双方认为油价偏高"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众从媒体运输故事里拉到看SPR/化工/车企的上帝视角读者。",
+      "patterns": [
+        "离开媒体故事",
+        "上帝视角读者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "觀眾一聽就覺得對啊",
+          "note": "观众觉得对啊"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "不是還是給你們展示上帝市角",
+          "note": "展示上帝视角"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "你們自己去關注",
+          "note": "自己去关注"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "前五大产油国、美SPR2022释放、历史低库存、321日BYD海外版。",
+      "patterns": [
+        "产油国",
+        "SPR2022",
+        "库存地位",
+        "BYD日期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "連前五大共用國都拍不進去",
+          "note": "前五大产油国"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "美國SPR在2022年俄羅巫衝突時被拜登大量釋放過",
+          "note": "2022释放SPR"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "目前酷存處於歷史地位",
+          "note": "库存历史低位"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "321日大概率是海外版的BRD1 Plus",
+          "note": "321日BYD"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "驳论中密→机制高密→SPR高密→地缘低密一笔→车企中密后断裂。",
+      "patterns": [
+        "机制高密",
+        "SPR高密",
+        "后段空密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "化工高密"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "美國SPR在2022年俄羅巫衝突時被拜登大量釋放過",
+          "note": "SPR高密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但電汽未人稜稜稜稜稜稜稜稜稜稜稜稜稜稜",
+          "note": "空密噪声"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "安抚→打脸链条→真通道→SPR好坏消息→宏大降级→车企爆点。",
+      "patterns": [
+        "打脸后给替代",
+        "好坏消息对举"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "其他媒體說最多的只多的油價推高了運輸成本",
+          "note": "媒体链条"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "真通道"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "中美SPR暫停操作好消息是",
+          "note": "好消息"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "壞消息是這不等於局勢可控",
+          "note": "坏消息"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "反媒体好懂链的抬杠解释者+SPR读心者+车企实利猎手。",
+      "patterns": [
+        "抬杠解释者",
+        "SPR读心",
+        "实利猎手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "他們最愛講這種英國鏈",
+          "note": "最爱讲这种链"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "把美國SPR作成圖就這麼抽象",
+          "note": "SPR作图"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "利好车子"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "不用担心断供、好懂运输链、化工板块、一口毒奶、利好最大车企。",
+      "patterns": [
+        "断供安抚",
+        "好懂链",
+        "化工",
+        "毒奶",
+        "最大车企"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "不用擔心斷供",
+          "note": "不用担心断供"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他們最愛講這種英國鏈",
+          "note": "英国链好懂"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "而是劃工板塊",
+          "note": "化工板块"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "很可能巫師一口獨奶",
+          "note": "一口独奶"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "最大车子"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s6",
+            "s12"
+          ],
+          "function": "debunk_freight",
+          "note": "驳运输成本推物价的好懂假链条"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s15",
+            "s16",
+            "s18"
+          ],
+          "function": "true_channel",
+          "note": "新能源渗透+化工才是油价通道"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s22",
+            "s24",
+            "s25",
+            "s26",
+            "s30"
+          ],
+          "function": "spr_signal",
+          "note": "美SPR历史低位但中美暂停操作=未到危机"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s41"
+          ],
+          "function": "geo_side",
+          "note": "中东安全冲击靠近中国偏宏大"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s45"
+          ],
+          "function": "real_edge",
+          "note": "实打实利好中国车/海外BYD"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "不用担心"
+        },
+        {
+          "type": "discourse",
+          "form": "不是还是"
+        },
+        {
+          "type": "discourse",
+          "form": "一口独奶"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "不用擔心斷供",
+          "note": "不用担心断供"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "不是還是給你們展示上帝市角",
+          "note": "不是还是"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "很可能巫師一口獨奶",
+          "note": "一口独奶"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "打脸「好懂伪因果」+SPR代理读官方判断的方法可迁移；车企实利落点好，但须补全被ASR毁掉的后半证据。",
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "因為有價的影響非常小",
+          "note": "弱化油价CPI可迁移"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "說明雙方認為當前油價雖然偏高",
+          "note": "SPR读信号可迁移"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "到實實在在的利好中國最大車子",
+          "note": "实利落点可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s6",
+    "s12",
+    "s13",
+    "s18",
+    "s28",
+    "s43",
+    "s15",
+    "s34",
+    "s41",
+    "s26",
+    "s30",
+    "s9",
+    "s24",
+    "s45",
+    "s17",
+    "s23",
+    "s16",
+    "s32",
+    "s7",
+    "s47",
+    "s35",
+    "s52",
+    "s8",
+    "s27",
+    "s1",
+    "s25",
+    "s3",
+    "s22",
+    "s36",
+    "s37",
+    "s42"
+  ],
+  "fields_complete_25": true
+}

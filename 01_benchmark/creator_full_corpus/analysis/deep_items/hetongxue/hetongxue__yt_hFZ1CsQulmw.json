@@ -1,0 +1,1379 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_hFZ1CsQulmw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
+  "source_sha256": "0e5fdaf32bc9e621f79a656b7e99413cb8846bc5e32dae6d8e9417e61e9ef01e",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 100,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "為了讓大家不倒垃圾"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "我們做了20個狂奔的垃圾桶"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "我們工作室很亂"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "桌子上和地上總是有很多垃圾"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "垃圾桶也總是滿的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "一開始我以為是桶的數量不夠"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "所以買了更多垃圾桶"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "但沒想到還是有人"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "那如果人扔垃圾後"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "垃圾桶可以自己接住"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "再自動把垃圾倒掉"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "是不是就解決了這個問題呢"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "想接住垃圾"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "主要有兩點"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "知道垃圾會落到哪"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "快速地跑到那"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "第二點比較簡單"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "我們在垃圾桶底下"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "加了三個舵輪"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "讓它可以快速移動"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "哇 真是好身手"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "但是桶怎麼知道垃圾在哪呢"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "12年前有朋友做過類似的項目"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "他當時的方案"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "是用牆上的相機(Kinect)"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "檢測垃圾的位置"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "但如果把相機放在環境里"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 14,
+      "snippet": "就只能在一定範圍里使用垃圾桶"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "所以我們把相機放在了桶上"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "這樣它想去哪都可以"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "再針對常見的垃圾"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "訓練識別模型"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "當它看到訓練過的垃圾經過時"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "就會快速移動"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 14,
+      "snippet": "在經過我們工程師的反復調試後"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "它終於可以接住垃圾了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "直接進了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "基礎功能解決了"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "我們又做了三個特種垃圾桶"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "裝上手就可以讓它擦地"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "或者跟它玩石頭剪刀布"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "感受無敵的寂寞"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "而當我們給它裝上蓋子"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "它就可以"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "行不行啊"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "菜就多練"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 5,
+      "snippet": "說垃圾話了"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "如果你能扔進"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "我給你磕一個"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 2,
+      "snippet": "哈哈"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 3,
+      "snippet": "傻兒子"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 3,
+      "snippet": "哈哈哈"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 14,
+      "snippet": "最後我們還做了這個終結垃圾桶"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "它搭載了一個軟彈發射器"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "如果有人亂扔垃圾"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 11,
+      "snippet": "你就可以遙控它伸張正義"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "把軟彈換成激光筆"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 8,
+      "snippet": "你還可以用它逗貓"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "而當把它們連上同一個遙控"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 8,
+      "snippet": "就能帶出去逛街了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 12,
+      "snippet": "但垃圾桶們沒電了怎麼辦呢"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 3,
+      "snippet": "好餓啊"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 11,
+      "snippet": "我們做了這個旋轉停桶場"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "上面有磁性觸點"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "垃圾桶可以在這裡"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 11,
+      "snippet": "一個一個排隊吸上去充電"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "大家扔垃圾的問題是解決了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "但怎麼自動倒垃圾呢"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 12,
+      "snippet": "我們做了這個鐵臂大垃圾桶"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "只要小垃圾桶走過去"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "它就可以"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 4,
+      "snippet": "開個玩笑"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 16,
+      "snippet": "其實我們做了這樣一個熱熔大垃圾桶"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "又給小垃圾桶們"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "裝了一套無限換袋結構"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 14,
+      "snippet": "當小垃圾桶移動到大垃圾桶前時"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 7,
+      "snippet": "大桶會伸出夾爪"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 15,
+      "snippet": "把小垃圾桶的無限換袋結構提起來"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 5,
+      "snippet": "移動到桶口"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "這時桶口的熱熔絲"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "就會收緊通電"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 14,
+      "snippet": "把裝著垃圾的部分熔斷掉進桶里"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 15,
+      "snippet": "而新的袋子則被裝回原來的小桶里"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 7,
+      "snippet": "可是小垃圾桶們"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "該怎麼找到大垃圾桶呢"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "怎麼找到呢"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 4,
+      "snippet": "看到這裡"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "大家有沒有發現"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "我們工作室的地板有些奇怪"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 7,
+      "snippet": "誰家會用黑地板"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "中間這條稜又是什麼"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 13,
+      "snippet": "這是因為等辦公室里人都走了"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "燈關掉後"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 9,
+      "snippet": "就會看到這樣的畫面"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 10,
+      "snippet": "我們在地板里埋了燈帶"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 14,
+      "snippet": "又在垃圾桶上放了朝下的攝像頭"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 6,
+      "snippet": "教會它們尋燈"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 14,
+      "snippet": "這樣只需要把燈帶的運動編好程"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 11,
+      "snippet": "就可以把他們依次引導到"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 6,
+      "snippet": "大垃圾桶旁了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "一句话抛出「为了让大家不倒垃圾，做了20个狂奔垃圾桶」的荒诞工程目标。",
+      "patterns": [
+        "荒诞目标开场",
+        "数量冲击"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了讓大家不倒垃圾",
+          "note": "不倒垃圾"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了20個狂奔的垃圾桶",
+          "note": "20个狂奔"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "工作室乱→加桶无效→自接自倒构想→定位+移动→相机上桶→特种玩法→充电→热熔倾倒→寻灯导航。",
+      "patterns": [
+        "问题→方案迭代",
+        "子系统串联"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我們工作室很亂",
+          "note": "工作室乱"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "是不是就解決了這個問題呢",
+          "note": "构想问"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "加了三個舵輪",
+          "note": "三舵轮"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我們把相機放在了桶上",
+          "note": "相机上桶"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "其實我們做了這樣一個熱熔大垃圾桶",
+          "note": "热熔大桶"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "教會它們尋燈",
+          "note": "寻灯"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "problem_hook",
+          "note": "乱室痛点与自接自倒假说"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "catch_core",
+          "note": "定位两点+舵轮+桶上相机+识别接住"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60"
+          ],
+          "function": "special_variants",
+          "note": "特种桶擦地/猜拳/嘴炮/软弹正义"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83"
+          ],
+          "function": "charge_dump",
+          "note": "停桶充电与热熔换袋倾倒"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "light_guide",
+          "note": "寻灯导航到大桶收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「那如果」「主要有两点」「但是桶怎么知道」「最后我们还做了」问题驱动迭代。",
+      "patterns": [
+        "那如果构想",
+        "两点拆解",
+        "但是追问",
+        "最后加码"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那如果人扔垃圾後",
+          "note": "那如果"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "主要有兩點",
+          "note": "两点"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但是桶怎麼知道垃圾在哪呢",
+          "note": "怎么知道"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "最後我們還做了這個終結垃圾桶",
+          "note": "最后还做"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "加更多桶仍无效vs自移动接住；墙上Kinect限范围vs相机上桶全域。",
+      "patterns": [
+        "加桶失败/自移动",
+        "环境相机/桶上相机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以買了更多垃圾桶",
+          "note": "买更多桶"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "但沒想到還是有人",
+          "note": "还是有人"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "就只能在一定範圍里使用垃圾桶",
+          "note": "范围限制"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我們把相機放在了桶上",
+          "note": "放桶上"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连串工程追问：怎么知道落点、桶怎么知道垃圾在哪、没电怎么办、怎么自动倒、怎么找到大桶。",
+      "patterns": [
+        "工程追问链",
+        "反转玩笑问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "是不是就解決了這個問題呢",
+          "note": "解决了吗"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但是桶怎麼知道垃圾在哪呢",
+          "note": "垃圾在哪"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "但垃圾桶們沒電了怎麼辦呢",
+          "note": "没电怎么办"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "但怎麼自動倒垃圾呢",
+          "note": "怎么倒"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "該怎麼找到大垃圾桶呢",
+          "note": "怎么找到"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "12年前朋友Kinect方案、擦地/猜拳/软弹/逗猫、旋转停桶场、热熔换袋。",
+      "patterns": [
+        "前案引用",
+        "特种功能例",
+        "机械结构例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "12年前有朋友做過類似的項目",
+          "note": "12年前"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "或者跟它玩石頭剪刀布",
+          "note": "猜拳"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "它搭載了一個軟彈發射器",
+          "note": "软弹"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我們做了這個旋轉停桶場",
+          "note": "停桶场"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "裝了一套無限換袋結構",
+          "note": "无限换袋"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「接住垃圾」拆成落点感知+舵轮移动；「自动倒」落到热熔丝熔断换袋。",
+      "patterns": [
+        "目标→两点技术",
+        "倾倒→热熔动作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "知道垃圾會落到哪",
+          "note": "落到哪"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "快速地跑到那",
+          "note": "跑到那"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "這時桶口的熱熔絲",
+          "note": "热熔丝"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "把裝著垃圾的部分熔斷掉進桶里",
+          "note": "熔断掉进"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「第二点比较简单」「基础功能解决了」「开个玩笑」标记难度与真假方案。",
+      "patterns": [
+        "难度标记",
+        "阶段完成断",
+        "玩笑翻案"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "第二點比較簡單",
+          "note": "比较简单"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "基礎功能解決了",
+          "note": "基础解决"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "開個玩笑",
+          "note": "开个玩笑"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "铁臂大桶是玩笑，随即纠正为热熔换袋真方案；先买更多桶再承认无效。",
+      "patterns": [
+        "玩笑翻案",
+        "加桶失败承认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以買了更多垃圾桶",
+          "note": "买更多"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "但沒想到還是有人",
+          "note": "无效"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "開個玩笑",
+          "note": "玩笑"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "其實我們做了這樣一個熱熔大垃圾桶",
+          "note": "其实热熔"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "问题短句→工程说明中速→特种彩蛋加速→热熔段精密减速→寻灯揭秘收。",
+      "patterns": [
+        "短问",
+        "说明中速",
+        "彩蛋加速",
+        "精密减速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "但是桶怎麼知道垃圾在哪呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "在經過我們工程師的反復調試後",
+          "note": "调试"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "菜就多練",
+          "note": "菜就多练"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "這時桶口的熱熔絲",
+          "note": "热熔精密"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "痛点无奈→构想兴奋→接住成就→嘴炮爆笑→正义爽感→寻灯惊喜。",
+      "patterns": [
+        "无奈→兴奋→爆笑→惊喜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我們工作室很亂",
+          "note": "无奈"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "它終於可以接住垃圾了",
+          "note": "接住"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "說垃圾話了",
+          "note": "垃圾话"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "就會看到這樣的畫面",
+          "note": "灯带画面"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "黑地板疑点揭秘为灯带寻路，呼应「怎么找到大垃圾桶」并把子系统收束。",
+      "patterns": [
+        "疑点揭秘闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s85",
+          "snippet": "該怎麼找到大垃圾桶呢",
+          "note": "怎么找到"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "誰家會用黑地板",
+          "note": "黑地板"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "教會它們尋燈",
+          "note": "寻灯"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无显式关注CTA，以工程彩蛋与揭秘满足感代替转化。",
+      "patterns": [
+        "揭秘满足软收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s88",
+          "snippet": "大家有沒有發現",
+          "note": "有没有发现"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "大垃圾桶旁了",
+          "note": "引导到大桶"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「菜就多练」「傻儿子」弹幕体垃圾话；Kinect具名；灯带编程细节。",
+      "patterns": [
+        "弹幕垃圾话",
+        "具名旧案",
+        "灯带细节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "是用牆上的相機(Kinect)",
+          "note": "Kinect"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "菜就多練",
+          "note": "菜就多练"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "傻兒子",
+          "note": "傻儿子"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "這樣只需要把燈帶的運動編好程",
+          "note": "灯带编程"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "特种彩蛋段偏长易冲淡主线；eligible=NO未采样口语填充；自动倒前玩笑可能误导。",
+      "patterns": [
+        "彩蛋偏长",
+        "玩笑误导风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "我們又做了三個特種垃圾桶",
+          "note": "特种入口"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "開個玩笑",
+          "note": "玩笑"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开两点需求拆解、旧案局限、相机上桶决策与反复调试过程。",
+      "patterns": [
+        "需求拆解",
+        "旧案比较",
+        "调试承认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "主要有兩點",
+          "note": "两点"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "但如果把相機放在環境里",
+          "note": "环境局限"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "在經過我們工程師的反復調試後",
+          "note": "反复调试"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当工作室同事/工程同好，用「大家有没有发现」邀请共察。",
+      "patterns": [
+        "同事同好",
+        "共察地板"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我們工作室很亂",
+          "note": "我们工作室"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "大家有沒有發現",
+          "note": "大家发现"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "20个桶、三舵轮、Kinect、软弹、旋转停桶场、热熔丝、地板灯带。",
+      "patterns": [
+        "数量锚",
+        "机构锚",
+        "灯带锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了20個狂奔的垃圾桶",
+          "note": "20个"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "加了三個舵輪",
+          "note": "三舵轮"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "這時桶口的熱熔絲",
+          "note": "热熔丝"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "我們在地板里埋了燈帶",
+          "note": "灯带"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩子→核心方案中高密→彩蛋低密娱乐→热熔高密→寻灯中密揭秘。",
+      "patterns": [
+        "钩低→方案高→彩蛋低→热熔高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了20個狂奔的垃圾桶",
+          "note": "钩低"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "訓練識別模型",
+          "note": "方案密"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "或者跟它玩石頭剪刀布",
+          "note": "彩蛋低"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "把小垃圾桶的無限換袋結構提起來",
+          "note": "热熔高"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短问句与步骤说明句咬合；偶发单字反应「哈哈」「傻儿子」。",
+      "patterns": [
+        "短问+步骤",
+        "反应插句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "知道垃圾會落到哪",
+          "note": "短目标"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "當小垃圾桶移動到大垃圾桶前時",
+          "note": "步骤"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "哈哈",
+          "note": "哈哈"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式「用过度工程解决生活小麻烦」的温和极客，带自黑嘴炮。",
+      "patterns": [
+        "过度工程极客",
+        "自黑嘴炮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了20個狂奔的垃圾桶",
+          "note": "狂奔桶"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "菜就多練",
+          "note": "菜就多练"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "20个狂奔垃圾桶；相机放桶上；菜就多练；热熔换袋；地板寻灯。",
+      "patterns": [
+        "狂奔桶",
+        "桶上相机",
+        "菜就多练",
+        "寻灯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了20個狂奔的垃圾桶",
+          "note": "20狂奔"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我們把相機放在了桶上",
+          "note": "相机上桶"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "菜就多練",
+          "note": "菜就多练"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "教會它們尋燈",
+          "note": "寻灯"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "问题钩子→子系统迭代→玩笑翻案→环境彩蛋揭秘的工程叙事可直接作观宇科技项目口播模板。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "是不是就解決了這個問題呢",
+          "note": "构想"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "開個玩笑",
+          "note": "翻案"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "教會它們尋燈",
+          "note": "揭秘"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100"
+  ],
+  "fields_complete_25": true
+}

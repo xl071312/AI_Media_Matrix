@@ -1,0 +1,1364 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_lUhfPTA-yYE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=lUhfPTA-yYE",
+  "source_sha256": "0d5830f58c582fe5d4ebf1bac2a18a1dec46ff3b9f892d2ea361fa982b604813",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 83,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "你心的毛不发现了这个世界的发的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "这根筷子水的力子竟然是动掉"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "现在你还是远虚的力度"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "但我一插水的力子就动了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "把杯子换成碗 把筷子换成碟"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "你这都一样是断开的"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "现在赶紧拿起你朋友的水杯"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "深入一些细的手指"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "让它用手机打着锅"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "看到断开的手指"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "一起感受着神奇的现象吧"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "那这不是为啥的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "你这段的位置"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "因为你换紧于水面的交界地"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "所以问题肯定出在这"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "而且仔细看"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "你这不是简单短"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "而是在断掉的地方"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "反而闪掉至光"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 11,
+      "snippet": "那这属神奇的光是哪里的"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "那你拿机构比照一下就行了吗"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "全个大耗水杯放进大耗拆子"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "现在水地已经有断掉的影子了"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "用机构比照射水中就可以看到光路"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 16,
+      "snippet": "我们让两只机构比保持数值向下照射"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "从边缘往交界地靠机"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "Amezi"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "当机构这受到赶紧附近的水面时"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "他们突然被衣服神秘力量改变了方向"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "向赶紫彎折"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "照亮了他们原本无法到达的地方"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "影子断掉的位置"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "也就是像这样"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "被两边的光汇据照亮"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 13,
+      "snippet": "光为什么汇捷在这改变方向呢"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "这是因为我哥们儿张立"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "水汇严着赶紫网上拿形成彎越面"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "原本数值向下的光线"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "经过彎越面折射"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 7,
+      "snippet": "就汇据到的中间"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "照亮了一小节影子"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "从而形成了奇妙的段影"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 15,
+      "snippet": "这个摄像最早于1967年被报道"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "因为这些影子看着像相常"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 11,
+      "snippet": "就被名为《影相常效忆》"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "不是哥们儿你这齐的傻名"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 11,
+      "snippet": "我以为会叫给《影之力》"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "细之力的库旋的字"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "你给我来了跟相场"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 16,
+      "snippet": "你要这样还不如叫《影碎冰冰效忆》"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "《影相常效忆》"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "是一种我们小学二年纪"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "学过的《交散线线》"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "当光控不平正表面执"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "之后就会产生交散"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "2003年"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 11,
+      "snippet": "张不死的人发表论文指出"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "一根杆插入水中"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 10,
+      "snippet": "会产生四角星星的交散"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "但如果像这样轻轻点水"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 10,
+      "snippet": "就会产生五个角的交散"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "在这之后"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 11,
+      "snippet": "张不死的人又发了一堆路"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 10,
+      "snippet": "像什么两根棍子的交散"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "数页边缘的交散"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 5,
+      "snippet": "水滴的交散"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 12,
+      "snippet": "生活中的交散现象还有很多"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "拿起辈子"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 12,
+      "snippet": "屁股心徒案在被遗乔的战方"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "闹上红酒"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 10,
+      "snippet": "万难的不运把墙面照亮"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "来到游泳池盘"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 10,
+      "snippet": "灵灵过装密尼新神灯灯"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "有光的地方就能有交散"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 12,
+      "snippet": "欢迎在评论区分享你的交散"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "下次上完测锁"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 5,
+      "snippet": "请看这炮炮"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 13,
+      "snippet": "为你奉献的十字新型飘涂交散"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 16,
+      "snippet": "这最初是达分期在1588年发现的"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 4,
+      "snippet": "五百年后"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "你排出的沸水中"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 11,
+      "snippet": "竟然也才是一个困在一起"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "世界bug钩：筷子/影子在水面断开，立刻号召用手指水杯复现。",
+      "patterns": [
+        "世界bug钩",
+        "现象演示",
+        "立刻动手复现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你心的毛不发现了这个世界的发的",
+          "note": "世界的bug"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "这根筷子水的力子竟然是动掉",
+          "note": "筷子影子断开"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "现在赶紧拿起你朋友的水杯",
+          "note": "拿起水杯"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "看到断开的手指",
+          "note": "断开的手指"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "断开在交界→断处反光→激光显光路弯折→弯液面折射汇聚照亮影→焦散命名→生活延展→马桶十字焦散彩蛋。",
+      "patterns": [
+        "定位交界→光路实验→弯液面机制→焦散概念→生活迁移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "因为你换紧于水面的交界地",
+          "note": "水面交界"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "反而闪掉至光",
+          "note": "反而闪亮"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "当机构这受到赶紧附近的水面时",
+          "note": "激光近杆弯折"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "弯液面"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "就被名为《影相常效忆》",
+          "note": "影焦散效应"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "欢迎在评论区分享你的交散",
+          "note": "评论区分享"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "十字新型漂浮焦散"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "phenomenon_and_replicate",
+          "note": "断影现象与观众复现"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "laser_path_experiment",
+          "note": "交界定位与激光显形"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53"
+          ],
+          "function": "meniscus_caustic_naming",
+          "note": "弯液面机制与命名吐槽"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83"
+          ],
+          "function": "caustic_family_and_cta",
+          "note": "焦散家族与生活彩蛋CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「那这不是为啥」「而且仔细看」「对」「在这之后」「欢迎在评论区」。",
+      "patterns": [
+        "为啥追问转",
+        "仔细看加码",
+        "在这之后扩展",
+        "评论区转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "那这不是为啥的",
+          "note": "那这不是为啥"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而且仔细看",
+          "note": "而且仔细看"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "对",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "在这之后",
+          "note": "在这之后"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "欢迎在评论区分享你的交散",
+          "note": "欢迎在评论区"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "简单断vs断处闪亮；插入水深四角星vs点水五角；正经学名vs影之力/影碎冰冰戏名。",
+      "patterns": [
+        "断开vs闪亮",
+        "四角vs五角",
+        "学名vs戏名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "你这不是简单短",
+          "note": "不是简单断"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "反而闪掉至光",
+          "note": "反而闪亮"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "会产生四角星星的交散",
+          "note": "四角星星"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "就会产生五个角的交散",
+          "note": "五个角"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "我以为会叫给《影之力》",
+          "note": "影之力"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "为啥断开、神奇光哪来、光为何在这改向、吐槽傻名。",
+      "patterns": [
+        "因果追问",
+        "光源追问",
+        "改向追问",
+        "命名吐槽问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "那这不是为啥的",
+          "note": "为啥"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "那这属神奇的光是哪里的",
+          "note": "光是哪里的"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "光为什么汇捷在这改变方向呢",
+          "note": "光为什么改变方向"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不是哥们儿你这齐的傻名",
+          "note": "你这起的傻名"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "筷水杯/碟碗、双激光贴杆、1967报道、2003论文多棍水滴、红酒墙面、泳池波纹、马桶十字焦散。",
+      "patterns": [
+        "桌面实验例",
+        "文献年表例",
+        "生活焦散例",
+        "马桶彩蛋例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "把杯子换成碗 把筷子换成碟",
+          "note": "杯子换碗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我们让两只机构比保持数值向下照射",
+          "note": "两只激光笔"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "这个摄像最早于1967年被报道",
+          "note": "1967报道"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "张不死的人发表论文指出",
+          "note": "2003论文"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "闹上红酒",
+          "note": "红酒"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "马桶十字"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "折射抽象落到弯液面汇聚照亮一小段影；焦散落到墙面红酒与马桶十字。",
+      "patterns": [
+        "弯液面行为化",
+        "焦散生活化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "水沿着杆往上爬"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就汇据到的中间",
+          "note": "汇聚到中间"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "照亮了一小节影子",
+          "note": "照亮一小节影子"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "十字新型"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言问题在交界、被两边光汇聚照亮、小学二年级色散/折射、有光就有焦散。",
+      "patterns": [
+        "定位断言",
+        "机制断言",
+        "普及断言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "所以问题肯定出在这",
+          "note": "问题肯定出在这"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "被两边的光汇据照亮",
+          "note": "两边的光汇聚照亮"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "是一种我们小学二年纪",
+          "note": "小学二年级"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "有光的地方就能有交散",
+          "note": "有光的地方就能有焦散"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说「简单断」，再纠正为断处被照亮；吐槽学名不如戏名——命名层自嘲纠正。",
+      "patterns": [
+        "简单断纠正",
+        "命名自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "你这不是简单短",
+          "note": "不是简单断"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "反而闪掉至光",
+          "note": "反而闪亮"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不是哥们儿你这齐的傻名",
+          "note": "傻名"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "不如叫影碎冰冰"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "现象短打→动手指令→激光实验中速→机制一句点破→命名吐槽加速→生活例扫射→马桶彩蛋收。",
+      "patterns": [
+        "动手短指令",
+        "机制点破",
+        "吐槽加速",
+        "彩蛋收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "现在赶紧拿起你朋友的水杯",
+          "note": "赶紧拿起"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "弯液面"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "马桶十字"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "对"
+        },
+        {
+          "type": "discourse",
+          "form": "那"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "你这"
+        },
+        {
+          "type": "repair_like",
+          "form": "Amezi"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "对",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "那这不是为啥的",
+          "note": "那这不是为啥"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "你这不是简单短",
+          "note": "你这不是简单短"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "Amezi",
+          "note": "Amezi"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "bug惊奇→动手玩→激光Amazing→机制恍然→命名吐槽乐→生活连击爽→马桶恶趣味彩蛋。",
+      "patterns": [
+        "bug惊奇",
+        "Amazing",
+        "吐槽乐",
+        "恶趣味彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你心的毛不发现了这个世界的发的",
+          "note": "世界bug"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "Amezi",
+          "note": "Amezi"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "马桶十字"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从桌面断影扩到处处焦散，用马桶五百年呼应达芬奇彩蛋收束。",
+      "patterns": [
+        "桌面→处处焦散",
+        "历史彩蛋闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "有光的地方就能有交散",
+          "note": "有光就有焦散"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "这最初是达分期在1588年发现的",
+          "note": "达芬奇1588"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "竟然也才是一个困在一起",
+          "note": "困在一起"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "评论分享焦散+下次上厕所观察十字，强参与恶趣味CTA。",
+      "patterns": [
+        "评论分享CTA",
+        "上厕所观察彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s76",
+          "snippet": "欢迎在评论区分享你的交散",
+          "note": "评论区分享你的焦散"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "下次上完测锁",
+          "note": "下次上完厕所"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "请看这炮炮",
+          "note": "请看这泡泡"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "哥们儿张立/张不死的人戏称、影碎冰冰、马桶焦散，毕导式不正经学名。",
+      "patterns": [
+        "戏称科学家",
+        "影碎冰冰",
+        "马桶彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "这是因为我哥们儿张立",
+          "note": "哥们儿张立"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "张不死的人发表论文指出",
+          "note": "张不死的人"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "马桶"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（焦散/弯液面/色散）；物理名词需听众脑补；尾句「困在一起」残。",
+      "patterns": [
+        "ASR损毁",
+        "术语依赖上下文",
+        "尾句残"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "就被名为《影相常效忆》",
+          "note": "影相常效忆"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "学过的《交散线线》",
+          "note": "交散线线"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "竟然也才是一个困在一起",
+          "note": "困在一起"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显「问题在交界」定位→激光验证→弯液面解释，实验推理链清晰。",
+      "patterns": [
+        "定位→验证→机制外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "所以问题肯定出在这",
+          "note": "问题出在这"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "用机构比照射水中就可以看到光路",
+          "note": "照射看到光路"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "这是因为我哥们儿张立",
+          "note": "因为弯液面"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "命令式带玩：拿朋友水杯/激光笔；厕所观察拉日常共犯。",
+      "patterns": [
+        "命令式复现",
+        "朋友水杯恶作剧",
+        "厕所共犯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "现在赶紧拿起你朋友的水杯",
+          "note": "拿起你朋友的水杯"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "一起感受着神奇的现象吧",
+          "note": "一起感受"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "下次上完测锁",
+          "note": "下次上完厕所"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "水面交界断影、激光贴杆弯折、1967报道、2003五角焦散、达芬奇1588马桶十字。",
+      "patterns": [
+        "交界锚",
+        "年份锚",
+        "五角锚",
+        "马桶十字锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "因为你换紧于水面的交界地",
+          "note": "交界"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "这个摄像最早于1967年被报道",
+          "note": "1967"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "就会产生五个角的交散",
+          "note": "五个角"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "这最初是达分期在1588年发现的",
+          "note": "1588"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "十字"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "现象低密→实验中密→机制高密→命名吐槽降密→例扫中密→彩蛋低密高记忆。",
+      "patterns": [
+        "机制高密",
+        "吐槽降密",
+        "彩蛋低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "弯液面高密"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "吐槽降密"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "彩蛋"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现象→复现→定位→实验→机制→命名→家族扩展→生活CTA彩蛋。",
+      "patterns": [
+        "演示实验流",
+        "概念命名",
+        "迁移CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这根筷子水的力子竟然是动掉",
+          "note": "断开"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我们让两只机构比保持数值向下照射",
+          "note": "激光"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "就被名为《影相常效忆》",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "欢迎在评论区分享你的交散",
+          "note": "评论区"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "顽皮实验物理老师：又要严谨光路又要影碎冰冰与马桶彩蛋。",
+      "patterns": [
+        "严谨又贫",
+        "恶趣味收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "被两边的光汇据照亮",
+          "note": "汇聚照亮"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "马桶十字"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "世界bug断影、弯液面照亮、影碎冰冰、马桶十字焦散。",
+      "patterns": [
+        "世界bug",
+        "弯液面",
+        "影碎冰冰",
+        "马桶十字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你心的毛不发现了这个世界的发的",
+          "note": "世界bug"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "弯液面"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "你要这样还不如叫《影碎冰冰效忆》",
+          "note": "影碎冰冰"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "为你奉献的十字新型飘涂交散",
+          "note": "十字焦散"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "生活bug→动手复现→实验显形→机制一点破→戏谑命名→恶趣味CTA，观宇短科普可直接复用骨架。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "现在赶紧拿起你朋友的水杯",
+          "note": "动手复现"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "水汇严着赶紫网上拿形成彎越面",
+          "note": "弯液面机制"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "欢迎在评论区分享你的交散",
+          "note": "评论区CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83"
+  ],
+  "fields_complete_25": true
+}

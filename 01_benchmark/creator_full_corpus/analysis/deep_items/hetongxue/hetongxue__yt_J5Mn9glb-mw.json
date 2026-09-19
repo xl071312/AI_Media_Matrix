@@ -1,0 +1,1416 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_J5Mn9glb-mw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=J5Mn9glb-mw",
+  "source_sha256": "92ccdaa7f18218e214cd27e63b1371f01d2d27540b42c377368f01c1a306b815",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 114,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "在我們上周發佈的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "晶體森林的視頻里"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "很多觀眾很好奇"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "最後這些畫面是怎麼拍的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "今天就帶大家來看一看"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "首先比較簡單的"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "是這樣火車駛過"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "小樹也生長起來的畫面"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "因為樹生長一次"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "需要幾個小時"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "而火車很難走那麼慢"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "所以我們先在沒有樹的時候"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "拍一個電動火車"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "行駛過的鏡頭"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "接著把樹種下"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "讓相機"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "每隔一分鐘拍一張照片"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "拍幾個小時後"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "再把這些照片連起來播放"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "得到一個樹生長的鏡頭"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "再把第一條素材裡面的火車"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "合成進來"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "調個色"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "再上點活兒"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "效果就有了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "比較難的是像這樣"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "相機和火車都在運動的鏡頭"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "鏡頭一動"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "合成的難度就增加了不少"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "如果用假背景的話"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "很難追蹤"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "攝像的同事說"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "不用擔心"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "已經找人定制了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "180度的環形幕布"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "你只要再買3個"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "高亮度投影儀"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "在後面投一下就行"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "然後給我推了個鏈接"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "所以我找他們"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "直接借來了"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "三台4K投影儀"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "你別說"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "這個效果是真不錯"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "並且可以支持"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "我們長時間的拍攝"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "由於我們的運鏡"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "會走滿整個沙盤"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "得要燈光把沙盤打亮 打勻"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "我又借來了這個床墊"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 2,
+      "snippet": "哦不"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 7,
+      "snippet": "其實是愛圖仕的"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "INFINIMAT燈"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 4,
+      "snippet": "它整個燈"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 9,
+      "snippet": "就是一個巨大的氣墊"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 3,
+      "snippet": "你別說"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "這光是真挺柔"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "但最大的問題是"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 8,
+      "snippet": "我們得精准地控制"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 9,
+      "snippet": "火車在畫面里的位置"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 9,
+      "snippet": "實現之前設計的構圖"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "我們使用了"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "機械臂的延時功能"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 11,
+      "snippet": "把這個運鏡分成了很多步"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "並且製作了一個"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 8,
+      "snippet": "可以控制相機快門"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "和火車供電的控制器"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 7,
+      "snippet": "這樣我們就可以"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "命令器械臂走一步"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 11,
+      "snippet": "同時給火車軌道短暫通電"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "讓火車也往前走一格"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 6,
+      "snippet": "再拍一張照片"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 3,
+      "snippet": "並通過"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "控制通電時間的長短"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 8,
+      "snippet": "來控制火車的距離"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "讓它始終處在畫面中"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 7,
+      "snippet": "我們想要的位置"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 8,
+      "snippet": "這樣讓火車走一圈"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "我們就獲得了一個"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 7,
+      "snippet": "火車運動的鏡頭"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "然後再以相同的運鏡"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "導致火車的運動非常卡"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "所以最後沒有這麼做"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 4,
+      "snippet": "很多觀眾"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 7,
+      "snippet": "也問了樹的配方"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "我們同事寫了一下"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 4,
+      "snippet": "放在這裡"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "可能用到的朋友"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 6,
+      "snippet": "可以點個收藏"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 7,
+      "snippet": "讓我們再看一次"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 6,
+      "snippet": "最後的成片吧"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "視頻中我們的小火車"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 8,
+      "snippet": "穿過四季迎接新年"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 11,
+      "snippet": "我們還做了另外一樣東西"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 4,
+      "snippet": "迎接新年"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 8,
+      "snippet": "它就是我們工作室"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 10,
+      "snippet": "2025年的新年日曆"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 5,
+      "snippet": "我們以去年"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "發佈的視頻為題材"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 8,
+      "snippet": "畫了24幅卡通畫"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 5,
+      "snippet": "做成了日曆"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 4,
+      "snippet": "它的支架"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 5,
+      "snippet": "也可以當作"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 6,
+      "snippet": "手機支架使用"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 9,
+      "snippet": "如果大家覺得還不錯"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "也歡迎到我們的"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 7,
+      "snippet": "何同學商店購買"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 7,
+      "snippet": "最後再次祝大家"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 5,
+      "snippet": "2025年"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 4,
+      "snippet": "新年快樂"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "順順利利"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "回应上周晶体森林成片好奇：今天拆最后画面怎么拍。",
+      "patterns": [
+        "上回成片钩",
+        "怎么拍预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "晶體森林的視頻里",
+          "note": "上回"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "最後這些畫面是怎麼拍的",
+          "note": "怎么拍"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "今天就帶大家來看一看",
+          "note": "今天拆"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "简单镜头：火车+延时树合成→难镜头：环幕投影+气垫灯+机械臂步进同步火车→配方收藏→日历商品。",
+      "patterns": [
+        "易镜头合成→难镜头同步→配方→商品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "拍一個電動火車",
+          "note": "火车素"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "每隔一分鐘拍一張照片",
+          "note": "延时"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "合成進來",
+          "note": "合成"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "機械臂的延時功能",
+          "note": "机械臂"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "同時給火車軌道短暫通電",
+          "note": "同步通电"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "何同學商店購買",
+          "note": "商店"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "easy_composite",
+          "note": "简单火车树合成"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s100",
+            "s101"
+          ],
+          "function": "hard_sync_rig",
+          "note": "运动镜头同步方案"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129"
+          ],
+          "function": "recipe_merch",
+          "note": "配方成片与日历CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "首先比较简单/接着/比较难的是/首先如果/所以/然后/哦不修正推进。",
+      "patterns": [
+        "首先简单",
+        "比较难",
+        "所以",
+        "哦不"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先比較簡單的",
+          "note": "首先简单"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "比較難的是像這樣",
+          "note": "比较难"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "首先",
+          "note": "首先难段"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "哦不",
+          "note": "哦不"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "所以",
+          "note": "所以"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "简单静止合成vs相机火车同动；假背景难追vs环幕；履带方案未采用因卡顿。",
+      "patterns": [
+        "易vs难镜头",
+        "假背景vs环幕",
+        "方案弃用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先比較簡單的",
+          "note": "易"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "比較難的是像這樣",
+          "note": "难"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "如果用假背景的話",
+          "note": "假背景"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "180度的環形幕布",
+          "note": "环幕"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "所以最後沒有這麼做",
+          "note": "弃用"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开篇承接观众怎么拍好奇；正文少问句，以同事说不用担心代替问答。",
+      "patterns": [
+        "承接好奇",
+        "同事答疑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "最後這些畫面是怎麼拍的",
+          "note": "怎么拍"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "不用擔心",
+          "note": "不用担心"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "电动火车空镜+分钟延时树；三台4K投影环幕；气垫灯；机械臂一步一通电一拍照。",
+      "patterns": [
+        "分步拍法例",
+        "设备例",
+        "步进同步例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "拍一個電動火車",
+          "note": "火车例"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "每隔一分鐘拍一張照片",
+          "note": "延时例"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "三台4K投影儀",
+          "note": "投影"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "命令器械臂走一步",
+          "note": "步进"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "合成难度抽象→定制180度环幕+借三台4K；柔光抽象→床垫实为INFINIMAT气垫灯。",
+      "patterns": [
+        "环幕4K",
+        "床垫灯梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "180度的環形幕布",
+          "note": "环幕"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "三台4K投影儀",
+          "note": "4K"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "我又借來了這個床墊",
+          "note": "床垫"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "INFINIMAT燈",
+          "note": "灯名"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "效果真不错/光真挺柔/最大问题是/运动非常卡，现场品评。",
+      "patterns": [
+        "真不错",
+        "真挺柔",
+        "最大问题",
+        "非常卡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "這個效果是真不錯",
+          "note": "不错"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "這光是真挺柔",
+          "note": "挺柔"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "但最大的問題是",
+          "note": "最大问题"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "導致火車的運動非常卡",
+          "note": "非常卡"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "哦不：床垫其实是爱图仕气垫灯；最后没有这么做的方案弃用声明。",
+      "patterns": [
+        "哦不改口",
+        "方案弃用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "哦不",
+          "note": "哦不"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "其實是愛圖仕的",
+          "note": "其实是"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "所以最後沒有這麼做",
+          "note": "弃用"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "先易后难两段；设备名短句顿挫；步进说明中长句；商品段放慢。",
+      "patterns": [
+        "易难两段",
+        "设备顿挫",
+        "商品放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先比較簡單的",
+          "note": "易段"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "比較難的是像這樣",
+          "note": "难段"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "INFINIMAT燈",
+          "note": "设备名"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "新年快樂",
+          "note": "放慢"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇回应→简单段轻松→难段压力→借到设备得意→成片满足→卖日历友好。",
+      "patterns": [
+        "好奇→轻松→压力→得意→友好卖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "最後這些畫面是怎麼拍的",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "這個效果是真不錯",
+          "note": "得意"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "讓我們再看一次",
+          "note": "满足"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "何同學商店購買",
+          "note": "卖"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头怎么拍→再看成片；新年火车穿过四季接到日历祝福。",
+      "patterns": [
+        "怎么拍到成片",
+        "四季到新年"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "最後這些畫面是怎麼拍的",
+          "note": "开头"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "最後的成片吧",
+          "note": "成片"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "穿過四季迎接新年",
+          "note": "四季"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "新年快樂",
+          "note": "祝福"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "配方点收藏；欢迎商店购买日历；新年快乐祝福。",
+      "patterns": [
+        "收藏",
+        "商店购买",
+        "祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s107",
+          "snippet": "可以點個收藏",
+          "note": "收藏"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "何同學商店購買",
+          "note": "购买"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "新年快樂",
+          "note": "祝福"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "你别说、哦不床垫梗、同事推链接我去借，工作室日常口吻。",
+      "patterns": [
+        "你别说",
+        "床垫梗",
+        "借设备日常"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "你別說",
+          "note": "你别说"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "我又借來了這個床墊",
+          "note": "床垫"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "然後給我推了個鏈接",
+          "note": "推链接"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断缺中间合成步骤(s84跳s100)；商业日历植入偏硬；配方一笔带过。",
+      "patterns": [
+        "截断",
+        "硬植入",
+        "配方略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "然後再以相同的運鏡",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "導致火車的運動非常卡",
+          "note": "跳入"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "放在這裡",
+          "note": "配方略"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示问题树慢火车快→分拍合成；运动难→否假背景→借环幕灯→步进同步控制。",
+      "patterns": [
+        "问题拆解",
+        "否假背景",
+        "步进方案"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因為樹生長一次",
+          "note": "问题"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "而火車很難走那麼慢",
+          "note": "约束"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "如果用假背景的話",
+          "note": "否方案"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "這樣我們就可以",
+          "note": "步进解"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当上周看过成片的好奇粉丝，用带大家看/可能用到的朋友拉实用同盟。",
+      "patterns": [
+        "上回观众",
+        "实用朋友"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "很多觀眾很好奇",
+          "note": "观众好奇"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "今天就帶大家來看一看",
+          "note": "带大家"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "可能用到的朋友",
+          "note": "用到的朋友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "每分钟一拍、180度环幕、三台4K、INFINIMAT、机械臂控制器、2025日历24幅画。",
+      "patterns": [
+        "分钟延时",
+        "环幕4K",
+        "气垫灯",
+        "日历24"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "每隔一分鐘拍一張照片",
+          "note": "分钟"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "180度的環形幕布",
+          "note": "环幕"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "三台4K投影儀",
+          "note": "4K"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "畫了24幅卡通畫",
+          "note": "24幅"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低→简单流程中密→难镜头设备与同步高密→配方商品低密。",
+      "patterns": [
+        "流程中",
+        "同步高",
+        "商品低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "每隔一分鐘拍一張照片",
+          "note": "流程"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "和火車供電的控制器",
+          "note": "同步高"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "何同學商店購買",
+          "note": "商品低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "好奇承接→先易后难→设备插入→步进详解→弃用声明→配方CTA。",
+      "patterns": [
+        "先易后难",
+        "设备插入",
+        "步进",
+        "CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先比較簡單的",
+          "note": "易"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "比較難的是像這樣",
+          "note": "难"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "機械臂的延時功能",
+          "note": "步进"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "可以點個收藏",
+          "note": "CTA"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "技术导演型UP：冷静拆拍摄链路，用借灯梗保持亲近。",
+      "patterns": [
+        "技术导演",
+        "借灯亲近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "合成的難度就增加了不少",
+          "note": "冷静难"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "我又借來了這個床墊",
+          "note": "亲近梗"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "先拍火车再延时树、环幕三投影、床垫其实是灯、机械臂通电同步。",
+      "patterns": [
+        "分拍合成",
+        "环幕",
+        "床垫灯",
+        "通电同步"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "拍一個電動火車",
+          "note": "先火车"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "合成進來",
+          "note": "合成"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "哦不",
+          "note": "床垫灯"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "同時給火車軌道短暫通電",
+          "note": "通电"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "先易后难制作拆解+设备清单结构可改编科技幕后，需削商品硬广并补截断步骤。",
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先比較簡單的",
+          "note": "易难结构"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "機械臂的延時功能",
+          "note": "核心技法"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "同時給火車軌道短暫通電",
+          "note": "同步锚"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s9",
+    "s11",
+    "s13",
+    "s17",
+    "s22",
+    "s26",
+    "s29",
+    "s30",
+    "s31",
+    "s34",
+    "s36",
+    "s40",
+    "s43",
+    "s44",
+    "s45",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s59",
+    "s60",
+    "s64",
+    "s66",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s84",
+    "s100",
+    "s101",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s111",
+    "s118",
+    "s125",
+    "s128"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1196 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7652676680555069952",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7652676680555069952/",
+  "source_sha256": "a7703a6ea95611c25d8daecb83b76a8e1d169bb66a8220de8ea4348ae4a3c3f8",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 71,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "一个非常炸裂的新闻。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "增程车，似乎卖不过纯电车了。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "（新闻来自每日经济新闻）"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 16,
+      "snippet": "看起来很反直觉，但一点也不奇怪。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 29,
+      "snippet": "2年前我就写过，纯电车要给增程车，尤其是问界和理想，磕头。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 25,
+      "snippet": "因为他们这种增程车的存在，会让纯电车有更好的未来。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 18,
+      "snippet": "你的网络好友佛子哥，从来不玩马后炮。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 38,
+      "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 17,
+      "snippet": "纯电车要感谢增程车，要大力的感谢。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 15,
+      "snippet": "增程车卖得好，纯电车才有未来。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 37,
+      "snippet": "大家嘲讽增程的那些原因，纯电续航短，关键时刻还得靠油，用油发电脱裤子放屁。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 20,
+      "snippet": "就是这些黑点，才是纯电的大救星，引路人。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "为啥，你思考一个问题。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 21,
+      "snippet": "阻碍一个油车用户买电车的最核心的原因是啥？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "其实就是续航焦虑。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 54,
+      "snippet": "很多没买过纯电的人，真就是害怕车在半路趴窝，还会给自己脑补一堆极端的情况下自己车开不走只能被世界暴打的狼狈。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 30,
+      "snippet": "不过他们又馋绿牌，所以，增程符合了他们的需求，算是过渡方案。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 71,
+      "snippet": "当他们开上增程，开上这种纯电续航不到200公里（甚至100左右），超过了就要开始烧油并且驾驶感觉出现明显变化的车的时候，他们意识到了一个问题。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 26,
+      "snippet": "200公里的纯电续航，基本覆盖了生活中99%的状况。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 21,
+      "snippet": "以及没电的时候这车烧油发电开起来有点没劲。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 62,
+      "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程车，他们根本不乐意烧油继续跑，都在那补电呢。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 40,
+      "snippet": "问了他们，还振振有词，说能抽根烟休息一下，毕竟加油站不能抽烟，只能看着油价抽搐。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 21,
+      "snippet": "你别管车是怎么设计的，能充电我就充我就充！"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 40,
+      "snippet": "现实中，买了增程的人，很多时候真是能充电就充电，能纯电就纯电，能不加油就不加油。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 54,
+      "snippet": "别说高速了，就我家小区地下车库停了一整排新能源，纯电车还真不一定有充电桩，但是增程的车，就没有不装充电桩的。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 19,
+      "snippet": "只要装了充电器，就没有一天是不充电的。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 16,
+      "snippet": "我问隔壁大哥你这车纯电续航多少。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "大哥说一百上下。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 35,
+      "snippet": "然后兴致勃勃地给我详细讲述了他是如何和这一百公里的电池斗智斗勇的故事。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 16,
+      "snippet": "可以说那点电算是被他给玩明白了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 25,
+      "snippet": "至于车里的油，还是提车那天去家的，算是资深老油了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "我问大哥为啥不加油。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 12,
+      "snippet": "大哥一句话给我干沉默了。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 13,
+      "snippet": "我有电池啊，我为啥要加油。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 25,
+      "snippet": "我一直以为买增程的人是长途需求很多，电池只是送的。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 28,
+      "snippet": "聊了周围一圈才发现，原来电池才是硬需求，发动机才是送的。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 44,
+      "snippet": "而这些人，在过去，都是绝对的油车支持者，绝对的担心自己车的续航问题，绝对的担心高速问题。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 70,
+      "snippet": "结果增程车帮他们迈出第一步之后，他们感受了电的威力以及自己的实际需求后，下一辆车都表示要纯电，毕竟天天充电还是麻烦了，干脆弄个大电池的纯电。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 22,
+      "snippet": "讲真很多买混动/增程的人可能都是这样的想的。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "一开始是为了解决里程焦虑。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 35,
+      "snippet": "可一旦习惯了纯电模式后，就发现自己根本用不上发动机，甚至不想用发动机。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 17,
+      "snippet": "只能对着本就不富裕的电池重拳出击。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 16,
+      "snippet": "就是电池包保护得太好，没办法搞。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 20,
+      "snippet": "我们小时候，都是对着四驱车的电池用牙咬。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "只要能榨干它最后一丝电量。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "什么招都用得出来。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 30,
+      "snippet": "到最后就发现，与其这么折腾，还不如一步到位，直接上辆纯电车。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 30,
+      "snippet": "增程的用户再换车的时候，大概率会因为不跑长途直接买一台电车。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "这就是人类的特性。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 23,
+      "snippet": "总是给自己预设一堆极端情况，实际上发现用不到。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 40,
+      "snippet": "而如果没有增程这种过渡方案，他们或许从头到尾都不会买一辆新能源车，会自己吓自己。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 15,
+      "snippet": "增程看起来是一种技术上的过渡。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 11,
+      "snippet": "实际上是营销上的过渡。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 34,
+      "snippet": "深度体验增程之后，就会发现纯电的香，以及生活中实际不需要担心的续航。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 26,
+      "snippet": "每一个增程用户，都大概率在未来有可能转化为纯电用户。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 22,
+      "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 11,
+      "snippet": "增程替纯电，打了广告。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 16,
+      "snippet": "增程车，就是纯电车最好的4S店。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 8,
+      "snippet": "哦不对，4S电。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 22,
+      "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「非常炸裂的新闻」+增程卖不过纯电反直觉钩子，立刻立「纯电该给问界理想磕头」立场。",
+      "patterns": [
+        "炸裂新闻钩子",
+        "反直觉立题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个非常炸裂的新闻。",
+          "note": "非常炸裂的新闻"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "增程车，似乎卖不过纯电车了。",
+          "note": "增程车卖不过纯电"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "看起来很反直觉，但一点也不奇怪。",
+          "note": "很反直觉"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "增程非对手是奶妈→黑点恰是引路→续航焦虑过渡→实驾发现200km够用→养成充电习惯→换车转纯电→营销过渡收束磕头。",
+      "patterns": [
+        "奶妈翻转",
+        "焦虑过渡",
+        "习惯养成转纯电",
+        "磕头收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "而是奶妈"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "其实就是续航焦虑。",
+          "note": "续航焦虑"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "200公里的纯电续航，基本覆盖了生活中99%的状况。",
+          "note": "覆盖99%"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "结果增程车帮他们迈出第一步之后，他们感受了电的威力以及自己的实际需求后，下一辆车",
+          "note": "下一辆要纯电"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "狠狠地磕头"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "news_hook",
+          "note": "炸裂新闻与两年前言中"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "milkmaid_thesis",
+          "note": "奶妈论与黑点即引路人"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "anxiety_bridge",
+          "note": "续航焦虑与增程过渡"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "habit_flip",
+          "note": "大哥斗智斗勇与电池才是硬需求"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71"
+          ],
+          "function": "conversion_close",
+          "note": "换车转纯电与4S电收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「恰恰相反」「为啥你思考」「于是会发现」「讲真」「从这个角度来说」推进翻转。",
+      "patterns": [
+        "恰恰相反翻转",
+        "为啥你思考",
+        "从这个角度收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "恰恰相反"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "为啥，你思考一个问题。",
+          "note": "为啥你思考"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程",
+          "note": "于是会发现"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "从这个角度来说"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "增程阻碍纯电常识 vs 奶妈论；油车恐惧趴窝 vs 实驾200km够用；发动机硬需求预设 vs 电池才是硬需求。",
+      "patterns": [
+        "阻碍/奶妈反差",
+        "恐惧/实驾够用",
+        "发动机/电池硬需求反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "阻碍纯电恰恰相反"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "很多没买过纯电的人，真就是害怕车在半路趴窝，还会给自己脑补一堆极端的情况下自己车",
+          "note": "害怕半路趴窝"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "200公里的纯电续航，基本覆盖了生活中99%的状况。",
+          "note": "覆盖99%"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "聊了周围一圈才发现，原来电池才是硬需求，发动机才是送的。",
+          "note": "电池才是硬需求"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「阻碍油车用户买电车的最核心原因是啥」设问自答续航焦虑；「大哥为啥不加油」引出金句。",
+      "patterns": [
+        "核心原因设问",
+        "大哥为啥不加油"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "阻碍一个油车用户买电车的最核心的原因是啥？",
+          "note": "最核心的原因是啥"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我问大哥为啥不加油。",
+          "note": "为啥不加油"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "高速充电站增程排队；小区增程必装桩；隔壁大哥百公里斗智斗勇；四驱车牙咬电池童年喻。",
+      "patterns": [
+        "高速排队例",
+        "大哥斗智例",
+        "四驱车牙咬喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程",
+          "note": "排队充电的很多都是增程"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "然后兴致勃勃地给我详细讲述了他是如何和这一百公里的电池斗智斗勇的故事。",
+          "note": "斗智斗勇的故事"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我有电池啊，我为啥要加油。",
+          "note": "我有电池啊"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "我们小时候，都是对着四驱车的电池用牙咬。",
+          "note": "四驱车的电池用牙咬"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「续航焦虑」落到半路趴窝脑补；「营销过渡」落到增程是纯电最好4S店/4S电。",
+      "patterns": [
+        "焦虑→趴窝脑补",
+        "过渡→4S电金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "很多没买过纯电的人，真就是害怕车在半路趴窝，还会给自己脑补一堆极端的情况下自己车",
+          "note": "半路趴窝"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "实际上是营销上的过渡。",
+          "note": "营销上的过渡"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "增程车，就是纯电车最好的4S店。",
+          "note": "最好的4S店"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定增程是奶妈、黑点是救星；200km覆盖99%；下一辆大概率纯电；纯电要狠狠磕头。",
+      "patterns": [
+        "奶妈判断",
+        "99%覆盖判断",
+        "磕头判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "而是奶妈"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "200公里的纯电续航，基本覆盖了生活中99%的状况。",
+          "note": "覆盖99%"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "增程的用户再换车的时候，大概率会因为不跑长途直接买一台电车。",
+          "note": "大概率会"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "狠狠地磕头"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「我一直以为…聊了周围一圈才发现」纠偏长途需求预设；「哦不对，4S电」话术自修。",
+      "patterns": [
+        "一直以为才发现纠偏",
+        "4S电话术自修"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "我一直以为买增程的人是长途需求很多，电池只是送的。",
+          "note": "我一直以为"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "聊了周围一圈才发现，原来电池才是硬需求，发动机才是送的。",
+          "note": "才发现"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "哦不对4S电"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻短句钩→奶妈论中板→高速/小区场景加速→大哥对话喜剧节拍→金句短收。",
+      "patterns": [
+        "短句钩",
+        "场景加速",
+        "对话喜剧节拍",
+        "金句短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个非常炸裂的新闻。",
+          "note": "非常炸裂"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程",
+          "note": "排队充电"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我有电池啊，我为啥要加油。",
+          "note": "我有电池啊"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "炸裂惊奇→反直觉自信→共情焦虑→现场喜剧→顿悟转化→磕头致敬升温。",
+      "patterns": [
+        "惊奇→自信→喜剧→顿悟→致敬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个非常炸裂的新闻。",
+          "note": "炸裂"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你的网络好友佛子哥，从来不玩马后炮。",
+          "note": "从来不玩马后炮"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我有电池啊，我为啥要加油。",
+          "note": "干沉默了"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "狠狠地磕头"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇「给问界理想磕头」呼应结尾「狠狠磕头」+「增程替纯电打广告/4S电」点题闭环。",
+      "patterns": [
+        "磕头开合呼应",
+        "4S电点题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "2年前我就写过，纯电车要给增程车，尤其是问界和理想，磕头。",
+          "note": "给增程车磕头"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "狠狠地磕头"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "增程替纯电，打了广告。",
+          "note": "打了广告"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注CTA，以磕头金句与4S电梗收束替代行动号召。",
+      "patterns": [
+        "无硬CTA",
+        "金句梗收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "狠狠地磕头"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "佛子哥自称、脱裤子放屁、看着油价抽搐、牙咬四驱电池、4S电谐音，段子口语强。",
+      "patterns": [
+        "佛子哥自称",
+        "土味比喻",
+        "4S电谐音"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你的网络好友佛子哥，从来不玩马后炮。",
+          "note": "佛子哥"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "大家嘲讽增程的那些原因，纯电续航短，关键时刻还得靠油，用油发电脱裤子放屁。",
+          "note": "脱裤子放屁"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "问了他们，还振振有词，说能抽根烟休息一下，毕竟加油站不能抽烟，只能看着油价抽搐。",
+          "note": "看着油价抽搐"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片截取占位反复；大哥轶事难泛化；对增程技术细节讨论浅。",
+      "patterns": [
+        "截图占位",
+        "轶事难泛化",
+        "技术讨论浅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "图片截取自: 纯电车应该给问界和理想再磕个头",
+          "note": "图片截取自"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "然后兴致勃勃地给我详细讲述了他是如何和这一百公里的电池斗智斗勇的故事。",
+          "note": "斗智斗勇"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "大家嘲讽增程的那些原因，纯电续航短，关键时刻还得靠油，用油发电脱裤子放屁。",
+          "note": "用油发电"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "设问核心原因自答焦虑；「一直以为→才发现」暴露认知修正过程。",
+      "patterns": [
+        "设问自答",
+        "以为→发现认知修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "阻碍一个油车用户买电车的最核心的原因是啥？",
+          "note": "最核心的原因是啥"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "其实就是续航焦虑。",
+          "note": "其实就是续航焦虑"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "我一直以为买增程的人是长途需求很多，电池只是送的。",
+          "note": "我一直以为"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "聊了周围一圈才发现，原来电池才是硬需求，发动机才是送的。",
+          "note": "才发现"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者放在「没买过纯电会脑补趴窝」的潜在转化者，用大哥故事降低防御。",
+      "patterns": [
+        "潜在转化者定位",
+        "大哥故事降防御"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "很多没买过纯电的人，真就是害怕车在半路趴窝，还会给自己脑补一堆极端的情况下自己车",
+          "note": "没买过纯电的人"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "不过他们又馋绿牌，所以，增程符合了他们的需求，算是过渡方案。",
+          "note": "又馋绿牌"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "然后兴致勃勃地给我详细讲述了他是如何和这一百公里的电池斗智斗勇的故事。",
+          "note": "斗智斗勇"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "纯电续航不到200/100公里；高速充电站排队；小区整排充电桩；提车日的油。",
+      "patterns": [
+        "200km锚",
+        "充电站排队锚",
+        "提车日油锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "当他们开上增程，开上这种纯电续航不到200公里（甚至100左右），超过了就要开始",
+          "note": "不到200公里"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程",
+          "note": "高速充电站"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "别说高速了，就我家小区地下车库停了一整排新能源，纯电车还真不一定有充电桩，但是增",
+          "note": "没有不装充电桩"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "至于车里的油，还是提车那天去家的，算是资深老油了。",
+          "note": "提车那天"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "新闻钩中密→奶妈论中密→场景例证高密→对话低密喜剧→金句中密收。",
+      "patterns": [
+        "中密钩→中密论→高密场景→低密对话→中密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "增程车，似乎卖不过纯电车了。",
+          "note": "卖不过纯电"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "而是奶妈"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "于是，会发现一个很诡异的现象，一到高速充电站，在那排队充电的很多都是能烧油的增程",
+          "note": "排队充电"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我有电池啊，我为啥要加油。",
+          "note": "我有电池啊"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从这个角度来说，纯电真的要给增程狠狠地磕头。",
+          "note": "磕头"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短新闻句→反直觉转折→长场景句→问答短句对→排比「能…就…」→谐音短收。",
+      "patterns": [
+        "短新闻句",
+        "长场景句",
+        "能就排比",
+        "谐音短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个非常炸裂的新闻。",
+          "note": "非常炸裂"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当他们开上增程，开上这种纯电续航不到200公里（甚至100左右），超过了就要开始",
+          "note": "当他们开上增程"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "现实中，买了增程的人，很多时候真是能充电就充电，能纯电就纯电，能不加油就不加油。",
+          "note": "能充电就充电"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "佛子哥毒舌先知人设：敢提前两年放言、敢说脱裤子放屁，轶事里藏产业判断。",
+      "patterns": [
+        "毒舌先知人设",
+        "轶事藏判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你的网络好友佛子哥，从来不玩马后炮。",
+          "note": "从来不玩马后炮"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "大家嘲讽增程的那些原因，纯电续航短，关键时刻还得靠油，用油发电脱裤子放屁。",
+          "note": "脱裤子放屁"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "2年前我就写过，纯电车要给增程车，尤其是问界和理想，磕头。",
+          "note": "2年前我就写过"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "增程是奶妈；我有电池啊我为啥要加油；增程是纯电最好4S电；狠狠磕头。",
+      "patterns": [
+        "奶妈金句",
+        "我有电池啊",
+        "4S电谐音"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "而是奶妈"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我有电池啊，我为啥要加油。",
+          "note": "我有电池啊"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "增程车，就是纯电车最好的4S店。",
+          "note": "最好的4S店"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "反直觉新闻钩→身份翻转（对手变奶妈）→用户旅程转化→金句收束骨架可改编到其他过渡品类，需换行业梗。",
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "很多人觉得增程车会阻碍纯电，恰恰相反，增程车不是纯电车的竞争对手，而是奶妈。",
+          "note": "而是奶妈"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "结果增程车帮他们迈出第一步之后，他们感受了电的威力以及自己的实际需求后，下一辆车",
+          "note": "下一辆车都表示要纯电"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "哦不对，4S电。",
+          "note": "4S电"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s6",
+    "s11",
+    "s19",
+    "s24",
+    "s47",
+    "s67",
+    "s1",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s68",
+    "s69",
+    "s70",
+    "s71"
+  ],
+  "fields_complete_25": true
+}

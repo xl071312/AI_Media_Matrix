@@ -1,0 +1,3581 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_T7z71yENz94",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=T7z71yENz94",
+  "source_sha256": "f51f43af867e32c36d4ec61d59a79a37e2c7cbf250b91ebe611e1b6f9bf4bea9",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 518,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "Hi~"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "朋友們"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "今年2月"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "美國那個最高法院"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "不是判川普的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 4,
+      "snippet": "關稅政策"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "違法了嗎"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "那他去年轟轟烈烈"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "發起的"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "全球關稅戰"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "都白整了嗎"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "辛苦折騰一年"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "收上來的關稅"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "難道都得退回去嗎"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "咱好久沒聊美國關稅了哈"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "但這個畢竟是一個"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "攪動全球貿易格局的大事"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "所以咱今天來跟進一下"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "看看這麼折騰一通之後"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 2,
+      "snippet": "美國"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 10,
+      "snippet": "現在和各國之間的關稅"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "到底是個什麼情況"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "誰是最大的受益人"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "誰又吃了最大的虧"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "咱先來簡單捋一下"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "這個事哈"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "去年特朗普重磅發布了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "那個\"解放日\"關稅"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "對全球所有國家都徵"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "多的有百分之幾十"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "還全球挨個攪合了一遍"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "美國大部分"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "涉及到進口的企業"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "都受到了不小的"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "直接衝擊"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "比如蘋果前前後後"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "交了超過32億美元"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "耐克大概10億"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "很多企業也都被迫漲價"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 3,
+      "snippet": "但是吧"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "這些進口企業"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "雖然是怨聲載道"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 3,
+      "snippet": "大企業"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "一般是敢怒不敢言的"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "那誰敢真跟"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "美國政府"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "跟特朗普硬剛啊"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "你給他惹毛了"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 3,
+      "snippet": "鬼知道"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "他能搞出什麼新招"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 3,
+      "snippet": "對付你"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "我可一點沒誇張哈"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "當時亞馬遜"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 3,
+      "snippet": "只是說"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "考慮在商品頁面"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 6,
+      "snippet": "標明關稅成本"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 11,
+      "snippet": "白宮發言人當天就定性了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 3,
+      "snippet": "說這是"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "\"敵意的政治行為\""
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 9,
+      "snippet": "特朗普直接一個電話"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "打給貝索斯"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "嚇得亞馬遜"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "幾個小時之後"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "就光速澄清說啊"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "咱不搞了不搞了"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 5,
+      "snippet": "後來特朗普"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 7,
+      "snippet": "還專門誇了一句"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "說貝佐斯人很好"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "問題解決的很快"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 3,
+      "snippet": "你瞅瞅"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 7,
+      "snippet": "這大企業之後就"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 5,
+      "snippet": "集體失聲了"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 2,
+      "snippet": "但是"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "有兩家小公司"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 5,
+      "snippet": "一個賣酒的"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "一個賣玩具的"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 4,
+      "snippet": "就不干了"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 4,
+      "snippet": "直接上訴"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "2025年4月"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 10,
+      "snippet": "把美國政府告上了法庭"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "第一被告就是"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 5,
+      "snippet": "特朗普本人"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 5,
+      "snippet": "再加上一串"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 7,
+      "snippet": "聯邦部門和官員"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "什麼國土安全部"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "海關商務部"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 5,
+      "snippet": "財政部等等"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 3,
+      "snippet": "一長串"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 3,
+      "snippet": "全告了"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 3,
+      "snippet": "這官司"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 8,
+      "snippet": "一路打到最高法院"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 10,
+      "snippet": "2026年2月20號"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 6,
+      "snippet": "美國最高法院"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 7,
+      "snippet": "9個大法官投票"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 5,
+      "snippet": "最終6:3"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 2,
+      "snippet": "政府"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 2,
+      "snippet": "敗訴"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 5,
+      "snippet": "為什麼法院"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 7,
+      "snippet": "會判政府敗訴呢"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 7,
+      "snippet": "我覺得主要原因"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 5,
+      "snippet": "有這麼兩個"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 6,
+      "snippet": "首先最核心的"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 9,
+      "snippet": "憲法裡頭寫的很清楚"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "怎麼收稅的決定權"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 5,
+      "snippet": "在國會手裡"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "你總統沒這權力"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 3,
+      "snippet": "第二呢"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "特朗普的那個對等關稅"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 5,
+      "snippet": "芬太尼關稅"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 7,
+      "snippet": "他引用的是一部"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 13,
+      "snippet": "1977年的《緊急狀態法》"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 5,
+      "snippet": "IEEPA"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 4,
+      "snippet": "這個法案"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 9,
+      "snippet": "本來是針對個別對象"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 3,
+      "snippet": "去製裁"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "凍結資產什麼的"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 12,
+      "snippet": "里邊根本沒提\"關稅\"的事"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 6,
+      "snippet": "川普這就屬於"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 7,
+      "snippet": "強行引申發散了"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 9,
+      "snippet": "這個判決結果的風向"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 4,
+      "snippet": "剛一明顯"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 7,
+      "snippet": "2,000多家"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 7,
+      "snippet": "大大小小的公司"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 6,
+      "snippet": "就全都衝出了"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 7,
+      "snippet": "一起向貿易法院"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 2,
+      "snippet": "上訴"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 8,
+      "snippet": "那就違法怎麼辦呢"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 7,
+      "snippet": "正常流程宣布是"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 3,
+      "snippet": "退錢嘛"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 4,
+      "snippet": "咱來看看"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 7,
+      "snippet": "他要退多少錢啊"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 6,
+      "snippet": "去年美國政府"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "總共收上來的關稅"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 9,
+      "snippet": "是2,640億美元"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 11,
+      "snippet": "這個數字還是非常可觀的"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 5,
+      "snippet": "比之前幾年"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 6,
+      "snippet": "都翻了三倍多"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 9,
+      "snippet": "但這些錢不是全退哈"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 4,
+      "snippet": "你看去年"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 9,
+      "snippet": "特朗普發動關稅戰的"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 7,
+      "snippet": "他找的法律理由"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 7,
+      "snippet": "大概是這麼兩個"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 9,
+      "snippet": "一個是咱們剛才說的"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 7,
+      "snippet": "《緊急狀態法》"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 5,
+      "snippet": "IEEPA"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 9,
+      "snippet": "那些針對每個國家的"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 5,
+      "snippet": "對等關稅啊"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 7,
+      "snippet": "還有芬太尼關稅"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 8,
+      "snippet": "用的都是這個理由"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 4,
+      "snippet": "而第二個"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 12,
+      "snippet": "是以\"國家安全\"為理由的"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 5,
+      "snippet": "這些基本上"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 9,
+      "snippet": "都是針對某個行業的"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 9,
+      "snippet": "比如鋼鐵鋁汽車這些"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 9,
+      "snippet": "而這回法院判違法的"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 4,
+      "snippet": "是第一個"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 6,
+      "snippet": "第二點他沒碰"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 9,
+      "snippet": "但第一個確實是去年"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 9,
+      "snippet": "美國關稅收入的大頭"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 5,
+      "snippet": "佔了60%"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 3,
+      "snippet": "億 是"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 17,
+      "snippet": "1,66001,66001,660"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 4,
+      "snippet": "上的拉扯"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 8,
+      "snippet": "不動就三五年起步"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 8,
+      "snippet": "這1,000多億"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 7,
+      "snippet": "真的立馬就退嗎"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 5,
+      "snippet": "哎立馬就退"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 6,
+      "snippet": "這個貿易法院"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 5,
+      "snippet": "就跟海關說"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 5,
+      "snippet": "你得退款呀"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 2,
+      "snippet": "而且"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 2,
+      "snippet": "不光"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 4,
+      "snippet": "是給那些"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 11,
+      "snippet": "提交上訴的公司退款 是"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 4,
+      "snippet": "要給所有"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 9,
+      "snippet": "交過IEEPA關稅"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 2,
+      "snippet": "都得"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 1,
+      "snippet": "退"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 2,
+      "snippet": "而且"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 1,
+      "snippet": "不"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 2,
+      "snippet": "聽話"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 1,
+      "snippet": "啊"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 12,
+      "snippet": "你看去年有33萬家進口商"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 10,
+      "snippet": "5,000多萬的商品"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 4,
+      "snippet": "要挨個算"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 3,
+      "snippet": "挨個退"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 9,
+      "snippet": "你是在跟我開玩笑嗎"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 5,
+      "snippet": "這個大法官"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 10,
+      "snippet": "也非常有大法官的派頭"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 8,
+      "snippet": "我不聽你這些理由"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 3,
+      "snippet": "怎麼退"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 9,
+      "snippet": "那是你該處理的問題"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 9,
+      "snippet": "總之就是要立刻退款"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 3,
+      "snippet": "沒辦法"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 4,
+      "snippet": "海關只能"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 11,
+      "snippet": "臨時組建了一個IT部門"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 2,
+      "snippet": "專門"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 8,
+      "snippet": "簡化了一個還退稅"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 2,
+      "snippet": "系統"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 1,
+      "snippet": "叫"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 4,
+      "snippet": "CAPE"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 13,
+      "snippet": "CAPE已經收到了25萬份"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 7,
+      "snippet": "關稅退稅的申報"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 14,
+      "snippet": "大概是1,290億美元的退款"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 9,
+      "snippet": "而且還有大量的退款"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 6,
+      "snippet": "正在處理當中"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 5,
+      "snippet": "你想這可是"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 10,
+      "snippet": "1,000多億美元呀"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 9,
+      "snippet": "兩三個月全發出去了"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 10,
+      "snippet": "所以你會看到上個季度"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 11,
+      "snippet": "很多企業都發了一筆橫財"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 6,
+      "snippet": "利潤多一大截"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 5,
+      "snippet": "比如說蘋果"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 4,
+      "snippet": "上個季度"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 6,
+      "snippet": "正好 拿到了"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 8,
+      "snippet": "22億美元的退稅"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 2,
+      "snippet": "前億"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 5,
+      "snippet": "他很開心啊"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 7,
+      "snippet": "管這個季度叫做"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 9,
+      "snippet": "\"史上最強6月季\""
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 3,
+      "snippet": "沃爾瑪"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 8,
+      "snippet": "大概拿到了24億"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 5,
+      "snippet": "亞馬遜6億"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 5,
+      "snippet": "耐克10億"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 4,
+      "snippet": "通用5億"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 4,
+      "snippet": "索尼5億"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 4,
+      "snippet": "皆大歡喜"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 9,
+      "snippet": "企業這邊是樂開了花"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 4,
+      "snippet": "但財政部"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 5,
+      "snippet": "臉可都綠了"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 4,
+      "snippet": "今年6月"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 9,
+      "snippet": "美國海關收上來的稅"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 6,
+      "snippet": "是23 6億"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 4,
+      "snippet": "退回去的"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 5,
+      "snippet": "是492億"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 6,
+      "snippet": "史上頭一回啊"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 7,
+      "snippet": "一個收稅的部門"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 8,
+      "snippet": "乾成了發錢的部門"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 3,
+      "snippet": "但是呢"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 11,
+      "snippet": "政府還在做最後的掙扎呀"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 4,
+      "snippet": "一邊退稅"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 6,
+      "snippet": "一邊怎麼樣呢"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 2,
+      "snippet": "上訴"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 8,
+      "snippet": "好那之後怎麼辦呢"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 4,
+      "snippet": "這個關稅"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 8,
+      "snippet": "是不是就該沒了呢"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 4,
+      "snippet": "理論上呢"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 9,
+      "snippet": "它確實應該直接取消"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 4,
+      "snippet": "就是關稅"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 9,
+      "snippet": "直接回到之前的水平"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 3,
+      "snippet": "但這樣"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 8,
+      "snippet": "川普肯定不樂意啊"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 10,
+      "snippet": "他其實早就想好了預案"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 13,
+      "snippet": "他在1974年的貿易法裡頭"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 9,
+      "snippet": "找了一個122條款"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 3,
+      "snippet": "就說了"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 4,
+      "snippet": "國際收支"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 12,
+      "snippet": "出現\"根本性問題\"的時候"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 6,
+      "snippet": "總統可以立刻"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 5,
+      "snippet": "對全球加稅"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 4,
+      "snippet": "先斬後奏"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 4,
+      "snippet": "繞過國會"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 6,
+      "snippet": "所以當天晚上"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 10,
+      "snippet": "白宮就動用了這個條款"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 7,
+      "snippet": "對全球所有國家"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 8,
+      "snippet": "加了10%的關稅"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 7,
+      "snippet": "跟之前那個關稅"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 5,
+      "snippet": "無縫銜接上"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 8,
+      "snippet": "好傢伙舊關稅剛走"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 7,
+      "snippet": "新關稅就接上了"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 4,
+      "snippet": "進口商們"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 7,
+      "snippet": "當然又不干了呀"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 8,
+      "snippet": "所以他們幹什麼了"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 8,
+      "snippet": "又是找律師打官司"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 8,
+      "snippet": "於是國際貿易法院"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 3,
+      "snippet": "又判定"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 8,
+      "snippet": "這個新關稅也違法"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 7,
+      "snippet": "那政府也不干呀"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 2,
+      "snippet": "上訴"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 5,
+      "snippet": "好這個官司"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 6,
+      "snippet": "我們先不說哈"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 4,
+      "snippet": "但是你想"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 5,
+      "snippet": "這個新條款"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 8,
+      "snippet": "它要是真那麼厲害"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 7,
+      "snippet": "可以給其他國家"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 5,
+      "snippet": "直接加關稅"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 5,
+      "snippet": "那特朗普他"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 7,
+      "snippet": "早為什麼不用呢"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 7,
+      "snippet": "哎因為這裡頭呢"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 6,
+      "snippet": "它有兩個限制"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 9,
+      "snippet": "第一這個關稅的上限"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 5,
+      "snippet": "就是15%"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 10,
+      "snippet": "但更重要的是這個第二"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 11,
+      "snippet": "它只能維持最長150天"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 10,
+      "snippet": "其實相當於給了你一個"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 6,
+      "snippet": "臨時性的措施"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 9,
+      "snippet": "但白宮肯定沒閒著呀"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 9,
+      "snippet": "就在這150天期間"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 8,
+      "snippet": "趕緊去找替代方案"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 3,
+      "snippet": "很快呢"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 11,
+      "snippet": "他們就在同一部法典裡頭"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 11,
+      "snippet": "又找到了一個301條款"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 7,
+      "snippet": "說只要正式調查"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 6,
+      "snippet": "認定某個國家"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 10,
+      "snippet": "有\"不公平貿易行為\""
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 6,
+      "snippet": "就能對它加稅"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 7,
+      "snippet": "沒上限也沒期限"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 8,
+      "snippet": "你聽著很完美對吧"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 8,
+      "snippet": "但這個301條款"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 5,
+      "snippet": "它的缺點呢"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 6,
+      "snippet": "就是流程很慢"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 6,
+      "snippet": "你得立案聽證"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 5,
+      "snippet": "走整套流程"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 6,
+      "snippet": "正常得一兩年"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 10,
+      "snippet": "於是白宮說時遲那時快"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 5,
+      "snippet": "3月12號"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 10,
+      "snippet": "一天之內立了60個案"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 9,
+      "snippet": "同時對60個經濟體"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 4,
+      "snippet": "展開調查"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 4,
+      "snippet": "看看你們"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 11,
+      "snippet": "怎麼都\"不公平貿易\"了"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 5,
+      "snippet": "感覺就像玩"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 7,
+      "snippet": "\"大家來找茬\""
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 3,
+      "snippet": "最後呢"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 7,
+      "snippet": "找的理由就是說"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 8,
+      "snippet": "這些經濟體在一個"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 7,
+      "snippet": "非常犄角旮旯的"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 8,
+      "snippet": "勞工指標上不達標"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 10,
+      "snippet": "然後加速收集證據審理"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 7,
+      "snippet": "僅僅三個月之後"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 10,
+      "snippet": "6月2號就得出結論了"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 8,
+      "snippet": "說這60個經濟體"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 4,
+      "snippet": "無一例外"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 5,
+      "snippet": "全都有問題"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 7,
+      "snippet": "最後7月24號"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 11,
+      "snippet": "就在這個舊關稅150天"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 7,
+      "snippet": "大限到來的時候"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 5,
+      "snippet": "這個新關稅"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 5,
+      "snippet": "在當天0點"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 4,
+      "snippet": "立即生效"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 6,
+      "snippet": "又無縫銜接上"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 4,
+      "snippet": "所以現在"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 9,
+      "snippet": "大致的格局是這樣的"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 9,
+      "snippet": "美國對60個經濟體"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 12,
+      "snippet": "覆蓋自己99.4%的進口"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 4,
+      "snippet": "收10%"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 12,
+      "snippet": "或者12.5%的額外關稅"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 7,
+      "snippet": "這裡邊歐盟英國"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 8,
+      "snippet": "加拿大墨西哥印度"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 4,
+      "snippet": "是10%"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 4,
+      "snippet": "中國日本"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 4,
+      "snippet": "韓國瑞士"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 6,
+      "snippet": "是12.5%"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 5,
+      "snippet": "當然像什麼"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 7,
+      "snippet": "鋼鐵鋁汽車晶片"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 8,
+      "snippet": "這些是按行業的收"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 4,
+      "snippet": "維持不變"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 3,
+      "snippet": "整體呢"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 7,
+      "snippet": "美國的有效關稅"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 4,
+      "snippet": "去年年底"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 8,
+      "snippet": "大概是14%左右"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 10,
+      "snippet": "現在降到了大概11%"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 12,
+      "snippet": "其實你要按這個結果來看哈"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 10,
+      "snippet": "現在跟去年年底的情況"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 7,
+      "snippet": "已經差別不大了"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 3,
+      "snippet": "那這事"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 8,
+      "snippet": "現在就這麼完了嗎"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 3,
+      "snippet": "差遠了"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 6,
+      "snippet": "這個新的關稅"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 6,
+      "snippet": "之前的進口商"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 5,
+      "snippet": "還是追上來"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 10,
+      "snippet": "你想99%的貿易夥伴"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 9,
+      "snippet": "他都\"不公平交易\""
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 8,
+      "snippet": "這顯然不太合理哈"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 6,
+      "snippet": "藉口有點牽強"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 8,
+      "snippet": "所以這次的上訴團"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 5,
+      "snippet": "明顯壯大了"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 6,
+      "snippet": "不光是進口商"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 10,
+      "snippet": "有25個州的總檢察長"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 3,
+      "snippet": "和州長"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 7,
+      "snippet": "也都組團起訴了"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 9,
+      "snippet": "按照上一輪的劇本哈"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 7,
+      "snippet": "咱估計這個案子"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 9,
+      "snippet": "還要爬一遍三級法院"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 9,
+      "snippet": "八成還得打到最高法"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 5,
+      "snippet": "真要被推翻"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 4,
+      "snippet": "整個這套"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 8,
+      "snippet": "收稅判得違法退稅"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 4,
+      "snippet": "這套流程"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 6,
+      "snippet": "還得再來一遍"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 6,
+      "snippet": "但企業和市場"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 7,
+      "snippet": "現在倒是想開了"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 4,
+      "snippet": "也接受了"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 9,
+      "snippet": "甚至還衍生出了一個"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 5,
+      "snippet": "退稅退款的"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 7,
+      "snippet": "二級市場的產品"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 10,
+      "snippet": "叫做\"關稅退款債權\""
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 5,
+      "snippet": "就是有一些"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 8,
+      "snippet": "等不及的小進口商"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 5,
+      "snippet": "他們可以把"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 11,
+      "snippet": "\"未來可能收到的退款\""
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 8,
+      "snippet": "折扣賣給對沖基金"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 6,
+      "snippet": "然後拿到現金"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 5,
+      "snippet": "有點像一個"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 7,
+      "snippet": "未來退款的期貨"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 12,
+      "snippet": "有對沖基金現在專門搞這個"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 4,
+      "snippet": "據估算哈"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 8,
+      "snippet": "這個二級市場可能"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 13,
+      "snippet": "已經達到了1,000億美元"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 3,
+      "snippet": "你看看"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 10,
+      "snippet": "去年特朗普費那麼大勁"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 6,
+      "snippet": "整的這個關稅"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 4,
+      "snippet": "今年直接"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 4,
+      "snippet": "\"反彈\""
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 7,
+      "snippet": "那這麼一來一回"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 5,
+      "snippet": "贏家和輸家"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 6,
+      "snippet": "分別又是誰呢"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 7,
+      "snippet": "最舒服的肯定是"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 4,
+      "snippet": "大進口商"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 9,
+      "snippet": "你看去年關稅那麼高"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 7,
+      "snippet": "美國企業的利潤"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 6,
+      "snippet": "還增長了7%"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 5,
+      "snippet": "創下了紀錄"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 6,
+      "snippet": "所以並不是說"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 10,
+      "snippet": "那1,660億的關稅"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 12,
+      "snippet": "就是這些進口商自己承擔了"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 4,
+      "snippet": "大部分呢"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 10,
+      "snippet": "還是都轉嫁給了消費者"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 10,
+      "snippet": "他們自己反倒更賺錢了"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 7,
+      "snippet": "而今年的關稅呢"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 10,
+      "snippet": "是退到了他們的賬戶上"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 6,
+      "snippet": "還帶利息是吧"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 7,
+      "snippet": "這就很”好“了"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 5,
+      "snippet": "而財政部呢"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 6,
+      "snippet": "肯定是賬面上"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 5,
+      "snippet": "最大的輸家"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 5,
+      "snippet": "退了上千億"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 6,
+      "snippet": "還得倒貼利息"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 11,
+      "snippet": "回頭肯定還得發國債來扛"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 9,
+      "snippet": "其他 的貿易夥伴呢"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 2,
+      "snippet": "之前"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 2,
+      "snippet": "關稅"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 2,
+      "snippet": "肯定"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 5,
+      "snippet": "受到了不慘"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 2,
+      "snippet": "衝擊"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 2,
+      "snippet": "費者"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 4,
+      "snippet": "去年漲價"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 8,
+      "snippet": "錢主要是他們掏的"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 4,
+      "snippet": "今年退款"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 7,
+      "snippet": "只退給了進口商"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 8,
+      "snippet": "他們一分錢沒拿著"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 2,
+      "snippet": "新稅"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 7,
+      "snippet": "又無縫銜接上了"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 10,
+      "snippet": "消費者們吃了這麼大虧"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 4,
+      "snippet": "怎麼辦呀"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 7,
+      "snippet": "你應該學會了吧"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 11,
+      "snippet": "美國現在衝出100多起"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 4,
+      "snippet": "集體訴訟"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 10,
+      "snippet": "消費者告Costco"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 5,
+      "snippet": "告Nike"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 14,
+      "snippet": "理由就是去年跟你說漲價的時候"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 3,
+      "snippet": "說因為"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 2,
+      "snippet": "關稅"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 3,
+      "snippet": "現在給"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 3,
+      "snippet": "我 了"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 3,
+      "snippet": "這背後"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 7,
+      "snippet": "真正最大的贏家"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 5,
+      "snippet": "甚至都不是"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 8,
+      "snippet": "那些美國的進口商"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 7,
+      "snippet": "也不是美國國會"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 6,
+      "snippet": "更不是特朗普"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 6,
+      "snippet": "你知道是誰嗎"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 3,
+      "snippet": "應該是"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 2,
+      "snippet": "律師"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 10,
+      "snippet": "美國這法院真是熱鬧呀"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 6,
+      "snippet": "動不動就上訴"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 8,
+      "snippet": "那律師當然賺錢了"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 7,
+      "snippet": "我現在算是知道"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 8,
+      "snippet": "為什麼美國歷史上"
+    },
+    {
+      "sentence_id": "s486",
+      "char_len": 8,
+      "snippet": "有超過一半的總統"
+    },
+    {
+      "sentence_id": "s487",
+      "char_len": 7,
+      "snippet": "都是律師出身了"
+    },
+    {
+      "sentence_id": "s488",
+      "char_len": 5,
+      "snippet": "其實這事吧"
+    },
+    {
+      "sentence_id": "s489",
+      "char_len": 5,
+      "snippet": "咱往根上刨"
+    },
+    {
+      "sentence_id": "s490",
+      "char_len": 3,
+      "snippet": "國憲法"
+    },
+    {
+      "sentence_id": "s491",
+      "char_len": 9,
+      "snippet": "把稅權給了國會稅權"
+    },
+    {
+      "sentence_id": "s492",
+      "char_len": 1,
+      "snippet": "給"
+    },
+    {
+      "sentence_id": "s493",
+      "char_len": 2,
+      "snippet": "國會"
+    },
+    {
+      "sentence_id": "s494",
+      "char_len": 1,
+      "snippet": "了"
+    },
+    {
+      "sentence_id": "s495",
+      "char_len": 10,
+      "snippet": "舊法案裡頭的應急條款"
+    },
+    {
+      "sentence_id": "s496",
+      "char_len": 8,
+      "snippet": "一條不行再換一條"
+    },
+    {
+      "sentence_id": "s497",
+      "char_len": 5,
+      "snippet": "越用越順手"
+    },
+    {
+      "sentence_id": "s498",
+      "char_len": 10,
+      "snippet": "最後踩剎車的只剩法院"
+    },
+    {
+      "sentence_id": "s499",
+      "char_len": 6,
+      "snippet": "於是就變成了"
+    },
+    {
+      "sentence_id": "s500",
+      "char_len": 3,
+      "snippet": "今天簽"
+    },
+    {
+      "sentence_id": "s501",
+      "char_len": 3,
+      "snippet": "明天告"
+    },
+    {
+      "sentence_id": "s502",
+      "char_len": 2,
+      "snippet": "後天"
+    },
+    {
+      "sentence_id": "s503",
+      "char_len": 1,
+      "snippet": "判"
+    },
+    {
+      "sentence_id": "s504",
+      "char_len": 6,
+      "snippet": "大後天再退錢"
+    },
+    {
+      "sentence_id": "s505",
+      "char_len": 8,
+      "snippet": "然後又簽新的關稅"
+    },
+    {
+      "sentence_id": "s506",
+      "char_len": 2,
+      "snippet": "再告"
+    },
+    {
+      "sentence_id": "s507",
+      "char_len": 2,
+      "snippet": "再判"
+    },
+    {
+      "sentence_id": "s508",
+      "char_len": 3,
+      "snippet": "再退錢"
+    },
+    {
+      "sentence_id": "s509",
+      "char_len": 9,
+      "snippet": "這麼來來回回的折騰"
+    },
+    {
+      "sentence_id": "s510",
+      "char_len": 2,
+      "snippet": "拉著"
+    },
+    {
+      "sentence_id": "s511",
+      "char_len": 8,
+      "snippet": "國內所有的進口商"
+    },
+    {
+      "sentence_id": "s512",
+      "char_len": 2,
+      "snippet": "律師"
+    },
+    {
+      "sentence_id": "s513",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s514",
+      "char_len": 2,
+      "snippet": "貿易"
+    },
+    {
+      "sentence_id": "s515",
+      "char_len": 2,
+      "snippet": "夥伴"
+    },
+    {
+      "sentence_id": "s516",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s517",
+      "char_len": 2,
+      "snippet": "甚至"
+    },
+    {
+      "sentence_id": "s518",
+      "char_len": 2,
+      "snippet": "折騰"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "Hi朋友们后用最高法院判关税违法设悬念：白忙一年？税款要退？再声明跟进现状与谁赢谁亏。",
+      "patterns": [
+        "Hi问候",
+        "违法判决悬念",
+        "跟进议程"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "Hi~",
+          "note": "Hi"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "違法了嗎",
+          "note": "关税政策违法"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "都白整了吗"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "難道都得退回去嗎",
+          "note": "难道都得退回去吗"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "解放日全球关税冲击→大企业敢怒不敢言→（窗中）退税上诉→122条款10%无缝接档→再诉讼循环→宪法税权在国会的根因。",
+      "patterns": [
+        "解放日冲击",
+        "退税上诉",
+        "122条款接档",
+        "诉讼循环",
+        "税权根因"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "那個\"解放日\"關稅",
+          "note": "解放日关税"
+        },
+        {
+          "sentence_id": "s243",
+          "snippet": "一邊退稅",
+          "note": "一边退税"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "上訴",
+          "note": "一边上诉"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "加了10%的關稅",
+          "note": "加了10%关税"
+        },
+        {
+          "sentence_id": "s491",
+          "snippet": "把稅權給了國會稅權",
+          "note": "税权给了国会"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "hook_and_liberateday",
+          "note": "违法悬念与解放日冲击铺垫"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261",
+            "s262",
+            "s263",
+            "s264",
+            "s265",
+            "s266",
+            "s267",
+            "s268",
+            "s269",
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279"
+          ],
+          "function": "refund_appeal_122",
+          "note": "退税上诉与122条款无缝接档"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s489",
+            "s490",
+            "s491",
+            "s492",
+            "s493",
+            "s494",
+            "s495",
+            "s496",
+            "s497",
+            "s498",
+            "s499",
+            "s500",
+            "s501",
+            "s502",
+            "s503",
+            "s504",
+            "s505",
+            "s506",
+            "s507",
+            "s508",
+            "s509",
+            "s510",
+            "s511",
+            "s512",
+            "s513",
+            "s514",
+            "s515",
+            "s516",
+            "s517",
+            "s518"
+          ],
+          "function": "loop_and_constitution",
+          "note": "签告判退循环与宪法税权收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「咱先来简单捋一下」；「但是吧」；「好那之后怎么办呢」；「理论上呢…但这样川普肯定不乐意」。",
+      "patterns": [
+        "先捋一下",
+        "但是吧",
+        "之后怎么办",
+        "理论vs不乐意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "咱先來簡單捋一下",
+          "note": "先来简单捋一下"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但是吧",
+          "note": "但是吧"
+        },
+        {
+          "sentence_id": "s246",
+          "snippet": "好那之後怎麼辦呢",
+          "note": "之后怎么办呢"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "理論上呢",
+          "note": "理论上呢"
+        },
+        {
+          "sentence_id": "s254",
+          "snippet": "川普肯定不樂意啊",
+          "note": "川普肯定不乐意"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "轰轰烈烈征税vs判决违法可能白忙；大企业冲击大vs敢怒不敢言；旧关税走vs新10%接上；总统应急条款vs国会税权。",
+      "patterns": [
+        "征税/违法",
+        "冲击/不敢言",
+        "旧走新接",
+        "总统条款/国会税权"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "那他去年轟轟烈烈",
+          "note": "轰轰烈烈"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "違法了嗎",
+          "note": "判违法"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "雖然是怨聲載道",
+          "note": "怨声载道"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "一般是敢怒不敢言的",
+          "note": "敢怒不敢言"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "好傢伙舊關稅剛走",
+          "note": "旧关刚走新关接"
+        },
+        {
+          "sentence_id": "s491",
+          "snippet": "把稅權給了國會稅權",
+          "note": "税权给国会"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "白整了吗/要退吗悬念串；谁受益谁吃亏；「是不是就该没了呢」；根上刨税权。",
+      "patterns": [
+        "悬念串问",
+        "谁受益问",
+        "该没了吗",
+        "根上刨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "白整了吗"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "難道都得退回去嗎",
+          "note": "要退回去吗"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "誰是最大的受益人",
+          "note": "谁是最大受益人"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "是不是就該沒了呢",
+          "note": "是不是就该没了"
+        },
+        {
+          "sentence_id": "s489",
+          "snippet": "咱往根上刨",
+          "note": "往根上刨"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "苹果交超32亿美元；耐克约10亿；1974贸易法122条款当晚加10%；签-告-判-退循环排比。",
+      "patterns": [
+        "苹果耐克税额",
+        "122条款",
+        "循环排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "交了超過32億美元",
+          "note": "苹果32亿"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "耐克大概10億",
+          "note": "耐克大概10亿"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "加了10%的關稅",
+          "note": "加了10%"
+        },
+        {
+          "sentence_id": "s500",
+          "snippet": "今天簽",
+          "note": "今天签明天告"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「全球关税战」落到解放日与企业税额；「预案」落到122条款条文动作；「折腾」落到签告判退四拍。",
+      "patterns": [
+        "关税战→税额",
+        "预案→122条款",
+        "折腾→四拍循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "全球關稅戰",
+          "note": "全球关税战"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "交了超過32億美元",
+          "note": "32亿"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "他其實早就想好了預案",
+          "note": "早就想好预案"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s500",
+          "snippet": "今天簽",
+          "note": "今天签"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「大企业一般敢怒不敢言」；「川普肯定不乐意」；「好家伙旧关刚走新关接上」；法院成唯一刹车。",
+      "patterns": [
+        "敢怒不敢言",
+        "不乐意预判",
+        "好家伙接档",
+        "法院刹车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "一般是敢怒不敢言的",
+          "note": "敢怒不敢言"
+        },
+        {
+          "sentence_id": "s254",
+          "snippet": "川普肯定不樂意啊",
+          "note": "肯定不乐意"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "好傢伙舊關稅剛走",
+          "note": "好家伙旧关刚走"
+        },
+        {
+          "sentence_id": "s498",
+          "snippet": "最後踩剎車的只剩法院",
+          "note": "踩刹车的只剩法院"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「理论上下该取消」随即用「但川普不乐意+预案」翻转；承认好久没聊关税再说明为何跟进。",
+      "patterns": [
+        "理论翻转预案",
+        "好久没聊再说明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "咱好久沒聊美國關稅了哈",
+          "note": "好久没聊关税"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "攪動全球貿易格局的大事",
+          "note": "搅动全球贸易"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "它確實應該直接取消",
+          "note": "理论应取消"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "他其實早就想好了預案",
+          "note": "早有预案"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "悬念短问连发→叙事中板→税额短句砸地→条款讲解加密→尾段四字循环加速。",
+      "patterns": [
+        "悬念短问",
+        "税额砸地",
+        "四字循环加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "白整了吗"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "交了超過32億美元",
+          "note": "32亿"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s500",
+          "snippet": "今天簽",
+          "note": "今天签明天告"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "开场好奇焦虑→对企业冲击的同情→敢怒不敢言的无奈→接档的荒诞笑→循环折腾的疲惫批判。",
+      "patterns": [
+        "好奇焦虑",
+        "同情无奈",
+        "荒诞笑",
+        "疲惫批判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "難道都得退回去嗎",
+          "note": "要退吗焦虑"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "直接衝擊",
+          "note": "直接冲击"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "一般是敢怒不敢言的",
+          "note": "敢怒不敢言"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "好傢伙舊關稅剛走",
+          "note": "好家伙"
+        },
+        {
+          "sentence_id": "s509",
+          "snippet": "這麼來來回回的折騰",
+          "note": "来回折腾"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「白忙吗」落到宪法税权错位与签告判退循环，回答并非简单取消而是制度性反复折腾。",
+      "patterns": [
+        "税权根因闭环",
+        "循环回答白忙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s491",
+          "snippet": "把稅權給了國會稅權",
+          "note": "税权给国会"
+        },
+        {
+          "sentence_id": "s496",
+          "snippet": "一條不行再換一條",
+          "note": "一条不行再换一条"
+        },
+        {
+          "sentence_id": "s509",
+          "snippet": "這麼來來回回的折騰",
+          "note": "来回折腾"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗内尾段偏叙事收束，未见显式点赞关注；开场「今天来跟进」是软性收看邀请。",
+      "patterns": [
+        "跟进邀请软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "所以咱今天來跟進一下",
+          "note": "今天来跟进一下"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「白整了吗」口语；「好家伙」；「鬼知道他能搞出什么新招」；四拍排比像脱口秀掐架总结。",
+      "patterns": [
+        "白整口语",
+        "好家伙",
+        "鬼知道",
+        "四拍排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "白整了吗"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "鬼知道",
+          "note": "鬼知道"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "好傢伙舊關稅剛走",
+          "note": "好家伙"
+        },
+        {
+          "sentence_id": "s500",
+          "snippet": "今天簽",
+          "note": "今天签明天告"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "截断丢掉受益/受损国别详解；尾段句子碎裂；诉讼时间线需听众自补。",
+      "patterns": [
+        "截断缺受益分析",
+        "尾句碎裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "誰是最大的受益人",
+          "note": "受益人问未在窗内完整答"
+        },
+        {
+          "sentence_id": "s518",
+          "snippet": "折騰",
+          "note": "折腾截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式「先捋一下」；理论取消→但预案→条款启用的决策树外化；「往根上刨」宪法。",
+      "patterns": [
+        "先捋",
+        "决策树外化",
+        "往根上刨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "咱先來簡單捋一下",
+          "note": "先捋一下"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "理論上呢",
+          "note": "理论上"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "他其實早就想好了預案",
+          "note": "预案"
+        },
+        {
+          "sentence_id": "s489",
+          "snippet": "咱往根上刨",
+          "note": "往根上刨"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "当关注全球贸易的普通观众；用苹果耐克账单贴近；「咱」共同跟进时事。",
+      "patterns": [
+        "时事跟进共同体",
+        "消费品牌贴近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "朋友們",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "所以咱今天來跟進一下",
+          "note": "咱今天跟进"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "比如蘋果前前後後",
+          "note": "比如苹果"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "最高法院判决；解放日；苹果32亿/耐克10亿；1974法122条；全球+10%；签告判退。",
+      "patterns": [
+        "判决",
+        "税额",
+        "122条",
+        "10%",
+        "四拍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "美國那個最高法院",
+          "note": "最高法院"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "交了超過32億美元",
+          "note": "32亿"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "加了10%的關稅",
+          "note": "10%关税"
+        },
+        {
+          "sentence_id": "s504",
+          "snippet": "大後天再退錢",
+          "note": "再退钱"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "悬念中密→冲击案例高密→条款高密→循环排比中密情密升高。",
+      "patterns": [
+        "案例高密",
+        "条款高密",
+        "循环情密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "交了超過32億美元",
+          "note": "税额"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "条款"
+        },
+        {
+          "sentence_id": "s505",
+          "snippet": "然後又簽新的關稅",
+          "note": "再签新关税"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "悬念问→跟进声明→解放日叙事→企业反应→退税上诉→条款接档→再诉讼→宪法根因。",
+      "patterns": [
+        "悬念到叙事",
+        "条款接档",
+        "根因"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "悬念"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "那個\"解放日\"關稅",
+          "note": "解放日"
+        },
+        {
+          "sentence_id": "s243",
+          "snippet": "一邊退稅",
+          "note": "退税"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "白宮就動用了這個條款",
+          "note": "动用条款"
+        },
+        {
+          "sentence_id": "s491",
+          "snippet": "把稅權給了國會稅權",
+          "note": "税权"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "时事解说型财经主播：敢用「白整/好家伙」降低严肃门槛，同时抠法律条款。",
+      "patterns": [
+        "时事解说",
+        "口语降门槛",
+        "抠条款"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "白整"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "122条款"
+        },
+        {
+          "sentence_id": "s489",
+          "snippet": "咱往根上刨",
+          "note": "往根上刨"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "白整了吗；敢怒不敢言；旧关刚走新关接上；今天签明天告后天判；税权给了国会。",
+      "patterns": [
+        "白整了吗",
+        "敢怒不敢言",
+        "旧走新接",
+        "签告判退",
+        "税权国会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "都白整了嗎",
+          "note": "白整了吗"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "一般是敢怒不敢言的",
+          "note": "敢怒不敢言"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "好傢伙舊關稅剛走",
+          "note": "旧关刚走"
+        },
+        {
+          "sentence_id": "s500",
+          "snippet": "今天簽",
+          "note": "今天签"
+        },
+        {
+          "sentence_id": "s491",
+          "snippet": "把稅權給了國會稅權",
+          "note": "税权给国会"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「判决悬念→事件复盘→法律预案接档→制度循环根因」时事财经骨架可直接迁移观宇口播。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "違法了嗎",
+          "note": "违法悬念"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "找了一個122條款",
+          "note": "条款预案"
+        },
+        {
+          "sentence_id": "s509",
+          "snippet": "這麼來來回回的折騰",
+          "note": "循环折腾"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s7",
+    "s11",
+    "s14",
+    "s28",
+    "s243",
+    "s245",
+    "s258",
+    "s269",
+    "s491",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s240",
+    "s241",
+    "s242",
+    "s244",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s252",
+    "s253",
+    "s254",
+    "s255",
+    "s256",
+    "s257",
+    "s259",
+    "s260",
+    "s261",
+    "s262",
+    "s263",
+    "s264",
+    "s265",
+    "s266",
+    "s267",
+    "s268",
+    "s270",
+    "s271",
+    "s272",
+    "s273",
+    "s274",
+    "s275",
+    "s276",
+    "s277",
+    "s278",
+    "s279",
+    "s489",
+    "s490",
+    "s492",
+    "s493",
+    "s494",
+    "s495",
+    "s496",
+    "s497",
+    "s498",
+    "s499",
+    "s500",
+    "s501",
+    "s502",
+    "s503",
+    "s504",
+    "s505",
+    "s506",
+    "s507",
+    "s508",
+    "s509",
+    "s510",
+    "s511",
+    "s512",
+    "s513",
+    "s514",
+    "s515",
+    "s516",
+    "s517",
+    "s518"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,779 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_DhyJCZkwZqo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=DhyJCZkwZqo",
+  "source_sha256": "524f609f12e561d103dd6c2d14f2311aa891a4901912f3581a4787e9d62c7dd0",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 190,
+  "fields": {
+    "opening_move": {
+      "summary": "以卖掉上海一套房去重庆买多套的杠杆故事切入欧神炒房时代，暗示跟风与落幕。",
+      "patterns": [
+        "杠杆置换故事钩子",
+        "跟风买房暗示落幕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "就是卖掉一套上海的房子去重庆買食套",
+          "note": "上海换重庆多套"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "其实在很长一段时间内都不问不火",
+          "note": "重庆长期不温不火"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "然后很多人就跟着去重庆买房了",
+          "note": "很多人跟着买"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "欧神杠杆与跟风后时代落幕；同道大叔抓住星座吐槽窗口做成千万粉IP；广告到衍生品到重资产SKU到线下；美盛并购兑现1.78亿现金，证明赶上时代列车而非仅个人努力。",
+      "patterns": [
+        "炒房线落幕过渡到星座IP",
+        "商业化四条腿",
+        "并购兑现时代红利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "17年粉丝破溜千万,月毒量破200亿",
+          "note": "粉丝破千万"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "而同老大书这会已经四条推走路",
+          "note": "四条腿走路"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "掏现1.78亿"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "赶上时代列车"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s36",
+            "s39",
+            "s49",
+            "s55",
+            "s56"
+          ],
+          "function": "欧神重庆杠杆与不信落魄传言",
+          "note": "开场线含ASR噪声"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s59",
+            "s61",
+            "s65",
+            "s69",
+            "s71",
+            "s73",
+            "s75",
+            "s77",
+            "s78"
+          ],
+          "function": "同道大叔抓住图文微信时代星座窗口",
+          "note": "敏感度等于抓住卖点"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s79",
+            "s80",
+            "s81",
+            "s83",
+            "s84",
+            "s90",
+            "s93",
+            "s94",
+            "s98",
+            "s99",
+            "s102"
+          ],
+          "function": "商业化：广告利润到卡通衍生品到自建供应链SKU",
+          "note": "从内容到货"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s103",
+            "s105",
+            "s108",
+            "s109",
+            "s115",
+            "s116",
+            "s118",
+            "s122",
+            "s124"
+          ],
+          "function": "联名线下与收入结构健康：不只靠广告",
+          "note": "四条腿对比一条腿"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s132",
+            "s136",
+            "s146",
+            "s147",
+            "s155",
+            "s163",
+            "s165",
+            "s167",
+            "s168"
+          ],
+          "function": "资本化：A轮到美盛2.175亿并购与时代列车结论",
+          "note": "现金兑现"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s169",
+            "s171",
+            "s174",
+            "s182",
+            "s184",
+            "s187",
+            "s188",
+            "s189"
+          ],
+          "function": "买方美盛战略与募资并购公告翻译",
+          "note": "资本侧动机"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "比起流量火我们更该关注商业化；商业化成功自然走向资本化；还就是我说那句话引出时代列车。",
+      "patterns": [
+        "比起…更该关注换重心",
+        "自然走向资本化",
+        "还就是我说那句话复用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "比起酒量上的灰火,我们够应该关注在网红窗口",
+          "note": "比起流量更关注商业化"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "商业化的成功自然就走向了资本化",
+          "note": "走向资本化"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "还就是我说那句话",
+          "note": "还就是我说那句话"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "一条腿只靠广告对比四条腿走路；个人努力对比时代列车；欧神杠杆神话对比同道扎实IP商业化。",
+      "patterns": [
+        "一条腿对比四条腿",
+        "个人努力对比时代列车",
+        "炒房线对比星座IP线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s122",
+          "snippet": "说白了别带皮都还只靠广告挣钱",
+          "note": "只靠广告"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "而同老大书这会已经四条推走路",
+          "note": "四条腿"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "不可能仅仅是个人的努力",
+          "note": "不仅仅个人努力"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "哪有什么敏感度呢自问自答为抓住时代卖点；为什么美盛砸2.175亿追问买方动机。",
+      "patterns": [
+        "自问自答重定义敏感度",
+        "买方出价动机问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "哪有什么敏感度呢?",
+          "note": "哪有什么敏感度"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "为什么连出二二一七五亿",
+          "note": "为什么砸出2.175亿"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "2016广告利润三千万、1200个SKU、德州扑克联名、2.175亿并购、创始人套现1.78亿。",
+      "patterns": [
+        "广告利润例",
+        "SKU规模例",
+        "联名例",
+        "并购套现例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "一六年的广告部分利润在三千万",
+          "note": "广告利润三千万"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "1200家SKU",
+          "note": "1200家SKU"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "同老大书和读州老教做了一个联名",
+          "note": "联名"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "1.78亿现金"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "赶上时代列车抽象句立刻落到并购现金与持股比例变化；商业模式清晰落到A轮三千万。",
+      "patterns": [
+        "时代列车到套现数字",
+        "模式清晰到融资额"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "1.78亿"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "然后它扔到3000万归模的A轮",
+          "note": "三千万A轮"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言收入结构非常健康；离谱到了形容联名狂潮；不可能仅仅是个人努力定调。",
+      "patterns": [
+        "健康结构判断",
+        "离谱程度判断",
+        "否定纯个人努力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "这其实是一个非常健康的书记",
+          "note": "非常健康"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "当时已经离谱道了",
+          "note": "已经离谱"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "不可能仅仅是个人的努力",
+          "note": "不可能仅仅个人努力"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "不太相信欧神落魄传言但相信其新经济标准；公开信息写红杉明珠背后其实是美盛。",
+      "patterns": [
+        "传言半信半疑",
+        "公告名义与实际买方纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "我不太相信这些传文",
+          "note": "不太相信传言"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "但我相信欧神的新经理标准",
+          "note": "但相信标准"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "实际还是用美生文化的",
+          "note": "实际还是美盛"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场欧神段被听说循环拖慢；同道商业化数字连击加速；并购条款细算再升维到时代结论。",
+      "patterns": [
+        "噪声拖慢后数字加速",
+        "条款细算后升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这听说",
+          "note": "听说循环"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "1200家SKU",
+          "note": "SKU加速"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代升维"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "这听说超长重复ASR",
+        "这些是循环",
+        "还就是我说那句话口头禅",
+        "翻译翻译公司公告口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这听说",
+          "note": "听说重复"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这些是",
+          "note": "这些是循环"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "还就是我说那句话",
+          "note": "口头禅"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "我们翻译翻译公司的公告",
+          "note": "翻译翻译"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "欧神线调侃疑虑，同道崛起欣赏，商业化细节兴奋，套现数字震撼，时代结论冷静。",
+      "patterns": [
+        "调侃到欣赏到兴奋到震撼到冷静"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "我不太相信这些传文",
+          "note": "疑传言"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "17年粉丝破溜千万,月毒量破200亿",
+          "note": "破千万欣赏"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "1.78亿震撼"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "冷静结论"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用美盛募资并购公告侧写回收：网红暴富是资本战略拼图，呼应时代列车命题；窗口在募资用途处截断。",
+      "patterns": [
+        "买方战略回收时代命题",
+        "募资用途开放截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车"
+        },
+        {
+          "sentence_id": "s183",
+          "snippet": "就是其战略方向",
+          "note": "战略方向"
+        },
+        {
+          "sentence_id": "s189",
+          "snippet": "其中二十一亿",
+          "note": "二十一亿并购"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注CTA；美盛你们可能没听说过作科普钩子拉动续听。",
+      "patterns": [
+        "冷门买方科普钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s171",
+          "snippet": "美生文化你们可能没听说过",
+          "note": "你们可能没听说过"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "听说循环、翻译翻译叠词、离谱到了口语，现场口播感强。",
+      "patterns": [
+        "叠词口语",
+        "离谱口语",
+        "ASR循环现场感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s184",
+          "snippet": "我们翻译翻译公司的公告",
+          "note": "翻译翻译"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "当时已经离谱道了",
+          "note": "离谱"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这听说",
+          "note": "听说循环"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "前50句大量听说或这些是循环；欧神落幕论证被噪声掏空；专名（同道/美盛）听写不稳。",
+      "patterns": [
+        "前段ASR循环",
+        "欧神线论证不足",
+        "专名不稳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这听说",
+          "note": "听说循环"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这些是",
+          "note": "这些是循环"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "占救用户的心指在星座崛下就是同老大书",
+          "note": "同老大书错写"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "自问敏感度是什么并重定义为抓住时代卖点；翻译公告外显解读过程。",
+      "patterns": [
+        "概念重定义外化",
+        "公告翻译过程外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "哪有什么敏感度呢?",
+          "note": "敏感度自问"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "就是抓住时代卖博的�",
+          "note": "抓住时代卖点"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "我们翻译翻译公司的公告",
+          "note": "翻译公告"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把羡慕网红暴富的听众拉到资本与时代结构视角；假设其不认识美盛而科普。",
+      "patterns": [
+        "暴富羡慕者纠偏",
+        "冷门买方科普"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s167",
+          "snippet": "不可能仅仅是个人的努力",
+          "note": "不仅仅个人努力"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "美生文化你们可能没听说过",
+          "note": "可能没听说过"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "粉丝破千万月读200亿、广告利润3000万、1200 SKU、A轮3000万、并购2.175亿套现1.78亿估值3亿。",
+      "patterns": [
+        "流量锚",
+        "收入结构锚",
+        "交易对价锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "17年粉丝破溜千万,月毒量破200亿",
+          "note": "粉丝破千万"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "一六年的广告部分利润在三千万",
+          "note": "三千万利润"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "1200家SKU",
+          "note": "1200 SKU"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "1.78亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场噪声低密，星座崛起中密，商业化与SKU高密，并购条款最高密，买方背景中密。",
+      "patterns": [
+        "商业化与并购双峰",
+        "开场噪声谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这听说",
+          "note": "噪声谷"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "1200家SKU",
+          "note": "SKU峰"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "并购峰"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "欧神杠杆到同道窗口到商业化扩品到收入结构到资本并购到买方战略。",
+      "patterns": [
+        "人物切换后加深商业资本"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "就是卖掉一套上海的房子去重庆買食套",
+          "note": "欧神"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "占救用户的心指在星座崛下就是同老大书",
+          "note": "同道"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "商业化的成功自然就走向了资本化",
+          "note": "资本化"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "买一下同道文化",
+          "note": "买方战略"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "时代决定论巫师：承认勤奋但把暴富归因于搭上列车与资本买方战略。",
+      "patterns": [
+        "勤奋承认加密时代归因",
+        "买方战略视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s167",
+          "snippet": "不可能仅仅是个人的努力",
+          "note": "不仅仅个人努力"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车"
+        },
+        {
+          "sentence_id": "s183",
+          "snippet": "就是其战略方向",
+          "note": "战略方向"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "四条腿走路；赶上时代列车；一次交易套现1.78亿。",
+      "patterns": [
+        "四条腿",
+        "时代列车",
+        "1.78亿套现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s124",
+          "snippet": "而同老大书这会已经四条推走路",
+          "note": "四条腿"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "能在一次交易中赚到1.78亿现金",
+          "note": "1.78亿"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "四条腿收入结构与时代列车并购叙事可迁观屿，但须重写欧神开场噪声段并统一专名。",
+      "evidence": [
+        {
+          "sentence_id": "s124",
+          "snippet": "而同老大书这会已经四条推走路",
+          "note": "四条腿可迁"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "一定是达上了世代的列车",
+          "note": "时代列车可迁"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "蔡越东直接掏弦1.78亿元",
+          "note": "套现数字可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s4",
+    "s78",
+    "s124",
+    "s155",
+    "s168",
+    "s2",
+    "s36",
+    "s39",
+    "s49",
+    "s55",
+    "s56",
+    "s59",
+    "s61",
+    "s65",
+    "s69",
+    "s71",
+    "s73",
+    "s75",
+    "s77",
+    "s79",
+    "s80",
+    "s81",
+    "s83",
+    "s84",
+    "s90",
+    "s93",
+    "s94",
+    "s98",
+    "s99",
+    "s102",
+    "s103",
+    "s105",
+    "s108",
+    "s109",
+    "s115",
+    "s116",
+    "s118",
+    "s122",
+    "s132",
+    "s136",
+    "s146",
+    "s147",
+    "s163",
+    "s165",
+    "s167",
+    "s169",
+    "s171",
+    "s174",
+    "s182",
+    "s184",
+    "s187",
+    "s188",
+    "s189",
+    "s166",
+    "s67",
+    "s170",
+    "s104",
+    "s145",
+    "s19",
+    "s40",
+    "s183",
+    "s68"
+  ],
+  "fields_complete_25": true
+}

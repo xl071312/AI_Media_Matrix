@@ -1,0 +1,1282 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7654509089146159668",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7654509089146159668/",
+  "source_sha256": "5c3b2f670f0847f1ae353155afcf7984ef54836b8b256c9fe0963c645d18ecc3",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 85,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 41,
+      "snippet": "如果你对一场球赛胜负的判断准确率高达90%，是不是就该场场梭哈，靠买彩票发家致富？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "真这么想，大概率血本无归。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 39,
+      "snippet": "因为你的对手根本不是那些跟你反着买的人，而是一个你压根无法战胜的财富博弈公式。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 31,
+      "snippet": "前几天世界杯买西班牙赢佛得角、葡萄牙赢刚果的朋友应该深有体会。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 36,
+      "snippet": "赛前没人能想到，这些名不见经传的小球队，竟然能逆袭战平世界顶级夺冠热门。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 21,
+      "snippet": "赛后，无数买了强队赢的网友直呼“天台见”。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 26,
+      "snippet": "很多人觉得这种冷门只是小概率事件，赔钱不过是运气差。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 53,
+      "snippet": "但买足球彩票这件事，和其他所有博彩一样—— 只要你的胜率不是100%，还盲目梭哈，最后一定是输个底朝天 。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 29,
+      "snippet": "只有真正读懂这套收割系统，你才能躲开那些看不清的投资陷阱。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 25,
+      "snippet": "为什么说除非能100%赢，否则任何时候都不该梭哈？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 17,
+      "snippet": "这就要说到大名鼎鼎的 凯利公式 。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 34,
+      "snippet": "它在赌场被奉为正神，也被称为资金管理神器，是一众投资大佬的心头之爱。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 23,
+      "snippet": "股神巴菲特靠这个公式的思维逻辑，也赚过不少钱。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "理解起来其实不复杂。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 24,
+      "snippet": "假设一场球赛， 你有60%的概率压对，本金翻倍；"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "40%的概率压错，本金亏完 。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "胜率看起来相当高了吧？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "该不该梭哈？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 23,
+      "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 42,
+      "snippet": "公式原理是：下注资金比例F =（赔率B × 赢的概率P - 输的概率Q）÷ 赔率B。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 29,
+      "snippet": "赔率按1倍算，60%赢、40%输，带进去一算，正好20%。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "发现没有？"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 40,
+      "snippet": "就算你胜率高达60%，最优解也只是 用小仓位、多频次去试水，靠时间换最终收益 。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 29,
+      "snippet": "更何况，在真正的赌球市场里，你的胜率压根不可能超过50%。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "拿前几天西班牙踢佛得角来举例。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 19,
+      "snippet": "你觉得西班牙这么强，胜率起码90%吧？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "P=0.9。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 56,
+      "snippet": "但正因为两队实力悬殊，庄家给西班牙开的赔率极低，大概只有0.1倍——压100块赢了只能赚10块，赔率B=0.1。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 20,
+      "snippet": "剩下10%的平局或输球概率，Q=0.1。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "把这些数代进凯利公式，算出来是多少？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "负的10% 。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 32,
+      "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 21,
+      "snippet": "因为综合胜率太低，风险跟收益完全不成正比。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 41,
+      "snippet": "哪怕你前面连赢9把，只要撞上西班牙战平佛得角这种冷门，之前所有收益连本金一把清空。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 13,
+      "snippet": "注意，这还没算庄家的抽水。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "把那个算进去，输得更惨。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 18,
+      "snippet": "到这里就明白世界杯最赚钱的是谁了吧？"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 27,
+      "snippet": "不是球员，不是赞助商，而是彩票博彩行业背后的 庄家 。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 39,
+      "snippet": "国际足联累死累活干四年，靠着广告、赞助、转播和门票，总收入也就 75亿美元 。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 33,
+      "snippet": "而今年世界杯期间， 全球合法的博彩投入总额预计达到600亿美元 。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 39,
+      "snippet": "就算只抽几个点的水，那也是几十亿美元的净利润，再加上吃掉的赔率差额，只会更多。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 59,
+      "snippet": "所以这次参赛队伍从32支扩到48支，场次从64场增至104场，最开心的除了那些原本没机会进世界杯的国家，就是博彩公司。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 63,
+      "snippet": "很多上市博彩公司的财报里，专门有一页叫“风险管理与对冲”，里面白纸黑字写着： 体育赛事结果的不可预测性，对营收的实际影响极小。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 26,
+      "snippet": "换句话说，人家压根不在乎明天是强队爆冷还是黑马逆袭。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 22,
+      "snippet": "靠着综合赔率计算和数学期望，就已经赢过你了。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 31,
+      "snippet": "那问题来了——既然庄家稳赚不赔，为什么还有那么多人被吸引进去？"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 26,
+      "snippet": "不少博彩公司的财报里，有个高频词翻译过来叫“慷慨”。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 50,
+      "snippet": "说白了就是 疯狂给球迷送免费下注金、新客返现券 ，让你觉得“平台送我100块，薅完羊毛赚一把就走”。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 42,
+      "snippet": "但财报数据摆在那儿：正是靠这些“慷慨”举措，平台里每个活跃用户的月均消费额全在暴涨。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 20,
+      "snippet": "不怕你赢，不怕送你体验金， 就怕你不玩。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 23,
+      "snippet": "真正读懂这些数学公式和数据的人，从来不会赌球。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 23,
+      "snippet": "因为他们清楚，这件事本质上就是十死无生的游戏。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 19,
+      "snippet": "最典型的例子是数学家 爱德华·索普 。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 37,
+      "snippet": "他写了本《打败庄家》，靠着强悍的数学模型，在21点牌桌上真把赌场赢到吐血。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 4,
+      "snippet": "结果呢？"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "被各大赌场直接拉黑，扫地出门。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 37,
+      "snippet": "但他转头就把这套模型搬到了华尔街，开了家对冲基金，二十多年里几乎没亏过钱。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 20,
+      "snippet": "真正能靠本事赚到钱的人，不会被放进赌场。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 43,
+      "snippet": "而且从来没人能赢一把就收手——一旦你体验过狂赚数倍的快感，就很难再踏踏实实干别的事了。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 10,
+      "snippet": "珍爱生命，远离赌博。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 25,
+      "snippet": "热爱足球没有任何问题，但别因为热爱变成一生的悲剧。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 22,
+      "snippet": "做任何风险决策之前，不妨先把凯利公式算一算。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 44,
+      "snippet": "它不会告诉你买什么能赢，但至少能提醒你一件事： 很多时候，不下注就是保护自己的最优策略。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 17,
+      "snippet": "图片截取自: 为什么赌球你赢不了？"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 20,
+      "snippet": "根本不需要做局，一个财富公式让你十赌九输"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "反问「90%准确率是否该梭哈」后立刻否定，抛出「财富博弈公式」对手设定。",
+      "patterns": [
+        "梭哈反问钩",
+        "公式对手设定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "如果你对一场球赛胜负的判断准确率高达90%，是不是就该场场梭哈，靠买彩票发家致富",
+          "note": "90%是否梭哈"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "真这么想，大概率血本无归。",
+          "note": "血本无归"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "因为你的对手根本不是那些跟你反着买的人，而是一个你压根无法战胜的财富博弈公式。",
+          "note": "财富博弈公式"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "非100%勿梭哈→凯利公式最优仓位→强队低赔期望为负→庄家抽水稳赢→扩军利好博彩→慷慨拉新陷阱→索普对照→远离赌博收。",
+      "patterns": [
+        "凯利仓位链",
+        "负期望禁入",
+        "庄家稳赢",
+        "索普对照收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "但买足球彩票这件事，和其他所有博彩一样—— 只要你的胜率不是100%，还盲目梭哈",
+          "note": "非100%梭哈必输"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "只能20%下注"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。",
+          "note": "绝对不要下注"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "不是球员，不是赞助商，而是彩票博彩行业背后的 庄家 。",
+          "note": "庄家最赚"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "远离赌博"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "hook_myth",
+          "note": "梭哈神话打碎与冷门体感"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "kelly_intro",
+          "note": "凯利公式与60%只能20%仓"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "spain_negative_ev",
+          "note": "西班牙低赔负期望演算"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70"
+          ],
+          "function": "bookie_math",
+          "note": "庄家抽水扩军与风险管理"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85"
+          ],
+          "function": "thorp_close",
+          "note": "索普对照与远离赌博收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「因为」「这就要说到」「发现没有」「到这里就明白」「那问题来了」「结果呢」推进。",
+      "patterns": [
+        "这就要说到引入",
+        "发现没有提示转",
+        "那问题来了追问转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这就要说到大名鼎鼎的 凯利公式 。",
+          "note": "这就要说到凯利"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "发现没有？",
+          "note": "发现没有"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "到这里就明白世界杯最赚钱的是谁了吧？",
+          "note": "到这里就明白"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "那问题来了——既然庄家稳赚不赔，为什么还有那么多人被吸引进去？",
+          "note": "那问题来了"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "胜率高直觉 vs 凯利小仓；强队90% vs 赔率0.1负期望；球员赞助 vs 庄家；赌场赢 vs 华尔街正途。",
+      "patterns": [
+        "直觉/公式对打",
+        "胜率/赔率对打",
+        "赌场/华尔街对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "只能20%"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "但正因为两队实力悬殊，庄家给西班牙开的赔率极低，大概只有0.1倍——压100块赢",
+          "note": "赔率极低0.1"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "不是球员，不是赞助商，而是彩票博彩行业背后的 庄家 。",
+          "note": "庄家最赚"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "但他转头就把这套模型搬到了华尔街，开了家对冲基金，二十多年里几乎没亏过钱。",
+          "note": "搬到华尔街"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开篇梭哈问、该不该梭哈、算出来是多少、世界杯最赚钱是谁、为何仍被吸引、结果呢。",
+      "patterns": [
+        "决策反问",
+        "演算追问",
+        "受益方问",
+        "吸引力问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "如果你对一场球赛胜负的判断准确率高达90%，是不是就该场场梭哈，靠买彩票发家致富",
+          "note": "是否梭哈"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "该不该梭哈？",
+          "note": "该不该梭哈"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "把这些数代进凯利公式，算出来是多少？",
+          "note": "算出来是多少"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "到这里就明白世界杯最赚钱的是谁了吧？",
+          "note": "最赚钱是谁"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "那问题来了——既然庄家稳赚不赔，为什么还有那么多人被吸引进去？",
+          "note": "为何被吸引"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "西班牙/佛得角冷门体感；60/40凯利演算；西班牙B=0.1负10%；世界杯600亿博彩；索普21点与对冲基金。",
+      "patterns": [
+        "冷门体感例",
+        "凯利数值例",
+        "世界杯资金例",
+        "索普人生例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "前几天世界杯买西班牙赢佛得角、葡萄牙赢刚果的朋友应该深有体会。",
+          "note": "西班牙佛得角"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "赔率按1倍算，60%赢、40%输，带进去一算，正好20%。",
+          "note": "正好20%"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "而今年世界杯期间， 全球合法的博彩投入总额预计达到600亿美元 。",
+          "note": "600亿美元"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "最典型的例子是数学家 爱德华·索普 。",
+          "note": "爱德华索普"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "凯利公式落到F=20%与负10%；「风险管理」财报句落到不在乎赛果；「慷慨」落到体验金暴涨消费。",
+      "patterns": [
+        "公式→仓位数字",
+        "风控→不在乎赛果",
+        "慷慨→体验金"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "20%下注"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "负的10% 。",
+          "note": "负的10%"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "很多上市博彩公司的财报里，专门有一页叫“风险管理与对冲”，里面白纸黑字写着： 体",
+          "note": "不可预测性影响极小"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "说白了就是 疯狂给球迷送免费下注金、新客返现券 ，让你觉得“平台送我100块，薅",
+          "note": "免费下注金"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言血本无归、胜率不可能超50%、绝对不要下注、十死无生、真正读懂的人从不赌球。",
+      "patterns": [
+        "血本无归断",
+        "绝对不下注断",
+        "十死无生断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "真这么想，大概率血本无归。",
+          "note": "血本无归"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。",
+          "note": "绝对不要下注"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "因为他们清楚，这件事本质上就是十死无生的游戏。",
+          "note": "十死无生"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "真正读懂这些数学公式和数据的人，从来不会赌球。",
+          "note": "从来不会赌球"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先设90%胜率直觉再算成负期望；补刀「还没算庄家抽水」加深修正。",
+      "patterns": [
+        "直觉胜率再修正",
+        "抽水补刀加深"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "你觉得西班牙这么强，胜率起码90%吧？",
+          "note": "胜率起码90%吧"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "负的10% 。",
+          "note": "负的10%"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "注意，这还没算庄家的抽水。",
+          "note": "还没算抽水"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "配图标题复沓分隔章节；问答短句加速→公式中密→庄家数据高密→忠告短句降速。",
+      "patterns": [
+        "配图复沓分节",
+        "公式中密",
+        "忠告降速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "为什么说除非能100%赢，否则任何时候都不该梭哈？",
+          "note": "为什么不该梭哈"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "公式原理是：下注资金比例F =（赔率B × 赢的概率P - 输的概率Q）÷ 赔率",
+          "note": "公式原理中密"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "珍爱生命降速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "挑衅好奇→演算冷静→负期望震撼→对庄家醒悟→对拉新愤怒→索普感慨→劝诫温硬。",
+      "patterns": [
+        "演算冷静",
+        "负期望震撼",
+        "劝诫温硬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "如果你对一场球赛胜负的判断准确率高达90%，是不是就该场场梭哈，靠买彩票发家致富",
+          "note": "挑衅梭哈"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "负的10% 。",
+          "note": "负10%震撼"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不怕你赢，不怕送你体验金， 就怕你不玩。",
+          "note": "就怕你不玩"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "珍爱生命"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇「不需要做局一个公式让你输」在结尾化为「不下注就是最优策略」闭环。",
+      "patterns": [
+        "公式开题→不下注最优",
+        "远离赌博呼应"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "因为你的对手根本不是那些跟你反着买的人，而是一个你压根无法战胜的财富博弈公式。",
+          "note": "公式对手开题"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "远离赌博"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "它不会告诉你买什么能赢，但至少能提醒你一件事： 很多时候，不下注就是保护自己的最",
+          "note": "不下注最优策略"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "硬劝诫CTA「珍爱生命远离赌博」+决策前先算凯利；非关注引流型。",
+      "patterns": [
+        "远离赌博硬劝诫",
+        "先算凯利行动建议"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "珍爱生命远离赌博"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "做任何风险决策之前，不妨先把凯利公式算一算。",
+          "note": "先把凯利公式算一算"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「天台见」「十死无生」「就怕你不玩」网络口语与配图标题复读，带自媒体节奏感。",
+      "patterns": [
+        "天台见口语",
+        "就怕你不玩",
+        "配图标题复读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "赛后，无数买了强队赢的网友直呼“天台见”。",
+          "note": "天台见"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不怕你赢，不怕送你体验金， 就怕你不玩。",
+          "note": "就怕你不玩"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 为什么赌球你赢不了？",
+          "note": "配图标题复读"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "配图标题句高频重复占版面；凯利假设简化；博彩数据缺出处；劝诫收尾偏口号。",
+      "patterns": [
+        "配图复读噪音",
+        "公式简化",
+        "数据缺出处"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "图片截取自: 为什么赌球你赢不了？",
+          "note": "配图标题重复"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "公式原理是：下注资金比例F =（赔率B × 赢的概率P - 输的概率Q）÷ 赔率",
+          "note": "公式简化陈述"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "而今年世界杯期间， 全球合法的博彩投入总额预计达到600亿美元 。",
+          "note": "600亿缺出处"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「直觉梭哈→引入凯利→代入强队低赔→得负期望→升维庄家系统」演算思维。",
+      "patterns": [
+        "演算思维外露",
+        "负期望升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "理解起来其实不复杂。",
+          "note": "理解起来不复杂"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "把这些数代进凯利公式，算出来是多少？",
+          "note": "代进公式追问"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。",
+          "note": "期望为负结论"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准世界杯跟风买彩观众，把读者从「赌徒」拉到「风险决策者」位。",
+      "patterns": [
+        "跟风买彩位",
+        "风险决策者重定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "前几天世界杯买西班牙赢佛得角、葡萄牙赢刚果的朋友应该深有体会。",
+          "note": "买西班牙的朋友"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "只有真正读懂这套收割系统，你才能躲开那些看不清的投资陷阱。",
+          "note": "躲开投资陷阱"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "做任何风险决策之前，不妨先把凯利公式算一算。",
+          "note": "任何风险决策之前"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "凯利F=20%、西班牙B=0.1得-10%、FIFA75亿 vs 博彩600亿、索普《打败庄家》。",
+      "patterns": [
+        "20%仓位锚",
+        "负10%锚",
+        "600亿锚",
+        "索普锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "20%下注"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "负的10% 。",
+          "note": "负的10%"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "而今年世界杯期间， 全球合法的博彩投入总额预计达到600亿美元 。",
+          "note": "600亿美元"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "他写了本《打败庄家》，靠着强悍的数学模型，在21点牌桌上真把赌场赢到吐血。",
+          "note": "打败庄家"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场故事中密→公式高密→庄家财报高密→劝诫降密。",
+      "patterns": [
+        "公式高密",
+        "财报高密",
+        "劝诫降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "公式原理是：下注资金比例F =（赔率B × 赢的概率P - 输的概率Q）÷ 赔率",
+          "note": "公式高密"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "很多上市博彩公司的财报里，专门有一页叫“风险管理与对冲”，里面白纸黑字写着： 体",
+          "note": "财报风控高密"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "劝诫降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句短打+公式长句；配图句机械分隔；结尾忠告短句排比。",
+      "patterns": [
+        "短问+长公式",
+        "配图分隔",
+        "忠告短句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "该不该梭哈？",
+          "note": "该不该梭哈短问"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "公式原理是：下注资金比例F =（赔率B × 赢的概率P - 输的概率Q）÷ 赔率",
+          "note": "公式长句"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "珍爱生命短句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "数学劝诫型财经作者：用公式拆赌徒直觉，立场鲜明反赌。",
+      "patterns": [
+        "公式劝诫者",
+        "鲜明反赌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。",
+          "note": "绝对不要下注"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "真正读懂这些数学公式和数据的人，从来不会赌球。",
+          "note": "读懂的人从不赌"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "珍爱生命，远离赌博。",
+          "note": "远离赌博"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "除非100%否则不梭哈、凯利20%、负的10%、就怕你不玩、不下注是最优。",
+      "patterns": [
+        "不梭哈",
+        "凯利20%",
+        "负的10%",
+        "不下注最优"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "但买足球彩票这件事，和其他所有博彩一样—— 只要你的胜率不是100%，还盲目梭哈",
+          "note": "非100%勿梭哈"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "20%下注"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "负的10% 。",
+          "note": "负的10%"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "它不会告诉你买什么能赢，但至少能提醒你一件事： 很多时候，不下注就是保护自己的最",
+          "note": "不下注最优"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "凯利仓位+负期望禁入+庄家系统拆解完整可直接改编风险决策/反赌口播，仅需补数据出处与减配图噪音。",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "凯利公式告诉你： 只能拿出资金的20%下注 。",
+          "note": "凯利仓位"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "只要期望值Bp-Q是负数，公式的最优解就是—— 绝对不要下注 。",
+          "note": "负期望禁入"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "它不会告诉你买什么能赢，但至少能提醒你一件事： 很多时候，不下注就是保护自己的最",
+          "note": "不下注最优"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s5",
+    "s12",
+    "s25",
+    "s42",
+    "s50",
+    "s80",
+    "s1",
+    "s2",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85"
+  ],
+  "fields_complete_25": true
+}

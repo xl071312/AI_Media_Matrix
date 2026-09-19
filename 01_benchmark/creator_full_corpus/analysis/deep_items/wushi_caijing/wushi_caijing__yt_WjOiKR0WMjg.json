@@ -1,0 +1,1084 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_WjOiKR0WMjg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=WjOiKR0WMjg",
+  "source_sha256": "dce0b4614b8a8c352505347d7b13c30ce327cad1e64317f87a61322eaabde76f",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "fields": {
+    "opening_move": {
+      "summary": "承接同道大叔上岸与两亿级交易，指出买方账厅靠星座NFT概念，再亮明对NFT冷淡立场。",
+      "patterns": [
+        "承接前集上岸",
+        "账厅概念起",
+        "NFT立场声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "所以当时很多自媒体人大伙从大叔上岸了",
+          "note": "承接上岸"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "就是21亿中发两亿买不同大大厨",
+          "note": "两亿交易"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "当然是概念人与照星座NFT",
+          "note": "概念账厅"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我对NFT的观点挺豐明的",
+          "note": "NFT立场"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "同道被高价收购成支线→账厅靠概念→套现才是真财富→别人估值他已现金离场最可圈点→切papi大学感情线埋伏资本→拿投资必背盈利→软广与监管背景下估值想象。",
+      "patterns": [
+        "收购支线",
+        "概念账厅",
+        "套现真财富",
+        "三步领先",
+        "papi埋伏",
+        "投资盈利承诺",
+        "估值想象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "而且属于公司众多亿有限当地的一条支线吧",
+          "note": "支线"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "而同老大叔直接已经拿到了过意的现金套现立场了",
+          "note": "套现"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "同老大叔是网红资本化里面最可千颗点的",
+          "note": "最可圈点"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "他已经走完了两步",
+          "note": "两步"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "这事肯定跟他的资本线有关系",
+          "note": "资本埋伏"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "就是盈利且能更多的盈利",
+          "note": "盈利承诺"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "这个网红它的估值应该有几十亿",
+          "note": "估值想象"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "同道收购账厅NFT与历史教训",
+          "note": "同道资本上"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "套现真财富与三步领先评价",
+          "note": "套现论点"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149"
+          ],
+          "function": "papi大学感情线与没钱有时间伏笔",
+          "note": "papi起源"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258"
+          ],
+          "function": "资本底牌盈利与软广监管估值收束",
+          "note": "资本哲学收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "所以这事我还是拉到资本；还是回到同道资本化路上；这儿卖个关子；大家请记住这句话；翻过来。",
+      "patterns": [
+        "拉回资本",
+        "还是回到",
+        "卖关子",
+        "记住这句话",
+        "翻过来"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以这事我还是拉到资本的设计",
+          "note": "拉回资本"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "还是回到同老大叔资本化这条路上",
+          "note": "还是回到"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "这儿买个福笔了",
+          "note": "卖关子"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "大家请记住这句话",
+          "note": "记住"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "翻过来无论出于什么目",
+          "note": "翻过来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "别人估值纸面对象道现金离场；别人走完一步他走完两步；没钱有时间对后来商业化；做慈善对盈利承诺。",
+      "patterns": [
+        "纸面vs现金",
+        "一步vs两步",
+        "没钱有时间",
+        "慈善vs盈利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "别人是深价过意",
+          "note": "别人估值"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "而同老大叔直接已经拿到了过意的现金套现立场了",
+          "note": "他套现"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "是因为别人走完了第一步",
+          "note": "别人一步"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "他已经走完了两步",
+          "note": "他两步"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "就是没有钱",
+          "note": "没钱"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "慈善反问"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "靠什么账厅；利好谁；为何讲感情线；拿白银出来干嘛做慈善吗。",
+      "patterns": [
+        "账厅问",
+        "利好谁问",
+        "为何讲感情",
+        "慈善反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "他靠什么账厅呢?",
+          "note": "账厅问"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "那这利好谁呢?",
+          "note": "利好谁"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "而这块为什么要去把帕佩的大学生活和感情线",
+          "note": "为何感情"
+        },
+        {
+          "sentence_id": "s233",
+          "snippet": "不然我拿这件白银出来干嘛",
+          "note": "干嘛"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "慈善反问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "21亿中花两亿买同道；星座NFT元气星空；人类不从历史学教训金句；papi09定联；2200万公益估值推演。",
+      "patterns": [
+        "收购额例",
+        "NFT合约例",
+        "历史教训金句",
+        "定联日期例",
+        "公益额估值例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就是21亿中发两亿买不同大大厨",
+          "note": "两亿"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "同样大叔文化传播有些公司与元气星空前约",
+          "note": "合约"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就是人类不会从历史中学到任何教训",
+          "note": "教训"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "帕佩说自己是09年1月12号",
+          "note": "日期"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "公寓价值就是两千人百万的话",
+          "note": "2200万"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "财富抽象落到纸上数字vs装进口袋；资本线抽象落到老虎阳名小圈子；估值抽象落到2200万公益反推几十亿。",
+      "patterns": [
+        "财富→纸/口袋",
+        "资本线→人名圈",
+        "估值→公益反推"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "这个数字是写在纸上的",
+          "note": "纸上"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "这个财富才是装进你自己都里的",
+          "note": "口袋"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "和自己玩了最好的两个人之一的老虎",
+          "note": "老虎"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "这个网红它的估值应该有几十亿",
+          "note": "几十亿"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "挺能打的高端味；NFT观点分明；最可圈点；聪明的观众也能猜到；啪啤确实很能打。",
+      "patterns": [
+        "高端味肯定",
+        "观点分明",
+        "最可圈点",
+        "聪明观众",
+        "很能打收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "在自门市场是挺能整理的那种属于高端味",
+          "note": "高端味"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我对NFT的观点挺豐明的",
+          "note": "分明"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "同老大叔是网红资本化里面最可千颗点的",
+          "note": "可圈点"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "其实聪明的观众也能猜到",
+          "note": "聪明观众"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "但事实中明的 啪啤确实很能打",
+          "note": "很能打"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "声明不对NFT多介绍因观点分明；卖关子后承认讲感情是为资本线；监管下本应尴尬但事实证明能打。",
+      "patterns": [
+        "少讲NFT自限",
+        "卖关子后揭底",
+        "监管尴尬纠偏能打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "这部我就不过多做介绍了",
+          "note": "自限"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "这事肯定跟他的资本线有关系",
+          "note": "揭底"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "这场招标会被结果很尴尬",
+          "note": "预期尴尬"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "但事实中明的 啪啤确实很能打",
+          "note": "纠偏"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "收购叙事中速，套现论点短句加速，papi生活线放慢铺垫，资本哲学段提速金句，估值收束加速。",
+      "patterns": [
+        "叙事中速",
+        "套现短句加速",
+        "生活线放慢",
+        "哲学提速",
+        "估值加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "而同老大叔直接已经拿到了过意的现金套现立场了",
+          "note": "套现加速"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "你的财富都只是一个数字",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但有大把时间的帕佩高强度冲浪",
+          "note": "放慢生活"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "就是盈利且能更多的盈利",
+          "note": "哲学"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "这个网红它的估值应该有几十亿",
+          "note": "估值"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "discourse",
+          "form": "还是回到"
+        },
+        {
+          "type": "discourse",
+          "form": "大家请记住这句话"
+        },
+        {
+          "type": "discourse",
+          "form": "翻过来"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以这事我还是拉到资本的设计",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "还是回到同老大叔资本化这条路上",
+          "note": "还是回到"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "大家请记住这句话",
+          "note": "记住这句话"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "翻过来无论出于什么目",
+          "note": "翻过来"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "收购八卦兴趣→NFT冷淡→套现爽感赞赏→卖关子好奇→没钱共情→资本冷酷→能打收束敬佩。",
+      "patterns": [
+        "八卦",
+        "冷淡",
+        "爽感",
+        "好奇",
+        "共情",
+        "冷酷",
+        "敬佩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "我对NFT的观点挺豐明的",
+          "note": "冷淡"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "同老大叔是网红资本化里面最可千颗点的",
+          "note": "赞赏"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "这儿买个福笔了",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "就是没有钱",
+          "note": "共情"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "冷酷"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "啪啤确实很能打",
+          "note": "敬佩"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场同道套现可圈点，收束到资本要盈利承诺与papi在监管下仍能打，系列人物对照闭环。",
+      "patterns": [
+        "套现可圈点开场",
+        "盈利底牌收",
+        "能打闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "同老大叔是网红资本化里面最可千颗点的",
+          "note": "开场评价"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "就是盈利且能更多的盈利",
+          "note": "盈利底牌"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "啪啤确实很能打",
+          "note": "能打闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口无显式求赞，以系列伏笔阳名、记住这句话驱动续看。",
+      "patterns": [
+        "系列伏笔CTA",
+        "记住这句话钩",
+        "弱按钮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s120",
+          "snippet": "不知道的后面再说",
+          "note": "续看伏笔"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "大家请记住这句话",
+          "note": "记忆钩"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错字现场感；人类不从历史学教训金句；没钱但有时间；做慈善吗反问，口语锋利。",
+      "patterns": [
+        "ASR现场",
+        "历史教训金句",
+        "没钱有时间",
+        "慈善反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "就是人类不会从历史中学到任何教训",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "就是没有钱",
+          "note": "没钱"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但有大把时间的帕佩高强度冲浪",
+          "note": "有时间"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "反问"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损坏专名；中段截断致同道到papi过渡跳跃；财务数据口播含混。",
+      "patterns": [
+        "ASR损坏",
+        "中段截断跳跃",
+        "财务含混"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "也不至于已经一家的",
+          "note": "错字断裂"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "帕佩说自己是09年1月12号",
+          "note": "跳跃切入"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "可以看到这个公司一年经历过24亿的账厅",
+          "note": "账厅含混"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先评套现三步领先，再声明讲感情为资本线，最后用盈利底牌解释估值，推理意图外露。",
+      "patterns": [
+        "先评后铺人物",
+        "声明意图",
+        "盈利解释估值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "同老大叔是网红资本化里面最可千颗点的",
+          "note": "先评"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "这事肯定跟他的资本线有关系",
+          "note": "声明意图"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "就是盈利且能更多的盈利",
+          "note": "盈利解释"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "系列老观众对阳名敏感；聪明的观众也能猜到；把听众当资本同盟而非吃瓜路人。",
+      "patterns": [
+        "系列老观众",
+        "聪明观众共谋",
+        "资本同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "以前看我明信你资本系列视频的人",
+          "note": "系列观众"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "其实聪明的观众也能猜到",
+          "note": "聪明共谋"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "大家请记住这句话",
+          "note": "同盟嘱咐"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "两亿收购、24亿账厅、10%语境前集、09年1月12日定联、2200万公益、几十上百亿估值。",
+      "patterns": [
+        "收购额锚",
+        "账厅额锚",
+        "定联日期锚",
+        "公益估值锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就是21亿中发两亿买不同大大厨",
+          "note": "两亿"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "一年经历过24亿的账厅",
+          "note": "24亿"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "帕佩说自己是09年1月12号",
+          "note": "09-01-12"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "公寓价值就是两千人百万的话",
+          "note": "2200万"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "估值应该有几十亿",
+          "note": "几十亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "收购段中高密→套现哲学中密→生活线低密叙事→资本底牌中高密→估值数字高密收。",
+      "patterns": [
+        "收购中高密",
+        "哲学中密",
+        "生活低密",
+        "底牌中高",
+        "估值高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就是21亿中发两亿买不同大大厨",
+          "note": "中高密"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "你的财富都只是一个数字",
+          "note": "哲学中密"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "就是每天都好开心了",
+          "note": "生活低密"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "这个网红它的估值应该有几十亿",
+          "note": "估值高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判断与长错字叙事交替，一步两步三步排比，记住这句话后短句锤打没钱。",
+      "patterns": [
+        "短判+长述",
+        "步数排比",
+        "短句锤打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "而同老大叔直接已经拿到了过意的现金套现立场了",
+          "note": "长述"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "是因为别人走完了第一步",
+          "note": "排比1"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "他已经走完了两步",
+          "note": "排比2"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "他已经走完了第三步",
+          "note": "排比3"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "没有钱",
+          "note": "短锤"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷酷资本叙事者：贬NFT泡沫，赞套现落地，用做慈善吗刺破温情，仍服气能打。",
+      "patterns": [
+        "冷酷资本",
+        "贬泡沫赞套现",
+        "刺破温情",
+        "服气能打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "我对NFT的观点挺豐明的",
+          "note": "贬泡沫"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "最可千颗点的",
+          "note": "赞套现"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "刺破"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "啪啤确实很能打",
+          "note": "服气"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "现金套现离场；走完三步；人类不从历史学教训；没钱但有时间；做慈善吗；很能打。",
+      "patterns": [
+        "套现离场",
+        "三步",
+        "历史教训",
+        "没钱有时间",
+        "做慈善吗",
+        "很能打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "现金套现立场了",
+          "note": "套现"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "他已经走完了第三步",
+          "note": "三步"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就是人类不会从历史中学到任何教训",
+          "note": "教训"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "做死善吗",
+          "note": "慈善"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "啪啤确实很能打",
+          "note": "能打"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "套现才算真财富+步数领先评价+人物生活线埋伏资本的结构可迁，须大幅清洗ASR并补股权时间线表。",
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "只有当你套现上案了",
+          "note": "套现真财富可迁"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "他已经走完了两步",
+          "note": "步数评价可迁"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "这事肯定跟他的资本线有关系",
+          "note": "生活埋伏资本可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s252",
+    "s253",
+    "s254",
+    "s255",
+    "s256",
+    "s257",
+    "s258"
+  ],
+  "fields_complete_25": true
+}

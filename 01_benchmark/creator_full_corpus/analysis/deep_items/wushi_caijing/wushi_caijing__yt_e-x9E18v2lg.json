@@ -1,0 +1,1502 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_e-x9E18v2lg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=e-x9E18v2lg",
+  "source_sha256": "c47ef58b92c1aefab25b74ced5e4025e985df868a0485e1916c3f09af15447a6",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 153,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "甚至其著華為中國人發"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "我們可以擴大這整個文化產業甚至整個服務業"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 15,
+      "snippet": "隨後更大的勒子來源於串執老鼠倉"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "網上傳播對廣的說法是"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 24,
+      "snippet": "親女去庫時代通過老鼠倉做空蘋果和特斯拉獲利57億"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 25,
+      "snippet": "巫師的投行民工的DirtyWork支魂馬上就驚醒了"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 24,
+      "snippet": "但在巫師調查完發現這很可能是個Fake News"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "沒有線索沒有證據"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 17,
+      "snippet": "也有很多媒體跟風說串執用關稅戰炒午"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 17,
+      "snippet": "要不是沒有信息員要不是國內二刀消息"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "其實美國各方都對串執這一過"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "但目前還沒有下文"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 19,
+      "snippet": "巫師更偏向於串執的家族成員必然有小動作"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 15,
+      "snippet": "串執隨便一個推圍就會引發天地板"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "天地板就是從跌很多一下變成漲很多"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 17,
+      "snippet": "我不信這幫人都是道德聖人完全不利用"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 15,
+      "snippet": "而且別迷信美股的反內幕交易系統"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "大家見過熊世也見過牛世"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 12,
+      "snippet": "當然有串執一手遭遇的猴世"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "也讓大家開臉了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 17,
+      "snippet": "現在比較集中對串執之一就是他這句話"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 17,
+      "snippet": "他收完之後的三小時就更新了關稅政策"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 18,
+      "snippet": "然後自己的股價當日收盤上漲的百分之二"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "一天獲利四億美元"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "可以收拾操縱市場"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "但很難說是內幕交易"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "而且外網流出了這段視頻"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 24,
+      "snippet": "關稅政策本質上是拿著兩國億萬人民的幸福生活入耳系"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 16,
+      "snippet": "老百姓吃苦你們跟這賺錢細節哈哈的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "但是新股神確實就是串執了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "把飛特根本不過看了"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "別人是直點打哪"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "串執是打哪直呢"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 16,
+      "snippet": "不是從資本市場角度給你們分析一下"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "串執這幾次很會玩唱反調"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "他每一次搞出的大新聞"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "最終都正好逆著原有的輿論"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 16,
+      "snippet": "因為資本市場原來已經有一種共識了"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "當大家都覺得多或者是空的時候"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "其實沒有收割別人的機會"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "而在大家都覺得空的時候"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "我直接贊反所有關稅"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "直接爆炸多"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 11,
+      "snippet": "這種短期內收益加上槓桿"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 6,
+      "snippet": "然後是最猛的"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "而相反的"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "最早的有多轉空也是同理"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 19,
+      "snippet": "就是逆著市場共識來一個極端超易期的政策"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 14,
+      "snippet": "然後過兩天在收回或者放緩政策"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "這兩天內就能利用情緒效應"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "達到收益最大化"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 12,
+      "snippet": "其實串執家族薪女貨幣玩法"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "已經在赤裸裸這樣搞了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "甚至把很多飛河薪的薪女貨幣"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "要列為國家儲備"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "就弄是名著操作市場"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "先埋伏好"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 11,
+      "snippet": "然後發布利好幣圈的政策"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "然後趁大家秦秦積分開收割"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 13,
+      "snippet": "而這個時候大家就謊人大物了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 15,
+      "snippet": "當時那個暗殺串執的為什麼打偏了"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "他就是故意打偏的"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 9,
+      "snippet": "因為只有不幹掉串執"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 13,
+      "snippet": "大家才知道為什麼要幹掉串執"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 12,
+      "snippet": "當時我第一期罵你罵的不對"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "我問了我真該死"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "而金融行業的分別師們"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 13,
+      "snippet": "也被迫要緊丁串執的社交媒體"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 14,
+      "snippet": "串執用來發布消息的那個APP"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "迎來大量的用戶增長"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "以前用那個APP的人"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "都是用來追星串執的"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "但現在大量金融同業者融入後"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 14,
+      "snippet": "這個APP的用戶質量有望其非"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "但就算緊丁串執的發言"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "也不一定有效參與交易"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "很可能被當成串執的韭菜收割掉"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 8,
+      "snippet": "因為串執這樣嘴啊"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 8,
+      "snippet": "完全沒有任何信用"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "有網友整理的串執"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "串執給出各種的程度"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 6,
+      "snippet": "以及後續情況"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 11,
+      "snippet": "比如說程度要讓我無停戰"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 10,
+      "snippet": "說要在24小時內停戰"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 12,
+      "snippet": "然後不了了之就當無事發生"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 12,
+      "snippet": "再比如威脅加拿大和墨西哥"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 5,
+      "snippet": "威脅沒成功"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "關稅也宣布元期"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "然後就當時無事發生"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "還有退出世衛組織"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 6,
+      "snippet": "退出巴黎協定"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 6,
+      "snippet": "邊境緊急狀態"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "就是派軍隊阻攔非法移民了"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 10,
+      "snippet": "最後發現這些都是嘴炮"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 4,
+      "snippet": "一地雞毛"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 9,
+      "snippet": "串執依舊當無事發生"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 6,
+      "snippet": "政策召令西改"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 9,
+      "snippet": "也就是能打在串執的"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 8,
+      "snippet": "只有第二天的串執"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 7,
+      "snippet": "無事在觀察兩月"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 7,
+      "snippet": "到時候再處理其"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 11,
+      "snippet": "美國人受關稅影響的視頻"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 11,
+      "snippet": "這不是關稅絕對會非常敏"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 12,
+      "snippet": "反而在美國普通人的生活上"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 9,
+      "snippet": "而最近就有新聞流觸"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 8,
+      "snippet": "關於,美國的彈劃"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 6,
+      "snippet": "美國一彈籃球"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 7,
+      "snippet": "雞彈長家長的某"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 8,
+      "snippet": "為了把雞彈駕鴿鴿"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 10,
+      "snippet": "緊急向盟友採購雞壞鴿"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 14,
+      "snippet": "還有人偷偷從墨西哥運雞彈進來"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 8,
+      "snippet": "以前大家夠犯唱決"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 8,
+      "snippet": "而如今是彈反唱決"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 4,
+      "snippet": "獨銷開會"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 22,
+      "snippet": "會的時,已經徹底輪位了 Commission"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 6,
+      "snippet": "為了彈彈派對"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 15,
+      "snippet": "我相信後面類似的新聞會越來越多"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 10,
+      "snippet": "創辦團隊內部也在生活"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 8,
+      "snippet": "原本中傳的馬斯克"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 11,
+      "snippet": "現在天天砲空串目底下的"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 5,
+      "snippet": "說底下的人"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 7,
+      "snippet": "的人的經濟政�"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 9,
+      "snippet": "而這個每次串發完也"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 12,
+      "snippet": "彈射企力鼓掌的副總統萬斯"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 11,
+      "snippet": "做實了領漲了動物的頭銜"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 8,
+      "snippet": "最近在動物的頭銜"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 9,
+      "snippet": "最近也搞出了個樂子"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 9,
+      "snippet": "他最近一色發言提到"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 14,
+      "snippet": "我們美國從中國相霸老手中借錢"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 12,
+      "snippet": "去買中國相霸老製造的東西"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 15,
+      "snippet": "時政區經常調砍上海的親美派最多"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 10,
+      "snippet": "但重點是萬斯的這段話"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "熱平低的是香鍋凝"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 11,
+      "snippet": "也就是上海化中誤性的詞"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 10,
+      "snippet": "把看似親美派推向繁美"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 13,
+      "snippet": "只需要萬斯的一個相霸老用詞"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 9,
+      "snippet": "為了學習上海以慶重"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 1,
+      "snippet": "a"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 9,
+      "snippet": "无论说爱国漂亮化的"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 16,
+      "snippet": "还是我-反对坎坎号的都是转流量的"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "你看乐子就完事了"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 10,
+      "snippet": "线红大续是别当回事儿"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 12,
+      "snippet": "无视中觺是给你们来消遣的"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 19,
+      "snippet": "你日常的工作和消费才是真的为国家做功前"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 7,
+      "snippet": "做好现金保卫战"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 11,
+      "snippet": "做好自己的生活才是真的"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 9,
+      "snippet": "认同和不认同无视的"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 13,
+      "snippet": "我都感谢你们能看完我的作品"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 9,
+      "snippet": "记得是观点不同的人"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 17,
+      "snippet": "也都可以试用于我上期结尾的七条建议"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 10,
+      "snippet": "希望gaon.com"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 16,
+      "snippet": "哦既继续回归生活为关税战贡献子单"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 7,
+      "snippet": "这被无名下一张"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "从华为文化/服务业扩展切入，迅速落到川普老鼠仓乐子与假新闻甄别。",
+      "patterns": [
+        "产业延展开场",
+        "迅速切入乐子钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我們可以擴大這整個文化產業甚至整個服務業",
+          "note": "扩大文化服务业"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "隨後更大的勒子來源於串執老鼠倉",
+          "note": "更大乐子来自川普老鼠仓"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主链：川普家族疑似内幕操作→逆共识政策收割市场→嘴炮无信→副总统用词乐子→观众应看乐子回归生活。",
+      "patterns": [
+        "逆共识收割论",
+        "嘴炮无信论",
+        "乐子消费+回归生活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "串執這幾次很會玩唱反調",
+          "note": "很会玩唱反调"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "完全沒有任何信用",
+          "note": "完全没有任何信用"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "你看乐子就完事了"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但巫师调查完」「当然」「比如说」「最近」把甄别、案例、清单、收束串起。",
+      "patterns": [
+        "但调查完转折",
+        "比如说举例过渡",
+        "最近转段"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "但巫师调查完"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "比如說程度要讓我無停戰",
+          "note": "比如说程度"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "最近也搞出了個樂子",
+          "note": "最近也搞出了个乐子"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "假新闻vs家族必有小动作；唱多共识vs逆共识收割；追星粉vs金融从业者涌入。",
+      "patterns": [
+        "假新闻/小动作对照",
+        "共识/逆共识",
+        "粉圈/金融用户对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "很可能假新闻"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "巫師更偏向於串執的家族成員必然有小動作",
+          "note": "家族成员必然有小动作"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "都是用來追星串執的",
+          "note": "以前用来追星"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎无直接设问，以「为什么打偏」类叙事问句推动阴谋乐子。",
+      "patterns": [
+        "叙事性为什么问句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "當時那個暗殺串執的為什麼打偏了",
+          "note": "为什么打偏了"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "大家才知道為什麼要幹掉串執",
+          "note": "才知道为什么要干掉"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "57亿做空、当日涨2%获利4亿、停战24小时/加墨威胁/退世卫等嘴炮清单、万斯「香饽饽」用词。",
+      "patterns": [
+        "获利数字案例",
+        "嘴炮清单例",
+        "万斯用词例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "親女去庫時代通過老鼠倉做空蘋果和特斯拉獲利57億",
+          "note": "获利57亿"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "一天獲利四億美元",
+          "note": "一天获利四亿美元"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "說要在24小時內停戰",
+          "note": "24小时内停战"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象「逆共识收割」落地为先埋伏→发极端政策→两天收回的操作步骤。",
+      "patterns": [
+        "收割→政策节奏步骤",
+        "天地板→跌很多变涨很多"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "天地板就是從跌很多一下變成漲很多",
+          "note": "天地板解释"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "就是逆著市場共識來一個極端超易期的政策",
+          "note": "逆着共识极端政策"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "然後過兩天在收回或者放緩政策",
+          "note": "过两天收回或放缓"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言别迷信美股反内幕；川普是新股神；嘴炮一地鸡毛；看乐子别当真。",
+      "patterns": [
+        "别迷信反内幕",
+        "新股神判定",
+        "嘴炮判定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "而且別迷信美股的反內幕交易系統",
+          "note": "别迷信美股反内幕"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但是新股神確實就是串執了",
+          "note": "新股神确实就是川普"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "一地雞毛",
+          "note": "一地鸡毛"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先报老鼠仓传言再自查为假新闻；承认第一期骂得不对「我真该死」。",
+      "patterns": [
+        "传言后自查证伪",
+        "承认骂错自责"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "调查完发现假新闻"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "當時我第一期罵你罵的不對",
+          "note": "第一期骂得不对"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我問了我真該死",
+          "note": "我问了我真该死"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "乐子短句连发→操作机制长解释→嘴炮清单短列举→生活劝告慢收。",
+      "patterns": [
+        "乐子短句连发",
+        "机制长解释",
+        "清单短列举"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "天地板就是從跌很多一下變成漲很多",
+          "note": "天地板短解释"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "就是逆著市場共識來一個極端超易期的政策",
+          "note": "机制长句"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "還有退出世衛組織",
+          "note": "退出世卫短列"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "猎奇乐子→冷甄别→嘲讽收割→自嘲→轻蔑嘴炮→温和劝回归生活。",
+      "patterns": [
+        "猎奇→冷静→嘲讽→自嘲→轻蔑→温和"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "隨後更大的勒子來源於串執老鼠倉",
+          "note": "乐子来源"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "冷静甄别"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我問了我真該死",
+          "note": "自嘲该死"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "做好现金保卫战",
+          "note": "现金保卫战劝告"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从乐子收束到「日常工作消费才是为国家做功」、感谢看完、适用上期七条建议。",
+      "patterns": [
+        "乐子→生活功闭环",
+        "回扣上期七条建议"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s144",
+          "snippet": "你日常的工作和消费才是真的为国家做功前",
+          "note": "日常工作消费才是做功"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "我都感谢你们能看完我的作品",
+          "note": "感谢看完作品"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "也都可以试用于我上期结尾的七条建议",
+          "note": "适用上期七条建议"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "看乐子就完事+做好现金保卫战/自己的生活；观点不同也可试用七条建议。",
+      "patterns": [
+        "乐子消费CTA",
+        "现金保卫战/生活CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "你看乐子就完事了"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "做好现金保卫战",
+          "note": "做好现金保卫战"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "也都可以试用于我上期结尾的七条建议",
+          "note": "试用七条建议"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "先信后查证伪、自嘲骂错、投行民工自称、脏话口语，非平滑AI叙事。",
+      "patterns": [
+        "先信后证伪",
+        "自嘲骂错",
+        "行业自称"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "调查完证伪"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我問了我真該死",
+          "note": "我真该死"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "巫師的投行民工的DirtyWork支魂馬上就驚醒了",
+          "note": "投行民工惊醒"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳号；后段中英混杂乱码；部分案例证据链靠传言。",
+      "patterns": [
+        "截断跳号",
+        "尾段乱码",
+        "传言证据弱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s138",
+          "snippet": "a",
+          "note": "单字母a噪声"
+        },
+        {
+          "sentence_id": "s151",
+          "snippet": "希望gaon.com",
+          "note": "gaon.com噪声"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "親女去庫時代通過老鼠倉做空蘋果和特斯拉獲利57億",
+          "note": "网上传播说法"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「假新闻→但家族必有小动作」的加权判断，并拆解逆共识收割机制。",
+      "patterns": [
+        "加权判断展示",
+        "收割机制拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "巫師更偏向於串執的家族成員必然有小動作",
+          "note": "更偏向必然有小动作"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "因為資本市場原來已經有一種共識了",
+          "note": "市场已有共识时"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "其實沒有收割別人的機會",
+          "note": "没有收割别人机会"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当乐子消费者+需保卫现金的普通人，并包容观点不同者。",
+      "patterns": [
+        "乐子消费者",
+        "现金保卫普通人",
+        "包容异见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "看乐子就完事"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "做好现金保卫战",
+          "note": "现金保卫战"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "记得是观点不同的人",
+          "note": "观点不同的人"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "57亿/4亿获利、涨2%、24小时停战、退出世卫/巴黎协定、万斯用词等锚点。",
+      "patterns": [
+        "获利数字",
+        "嘴炮清单锚",
+        "万斯用词锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "親女去庫時代通過老鼠倉做空蘋果和特斯拉獲利57億",
+          "note": "获利57亿"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "然後自己的股價當日收盤上漲的百分之二",
+          "note": "收盘上涨百分之二"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "還有退出世衛組織",
+          "note": "退出世卫组织"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场乐子中密→机制段高密→嘴炮清单中密→生活劝告低密收束。",
+      "patterns": [
+        "机制高密中段",
+        "劝告低密收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "就是逆著市場共識來一個極端超易期的政策",
+          "note": "机制高密"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "比如說程度要讓我無停戰",
+          "note": "清单中密"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "做好自己的生活才是真的",
+          "note": "生活低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "案例→机制解释→清单枚举→劝告收束；转折词「但/当然/而」驱动。",
+      "patterns": [
+        "案例到机制",
+        "清单枚举",
+        "但/当然转折"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "但调查完"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "而相反的",
+          "note": "而相反的"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "劝告收束"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "乐子猎手+假新闻审查员+自嘲狠人，结尾变温和生活教练。",
+      "patterns": [
+        "乐子猎手",
+        "假新闻审查",
+        "自嘲转温和"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "隨後更大的勒子來源於串執老鼠倉",
+          "note": "乐子来源"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但在巫師調查完發現這很可能是個Fake News",
+          "note": "假新闻甄别"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "我都感谢你们能看完我的作品",
+          "note": "感谢看完"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "唱反调收割、天地板、打哪指哪、一地鸡毛、看乐子回归生活。",
+      "patterns": [
+        "唱反调",
+        "天地板",
+        "打哪指哪",
+        "一地鸡毛",
+        "乐子回归生活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "串執這幾次很會玩唱反調",
+          "note": "唱反调"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "天地板就是從跌很多一下變成漲很多",
+          "note": "天地板"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "串執是打哪直呢",
+          "note": "打哪指哪"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "看乐子就完事"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s3",
+            "s5",
+            "s7",
+            "s8",
+            "s13"
+          ],
+          "function": "hook_verify",
+          "note": "老鼠仓乐子+假新闻甄别"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s24",
+            "s26",
+            "s30"
+          ],
+          "function": "case_trade",
+          "note": "三小时改关税当日获利案例"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s38",
+            "s42",
+            "s48",
+            "s50"
+          ],
+          "function": "contrarian_harvest",
+          "note": "逆共识极端政策收割情绪"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s61",
+            "s65",
+            "s66"
+          ],
+          "function": "self_roast",
+          "note": "暗杀打偏阴谋论+自嘲骂错"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s80",
+            "s85",
+            "s94",
+            "s95"
+          ],
+          "function": "empty_threats",
+          "note": "嘴炮清单一地鸡毛"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s124",
+            "s136",
+            "s141",
+            "s145",
+            "s148"
+          ],
+          "function": "fun_to_life",
+          "note": "万斯乐子→看乐子回归生活"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "巫师自称"
+        },
+        {
+          "type": "discourse",
+          "form": "哈哈"
+        },
+        {
+          "type": "discourse",
+          "form": "哦"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "巫師的投行民工的DirtyWork支魂馬上就驚醒了",
+          "note": "巫师投行民工惊醒"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "老百姓吃苦你們跟這賺錢細節哈哈的",
+          "note": "赚钱细节哈哈"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "哦既继续回归生活为关税战贡献子单",
+          "note": "哦既继续回归生活"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "逆共识情绪收割拆解与「乐子消费→回归生活」收束可迁移；需弱化阴谋乐子、强化可核验机制步骤。",
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "就是逆著市場共識來一個極端超易期的政策",
+          "note": "逆共识机制可迁移"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "你看乐子就完事了",
+          "note": "乐子到生活收束可迁移"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "做好现金保卫战",
+          "note": "现金保卫战可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s35",
+    "s79",
+    "s141",
+    "s7",
+    "s83",
+    "s127",
+    "s13",
+    "s72",
+    "s61",
+    "s64",
+    "s5",
+    "s24",
+    "s84",
+    "s15",
+    "s48",
+    "s49",
+    "s17",
+    "s30",
+    "s95",
+    "s65",
+    "s66",
+    "s90",
+    "s145",
+    "s144",
+    "s148",
+    "s150",
+    "s6",
+    "s138",
+    "s151",
+    "s38",
+    "s40",
+    "s149",
+    "s23",
+    "s146",
+    "s46",
+    "s33",
+    "s8",
+    "s21",
+    "s26",
+    "s42",
+    "s50",
+    "s80",
+    "s85",
+    "s94",
+    "s124",
+    "s136",
+    "s29",
+    "s152"
+  ],
+  "fields_complete_25": true
+}

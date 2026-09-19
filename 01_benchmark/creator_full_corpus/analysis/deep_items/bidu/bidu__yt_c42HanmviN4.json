@@ -1,0 +1,1108 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_c42HanmviN4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=c42HanmviN4",
+  "source_sha256": "4c37fb316e082a0ec6a1e019869e2049459ce2f640e71340851c879df39983c5",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 61,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "端著一杯水走路怎麼這麼容易撒呢"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 2,
+      "snippet": "來,"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "歡迎地上,"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 15,
+      "snippet": "有人專門測過一杯水像這樣遙放,"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 14,
+      "snippet": "它的附有頻率通常在四個字附近"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "但您,"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "好,那麼扎又有人專門測過"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "人走路晃動的附有頻率,"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "大概是兩個字,"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "剛好是水住"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "搖的也就更起見了"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "就像你坐在秋千傻,"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "每次到回來,"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "我都在最高點推你一下,"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "你就會被越退越高"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "所以水住附有頻率的共震"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "就是端水走路容易撒的最培獲手"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "你穿行在高樓林立的城市"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "發現手裡的咖啡撒了一地"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "但也許在幾百萬年前"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 6,
+      "snippet": "你的祖先進化"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "除了兩項資之力心走的瞬間"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "這一切就已經注定了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "別生滑了,這視頻才放一半"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "對,看懂了水怎麼撒出來的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "破解方法就很簡單了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "因為-"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "手上是一般的一般的"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "在三角,猪龙藏龙"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "取出家中藏备的猪龙藏,"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "仔�. 监查"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "中南看出,"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "它内地上色舒水下侧清水,"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "在 中南看,"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "在耍,"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 14,
+      "snippet": "Commissioners,"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "在中南看,"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 11,
+      "snippet": "但你把杯子放在拖盘上,"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "你提真"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "提真拉壽走"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "欸?"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 12,
+      "snippet": "拖盤给它的力垂直于飞底,"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "水杯受到的切向力很小,"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "水就不容易"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 2,
+      "snippet": "撒出"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "你甚至可以用它提这杯水上楼梯,"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "真的非常有用,"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "就是有点疲惫,"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 10,
+      "snippet": "我们下期再见,合作,"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "可以的,可以的"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "痛点设问「端水为何易洒」开场，用固有频率实测数据立刻给科学钩子。",
+      "patterns": [
+        "痛点设问起",
+        "频率数据钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "端著一杯水走路怎麼這麼容易撒呢",
+          "note": "端水易洒问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "四赫兹附近"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "杯水≈4Hz→步行≈2Hz倍频共振→秋千推高类比→托盘改力方向破共振→上楼梯实用收。",
+      "patterns": [
+        "固有频率",
+        "倍频共振",
+        "秋千类比",
+        "托盘破共振"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "4Hz"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "大概是兩個字,",
+          "note": "2Hz"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以水住附有頻率的共震",
+          "note": "共振元凶"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "托盘垂直力"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你甚至可以用它提这杯水上楼梯,",
+          "note": "上楼梯"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "resonance_diagnosis",
+          "note": "频率测量与共振元凶"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "evolutionary_aside",
+          "note": "咖啡洒地+祖先直立旁白"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "asr_noise_gap",
+          "note": "中段ASR噪声塌陷"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61"
+          ],
+          "function": "tray_solution_close",
+          "note": "托盘解法与下期再见"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「所以…元凶」「别划走才一半」「看懂了破解就简单」诊断到解法转场。",
+      "patterns": [
+        "所以元凶转",
+        "别划走挽留",
+        "看懂破解转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "所以水住附有頻率的共震",
+          "note": "所以共振"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "别划走"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "對,看懂了水怎麼撒出來的",
+          "note": "看懂了"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "手持切向晃vs托盘法向力；走路2Hz vs水面4Hz倍频对照。",
+      "patterns": [
+        "手持/托盘受力对照",
+        "2Hz/4Hz倍频对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "大概是兩個字,",
+          "note": "走路2Hz"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "水面4Hz"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "托盘法向"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "水杯受到的切向力很小,",
+          "note": "切向很小"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场「为什么容易洒」定题；「欸？」制造解法揭晓停顿。",
+      "patterns": [
+        "开场因果问",
+        "欸停顿揭晓"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "端著一杯水走路怎麼這麼容易撒呢",
+          "note": "为什么洒"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "欸?",
+          "note": "欸"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "秋千最高点再推能量累积类比；托盘提水上楼梯生活实证。",
+      "patterns": [
+        "秋千能量类比",
+        "上楼梯实证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就像你坐在秋千傻,",
+          "note": "秋千"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "你就會被越退越高",
+          "note": "越推越高"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你甚至可以用它提这杯水上楼梯,",
+          "note": "上楼梯"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "共振落到4Hz/2Hz测值；破解落到托盘垂直力与切向力很小。",
+      "patterns": [
+        "共振→赫兹数",
+        "破解→托盘力方向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "4Hz"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "大概是兩個字,",
+          "note": "2Hz"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "垂直力"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言共振是元凶、托盘法「真的非常有用」。",
+      "patterns": [
+        "元凶断言",
+        "非常有用断言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "就是端水走路容易撒的最培獲手",
+          "note": "元凶"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "真的非常有用,",
+          "note": "非常有用"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「别划走视频才一半」打断命运旁白，拉回解题半场。",
+      "patterns": [
+        "旁白打断拉回",
+        "半场校正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "這一切就已經注定了",
+          "note": "注定旁白"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "别划走拉回"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "问句短起→频率数据中密→旁白抒情→噪声塌→托盘解法短句连打收。",
+      "patterns": [
+        "短问起",
+        "数据中密",
+        "抒情旁白",
+        "噪声塌",
+        "解法短打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "端著一杯水走路怎麼這麼容易撒呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "数据"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "你穿行在高樓林立的城市",
+          "note": "旁白"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "解法短"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "来"
+        },
+        {
+          "type": "filler",
+          "form": "好"
+        },
+        {
+          "type": "repair",
+          "form": "欸?"
+        },
+        {
+          "type": "closing_repeat",
+          "form": "可以的可以的"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "來,",
+          "note": "来"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "好,那麼扎又有人專門測過",
+          "note": "好那么"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "欸?",
+          "note": "欸"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "可以的,可以的",
+          "note": "可以的可以的"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "困惑吐槽→科学恍然→命运玩笑→挽留紧张→解法爽感→略疲惫告别。",
+      "patterns": [
+        "困惑→恍然→玩笑→挽留→爽感→疲惫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "端著一杯水走路怎麼這麼容易撒呢",
+          "note": "困惑"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "就是端水走路容易撒的最培獲手",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "挽留"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "真的非常有用,",
+          "note": "爽"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "就是有点疲惫,",
+          "note": "疲惫"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "解法有效→上楼梯加分→疲惫幽默降调→下期再见收。",
+      "patterns": [
+        "解法确认",
+        "幽默降调",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "真的非常有用,",
+          "note": "有用"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "就是有点疲惫,",
+          "note": "疲惫"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "我们下期再见,合作,",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "中段「别划走」防跳出；尾「下期再见」弱系列钩，无硬关注口令。",
+      "patterns": [
+        "别划走防跳出",
+        "下期再见弱钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "别划走"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "我们下期再见,合作,",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「欢迎地上」洒水玩笑、命运注定段、疲惫自嘲，短视频科普口播感。",
+      "patterns": [
+        "欢迎地上玩笑",
+        "命运旁白",
+        "疲惫自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "歡迎地上,",
+          "note": "欢迎地上"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "這一切就已經注定了",
+          "note": "注定"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "就是有点疲惫,",
+          "note": "疲惫"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段ASR严重损坏（猪龙藏龙/在中南看复读），解法段突然接上，中间演示丢失。",
+      "patterns": [
+        "中段ASR灾",
+        "原理演示缺失",
+        "复读噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "在三角,猪龙藏龙",
+          "note": "噪声"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "在中南看,",
+          "note": "在中南看复读"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "在中南看,",
+          "note": "噪声尾"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示测频率→对上步行频率→判定共振，再推改力方向破切向激励。",
+      "patterns": [
+        "测频诊断推理",
+        "改力方向解题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "有人專門測過一杯水像這樣遙放,",
+          "note": "专门测过"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以水住附有頻率的共震",
+          "note": "共振判定"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "水杯受到的切向力很小,",
+          "note": "切向很小"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当洒过咖啡的城市行人，用「你穿行高楼」第二人称代入。",
+      "patterns": [
+        "洒咖啡行人",
+        "第二人称城市代入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "你穿行在高樓林立的城市",
+          "note": "你穿行"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "發現手裡的咖啡撒了一地",
+          "note": "咖啡洒地"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "4Hz水面、2Hz步行、秋千最高点、托盘法向力、上楼梯场景。",
+      "patterns": [
+        "4Hz锚",
+        "2Hz锚",
+        "秋千锚",
+        "托盘力锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "4Hz"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "大概是兩個字,",
+          "note": "2Hz"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我都在最高點推你一下,",
+          "note": "最高点"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "托盘力"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场问低密→测频升→旁白降→噪声近零→托盘物理再升→告别降。",
+      "patterns": [
+        "问低",
+        "测频升",
+        "旁白降",
+        "噪声零",
+        "物理升",
+        "告别降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "测频升"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "在中南看,",
+          "note": "噪声零"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "物理升"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "我们下期再见,合作,",
+          "note": "降"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "因果短句链（测过→频率→刚好是）；「欸？」切断后接物理解释短句。",
+      "patterns": [
+        "测频因果短链",
+        "欸切断",
+        "物理短句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "有人專門測過一杯水像這樣遙放,",
+          "note": "测过"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "剛好是水住",
+          "note": "刚好是"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "欸?",
+          "note": "欸切"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "撒出",
+          "note": "撒出"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式生活物理老师：测数据+类比+一个小妙招，夹带命运玩笑。",
+      "patterns": [
+        "生活物理老师",
+        "测数据+类比",
+        "命运玩笑夹带"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "有人專門測過一杯水像這樣遙放,",
+          "note": "专门测"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就像你坐在秋千傻,",
+          "note": "秋千类比"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "這一切就已經注定了",
+          "note": "命运玩笑"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「4Hz对2Hz」「秋千最高点再推」「托盘垂直力」「别划走才一半」。",
+      "patterns": [
+        "4对2Hz",
+        "秋千再推",
+        "托盘垂直力",
+        "别划走"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它的附有頻率通常在四個字附近",
+          "note": "4Hz"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我都在最高點推你一下,",
+          "note": "最高点推"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "垂直力"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "别划走"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "生活痛点→测频共振→物理妙招骨架可迁移；需重录中段坏ASR并补演示。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "所以水住附有頻率的共震",
+          "note": "共振诊断"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "拖盤给它的力垂直于飞底,",
+          "note": "托盘解法"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "別生滑了,這視頻才放一半",
+          "note": "防划走"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s9",
+    "s16",
+    "s53",
+    "s57",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s54",
+    "s55",
+    "s56",
+    "s58",
+    "s59",
+    "s60",
+    "s61"
+  ],
+  "fields_complete_25": true
+}

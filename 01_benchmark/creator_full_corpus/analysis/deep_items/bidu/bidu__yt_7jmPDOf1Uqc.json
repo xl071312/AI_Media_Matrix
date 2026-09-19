@@ -1,0 +1,857 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_7jmPDOf1Uqc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=7jmPDOf1Uqc",
+  "source_sha256": "361c87384d74a55d6e640d0a2d118b2ae79d53ab59af6a5b81e2b9c98a886671",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 36,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "什么啊 口磨兔的泡泡就是这么好看"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "我当场放到二十倍食业"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 2,
+      "snippet": "快口"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "把口磨炒出汁水"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "做的满汉出泡泡"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "不是哥们 因为我没有"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 18,
+      "snippet": "但是没用的 因为我可以自己造一点泡泡"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 20,
+      "snippet": "气泡 气泡 气泡 气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "气泡 气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "气泡 气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "气泡 气泡 气泡 气泡"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 2,
+      "snippet": "气泡"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "在咖啡里丢一块儿方扛"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "小泡泡也会排成正楼边形"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "不过为什么泡泡都会排成正楼边形呢"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "这是因为泡泡之间会相互吸引"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "彼此尽量贴在一起"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 12,
+      "snippet": "当他们贴得最尽力的什么是"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "如果你和我一样富有肯定会发现"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "一个硬并周围"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "刚好可以尽尽的百六合硬并"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 14,
+      "snippet": "这就是我们小学二年级就学过的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "六角密队机"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "或者说评面原密排定理"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "对于服务很有研究的数字家"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "阿彼无正硬了"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "评面上原的罪密队机"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "就是这么六边形的样子"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "所以泡泡就自动排出了正六边形"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "理解了泡泡的排列"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 5,
+      "snippet": "你就会发现"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "大自然中的六边形"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 2,
+      "snippet": "无处"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 1,
+      "snippet": "在"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "口蘑吐泡泡好看直呼开场，特写夸张后自己造泡泡接棒。",
+      "patterns": [
+        "好看惊叹钩子",
+        "自己造泡泡接棒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "泡泡好看"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我当场放到二十倍食业",
+          "note": "二十倍"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但是没用的 因为我可以自己造一点泡泡",
+          "note": "自己造泡泡"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "蘑菇泡泡好看→咖啡方糖排正六边→相互吸引密堆积→六角密堆积定理→自然六边形无处不在。",
+      "patterns": [
+        "现象→咖啡方糖→密堆积→定理→自然迁移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "蘑菇泡泡"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "小泡泡也会排成正楼边形",
+          "note": "正六边形"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这是因为泡泡之间会相互吸引",
+          "note": "相互吸引"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "六角密堆积"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "无处不在"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "mushroom_hook",
+          "note": "蘑菇泡泡视觉钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "coffee_hex",
+          "note": "咖啡方糖六边形与提问"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "packing_theorem",
+          "note": "密堆积定理解释"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "nature_close",
+          "note": "自然六边形收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "不过为什么、这是因为、所以泡泡就自动完成因果链。",
+      "patterns": [
+        "不过为什么转折",
+        "这是因为解释",
+        "所以自动结果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "不过为什么"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这是因为泡泡之间会相互吸引",
+          "note": "这是因为"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以泡泡就自动排出了正六边形",
+          "note": "所以自动排出"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "自然蘑菇泡泡vs自己制造气泡；一枚硬币周围刚好六枚密铺直觉。",
+      "patterns": [
+        "自然vs人造泡泡",
+        "硬币六邻密铺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "自然蘑菇"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但是没用的 因为我可以自己造一点泡泡",
+          "note": "自己造"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "刚好可以尽尽的百六合硬并",
+          "note": "刚好六枚"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "为什么泡泡都排成正六边形核心驱动定理段。",
+      "patterns": [
+        "核心排列设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "为何正六边"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "咖啡丢方糖、硬币六邻、阿基米德平面最密堆积。",
+      "patterns": [
+        "咖啡方糖例",
+        "硬币例",
+        "数学家命名例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "在咖啡里丢一块儿方扛",
+          "note": "咖啡方糖"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一个硬并周围",
+          "note": "一枚硬币周围"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "阿彼无正硬了",
+          "note": "阿基米德"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "密堆积定理落成硬币六邻与泡泡自动排六边形。",
+      "patterns": [
+        "硬币具象定理",
+        "自动排列具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "刚好可以尽尽的百六合硬并",
+          "note": "刚好六枚"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以泡泡就自动排出了正六边形",
+          "note": "自动正六边"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言贴得最紧就是六边形；小学就学过的六角密堆积。",
+      "patterns": [
+        "最紧即六边",
+        "小学知识连接"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "这就是我们小学二年级就学过的",
+          "note": "小学二年级学过"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就是这么六边形的样子",
+          "note": "就是六边形样子"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "不是哥们因为我没有，对无法炒蘑菇出汁的玩笑式自我辩白。",
+      "patterns": [
+        "玩笑式自我辩白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "不是哥们 因为我没有",
+          "note": "不是哥们因为我没有"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "惊叹短句→气泡叠词洗脑→提问降速→定理中速→自然收束短促。",
+      "patterns": [
+        "叠词洗脑",
+        "提问降速",
+        "短促收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "气泡 气泡 气泡 气泡 气泡 气泡 气泡",
+          "note": "气泡叠词"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "提问降速"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "无处"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在",
+          "note": "在"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "气泡气泡"
+        },
+        {
+          "type": "discourse",
+          "form": "不过"
+        },
+        {
+          "type": "discourse",
+          "form": "所以"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "气泡 气泡 气泡 气泡 气泡 气泡 气泡",
+          "note": "气泡重复"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "不过为什么"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以泡泡就自动排出了正六边形",
+          "note": "所以泡泡"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "视觉愉悦→玩闹造泡→求知疑问→定理恍然→自然赞叹。",
+      "patterns": [
+        "视觉愉悦",
+        "求知",
+        "恍然赞叹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "好看愉悦"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "求知"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以泡泡就自动排出了正六边形",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "大自然中的六边形",
+          "note": "自然六边"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从蘑菇泡泡理解到大自然六边形无处不在升华收束。",
+      "patterns": [
+        "自然无处不在升华"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "理解了泡泡的排列",
+          "note": "理解了排列"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "大自然中的六边形",
+          "note": "大自然六边形"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "无处"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA，知识升华即结束。",
+      "patterns": [
+        "无硬CTA升华收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "无处不在收"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "不是哥们、气泡叠词表演显短视频口语；部分ASR错字。",
+      "patterns": [
+        "不是哥们",
+        "叠词表演",
+        "ASR错字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "不是哥们 因为我没有",
+          "note": "不是哥们"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "气泡 气泡 气泡 气泡 气泡 气泡 气泡",
+          "note": "气泡叠词"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "小泡泡也会排成正楼边形",
+          "note": "正楼边形错字"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字；表面张力等物理机制未讲；结尾被截断。",
+      "patterns": [
+        "ASR错字",
+        "物理机制薄",
+        "结尾截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "小泡泡也会排成正楼边形",
+          "note": "正楼边形"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "密队机"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在",
+          "note": "在字截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从好看→自造→提问→硬币直觉→定理命名的发现链较清晰。",
+      "patterns": [
+        "发现链外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但是没用的 因为我可以自己造一点泡泡",
+          "note": "自己造"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "如果你和我一样富有肯定会发现",
+          "note": "富有观察"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "如果你和我一样拉齐观察者，降低数学距离感。",
+      "patterns": [
+        "和我一样观察者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "如果你和我一样富有肯定会发现",
+          "note": "如果你和我一样"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "口蘑泡泡、咖啡方糖、硬币六邻、六角密堆积。",
+      "patterns": [
+        "蘑菇锚",
+        "咖啡锚",
+        "硬币锚",
+        "定理名锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "蘑菇泡泡"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "在咖啡里丢一块儿方扛",
+          "note": "咖啡方糖"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "刚好可以尽尽的百六合硬并",
+          "note": "六枚硬币"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "六角密堆积"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "视觉低密→叠词无效密→提问后定理中高密→升华低密。",
+      "patterns": [
+        "叠词低信息",
+        "定理段升密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "气泡 气泡 气泡 气泡 气泡 气泡 气泡",
+          "note": "叠词低信息"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "定理升密"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "升华降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "惊叹→造泡→提问→吸引解释→硬币直觉→定理→自然迁移。",
+      "patterns": [
+        "惊叹-问-定理-迁移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "惊叹"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "定理"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "玩闹型数理科普：用生活泡泡带出密堆积，语气俏皮。",
+      "patterns": [
+        "玩闹带数学",
+        "俏皮衔接"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "不是哥们 因为我没有",
+          "note": "俏皮辩白"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这就是我们小学二年级就学过的",
+          "note": "小学知识桥"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "蘑菇吐泡泡、正六边形、硬币六邻、大自然六边形无处不在。",
+      "patterns": [
+        "蘑菇视觉",
+        "硬币六邻",
+        "无处不在金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "蘑菇泡泡"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "刚好可以尽尽的百六合硬并",
+          "note": "六邻"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "无处",
+          "note": "无处不在"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "生活奇观→设问→密堆积定理→自然迁移的短数理科普骨架可直接用于观宇冷知识短视频。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "什么啊 口磨兔的泡泡就是这么好看",
+          "note": "奇观钩子"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "不过为什么泡泡都会排成正楼边形呢",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "六角密队机",
+          "note": "定理锚"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s7",
+    "s16",
+    "s18",
+    "s25",
+    "s35",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36"
+  ],
+  "fields_complete_25": true
+}

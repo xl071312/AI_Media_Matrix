@@ -1,0 +1,997 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_qQe8xkYu8S4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=qQe8xkYu8S4",
+  "source_sha256": "f8827a48c816b240c6667f3b066975fcfdbc388ef013b6d415d8457d652d9d27",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "fields": {
+    "opening_move": {
+      "summary": "边充边玩伤电池？回扣两年前快充结论不会，再堆出高温无线最后一格等一系列焦虑问题。",
+      "patterns": [
+        "问题标题开场",
+        "旧结论回扣",
+        "焦虑问题堆叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "邊充電邊玩手機 會傷電池？",
+          "note": "标题问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "不會",
+          "note": "旧结论"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "彷彿大家不找到一種傷電池的辦法就不會安心",
+          "note": "焦虑堆"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "设正常组与边充边玩组循环→多场景16机→193天收黄瓜证明时长→100%那格真更耐用因阈值→1%不稳→旧电池勿扔土埋实验→中插电商CTA。",
+      "patterns": [
+        "对照组设计",
+        "长时种植证明",
+        "100%阈值",
+        "1%不稳",
+        "环保实验",
+        "电商CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我們首先準備了4台手機作為正常充電組",
+          "note": "对照组"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們另外準備了4台手機作為邊充邊玩組",
+          "note": "实验组"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "时长证明"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "100%验证"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "也許會瞬間關機",
+          "note": "1%不稳"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "放進了土里",
+          "note": "土埋"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "问题堆叠与再开长测动机",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "实验装置与自费购买声明",
+          "note": "方法"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "193天76黄瓜时间证明",
+          "note": "时长"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137"
+          ],
+          "function": "电量格时长实测与阈值解释",
+          "note": "百分比谜题"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237"
+          ],
+          "function": "旧电池回收土埋与重复电商口播",
+          "note": "环保+CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "在获得结论后；为了解答；除此以外；看来；至于1%则有所不同。",
+      "patterns": [
+        "结论后递进",
+        "为了解答",
+        "除此以外",
+        "看来核验",
+        "至于转支"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "在獲得了這個結論後",
+          "note": "结论后"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "為瞭解答這些問題",
+          "note": "为了解答"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "除此以外",
+          "note": "除此以外"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "看来"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "至於1%到關機這一格電量",
+          "note": "至于"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "快充不伤对边充边玩未知；正常组对边充边玩组；99%-1%均匀对100%-99%耐用；1%不稳定对照。",
+      "patterns": [
+        "旧结论对新问题",
+        "对照组",
+        "格时长对照",
+        "1%对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不會",
+          "note": "旧不伤"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "邊充電邊玩手機傷電池嗎",
+          "note": "新问题"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "每一格電量的平均持續時間大約在110秒左右",
+          "note": "均匀"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "而100%到99%卻基本能夠持續350秒以上",
+          "note": "耐用"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "边充边玩伤吗；高温无线伤吗；最后一格久吗；健康数据准吗；旧电池为何不能扔垃圾桶。",
+      "patterns": [
+        "伤电池系列问",
+        "最后一格问",
+        "健康数据问",
+        "环保问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "邊充電邊玩手機 會傷電池？",
+          "note": "主问"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "這個電池健康的數據真的准嗎",
+          "note": "健康问"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "真的是這樣嗎？",
+          "note": "核实问"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "不能直接扔進垃圾桶呢",
+          "note": "环保问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "继电器5%-100%循环；热柜无线场景；76根黄瓜；15次测试110秒vs350秒；土埋化学材料。",
+      "patterns": [
+        "继电器循环例",
+        "场景矩阵例",
+        "黄瓜时长例",
+        "秒级数据例",
+        "土埋例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "繼電器會閉合電路開始充電",
+          "note": "继电器"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "黄瓜"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "大約在110秒左右",
+          "note": "110秒"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "持續350秒以上",
+          "note": "350秒"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "放進了土里",
+          "note": "土埋"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "伤电池抽象落到对照组App放电；时间流逝落到种植物收黄瓜；百分比抽象落到秒级记录与阈值。",
+      "patterns": [
+        "伤→对照组",
+        "时间→黄瓜",
+        "百分比→秒与阈值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "模擬平時邊充邊玩時的耗電場景",
+          "note": "场景具象"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我們還是種了一些植物",
+          "note": "植物"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "可能設置了更寬的閾值",
+          "note": "阈值具象"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "不会；感觉完全正确；并没有长很多；最稳妥尽快充电。",
+      "patterns": [
+        "不会斩断",
+        "完全正确",
+        "没有长很多",
+        "最稳妥建议"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不會",
+          "note": "斩断"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "正确"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "並沒有長很多",
+          "note": "否定夸张"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "但最穩妥的辦法還是盡快接上充電器",
+          "note": "建议"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认大家感觉100%耐用正确，再澄清1%并不稳定，修正单一神话。",
+      "patterns": [
+        "承认体感",
+        "澄清1%不稳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "承认"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "並沒有長很多",
+          "note": "澄清"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "也許會瞬間關機",
+          "note": "修正神话"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "问题连珠加速，方法段中速说明，黄瓜彩蛋顿挫，秒级数据放慢，CTA口播重复加速。",
+      "patterns": [
+        "问题连珠",
+        "方法中速",
+        "彩蛋顿挫",
+        "数据放慢",
+        "CTA重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "邊充電邊玩手機傷電池嗎",
+          "note": "连珠"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "彩蛋"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "大約在110秒左右",
+          "note": "数据慢"
+        },
+        {
+          "sentence_id": "s230",
+          "snippet": "可以搜索抖音自營超級店慶",
+          "note": "CTA"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "焦虑提问→实验认真→黄瓜幽默→数据爽感→1%紧张→回收严肃→广告插入。",
+      "patterns": [
+        "焦虑",
+        "认真",
+        "幽默",
+        "爽感",
+        "紧张",
+        "严肃",
+        "广告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "彷彿大家不找到一種傷電池的辦法就不會安心",
+          "note": "焦虑"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "幽默"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "爽"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "也許會瞬間關機",
+          "note": "紧张"
+        },
+        {
+          "sentence_id": "s221",
+          "snippet": "128g存儲的iPhone 16 Pro",
+          "note": "广告"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场伤电池焦虑，中段用数据安抚体感，收束环保土埋与购机补贴，实验系列感闭环。",
+      "patterns": [
+        "焦虑开场",
+        "数据安抚",
+        "环保+购机收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "邊充電邊玩手機 會傷電池？",
+          "note": "开场"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "安抚"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "不能直接扔進垃圾桶呢",
+          "note": "环保收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "评论区链接抖音自营店庆，iPhone 16 Pro 7999改5499，重复两遍强电商转化。",
+      "patterns": [
+        "评论区链接",
+        "价格对比",
+        "重复口播强转化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s224",
+          "snippet": "點擊評論區的鏈接",
+          "note": "评论区"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "原價7999",
+          "note": "原价"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "現在只需要5499",
+          "note": "现价"
+        },
+        {
+          "sentence_id": "s233",
+          "snippet": "現在只需要5499",
+          "note": "重复"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自费购买声明；种黄瓜见证时间；快捷指令每5秒记录；充电头网朋友引述，工程细节强。",
+      "patterns": [
+        "自费声明",
+        "黄瓜彩蛋",
+        "快捷指令细节",
+        "朋友引述"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "為我們在官方渠道自費購買",
+          "note": "自费"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "黄瓜"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "每5秒鐘在文本里記錄一次當前的時間和電量",
+          "note": "5秒"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "充電頭網的朋友告訴我們",
+          "note": "引述"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段结果截断致边充边玩主结论不在窗口；电商口播机械重复；环保实验未给结果。",
+      "patterns": [
+        "主结论截断",
+        "口播重复",
+        "实验无果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "除此以外",
+          "note": "截断入口"
+        },
+        {
+          "sentence_id": "s228",
+          "snippet": "但如果你最近",
+          "note": "重复口播"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "又種了一些植物",
+          "note": "无果铺垫"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示对照组设计、自费、循环逻辑、秒级记录与阈值解释的完整方法外露。",
+      "patterns": [
+        "对照组外露",
+        "秒级记录",
+        "阈值解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我們首先準備了4台手機作為正常充電組",
+          "note": "对照"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "每5秒鐘在文本里記錄一次當前的時間和電量",
+          "note": "记录"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "可能設置了更寬的閾值",
+          "note": "阈值"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准被电池焦虑困扰的手机用户，用大家好奇、大家感觉验证体感同盟。",
+      "patterns": [
+        "焦虑用户",
+        "大家好奇",
+        "体感同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "有更多的朋友好奇",
+          "note": "朋友好奇"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "彷彿大家不找到一種傷電池的辦法就不會安心",
+          "note": "大家焦虑"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "体感同盟"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "16部机旧测、24部语境、4+4组、193天76黄瓜、110秒vs350秒、5499补贴价。",
+      "patterns": [
+        "机数锚",
+        "天数黄瓜锚",
+        "秒级锚",
+        "补贴价锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "在兩年前我們拆了16部手機",
+          "note": "16部"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "在193天之後",
+          "note": "193天"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "76"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "持續350秒以上",
+          "note": "350秒"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "現在只需要5499",
+          "note": "5499"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "问题低密→方法中高密→黄瓜低密彩蛋→秒级数据高密→阈值解释中密→CTA低密重复。",
+      "patterns": [
+        "问题低密",
+        "方法高密",
+        "彩蛋低密",
+        "数据高密",
+        "CTA低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "邊充電邊玩手機 會傷電池？",
+          "note": "低密问"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "繼電器會閉合電路開始充電",
+          "note": "方法密"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "彩蛋"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "大約在110秒左右",
+          "note": "数据密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句连珠后方法长句，黄瓜短句顿挫，数据并列对比，CTA模板句重复。",
+      "patterns": [
+        "问句连珠",
+        "方法长句",
+        "短顿挫",
+        "模板重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "邊充電邊玩手機傷電池嗎",
+          "note": "问连"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "如此反復循環 讓手機充放電",
+          "note": "方法"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "短顿"
+        },
+        {
+          "sentence_id": "s230",
+          "snippet": "可以搜索抖音自營超級店慶",
+          "note": "模板"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "工程极客+温和安抚：敢自费长测，敢用黄瓜计量时间，对体感先肯定再精细修正。",
+      "patterns": [
+        "工程极客",
+        "黄瓜计量",
+        "先肯后修"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "為我們在官方渠道自費購買",
+          "note": "自费极客"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "黄瓜"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "看來大家的感覺完全正確",
+          "note": "先肯"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "並沒有長很多",
+          "note": "后修"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "边充边玩伤电池？；不会；76根黄瓜；110秒对350秒；阈值提前显示100%。",
+      "patterns": [
+        "标题问",
+        "不会",
+        "黄瓜",
+        "秒级对比",
+        "阈值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "邊充電邊玩手機 會傷電池？",
+          "note": "标题"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "不會",
+          "note": "不会"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "黄瓜"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "提前顯示100%",
+          "note": "阈值"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "旧结论回扣+对照组长测+生活彩蛋计量时间+体感核验+阈值解释，观屿数码实验视频可直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不會",
+          "note": "旧结论回扣可复用"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們另外準備了4台手機作為邊充邊玩組",
+          "note": "对照可复用"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "76根黃瓜",
+          "note": "彩蛋计量可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237"
+  ],
+  "fields_complete_25": true
+}

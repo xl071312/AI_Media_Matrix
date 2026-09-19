@@ -1,0 +1,1073 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_m5tWy90A2_w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=m5tWy90A2_w",
+  "source_sha256": "87d7d4ab7bb4d288d972e4184b0cf727d3c91e8e1e0a512c9cb7fc6692fad4fe",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 56,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "是我們公司"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "專門餵口香糖的員工"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "小發"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "在我們前兩天"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "發佈的視頻裡面"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "他百發百中"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 3,
+      "snippet": "但其實"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "也確實百發百中"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "今天"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "就帶大家看看"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "小發這些神奇的鏡頭"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "到底都是怎麼拍的"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "比如這個"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "我遠距離接住口香糖"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "大家歡呼的鏡頭"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "這個小發"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "打倒撲克牌的鏡頭"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "最難的事情"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "就是把撲克牌"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "給搭起來"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "太難了"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "我放棄了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "這個絕對是不可能的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "還有這個小發"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "給三個人"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "同時餵口香糖的鏡頭"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "我們從天亮"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "拍到了天黑"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 4,
+      "snippet": "這麼晚了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "還在上班"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 2,
+      "snippet": "終於"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "讓大家都吃到了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 3,
+      "snippet": "口香糖"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "我們還做了一個"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "放了很多小磚塊的板子"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "我們想讓小發"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "在這個板子上"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "打出一個大拇指"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "但他始終"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "沒有學會這個技能"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "倒是學會了"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "怎麼逗我們工作室的小貓"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "芒果"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "那段時間"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "從大家的表情中"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "就能猜到小發"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "這一天的表現怎麼樣"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "只要某個角落"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "傳來歡呼聲"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 6,
+      "snippet": "就知道他一定"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "又學會新技能了"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 2,
+      "snippet": "最後"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 7,
+      "snippet": "還是想感謝小發"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "為工作室帶來了一段"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "非常快樂的時光"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "先介绍「专门喂口香糖的员工小发」+前作百发百中，再预告揭秘神奇镜头怎么拍。",
+      "patterns": [
+        "角色介绍钩子",
+        "揭秘预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "專門餵口香糖的員工",
+          "note": "餵口香糖的員工"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "小發",
+          "note": "小發"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他百發百中",
+          "note": "百發百中"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "到底都是怎麼拍的",
+          "note": "怎麼拍的"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "介绍小发→揭秘接口香糖/打倒扑克→搭牌失败自嘲→三人同喂辛苦→砖块大拇指失败改逗猫→欢呼学技能→感谢收束。",
+      "patterns": [
+        "揭秘镜头链",
+        "失败反差",
+        "感谢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我遠距離接住口香糖",
+          "note": "接住口香糖"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "打倒撲克牌的鏡頭",
+          "note": "打倒撲克牌"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "我放棄了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "同時餵口香糖的鏡頭",
+          "note": "同時餵口香糖"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "沒有學會這個技能",
+          "note": "沒有學會"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝小發"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "intro_hook",
+          "note": "介绍小发与百发百中钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "shot_reveals",
+          "note": "接口香糖与打倒扑克镜头揭秘"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "hard_shoots",
+          "note": "三人同喂与天亮到天黑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44"
+          ],
+          "function": "fail_cat",
+          "note": "砖块大拇指失败与逗猫芒果"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "cheer_thanks",
+          "note": "表情猜表现+欢呼学技能+感谢"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但其實」确认；「比如這個」切镜头例；「還有這個」并列切；「最後」收束感谢。",
+      "patterns": [
+        "但其實确认",
+        "比如這個切例",
+        "還有這個并列",
+        "最後收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "但其實",
+          "note": "但其實"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "比如這個",
+          "note": "比如這個"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "還有這個小發",
+          "note": "還有這個"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "最後",
+          "note": "最後"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "百发百中神话vs搭牌放弃；想教大拇指vs只会逗猫；从天亮拍到天黑的辛苦vs终于吃到的轻松。",
+      "patterns": [
+        "神话/失败",
+        "技能目标/逗猫",
+        "辛苦/终于"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "也確實百發百中",
+          "note": "確實百發百中"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "我放棄了"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "沒有學會這個技能",
+          "note": "沒有學會"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "怎麼逗我們工作室的小貓",
+          "note": "逗小貓"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們從天亮",
+          "note": "從天亮拍到天黑"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「到底都是怎麼拍的」总揭秘问；其余用陈述推进，少连续追问。",
+      "patterns": [
+        "揭秘总问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "到底都是怎麼拍的",
+          "note": "怎麼拍的"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "远距离接口香糖欢呼；打倒扑克；三人同喂；砖块板打大拇指；逗猫芒果。",
+      "patterns": [
+        "接糖例",
+        "扑克例",
+        "三人喂例",
+        "砖块例",
+        "逗猫例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我遠距離接住口香糖",
+          "note": "接住口香糖"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "打倒撲克牌的鏡頭",
+          "note": "打倒撲克牌"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "同時餵口香糖的鏡頭",
+          "note": "同時餵口香糖"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "打出一個大拇指",
+          "note": "打出一個大拇指"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "芒果",
+          "note": "芒果"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「神奇镜头」落到接糖/扑克/三人喂具体动作；「表现好坏」落到角落欢呼声可猜。",
+      "patterns": [
+        "神奇→具体镜头",
+        "表现→欢呼声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "小發這些神奇的鏡頭",
+          "note": "神奇的鏡頭"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我遠距離接住口香糖",
+          "note": "接住口香糖"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "傳來歡呼聲",
+          "note": "傳來歡呼聲"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定百发百中、搭牌太难放弃、绝对不可能、始终没学会大拇指。",
+      "patterns": [
+        "百发百中断定",
+        "不可能判断",
+        "没学会断定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "也確實百發百中",
+          "note": "確實百發百中"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "這個絕對是不可能的",
+          "note": "絕對是不可能的"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "沒有學會這個技能",
+          "note": "沒有學會"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「但其實也確實百發百中」对前作夸张的半确认；搭牌「我放棄了」现场认输。",
+      "patterns": [
+        "半确认修正",
+        "现场认输"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "但其實",
+          "note": "但其實"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也確實百發百中",
+          "note": "也確實百發百中"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "我放棄了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短名片式介绍→镜头例短切→失败自嘲急停→辛苦长拍→逗猫轻松→感谢慢收。",
+      "patterns": [
+        "短切镜头",
+        "自嘲急停",
+        "辛苦长拍",
+        "感谢慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "小發",
+          "note": "小發短名"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄急停"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們從天亮",
+          "note": "天亮天黑"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇介绍→揭秘兴奋→搭牌挫败自嘲→三人喂疲惫→逗猫暖萌→感谢温暖收。",
+      "patterns": [
+        "好奇",
+        "兴奋",
+        "挫败",
+        "疲惫",
+        "暖萌",
+        "感谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "小發這些神奇的鏡頭",
+          "note": "神奇"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "還在上班",
+          "note": "還在上班"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "怎麼逗我們工作室的小貓",
+          "note": "逗貓"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "非常快樂的時光",
+          "note": "快樂的時光"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从介绍员工小发回到感谢他带来快乐时光，闭环工作室人物片。",
+      "patterns": [
+        "人物感谢闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "小發",
+          "note": "小發开"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝小發"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "非常快樂的時光",
+          "note": "快樂的時光"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；以感谢与快乐时光情感收束，软性完播/人设维系。",
+      "patterns": [
+        "感谢软收无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "非常快樂的時光",
+          "note": "快樂的時光"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "工作室员工外号、现场放弃搭牌、逗猫芒果、角落欢呼猜表现，强生活现场感。",
+      "patterns": [
+        "员工外号",
+        "现场放弃",
+        "逗猫",
+        "欢呼猜表现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "小發",
+          "note": "小發"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "芒果",
+          "note": "芒果"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "傳來歡呼聲",
+          "note": "歡呼聲"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "揭秘偏浅、少技术参数；结构为镜头串烧，论点弱；品牌/制作成本未交代。",
+      "patterns": [
+        "揭秘浅",
+        "串烧论点弱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "比如這個",
+          "note": "比如這個串烧"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "還有這個小發",
+          "note": "還有這個"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "想打大拇指→始终没学会→转写学会逗猫，暴露目标失败后的叙事改道。",
+      "patterns": [
+        "目标失败改道"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "我們想讓小發",
+          "note": "想讓小發"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "沒有學會這個技能",
+          "note": "沒有學會"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "倒是學會了",
+          "note": "倒是學會了"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认观众看过前作百发百中，带「大家」看幕后，把听众当工作室围观粉。",
+      "patterns": [
+        "前作知情粉",
+        "带大家看幕后"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "發佈的視頻裡面",
+          "note": "發佈的視頻裡面"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "就帶大家看看",
+          "note": "帶大家看看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "小发；接口香糖；扑克牌；三人同喂；砖块板大拇指；猫芒果；天亮到天黑。",
+      "patterns": [
+        "人名锚",
+        "镜头物件锚",
+        "时间锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "小發",
+          "note": "小發"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "就是把撲克牌",
+          "note": "撲克牌"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "放了很多小磚塊的板子",
+          "note": "小磚塊"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "芒果",
+          "note": "芒果"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "介绍中密→镜头例中密罗列→失败段低密情绪→辛苦段中密→感谢低密收。",
+      "patterns": [
+        "镜头中密",
+        "情绪低密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我遠距離接住口香糖",
+          "note": "接糖密"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄低密"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "介绍→预告揭秘→镜头例并列→失败插曲→辛苦插曲→失败转逗猫→欢呼规律→感谢。",
+      "patterns": [
+        "介绍-揭秘-并列-插曲-转-收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "這",
+          "note": "介紹起"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "比如這個",
+          "note": "例起"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "失敗插"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "最後",
+          "note": "收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "温和工作室老板+自嘲导演：夸员工又坦然晒失败与加班，亲和纪录片口吻。",
+      "patterns": [
+        "老板亲和",
+        "自嘲导演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "還在上班",
+          "note": "還在上班"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「專門餵口香糖的員工」；「我放棄了」；「逗我們工作室的小貓芒果」；「快樂的時光」。",
+      "patterns": [
+        "喂口香糖员工",
+        "我放弃了",
+        "猫芒果",
+        "快乐时光"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "專門餵口香糖的員工",
+          "note": "餵口香糖"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "芒果",
+          "note": "芒果"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "非常快樂的時光",
+          "note": "快樂的時光"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「神奇镜头揭秘→失败反差→感谢员工」可改编幕后人物短片，需补技术细节并控制串烧节奏。",
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "到底都是怎麼拍的",
+          "note": "怎麼拍的"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我放棄了",
+          "note": "放棄"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "還是想感謝小發",
+          "note": "感謝"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s7",
+    "s13",
+    "s15",
+    "s18",
+    "s23",
+    "s27",
+    "s41",
+    "s54",
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s55",
+    "s56"
+  ],
+  "fields_complete_25": true
+}

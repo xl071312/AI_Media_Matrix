@@ -1,0 +1,988 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_gxilgGd5UHo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=gxilgGd5UHo",
+  "source_sha256": "ad5ea60fc9c47379810cb45d9bce40daa435b6f602699b1b9300dc19e3d7fa85",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 48,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 5,
+      "snippet": "就是一个床"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "床边站着四个冰马油"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "他们就这么看给你睡的觉"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 16,
+      "snippet": "这也是为什么到现在已经半夜三点了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "我还以为是选择"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "刚才是我以为是四个"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "其实这还有我"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "床头有一个冰马油坐在这"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "那个台灯就是他的头腿"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "大家仔细看那幅画"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "那个眼睛不觉得顺着花吗"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "好好看看我"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "好好看看我的眼"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "分布的样子"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "其中三个病满勇气"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "还挂着这个肚子都"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "这他妈今晚要怎么睡啊"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 1,
+      "snippet": "啊"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "这是房间的厕所"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "当你坐在这边拉屎的时候"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "这两个病满勇在"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "跟你加油古技儿呢"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "拉得出来吗"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 5,
+      "snippet": "洗脸的时候"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "一左右两个病满勇"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "洗澡的时候"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "你 你看着你就表情"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "你这是什么表情"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "上门挂着玉米"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "我看着很喜幸"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "打开里边一探"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "是个厨房"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "还有三个病满勇的屁股"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "也就是当才那个最可怕的房间"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "那三个病满勇的屁股"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "进去的之后"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "这边还有两个病满勇"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "在这儿谷掌"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 10,
+      "snippet": "计问我几点才能睡着呢"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "床内下面全是小病满勇"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "都没收"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "两个病满勇"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "两个病满勇"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 5,
+      "snippet": "三个病满勇"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "床内下面全是小病满勇"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "半夜三点直切床边四兵马俑盯着睡，用失眠场景开恐怖喜剧钩子。",
+      "patterns": [
+        "半夜三点钩",
+        "俑盯床",
+        "失眠入题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "就是一个床",
+          "note": "床起笔"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "床边站着四个冰马油",
+          "note": "四俑"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "三点失眠"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "床边四俑→床头台灯俑→厕所催屎→洗漱对视→厨房屁股→床下小俑，空间游标叠加无法睡。",
+      "patterns": [
+        "空间游标叠加恐怖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "床边站着四个冰马油",
+          "note": "床边"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这是房间的厕所",
+          "note": "厕所"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "厨房屁股"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "床内下面全是小病满勇",
+          "note": "床下"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21"
+          ],
+          "function": "bed_terror",
+          "note": "床与画眼失眠"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "bath_watch",
+          "note": "厕所洗漱被盯"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "kitchen_underbed",
+          "note": "厨房屁股与床下小俑"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这也是为什么/刚才我以为/其实还有/当你…的时候串联房间动线。",
+      "patterns": [
+        "这也是为什么",
+        "刚才以为",
+        "其实还有",
+        "当你…时候"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "为什么"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "刚才是我以为是四个",
+          "note": "刚才以为"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "其实这还有我",
+          "note": "其实还有"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "当你时候"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "以为四个vs其实还有床头；喜庆玉米门vs开门见俑屁股。",
+      "patterns": [
+        "以为vs其实",
+        "喜庆vs惊悚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "刚才是我以为是四个",
+          "note": "以为四"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "床头有一个冰马油坐在这",
+          "note": "其实床头"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我看着很喜幸",
+          "note": "喜庆"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "惊悚"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "怎么睡啊/拉得出来吗/什么表情/几点睡着，把生理不适问成笑点。",
+      "patterns": [
+        "怎么睡",
+        "拉得出吗",
+        "什么表情",
+        "几点睡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "这他妈今晚要怎么睡啊",
+          "note": "怎么睡"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "拉得出来吗",
+          "note": "拉得出吗"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你这是什么表情",
+          "note": "表情"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "计问我几点才能睡着呢",
+          "note": "几点睡"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以房间分区实物演示：台灯=头腿、厕所加油、洗脸左右俑、床下小俑清点。",
+      "patterns": [
+        "分区实物演示",
+        "清点个数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那个台灯就是他的头腿",
+          "note": "台灯头腿"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "跟你加油古技儿呢",
+          "note": "厕所加油"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一左右两个病满勇",
+          "note": "洗脸左右"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "两个病满勇",
+          "note": "清点"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "魔幻酒店抽象恐惧落地为半夜三点、拉屎被盯、俑屁股、床下全是小俑。",
+      "patterns": [
+        "三点",
+        "拉屎被盯",
+        "屁股",
+        "床下小俑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "三点"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "拉屎"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "屁股"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "最可怕的房间、他妈怎么睡、都没收，口语重判恐怖程度。",
+      "patterns": [
+        "最可怕",
+        "他妈怎么睡",
+        "都没收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "这他妈今晚要怎么睡啊",
+          "note": "怎么睡"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "也就是当才那个最可怕的房间",
+          "note": "最可怕"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "都没收",
+          "note": "没收"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "刚才以为四个→其实还有床头；喜庆开门→一探是厨房俑屁股。",
+      "patterns": [
+        "数量修正",
+        "预期打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "刚才是我以为是四个",
+          "note": "以为"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "其实这还有我",
+          "note": "其实还有"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我看着很喜幸",
+          "note": "喜庆"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "打开里边一探",
+          "note": "一探打脸"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短名词指物→重复你/好好看看制造压迫→分区短问→个数连读加速。",
+      "patterns": [
+        "短指物",
+        "重复压迫",
+        "个数加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "就是一个床",
+          "note": "短指"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "好好看看我",
+          "note": "重复压"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "两个病满勇",
+          "note": "个数"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "三个病满勇",
+          "note": "加速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_exclaim",
+          "form": "啊"
+        },
+        {
+          "type": "repair_like",
+          "form": "刚才是我以为"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "你 你"
+        },
+        {
+          "type": "discourse",
+          "form": "这也是为什么"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "啊",
+          "note": "啊"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "刚才是我以为是四个",
+          "note": "repair以为"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你 你看着你就表情",
+          "note": "你你重复"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "这也是为什么"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "失眠惊→画眼压迫→厕所生理尴尬爆笑→开门惊喜变惊悚→点数失控。",
+      "patterns": [
+        "惊→压迫→尴尬笑→惊悚失控"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "失眠惊"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "好好看看我的眼",
+          "note": "压迫"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "拉得出来吗",
+          "note": "尴尬笑"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "床内下面全是小病满勇",
+          "note": "失控"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头床边四俑盯睡，结尾床下全是小俑+点数，睡意彻底无解。",
+      "patterns": [
+        "床边到床下闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "床边站着四个冰马油",
+          "note": "开头床边"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "计问我几点才能睡着呢",
+          "note": "睡意无解"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "床内下面全是小病满勇",
+          "note": "床下收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无订阅硬CTA，靠大家仔细看那幅画的互动指引留人。",
+      "patterns": [
+        "画面指引互动",
+        "无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "大家仔细看那幅画",
+          "note": "大家看"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR冰马油/病满勇错词、他妈脏话、重复你你、生理厕所段，高度口播毛边。",
+      "patterns": [
+        "ASR错词",
+        "脏话",
+        "重复毛边"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "床边站着四个冰马油",
+          "note": "ASR错"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "这他妈今晚要怎么睡啊",
+          "note": "脏话"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你 你看着你就表情",
+          "note": "你你"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重错译兵马俑；信息几乎只有场景吐槽，无酒店背景/价格/位置。",
+      "patterns": [
+        "ASR崩坏",
+        "缺信息深度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "床边站着四个冰马油",
+          "note": "错译"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "其中三个病满勇气",
+          "note": "错译持续"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场即时推理：数俑→发现床头还有→推断最可怕房间→追问几点睡着。",
+      "patterns": [
+        "点数发现",
+        "推断最可怕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "刚才是我以为是四个",
+          "note": "点数"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "床头有一个冰马油坐在这",
+          "note": "发现更多"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "也就是当才那个最可怕的房间",
+          "note": "推断"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众拉进房间：大家仔细看/当你拉屎/你这表情，第二人称共遭罪。",
+      "patterns": [
+        "第二人称共遭",
+        "大家看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "大家仔细看那幅画",
+          "note": "大家"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "当你"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你这是什么表情",
+          "note": "你表情"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "半夜三点、四/五俑、台灯头腿、厕所、厨房屁股、床下小俑。",
+      "patterns": [
+        "三点",
+        "台灯",
+        "厕所厨房",
+        "床下"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "三点"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "那个台灯就是他的头腿",
+          "note": "台灯"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "屁股"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "全程低密场景吐槽，厕所段与点数段略抬密度，无知识峰值。",
+      "patterns": [
+        "低密吐槽",
+        "厕所/点数微峰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "这是房间的厕所",
+          "note": "厕所段"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "床内下面全是小病满勇",
+          "note": "点数峰"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "名词短句指物→重复压迫→分区当你…→反问→个数连读。",
+      "patterns": [
+        "短指物",
+        "重复",
+        "分区当你",
+        "个数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "就是一个床",
+          "note": "短指"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "当你"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "两个病满勇",
+          "note": "个数"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科学UP主放飞VLOG恐怖喜剧人设：敢说拉屎/屁股，用生理尴尬换笑。",
+      "patterns": [
+        "恐怖喜剧",
+        "生理尴尬换笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "这他妈今晚要怎么睡啊",
+          "note": "放飞"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "生理"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "屁股笑"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "半夜三点盯睡、厕所加油、俑屁股、床下全是小俑。",
+      "patterns": [
+        "三点盯睡",
+        "厕所加油",
+        "屁股",
+        "床下小俑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "三点"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "跟你加油古技儿呢",
+          "note": "加油"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "还有三个病满勇的屁股",
+          "note": "屁股"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "空间游标恐怖喜剧可改编轻VLOG，但ASR差、缺知识点，观宇需重录旁白并补信息。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这也是为什么到现在已经半夜三点了",
+          "note": "三点钩"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当你坐在这边拉屎的时候",
+          "note": "分区笑点"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "床内下面全是小病满勇",
+          "note": "叠加收"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s13",
+    "s14",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s28",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s36",
+    "s37",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48"
+  ],
+  "fields_complete_25": true
+}

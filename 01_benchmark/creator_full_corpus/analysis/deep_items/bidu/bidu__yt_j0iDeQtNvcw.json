@@ -1,0 +1,1170 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_j0iDeQtNvcw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=j0iDeQtNvcw",
+  "source_sha256": "ad1e486d391118a19e1a2ac0ee3cf63722bb16863bf1ddfef3b165f0ba8e4c52",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 71,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "哇哇哇哇"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 2,
+      "snippet": "哇哇"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 2,
+      "snippet": "哇哇"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "又沒有什麼好"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 2,
+      "snippet": "不得"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 2,
+      "snippet": "不得"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 1,
+      "snippet": "水"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "自從上一次我去CNB"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "馬永酒店拍了一個視頻"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "特別多別的酒店"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "進我去視睡"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 4,
+      "snippet": "最後選了"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "其中一個最貴的"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "走深空酒"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 2,
+      "snippet": "特別"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "特別特別"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 3,
+      "snippet": "就這樣"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "吹風機"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 4,
+      "snippet": "是帶色的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "耳朵"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "我要洗三個早"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "好高級的碗頭"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "拉完石之後還可以選擇"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 13,
+      "snippet": "馬上怎麼上面竟然拍G魚腹化"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "可是它放在後面的話"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "拉石的人要怎麼欣賞它這幅畫呢"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 3,
+      "snippet": "那種中"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "這是那個"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "我覺得特別面的這個牌子"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "JBL還不是的UBL說英雞 and"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 3,
+      "snippet": "換個牌"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "哇 so"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 3,
+      "snippet": "這噪音"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 2,
+      "snippet": "好聽"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "高音料 and"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 3,
+      "snippet": "低音存"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "總之就是一個通透"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 1,
+      "snippet": "小"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 3,
+      "snippet": "你就是"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": "嗯"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 1,
+      "snippet": "喝"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 1,
+      "snippet": "喝"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "這壽大的深空"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "我突然想要"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 4,
+      "snippet": "您一手撕"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "您看這盒特"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "它有長油丸"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "就像那種"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 5,
+      "snippet": "全圈的鵝鵝"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 6,
+      "snippet": "這盒特就這樣"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "這有88米"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "裡面的 too"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 12,
+      "snippet": "這 Commission"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 3,
+      "snippet": "全都是"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "下面还挺深的"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "直接深到底下了"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "这里风好大"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 6,
+      "snippet": "多保塔杯的图"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "连续哇哇感叹开场，先用惊呼铺满再交代选最贵深空酒店来睡。",
+      "patterns": [
+        "哇哇惊呼钩",
+        "最贵深空酒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "其中一個最貴的",
+          "note": "其中一个最贵的"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "走深空酒",
+          "note": "走深空酒"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "上次酒店视频引邀约→选最贵深空→巡回吹风机画作音响零食泳池→暗示坑题未在窗口说完。",
+      "patterns": [
+        "邀约起因",
+        "选最贵",
+        "巡回物件",
+        "坑题悬置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "自從上一次我去CNB",
+          "note": "自從上一次我去CNB"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "其中一個最貴的",
+          "note": "最貴的"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "下面还挺深的",
+          "note": "下面还挺深的"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "wow_and_setup",
+          "note": "惊呼+选最贵深空起因"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "room_tour_objects",
+          "note": "吹风机画作音响巡回"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71"
+          ],
+          "function": "food_pool_wind",
+          "note": "零食盒特+泳池风大收窗"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "自从上一次/最后选了/拉完之后还可以/可是它放在后面推进空间巡回。",
+      "patterns": [
+        "自从上一次",
+        "最后选了",
+        "拉完之后",
+        "可是反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "自從上一次我去CNB",
+          "note": "自從上一次"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "最後選了",
+          "note": "最後選了"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "拉完石之後還可以選擇",
+          "note": "拉完石之後還可以選擇"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "可是它放在後面的話",
+          "note": "可是它放在後面的話"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "豪华物件展示 vs 如厕如何欣赏画的荒诞反差；通透音响 vs 风大不适。",
+      "patterns": [
+        "豪华vs如厕赏画",
+        "通透vs风大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "馬上怎麼上面竟然拍G魚腹化",
+          "note": "拍G魚腹化畫"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "拉石的人要怎麼欣賞"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "總之就是一個通透",
+          "note": "總之就是一個通透"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "这里风好大"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "拉石如何欣赏画、换个牌等现场疑问，驱动吐槽。",
+      "patterns": [
+        "如何欣赏画",
+        "换牌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "要怎麼欣賞它這幅畫呢"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "換個牌",
+          "note": "換個牌"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "吹风机带色、高级碗头、JBL/UBL音响、鹅鹅零食、88米池深。",
+      "patterns": [
+        "吹风机",
+        "碗头",
+        "JBL",
+        "鹅鹅零食",
+        "池深"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "好高級的碗頭",
+          "note": "好高級的碗頭"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "全圈的鵝鵝",
+          "note": "全圈的鵝鵝"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "這有88米",
+          "note": "這有88米"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "最贵豪华→具体吹风机画作音响；深空主题→池深风大体感。",
+      "patterns": [
+        "豪华→物件清单",
+        "深空→池深风大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "是帶色的",
+          "note": "是帶色的"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "總之就是一個通透",
+          "note": "一個通透"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "直接深到底下了",
+          "note": "直接深到底下了"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "特别特别、好高级、通透、好听等即时评价，标题坑感未在文本坐实。",
+      "patterns": [
+        "特别特别",
+        "好高级",
+        "通透好听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "特別特別",
+          "note": "特別特別"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "好高級的碗頭",
+          "note": "好高級的碗頭"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "好聽",
+          "note": "好聽"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "總之就是一個通透",
+          "note": "通透"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "JBL还不是的UBL说英鸡式口误修正；又没有什么好的自我嘀咕。",
+      "patterns": [
+        "品牌口误修正",
+        "自我嘀咕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "又沒有什麼好",
+          "note": "又沒有什麼好"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL還不是的UBL"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "哇字机关枪开场，物件短句蹦跳，末段中英混杂碎切。",
+      "patterns": [
+        "哇字连发",
+        "物件蹦跳",
+        "碎切收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "裡面的 too",
+          "note": "裡面的 too"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "interjection",
+          "form": "哇"
+        },
+        {
+          "type": "filler",
+          "form": "嗯"
+        },
+        {
+          "type": "discourse",
+          "form": "总之就是"
+        },
+        {
+          "type": "repair",
+          "form": "JBL还不是"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "嗯",
+          "note": "嗯"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "總之就是一個通透",
+          "note": "總之就是一個通透"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL還不是的UBL"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "狂喜惊呼→物件猎奇→荒诞如厕笑→零食满足→风大收束微落。",
+      "patterns": [
+        "狂喜",
+        "猎奇",
+        "荒诞笑",
+        "满足",
+        "微落"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "是帶色的",
+          "note": "帶色的"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "怎麼欣賞畫"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "喝",
+          "note": "喝"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "风好大"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗口止于泳池风大，标题坑未闭环，属开放截断收。",
+      "patterns": [
+        "开放截断",
+        "坑题未闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "这里风好大"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "多保塔杯的图",
+          "note": "多保塔杯的图"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无显式关注点赞CTA，纯现场展示。",
+      "patterns": [
+        "无CTA展示流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "就這樣",
+          "note": "就這樣"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "這盒特就這樣",
+          "note": "這盒特就這樣"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "哇连发、如厕赏画毒舌、品牌口误、喝喝拟声，极强VLOG现场感。",
+      "patterns": [
+        "哇连发",
+        "如厕赏画",
+        "品牌口误",
+        "喝喝拟声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "拉石欣賞畫"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL口误"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "喝",
+          "note": "喝"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极差几乎不可读；标题坑点未在文本出现；信息碎片难成论证。",
+      "patterns": [
+        "ASR崩溃",
+        "坑点缺失",
+        "碎片难论证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "馬永酒店拍了一個視頻",
+          "note": "馬永酒店乱码"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "馬上怎麼上面竟然拍G魚腹化",
+          "note": "G魚腹化"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "這 Commission",
+          "note": "這 Commission"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场看到什么说什么：物件触发评价，遇画作立刻逻辑追问。",
+      "patterns": [
+        "见物评价",
+        "遇画追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "怎麼欣賞"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "我突然想要",
+          "note": "我突然想要"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当跟拍室友，一起惊呼逛房，少讲解多同步体验。",
+      "patterns": [
+        "跟拍室友",
+        "同步惊呼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "哇",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "哇",
+          "note": "哇"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "最贵深空酒、吹风机、JBL、鹅鹅零食、88米、风大。",
+      "patterns": [
+        "深空酒",
+        "吹风机",
+        "JBL",
+        "88米",
+        "风大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "走深空酒",
+          "note": "走深空酒"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "這有88米",
+          "note": "88米"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "风好大"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "惊呼低信息→起因中→物件枚举中高→零食池低碎。",
+      "patterns": [
+        "惊呼低",
+        "起因中",
+        "物件中高",
+        "收碎低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "自從上一次我去CNB",
+          "note": "上次酒店"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "JBL還不是的UBL說英雞 and",
+          "note": "JBL"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "风大"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "单字感叹主导，名词独句蹦床，偶发长疑问句刺入。",
+      "patterns": [
+        "单字感叹",
+        "名词独句",
+        "长疑问刺入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "哇",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "吹風機",
+          "note": "吹風機"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "要怎麼欣賞它這幅畫呢"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "嬉皮测评毕导：用夸张惊呼消费豪华，冷不丁毒舌拆穿摆设逻辑。",
+      "patterns": [
+        "夸张惊呼",
+        "毒舌拆摆设"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "拉石怎麼欣賞"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "總之就是一個通透",
+          "note": "通透"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "哇连发、最贵深空、如厕赏画、风好大。",
+      "patterns": [
+        "哇",
+        "最贵深空",
+        "如厕赏画",
+        "风大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇哇哇哇"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "其中一個最貴的",
+          "note": "最貴的"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "怎麼欣賞畫"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "风好大"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR严重损坏且窗口未呈现标题坑点论证，仅剩惊呼逛房碎片，观宇改编价值过低。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哇哇哇哇",
+          "note": "哇碎片"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "拉石的人要怎麼欣賞它這幅畫呢",
+          "note": "唯一完整毒舌"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这里风好大",
+          "note": "未闭环收"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s16",
+    "s17",
+    "s11",
+    "s22",
+    "s39",
+    "s68",
+    "s21",
+    "s48",
+    "s15",
+    "s30",
+    "s33",
+    "s32",
+    "s34",
+    "s46",
+    "s70",
+    "s40",
+    "s29",
+    "s59",
+    "s62",
+    "s24",
+    "s69",
+    "s19",
+    "s43",
+    "s7",
+    "s64",
+    "s50",
+    "s51",
+    "s71",
+    "s20",
+    "s61",
+    "s12",
+    "s65",
+    "s54",
+    "s35",
+    "s3"
+  ],
+  "fields_complete_25": true
+}

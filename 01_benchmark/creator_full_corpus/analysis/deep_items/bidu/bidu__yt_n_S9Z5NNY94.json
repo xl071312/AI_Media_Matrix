@@ -1,0 +1,1574 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_n_S9Z5NNY94",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=n_S9Z5NNY94",
+  "source_sha256": "e60f0d1d477f7d0b6a25196cd3bb765fec27358dd02d6a8b03ca136f598357ba",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 119,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "这一年做视频不容易啊"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "活着大家放空包"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "就是微信红包先抢的人"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "王王抢的钱比较少"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "后抢才能抢的大红包"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "而且有些人随便一抢就熟悉最佳"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "你怎么抢都只有几毛钱"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "那么微信红包是先抢好"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "还是后抢好的"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "会不会就有人欧皇有人非求呢"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 2,
+      "snippet": "今天"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 15,
+      "snippet": "就由我这红包教护着大家全面解析"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 9,
+      "snippet": "微信红包的算法规则"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "告诉大家抢红包必胜策略"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "首先发红包做实验"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 9,
+      "snippet": "我邀请了四名支援折"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "加上我自己编号12345"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "暗顺序抢红包"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "无人强50块钱"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "我一共发了154"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "重7500元"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "最后基督每次的数据"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "为了排出网速"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "手机型号"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "姿势等旋旋因素的战长"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "没发三日红包呢"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "我们就用换一下顺序"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "遗憾的是"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "本时宴号资巨大"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "且是否私人迅速将我拉黑"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "保持宴经费至今未能收回"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "希望好信任给我投个"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 10,
+      "snippet": "首先我统计的抢的金额"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "结果非常Amazing啊"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "在154证典中"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "一个抢的人全都只有几块十几块"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "第二个人偶�"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "为了验证这些数值"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 13,
+      "snippet": "是否不通统计学生的均语分布"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 14,
+      "snippet": "我们可以用小学二年纪有学过的"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "看过这老子"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "第二道简议"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "他可以不以来于参数"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 13,
+      "snippet": "直接利用累积分布寒树来判断"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "一组数据是否辅送某一给应的分布"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "一头计算某入体"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "发现只缺是对的"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "第一个人抢的金额"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "的确是的均语分布"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "有的观众可能觉得"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 11,
+      "snippet": "我一辈子倒是这红包飞球"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 7,
+      "snippet": "一头计算某入体"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 12,
+      "snippet": "发现大家抢的钱并没有区别"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 12,
+      "snippet": "说明巧红包压根是不太免的"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 12,
+      "snippet": "你的飞球印象应该只是一种"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "幸存者偏差"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "因为你穷"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 3,
+      "snippet": "抢了少"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 11,
+      "snippet": "就总是范范布平面念不忘"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 11,
+      "snippet": "常词以往就觉得自己脸黑"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "其实大家也要谁"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "现在我们知道"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 8,
+      "snippet": "第一个人抢的金额"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "就是一个均语分布"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 12,
+      "snippet": "而且对于每个人都是公平的"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 16,
+      "snippet": "那他是一个什么范围里的均语分布的"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "最小之中你是一分钱"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "因为你啊"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "我还是经常抢的一分钱"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "但最大值"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 10,
+      "snippet": "我们可以用小学二年级"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 4,
+      "snippet": "还学过的"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 2,
+      "snippet": "什么"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 8,
+      "snippet": "被业司估计来推断"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 4,
+      "snippet": "先业分布"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 11,
+      "snippet": "要选择共和的叛律托分布"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "一通计算某入虎"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 5,
+      "snippet": "后研军事是"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 12,
+      "snippet": "NN出于N1等于20.1"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 13,
+      "snippet": "那么可以在统计学意义上认为"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 14,
+      "snippet": "这个均语分布的最大值就是20"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 4,
+      "snippet": "到此为止"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "我们已经严格证明"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 9,
+      "snippet": "五个人抢五十块钱时"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 9,
+      "snippet": "第一个人能抢的金额"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 5,
+      "snippet": "是在一分钱"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "到20块钱之间的均语分布"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 5,
+      "snippet": "这很奇怪啊"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "微信为啥要限制低人"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 8,
+      "snippet": "只能抢20块以下"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 10,
+      "snippet": "我手速快也是一种罪吗"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 11,
+      "snippet": "我在网上找到了一篇微信"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 9,
+      "snippet": "红包的价格设计简介"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 9,
+      "snippet": "一位神秘的程序完成"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "每次抢红包时系统取"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 17,
+      "snippet": "0.01到当前剩余平均值得两倍之线"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "作为平均值得两倍之线"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 5,
+      "snippet": "组合的互相"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 8,
+      "snippet": "无人人抢50块钱"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "平均每个人能抢到10块钱"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 6,
+      "snippet": "十两倍是20"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 12,
+      "snippet": "那么第一个人抢到10块钱"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 10,
+      "snippet": "就是一分钱到20块钱"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 18,
+      "snippet": "如果地人比较悲� lly她之强的两倍"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 8,
+      "snippet": "那么局面就变成了"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 8,
+      "snippet": "四个人抢48块钱"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 14,
+      "snippet": "平均每个人12块钱 成于24"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 8,
+      "snippet": "那么第二个人抢!"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 5,
+      "snippet": "抢到的金�"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 9,
+      "snippet": "平均每个人15块钱"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 9,
+      "snippet": "五个人抢到10块钱"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 9,
+      "snippet": "五个人抢到10块钱"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 9,
+      "snippet": "五个人抢到10块钱"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 4,
+      "snippet": "五个人抢"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 5,
+      "snippet": "五个人身份"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 15,
+      "snippet": "美金还有一亿人想教我怎么样做亥"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 4,
+      "snippet": "其实微信"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "年关不易+放红包，抛出先抢少后抢大红包的民间说法并预告必胜策略。",
+      "patterns": [
+        "年关情境钩",
+        "民间误区对立",
+        "必胜策略预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这一年做视频不容易啊",
+          "note": "做视频不容易"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "就是微信红包先抢的人",
+          "note": "先抢的人"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "后抢才能抢的大红包",
+          "note": "后抢大红包"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "告诉大家抢红包必胜策略",
+          "note": "必胜策略"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "五人有序实验→首位均匀分布→人人期望无别→最大约剩余均值两倍→算法0.01~2×均值→策略指向后位波动。",
+      "patterns": [
+        "实验→分布检验→公平期望→上界估计→官方算法对齐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "暗顺序抢红包",
+          "note": "按顺序抢"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "的确是的均语分布",
+          "note": "的确是均匀分布"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "发现大家抢的钱并没有区别",
+          "note": "大家抢的钱并没有区别"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "这个均语分布的最大值就是20",
+          "note": "最大值就是20"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "0.01到当前剩余平均值得两倍之线",
+          "note": "剩余平均值的两倍"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "hook_and_promise",
+          "note": "误区钩子与解析承诺"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "experiment_design",
+          "note": "五人轮换发红包实验"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63"
+          ],
+          "function": "distribution_and_bias",
+          "note": "均匀分布与幸存者偏差"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94"
+          ],
+          "function": "bound_estimation",
+          "note": "最大最小值与估计"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119"
+          ],
+          "function": "algorithm_reveal",
+          "note": "微信算法简介与递推"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先发红包做实验」「首先我统计」「现在我们知道」「到此为止」「我在网上找到」。",
+      "patterns": [
+        "首先实验",
+        "到此为止小结",
+        "网上文献接入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "首先发红包做实验",
+          "note": "首先发红包"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "首先我统计的抢的金额",
+          "note": "首先我统计"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "现在我们知道",
+          "note": "现在我们知道"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "到此为止",
+          "note": "到此为止"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我在网上找到了一篇微信",
+          "note": "我在网上找到"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "先抢vs后抢民间对立；欧皇vs非酋；感觉脸黑vs统计无差别；手速快也有罪吗反讽。",
+      "patterns": [
+        "先后对立",
+        "欧皇非酋",
+        "体感vs统计"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "先抢好还是后抢"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "会不会就有人欧皇有人非求呢",
+          "note": "欧皇非酋"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "发现大家抢的钱并没有区别",
+          "note": "并没有区别"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "我手速快也是一种罪吗",
+          "note": "手速快也是罪吗"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "先抢还是后抢、会不会有人欧皇、均匀分布范围、微信为啥限制第一人。",
+      "patterns": [
+        "策略二选一问",
+        "公平性问",
+        "机制追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "先抢好"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "还是后抢好的",
+          "note": "还是后抢好"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "那他是一个什么范围里的均语分布的",
+          "note": "什么范围里的均匀"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "微信为啥要限制低人",
+          "note": "为啥限制第一人"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "五人编号、50元×154轮、KS检验口吻、一分钱到20元、四人剩48元递推。",
+      "patterns": [
+        "实验参数例",
+        "边界金额例",
+        "递推局面例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "加上我自己编号12345",
+          "note": "编号12345"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我一共发了154",
+          "note": "发了154"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "是在一分钱",
+          "note": "一分钱到20"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "四个人抢48块钱",
+          "note": "四人抢48"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "均匀分布落到1分-20元；算法抽象落到「剩余均值两倍」；幸存者偏差落到穷/少/念念不忘。",
+      "patterns": [
+        "金额窗口具象",
+        "两倍均值规则",
+        "偏差生活化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s89",
+          "snippet": "到20块钱之间的均语分布",
+          "note": "一分到20均匀"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "0.01到当前剩余平均值得两倍之线",
+          "note": "平均值的两倍"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "因为你穷",
+          "note": "因为你穷"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "常词以往就觉得自己脸黑",
+          "note": "觉得自己脸黑"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言结果Amazing、的确均匀、抢红包不太冤、严格证明首位区间。",
+      "patterns": [
+        "Amazing判断",
+        "公平判断",
+        "严格证明口吻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "结果非常Amazing啊",
+          "note": "非常Amazing"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "的确是的均语分布",
+          "note": "的确均匀分布"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "说明巧红包压根是不太免的",
+          "note": "不太冤"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我们已经严格证明",
+          "note": "已经严格证明"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认民间「后抢大红包」印象，再用全体无差别与幸存者偏差纠正。",
+      "patterns": [
+        "民间印象先立",
+        "偏差纠正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "后抢才能抢的大红包",
+          "note": "后抢大红包"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "发现大家抢的钱并没有区别",
+          "note": "并没有区别"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "幸存者偏差",
+          "note": "幸存者偏差"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问密钩→实验交代中速→统计段术语加速→算法揭晓放慢举例。",
+      "patterns": [
+        "短问钩",
+        "术语加速",
+        "算法慢讲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "先抢好"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "直接利用累积分布寒树来判断",
+          "note": "累积分布"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "每次抢红包时系统取",
+          "note": "每次抢红包时"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "那么"
+        },
+        {
+          "type": "discourse",
+          "form": "首先"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "五个人抢到10块钱"
+        },
+        {
+          "type": "repair_like",
+          "form": "什么"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "那么微信红包"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "首先发红包做实验",
+          "note": "首先发红包"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "五个人抢到10块钱",
+          "note": "五个人抢到10块钱"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "什么",
+          "note": "什么"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "吐槽开场→悬念好奇→实验心疼经费→Amazing惊喜→打脸民间迷信→机制恍然。",
+      "patterns": [
+        "经费心疼笑点",
+        "Amazing惊喜",
+        "打脸爽感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "本时宴号资巨大",
+          "note": "开销巨大"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "结果非常Amazing啊",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "幸存者偏差",
+          "note": "幸存者偏差"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这很奇怪啊",
+          "note": "这很奇怪啊"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗口截断在算法递推与「其实微信」处，闭环不完整；承诺策略未完全落地。",
+      "patterns": [
+        "截断未闭环",
+        "策略承诺悬空"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "告诉大家抢红包必胜策略",
+          "note": "必胜策略"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "其实微信",
+          "note": "其实微信"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "求三连式「投个」残句+知识揭秘驱动，硬CTA被ASR打断。",
+      "patterns": [
+        "求支持残句",
+        "揭秘驱动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "希望好信任给我投个",
+          "note": "希望投个"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "告诉大家抢红包必胜策略",
+          "note": "必胜策略"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自嘲经费拉黑、小学二年级反讽术语、因为你穷吐槽，毕导式理工幽默。",
+      "patterns": [
+        "经费自嘲",
+        "小学二年级梗",
+        "因为你穷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "且是否私人迅速将我拉黑",
+          "note": "拉黑"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我们可以用小学二年纪有学过的",
+          "note": "小学二年级"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "因为你穷",
+          "note": "因为你穷"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（均匀/非酋/开销）；尾部重复「五个人抢到10块钱」；窗口截断策略未完。",
+      "patterns": [
+        "ASR损毁",
+        "尾部重复",
+        "截断未完"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "是否不通统计学生的均语分布",
+          "note": "不通统计"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "五个人抢到10块钱",
+          "note": "五个人抢到10"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "其实微信",
+          "note": "其实微信截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显实验控制变量、分布检验、贝叶斯/矩估计口吻、对照网上设计文。",
+      "patterns": [
+        "实验设计外显",
+        "检验步骤外显",
+        "文献对齐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "为了排出网速",
+          "note": "排除网速"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "直接利用累积分布寒树来判断",
+          "note": "累积分布判断"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "被业司估计来推断",
+          "note": "估计来推断"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我在网上找到了一篇微信",
+          "note": "网上找到简介"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "红包教父口吻教观众；用「你的非酋印象」点名听众认知偏差。",
+      "patterns": [
+        "教父教学位",
+        "点名你的印象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "就由我这红包教护着大家全面解析",
+          "note": "红包教父"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "你的飞球印象应该只是一种",
+          "note": "你的飞球印象"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "告诉大家抢红包必胜策略",
+          "note": "告诉大家"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "5人50元、154轮7500元、首位≤20、均值10两倍20、四人48→均12上限24。",
+      "patterns": [
+        "实验规模锚",
+        "20元上界锚",
+        "递推数字锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "无人强50块钱",
+          "note": "50块钱"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "重7500元",
+          "note": "7500元"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "这个均语分布的最大值就是20",
+          "note": "最大值20"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "十两倍是20",
+          "note": "十两倍是20"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "四个人抢48块钱",
+          "note": "四人48"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子中密→实验参数高密→统计检验高密→算法段高密→尾重复降密。",
+      "patterns": [
+        "实验高密",
+        "算法高密",
+        "尾降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "我一共发了154",
+          "note": "154轮高密"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "到20块钱之间的均语分布",
+          "note": "区间高密"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "0.01到当前剩余平均值得两倍之线",
+          "note": "算法高密"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "五个人抢到10块钱",
+          "note": "重复降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "误区设问→实验→结果惊叹→偏差解释→区间证明→文献算法→递推举例。",
+      "patterns": [
+        "问实检证",
+        "证完对齐文献",
+        "递推展开"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "首先发红包做实验",
+          "note": "实验"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我们已经严格证明",
+          "note": "证明"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "每次抢红包时系统取",
+          "note": "算法"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理工实验型科普：敢烧钱验证、用统计打脸玄学、自嘲经费。",
+      "patterns": [
+        "烧钱实证",
+        "统计打脸",
+        "自嘲幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "本时宴号资巨大",
+          "note": "开销巨大"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "幸存者偏差",
+          "note": "幸存者偏差"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我们已经严格证明",
+          "note": "严格证明"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "先抢后抢之争、幸存者偏差因为你穷、1分-20均匀、剩余均值两倍。",
+      "patterns": [
+        "先后之争",
+        "因为你穷",
+        "两倍均值规则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "那么微信红包是先抢好",
+          "note": "先抢后抢"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "因为你穷",
+          "note": "因为你穷"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "到20块钱之间的均语分布",
+          "note": "一分到20"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "0.01到当前剩余平均值得两倍之线",
+          "note": "两倍"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "生活谜题→可控实验→统计纠偏→机制揭晓链路极适合观宇概率/产品规则类科普。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "首先发红包做实验",
+          "note": "发红包实验"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "幸存者偏差",
+          "note": "幸存者偏差"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "0.01到当前剩余平均值得两倍之线",
+          "note": "两倍均值算法"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119"
+  ],
+  "fields_complete_25": true
+}

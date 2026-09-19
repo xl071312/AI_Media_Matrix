@@ -1,0 +1,1510 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_gIfD6YtY0ts",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
+  "source_sha256": "c67e2fd17e618f98577151d7dc2c5fb42b399fe211f23d317db2f47eb7e83b4c",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "為了不用擦白板&lt;"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 13,
+      "snippet": "我們做了一個機器人&lt;"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "小白&lt;"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "它不僅能擦白板&lt;"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "還能寫會議模版&lt;"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "下班後還有畫畫的愛好&lt;"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "之所以找它來&lt;"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "是因為每周工作室&lt;"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "開完選題會&lt;"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "大家都會忘了擦白板&lt;"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "下次開的時候&lt;"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "就不好擦了&lt;"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 15,
+      "snippet": "這是因為它手臂的自由度&lt;"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 7,
+      "snippet": "太少了&lt;"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 13,
+      "snippet": "得移動整個身體來寫&lt;"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 10,
+      "snippet": "有一種刷牙時&lt;"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 11,
+      "snippet": "手不動頭動的美&lt;"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 16,
+      "snippet": "所以我們升級了小白的手臂&lt;"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 11,
+      "snippet": "新臂有兩個關節&lt;"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 10,
+      "snippet": "靈活了非常多&lt;"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 16,
+      "snippet": "這樣它就可以在身體範圍內&lt;"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 12,
+      "snippet": "完成一個字的書寫&lt;"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 11,
+      "snippet": "灌上了螢光顏料&lt;"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 11,
+      "snippet": "用紫外燈照射後&lt;"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 9,
+      "snippet": "會顯出亮光&lt;"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 6,
+      "snippet": "最後&lt;"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 13,
+      "snippet": "我們準備了一幅大作&lt;"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 15,
+      "snippet": "看看小白能不能挑戰成功&lt;"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 14,
+      "snippet": "現在我們工作室下班後&lt;"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 14,
+      "snippet": "就可以看到這樣的場景&lt;"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题式短句链：为了不用擦白板→做了机器人小白→能擦能写还能画画。",
+      "patterns": [
+        "目的前置钩",
+        "产品命名亮相",
+        "能力清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "为了不用擦白板"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我們做了一個機器人&lt;",
+          "note": "做了一个机器人"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "小白&lt;",
+          "note": "小白"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "它不僅能擦白板&lt;",
+          "note": "能擦白板"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "還能寫會議模版&lt;",
+          "note": "写会议模版"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "忘擦白板痛点→做小白→手臂自由度不够→升级双关节→荧光颜料紫外显影→大作挑战→下班可见场景。",
+      "patterns": [
+        "痛点→造物→缺陷→升级→炫技→生活结果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "大家都會忘了擦白板&lt;",
+          "note": "忘了擦白板"
+        },
+        {
+          "sentence_id": "s211",
+          "snippet": "這是因為它手臂的自由度&lt;",
+          "note": "手臂自由度"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "太少了&lt;",
+          "note": "太少了"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "升级了手臂"
+        },
+        {
+          "sentence_id": "s235",
+          "snippet": "新臂有兩個關節&lt;",
+          "note": "两个关节"
+        },
+        {
+          "sentence_id": "s443",
+          "snippet": "我們準備了一幅大作&lt;",
+          "note": "准备了一幅大作"
+        },
+        {
+          "sentence_id": "s451",
+          "snippet": "現在我們工作室下班後&lt;",
+          "note": "下班后场景"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "pain_and_robot_intro",
+          "note": "痛点与小白能力介绍"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248"
+          ],
+          "function": "arm_dof_upgrade",
+          "note": "自由度不足与手臂升级"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s427",
+            "s428",
+            "s429",
+            "s430",
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440",
+            "s441",
+            "s442",
+            "s443",
+            "s444",
+            "s445",
+            "s446",
+            "s447",
+            "s448",
+            "s449",
+            "s450",
+            "s451",
+            "s452",
+            "s453",
+            "s454",
+            "s455",
+            "s456"
+          ],
+          "function": "glow_art_and_close",
+          "note": "荧光颜料大作与下班场景"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「之所以找它来」「所以我们升级了」「最后」「现在我们工作室下班后」阶段转场。",
+      "patterns": [
+        "之所以因果转",
+        "所以升级转",
+        "最后挑战转",
+        "现在结果转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "之所以找它來&lt;",
+          "note": "之所以找它来"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "所以我们升级了"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "最後&lt;",
+          "note": "最后"
+        },
+        {
+          "sentence_id": "s451",
+          "snippet": "現在我們工作室下班後&lt;",
+          "note": "现在下班后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "旧臂自由度少须移全身 vs 新臂两关节可局部写完一字；刷牙头动隐喻。",
+      "patterns": [
+        "旧臂vs新臂",
+        "全身移vs局部写",
+        "刷牙隐喻对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s215",
+          "snippet": "太少了&lt;",
+          "note": "自由度太少"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "得移動整個身體來寫&lt;",
+          "note": "移动整个身体"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "手不动头动"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "靈活了非常多&lt;",
+          "note": "灵活了非常多"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "窗口内显式问句少，以「看看能不能挑战成功」表演性设问收尾。",
+      "patterns": [
+        "挑战成败设问",
+        "问句密度低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s447",
+          "snippet": "看看小白能不能挑戰成功&lt;",
+          "note": "能不能挑战成功"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "选题会忘擦、刷牙头动美、两关节新臂、荧光颜料+紫外灯、下班场景。",
+      "patterns": [
+        "工作室痛点例",
+        "生活隐喻例",
+        "硬件升级例",
+        "材料特效例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "開完選題會&lt;",
+          "note": "开完选题会"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "刷牙头动"
+        },
+        {
+          "sentence_id": "s235",
+          "snippet": "新臂有兩個關節&lt;",
+          "note": "两个关节"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "灌上了螢光顏料&lt;",
+          "note": "荧光颜料"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "用紫外燈照射後&lt;",
+          "note": "紫外灯"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "自由度抽象落到「移全身写字」；爱好画画落到荧光紫外显影大作。",
+      "patterns": [
+        "自由度行为化",
+        "画画材料化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s219",
+          "snippet": "得移動整個身體來寫&lt;",
+          "note": "移动整个身体来写"
+        },
+        {
+          "sentence_id": "s247",
+          "snippet": "完成一個字的書寫&lt;",
+          "note": "完成一个字的书写"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "灌上了螢光顏料&lt;",
+          "note": "灌上荧光颜料"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "會顯出亮光&lt;",
+          "note": "显出亮光"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言忘擦导致下次不好擦；旧臂太少；新臂灵活非常多。",
+      "patterns": [
+        "痛点判断",
+        "缺陷判断",
+        "升级效果判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "就不好擦了&lt;",
+          "note": "就不好擦了"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "太少了&lt;",
+          "note": "太少了"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "靈活了非常多&lt;",
+          "note": "灵活了非常多"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先展示自由度不足的笨拙写法，再升级手臂纠正——工程迭代式自纠。",
+      "patterns": [
+        "缺陷先展",
+        "升级纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s211",
+          "snippet": "這是因為它手臂的自由度&lt;",
+          "note": "自由度"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "得移動整個身體來寫&lt;",
+          "note": "移全身"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "升级了小白的手臂"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "字幕短句碎切（b标签噪声）→问题中速→升级说明→材料特效→挑战悬念。",
+      "patterns": [
+        "短字幕碎切",
+        "升级段中速",
+        "挑战悬念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "为了不用擦"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "升级手臂"
+        },
+        {
+          "sentence_id": "s447",
+          "snippet": "看看小白能不能挑戰成功&lt;",
+          "note": "挑战成功"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "偷懒爽感→痛点无奈→笨拙好笑→升级得意→荧光惊喜→下班治愈。",
+      "patterns": [
+        "偷懒爽",
+        "笨拙好笑",
+        "荧光惊喜",
+        "下班治愈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "不用擦白板"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "刷牙头动美"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "會顯出亮光&lt;",
+          "note": "显出亮光"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "就可以看到這樣的場景&lt;",
+          "note": "这样的场景"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「为了不用擦」回到下班可见的机器人工作场景，完成目的闭环。",
+      "patterns": [
+        "目的→日常结果闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "为了不用擦白板"
+        },
+        {
+          "sentence_id": "s451",
+          "snippet": "現在我們工作室下班後&lt;",
+          "note": "下班后"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "就可以看到這樣的場景&lt;",
+          "note": "这样的场景"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "表演性「看看能不能挑战成功」邀请观看，无硬关注指令。",
+      "patterns": [
+        "挑战围观软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s447",
+          "snippet": "看看小白能不能挑戰成功&lt;",
+          "note": "看看能不能挑战成功"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "工作室选题会真实痛点、刷牙隐喻、小白昵称，工程vlog口吻。",
+      "patterns": [
+        "真实工作室痛点",
+        "刷牙隐喻",
+        "机器人昵称"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "是因為每周工作室&lt;",
+          "note": "每周工作室"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開完選題會&lt;",
+          "note": "选题会"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "刷牙头动"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "小白&lt;",
+          "note": "小白"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "字幕b标签严重切碎；窗口从456句截到三段，中间工程过程大量缺失。",
+      "patterns": [
+        "标签切碎",
+        "窗口三段断层"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "&lt;",
+          "note": "b标签噪声"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "b&gt;",
+          "note": "后跳s209"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "/b&gt;",
+          "note": "后跳s427"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显因果：自由度少→须移身→故升级双关节；材料选择链条清晰。",
+      "patterns": [
+        "缺陷因果外显",
+        "升级决策外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s211",
+          "snippet": "這是因為它手臂的自由度&lt;",
+          "note": "因为自由度"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "得移動整個身體來寫&lt;",
+          "note": "得移动身体"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "所以升级手臂"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当工作室参观者，用「我们」带入下班后共同目击。",
+      "patterns": [
+        "参观者位",
+        "我们工作室共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "是因為每周工作室&lt;",
+          "note": "工作室"
+        },
+        {
+          "sentence_id": "s451",
+          "snippet": "現在我們工作室下班後&lt;",
+          "note": "我们工作室下班后"
+        },
+        {
+          "sentence_id": "s447",
+          "snippet": "看看小白能不能挑戰成功&lt;",
+          "note": "看看能不能"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "小白机器人、两关节新臂、荧光颜料、紫外灯、选题会白板。",
+      "patterns": [
+        "产品名锚",
+        "关节数锚",
+        "材料光效锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "小白&lt;",
+          "note": "小白"
+        },
+        {
+          "sentence_id": "s235",
+          "snippet": "新臂有兩個關節&lt;",
+          "note": "两个关节"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "灌上了螢光顏料&lt;",
+          "note": "荧光颜料"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "用紫外燈照射後&lt;",
+          "note": "紫外灯"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场能力清单中密→痛点低密→自由度诊断中密→材料特效中密→场景收束低密。",
+      "patterns": [
+        "能力清单密",
+        "诊断中密",
+        "收束低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "它不僅能擦白板&lt;",
+          "note": "能力清单"
+        },
+        {
+          "sentence_id": "s211",
+          "snippet": "這是因為它手臂的自由度&lt;",
+          "note": "自由度诊断"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "就可以看到這樣的場景&lt;",
+          "note": "场景低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "目的→产品→能力→痛点原因→缺陷→升级→特效→挑战→日常结果（中间截断）。",
+      "patterns": [
+        "造物叙事弧",
+        "缺陷升级弧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我們做了一個機器人&lt;",
+          "note": "做了机器人"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "升级"
+        },
+        {
+          "sentence_id": "s443",
+          "snippet": "我們準備了一幅大作&lt;",
+          "note": "大作"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "就可以看到這樣的場景&lt;",
+          "note": "场景"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "玩趣工程师：把偷懒需求做成项目，乐于展示失败姿态与升级。",
+      "patterns": [
+        "偷懒工程化",
+        "展示笨拙",
+        "升级得意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "为了不用擦"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "刷牙美"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "靈活了非常多&lt;",
+          "note": "灵活非常多"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "小白、刷牙头动美、两关节、荧光紫外、下班场景。",
+      "patterns": [
+        "刷牙隐喻",
+        "两关节",
+        "荧光显影"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "小白&lt;",
+          "note": "小白"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "手不動頭動的美&lt;",
+          "note": "手不动头动的美"
+        },
+        {
+          "sentence_id": "s235",
+          "snippet": "新臂有兩個關節&lt;",
+          "note": "两个关节"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "會顯出亮光&lt;",
+          "note": "显出亮光"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "痛点→造物→暴露缺陷→升级→炫技收束的工程叙事可迁移，但需完整中间过程字幕，不宜直接用本截断窗。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "為了不用擦白板&lt;",
+          "note": "痛点目的"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "所以我們升級了小白的手臂&lt;",
+          "note": "升级手臂"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "就可以看到這樣的場景&lt;",
+          "note": "下班场景"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s427",
+    "s428",
+    "s429",
+    "s430",
+    "s431",
+    "s432",
+    "s433",
+    "s434",
+    "s435",
+    "s436",
+    "s437",
+    "s438",
+    "s439",
+    "s440",
+    "s441",
+    "s442",
+    "s443",
+    "s444",
+    "s445",
+    "s446",
+    "s447",
+    "s448",
+    "s449",
+    "s450",
+    "s451",
+    "s452",
+    "s453",
+    "s454",
+    "s455",
+    "s456"
+  ],
+  "fields_complete_25": true
+}

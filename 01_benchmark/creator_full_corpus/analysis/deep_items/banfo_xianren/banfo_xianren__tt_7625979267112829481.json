@@ -1,0 +1,1202 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7625979267112829481",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7625979267112829481/",
+  "source_sha256": "a443a215ad3bf8e6b9ab29dc828b59d7e0b75a9b1f973f995331d3695376ea50",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 89,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 32,
+      "snippet": "图片截取自: Patagonia向消费者收地球使用费，是疯了么？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 19,
+      "snippet": "来，看看这个图，给自己一点小小的震撼。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 24,
+      "snippet": "乍一看你或许以为这是整活，但它们是真的要这么干。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 89,
+      "snippet": "户外品牌Patagonia推出了一个【地球使用费】，意思就是退货会产生碳排放，所以品牌就不包邮了，只要你退货，你的这十五块运费就用来补贴地球，如果你确认不退货我"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 32,
+      "snippet": "图片截取自: Patagonia向消费者收地球使用费，是疯了么？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 22,
+      "snippet": "(图片来自Patagonia天猫官方旗舰店)"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 27,
+      "snippet": "第一次看到地球使用费这个概念的时候，我承认我有些茫然。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "你是地球老大嘛你收地球使用费？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "地球是你家的啊？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 18,
+      "snippet": "地球给你代理权了嘛你就替地球收费啊?"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 13,
+      "snippet": "你怎么的要给野外装ETC?"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 24,
+      "snippet": "又仔细看了下牌子，哦，是巴塔啊，那倒是不意外了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 13,
+      "snippet": "为什么放他们家身上不意外？"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 35,
+      "snippet": "它们日常整这种喜欢筛选粉丝的活儿，甚至这次都比较保守，只在运费上动手。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "之前他们都在动植物身上动手。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 18,
+      "snippet": "他们的一切手段归根结底都是为了筛选。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 23,
+      "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 22,
+      "snippet": "但凡你看到觉得这个操作有病，那你就不该买它。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 62,
+      "snippet": "不是贵和便宜的问题，也不是有没有多收你钱的问题，而是你从一开始就不应该买这个牌子，连看都不应该看，多看几眼，你都浪费了时间。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 21,
+      "snippet": "如果你花了更多时间骂它们，那被它们赚到了。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "你为啥要奖励这种筛选行为？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 39,
+      "snippet": "Patagonia这个牌子一直走的就是极端环保主义路线，就喜欢整这种环保活儿。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 23,
+      "snippet": "也不是一天两天了，这么整活，坚持整了几十年了。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 40,
+      "snippet": "一般品牌搞环保，做个联名，发个地球日海报，让实习生整几句slogan就差不多了。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 58,
+      "snippet": "而Patagonia是天天给环保组织捐钱，研究各种可降解面料，还搞出过著名的【不要买这件夹克】广告，劝你别买新衣服。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 20,
+      "snippet": "甚至在618时还在告诉你要【审视消费】。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "堪称ROI最严厉的爹妈。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 32,
+      "snippet": "图片截取自: Patagonia向消费者收地球使用费，是疯了么？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 41,
+      "snippet": "整这么多活，其实就是为了强化自家的形象，尤其是强化那种为了环保不惜牺牲商业的形象。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 14,
+      "snippet": "而买它的人也都是认这一套的。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 10,
+      "snippet": "是的，他们认这一套。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 23,
+      "snippet": "大多数人都觉得商家口中的环保是转嫁成本的手段。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 31,
+      "snippet": "就像很多品牌卖手机不给充电头一样，嘴上都是环保，账上都是省钱。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 45,
+      "snippet": "巴塔不一样的地方是在于它大大方方的告诉你，就属于虽然让你不爽，但你也没法不承认确实挺真诚。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "坦率的说，跟饭圈提纯一样。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 35,
+      "snippet": "当下，环保主义不是一种对或错的【二元选择】，反而更接近于一种【爱好】。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 14,
+      "snippet": "没错，环保也可以是一种爱好。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 14,
+      "snippet": "世界是复杂的，人类是多样的。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 40,
+      "snippet": "有人爱好钓鱼，有人爱好手办，有人爱好键盘，有人爱好48码大脚，那就有人爱好环保。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 16,
+      "snippet": "爱好环保没有错，不信环保也没错。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 16,
+      "snippet": "因为大家本来就不是一个世界的人。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 24,
+      "snippet": "很多圈子都是这样，圈子里的嗨，圈子外的人翻白眼。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 33,
+      "snippet": "你买手办，你爸觉得你买一堆塑料玩物丧志，转手就拿着他的单反去拍鸟。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 35,
+      "snippet": "你玩cos，路边大爷觉得你不务正业像个流氓，转头他就拿着路亚竿去打窝。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "大家都有自己的圈子。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 27,
+      "snippet": "不必理解，不必认同，甚至不必尊重，不想看了，划走就是。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 25,
+      "snippet": "因为大家从一开始就没必要互相理解，只需要互相屏蔽。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 16,
+      "snippet": "任何一个品牌都不可能讨好所有人。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 20,
+      "snippet": "所有品牌策略归根究底就是如何筛选和提纯。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 26,
+      "snippet": "这时候，Patagonia的这个操作，属于非常典型。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 22,
+      "snippet": "从商业逻辑上来说，主打环保不可能讨好所有人。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 47,
+      "snippet": "但巧的是，因为环保在马斯洛评价体系里面，属于金字塔尖里面比较朝上的一种，人吃饱了才会研究环保。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 20,
+      "snippet": "这就导致愿意为此付费的人消费能力比较强。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 18,
+      "snippet": "所以卖给他们卖的贵，说是在保护地球。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 16,
+      "snippet": "别管你认不认吧，逻辑上是闭环了。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 43,
+      "snippet": "【地球使用费】一出来，直接就把不认可这一套的消费者筛了出去，留下的都是认它这一套的人。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 32,
+      "snippet": "不认这一套的人，第一反应就是【什么玩意】，第二个动作就是买别的。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 28,
+      "snippet": "就像电信诈骗的文案往往写的很离谱一样，就是要筛掉不信的。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 28,
+      "snippet": "通过损失边缘用户，Patagonia得到了更低的退货率。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 34,
+      "snippet": "甚至Patagonia都没有损失用户，因为这些人就不会成为他的用户。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 34,
+      "snippet": "同时，认可这一套的人只会觉得泰裤辣，我就喜欢你桀骜不驯，挥鞭的模样。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 43,
+      "snippet": "这种【规矩越多越权威】的现象在各种小圈子里屡见不鲜，我上次在贴吧还跟人大战了300场。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 27,
+      "snippet": "就连AC米兰和国际米兰怎么称呼，人类可以骂上3天3夜。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 33,
+      "snippet": "从cos圈到汉服圈，从键盘圈到游戏圈，从明星到说唱，都是一个样子。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 37,
+      "snippet": "鄙视链和规矩大行其道，就像Top2高校是一伙的，Top3那可就有十几所了。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 27,
+      "snippet": "这看似是无厘头，但底色是在塑造【身份认同】和【区隔】。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 22,
+      "snippet": "人家买的不是单纯的衣服，而是【环保】的标签。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 23,
+      "snippet": "你品牌自己都不够极端，怎么能让消费者被赋能呢？"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 35,
+      "snippet": "就跟之前有个品牌招店员必须要求超模身材，对方老板直言看不起身材不好的。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 29,
+      "snippet": "结果反而很多人去应聘，因为聘上了，说明自己身材得到了认证。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 34,
+      "snippet": "十五块钱的【地球使用费】，甚至可以给认同这套模式的人足够的情绪价值。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 37,
+      "snippet": "不要觉得奇怪，在这个大家都能吃饱穿暖的时代，就是会追求一些更形而上的东西。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 26,
+      "snippet": "不用试图理解啊朋友，你不需要理解，你也不需要尊重它。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 12,
+      "snippet": "甚至，你骂它都是在帮它。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 25,
+      "snippet": "因为【地球使用费】这名头太6了，你越骂，它越出圈。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 33,
+      "snippet": "原本不知道这个品牌的人会因此认识到这个品牌，包括那些潜在的消费者。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "两边对上眼了。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 9,
+      "snippet": "你问这东西合理吗？"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 15,
+      "snippet": "没有什么合不合理，只有认不认。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "你认，它就是。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 12,
+      "snippet": "你不认，那就看都不要看。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 17,
+      "snippet": "尊重他人的选择，也尊重自己的时间。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 19,
+      "snippet": "这个世界的本质就是关你屁事和关我屁事。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 17,
+      "snippet": "所谓品牌策略，就是选择关谁的屁事。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "周末随便写+看图震撼，介绍地球使用费后退货逻辑，连环「地球是你家？」质问后认出巴塔不意外。",
+      "patterns": [
+        "周末闲笔降压",
+        "看图震撼",
+        "质问后认牌子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "户外品牌Patagonia推出了一个【地球使用费】，意思就是退货会产生碳排放，所",
+          "note": "地球使用费规则"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "又仔细看了下牌子，哦，是巴塔啊，那倒是不意外了。",
+          "note": "哦是巴塔"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "地球使用费非省钱是筛选→环保极端路线几十年→环保如爱好圈子→品牌本就筛选提纯→骂也帮它出圈→认不认即可。",
+      "patterns": [
+        "筛选主旨→爱好化→圈子屏蔽→骂即传播→认不认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "目的就是筛选"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "没错，环保也可以是一种爱好。",
+          "note": "环保是爱好"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "没有什么合不合理，只有认不认。",
+          "note": "只有认不认"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "fee_screen",
+          "note": "费用解释+质问+筛选目的+不要买夹克史"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "hobby_circles",
+          "note": "强化形象+环保爱好论+互相屏蔽"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76"
+          ],
+          "function": "brand_purify",
+          "note": "马斯洛付费闭环+规矩权威+情绪价值"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89"
+          ],
+          "function": "ignore_close",
+          "note": "无需理解尊重+骂帮出圈+关你屁事"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「又仔细看了下牌子」「整这么多活其实」「这时候Patagonia」推进归因。",
+      "patterns": [
+        "认牌子转折",
+        "其实为了强化",
+        "这时候典型"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "又仔细看了下牌子，哦，是巴塔啊，那倒是不意外了。",
+          "note": "看牌子"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "整这么多活，其实就是为了强化自家的形象，尤其是强化那种为了环保不惜牺牲商业的形象",
+          "note": "其实为强化形象"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这时候，Patagonia的这个操作，属于非常典型。",
+          "note": "这时候典型"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "一般品牌地球日海报 vs 巴塔捐钱劝别买；嘴上环保账上省钱 vs 大方收使用费；圈子内嗨 vs 圈外翻白眼。",
+      "patterns": [
+        "浅环保/真极端",
+        "伪环保省钱/真诚收费",
+        "圈内圈外"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "一般品牌搞环保，做个联名，发个地球日海报，让实习生整几句slogan就差不多了。",
+          "note": "一般品牌海报"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "而Patagonia是天天给环保组织捐钱，研究各种可降解面料，还搞出过著名的【不",
+          "note": "不要买夹克"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "就像很多品牌卖手机不给充电头一样，嘴上都是环保，账上都是省钱。",
+          "note": "不给充电头伪环保"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「地球是你家？」「你为啥奖励筛选？」「合理吗？」连环拆解合法性。",
+      "patterns": [
+        "所有权质问",
+        "奖励行为质问",
+        "合理性质问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "地球是你家的啊？",
+          "note": "地球是你家"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "你为啥要奖励这种筛选行为？",
+          "note": "为啥奖励筛选"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "你问这东西合理吗？",
+          "note": "合理吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "不配充电头、手办单反拍鸟、cos路亚、电信诈骗文案筛人、超模店员认证、AC米兰称呼大战。",
+      "patterns": [
+        "伪环保例",
+        "爱好错位例",
+        "诈骗筛人隐喻",
+        "小圈子规矩例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "就像很多品牌卖手机不给充电头一样，嘴上都是环保，账上都是省钱。",
+          "note": "不给充电头"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "就像电信诈骗的文案往往写的很离谱一样，就是要筛掉不信的。",
+          "note": "电信诈骗文案"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "就跟之前有个品牌招店员必须要求超模身材，对方老板直言看不起身材不好的。",
+          "note": "超模店员"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「筛选提纯」落到十五块运费、退货不包邮、确认不退再退运费的机制。",
+      "patterns": [
+        "筛选→运费机制",
+        "身份认同→十五块情绪价值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "户外品牌Patagonia推出了一个【地球使用费】，意思就是退货会产生碳排放，所",
+          "note": "十五块补贴地球"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "十五块钱的【地球使用费】，甚至可以给认同这套模式的人足够的情绪价值。",
+          "note": "十五块情绪价值"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "【地球使用费】一出来，直接就把不认可这一套的消费者筛了出去，留下的都是认它这一套",
+          "note": "筛出去不认可者"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「那你就不该买它」「多看几眼都浪费时间」「世界本质关你屁事」。",
+      "patterns": [
+        "不该买判决",
+        "浪费时间判决",
+        "屁事世界观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡你看到觉得这个操作有病，那你就不该买它。",
+          "note": "就不该买"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "不是贵和便宜的问题，也不是有没有多收你钱的问题，而是你从一开始就不应该买这个牌子",
+          "note": "浪费时间"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这个世界的本质就是关你屁事和关我屁事。",
+          "note": "关你屁事"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "乍看整活→确认真干；质问疯狂→认出巴塔不意外；从省钱误会纠到筛选。",
+      "patterns": [
+        "整活误判纠正",
+        "省钱→筛选纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "乍一看你或许以为这是整活，但它们是真的要这么干。",
+          "note": "以为整活其实真干"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "不是省钱是筛选"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "连环短质问轰炸后接长解释；结尾「你认/你不认」对仗收束。",
+      "patterns": [
+        "短问轰炸",
+        "认/不认对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "你是地球老大嘛你收地球使用费？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "你认，它就是。",
+          "note": "你认它就是"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "你不认，那就看都不要看。",
+          "note": "不认看都不要看"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "茫然嘲讽→了然不意外→圈层解构冷静→出圈策略欣赏→甩手解脱。",
+      "patterns": [
+        "嘲→了然→冷静→甩手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "第一次看到地球使用费这个概念的时候，我承认我有些茫然。",
+          "note": "茫然"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "又仔细看了下牌子，哦，是巴塔啊，那倒是不意外了。",
+          "note": "不意外"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "尊重他人的选择，也尊重自己的时间。",
+          "note": "尊重时间解脱"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场质疑收费权，收于「品牌策略=选择关谁的屁事」，把疯操作收进策略理性。",
+      "patterns": [
+        "收费权疑→策略定义闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "你是地球老大嘛你收地球使用费？",
+          "note": "你收使用费"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所谓品牌策略，就是选择关谁的屁事。",
+          "note": "选择关谁屁事"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "明确反CTA：不理解就划走，骂也是帮它；保护读者时间。",
+      "patterns": [
+        "划走反CTA",
+        "别浪费时间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "不必理解，不必认同，甚至不必尊重，不想看了，划走就是。",
+          "note": "不想看划走"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "甚至，你骂它都是在帮它。",
+          "note": "骂它都帮它"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "你不认，那就看都不要看。",
+          "note": "看都不要看"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "野外ETC、泰裤辣、饭圈提纯、关你屁事口语，圈层黑话密。",
+      "patterns": [
+        "ETC荒诞喻",
+        "泰裤辣",
+        "屁事口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "你怎么的要给野外装ETC?",
+          "note": "野外装ETC"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "同时，认可这一套的人只会觉得泰裤辣，我就喜欢你桀骜不驯，挥鞭的模样。",
+          "note": "泰裤辣"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这个世界的本质就是关你屁事和关我屁事。",
+          "note": "关你屁事"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "爱好相对主义可能被读成洗地；电信诈骗类比有冒犯风险。",
+      "patterns": [
+        "相对主义洗地感",
+        "诈骗类比风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "爱好环保没有错，不信环保也没错。",
+          "note": "爱好没错相对"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "就像电信诈骗的文案往往写的很离谱一样，就是要筛掉不信的。",
+          "note": "诈骗文案类比"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外化「先骂不合理→认品牌史→想到筛选逻辑→升到圈子与品牌策略」。",
+      "patterns": [
+        "情绪→史→策略推理链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "又仔细看了下牌子，哦，是巴塔啊，那倒是不意外了。",
+          "note": "认品牌"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "想到筛选"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把愤怒消费者从杠精位拉到「你可以不看」的自主屏蔽位，避免无效骂战。",
+      "patterns": [
+        "杠精转屏蔽者",
+        "时间主权"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "不用试图理解啊朋友，你不需要理解，你也不需要尊重它。",
+          "note": "不用理解朋友"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "尊重他人的选择，也尊重自己的时间。",
+          "note": "尊重自己时间"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "十五块运费、不要买这件夹克广告、618审视消费、超模店员。",
+      "patterns": [
+        "运费数字",
+        "经典广告名",
+        "招聘极端例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "户外品牌Patagonia推出了一个【地球使用费】，意思就是退货会产生碳排放，所",
+          "note": "十五块"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "而Patagonia是天天给环保组织捐钱，研究各种可降解面料，还搞出过著名的【不",
+          "note": "不要买夹克"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "就跟之前有个品牌招店员必须要求超模身材，对方老板直言看不起身材不好的。",
+          "note": "超模身材店员"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "规则说明中密→质问低密→品牌史中密→圈子理论高密→屁事金句降密。",
+      "patterns": [
+        "规则中→理论高→金句降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "户外品牌Patagonia推出了一个【地球使用费】，意思就是退货会产生碳排放，所",
+          "note": "规则中密"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "但巧的是，因为环保在马斯洛评价体系里面，属于金字塔尖里面比较朝上的一种，人吃饱了",
+          "note": "马斯洛高密"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这个世界的本质就是关你屁事和关我屁事。",
+          "note": "屁事降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "展示规则→嘲问→定性筛选→爱好化→商业闭环→甩手收束。",
+      "patterns": [
+        "规则-嘲-定性-理论-甩手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "定性筛选"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "所有品牌策略归根究底就是如何筛选和提纯。",
+          "note": "筛选提纯"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所谓品牌策略，就是选择关谁的屁事。",
+          "note": "策略定义"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "犬儒策略分析师：不站环保队也不站骂战队，只拆筛选与出圈。",
+      "patterns": [
+        "中立犬儒拆解",
+        "时间主权派"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "因为大家从一开始就没必要互相理解，只需要互相屏蔽。",
+          "note": "只需互相屏蔽"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "因为【地球使用费】这名头太6了，你越骂，它越出圈。",
+          "note": "越骂越出圈"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「主要目的不是省钱就是筛选」+「世界本质关你屁事」+「品牌策略=关谁屁事」。",
+      "patterns": [
+        "筛选金句",
+        "屁事世界观",
+        "策略定义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "就是筛选"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这个世界的本质就是关你屁事和关我屁事。",
+          "note": "关你屁事"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "所谓品牌策略，就是选择关谁的屁事。",
+          "note": "关谁屁事"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「争议动作=粉丝筛选+骂战即传播」分析骨架可直接用于其他价值观品牌事件。",
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "你没看错，这东西的主要目的不是省钱，就是筛选。",
+          "note": "筛选主旨"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "因为【地球使用费】这名头太6了，你越骂，它越出圈。",
+          "note": "骂即出圈"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "没有什么合不合理，只有认不认。",
+          "note": "认不认框架"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s6",
+    "s14",
+    "s19",
+    "s40",
+    "s84",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89"
+  ],
+  "fields_complete_25": true
+}

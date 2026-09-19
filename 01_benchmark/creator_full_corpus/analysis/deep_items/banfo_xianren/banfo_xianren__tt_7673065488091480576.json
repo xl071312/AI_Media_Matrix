@@ -1,0 +1,1504 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7673065488091480576",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7673065488091480576/",
+  "source_sha256": "b4c8f6a5ec49fecab6c53664492597b1cbf073b78e4947be3d2445791d5e7a55",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "图片截取自: 安克这群人不太对劲"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 21,
+      "snippet": "前段时间去了趟安克的创造节，都给我看笑了。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "憋了这么多年，安克终于把【焚决】给交出来了。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 51,
+      "snippet": "2022年我写过一篇讲安克的文章，当时分析了安克是怎么通过天时地利杀出来，让华强"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 48,
+      "snippet": "但这次去了这个创造节、亲眼看了现场，我发现安克的成功不只是天时地利，也不只是比华"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "而是整个公司的底色变了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 27,
+      "snippet": "2023年前后，安克把自己的使命、愿景、价值观全改了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 77,
+      "snippet": "这件事我后面会展开讲，但你先记住这个时间节点，因为我在创造节上感受到的那种氛围—"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 22,
+      "snippet": "真有那么一群人，在疯魔般追求创新、打造产品。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 23,
+      "snippet": "就连三体人到了安克创造节，都会觉得自己还得练。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 29,
+      "snippet": "因为三体顶多研究智子，而安克晒出了一批充满智慧的创造狂人。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 40,
+      "snippet": "在他们面前《心灵捕手》略显保守、《IT狂人》过于谦虚，《生活大爆炸》根本不够炸。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 34,
+      "snippet": "好莱坞研究半年都不一定能研究明白的极客气质，他们只要收敛一点就好了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 33,
+      "snippet": "真的，当你现场听他们跟你讲东西的时候，你会有种虚幻甚至荒诞的感觉。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 50,
+      "snippet": "有个设计师直接从原理给我讲他是怎么设计可折叠头戴式耳机的，而且落落大方告诉我这个"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "我问那您是东北人吗？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 25,
+      "snippet": "他说我不是但我有个同事是东北的，特喜欢戴这种耳罩。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 49,
+      "snippet": "并且解释着很合理，因为理论上戴耳罩的那个人自己又看不见耳罩，别人天天瞅见，这灵感"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 17,
+      "snippet": "你觉得工程师都是技术宅，羞涩内敛？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 37,
+      "snippet": "别逗你安克叔叔笑了，安克有个工程师直接在自己展位上摆一桌子薯片当诱捕器使。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 64,
+      "snippet": "我仅仅是被薯片吸引了一秒钟，他就两眼放光拦住我，掏出自己的雷霆产品向我倾泻海量参"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 22,
+      "snippet": "看得出来他是真的想教会我，但我也是真的学渣。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 43,
+      "snippet": "就这么说吧，这种对创造和创新的狂热、对自己工作的痴迷，是只有真的爱到极致才能有的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 30,
+      "snippet": "这种状态靠演是演不出来的，更别说让一群设计师、工程师来演了。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 50,
+      "snippet": "安克要有这本事儿，电影界的圣地应该是安克那个大厦，戛纳电影节直接变安克年会，奥斯"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 8,
+      "snippet": "影视圈就有救了。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 43,
+      "snippet": "比单纯的天时地利更难的，是汇聚这样一群人，为他们提供一个可以尽情发挥、尽情创新的"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "天时可待，地利可寻。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "人和难求。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 20,
+      "snippet": "在这群人背后，安克还有个同样离奇的东西："
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 20,
+      "snippet": "对满足消费者需求、场景和市场趋势的追求。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 32,
+      "snippet": "注意，是个企业都说自己追求这些，但真的把这些刻在骨子里的，不多。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 30,
+      "snippet": "如果说创新是一个人，那这种追求就是心脏、是至关重要的动力源。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 41,
+      "snippet": "现场人特别多，我路过其中一个展位的时候，有个设计师在讲他们找灵感和创新机会的故事"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 65,
+      "snippet": "他说他们有几十个设计师，有人先研究户外趋势，再锁定海外特定人群，最后发现海外用户"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 66,
+      "snippet": "还有人先抓住某个产品的价格痛点，找到成本居高不下的原因，再用特定结构解决问题，最"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 48,
+      "snippet": "举个具体一点的例子，那几年过后，安克发现大家越来越热衷于户外活动了，这就是一个很"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 49,
+      "snippet": "而很多家庭在户外露营的时候，都会需要为冰箱之类的设备供电，过去他们的这个需求是没"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 31,
+      "snippet": "于是安克直接把电池做进了冰箱里，从而实现无线缆+可以灵活移动。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 23,
+      "snippet": "这个产品上市后，众筹成绩是一小时100万美元。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 47,
+      "snippet": "他们还为这种冰箱做了很多特殊的配件设计，比如把拉杆和桌板二合一，让它既能当操作台"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 24,
+      "snippet": "这些小设计并不复杂，但那些海外用户玩这个玩疯了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 20,
+      "snippet": "他讲起这些来，眼睛放光，甚至是如痴如醉。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 10,
+      "snippet": "他真的很喜欢整这个。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "还有个很夸张的数据："
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 51,
+      "snippet": "到目前为止，安克这些设计师已经产出了 70个以上的概念方案，其中10个已经被验证"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 17,
+      "snippet": "以上所有这些，都是近一年弄出来的。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 33,
+      "snippet": "这个效率，已经非常夸张了，因为这里面每个场景都是有一个巨头存在的。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 43,
+      "snippet": "它会按照预设的规则帮人类工程师查漏补缺，标出有错误的地方，甚至直接给到修正和解决"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 18,
+      "snippet": "看起来很简单是吧，万事不决交给AI。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 37,
+      "snippet": "但想要让AI完整模拟现实世界可能出现的错误，这里面的难度超乎很多人的想象。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 30,
+      "snippet": "理论上AI可以帮你判断对错，但AI怎么知道什么是对什么是错？"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 29,
+      "snippet": "这些工程师的答案是，回归第一性原理，回归最基础的物理角度。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 31,
+      "snippet": "展位上这个工程师讲着讲着忽然掏出一个开模件的时候，我直接懵了。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 52,
+      "snippet": "他一边把开模件塞给我，一边连资料都不用看，张嘴就告诉我我手里这个开模件长多少多少"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 47,
+      "snippet": "分别是用什么材料做的，这个材料有什么参数和物理性质，以及这些参数和物理性质会导致"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 42,
+      "snippet": "这些不同维度的特征和数据，就是结构设计的第一性原理、就是这个模具在物理角度的具象"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 55,
+      "snippet": "他们正是自己先摸清楚了这些东西的物理属性，再让AI知道和理解这些物理属性，最后从"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 10,
+      "snippet": "你说这个东西复杂吗？"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 9,
+      "snippet": "其实一点都不复杂。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 16,
+      "snippet": "就是尊重物理，就是尊重客观规律。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 26,
+      "snippet": "简单到就像人饿了要吃饭，渴了要喝水，下雨了要知道躲。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 49,
+      "snippet": "然而它又极端困难，因为它需要设计这套AI系统的结构工程师自己就有丰富的经验，通晓"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 19,
+      "snippet": "人的能力边界，才决定了AI的能力边界。"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 47,
+      "snippet": "把繁琐而耗时的评审工作交给AI，人类工程师才能有更多时间和精力去思考真正困难且需"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 25,
+      "snippet": "从而用灵感和创意，解决那些只有人类才能解决的问题。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 26,
+      "snippet": "而后面那个展位，则是展示了一个可以爬楼的扫地机器人。"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 32,
+      "snippet": "真的，这个展位的工程师讲这个机器人的时候，那个笑容都快溢出来了。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 63,
+      "snippet": "甚至我一看到他们解决爬楼问题的方案我也绷不住了，他们给扫地机器人加了对可折叠的摆"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 28,
+      "snippet": "这个方法真的是太简洁了，已经简洁到了有一种力大砖飞的美。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 47,
+      "snippet": "哪怕是个外行人，也能一看就意识到这就是对的，就应该这样做，甚至显得其他方案复杂到"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 53,
+      "snippet": "事情是这样的，海外有大量的多楼层住宅，这些住宅想解决清洁问题，要么是同时买很多台"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 19,
+      "snippet": "要么就是只买一个，然后靠人力搬来搬去。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 42,
+      "snippet": "传统的扫地机器人当然是没有爬楼功能的，而市面上类似的爬楼功能设备用的往往是轮足结"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 37,
+      "snippet": "这个东西就比较微妙了，【靠机械足爬楼】是一个很常规的、马上就能想到的解法。"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 13,
+      "snippet": "让谁来想都是下意识用这招。"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 14,
+      "snippet": "但它确实不是什么优秀的解法。"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 45,
+      "snippet": "且不说给一个扫地机器人装上机械足会提高多少成本以及有没有这个必要，就说安全性也没"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 22,
+      "snippet": "你这个机械足爬到一半，万一突然断电了怎么办？"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 42,
+      "snippet": "一个大铁疙瘩直接顺着台阶冲下来，遇到人撞人、遇到东西撞东西，那真是仇人看了都释怀"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 24,
+      "snippet": "那这个摆臂方案是如同机械降神一样直接冒出来的吗？"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 4,
+      "snippet": "也不是。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 29,
+      "snippet": "其实一开始，安克这个工程师团队为爬楼机设计的方案是履带……"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 47,
+      "snippet": "然后整个工程机也特别大，而且履带是没法折叠的，这就导致它的重量、成本和安全性其实"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 35,
+      "snippet": "于是安克这些工程师们就继续想、继续思考，在楼梯间日日夜夜地摆弄和实验。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 22,
+      "snippet": "在一个又一个日夜，捕捉空气中一闪而过的灵光。"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 24,
+      "snippet": "终于，有一个工程师联想到了数学上【降幂】的思路。"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 24,
+      "snippet": "把“极致创新”和“探索全新可能”直接写进了使命。"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 20,
+      "snippet": "注意，不是挂在墙上的口号，是动了真格的。"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 9,
+      "snippet": "什么叫动了真格的？"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 63,
+      "snippet": "你在创造节上看到的那些展位，那些工程师眼睛里的光，那些打破砂锅问到底的劲头——不"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 8,
+      "snippet": "比如第一性思考。"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 73,
+      "snippet": "这个词在安克内部被用到了偏执的程度——不是在战略会上讲讲，是从工程师到管理层，遇"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 24,
+      "snippet": "你在前面看到的AI评审专家，就是这种思维的产物；"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 19,
+      "snippet": "爬楼机的降幂思路，也是这种思维的产物。"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 12,
+      "snippet": "再比如对创新不成的态度。"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 23,
+      "snippet": "多数公司的逻辑是，成了鲜花掌声，不成追责检讨。"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 21,
+      "snippet": "安克不一样——创新不成，不追责，还要鼓励。"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 40,
+      "snippet": "它愿意为试错买单，愿意为一个最终没有走向量产的idea，支付研发成本和团队精力。"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 12,
+      "snippet": "这不是大方，反而是清醒。"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 23,
+      "snippet": "创新的底色是概率游戏，十次试错有一次成功就值。"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 32,
+      "snippet": "但你要是惩罚失败，十次都没人敢试，那就连那一次成功的概率都没了。"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 26,
+      "snippet": "2023年之后的安克，和之前，已经不是同一家公司了。"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 49,
+      "snippet": "同样的人，同样的品类，底层的驱动力变了——从效率驱动到创新驱动，从“把事情做对”"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 34,
+      "snippet": "创造节上那60个展位，不是一天长出来的，是这套新价值观，结出的果实。"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 21,
+      "snippet": "最后是时间沉淀，这是最简单但最难熬的一环。"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 45,
+      "snippet": "这些东西不是马上就能见效的，就像一颗种子埋下去，不可能马上变成果树，更不可能马上"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 26,
+      "snippet": "你不光要有充分的耐心等待，还要有顽强的生命力熬下来。"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 13,
+      "snippet": "这么一说，肯定都觉得简单。"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 15,
+      "snippet": "谁都能听懂，谁都知道这是对的。"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 20,
+      "snippet": "但正因为足够简单，所以才毫无捷径可言——"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 23,
+      "snippet": "就是得真有业务，就是得真尊重，就是得真花时间。"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 48,
+      "snippet": "安克这么去做了，并且是从很多年前就开始坚持在做，它活下来了，所以它成了，所以在世"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 24,
+      "snippet": "而这次香港上市，又将是安克在创新路上的重要一步。"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 15,
+      "snippet": "安克的传奇，也将迎来新的高峰。"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 7,
+      "snippet": "传奇足够简单。"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 12,
+      "snippet": "但足够简单，才足够传奇。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "创造节看笑了，安克交焚决；不止天时地利，是2023价值观改底色。",
+      "patterns": [
+        "创造节笑场钩",
+        "交焚决",
+        "价值观改底色"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "前段时间去了趟安克的创造节，都给我看笑了。",
+          "note": "看笑了"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "憋了这么多年，安克终于把【焚决】给交出来了。",
+          "note": "焚决"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "而是整个公司的底色变了。",
+          "note": "底色变"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年前后，安克把自己的使命、愿景、价值观全改了。",
+          "note": "2023改"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "痴迷创造的人→场景趋势追求→AI第一性评审/爬楼降幂案例→制度鼓励试错→时间沉淀成传奇。",
+      "patterns": [
+        "狂人→场景心→案例→制度试错→沉淀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "真有那么一群人，在疯魔般追求创新、打造产品。",
+          "note": "狂人"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "对满足消费者需求、场景和市场趋势的追求。",
+          "note": "场景追求"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "这些工程师的答案是，回归第一性原理，回归最基础的物理角度。",
+          "note": "第一性"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "这个方法真的是太简洁了，已经简洁到了有一种力大砖飞的美。",
+          "note": "降幂简洁"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "安克不一样——创新不成，不追责，还要鼓励。",
+          "note": "试错鼓励"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "传奇"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "create_festival_people",
+          "note": "创造节与人"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s94"
+          ],
+          "function": "scene_obsession",
+          "note": "场景趋势与效率"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133"
+          ],
+          "function": "ai_and_climb",
+          "note": "AI评审与爬楼机"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227"
+          ],
+          "function": "values_time",
+          "note": "价值观与时间沉淀"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这件事后面展开/注意/如果说/举个具体例子/看起来很简单/而后面那个展位推进。",
+      "patterns": [
+        "后面展开",
+        "注意",
+        "举个具体",
+        "看起来简单",
+        "而后面"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这件事我后面会展开讲，但你先记住这个时间节点，因为我在创造节上感受到的那种氛围—",
+          "note": "后面展开"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "注意，是个企业都说自己追求这些，但真的把这些刻在骨子里的，不多。",
+          "note": "注意"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "举个具体一点的例子，那几年过后，安克发现大家越来越热衷于户外活动了，这就是一个很",
+          "note": "举例"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "看起来很简单是吧，万事不决交给AI。",
+          "note": "看起来简单"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "而后面那个展位，则是展示了一个可以爬楼的扫地机器人。",
+          "note": "而后面"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "天时地利vs人和底色；行业常规机械足vs摆臂降幂；多数追责vs安克鼓励失败。",
+      "patterns": [
+        "天时vs人和",
+        "机械足vs摆臂",
+        "追责vs鼓励"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但这次去了这个创造节、亲眼看了现场，我发现安克的成功不只是天时地利，也不只是比华",
+          "note": "不止天时"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "这个东西就比较微妙了，【靠机械足爬楼】是一个很常规的、马上就能想到的解法。",
+          "note": "机械足"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "甚至我一看到他们解决爬楼问题的方案我也绷不住了，他们给扫地机器人加了对可折叠的摆",
+          "note": "摆臂"
+        },
+        {
+          "sentence_id": "s207",
+          "snippet": "多数公司的逻辑是，成了鲜花掌声，不成追责检讨。",
+          "note": "多数追责"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "安克不一样——创新不成，不追责，还要鼓励。",
+          "note": "安克鼓励"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "您是东北人吗现场问；工程师都羞涩？AI怎知对错？断电怎么办？摆臂如机械降神冒出？",
+      "patterns": [
+        "现场追问",
+        "刻板反问",
+        "安全追问",
+        "灵感来源问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我问那您是东北人吗？",
+          "note": "东北人吗"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你觉得工程师都是技术宅，羞涩内敛？",
+          "note": "刻板反问"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "理论上AI可以帮你判断对错，但AI怎么知道什么是对什么是错？",
+          "note": "对错问"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "你这个机械足爬到一半，万一突然断电了怎么办？",
+          "note": "断电"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "那这个摆臂方案是如同机械降神一样直接冒出来的吗？",
+          "note": "冒出吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "东北耳罩折叠耳机；薯片诱捕讲雷霆；户外电池冰箱众筹百万；开模件报尺寸；爬楼摆臂/曾用履带。",
+      "patterns": [
+        "耳罩灵感",
+        "薯片诱捕",
+        "电池冰箱",
+        "开模件",
+        "爬楼演进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "有个设计师直接从原理给我讲他是怎么设计可折叠头戴式耳机的，而且落落大方告诉我这个",
+          "note": "耳罩"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "别逗你安克叔叔笑了，安克有个工程师直接在自己展位上摆一桌子薯片当诱捕器使。",
+          "note": "薯片"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "于是安克直接把电池做进了冰箱里，从而实现无线缆+可以灵活移动。",
+          "note": "电池冰箱"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这个产品上市后，众筹成绩是一小时100万美元。",
+          "note": "众筹"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "其实一开始，安克这个工程师团队为爬楼机设计的方案是履带……",
+          "note": "履带先"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "价值观抽象→展位眼睛有光；第一性→壁厚材料参数；降幂→摆臂搭斜面。",
+      "patterns": [
+        "眼睛有光",
+        "壁厚参数",
+        "摆臂斜面"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s201",
+          "snippet": "你在创造节上看到的那些展位，那些工程师眼睛里的光，那些打破砂锅问到底的劲头——不",
+          "note": "眼睛有光"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "他一边把开模件塞给我，一边连资料都不用看，张嘴就告诉我我手里这个开模件长多少多少",
+          "note": "壁厚"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "甚至我一看到他们解决爬楼问题的方案我也绷不住了，他们给扫地机器人加了对可折叠的摆",
+          "note": "斜面"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "人不太对劲、三体还得练、人和难求、力大砖飞的美、足够简单才传奇。",
+      "patterns": [
+        "不对劲",
+        "人和难求",
+        "力大砖飞",
+        "简单传奇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "就连三体人到了安克创造节，都会觉得自己还得练。",
+          "note": "三体还练"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "人和难求。",
+          "note": "人和难求"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "这个方法真的是太简洁了，已经简洁到了有一种力大砖飞的美。",
+          "note": "力大砖飞"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "传奇"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "也不是（摆臂非机械降神）；一开始是履带再迭代；看起来不复杂实则极端困难。",
+      "patterns": [
+        "也不是",
+        "履带迭代",
+        "简单实难"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s128",
+          "snippet": "也不是。",
+          "note": "也不是"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "其实一开始，安克这个工程师团队为爬楼机设计的方案是履带……",
+          "note": "履带"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "其实一点都不复杂。",
+          "note": "不复杂"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "然而它又极端困难，因为它需要设计这套AI系统的结构工程师自己就有丰富的经验，通晓",
+          "note": "极端困难"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "章节号；影视夸张比喻加速喜剧；案例中速；价值观段短句锤（人和难求）。",
+      "patterns": [
+        "章节",
+        "夸张加速",
+        "短句锤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "1",
+          "note": "章节"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "在他们面前《心灵捕手》略显保守、《IT狂人》过于谦虚，《生活大爆炸》根本不够炸。",
+          "note": "夸张"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "人和难求。",
+          "note": "短锤"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "传奇足够简单。",
+          "note": "短收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "笑场荒诞→被薯片工程师碾压→场景故事共鸣→开模件懵→爬楼方案绷不住赞→价值观敬→传奇收。",
+      "patterns": [
+        "荒诞笑→碾压→赞叹→敬→传奇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "前段时间去了趟安克的创造节，都给我看笑了。",
+          "note": "笑"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "我仅仅是被薯片吸引了一秒钟，他就两眼放光拦住我，掏出自己的雷霆产品向我倾泻海量参",
+          "note": "碾压"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "展位上这个工程师讲着讲着忽然掏出一个开模件的时候，我直接懵了。",
+          "note": "懵"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "这个方法真的是太简洁了，已经简洁到了有一种力大砖飞的美。",
+          "note": "赞"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "传奇"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头焚决/底色变→结尾传奇足够简单；2023价值观改与创造节果实首尾咬合。",
+      "patterns": [
+        "焚决到传奇",
+        "2023果实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "憋了这么多年，安克终于把【焚决】给交出来了。",
+          "note": "焚决"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "创造节上那60个展位，不是一天长出来的，是这套新价值观，结出的果实。",
+          "note": "果实"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "传奇收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注硬CTA；港股上市前瞻作软收束。",
+      "patterns": [
+        "无硬CTA",
+        "上市前瞻软收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s224",
+          "snippet": "而这次香港上市，又将是安克在创新路上的重要一步。",
+          "note": "上市"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "安克的传奇，也将迎来新的高峰。",
+          "note": "高峰"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "安克叔叔笑了、薯片诱捕、力大砖飞、三体/好莱坞乱比喻，半佛强口语。",
+      "patterns": [
+        "安克叔叔",
+        "薯片诱捕",
+        "力大砖飞",
+        "三体喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "别逗你安克叔叔笑了，安克有个工程师直接在自己展位上摆一桌子薯片当诱捕器使。",
+          "note": "叔叔薯片"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "这个方法真的是太简洁了，已经简洁到了有一种力大砖飞的美。",
+          "note": "力大砖飞"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "就连三体人到了安克创造节，都会觉得自己还得练。",
+          "note": "三体"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口严重截断(s50跳s94、s133跳s198)；品牌软广长；70概念/10推进缺独立核验。",
+      "patterns": [
+        "截断",
+        "软广",
+        "数据待核"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 安克这群人不太对劲",
+          "note": "截图噪"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "到目前为止，安克这些设计师已经产出了 70个以上的概念方案，其中10个已经被验证",
+          "note": "70/10"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这个效率，已经非常夸张了，因为这里面每个场景都是有一个巨头存在的。",
+          "note": "截断前"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示现场听讲→追问东北→悟灵感归属；机械足不安全→履带不佳→降幂摆臂的解题链。",
+      "patterns": [
+        "现场追问悟",
+        "方案迭代链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我问那您是东北人吗？",
+          "note": "追问"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "并且解释着很合理，因为理论上戴耳罩的那个人自己又看不见耳罩，别人天天瞅见，这灵感",
+          "note": "悟"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "但它确实不是什么优秀的解法。",
+          "note": "否常规"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "终于，有一个工程师联想到了数学上【降幂】的思路。",
+          "note": "降幂"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当跟作者一起逛展的吃瓜人，用你觉得工程师…/你说复杂吗拉同盟。",
+      "patterns": [
+        "逛展吃瓜同盟",
+        "你觉得你说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "真的，当你现场听他们跟你讲东西的时候，你会有种虚幻甚至荒诞的感觉。",
+          "note": "当你现场"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你觉得工程师都是技术宅，羞涩内敛？",
+          "note": "你觉得"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "你说这个东西复杂吗？",
+          "note": "你说"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2022旧文/2023改价值观、东北耳罩、一小时100万美元、开模件尺寸、爬楼摆臂、60展位。",
+      "patterns": [
+        "2023节点",
+        "众筹百万",
+        "摆臂",
+        "60展位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年前后，安克把自己的使命、愿景、价值观全改了。",
+          "note": "2023"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这个产品上市后，众筹成绩是一小时100万美元。",
+          "note": "众筹"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "甚至我一看到他们解决爬楼问题的方案我也绷不住了，他们给扫地机器人加了对可折叠的摆",
+          "note": "摆臂"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "创造节上那60个展位，不是一天长出来的，是这套新价值观，结出的果实。",
+          "note": "60展位"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场喜剧中密→人物现场高密→场景案例高密→AI/爬楼技术高密→价值观中密金句收。",
+      "patterns": [
+        "现场高",
+        "技术高",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我仅仅是被薯片吸引了一秒钟，他就两眼放光拦住我，掏出自己的雷霆产品向我倾泻海量参",
+          "note": "现场高"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "他们正是自己先摸清楚了这些东西的物理属性，再让AI知道和理解这些物理属性，最后从",
+          "note": "技术高"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "金句"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现场钩→人物速写→场景例→技术深潜问答→价值观短锤→传奇对句收。",
+      "patterns": [
+        "现场钩",
+        "速写例",
+        "技术问答",
+        "短锤对句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "前段时间去了趟安克的创造节，都给我看笑了。",
+          "note": "钩"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "举个具体一点的例子，那几年过后，安克发现大家越来越热衷于户外活动了，这就是一个很",
+          "note": "例"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "理论上AI可以帮你判断对错，但AI怎么知道什么是对什么是错？",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "传奇足够简单。",
+          "note": "对句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "产业游客式半佛：用荒诞比喻夸人，骨子里推第一性与试错制度。",
+      "patterns": [
+        "荒诞夸人",
+        "第一性推手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "在他们面前《心灵捕手》略显保守、《IT狂人》过于谦虚，《生活大爆炸》根本不够炸。",
+          "note": "荒诞夸"
+        },
+        {
+          "sentence_id": "s203",
+          "snippet": "这个词在安克内部被用到了偏执的程度——不是在战略会上讲讲，是从工程师到管理层，遇",
+          "note": "第一性"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "交焚决、人和难求、薯片诱捕、第一性物理、摆臂降幂、足够简单才传奇。",
+      "patterns": [
+        "焚决",
+        "人和难求",
+        "薯片",
+        "第一性",
+        "摆臂",
+        "简单传奇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "憋了这么多年，安克终于把【焚决】给交出来了。",
+          "note": "焚决"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "人和难求。",
+          "note": "人和"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "这些工程师的答案是，回归第一性原理，回归最基础的物理角度。",
+          "note": "第一性"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "传奇"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "创造节人物钩→场景洞察例→第一性技术案例→试错制度的创新公司叙事可直接改编观宇产业口播。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "而是整个公司的底色变了。",
+          "note": "底色变"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "这些工程师的答案是，回归第一性原理，回归最基础的物理角度。",
+          "note": "第一性"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "安克不一样——创新不成，不追责，还要鼓励。",
+          "note": "试错"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "但足够简单，才足够传奇。",
+          "note": "收束金句"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s30",
+    "s33",
+    "s34",
+    "s39",
+    "s41",
+    "s42",
+    "s48",
+    "s50",
+    "s95",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s103",
+    "s104",
+    "s105",
+    "s108",
+    "s113",
+    "s115",
+    "s116",
+    "s121",
+    "s124",
+    "s125",
+    "s127",
+    "s128",
+    "s129",
+    "s133",
+    "s201",
+    "s203",
+    "s207",
+    "s208",
+    "s215",
+    "s224",
+    "s225",
+    "s226",
+    "s227"
+  ],
+  "fields_complete_25": true
+}

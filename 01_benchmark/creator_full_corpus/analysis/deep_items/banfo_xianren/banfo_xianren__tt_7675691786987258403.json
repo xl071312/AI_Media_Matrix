@@ -1,0 +1,1242 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7675691786987258403",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7675691786987258403/",
+  "source_sha256": "9574627886be909626aff48a77ae290fefcb2176cd505ff2ca6165948442c2c5",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 85,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 35,
+      "snippet": "这段时间我最绷不住的视频，是看到奕境汽车找郭富城做奕境X9首测的那个。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "汽车找明星做代言人很常见；"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "给明星送车也很平常；"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 17,
+      "snippet": "什么叫你让明星从代言变“代驾”了？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 62,
+      "snippet": "更幽默的是，很多明星未必会开自己代言的车，甚至都未必会亲自开车，你让明星给你做智"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 36,
+      "snippet": "但郭天王这一路测下来，你会发现他的反应不是安全或者不安全，而是绷不住了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 41,
+      "snippet": "他反复在一种【这是代言场合我不能乐】和【代言这么个车真是赚到了】的表情中轮番切换"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 22,
+      "snippet": "看视频之前会觉得天王就是拼，这事儿都亲自上；"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 24,
+      "snippet": "看完视频之后觉得天王表情管理就是好，这都能不笑。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 33,
+      "snippet": "我深度怀疑视频一收工，品牌方和天王掉头就跑，生怕跑慢了对方会反悔。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "这事儿有趣在哪儿呢？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "郭天王会开车吗？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "会开车，还是赛车手。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 15,
+      "snippet": "郭天王有大六座SUV的需求吗？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "真有，因为光女儿就有仨。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 23,
+      "snippet": "在之前，郭天王完全没有体验过这类智能辅助驾驶。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 27,
+      "snippet": "而往往越是老司机，越相信自己的习惯，越不习惯让机器来。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 38,
+      "snippet": "所以刚上车的前几分钟，你感觉到郭天王认真的像是在重考科目三，礼让行人再转弯。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 34,
+      "snippet": "代言很重要，生命安全更重要，郭天王头都不太敢回，生怕这车耍什么花招。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 34,
+      "snippet": "但万万没想到，智能辅助驾驶一开的那一刹，郭天王的心防如同黄油般融化。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 23,
+      "snippet": "郭天王说这车好强，会变道会打灯甚至还会摁喇叭。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 17,
+      "snippet": "车上的品牌方都笑了，只是温柔地说，"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 45,
+      "snippet": "奕境X9标配全系标配华为乾崑智驾®ADS 5，这个东西的累计辅助行驶里程已超13"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "大白话来讲，这数字是什么概念？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 56,
+      "snippet": "约等于赤道绕着跑了324万圈，往返太阳43个来回，郭富城是天王巨星，华为乾崑智驾"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 28,
+      "snippet": "你叫它智能辅助驾驶还是太温柔了，它某种意义上甚至算器灵。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 31,
+      "snippet": "你别说地球路况对它不算复杂，三体人在太阳系迷路了都得打它电话。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 30,
+      "snippet": "更微妙的是，郭天王说这车刹车很丝滑，看到前面有大车会早点刹。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "品牌方又解释，"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 21,
+      "snippet": "这车全系标配896线双光路图像级激光雷达。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 28,
+      "snippet": "看似这是个数学题，比192线激光雷达提升了4倍的分辨率。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 33,
+      "snippet": "实际上这是个生物题，这等于120米外一巴掌大的生物你一看就是高清。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 42,
+      "snippet": "才开了三四十公里，郭天王硬是给开乐了，开美了，开上瘾了，原本180的心跳直接平稳"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "丝滑，感受就是丝滑。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "摩擦？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "一路没有摩擦。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 27,
+      "snippet": "这75寸彩色HUD往那儿一放，天王的眼前比星空更灿烂；"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 64,
+      "snippet": "这全铝底盘配上EDC与双腔空气悬架，天王感觉像是战斗机驾驶员开民航，赛车手开家用"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 24,
+      "snippet": "对对对对对对没错没错这车是我代言的就是我代言的。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "千万要去买啊，千万要去买啊。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 20,
+      "snippet": "但以上这些还只是基操，幽默的是以下对话。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 55,
+      "snippet": "品牌方还在说出隧道的时候事故多，因为有光照变化容易导致驾驶员不适应，所以车载屏幕"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 34,
+      "snippet": "说这车后面有幕布，这样小朋友在后面看电影时不伤眼睛，郭天王表示有用。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 50,
+      "snippet": "最离谱的是这车既然是全家出行用车，它不光主驾开得爽，冬天有座椅加热，夏天有座椅通"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 73,
+      "snippet": "甚至为了让小朋友们看电影时更有3D电影一样的体验感，二排座椅不光是双零重力的，还"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 19,
+      "snippet": "那一刻天王都愣了，场景非常有喜剧效果。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 27,
+      "snippet": "大家都听了一辈子汽车研究减震，结果遇到个说研究加震的。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 33,
+      "snippet": "不是说新能源都是冰箱彩电大沙发，怎么你这直接进化成客厅影院休闲吧？"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 58,
+      "snippet": "考虑到孩子还能打开零下六度的冰箱，随时掏出冰棍吃个爽，我是观众我都酸了，都说让孩"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 28,
+      "snippet": "孩子一上车再看的是《临时劫案》，第一反应都要跟车说谢谢。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 12,
+      "snippet": "最后绝了的一句话是什么？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "是品牌方说了一句，"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 14,
+      "snippet": "这车续航超过了1500公里。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "这个数是什么概念呢？"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 13,
+      "snippet": "上海到香港，能一路开过去；"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 13,
+      "snippet": "上海到安徽，能开一个来回。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 50,
+      "snippet": "你再算全程有智能辅助驾驶，合着天王到了安徽，车就交给智能辅助驾驶停，还能和家人玩"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 13,
+      "snippet": "这个数字还存在里程焦虑吗？"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "该焦虑的是飞机和高铁。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "至于安全你更是放心。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 70,
+      "snippet": "首先它有一个A柱内嵌的2300MPa热气胀管梁，其次它有一个2400MPa超强钢"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 37,
+      "snippet": "这都不用提CAS 5.0全维防碰撞系统，在危机时刻能提前预防这种高级功能。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 23,
+      "snippet": "咱就说单论这个数值，超人吃饱了能跟这车来两下。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 21,
+      "snippet": "郭天王开这车回家，这车才是真正的上海堡垒。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 72,
+      "snippet": "又大，又轻，还硬，还是六座，整个严肃的首测过程，郭天王硬是听着自己的歌，一路美美"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 27,
+      "snippet": "我是这一路上的其他车我都傻了，什么叫公路上来了个球王？"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 21,
+      "snippet": "这车里到底坐着什么人物，郭天王都给他开车？"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 74,
+      "snippet": "到最后整个视频的画风都变了，什么测试环形湿路，八字绕桩，连续起伏路，湿滑对开路，"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 53,
+      "snippet": "坐在零重力座椅上硬是不愿起来了，如果不是他猛然反应过来这是在拍视频，我都怀疑他要"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 14,
+      "snippet": "出道早了，到底是出道早了啊。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 24,
+      "snippet": "不然就知道《对你爱不完》是写给谁的了，写给谁的？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 8,
+      "snippet": "写给奕境X9的。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 16,
+      "snippet": "这个视频最灵魂的一幕，还在最后。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 49,
+      "snippet": "不是这车怎么丝滑的过弯，怎么自动泊车，而是郭天王都诚恳地表示，一定，一定，一定要"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 34,
+      "snippet": "车都没上市呢，他都表示贵三倍都值得买，请一定要让我当上001号车主。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 53,
+      "snippet": "哇我就没见过这么有感染力的营销方式，别的代言人还在拍TVC呢，这边代言人直接从真"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 41,
+      "snippet": "别的车还在吹自己豪华，奕境X9这车天王都扛不住，中国科技对地球来说的确是有点溢出"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 57,
+      "snippet": "我都想不到未来奕境X9车友群能有多刺激了，网友们看到有人在车友群里飙歌，笑死这么"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 33,
+      "snippet": "别的车友聚会聚餐烧烤按摩，奕境X9车主参加车友演唱会，还是开着去。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 25,
+      "snippet": "在一片应援棒中，奕境车主也打开了车灯打 call。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 11,
+      "snippet": "因为奕境X9，就是棒。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "绷不住的郭富城首测视频开场，代言变代驾反常识钩。",
+      "patterns": [
+        "绷不住钩",
+        "代言变代驾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这段时间我最绷不住的视频，是看到奕境汽车找郭富城做奕境X9首测的那个。",
+          "note": "最绷不住的视频"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代言变代驾了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "明星智驾首测荒诞→老司机心防融化→参数器灵化→全家影院加震→续航安全→真买001收束。",
+      "patterns": [
+        "代言代驾荒诞",
+        "心防融化",
+        "参数神话",
+        "加震喜剧",
+        "真买跨越"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代言变代驾"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但万万没想到，智能辅助驾驶一开的那一刹，郭天王的心防如同黄油般融化。",
+          "note": "心防如同黄油融化"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你叫它智能辅助驾驶还是太温柔了，它某种意义上甚至算器灵。",
+          "note": "某种意义上甚至算器灵"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "大家都听了一辈子汽车研究减震，结果遇到个说研究加震的。",
+          "note": "研究加震的"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "哇我就没见过这么有感染力的营销方式，别的代言人还在拍TVC呢，这边代言人直接从真",
+          "note": "真上路真测试真买"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "hook_absurdity",
+          "note": "代言代驾绷不住"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42"
+          ],
+          "function": "drive_conversion",
+          "note": "老司机科目三→器灵参数→丝滑上瘾"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75"
+          ],
+          "function": "family_theater_flex",
+          "note": "柔光屏律动座椅冰箱续航安全"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85"
+          ],
+          "function": "real_buy_close",
+          "note": "右舵001与车友演唱会脑洞"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这事儿有趣在哪儿/但万万没想到/大白话/但以上还只是基操推进。",
+      "patterns": [
+        "有趣在哪儿",
+        "万万没想到",
+        "大白话",
+        "基操以上"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这事儿有趣在哪儿呢？",
+          "note": "这事儿有趣在哪儿呢"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但万万没想到，智能辅助驾驶一开的那一刹，郭天王的心防如同黄油般融化。",
+          "note": "但万万没想到"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "大白话来讲，这数字是什么概念？",
+          "note": "大白话来讲"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但以上这些还只是基操，幽默的是以下对话。",
+          "note": "还只是基操"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "代言场合不能乐 vs 赚到了；减震传统 vs 加震；里程焦虑转嫁飞机高铁。",
+      "patterns": [
+        "表情管理对打",
+        "减震vs加震",
+        "焦虑对象翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "他反复在一种【这是代言场合我不能乐】和【代言这么个车真是赚到了】的表情中轮番切换",
+          "note": "不能乐与赚到了切换"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "大家都听了一辈子汽车研究减震，结果遇到个说研究加震的。",
+          "note": "减震遇到加震"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "该焦虑的是飞机和高铁。",
+          "note": "该焦虑的是飞机高铁"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "代言变代驾？会开车吗？有需求吗？数字概念？写给谁？连环问。",
+      "patterns": [
+        "代驾质问",
+        "会开吗",
+        "需求吗",
+        "数字概念",
+        "写给谁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代言变代驾"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "郭天王会开车吗？",
+          "note": "郭天王会开车吗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "大白话来讲，这数字是什么概念？",
+          "note": "这数字是什么概念"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "不然就知道《对你爱不完》是写给谁的了，写给谁的？",
+          "note": "写给谁的"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "科目三礼让、赤道324万圈、三体打电话、临时劫案、上海到香港续航。",
+      "patterns": [
+        "科目三",
+        "赤道太阳圈",
+        "三体电话",
+        "临时劫案",
+        "沪港续航"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "所以刚上车的前几分钟，你感觉到郭天王认真的像是在重考科目三，礼让行人再转弯。",
+          "note": "重考科目三"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "约等于赤道绕着跑了324万圈，往返太阳43个来回，郭富城是天王巨星，华为乾崑智驾",
+          "note": "赤道324万圈"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你别说地球路况对它不算复杂，三体人在太阳系迷路了都得打它电话。",
+          "note": "三体人打它电话"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "上海到香港，能一路开过去；",
+          "note": "上海到香港一路开"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "智能辅助→会变道打灯按喇叭；分辨率提升→120米外巴掌高清；续航1500→安徽来回。",
+      "patterns": [
+        "智驾→变道喇叭",
+        "896线→巴掌高清",
+        "1500→沪港"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "郭天王说这车好强，会变道会打灯甚至还会摁喇叭。",
+          "note": "会变道会打灯摁喇叭"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "实际上这是个生物题，这等于120米外一巴掌大的生物你一看就是高清。",
+          "note": "120米外一巴掌高清"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "上海到安徽，能开一个来回。",
+          "note": "上海到安徽一个来回"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "绷不住、器灵、丝滑、上海堡垒、中国科技溢出等夸张判词。",
+      "patterns": [
+        "绷不住",
+        "器灵",
+        "上海堡垒",
+        "科技溢出"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "但郭天王这一路测下来，你会发现他的反应不是安全或者不安全，而是绷不住了。",
+          "note": "而是绷不住了"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你叫它智能辅助驾驶还是太温柔了，它某种意义上甚至算器灵。",
+          "note": "甚至算器灵"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "郭天王开这车回家，这车才是真正的上海堡垒。",
+          "note": "真正的上海堡垒"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "别的车还在吹自己豪华，奕境X9这车天王都扛不住，中国科技对地球来说的确是有点溢出",
+          "note": "科技对地球溢出"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先觉天王拼亲自上，看完改口表情管理好；出道早晚后悔式翻案。",
+      "patterns": [
+        "拼到表情管理翻案",
+        "出道早了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "看视频之前会觉得天王就是拼，这事儿都亲自上；",
+          "note": "天王就是拼"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "看完视频之后觉得天王表情管理就是好，这都能不笑。",
+          "note": "表情管理就是好"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "出道早了，到底是出道早了啊。",
+          "note": "出道早了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "章节数字分段，金句短刺与参数长句交替，末段脑洞加速。",
+      "patterns": [
+        "章节鼓点",
+        "参数长句",
+        "脑洞加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "2",
+          "note": "2"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这全铝底盘配上EDC与双腔空气悬架，天王感觉像是战斗机驾驶员开民航，赛车手开家用",
+          "note": "全铝底盘长句"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "我都想不到未来奕境X9车友群能有多刺激了，网友们看到有人在车友群里飙歌，笑死这么",
+          "note": "车友群飙歌脑洞"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "荒诞好笑→紧张科目三→融化上瘾→喜剧加震→感染力真买高潮。",
+      "patterns": [
+        "荒诞笑",
+        "紧张",
+        "融化上瘾",
+        "加震喜剧",
+        "真买高潮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代言变代驾"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "所以刚上车的前几分钟，你感觉到郭天王认真的像是在重考科目三，礼让行人再转弯。",
+          "note": "重考科目三"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "才开了三四十公里，郭天王硬是给开乐了，开美了，开上瘾了，原本180的心跳直接平稳",
+          "note": "开乐了开美了"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "那一刻天王都愣了，场景非常有喜剧效果。",
+          "note": "天王都愣了"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "车都没上市呢，他都表示贵三倍都值得买，请一定要让我当上001号车主。",
+          "note": "001号车主"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣代言感染力，用奕境X9就是棒收束应援意象。",
+      "patterns": [
+        "代言感染力回扣",
+        "就是棒收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "哇我就没见过这么有感染力的营销方式，别的代言人还在拍TVC呢，这边代言人直接从真",
+          "note": "真买跨越"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "因为奕境X9，就是棒。",
+          "note": "奕境X9就是棒"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "嵌入角色口吻千万要去买+右舵诉求，软广式感染CTA。",
+      "patterns": [
+        "角色代言口吻CTA",
+        "右舵真买"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "千万要去买啊，千万要去买啊。",
+          "note": "千万要去买啊"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "不是这车怎么丝滑的过弯，怎么自动泊车，而是郭天王都诚恳地表示，一定，一定，一定要",
+          "note": "尽快推出右舵车型"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "车都没上市呢，他都表示贵三倍都值得买，请一定要让我当上001号车主。",
+          "note": "001号车主"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "嘴角比AK难压、对你爱不完写给车、车友演唱会开灯打call等疯批互文。",
+      "patterns": [
+        "AK嘴角",
+        "爱不完写给车",
+        "车友演唱会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "这全铝底盘配上EDC与双腔空气悬架，天王感觉像是战斗机驾驶员开民航，赛车手开家用",
+          "note": "嘴角比AK都难压"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "写给奕境X9的。",
+          "note": "写给奕境X9的"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "在一片应援棒中，奕境车主也打开了车灯打 call。",
+          "note": "打开了车灯打 call"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "参数神话堆砌易显软广；章节广告感强，幽默密度掩盖验证不足。",
+      "patterns": [
+        "参数软广堆",
+        "验证不足",
+        "广告章节感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "奕境X9标配全系标配华为乾崑智驾®ADS 5，这个东西的累计辅助行驶里程已超13",
+          "note": "全系标配华为乾崑"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "这车续航超过了1500公里。",
+          "note": "续航超过1500"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "首先它有一个A柱内嵌的2300MPa热气胀管梁，其次它有一个2400MPa超强钢",
+          "note": "2300MPa管梁"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先问会开/需求再解心防融化，再把参数翻译成赤道太阳圈生物题。",
+      "patterns": [
+        "先问再解",
+        "参数翻译比喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "郭天王会开车吗？",
+          "note": "会开车吗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "大白话来讲，这数字是什么概念？",
+          "note": "数字是什么概念"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "实际上这是个生物题，这等于120米外一巴掌大的生物你一看就是高清。",
+          "note": "实际上这是个生物题"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当看戏吃瓜的同谋，用我是其他车我都傻了拉入公路视角。",
+      "patterns": [
+        "吃瓜同谋",
+        "公路他车视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我深度怀疑视频一收工，品牌方和天王掉头就跑，生怕跑慢了对方会反悔。",
+          "note": "品牌方和天王掉头就跑"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "我是这一路上的其他车我都傻了，什么叫公路上来了个球王？",
+          "note": "我是其他车我都傻了"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "考虑到孩子还能打开零下六度的冰箱，随时掏出冰棍吃个爽，我是观众我都酸了，都说让孩",
+          "note": "我是观众我都酸了"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "ADS5 130亿公里、896线雷达、75寸HUD、1500公里、三女儿需求。",
+      "patterns": [
+        "130亿公里",
+        "896线",
+        "75寸HUD",
+        "1500续航",
+        "三女儿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "奕境X9标配全系标配华为乾崑智驾®ADS 5，这个东西的累计辅助行驶里程已超13",
+          "note": "累计辅助行驶130亿"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "这车全系标配896线双光路图像级激光雷达。",
+          "note": "896线双光路"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "这75寸彩色HUD往那儿一放，天王的眼前比星空更灿烂；",
+          "note": "75寸彩色HUD"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "真有，因为光女儿就有仨。",
+          "note": "女儿就有仨"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场笑点中→参数翻译高峰→家庭配置高峰→脑洞收束信息降。",
+      "patterns": [
+        "笑点中",
+        "参数峰",
+        "家庭峰",
+        "脑洞降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代驾钩"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "约等于赤道绕着跑了324万圈，往返太阳43个来回，郭富城是天王巨星，华为乾崑智驾",
+          "note": "赤道太阳圈峰"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "甚至为了让小朋友们看电影时更有3D电影一样的体验感，二排座椅不光是双零重力的，还",
+          "note": "律动座椅"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "我都想不到未来奕境X9车友群能有多刺激了，网友们看到有人在车友群里飙歌，笑死这么",
+          "note": "车友群脑洞"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问短句与参数长句咬合，对对对重复模拟代言人崩坏。",
+      "patterns": [
+        "设问短",
+        "参数长",
+        "重复崩坏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "郭天王会开车吗？",
+          "note": "会开车吗"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这全铝底盘配上EDC与双腔空气悬架，天王感觉像是战斗机驾驶员开民航，赛车手开家用",
+          "note": "战斗机民航长句"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "对对对对对对没错没错这车是我代言的就是我代言的。",
+          "note": "对对对对对对没错"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式汽车软广毒舌：用明星表情管理当笑点，参数全部神话化翻译。",
+      "patterns": [
+        "表情管理毒舌",
+        "参数神话翻译",
+        "软广狂欢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "他反复在一种【这是代言场合我不能乐】和【代言这么个车真是赚到了】的表情中轮番切换",
+          "note": "不能乐与赚到了"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你叫它智能辅助驾驶还是太温柔了，它某种意义上甚至算器灵。",
+          "note": "算器灵"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "别的车还在吹自己豪华，奕境X9这车天王都扛不住，中国科技对地球来说的确是有点溢出",
+          "note": "天王都扛不住"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "代言变代驾、器灵、研究加震、对你爱不完写给X9、就是棒。",
+      "patterns": [
+        "代言变代驾",
+        "器灵",
+        "加震",
+        "爱不完",
+        "就是棒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代言变代驾"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你叫它智能辅助驾驶还是太温柔了，它某种意义上甚至算器灵。",
+          "note": "算器灵"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "大家都听了一辈子汽车研究减震，结果遇到个说研究加震的。",
+          "note": "研究加震"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "因为奕境X9，就是棒。",
+          "note": "就是棒"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "荒诞钩→心防融化→参数比喻翻译→真买闭环可改编观宇科技产品口播，需大幅降软广溢美并补独立验证。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "什么叫你让明星从代言变“代驾”了？",
+          "note": "代驾钩"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "实际上这是个生物题，这等于120米外一巴掌大的生物你一看就是高清。",
+          "note": "生物题翻译"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "哇我就没见过这么有感染力的营销方式，别的代言人还在拍TVC呢，这边代言人直接从真",
+          "note": "真买跨越"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s22",
+    "s28",
+    "s50",
+    "s80",
+    "s1",
+    "s13",
+    "s43",
+    "s76",
+    "s26",
+    "s44",
+    "s8",
+    "s62",
+    "s14",
+    "s74",
+    "s20",
+    "s27",
+    "s29",
+    "s58",
+    "s23",
+    "s34",
+    "s59",
+    "s7",
+    "s67",
+    "s81",
+    "s9",
+    "s10",
+    "s73",
+    "s12",
+    "s40",
+    "s82",
+    "s35",
+    "s49",
+    "s79",
+    "s85",
+    "s42",
+    "s78",
+    "s75",
+    "s84",
+    "s25",
+    "s56",
+    "s64",
+    "s11",
+    "s69",
+    "s52",
+    "s32",
+    "s39",
+    "s17",
+    "s48",
+    "s41"
+  ],
+  "fields_complete_25": true
+}

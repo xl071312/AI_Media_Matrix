@@ -1,0 +1,1809 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_HLzGdUMxQtU",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=HLzGdUMxQtU",
+  "source_sha256": "cc3cfd648befe750d0faa4bff44c4d06d0d10b7d838b7737d3e5af60dc079560",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 200,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "而是 川"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "如果把"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "川普上台后对盟好不"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "中国新老大面前拜马头"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "稳住自己对�含经�"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "每一人比我更懂狗草创"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "我就敢把它放点"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 16,
+      "snippet": "要想二零一期咱们给了创办什么待遇"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "故宫保运�"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "但自己搞了西西拉拉"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "创办不成功的担有忘不掉"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "这就成了他的心魔"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 27,
+      "snippet": "所以这次他直接说希望访华的接待规模是中国有史以来最大的"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "真的很搞笑"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "整个地球最大的两个国家的元首见面"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "动着影响几十亿人的生计"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "如说希望谈出成果"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "如说希望达成协议"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "而希望排面最大"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "串不是最惊的"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "我管你什么盟友什么国际秩序"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "大小姐加到通通闪一边而且"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "我只要自己的利益最大话"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 14,
+      "snippet": "无实说的不是美国的利益最大话"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "因为这个论调"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "你们在其他媒体听的很多了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "没意思"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 16,
+      "snippet": "而无实说的是创不这个逼得个人利益"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "搞贸易制造业拉投资别人野兽益"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 18,
+      "snippet": "但那个万员主目三军列证离炮奇名的画面"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "那是自己的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 13,
+      "snippet": "是会永远记录在历史的常和中"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "虽然是一条抽象的常和"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 3,
+      "snippet": "别忘了"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "川普能天天呼风换语"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 21,
+      "snippet": "在资本市场自己画可以现15号6的核心是什么"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 17,
+      "snippet": "是他的屁股什么决定这个老头的屁股呢"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "今年可能美国的中期选举年"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "而选票决定外交"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 18,
+      "snippet": "川普搞外交的核心逻辑不是做正确的事儿"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "而做对拿选票有利的事儿"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "一张图让你看懂美国的中期选举"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 14,
+      "snippet": "那正好赶上5至8月出选密集期"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "当做外交政纪反复宣传"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "是拉票的重点无料"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "这时候你会发现"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 14,
+      "snippet": "川普真是把对华关系的玩明白了"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 17,
+      "snippet": "川普触碰到了那个和中国相处的最优解"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "也就是在战略上"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 16,
+      "snippet": "将中国彻底景点的话和商人NPC话"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "第七网纳引行到今天"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 16,
+      "snippet": "中国看似是一个挑战美国实力的对手"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 7,
+      "snippet": "但川普没这么想"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 12,
+      "snippet": "而把咱们当成商人NPC了"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 15,
+      "snippet": "去主动碰了一个商人NPC的仇恨"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "背后可能是一出的数值"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 9,
+      "snippet": "最后自己被暴躁一顿"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 13,
+      "snippet": "这是第一志且毫无收益的消耗"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 20,
+      "snippet": "你完全没有必要对一个商人NPC的产生仇恨"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 10,
+      "snippet": "商人不会主动攻击玩家"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "商人也没有攻击的欲望"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "商人都不会主动和你说话"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 8,
+      "snippet": "你只有点了他一想"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 8,
+      "snippet": "他才会谈出对华关"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 6,
+      "snippet": "而且非常人机"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "只会说什么和平发展"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "会不侵犯"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "请和我做生意"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "作为玩家唯一理性的操作"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "就是屏蔽这些组织的文本"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 11,
+      "snippet": "直接和咱们点开交易面板"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 15,
+      "snippet": "而你就会发现这个商人唯一的用处"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "他只会大量的不坚断的提供"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 10,
+      "snippet": "原原不断的商品和布级"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 7,
+      "snippet": "第二点景点的话"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 21,
+      "snippet": "创不发现这个商人是自己统治地盘上的热点话题"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "天天就是中国中国中国"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 3,
+      "snippet": "创好说"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 14,
+      "snippet": "乃说和这个商人NPC握了握手"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 4,
+      "snippet": "这一握手"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 13,
+      "snippet": "那必须得拍一万张照片带回去"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 20,
+      "snippet": "因为我们即使商人又是一个刷生网纸的任务点"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 3,
+      "snippet": "合完赢"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "创不就能编拉手工"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 13,
+      "snippet": "其实这人说没人比我更动中国"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 14,
+      "snippet": "我们这还是限定刷新的金色任务"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 14,
+      "snippet": "任务奖励是能同时拿好几个成就"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "拿好几万容易点"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 8,
+      "snippet": "还能报经历太爽了"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "这就直接回到无时开头说的"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 14,
+      "snippet": "这个商人最近的中维围满了玩家"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 10,
+      "snippet": "大家全都过来握手交易"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 17,
+      "snippet": "这个商人NPC成了游戏中最火的地标"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 5,
+      "snippet": "最搞笑的是"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 17,
+      "snippet": "这个商人NPC不在游戏设定的主城里"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 7,
+      "snippet": "而在摇眼的东方"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "玩家想过来得做飞艇"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 16,
+      "snippet": "骑龙 英雄 做喘案 等等花费很久"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 3,
+      "snippet": "见见的"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "玩家们就有了两个主城"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 6,
+      "snippet": "无视的评价是"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 9,
+      "snippet": "小西天风不了真大胜"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 14,
+      "snippet": "而这就是全世界正在发生的事情"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 11,
+      "snippet": "美国如果不把我们当敌人"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 8,
+      "snippet": "而把我们当作盟友"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 6,
+      "snippet": "它会过得很好"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 7,
+      "snippet": "虎然这不会发生"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 15,
+      "snippet": "但是中美才是这个世界上最匹配的"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 7,
+      "snippet": "唯一隐形真能有"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 11,
+      "snippet": "这个我明天单发一期视频"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 8,
+      "snippet": "从纯利以资本视角"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 10,
+      "snippet": "给你连有反常识的画面"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 6,
+      "snippet": "先把关注点上"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 5,
+      "snippet": "这说在戏看"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 12,
+      "snippet": "这次中美博弈清单中的配菜"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 8,
+      "snippet": "创不让我们慢慢买"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 15,
+      "snippet": "不是为了真的会及美国的某个产业"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 11,
+      "snippet": "或者真的为了美国经济好"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 10,
+      "snippet": "还是得就化为了拉选票"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 11,
+      "snippet": "创不笑我们做出购买承诺"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 13,
+      "snippet": "来证明其关税强硬策略有回报"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 4,
+      "snippet": "有合理性"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 8,
+      "snippet": "就是让咱们买大盗"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 14,
+      "snippet": "RNG 不因飞机能量产品这些"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 5,
+      "snippet": "尤其是大盗"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 15,
+      "snippet": "创不在大盗上其实已经大书特殊了"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 11,
+      "snippet": "无时直接给你们上帝视角"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 9,
+      "snippet": "每条线就是每个年度"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 11,
+      "snippet": "美国卖给我们大盗的数量"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 12,
+      "snippet": "因为USD是从第一年9月"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 8,
+      "snippet": "统计到第二年8月"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 13,
+      "snippet": "所以每条线是21年至20年"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 7,
+      "snippet": "20年至23年"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 6,
+      "snippet": "等等一次来推"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 8,
+      "snippet": "可以看出每个年度"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 13,
+      "snippet": "我们从美国进口大盗都在下降"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 5,
+      "snippet": "今年最低谱"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 18,
+      "snippet": "2526这条线已经显示了创造多么即可"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 11,
+      "snippet": "因为大盗的记得利益群体"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 9,
+      "snippet": "都是创造的选票来源"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 9,
+      "snippet": "大盗之销帮帮帮我们"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 10,
+      "snippet": "大盗看似就是个农产品"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 15,
+      "snippet": "但事实上大盗在金融市场上很特殊"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 11,
+      "snippet": "经历过多轮大规模金融战"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 12,
+      "snippet": "中国在其中一轮数得非常惨"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 8,
+      "snippet": "后面又搬回来一点"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 13,
+      "snippet": "具体见我中国两世金融保卫战"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 12,
+      "snippet": "创必须在其他方面让不更大"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 12,
+      "snippet": "才能换回我们购买美国产品"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 5,
+      "snippet": "进口清单中"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 13,
+      "snippet": "其实很多从美国买到还更划算"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 8,
+      "snippet": "那我们得趁着对面"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 11,
+      "snippet": "拿到足够的利益后在下单"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 6,
+      "snippet": "创当然高兴了"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 6,
+      "snippet": "拿着定单回国"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 2,
+      "snippet": "看啊"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 5,
+      "snippet": "美国赢加一"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 14,
+      "snippet": "第二购心斗角点就是贸易战修战"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 8,
+      "snippet": "其实这是意思一下"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 6,
+      "snippet": "双方继续实力"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 13,
+      "snippet": "为了以后更大规模的贸易对抗"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 10,
+      "snippet": "因为这场战争的核心舍"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 7,
+      "snippet": "谁先不需要谁了"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 6,
+      "snippet": "谁就战主导了"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 14,
+      "snippet": "所以未来双方都会想方设法加速"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 9,
+      "snippet": "去中国化和去美国化"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 6,
+      "snippet": "修战延期这事"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 7,
+      "snippet": "串谋回去也会说"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 11,
+      "snippet": "《成自己如何压力中国》"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 7,
+      "snippet": "最终我们妥协了"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 11,
+      "snippet": "然后唱比又以资类的表述"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 6,
+      "snippet": "美国赢再加一"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 6,
+      "snippet": "再然后是洗土"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 7,
+      "snippet": "这是美方的痛点"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 11,
+      "snippet": "这些材料对于电池半导体"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 13,
+      "snippet": "确制到武器等供应量至关重要"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 7,
+      "snippet": "这么说一点会做"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 12,
+      "snippet": "这俩就是纯纯特地酷的放屁"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 6,
+      "snippet": "以后没事找事"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 8,
+      "snippet": "都是政治表演工具"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 6,
+      "snippet": "文字上大概率"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 7,
+      "snippet": "是非越速形承诺"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 17,
+      "snippet": "这些是创向选民展示成果的低成本一体"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 7,
+      "snippet": ".反正回事也得"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 9,
+      "snippet": "宣展成为这是创比比"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 12,
+      "snippet": "用再加一加.然后是最微妙"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 9,
+      "snippet": "也最危险的小导问题"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 5,
+      "snippet": "一个热知识"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 9,
+      "snippet": "2020你二五年底"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 12,
+      "snippet": "美国批准了创基路的111"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 8,
+      "snippet": "美元金售包给销导"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 6,
+      "snippet": "别看他怎么说"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 5,
+      "snippet": "这才是实质"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 17,
+      "snippet": "创很可能会用更有利于我们的政治措辞"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 6,
+      "snippet": "来做一些交换"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 11,
+      "snippet": "毕竟动动嘴巴的成本很低"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 11,
+      "snippet": "用魔法打败魔法就完事了"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 9,
+      "snippet": "我们就应该很很进攻"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 13,
+      "snippet": "多出一些类似整插线的进攻方"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 3,
+      "snippet": "就干对"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "以川普求「史上最大接待排面」开场，嘲其心魔是排场不是协议。",
+      "patterns": [
+        "排面钩子开场",
+        "嘲心魔非协议"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以这次他直接说希望访华的接待规模是中国有史以来最大的",
+          "note": "希望接待规模史上最大"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "真的很搞笑",
+          "note": "真的很搞笑"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "而希望排面最大",
+          "note": "而希望排面最大"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主链：访华核心是个人政治利益/选票→把中国NPC商人化+景点化→购豆/休战/稀土都是选票表演→小导问题才危险。",
+      "patterns": [
+        "个人利益非国家利益",
+        "商人NPC化",
+        "选票表演清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "而无实说的是创不这个逼得个人利益",
+          "note": "创不这个逼得个人利益"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "将中国彻底景点的话和商人NPC话",
+          "note": "中国彻底景点化和商人NPC化"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "还是得就化为了拉选票",
+          "note": "还是为了拉选票"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「别忘了」「这时候你会发现」「这就直接回到」「先把关注点上」串联游戏隐喻与清单。",
+      "patterns": [
+        "别忘了回扣",
+        "这时候发现",
+        "回到开头",
+        "关注点上预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "别忘了",
+          "note": "别忘了"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这时候你会发现",
+          "note": "这时候你会发现"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这就直接回到无时开头说的",
+          "note": "回到无时开头"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "先把关注点上",
+          "note": "先把关注点上"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "国家利益话术vs个人利益；敌人叙事vs商人NPC；文字承诺vs军售实质。",
+      "patterns": [
+        "国家/个人利益对照",
+        "敌人/商人NPC",
+        "嘴炮/军售实质"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "无实说的不是美国的利益最大话",
+          "note": "不是美国利益最大化"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "而无实说的是创不这个逼得个人利益",
+          "note": "个人利益"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "中国看似是一个挑战美国实力的对手",
+          "note": "看似挑战对手"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "而把咱们当成商人NPC了",
+          "note": "当成商人NPC"
+        },
+        {
+          "sentence_id": "s192",
+          "snippet": "别看他怎么说",
+          "note": "别看他怎么说"
+        },
+        {
+          "sentence_id": "s193",
+          "snippet": "这才是实质",
+          "note": "这才是实质"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不连问，用「核心是什么」「屁股什么决定」推动选票逻辑。",
+      "patterns": [
+        "核心是什么追问",
+        "屁股决定追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "在资本市场自己画可以现15号6的核心是什么",
+          "note": "核心是什么"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "是他的屁股什么决定这个老头的屁股呢",
+          "note": "屁股什么决定这个老头"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "故宫待遇心魔、中期选举5-8月密集、大豆年度进口曲线、111亿对台军售。",
+      "patterns": [
+        "故宫心魔例",
+        "选举窗口例",
+        "大豆曲线例",
+        "军售金额例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "故宫保运�",
+          "note": "故宫保运"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "那正好赶上5至8月出选密集期",
+          "note": "5至8月出选密集期"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "美国卖给我们大盗的数量",
+          "note": "美国卖大豆数量"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "美国批准了创基路的111",
+          "note": "111美元金售包"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "最优解抽象→游戏商人NPC操作；购豆抽象→选票利益群体；文字承诺→低成本表演工具。",
+      "patterns": [
+        "最优解→NPC操作",
+        "购豆→选票来源",
+        "承诺→表演工具"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "作为玩家唯一理性的操作",
+          "note": "唯一理性操作屏蔽文本"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "直接和咱们点开交易面板",
+          "note": "点开交易面板"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "都是创造的选票来源",
+          "note": "大豆利益群体是选票"
+        },
+        {
+          "sentence_id": "s180",
+          "snippet": "都是政治表演工具",
+          "note": "都是政治表演工具"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言排面诉求搞笑；外交不为正确为选票；稀土声明纯放屁；应狠进攻。",
+      "patterns": [
+        "排面搞笑判定",
+        "选票外交判定",
+        "稀土放屁判定",
+        "应进攻判定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "真的很搞笑",
+          "note": "真的很搞笑"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "川普搞外交的核心逻辑不是做正确的事儿",
+          "note": "不是做正确的事儿"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "这俩就是纯纯特地酷的放屁",
+          "note": "纯纯特地酷的放屁"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "我们就应该很很进攻",
+          "note": "我们就应该很很进攻"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "澄清「我说的不是美国利益而是个人利益」以区别主流媒体论调。",
+      "patterns": [
+        "澄清利益主体",
+        "区别媒体老调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "无实说的不是美国的利益最大话",
+          "note": "无实说的不是美国利益"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你们在其他媒体听的很多了",
+          "note": "其他媒体听的很多了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "没意思",
+          "note": "没意思"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "嘲讽短句→选票逻辑中长句→游戏隐喻长段连射→配菜清单短评→进攻收束。",
+      "patterns": [
+        "嘲讽短句",
+        "游戏隐喻长段",
+        "清单短评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "真的很搞笑",
+          "note": "搞笑短句"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "商人不会主动攻击玩家",
+          "note": "商人不会主动攻击"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "这俩就是纯纯特地酷的放屁",
+          "note": "放屁短评"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽虚荣→冷拆选票→戏谑NPC→认真配菜数据→警惕小导→鼓动进攻。",
+      "patterns": [
+        "嘲→冷→戏谑→认真→警惕→鼓动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "真的很搞笑",
+          "note": "嘲讽"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "川普搞外交的核心逻辑不是做正确的事儿",
+          "note": "冷拆选票"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "还能报经历太爽了",
+          "note": "任务太爽了"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "也最危险的小导问题",
+          "note": "最危险小导"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "我们就应该很很进攻",
+          "note": "鼓动进攻"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "预告明天资本视角单集；清单收束到「用魔法打败魔法」进攻姿态。",
+      "patterns": [
+        "预告下期闭环",
+        "进攻姿态收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s110",
+          "snippet": "这个我明天单发一期视频",
+          "note": "明天单发一期"
+        },
+        {
+          "sentence_id": "s197",
+          "snippet": "用魔法打败魔法就完事了",
+          "note": "用魔法打败魔法"
+        },
+        {
+          "sentence_id": "s200",
+          "snippet": "就干对",
+          "note": "就干对"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "强关注CTA「先把关注点上」+预告下期反常识画面。",
+      "patterns": [
+        "关注点上硬CTA",
+        "下期预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s113",
+          "snippet": "先把关注点上",
+          "note": "先把关注点上"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "这个我明天单发一期视频",
+          "note": "明天单发一期"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "给你连有反常识的画面",
+          "note": "反常识的画面"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "游戏NPC长隐喻、脏话个人利益、大豆上帝视角自制图，强创作者指纹。",
+      "patterns": [
+        "NPC长隐喻",
+        "脏话切口",
+        "上帝视角数据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "将中国彻底景点的话和商人NPC话",
+          "note": "商人NPC化"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "而无实说的是创不这个逼得个人利益",
+          "note": "这个逼得个人利益"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "无时直接给你们上帝视角",
+          "note": "上帝视角"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（创办/串/大盗）；中段跳号；尾段军售数字含糊。",
+      "patterns": [
+        "ASR谐音",
+        "跳号",
+        "数字含糊"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "而是 川",
+          "note": "而是川截断"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "将中国彻底景点的话和商人NPC话",
+          "note": "景点的话"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "美国批准了创基路的111",
+          "note": "111美元金售包"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「选票→外交→把中国当刷声望任务」的推导，再拆购豆为利益交换。",
+      "patterns": [
+        "选票外交推导",
+        "购豆交换拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "而选票决定外交",
+          "note": "选票决定外交"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "而做对拿选票有利的事儿",
+          "note": "做对拿选票有利"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "才能换回我们购买美国产品",
+          "note": "让步更大才能换购买"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当看穿表演的游戏玩家视角观察者，并预告下期资本视角。",
+      "patterns": [
+        "玩家视角观察者",
+        "下期资本观众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "作为玩家唯一理性的操作",
+          "note": "作为玩家唯一理性操作"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "从纯利以资本视角",
+          "note": "纯利以资本视角"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "无时直接给你们上帝视角",
+          "note": "上帝视角给你们"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "史上最大接待、中期选举5-8月、大豆年度线、111亿军售、稀土电池半导体。",
+      "patterns": [
+        "接待排面",
+        "选举窗口",
+        "大豆曲线",
+        "军售包",
+        "稀土用途"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以这次他直接说希望访华的接待规模是中国有史以来最大的",
+          "note": "史上最大接待"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "那正好赶上5至8月出选密集期",
+          "note": "5至8月"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "美国卖给我们大盗的数量",
+          "note": "大豆数量"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "美国批准了创基路的111",
+          "note": "111金售"
+        },
+        {
+          "sentence_id": "s175",
+          "snippet": "这些材料对于电池半导体",
+          "note": "电池半导体武器"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场嘲讽中密→NPC隐喻高密→配菜数据高密→政策表演中密→进攻收束中密。",
+      "patterns": [
+        "隐喻高密",
+        "数据高密",
+        "表演中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "商人不会主动攻击玩家",
+          "note": "NPC高密"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "美国卖给我们大盗的数量",
+          "note": "大豆数据高密"
+        },
+        {
+          "sentence_id": "s180",
+          "snippet": "都是政治表演工具",
+          "note": "表演中密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "排面钩→个人利益澄清→选票→NPC隐喻→回扣地标→配菜清单→进攻。",
+      "patterns": [
+        "隐喻主段",
+        "清单一一评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "而无实说的是创不这个逼得个人利益",
+          "note": "个人利益"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "将中国彻底景点的话和商人NPC话",
+          "note": "NPC化"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "这次中美博弈清单中的配菜",
+          "note": "配菜清单"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "游戏隐喻讽刺家+选票现实主义者+主张进攻的对华策略鼓吹者。",
+      "patterns": [
+        "游戏讽刺家",
+        "选票现实派",
+        "进攻鼓吹者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "我们这还是限定刷新的金色任务",
+          "note": "金色任务"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "而做对拿选票有利的事儿",
+          "note": "选票有利"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "我们就应该很很进攻",
+          "note": "很很进攻"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "史上最大排面、商人NPC、金色任务、美国赢加一、用魔法打败魔法。",
+      "patterns": [
+        "最大排面",
+        "商人NPC",
+        "金色任务",
+        "美国赢加一",
+        "魔法打败魔法"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以这次他直接说希望访华的接待规模是中国有史以来最大的",
+          "note": "史上最大"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "而把咱们当成商人NPC了",
+          "note": "商人NPC"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "我们这还是限定刷新的金色任务",
+          "note": "金色任务"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "美国赢加一",
+          "note": "美国赢加一"
+        },
+        {
+          "sentence_id": "s197",
+          "snippet": "用魔法打败魔法就完事了",
+          "note": "魔法打败魔法"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s19",
+            "s24",
+            "s28"
+          ],
+          "function": "hook_vanity",
+          "note": "求最大排面=个人虚荣心魔"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s38",
+            "s40",
+            "s41",
+            "s45"
+          ],
+          "function": "votes_logic",
+          "note": "中期选举选票决定外交"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s48",
+            "s50",
+            "s54",
+            "s71"
+          ],
+          "function": "npc_frame",
+          "note": "商人NPC最优解：屏蔽台词开交易"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s76",
+            "s81",
+            "s86",
+            "s93"
+          ],
+          "function": "landmark_quest",
+          "note": "热点地标/金色任务刷声望"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s115",
+            "s119",
+            "s123",
+            "s140"
+          ],
+          "function": "side_dishes",
+          "note": "购豆等配菜为选票证明强硬有回报"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s158",
+            "s163",
+            "s180",
+            "s187",
+            "s198"
+          ],
+          "function": "real_stakes",
+          "note": "休战延期+稀土表演；小导实质；应对进攻"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "真的很搞笑"
+        },
+        {
+          "type": "discourse",
+          "form": "没意思"
+        },
+        {
+          "type": "discourse",
+          "form": "就干对"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "真的很搞笑",
+          "note": "真的很搞笑"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "没意思",
+          "note": "没意思"
+        },
+        {
+          "sentence_id": "s200",
+          "snippet": "就干对",
+          "note": "就干对"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "商人NPC/景点化隐喻与「购豆=选票表演」拆解可迁移；需清洗ASR并弱化游戏梗密度以适配观鱼语气。",
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "将中国彻底景点的话和商人NPC话",
+          "note": "NPC化可迁移"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "还是得就化为了拉选票",
+          "note": "拉选票动机可迁移"
+        },
+        {
+          "sentence_id": "s193",
+          "snippet": "这才是实质",
+          "note": "嘴炮vs实质可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s13",
+    "s14",
+    "s19",
+    "s28",
+    "s50",
+    "s119",
+    "s34",
+    "s46",
+    "s90",
+    "s113",
+    "s24",
+    "s52",
+    "s54",
+    "s192",
+    "s193",
+    "s36",
+    "s37",
+    "s9",
+    "s43",
+    "s129",
+    "s190",
+    "s69",
+    "s71",
+    "s140",
+    "s180",
+    "s40",
+    "s178",
+    "s198",
+    "s26",
+    "s27",
+    "s60",
+    "s89",
+    "s187",
+    "s110",
+    "s197",
+    "s200",
+    "s112",
+    "s127",
+    "s1",
+    "s39",
+    "s41",
+    "s149",
+    "s111",
+    "s175",
+    "s115",
+    "s86",
+    "s157",
+    "s38",
+    "s45",
+    "s48",
+    "s76",
+    "s81",
+    "s93",
+    "s123",
+    "s158",
+    "s163"
+  ],
+  "fields_complete_25": true
+}

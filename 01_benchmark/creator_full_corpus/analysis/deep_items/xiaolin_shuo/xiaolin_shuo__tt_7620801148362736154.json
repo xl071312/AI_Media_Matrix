@@ -1,0 +1,2331 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7620801148362736154",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7620801148362736154/",
+  "source_sha256": "25f342c20e8f210020e77f9580ec7c824ed67e95eb396ced1b129a2c6f9897d3",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 274,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "全球能源"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "整体是一个什么样的格局？"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "朋友们，咱们今天来聊聊全球能源市场。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 37,
+      "snippet": "对比伊朗战争开打之前，原油价格的走势，从65美元一度暴涨到超过110美元。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 64,
+      "snippet": "产生的震荡程度，甚至超过了2022年俄乌战争引发的动荡，相比之下，2026年年初委内瑞拉的事件，市场的波动，简直算是毫无波澜了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 64,
+      "snippet": "你要知道这可是油价啊，它跟黄金、甚至股票都不一样，它不只是个资产价格，而是最直接的连接全球的人，生活起居方方面面的基础能源价格。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 45,
+      "snippet": "所以这次的战争，不只是吸引关注、媒体报道，而是实打实的引发了全球金融市场、资本市场的巨震。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 23,
+      "snippet": "伊朗确实是石油大国，但怎么能有这么大的影响力？"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 30,
+      "snippet": "我相信大家在新闻里都了解得很多了，就是因为——霍尔木兹海峡。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 47,
+      "snippet": "伊朗直接封锁了这个海峡，使得整个中东的石油，几乎都被堵死了运不出来，油价一下冲破了100美元。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 25,
+      "snippet": "逼得特朗普连出了四五招，好招赖招全用上了，来应对。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 62,
+      "snippet": "咱们今天，一方面来聊聊这个海峡、聊聊这次战争，然后咱们再更深入一点，顺便来看看后俄乌战争时期，全球整体是一个怎样的能源格局。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "霍尔木兹海峡"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 2,
+      "snippet": "背景"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 66,
+      "snippet": "霍尔木兹海峡，可以称得上是全球最重要的能源关卡，它连接着波斯湾和阿拉伯海，是波斯湾里那一片中东石油国家，油气出海的“唯一海上出口”。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 45,
+      "snippet": "它最窄的地方只有约33公里，而实际上能用来给巨型游轮航行的航道只有一进一出两条，各三公里。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "中间有3公里的缓冲区。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 50,
+      "snippet": "就这么窄窄的不到10公里的航道，之前每天通过的石油高达2000万桶，大概是全球每天原油消费的1/5。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 38,
+      "snippet": "同时，全球液化天然气LNG贸易的20%，主要来自卡塔尔，也是从这个海峡出口。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 32,
+      "snippet": "全球最大的天然气田，北方气田 (North Field)在这里；"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 37,
+      "snippet": "全球最大的油田，位于沙特的加瓦尔田 (Ghawar Oil Field)；"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "再加上中东整体的油田分布。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 30,
+      "snippet": "这一片区域的能源密集程度，简直让有密集恐惧症的人看着都难受。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 49,
+      "snippet": "我们都知道中东就是个石油的水龙头，但它可不是很均匀地分散在中东的，而是基本上就堆在波斯湾那一圈了。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 30,
+      "snippet": "这些油田产出的石油、天然气，基本上都得从霍尔木兹海峡运出去。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 25,
+      "snippet": "具体来说，从霍尔木兹海峡出口的石油，来自这些国家:"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 27,
+      "snippet": "沙特、伊拉克、阿联酋、科威特、卡塔尔, 当然还有伊朗。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "而它主要出口运到哪些国家呢？"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 23,
+      "snippet": "有大概85%都流向了亚洲，最主要的就四个国家:"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 12,
+      "snippet": "中国、印度、韩国、日本。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 30,
+      "snippet": "于是，这么一个33公里的海峡，像扁担一样扛起了全球能源产业。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 45,
+      "snippet": "这里面石油出口，虽然量最大的是中国，但是从比例来看，对中东石油更依赖的，其实是日本和韩国。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 24,
+      "snippet": "这个我们下文分析全球能源格局的时候，会详细分析。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 55,
+      "snippet": "这就是伊朗对霍尔木兹海峡封锁以后，日本股市大跌，韩国股市更是一天下跌12%，创下了近20年最大单日跌幅的原因。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 32,
+      "snippet": "不过，如果单就石油运载量来看，霍尔木兹海峡并不是全球最大的海峡。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 24,
+      "snippet": "还有一个比霍尔木兹还要大上一点，你知道是哪个么？"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 11,
+      "snippet": "没错，就是马六甲海峡。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 52,
+      "snippet": "它可以说是通往东亚的贸易入口，石油贸易大概每天2300万桶，新加坡就守着这个海峡，要么新加坡那么有钱呢~"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 49,
+      "snippet": "但马六甲海峡，远没有中东这这么动荡、这么让人不踏实，所以大家还是会把目光更多聚焦在霍尔木兹海峡上。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "伊朗封锁"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 25,
+      "snippet": "而霍尔木兹这么重要的\"扁担\"，正好就在伊朗家门口。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 19,
+      "snippet": "它附近有8个小岛，其中7个由伊朗控制。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 38,
+      "snippet": "这里面有三个，是阿联酋声称是自己的领土，但是伊朗从1970年代就一直占领着。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 46,
+      "snippet": "当然，美国也知道这个海峡的重要性，所以美军在中东，尤其是这个海峡附近部署了4-5万人的军队。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 46,
+      "snippet": "很多人可能奇怪了，美军不是很厉害么，还部署了那么多人在中东，怎么伊朗还能封锁霍尔木兹海峡呢？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 67,
+      "snippet": "其实原因不难理解，伊朗虽然无法和美军掰手腕，但霍尔木兹的地理环境，封锁起来实在是太容易了，伊朗完全不需要什么高科技的武器，都不用导弹。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 21,
+      "snippet": "水雷、无人机，哪个都可以有非常强的震慑力。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 29,
+      "snippet": "比如它在3月11号就宣称，在霍尔木兹海峡部署了十多颗水雷。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 21,
+      "snippet": "实际上到底是多少颗，放在哪了，谁也不知道。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "但只要宣扬出来，就很有震慑力。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 32,
+      "snippet": "别的商船就全都不敢通过了，保险公司也不敢给通过这里的船上保险了。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 2,
+      "snippet": "保险"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 64,
+      "snippet": "保险在这里是很关键的，以往一艘商船航行的保费可能在20 - 40万美元，现在一下翻了至少10倍，变成300 - 500万美元了。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 40,
+      "snippet": "所以就算有商船觉得：\"我很幸运，我头铁，我被袭击的概率很低，想要铤而走险冲过去。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 18,
+      "snippet": "保险费用，也会让它航行失去经济利益。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 50,
+      "snippet": "这就是为什么伊朗刚宣布封锁，3月3号特朗普就表示，特批美国政府可以提供200亿美元的海上再保险计划。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 82,
+      "snippet": "什么叫再保险，就是我作为最终担保人，如果商船在海峡被炸毁，私营保险公司赔钱后，美国政府可以自掏腰包把这笔钱补给保险公司，这样保险公司总可以继续正常提供保险业务了"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 22,
+      "snippet": "但实际上的，效果却是微乎其微，几乎等于失败。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 4,
+      "snippet": "为什么？"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 45,
+      "snippet": "因为商船的船长和船员们都明白，特朗普是商人思维，他可能以为商船过海峡就是保险多少钱的问题。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 71,
+      "snippet": "但这可是实打实的战争啊，水雷就在水里，自杀式无人机就在天上飘，刀剑可是不长眼睛的，他们跟伊朗人的语言是不同的，冒着生命危险从中间过，图什么呢？"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 13,
+      "snippet": "所以，这根本不是钱的问题。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 62,
+      "snippet": "于是，你在观察实时的霍尔木兹海峡附近的船只数据时，可以发现有一大片船就在外面这等着，而整个海峡部分非常干净，没有一艘船敢过。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "油价传导效应"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 55,
+      "snippet": "可能有些人会想说，霍尔木兹海峡能源主要是出口到东亚，那其它地区应该就不用那么紧张、受到的影响就不会那么大了吧?"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 3,
+      "snippet": "非也。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 41,
+      "snippet": "要知道石油是一个高度市场化的产品，一旦出现供给震荡，几乎会瞬间反映到全球的油价中。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 132,
+      "snippet": "所以，上文分析霍尔木兹海峡的主要石油出口对象，其实意义都没有那么大，因为不管它运到哪，只要这2000万桶石油，每天被堵在那，导致石油供给严重受限，那全球所有的人"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 73,
+      "snippet": "而相比较而言，天然气就不太一样了，它的区域性还更强一些，所以俄乌战争的时候，欧洲的天然气价格涨得非常夸张，但是世界其它地方虽然也受到影响，但还好。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 49,
+      "snippet": "包括这回也是，欧洲和亚洲的天然气价格，都跳涨了50%以上，但美国的天然气价格，就几乎没受什么影响。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 31,
+      "snippet": "当然，霍尔木兹海峡被封锁，也不是说中东的石油就全都堵在里面了。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 41,
+      "snippet": "而且，全球各国都有一定的石油储备，短期内是能扛一扛的，一般能帮助各国抗3-6个月。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 4,
+      "snippet": "局势分析"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 22,
+      "snippet": "接下来呢，我来聊一点关于最近局势，我的思考。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "美国的底线"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 38,
+      "snippet": "这次伊朗战争，体现出来了目前对于美国政府来说的一个底线，或者软肋，就是油价。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 60,
+      "snippet": "很多人可能分析，美国有多少战略储备，美国石油生产能力多强，高油价美国可高兴了，那些石油公司、金融公司还能趁机大赚一笔呢！"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 3,
+      "snippet": "等等。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 73,
+      "snippet": "可能都有道理，但我的分析是，油价的上涨，尤其是暴涨，还持续保持在高位，其实对美国政府、对特朗普的打击，是要比它带来的收益要大得多、是他难以承受的。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 2,
+      "snippet": "选举"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 18,
+      "snippet": "首先，这件事儿关乎脸面，更关乎选举。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 51,
+      "snippet": "而我们之前分析过特朗普最主要的政策，不管是关税政策、大而美法案，都有一个共通点，就是有加热通胀的倾向。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 28,
+      "snippet": "这点虽然特朗普、贝森特有时候避重就轻，但大家都心知肚明。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 33,
+      "snippet": "而特朗普从选举的时候，就多次强调过，他控制物价的杀手锏，就是油价。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 19,
+      "snippet": "“如果能源价格下降，一切价格都会下降。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 1,
+      "snippet": "”"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "“降低油价就能降低通胀。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 1,
+      "snippet": "”"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 64,
+      "snippet": "其实，GDP增长好点差点、出口怎么样，这些都只是波及到一部分人，但是如果物价出问题了，开始升温，可真的是全民受影响、全民不满啊。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 24,
+      "snippet": "为什么2026年年初，伊朗发生了大规模社会动荡？"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 24,
+      "snippet": "其实很重要的一个原因，就是它的通货膨胀太严重了。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 31,
+      "snippet": "物价这东西稳定的时候无人在意，真出问题了那可就是严重的大问题。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 37,
+      "snippet": "美国对油价格外敏感，全国85%的人通勤都是靠汽车，油价直接连接终端消费者。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 95,
+      "snippet": "如果政府不但没能压住油价，反倒还促使油价飙升，再进一步传导到实体经济，导致通货膨胀，这会让美国消费者的情绪显著恶化，不光是打特朗普和共和党的脸，更会严重影响之后"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 2,
+      "snippet": "债务"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 24,
+      "snippet": "这是其一，其次就是油价，会威胁到美国的债务水平。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 91,
+      "snippet": "一旦油价上涨导致物价升温，这会让美联储停止降息，甚至开始加息，美国的债务问题本来就是房间里的大象，如果通胀出了问题，美联储像1980年代一样疯狂加息，那现在的美"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 30,
+      "snippet": "2026年12月到期的联邦基金利率的期货，已经跌得非常厉害。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 52,
+      "snippet": "这预示着市场已经在大幅提高对年底利率的预期，觉得伊朗这么个闹法，油价这么个涨法，美联储很有可能不降息了。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 36,
+      "snippet": "逼得特朗普在Truth Social上公开喊话鲍威尔：\"他应该立刻降息！"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 22,
+      "snippet": "甭管合不合理，反正特朗普要表达一下他的态度。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 53,
+      "snippet": "其实到这，我们还只是分析了油价飙升最直接的影响，更深层次的通胀带来的，真正广泛的经济影响，我们都还没说呢。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 47,
+      "snippet": "总之，现在美国经济、特朗普的政策组合，是经不起通胀抬头的，所以特朗普无论如何也要把油价按下来。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 20,
+      "snippet": "伊朗这一招，真的是戳到特朗普肺管子上了。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 5,
+      "snippet": "特朗普对策"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 18,
+      "snippet": "眼看油价控制不住，特朗普都做了什么:"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 9,
+      "snippet": "派了三艘航母过去；"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 14,
+      "snippet": "要提供200亿美元的再保险；"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 37,
+      "snippet": "紧急释放1.72亿桶石油储备，这相当于一下就释放了美国超过三分之一的储备；"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 32,
+      "snippet": "甚至还跟印度表示，现在情况特殊，可以允许你临时购买俄罗斯的石油;"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 60,
+      "snippet": "这些措施，甭管有没有真实控制住油价，但美国的意图其实是非常明显的，显然是有点着急了，它不太能承受得住油价这么居高不下的。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 7,
+      "snippet": "黄金为什么跌？"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 27,
+      "snippet": "提到通胀，我再跟大家聊一个我注意到的有点反直觉的现象。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 31,
+      "snippet": "就是这次战争开打之后，黄金开始涨了两天，紧接着怎么就跌下来了？"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 7,
+      "snippet": "是不是很反常?"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 20,
+      "snippet": "而美元指数倒是持续上涨，这又是为什么呢？"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 12,
+      "snippet": "这跟通胀又有什么关系呢？"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "我们简单盘一盘。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 37,
+      "snippet": "首先最开始，打仗了嘛，大家都去避险，所以避险资产，什么黄金、美债，都上涨。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 60,
+      "snippet": "但随着事态发展，伊朗封锁霍尔木兹海峡，大家发现美国好像拿它没有太好的办法，如果持续下去油价上涨，就会引发全球的通货膨胀。"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 20,
+      "snippet": "那如果思考到这一层，资产价格会怎么变啊?"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 44,
+      "snippet": "这时大多数人会思考，通货膨胀，美元更不值钱了，难道不是黄金更应该涨，美元指数更应该跌吗？"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 11,
+      "snippet": "但事实怎么是反过来的？"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 10,
+      "snippet": "咱们还得再深入一层。"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 15,
+      "snippet": "市场担心通货膨胀，有人更担心。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 3,
+      "snippet": "谁啊？"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 4,
+      "snippet": "美联储。"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 54,
+      "snippet": "它就会出手，停止降息，甚至货币紧缩、加息，美联储的政策，在短期内对资产价格的影响，是要高于长期通胀的影响的。"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 31,
+      "snippet": "市场就是预期了美联储的操作，央行货币紧缩预期上升，会导致什么？"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 15,
+      "snippet": "美元上涨，黄金下跌，美债下跌。"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 20,
+      "snippet": "（美债下跌指的是它价格下跌，收益率上涨）"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 36,
+      "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 6,
+      "snippet": "全球能源结构"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 22,
+      "snippet": "好，一般情况下咱们的分析到这，就可以结束了。"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 14,
+      "snippet": "但咱们这段视频可就不一样了。"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 66,
+      "snippet": "我查的时候就好奇，但凡哪个和能源沾边的国家一出点什么事儿，媒体恨不得就宣传得又引发全球能源动荡了，也不知道全球能源咋就这么容易动荡。"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 26,
+      "snippet": "我就想来整体的、最宏观的看一看，目前全球能源的格局。"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 74,
+      "snippet": "甚至不光是石油，不光是霍尔木兹海峡，而是全球各种各样形式的能源，各国都消耗多少、哪些国家主要依赖进口、哪些主要依赖出口等等，你不觉得应该了解了解么？"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 61,
+      "snippet": "所以，我就找到了全球各个国家、不同能源形式的生产量、消耗量、进口量、出口量，从谁那进口、出口到哪里，等等等等，一大堆数据。"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 37,
+      "snippet": "我帮大家提炼出来一些，我觉得可能对大家有帮助的信息，让咱们大致上有个概念。"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 18,
+      "snippet": "首先，咱先来看整体全球的能源消耗啊。"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 19,
+      "snippet": "对比不同形式的能源，一年的消耗量数据。"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 31,
+      "snippet": "石油重要，但也没有那么重要，大概是石油、天然气、煤炭三分天下。"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 16,
+      "snippet": "清洁能源目前还是比较小的一部分。"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 47,
+      "snippet": "按国家来分呢，消耗量最大的是中国，占了超过全球的1/4，美国是16%，接着是欧盟，然后是印度。"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 11,
+      "snippet": "这个也比较合理，是吧。"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 15,
+      "snippet": "我们拆开来按照不同能源来看呢。"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 2,
+      "snippet": "煤炭"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 26,
+      "snippet": "很多人可能感觉，这都2026年了，咋还有这么多煤炭？"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 30,
+      "snippet": "其实，全球大概27%的能源，尤其是发电的36%，都来自煤炭。"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 47,
+      "snippet": "而煤炭使用最主要就来自一个国家，就是中国，中国消耗了全球51%的煤炭，然后是印度，大概10%。"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 41,
+      "snippet": "中国58%的能源消耗来自煤炭，大量高耗能行业，钢铁、水泥、化工，能源主要都是煤炭。"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 48,
+      "snippet": "所以，虽然山西煤老板有点像是上个时代的都市传说了，现在都是大国企整合了，但煤炭行业还是很重要的。"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 29,
+      "snippet": "中国大陆所有地级市的人均GDP排名，第一名的你知道是哪么？"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 18,
+      "snippet": "不是北京上海，而是内蒙古的鄂尔多斯。"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 37,
+      "snippet": "当然这个榜单不权威啊，但鄂尔多斯在人均GDP的排名基本上不是第一就是第二。"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 5,
+      "snippet": "为什么啊？"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 28,
+      "snippet": "因为鄂尔多斯有巨大的煤炭产业，当然也有很大的天然气产业。"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 9,
+      "snippet": "一个小知识送给你。"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 87,
+      "snippet": "不过煤炭呢，虽然它量很大，但从国家战略和对全球能源格局的影响力的角度考量，它主要是自己挖、自己烧，中国只有大概10%出头的煤炭是靠进口，也都主要来自不远的印尼、"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 57,
+      "snippet": "所以它整体比较稳定，对于全球能源格局的影响不大，这也是为什么我们在新闻整天听石油、天然气，但很少听到全球煤炭争霸。"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 2,
+      "snippet": "石油"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 42,
+      "snippet": "但石油就不一样了，全球每天大概产1亿桶石油，每时每刻参与国际贸易的，有大概七千万桶。"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 59,
+      "snippet": "当然它不是说70%的原油，都进入国际贸易啊，因为很多是原油运到一个国家精炼，然后成品油再运到另一个国家，被折腾好多次。"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 30,
+      "snippet": "但总之，石油是一个高度全球化、高度贸易化、高度市场化的产品。"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 41,
+      "snippet": "石油产出，大概中东产了全球的30%，美国20%，俄罗斯10%，这几个是比较主要的。"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 15,
+      "snippet": "石油消耗，大户就是美国和中国。"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 24,
+      "snippet": "美国19%, 大概每天1900万桶，中国16%。"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 12,
+      "snippet": "整个欧洲加起来是14%。"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 19,
+      "snippet": "这些数字，估计跟大家的认知都差不太多。"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 59,
+      "snippet": "但我们想要看，其实是能源格局，所以各个国家内部的自产自销，我们要排除出去，只看石油的跨国贸易、跨区域贸易，谁更依赖谁。"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 39,
+      "snippet": "所以，我把各地区的原油净出口，加上成品油净出口汇总了一下，得到了一张数据表格:"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 23,
+      "snippet": "净出口断层领先的是中东，然后是俄罗斯、加拿大。"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 14,
+      "snippet": "美国产的多，但净出口并不多。"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 29,
+      "snippet": "最主要的净进口区域，最多的是中国，然后是欧洲、印度、日本。"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 26,
+      "snippet": "我强调一下啊，今天咱们用到的所有数据呢，只是个估算。"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 61,
+      "snippet": "不同的计算方法会有出入，并没有一个最权威的国家官方报道，但数量上应该是大差不差，大家看个大概就好，具体的数字别太抠细节哈~"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 22,
+      "snippet": "以下这几个地区，如果按照石油进口的比例来看:"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 16,
+      "snippet": "中国大概有73%的石油是靠进口；"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 45,
+      "snippet": "欧洲87%，印度80%，日本97%，新加坡75%，很明显这些地区的石油，大部分都依赖进口。"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 34,
+      "snippet": "但是，我们想看的其实是：这些国家整个能源消耗中，有多依赖石油的进口。"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 107,
+      "snippet": "比如我们上文提到，中国一大半是靠煤炭，石油占总能源消耗只有18%，所以这18%里虽然3/4靠进口，但总体能源中有大概13%，依赖石油进口，这里面确实大部分都来自"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 22,
+      "snippet": "但总之这13%虽然也不小，但就没有很夸张了。"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 32,
+      "snippet": "同样的算法，欧洲有31%，印度21%，日本36%，新加坡65%。"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 28,
+      "snippet": "我没下载到韩国单独的数据，但其实韩国应该也在50%左右。"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 38,
+      "snippet": "这么一比下来，我们就会发现，更依赖石油进口的其实是新加坡、韩国、日本、欧洲。"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 33,
+      "snippet": "这里面欧洲的进口渠道比较分散，从美国、非洲、中东、俄罗斯都来一点；"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 16,
+      "snippet": "日韩新加坡，基本上是以中东为主；"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 27,
+      "snippet": "印度之前主要是中东，后来又多了一个进口国是哪能猜到么？"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 15,
+      "snippet": "是俄罗斯，每天进口一百多万桶。"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 79,
+      "snippet": "所以咱这么一分析就清楚了，霍尔木兹海峡被封锁，绝对数量上影响最大的是中国和印度，但要从对整体国家能源冲击的角度来看，可能是日本、韩国、新加坡，受到的冲击更大。"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 54,
+      "snippet": "我补充一下啊，石油不光是挖出来就行了，其实还有很重要的一步就是精炼，即使有原油，但是没能力精炼也会被卡脖子。"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 60,
+      "snippet": "不过，我简单扫了一眼全球各国的精炼能力，基本上比较主要的经济体，都差不多有能力在精炼上自给自足，所以精炼我们就不展开了。"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 3,
+      "snippet": "天然气"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 18,
+      "snippet": "接下来还有很重要的能源，就是天然气。"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 12,
+      "snippet": "天然气全球最大的生产国:"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 19,
+      "snippet": "断层领先的是两个国家: 美国和俄罗斯。"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 17,
+      "snippet": "然后是伊朗、中国、加拿大、卡塔尔。"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 31,
+      "snippet": "但这里伊朗基本是自给自足，中国虽然产量大，但还需要有大量进口。"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 30,
+      "snippet": "整个天然气领域全球所谓\"地主\"，主要出口国，目前是这五巨头:"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 19,
+      "snippet": "美国、俄罗斯、挪威、卡塔尔、澳大利亚。"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 31,
+      "snippet": "除此之外加拿大、土库曼斯坦、阿尔及利亚、马来西亚等等也都不小。"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 17,
+      "snippet": "还有一个国家也挺重要的，就是伊朗。"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 49,
+      "snippet": "它其实从储量来看是全球第二大国，有全球17%的天然气，那个全球最大的天然气田就是它和卡塔尔半分的。"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 34,
+      "snippet": "咱不知道政治上会如何发展，但其实它是很有潜力成为一个天然气大地主的。"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 43,
+      "snippet": "天然气，它虽然比石油更清洁、是一个更理想的能源，但是它有个比石油麻烦的问题，就是运输。"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 27,
+      "snippet": "气态，目前主要有两种形式: 管道，和液化天然气LNG。"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 43,
+      "snippet": "你大概能猜到，管道运输倒是方便，一旦建好一劳永逸，但初期成本高，而且不适合远距离传输；"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 59,
+      "snippet": "液化天然气呢，就是把天然气先压缩液化了，再用那种LNG船运往全球，到达目的地了再气化，这明显技术要求更高，成本也更高。"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 27,
+      "snippet": "全球天然气管道，现在有这么几个主要的输送路线，分别是:"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 8,
+      "snippet": "挪威 -> 欧洲"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 12,
+      "snippet": "俄罗斯 -> 欧洲、中国"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 4,
+      "snippet": "北美内部"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 11,
+      "snippet": "土库曼斯坦 -> 中国"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 21,
+      "snippet": "LNG液化天然气这边 ，最主要的三条线是："
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 16,
+      "snippet": "卡塔尔 -> 亚洲 (中印日韩)"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 8,
+      "snippet": "美国 -> 欧洲"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 10,
+      "snippet": "澳大利亚 -> 亚洲"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 42,
+      "snippet": "因为之前天然气都是以管道运输为主，受到运输限制，这就导致天然气远没有石油那么贸易化。"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 30,
+      "snippet": "现在全球整体的天然气消耗中，大概只有20%是通过全球贸易的。"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 114,
+      "snippet": "而即使是这些贸易中，很大一部分是北美内部传来传去、欧洲内部挪威给其它国家，如果把这些再刨除去的话其实天然气的全球贸易对整个能源结构的影响力就非常有限了，这就是为"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 4,
+      "snippet": "写在最后"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 27,
+      "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 17,
+      "snippet": "煤炭更地方化，更集中在中国和印度；"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 33,
+      "snippet": "石油是最全球化、金融化的市场，目前还是和全球经济联结最密切的市场；"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 58,
+      "snippet": "而天然气虽然目前还是比较区域化，但它的市场增速很快，而且它看似分散，实则最难切换，受到波及的国家其实更容易被卡脖子。"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 19,
+      "snippet": "至于未来，整体的能源格局会如何发展呢？"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 42,
+      "snippet": "我们总觉得现在全球在全速推进清洁能源、绿色能源，好像化石能源不久就要退出历史舞台了。"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 27,
+      "snippet": "但根据国际能源署IEA，估算到未来全球的能源结构数据。"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 29,
+      "snippet": "它估算到2050年，全球还是会有60%的能源来自化石能源。"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 48,
+      "snippet": "虽然这只是个非常粗略的估算，但多多少少说明了，各个国家可能还要至少围绕化石能源争霸纠葛个几十年。"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 62,
+      "snippet": "石油在至少二三十年的时间里，依然会是全球能源主战场，和之前的一个世纪很像，中东依然会是主要出口中心，这些王室们还是可以躺赚；"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 44,
+      "snippet": "而天然气，将会在接下来越来越重要，随着LNG的技术成熟，会逐渐从管道时代过渡到海运时代。"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 34,
+      "snippet": "除此之外就是新能源了，这个大趋势肯定是不会变的，它未来肯定会很重要。"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 14,
+      "snippet": "但不是说可再生就没有竞争了。"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 49,
+      "snippet": "围绕新能源主要的争夺，并不在发电板、电池，而是矿石的开采、冶炼和加工了，铜、锂、镍、钴、稀土等等。"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 12,
+      "snippet": "原产地，钴主要是刚果金；"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 10,
+      "snippet": "锂是澳大利亚和南美；"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 5,
+      "snippet": "镍是印尼；"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 10,
+      "snippet": "铜是智利秘鲁，等等；"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 17,
+      "snippet": "而加工冶炼端，中国基本上全球垄断。"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 36,
+      "snippet": "我就简单一笔带过了，这就是一个巨大的话题了，我们以后有机会单开一起聊吧~"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 39,
+      "snippet": "咱们今天从霍尔木兹海峡，展开聊了聊全球目前的能源格局，和未来大致上的发展路径。"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 16,
+      "snippet": "希望帮助大家有个整体框架、概念。"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 13,
+      "snippet": "今天就聊到这儿，下期再见～"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 11,
+      "snippet": "—— E N D ——"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题「全球能源」+格局设问，朋友招呼后以油价65→110暴涨对比开场。",
+      "patterns": [
+        "标题设问开场",
+        "油价暴涨钩子",
+        "生活基础能源升格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "全球能源",
+          "note": "标题词"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "整体是一个什么样的格局？",
+          "note": "格局设问"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们今天来聊聊全球能源市场。",
+          "note": "朋友们招呼"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "对比伊朗战争开打之前，原油价格的走势，从65美元一度暴涨到超过110美元。",
+          "note": "65到110"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "油价巨震因霍尔木兹封锁→海峡唯一出海口→亚洲依赖→特朗普急救→金跌美元涨反直觉→化石九成→2050仍六成。",
+      "patterns": [
+        "封锁→关卡→依赖→政策→反直觉→格局"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "我相信大家在新闻里都了解得很多了，就是因为——霍尔木兹海峡。",
+          "note": "霍尔木兹因果"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "霍尔木兹海峡，可以称得上是全球最重要的能源关卡，它连接着波斯湾和阿拉伯海，是波斯",
+          "note": "唯一海上出口"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "有大概85%都流向了亚洲，最主要的就四个国家:",
+          "note": "85%流向亚洲"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "这些措施，甭管有没有真实控制住油价，但美国的意图其实是非常明显的，显然是有点着急",
+          "note": "美国着急"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "美元上涨，黄金下跌，美债下跌。",
+          "note": "美元涨黄金跌"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:",
+          "note": "化石近九成"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "hook_oil_shock",
+          "note": "油价暴涨与战争冲击"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "strait_geography",
+          "note": "霍尔木兹地理与流量"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s118",
+            "s119"
+          ],
+          "function": "iran_control",
+          "note": "伊朗封锁与美军"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135"
+          ],
+          "function": "trump_response",
+          "note": "特朗普对策"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157"
+          ],
+          "function": "gold_paradox",
+          "note": "黄金下跌反直觉"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252"
+          ],
+          "function": "global_structure",
+          "note": "全球能源结构展开"
+        },
+        {
+          "unit_id": "u7",
+          "sentence_ids": [
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261"
+          ],
+          "function": "gas_vs_oil",
+          "note": "天然气贸易化弱"
+        },
+        {
+          "unit_id": "u8",
+          "sentence_ids": [
+            "s262",
+            "s263",
+            "s264",
+            "s265",
+            "s266",
+            "s267",
+            "s268",
+            "s269",
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274"
+          ],
+          "function": "close_outlook",
+          "note": "小结展望收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「咱们今天…顺便」「好一般情况下可结束但」「写在最后」分层推进。",
+      "patterns": [
+        "议程预告过渡",
+        "本可结束加码",
+        "写在最后标"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "咱们今天，一方面来聊聊这个海峡、聊聊这次战争，然后咱们再更深入一点，顺便来看看后",
+          "note": "一方面再深入"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "好，一般情况下咱们的分析到这，就可以结束了。",
+          "note": "到这可结束"
+        },
+        {
+          "sentence_id": "s151",
+          "snippet": "但咱们这段视频可就不一样了。",
+          "note": "这段不一样"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "写在最后",
+          "note": "写在最后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "伊朗战争冲击vs俄乌/委内瑞拉；霍尔木兹vs马六甲动荡感；煤/油/气三形态。",
+      "patterns": [
+        "战争冲击对比",
+        "海峡动荡对比",
+        "三化石形态对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "产生的震荡程度，甚至超过了2022年俄乌战争引发的动荡，相比之下，2026年年初",
+          "note": "超俄乌委内瑞拉"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但马六甲海峡，远没有中东这这么动荡、这么让人不踏实，所以大家还是会把目光更多聚焦",
+          "note": "马六甲更踏实"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "煤炭更地方化，更集中在中国和印度；",
+          "note": "煤炭地方化"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "石油是最全球化、金融化的市场，目前还是和全球经济联结最密切的市场；",
+          "note": "石油最全球化"
+        },
+        {
+          "sentence_id": "s252",
+          "snippet": "而天然气虽然目前还是比较区域化，但它的市场增速很快，而且它看似分散，实则最难切换",
+          "note": "天然气难切换"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "格局设问、影响力追问、黄金为何跌等反直觉连环问。",
+      "patterns": [
+        "开篇格局问",
+        "影响力追问",
+        "反直觉连问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "整体是一个什么样的格局？",
+          "note": "什么格局"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "伊朗确实是石油大国，但怎么能有这么大的影响力？",
+          "note": "怎么这么大影响"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "就是这次战争开打之后，黄金开始涨了两天，紧接着怎么就跌下来了？",
+          "note": "黄金怎么跌"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "这时大多数人会思考，通货膨胀，美元更不值钱了，难道不是黄金更应该涨，美元指数更应",
+          "note": "难道黄金不该涨"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "北方气田/加瓦尔田、中印韩日、释储1.72亿桶、IEA2050估算。",
+      "patterns": [
+        "具名油气田",
+        "政策招数",
+        "机构远期估算"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "全球最大的天然气田，北方气田 (North Field)在这里；",
+          "note": "北方气田"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "全球最大的油田，位于沙特的加瓦尔田 (Ghawar Oil Field)；",
+          "note": "加瓦尔田"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "中国、印度、韩国、日本。",
+          "note": "中印韩日"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "紧急释放1.72亿桶石油储备，这相当于一下就释放了美国超过三分之一的储备；",
+          "note": "释放1.72亿桶"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "它估算到2050年，全球还是会有60%的能源来自化石能源。",
+          "note": "2050仍60%"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "能源关卡落成33公里航道、2000万桶/日、扁担意象与韩国跌12%。",
+      "patterns": [
+        "航道公里具象",
+        "扁担隐喻",
+        "股市跌幅落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "它最窄的地方只有约33公里，而实际上能用来给巨型游轮航行的航道只有一进一出两条，",
+          "note": "最窄约33公里"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "就这么窄窄的不到10公里的航道，之前每天通过的石油高达2000万桶，大概是全球每",
+          "note": "日通2000万桶"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "于是，这么一个33公里的海峡，像扁担一样扛起了全球能源产业。",
+          "note": "扁担扛能源"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这就是伊朗对霍尔木兹海峡封锁以后，日本股市大跌，韩国股市更是一天下跌12%，创下",
+          "note": "韩国跌12%"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言油价连生活起居、美国意图明显着急、少想一层方向就反。",
+      "patterns": [
+        "基础能源升格",
+        "政策意图判断",
+        "少想一层训诫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你要知道这可是油价啊，它跟黄金、甚至股票都不一样，它不只是个资产价格，而是最直接",
+          "note": "连接生活起居"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "这些措施，甭管有没有真实控制住油价，但美国的意图其实是非常明显的，显然是有点着急",
+          "note": "意图明显着急"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！",
+          "note": "少想一层想反"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先抛通胀→黄金应涨直觉，再承认要深入一层到美联储预期。",
+      "patterns": [
+        "错误直觉先给",
+        "再深入一层校正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s137",
+          "snippet": "这时大多数人会思考，通货膨胀，美元更不值钱了，难道不是黄金更应该涨，美元指数更应",
+          "note": "直觉黄金应涨"
+        },
+        {
+          "sentence_id": "s138",
+          "snippet": "但事实怎么是反过来的？",
+          "note": "事实反过来"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "咱们还得再深入一层。",
+          "note": "再深入一层"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短标题切段→长解释→对策短句清单→反直觉慢推→宏观收束。",
+      "patterns": [
+        "标题短切",
+        "对策清单",
+        "反直觉放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "霍尔木兹海峡",
+          "note": "海峡小标题"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "派了三艘航母过去；",
+          "note": "三艘航母"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "我们简单盘一盘。",
+          "note": "简单盘一盘"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:",
+          "note": "整体小节"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "油价震惊→地理压迫幽默→政策焦急→反直觉恍然→宏观求知→冷静展望。",
+      "patterns": [
+        "震荡震惊",
+        "密集恐惧幽默",
+        "恍然顿悟",
+        "冷静展望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "产生的震荡程度，甚至超过了2022年俄乌战争引发的动荡，相比之下，2026年年初",
+          "note": "震荡超俄乌"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这一片区域的能源密集程度，简直让有密集恐惧症的人看着都难受。",
+          "note": "密集恐惧症"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！",
+          "note": "发现没有"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "虽然这只是个非常粗略的估算，但多多少少说明了，各个国家可能还要至少围绕化石能源争",
+          "note": "还要争几十年"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从霍尔木兹回扣全球格局与未来路径，交付框架后下期再见。",
+      "patterns": [
+        "起点回扣",
+        "框架交付",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s271",
+          "snippet": "咱们今天从霍尔木兹海峡，展开聊了聊全球目前的能源格局，和未来大致上的发展路径。",
+          "note": "从海峡展开"
+        },
+        {
+          "sentence_id": "s272",
+          "snippet": "希望帮助大家有个整体框架、概念。",
+          "note": "整体框架"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "今天就聊到这儿，下期再见～",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性知识交付：希望有个框架+下期再见，无硬推销。",
+      "patterns": [
+        "希望框架软CTA",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s272",
+          "snippet": "希望帮助大家有个整体框架、概念。",
+          "note": "希望有框架"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "今天就聊到这儿，下期再见～",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "朋友们/咱们口语、密集恐惧症玩笑、少想一层个人推演痕迹。",
+      "patterns": [
+        "朋友们招呼",
+        "密集恐惧玩笑",
+        "少想一层金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们今天来聊聊全球能源市场。",
+          "note": "朋友们咱们"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这一片区域的能源密集程度，简直让有密集恐惧症的人看着都难受。",
+          "note": "密集恐惧症"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！",
+          "note": "少想一层"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳过战况中段；部分流量数据缺出处；新能源矿争一笔带过。",
+      "patterns": [
+        "截断跳段",
+        "数据出处薄",
+        "尾部一笔带过"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "当然，美国也知道这个海峡的重要性，所以美军在中东，尤其是这个海峡附近部署了4-5",
+          "note": "美军后跳段"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "就这么窄窄的不到10公里的航道，之前每天通过的石油高达2000万桶，大概是全球每",
+          "note": "2000万桶缺出处"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "我就简单一笔带过了，这就是一个巨大的话题了，我们以后有机会单开一起聊吧~",
+          "note": "一笔带过以后聊"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显「查时就好奇」动机，并逐步暴露避险→通胀→美联储三层思维。",
+      "patterns": [
+        "好奇动机外显",
+        "三层推理外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s152",
+          "snippet": "我查的时候就好奇，但凡哪个和能源沾边的国家一出点什么事儿，媒体恨不得就宣传得又引",
+          "note": "查时就好奇"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "首先最开始，打仗了嘛，大家都去避险，所以避险资产，什么黄金、美债，都上涨。",
+          "note": "先避险层"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "它就会出手，停止降息，甚至货币紧缩、加息，美联储的政策，在短期内对资产价格的影响",
+          "note": "美联储出手层"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众当需要框架的朋友，邀请「你不觉得应该了解了解么」。",
+      "patterns": [
+        "朋友同位",
+        "邀请共知"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们今天来聊聊全球能源市场。",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "甚至不光是石油，不光是霍尔木兹海峡，而是全球各种各样形式的能源，各国都消耗多少、",
+          "note": "你不觉得该了解"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "我帮大家提炼出来一些，我觉得可能对大家有帮助的信息，让咱们大致上有个概念。",
+          "note": "帮大家提炼"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "65→110美元、33公里、2000万桶、韩国跌12%、IEA2050 60%。",
+      "patterns": [
+        "价格锚",
+        "地理锚",
+        "跌幅锚",
+        "远期占比锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "对比伊朗战争开打之前，原油价格的走势，从65美元一度暴涨到超过110美元。",
+          "note": "65到110"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "它最窄的地方只有约33公里，而实际上能用来给巨型游轮航行的航道只有一进一出两条，",
+          "note": "33公里"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这就是伊朗对霍尔木兹海峡封锁以后，日本股市大跌，韩国股市更是一天下跌12%，创下",
+          "note": "跌12%"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "它估算到2050年，全球还是会有60%的能源来自化石能源。",
+          "note": "2050仍60%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密→海峡地理高密→政策中密→反直觉中密→宏观高密→矿争降密。",
+      "patterns": [
+        "地理高密",
+        "反直觉慢推",
+        "尾部降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "就这么窄窄的不到10公里的航道，之前每天通过的石油高达2000万桶，大概是全球每",
+          "note": "流量高密"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "它就会出手，停止降息，甚至货币紧缩、加息，美联储的政策，在短期内对资产价格的影响",
+          "note": "政策推理中密"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "我就简单一笔带过了，这就是一个巨大的话题了，我们以后有机会单开一起聊吧~",
+          "note": "矿争降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问→对比→因果→地理→政策枚举→悖论拆解→宏观综合→展望。",
+      "patterns": [
+        "问比因推进",
+        "悖论拆解",
+        "综合展望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "伊朗确实是石油大国，但怎么能有这么大的影响力？",
+          "note": "因果设问"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "提到通胀，我再跟大家聊一个我注意到的有点反直觉的现象。",
+          "note": "反直觉入口"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:",
+          "note": "综合小节"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "宏观财经解说者：爱拆反直觉、敢说着急、轻幽默减压。",
+      "patterns": [
+        "反直觉拆解者",
+        "政策意图点评",
+        "轻幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s128",
+          "snippet": "提到通胀，我再跟大家聊一个我注意到的有点反直觉的现象。",
+          "note": "反直觉现象"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "这些措施，甭管有没有真实控制住油价，但美国的意图其实是非常明显的，显然是有点着急",
+          "note": "有点着急了"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这一片区域的能源密集程度，简直让有密集恐惧症的人看着都难受。",
+          "note": "密集恐惧玩笑"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "扁担海峡、密集恐惧症、少想一层想反、化石九成/2050六成。",
+      "patterns": [
+        "扁担意象",
+        "少想一层金句",
+        "九成六成比例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "于是，这么一个33公里的海峡，像扁担一样扛起了全球能源产业。",
+          "note": "扁担"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！",
+          "note": "少想一层"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:",
+          "note": "近九成"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "它估算到2050年，全球还是会有60%的能源来自化石能源。",
+          "note": "2050六成"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "关卡地理→冲击传导→反直觉资产→宏观结构骨架可直接用于观宇能源/宏观长视频。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "霍尔木兹海峡，可以称得上是全球最重要的能源关卡，它连接着波斯湾和阿拉伯海，是波斯",
+          "note": "关卡定义"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "发现没有，这市场分析吧，有时候你可能只是少想了一层，但方向就完全想反了！",
+          "note": "反直觉教法"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "整体小节一下, 化石能源依旧占据全球能源近九成，其中:",
+          "note": "结构小结"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s10",
+    "s16",
+    "s33",
+    "s125",
+    "s145",
+    "s249",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s250",
+    "s251",
+    "s252",
+    "s253",
+    "s254",
+    "s255",
+    "s256",
+    "s257",
+    "s258",
+    "s259",
+    "s260",
+    "s261",
+    "s262",
+    "s263",
+    "s264",
+    "s265",
+    "s266",
+    "s267",
+    "s268",
+    "s269",
+    "s270",
+    "s271",
+    "s272",
+    "s273",
+    "s274"
+  ],
+  "fields_complete_25": true
+}

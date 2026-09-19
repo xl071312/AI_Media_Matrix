@@ -1,0 +1,1124 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_Lb60mjM5B1U",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Lb60mjM5B1U",
+  "source_sha256": "95a5d13cd92d5e5498964bd7563e7cefa433c20cc302fae65edd3c1de40620a9",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 61,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "朋友们 我现在在难以"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "我在这片这么纯淨的镜土上"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "今天� and 咱们不了商�"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "today 想聊的呢"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 18,
+      "snippet": "可能是一些大家经常会问到我的一些话题"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "包括这一年来我的一些感悟和想法"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 22,
+      "snippet": "比如说我会先汇报一下咱 time 频道的进展"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "还有自媒体啊"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "我会说我会说我会说,我"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 25,
+      "snippet": "这个系列我其实一开始觉得可能是学生群体室会比到爱看"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "因为有点像学习嘛"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 18,
+      "snippet": "但后来呢我就发现很多工作,很大的工作"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 20,
+      "snippet": "甚至给我在大一点的那些大朋友们也很喜欢看"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "你想到啊你们是真爱学习"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 17,
+      "snippet": "还有一大系列就是 my heart"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 14,
+      "snippet": "我觉得也不太喜欢聊那种纯热点"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "咱还是希望能够找一些有讲头的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "有点营养的那"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 21,
+      "snippet": "对好在那发散出来,发散出来一些乱讲到的东西"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "最后再有一类呢,就是经济总结"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "不过现在我们每年只有一个全球总结"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "这个也是受受限于我们的人力"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 17,
+      "snippet": "确实没有办法那么多限病行那么多项目"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "最现在还只能一年一年一年"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "但里面可以有季度总结,甚至愈度"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "不过我们是老的老的短短短短说了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 38,
+      "snippet": "咱们还有一个非常重要的系 and we are very important"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "商业分轻商业分辑,商业分辑分辑分辑分辑"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "那么商业的一样的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "这就是这几个系列"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "你你喜欢哪一个可以打在公平上"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "然后两年前呢"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "就有了小林数着说"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "我觉得这个名字起得还真挺不错的"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "而且它还有举正发"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "我们现在走?"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "这几个更多了,自然然然会选择"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "在外面去,拍更多的内容"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "有些朋友说"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "怎么小林一出?"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "就把头发扎起来了"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 15,
+      "snippet": "因为这个卖拍的环境确实比较严峻"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "在风以来经常跟我吹的更个"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "什么?"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "没头发?"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 2,
+      "snippet": "不?"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "这几个是不仅仅仅仅仅仅仅�"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 4,
+      "snippet": "其实这种"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 18,
+      "snippet": "W W W W W W W W go"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "这都什么乱七八糟的"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "大家可以在评论区"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 4,
+      "snippet": "或者私信"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "只言不会都告诉我"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "这都什么乱七八糟的"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 13,
+      "snippet": "这都什么评论评论评论评论�"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 13,
+      "snippet": "这都什么评论评论评论评论,"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "这都什么评"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "这都什么评�"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 21,
+      "snippet": "这都什么评论评论评论评论评论评论评论评论�"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "这都什么评论�"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "这都什么评论评"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "外景「朋友们我现在在…」宣布今天不聊商业，改聊频道进展与一年感悟。",
+      "patterns": [
+        "外景现场感",
+        "今天不聊商业转题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们 我现在在难以",
+          "note": "朋友们我现在在"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "今天� and 咱们不了商�",
+          "note": "今天不聊商"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "可能是一些大家经常会问到我的一些话题",
+          "note": "大家经常问到的话题"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "汇报频道进展→内容系列分层（学习向/有营养非纯热点/经济总结）→人力受限→商业分辑→点名互动→改名小林说→外拍扎头发段子→评论区崩坏循环。",
+      "patterns": [
+        "系列分层汇报",
+        "人力受限坦诚",
+        "改名与外拍彩蛋",
+        "尾崩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "汇报频道进展"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我觉得也不太喜欢聊那种纯热点",
+          "note": "不太喜欢纯热点"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "受限于人力"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我觉得这个名字起得还真挺不错的",
+          "note": "名字挺不错"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "头发扎起来"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "scene_agenda",
+          "note": "外景开场与今日议题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "series_map",
+          "note": "内容系列与受众发现"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "brand_outdoor",
+          "note": "改名与外拍扎发彩蛋"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61"
+          ],
+          "function": "asr_collapse",
+          "note": "乱七八糟评论循环尾崩"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「比如说」「但后来呢」「还有一大系列」「最后再有一类」「然后两年前呢」盘点式推进。",
+      "patterns": [
+        "比如说列举转",
+        "但后来发现转",
+        "两年前呢时间转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "比如说先汇报"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "但后来呢我就发现很多工作,很大的工作",
+          "note": "但后来呢发现"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "最后再有一类呢,就是经济总结",
+          "note": "最后再有一类"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "然后两年前呢",
+          "note": "然后两年前呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "以为学生爱看 vs 大朋友也爱；纯热点 vs 有讲头有营养；想做多项目 vs 人力一年一次。",
+      "patterns": [
+        "受众预期差",
+        "热点/营养对打",
+        "野心/人力对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这个系列我其实一开始觉得可能是学生群体室会比到爱看",
+          "note": "以为学生爱看"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "甚至给我在大一点的那些大朋友们也很喜欢看",
+          "note": "大朋友也喜欢"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我觉得也不太喜欢聊那种纯热点",
+          "note": "不喜欢纯热点"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力受限"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你喜欢哪一个可以打在公屏」互动问；「怎么小林一出就把头发扎起来了」转述问；「什么？没头发？」玩笑问。",
+      "patterns": [
+        "公屏互动问",
+        "转述观众问",
+        "玩笑反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "你你喜欢哪一个可以打在公平上",
+          "note": "喜欢哪一个公屏"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "怎么小林一出?",
+          "note": "怎么小林一出"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "什么?",
+          "note": "什么"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "没头发?",
+          "note": "没头发"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "学习向系列、my heart/有营养选题、全球年度总结、商业分辑、改名小林说、外拍扎发。",
+      "patterns": [
+        "系列品类例",
+        "改名例",
+        "扎发外拍例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "因为有点像学习嘛",
+          "note": "有点像学习"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "不过现在我们每年只有一个全球总结",
+          "note": "全球总结"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "商业分轻商业分辑,商业分辑分辑分辑分辑",
+          "note": "商业分辑"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "头发扎起来"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「感悟和想法」落到具体系列清单与人力瓶颈；「严峻环境」落到风吹扎发。",
+      "patterns": [
+        "感悟→系列清单",
+        "严峻→扎发"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "汇报进展具体"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力瓶颈"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "因为这个卖拍的环境确实比较严峻",
+          "note": "环境严峻扎发"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言不爱纯热点、希望有营养；名字起得挺不错；人力确实没办法。",
+      "patterns": [
+        "反纯热点断",
+        "名字不错断",
+        "人力无奈断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我觉得也不太喜欢聊那种纯热点",
+          "note": "不太喜欢纯热点"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我觉得这个名字起得还真挺不错的",
+          "note": "名字挺不错"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "确实没有办法那么多限病行那么多项目",
+          "note": "确实没有办法"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「一开始觉得学生会爱看，但后来发现大朋友也很喜欢」修正受众假设。",
+      "patterns": [
+        "受众假设修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这个系列我其实一开始觉得可能是学生群体室会比到爱看",
+          "note": "一开始觉得学生"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "但后来呢我就发现很多工作,很大的工作",
+          "note": "但后来发现"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "甚至给我在大一点的那些大朋友们也很喜欢看",
+          "note": "大朋友也喜欢"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "外景慢开→系列盘点中速→互动问停顿→扎发玩笑加速→「乱七八糟」死循环失速。",
+      "patterns": [
+        "盘点中速",
+        "玩笑加速",
+        "循环失速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "盘点"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "扎发玩笑"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这都什么乱七八糟的",
+          "note": "乱七八糟循环"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "比如说"
+        },
+        {
+          "type": "repair_like",
+          "form": "我会说我会说我会说"
+        },
+        {
+          "type": "code_switch",
+          "form": "today/my heart"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "这都什么乱七八糟的×多"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "比如说"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我会说我会说我会说,我",
+          "note": "我会说复沓"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "today 想聊的呢",
+          "note": "today想聊"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这都什么乱七八糟的",
+          "note": "乱七八糟循环"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "现场亲切→坦诚汇报→受众惊喜→人力无奈→改名得意→扎发好笑→尾崩烦躁空洞。",
+      "patterns": [
+        "现场亲切",
+        "人力无奈",
+        "扎发好笑",
+        "尾崩空洞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们 我现在在难以",
+          "note": "朋友们亲切"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力无奈"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "扎发好笑"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这都什么乱七八糟的",
+          "note": "循环空洞"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "拟以评论区/私信征集闭环开篇「大家经常问」，但ASR崩溃成「乱七八糟」未能完成。",
+      "patterns": [
+        "征集闭环未遂",
+        "ASR阻断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "可能是一些大家经常会问到我的一些话题",
+          "note": "经常问到开题"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "大家可以在评论区",
+          "note": "评论区征集"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这都什么乱七八糟的",
+          "note": "循环阻断"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "公屏点名喜欢哪系列；评论区或私信告诉我——典型互动CTA后被噪声淹没。",
+      "patterns": [
+        "公屏点名CTA",
+        "评论私信CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "你你喜欢哪一个可以打在公平上",
+          "note": "打在公屏上"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "大家可以在评论区",
+          "note": "评论区"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "或者私信",
+          "note": "或者私信"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "中英夹杂、复沓口误、扎发段子、尾段循环，强真人随口聊天感。",
+      "patterns": [
+        "中英夹杂",
+        "口误复沓",
+        "扎发段子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "today 想聊的呢",
+          "note": "today夹杂"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我会说我会说我会说,我",
+          "note": "我会说复沓"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "扎发"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR中后段严重失真；系列名音译不清；尾部长循环无信息；商业分辑段碎裂。",
+      "patterns": [
+        "ASR中后失真",
+        "尾循环无信息",
+        "系列名不清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "商业分轻商业分辑,商业分辑分辑分辑分辑",
+          "note": "商业分辑碎裂"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "W W W W W W W W go",
+          "note": "W循环"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "这都什么评论评论评论评论评论评论评论评论�",
+          "note": "评论循环"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "露出「先汇报系列→承认人力边界→解释改名与外拍选择」的创作者复盘顺序。",
+      "patterns": [
+        "系列复盘",
+        "人力边界坦诚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "先汇报"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "承认人力"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "这几个更多了,自然然然会选择",
+          "note": "选择外拍"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「朋友们/真爱学习/大朋友们」把老粉放在共创参谋位，征集系列偏好。",
+      "patterns": [
+        "老粉共创位",
+        "大朋友称呼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们 我现在在难以",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你想到啊你们是真爱学习",
+          "note": "真爱学习"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你你喜欢哪一个可以打在公平上",
+          "note": "喜欢哪一个"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "不聊商业外景、全球一年一总结、小林说改名、外拍扎发、公屏点名。",
+      "patterns": [
+        "外景不聊商业锚",
+        "一年一总结锚",
+        "扎发锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "今天� and 咱们不了商�",
+          "note": "不聊商"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "不过现在我们每年只有一个全球总结",
+          "note": "每年只有一个全球总结"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "头发扎起来"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密现场→系列盘点中密→人力句高信息→玩笑中密→尾零密。",
+      "patterns": [
+        "盘点中密",
+        "尾零密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这个系列我其实一开始觉得可能是学生群体室会比到爱看",
+          "note": "系列中密"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力高信息"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这都什么评论评论评论评论�",
+          "note": "零密循环"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短现场句+列举长句；问答短句；后半机械重复破坏流动。",
+      "patterns": [
+        "短现场+列举",
+        "机械重复破流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们 我现在在难以",
+          "note": "短现场"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这个系列我其实一开始觉得可能是学生群体室会比到爱看",
+          "note": "列举长"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这都什么乱七八糟的",
+          "note": "机械重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "坦诚创作者老板：敢说人力不够，也敢聊扎发琐事，亲和复盘型。",
+      "patterns": [
+        "坦诚复盘者",
+        "琐事亲和"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力坦诚"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我觉得这个名字起得还真挺不错的",
+          "note": "名字自得"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "扎发琐事"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "今天不聊商业、有点营养、一年一总结、头发扎起来、打在公屏上。",
+      "patterns": [
+        "不聊商业",
+        "有点营养",
+        "扎头发",
+        "公屏点名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "今天� and 咱们不了商�",
+          "note": "不聊商"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有点营养的那",
+          "note": "有点营养"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就把头发扎起来了",
+          "note": "头发扎起来"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你你喜欢哪一个可以打在公平上",
+          "note": "打在公屏"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "创作者年更复盘（系列地图+人力边界+互动征集）可改编，但需重做清晰转写并砍尾崩段。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比如说我会先汇报一下咱 time 频道的进展",
+          "note": "系列汇报"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "这个也是受受限于我们的人力",
+          "note": "人力边界"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "你你喜欢哪一个可以打在公平上",
+          "note": "互动征集"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s7",
+    "s16",
+    "s22",
+    "s34",
+    "s41",
+    "s2",
+    "s4",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61"
+  ],
+  "fields_complete_25": true
+}

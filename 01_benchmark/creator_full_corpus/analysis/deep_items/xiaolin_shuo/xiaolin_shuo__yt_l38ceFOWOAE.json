@@ -1,0 +1,1263 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_l38ceFOWOAE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=l38ceFOWOAE",
+  "source_sha256": "c15cb1cec146800a0a8aa149036926968dfcfe8990df43a760d8003bb2caf5a2",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s509"
+    },
+    {
+      "sentence_id": "s510"
+    },
+    {
+      "sentence_id": "s511"
+    },
+    {
+      "sentence_id": "s512"
+    },
+    {
+      "sentence_id": "s513"
+    },
+    {
+      "sentence_id": "s514"
+    },
+    {
+      "sentence_id": "s515"
+    },
+    {
+      "sentence_id": "s516"
+    },
+    {
+      "sentence_id": "s517"
+    },
+    {
+      "sentence_id": "s518"
+    },
+    {
+      "sentence_id": "s519"
+    },
+    {
+      "sentence_id": "s520"
+    },
+    {
+      "sentence_id": "s521"
+    },
+    {
+      "sentence_id": "s522"
+    },
+    {
+      "sentence_id": "s523"
+    },
+    {
+      "sentence_id": "s524"
+    },
+    {
+      "sentence_id": "s525"
+    },
+    {
+      "sentence_id": "s526"
+    },
+    {
+      "sentence_id": "s527"
+    },
+    {
+      "sentence_id": "s528"
+    },
+    {
+      "sentence_id": "s529"
+    },
+    {
+      "sentence_id": "s530"
+    },
+    {
+      "sentence_id": "s531"
+    },
+    {
+      "sentence_id": "s532"
+    },
+    {
+      "sentence_id": "s533"
+    },
+    {
+      "sentence_id": "s534"
+    },
+    {
+      "sentence_id": "s535"
+    },
+    {
+      "sentence_id": "s536"
+    },
+    {
+      "sentence_id": "s537"
+    },
+    {
+      "sentence_id": "s538"
+    },
+    {
+      "sentence_id": "s539"
+    },
+    {
+      "sentence_id": "s540"
+    },
+    {
+      "sentence_id": "s541"
+    },
+    {
+      "sentence_id": "s542"
+    },
+    {
+      "sentence_id": "s543"
+    },
+    {
+      "sentence_id": "s544"
+    },
+    {
+      "sentence_id": "s545"
+    },
+    {
+      "sentence_id": "s546"
+    },
+    {
+      "sentence_id": "s547"
+    },
+    {
+      "sentence_id": "s548"
+    },
+    {
+      "sentence_id": "s1028"
+    },
+    {
+      "sentence_id": "s1029"
+    },
+    {
+      "sentence_id": "s1030"
+    },
+    {
+      "sentence_id": "s1031"
+    },
+    {
+      "sentence_id": "s1032"
+    },
+    {
+      "sentence_id": "s1033"
+    },
+    {
+      "sentence_id": "s1034"
+    },
+    {
+      "sentence_id": "s1035"
+    },
+    {
+      "sentence_id": "s1036"
+    },
+    {
+      "sentence_id": "s1037"
+    },
+    {
+      "sentence_id": "s1038"
+    },
+    {
+      "sentence_id": "s1039"
+    },
+    {
+      "sentence_id": "s1040"
+    },
+    {
+      "sentence_id": "s1041"
+    },
+    {
+      "sentence_id": "s1042"
+    },
+    {
+      "sentence_id": "s1043"
+    },
+    {
+      "sentence_id": "s1044"
+    },
+    {
+      "sentence_id": "s1045"
+    },
+    {
+      "sentence_id": "s1046"
+    },
+    {
+      "sentence_id": "s1047"
+    },
+    {
+      "sentence_id": "s1048"
+    },
+    {
+      "sentence_id": "s1049"
+    },
+    {
+      "sentence_id": "s1050"
+    },
+    {
+      "sentence_id": "s1051"
+    },
+    {
+      "sentence_id": "s1052"
+    },
+    {
+      "sentence_id": "s1053"
+    },
+    {
+      "sentence_id": "s1054"
+    },
+    {
+      "sentence_id": "s1055"
+    },
+    {
+      "sentence_id": "s1056"
+    },
+    {
+      "sentence_id": "s1057"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "近照唏嘘开场：70多该遛孙子却还债，卖48个广场与命根商管，预告理清乱麻。",
+      "patterns": [
+        "近照唏嘘",
+        "卖命根反差",
+        "乱麻预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这是最近的王健林",
+          "note": "最近王健林"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "卖了48个万达广场",
+          "note": "卖48个广场"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还不得不卖了60%的股权",
+          "note": "卖60%股权"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "就来把这团乱麻",
+          "note": "理清楚"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "昔日风光→资产剥离（商管/电影）→资本结构复杂压垮→融创交易黄→富力介入三方戏→名称仍在控制权已散→72岁硬扛再起。",
+      "patterns": [
+        "风光落差",
+        "资产剥离",
+        "结构压垮",
+        "三方交易戏",
+        "名存实亡",
+        "硬扛收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你想老王当年多风光啊",
+          "note": "当年风光"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还不得不卖了60%的股权",
+          "note": "控制权让人"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "才是压垮万达的关键",
+          "note": "资本游戏压垮"
+        },
+        {
+          "sentence_id": "s543",
+          "snippet": "变成了一出大戏",
+          "note": "签约大戏"
+        },
+        {
+          "sentence_id": "s1041",
+          "snippet": "不再属于王健林",
+          "note": "不再属于王健林"
+        },
+        {
+          "sentence_id": "s1048",
+          "snippet": "依旧硬扛着卖资产还债",
+          "note": "硬扛还债"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "近况唏嘘与卖资产开题",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s509",
+            "s510",
+            "s511",
+            "s512",
+            "s513",
+            "s514",
+            "s515",
+            "s516",
+            "s517",
+            "s518",
+            "s519",
+            "s520",
+            "s521",
+            "s522",
+            "s523",
+            "s524",
+            "s525",
+            "s526",
+            "s527",
+            "s528",
+            "s529",
+            "s530",
+            "s531",
+            "s532",
+            "s533",
+            "s534",
+            "s535",
+            "s536",
+            "s537",
+            "s538",
+            "s539",
+            "s540",
+            "s541",
+            "s542",
+            "s543",
+            "s544",
+            "s545",
+            "s546",
+            "s547",
+            "s548"
+          ],
+          "function": "融创窟窿与富力介入三方交易",
+          "note": "中段高潮"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s1028",
+            "s1029",
+            "s1030",
+            "s1031",
+            "s1032",
+            "s1033",
+            "s1034",
+            "s1035",
+            "s1036",
+            "s1037",
+            "s1038",
+            "s1039",
+            "s1040",
+            "s1041",
+            "s1042",
+            "s1043",
+            "s1044",
+            "s1045",
+            "s1046",
+            "s1047",
+            "s1048",
+            "s1049",
+            "s1050",
+            "s1051",
+            "s1052",
+            "s1053",
+            "s1054",
+            "s1055",
+            "s1056",
+            "s1057"
+          ],
+          "function": "名存实亡与72岁硬扛收束",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「你想」「要知道」「咱们今天就来」「这时候」「但老王」叙事转场。",
+      "patterns": [
+        "你想共情",
+        "要知道强调",
+        "咱们今天",
+        "这时候转折"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你想老王当年多风光啊",
+          "note": "你想"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "要知道这商管",
+          "note": "要知道"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "咱们今天",
+          "note": "咱们今天"
+        },
+        {
+          "sentence_id": "s517",
+          "snippet": "这时候",
+          "note": "这时候"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "该退休遛孙 vs 还债上班；不能丢的商管 vs 不得不卖；名叫万达 vs 控制权易主。",
+      "patterns": [
+        "退休/还债",
+        "不能丢/不得不卖",
+        "名/实对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "遛孙子的好时候",
+          "note": "遛孙子好时候"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "还债呢",
+          "note": "还债"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这个(商管)不能丢",
+          "note": "这个不能丢"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还不得不卖了60%的股权",
+          "note": "不得不卖"
+        },
+        {
+          "sentence_id": "s1031",
+          "snippet": "虽然名字都还叫万达",
+          "note": "名字还叫万达"
+        },
+        {
+          "sentence_id": "s1034",
+          "snippet": "商管是太盟的",
+          "note": "商管是太盟的"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「是不是看着还挺唏嘘」「万达到底经历了什么」驱动长叙事。",
+      "patterns": [
+        "唏嘘反问",
+        "经历了什么"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "是不是看着",
+          "note": "是不是看着"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "万达到底经历了什么",
+          "note": "经历了什么"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "是怎么一步一步",
+          "note": "怎么一步一步"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "万达影城牌子仍在实为儒意；融创300亿窟窿；富力李思廉闻味过来；飞县考察。",
+      "patterns": [
+        "影城易主例",
+        "300亿窟窿",
+        "李思廉介入",
+        "飞县考察"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "儒意电影",
+          "note": "儒意电影"
+        },
+        {
+          "sentence_id": "s512",
+          "snippet": "有一个300亿的窟窿",
+          "note": "300亿窟窿"
+        },
+        {
+          "sentence_id": "s524",
+          "snippet": "李思廉",
+          "note": "李思廉"
+        },
+        {
+          "sentence_id": "s1052",
+          "snippet": "一个县一个县考察文旅项目",
+          "note": "一个县考察"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「庞然大物乱麻」落到商管/电影/酒馆归属清单与72岁飞贵州新疆福建。",
+      "patterns": [
+        "归属清单落地",
+        "年龄落地",
+        "航线落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1034",
+          "snippet": "商管是太盟的",
+          "note": "商管太盟"
+        },
+        {
+          "sentence_id": "s1035",
+          "snippet": "电影是儒意的",
+          "note": "电影儒意"
+        },
+        {
+          "sentence_id": "s1047",
+          "snippet": "72岁",
+          "note": "72岁"
+        },
+        {
+          "sentence_id": "s1049",
+          "snippet": "他还在飞贵州",
+          "note": "飞贵州"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「挺让人唏嘘」「才是压垮万达的关键」「闯的可真是费劲呐」「非常让人佩服」。",
+      "patterns": [
+        "唏嘘判断",
+        "压垮关键",
+        "费劲评价",
+        "佩服收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "还挺让人唏嘘的",
+          "note": "唏嘘"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "才是压垮万达的关键",
+          "note": "压垮关键"
+        },
+        {
+          "sentence_id": "s538",
+          "snippet": "闯的可真是费劲呐",
+          "note": "费劲"
+        },
+        {
+          "sentence_id": "s1044",
+          "snippet": "还是非常让人佩服的",
+          "note": "佩服"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "反复「不能丢不能丢」后承认还是卖了；名字还在但实际上已易主的澄清。",
+      "patterns": [
+        "不能丢落空",
+        "名实澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "结果不能丢不能丢",
+          "note": "不能丢不能丢"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还不得不卖了60%的股权",
+          "note": "还不得不卖"
+        },
+        {
+          "sentence_id": "s1033",
+          "snippet": "但实际上呢",
+          "note": "但实际上呢"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句唏嘘→资产剥离中速→三方交易加速戏剧→归属清单顿挫→硬扛抒情放慢。",
+      "patterns": [
+        "短句唏嘘",
+        "剥离中速",
+        "交易加速",
+        "清单顿挫",
+        "抒情放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "还债呢",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s543",
+          "snippet": "变成了一出大戏",
+          "note": "大戏加速"
+        },
+        {
+          "sentence_id": "s1034",
+          "snippet": "商管是太盟的",
+          "note": "清单顿挫"
+        },
+        {
+          "sentence_id": "s1057",
+          "snippet": "甚至东山再起",
+          "note": "放慢收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "唏嘘同情→复杂晕眩→交易紧张戏剧→名存实亡悲凉→硬扛敬意。",
+      "patterns": [
+        "唏嘘",
+        "晕眩",
+        "戏剧紧张",
+        "悲凉",
+        "敬意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "还挺让人唏嘘的",
+          "note": "唏嘘"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就已经开始晕了",
+          "note": "晕了"
+        },
+        {
+          "sentence_id": "s543",
+          "snippet": "变成了一出大戏",
+          "note": "大戏"
+        },
+        {
+          "sentence_id": "s1042",
+          "snippet": "也不再属于万达集团的名字",
+          "note": "悲凉"
+        },
+        {
+          "sentence_id": "s1044",
+          "snippet": "还是非常让人佩服的",
+          "note": "敬意"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场该退休却还债，收束仍像转业军人接手烂摊子想还清甚至东山再起。",
+      "patterns": [
+        "还债开",
+        "转业军人回扣",
+        "东山再起收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "还债呢",
+          "note": "还债开"
+        },
+        {
+          "sentence_id": "s1054",
+          "snippet": "接手烂摊子的",
+          "note": "接手烂摊子"
+        },
+        {
+          "sentence_id": "s1057",
+          "snippet": "甚至东山再起",
+          "note": "东山再起"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「咱们今天就来把乱麻理清楚」知识承诺式软CTA；窗口无硬广。",
+      "patterns": [
+        "理清乱麻承诺",
+        "无硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "就来把这团乱麻",
+          "note": "理清楚"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "万达到底经历了什么",
+          "note": "经历了什么"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "引用王健林原话「这个不能丢」、签约现场logo彩蛋、飞县细节，叙事具体。",
+      "patterns": [
+        "原话引用",
+        "现场logo",
+        "飞县细节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "这个(商管)不能丢",
+          "note": "原话不能丢"
+        },
+        {
+          "sentence_id": "s548",
+          "snippet": "一个富力地产的logo啊",
+          "note": "富力logo"
+        },
+        {
+          "sentence_id": "s1052",
+          "snippet": "一个县一个县考察文旅项目",
+          "note": "一县一县"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED，开场与融创段、收束之间大段缺失，完整时间线需补全。",
+      "patterns": [
+        "多段截断",
+        "时间线不全"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "被逼到了今天的境地",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s509",
+          "snippet": "因为各种原因",
+          "note": "跳入融创"
+        },
+        {
+          "sentence_id": "s1028",
+          "snippet": "就多2,000万的利息",
+          "note": "跳入收束"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从名字晕眩挖到资本游戏；融创批文黄→富力闻味捡漏的因果链。",
+      "patterns": [
+        "名字到资本",
+        "批文黄因果",
+        "闻味捡漏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "盘根错节的资本游戏",
+          "note": "资本游戏"
+        },
+        {
+          "sentence_id": "s510",
+          "snippet": "就没通过",
+          "note": "没通过"
+        },
+        {
+          "sentence_id": "s521",
+          "snippet": "八成有便宜可以捡",
+          "note": "有便宜可捡"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准记得中国首富神话的大众，用「你想老王当年」共情拉近。",
+      "patterns": [
+        "首富记忆受众",
+        "你想共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你想老王当年多风光啊",
+          "note": "你想老王"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "昔日的中国首富",
+          "note": "昔日中国首富"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就已经开始晕了",
+          "note": "大多数人已晕"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "卖48个广场；商管60%股权；300亿窟窿；7月19签约；72岁；太盟/儒意/同程。",
+      "patterns": [
+        "48个广场",
+        "60%股权",
+        "300亿",
+        "签约日",
+        "72岁",
+        "归属名单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "卖了48个万达广场",
+          "note": "48个"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "还不得不卖了60%的股权",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s512",
+          "snippet": "有一个300亿的窟窿",
+          "note": "300亿"
+        },
+        {
+          "sentence_id": "s541",
+          "snippet": "在7月19号",
+          "note": "7月19号"
+        },
+        {
+          "sentence_id": "s1047",
+          "snippet": "72岁",
+          "note": "72岁"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密落差→结构点名高密→交易戏剧中高密→归属清单高密→抒情低密。",
+      "patterns": [
+        "落差中密",
+        "结构高密",
+        "戏剧中高密",
+        "清单高密",
+        "抒情低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "卖了48个万达广场",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "什么万达商管",
+          "note": "结构高密"
+        },
+        {
+          "sentence_id": "s543",
+          "snippet": "变成了一出大戏",
+          "note": "戏剧"
+        },
+        {
+          "sentence_id": "s1036",
+          "snippet": "酒馆是同程的",
+          "note": "清单"
+        },
+        {
+          "sentence_id": "s1055",
+          "snippet": "转业军人一样",
+          "note": "抒情低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短句咏叹开场；名字列举排比；对话体「老王你们缺钱了吧」；清单短句收。",
+      "patterns": [
+        "短句咏叹",
+        "名字排比",
+        "对话体",
+        "清单短句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "还债呢",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "什么万达商管",
+          "note": "名字排比"
+        },
+        {
+          "sentence_id": "s526",
+          "snippet": "你们是不是缺钱了",
+          "note": "对话体"
+        },
+        {
+          "sentence_id": "s1034",
+          "snippet": "商管是太盟的",
+          "note": "清单"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "唏嘘叙事者：把首富跌落讲成资本侦探故事，收束仍给硬扛敬意而非嘲讽。",
+      "patterns": [
+        "唏嘘叙事",
+        "资本侦探",
+        "硬扛敬意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "还挺让人唏嘘的",
+          "note": "唏嘘"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "就来把这团乱麻",
+          "note": "理乱麻"
+        },
+        {
+          "sentence_id": "s1044",
+          "snippet": "还是非常让人佩服的",
+          "note": "佩服"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "该遛孙子却还债；这个不能丢却卖了；300亿窟窿；万达名存实亡；72岁硬扛。",
+      "patterns": [
+        "遛孙还债",
+        "不能丢却卖",
+        "300亿",
+        "名存实亡",
+        "72岁硬扛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "遛孙子的好时候",
+          "note": "遛孙子"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这个(商管)不能丢",
+          "note": "不能丢"
+        },
+        {
+          "sentence_id": "s512",
+          "snippet": "有一个300亿的窟窿",
+          "note": "300亿"
+        },
+        {
+          "sentence_id": "s1041",
+          "snippet": "不再属于王健林",
+          "note": "不再属于"
+        },
+        {
+          "sentence_id": "s1048",
+          "snippet": "依旧硬扛着卖资产还债",
+          "note": "硬扛"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "人物近照钩子+资产剥离反差+交易戏剧+名实清单+硬扛收束，地产人物志口播可直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这是最近的王健林",
+          "note": "近照钩子可复用"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这个(商管)不能丢",
+          "note": "不能丢反差可复用"
+        },
+        {
+          "sentence_id": "s1048",
+          "snippet": "依旧硬扛着卖资产还债",
+          "note": "硬扛收束可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s13",
+    "s23",
+    "s45",
+    "s5",
+    "s43",
+    "s543",
+    "s1041",
+    "s1048",
+    "s1",
+    "s509",
+    "s1028",
+    "s17",
+    "s44",
+    "s517",
+    "s8",
+    "s10",
+    "s21",
+    "s1031",
+    "s1034",
+    "s3",
+    "s47",
+    "s49",
+    "s32",
+    "s512",
+    "s524",
+    "s1052",
+    "s1035",
+    "s1047",
+    "s1049",
+    "s4",
+    "s538",
+    "s1044",
+    "s22",
+    "s1033",
+    "s1057",
+    "s40",
+    "s1042",
+    "s1054",
+    "s548",
+    "s50",
+    "s42",
+    "s510",
+    "s521",
+    "s48",
+    "s541",
+    "s36",
+    "s1036",
+    "s1055",
+    "s526"
+  ],
+  "fields_complete_25": true
+}

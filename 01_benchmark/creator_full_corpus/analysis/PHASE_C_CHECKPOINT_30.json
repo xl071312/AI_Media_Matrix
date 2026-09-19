@@ -1,0 +1,18 @@
+{
+  "checkpoint": 30,
+  "structural_pass": true,
+  "schema_ok": 30,
+  "schema_fail": 0,
+  "creators": {
+    "wushi_caijing": 30
+  },
+  "tiers": {
+    "HIGH": 20,
+    "MEDIAN": 10
+  },
+  "modalities": {
+    "FULL_SPOKEN": 30
+  },
+  "fail_examples": [],
+  "note": "cp30 schema/evidence PASS required; diversity deferred to items 31+ (pre-packed cp60_*)."
+}

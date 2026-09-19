@@ -1,0 +1,1536 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_EO0creQnzrM",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=EO0creQnzrM",
+  "source_sha256": "485a8793a736f3dfc4ef78963bd736ee47de14db42b28ab0a8a4b1492f91e97e",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 115,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "朋友们这期视频是"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "北京探访三家,不同类型的羊肉机构"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "也是每个大家聊聊羊"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "已经第一区差异"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "我就还挺好的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "每次看了医不小心地看完了"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "我现在做做了就放下来给大家看"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 19,
+      "snippet": "这就是了,你看会贫上那种像银尔的防护条"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "付你了,你那种很可爱的"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "这也是一个老人的房间"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 21,
+      "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "因为这儿的服务人员太多都特别好"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "哇 can't wait"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 1,
+      "snippet": "M"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 2,
+      "snippet": "蚊蜜"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "辣糞蚗蚊蚊"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "辣糞蚊 辣糞蚊"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 3,
+      "snippet": "辣糞蚊"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "他们其他居家的服务"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "再到后来"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "随着他年龄的在增长"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "确实身体上"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "就在家里面照顾起来就送来了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "就所有的子女超级"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "是超来看什么"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "这快天天了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "你以为这住在这服务"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "对对对特别近"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "也是挺精神的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "你看上耍过朝鲜战场的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "这位就是笑容的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "是张老师"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "他们是从2017年开始"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "几个人一起创业开始做笑容阳望"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "2017年"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "2017年"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "当时后来什么想"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "我一直做阳望"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "我我做二十年"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "我做二十年"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "�老是他们提到一点"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "其实技能是相对好配讯的"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "更主要的是老人"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "真的是需要你去用心照顾的"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "就该小孩是的"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "我在小时候聊的一个"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "就是一岁的老奶奶"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "就跟着小姑娘"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "一样长得没必色武了"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "最喜欢这 do 什么"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "我听许姑说"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "你唱那个卡楼"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 2,
+      "snippet": "ok"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "我认为是"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 2,
+      "snippet": "我�"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "加上一些补贴e"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 19,
+      "snippet": "之后我们今天要去的另外两个也是这种性质"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 26,
+      "snippet": "我们的第二站来到了北京成交顺医区的一个姚老机构叫支付"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 2,
+      "snippet": "你好"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 3,
+      "snippet": "你很棒"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 17,
+      "snippet": "就给我们大家都说人印象中的姚老院更"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 2,
+      "snippet": "一些"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "他就是自己有一种东东楼"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 15,
+      "snippet": "然后有一个自己的院空间更大一些"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 13,
+      "snippet": "因为有六层终大一百多个老人"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "他中间的里层就是老人的房间"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "他就会说他会有一个一个一个一个"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 12,
+      "snippet": "他会说他会不会有一个一个"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "他会说他会有一个一个"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 2,
+      "snippet": "他会"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 9,
+      "snippet": "上门服务像上门离发"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "然后做一些专业护理指导"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 3,
+      "snippet": "气切的"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "一次的有管路的这项"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 6,
+      "snippet": "这些也能护理"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 4,
+      "snippet": "也能做对"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "就是支付的王院长"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 5,
+      "snippet": "你得听院长"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 3,
+      "snippet": "他来说"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 2,
+      "snippet": "是吗"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 5,
+      "snippet": "行行等一下"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 6,
+      "snippet": "我马上就报警"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "我们较多刚送进来的老人"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 5,
+      "snippet": "是二字海莫"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 14,
+      "snippet": "他有一些反常的一些生活习惯恶"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 4,
+      "snippet": "或者举动"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 3,
+      "snippet": "家人不"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 12,
+      "snippet": "这一般健身房是一般健身房"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 3,
+      "snippet": "걷不见"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 15,
+      "snippet": "你看一般一个在那里面的一牌子看"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 8,
+      "snippet": "这个是现在舒服啊"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 5,
+      "snippet": "有五休之后"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 11,
+      "snippet": "带大家做的操复活动活动"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 9,
+      "snippet": "现在下午三点多老人"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 8,
+      "snippet": "就开始录序五十岁"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 8,
+      "snippet": "完之后出来晒太阳"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 4,
+      "snippet": "又看包子"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 5,
+      "snippet": "还有晒太阳"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 4,
+      "snippet": "还挺切衣"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 5,
+      "snippet": "在硬价�窝"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 2,
+      "snippet": "Hu"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 9,
+      "snippet": "多介绍大家应该一看"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 4,
+      "snippet": "都知道了"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 1,
+      "snippet": "毕"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 6,
+      "snippet": "这些就是社�"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 16,
+      "snippet": "其实值得被我们这些现在还不老的人"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 6,
+      "snippet": "去认真对待的"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 16,
+      "snippet": "毕竟现在的他们其实正是未来的我们"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "直宣探访三家不同类型养老机构，现场指认防护条与温馨房间开场。",
+      "patterns": [
+        "探访任务宣言",
+        "现场指物开场",
+        "温馨主观评价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们这期视频是",
+          "note": "这期视频是"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "北京探访三家,不同类型的羊肉机构",
+          "note": "三家不同类型"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "这就是了,你看会贫上那种像银尔的防护条",
+          "note": "防护条"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的",
+          "note": "挺温馨的"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "多类型机构差异→居家转机构路径→用心比技能更重要→第二站规模护理→日常晒太阳活动→他们即未来的我们。",
+      "patterns": [
+        "差异观察→转介路径→照护伦理→规模能力→ generational回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "已经第一区差异",
+          "note": "第一区差异"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "就在家里面照顾起来就送来了",
+          "note": "送来了"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "真的是需要你去用心照顾的",
+          "note": "用心照顾"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "因为有六层终大一百多个老人",
+          "note": "一百多个老人"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "visit_hook_rooms",
+          "note": "探访引入与房间温馨感"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "family_and_veteran",
+          "note": "居家到机构与老兵访谈"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64"
+          ],
+          "function": "founder_care_ethos",
+          "note": "笑容养老创业与用心照顾"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85"
+          ],
+          "function": "second_site_scale",
+          "note": "第二站支付机构与护理能力"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131"
+          ],
+          "function": "daily_life_and_close",
+          "note": "日常活动与未来的我们收束"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "residual_window",
+          "note": "packet window residual/media tags"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「再到后来」「我们今天要去另外两个」「第二站来到了」「多介绍大家一看」现场转场。",
+      "patterns": [
+        "再到后来时间转",
+        "第二站空间转",
+        "多介绍收束转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "再到后来",
+          "note": "再到后来"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "之后我们今天要去的另外两个也是这种性质",
+          "note": "另外两个"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我们的第二站来到了北京成交顺医区的一个姚老机构叫支付",
+          "note": "第二站来到了"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "多介绍大家应该一看",
+          "note": "多介绍大家"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "房间简单却温馨；技能好培训vs用心难；印象中养老院vs更院落空间。",
+      "patterns": [
+        "简单vs温馨",
+        "技能vs用心",
+        "刻板印象vs现场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的",
+          "note": "简单但温馨"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "其实技能是相对好配讯的",
+          "note": "技能相对好培训"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "真的是需要你去用心照顾的",
+          "note": "用心照顾"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "就给我们大家都说人印象中的姚老院更",
+          "note": "印象中的养老院"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "现场少设问，多为指认与确认（「是吗」「对对对」），开放追问弱。",
+      "patterns": [
+        "确认式反问",
+        "设问密度低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s103",
+          "snippet": "是吗",
+          "note": "是吗"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "是超来看什么",
+          "note": "超来看什么"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "最喜欢这 do 什么",
+          "note": "最喜欢做什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "防护条细节、朝鲜战场老兵、2017创业、气切管路护理、下午三点操与晒太阳。",
+      "patterns": [
+        "物件细节例",
+        "人物故事例",
+        "护理项目例",
+        "日程切片例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这就是了,你看会贫上那种像银尔的防护条",
+          "note": "防护条"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你看上耍过朝鲜战场的",
+          "note": "朝鲜战场"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "他们是从2017年开始",
+          "note": "2017开始"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "气切的",
+          "note": "气切"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "现在下午三点多老人",
+          "note": "下午三点多"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「用心照顾」落到小孩般陪伴与唱歌；机构差异落到六层百人院落与上门理发。",
+      "patterns": [
+        "用心具象化",
+        "规模空间具象",
+        "服务菜单具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "就该小孩是的",
+          "note": "就该小孩是的"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你唱那个卡楼",
+          "note": "你唱那个"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "因为有六层终大一百多个老人",
+          "note": "六层一百多"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "上门服务像上门离发",
+          "note": "上门理发"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言服务人员特别好、技能好训但更需用心、值得还不老的人认真对待。",
+      "patterns": [
+        "服务好判断",
+        "用心优先判断",
+        "代际责任判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "因为这儿的服务人员太多都特别好",
+          "note": "服务人员特别好"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "真的是需要你去用心照顾的",
+          "note": "需要用心照顾"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "其实值得被我们这些现在还不老的人",
+          "note": "值得认真对待"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "ASR噪声下可见重复「我做二十年」式口头回环，像自我确认而非观点翻转。",
+      "patterns": [
+        "口头回环确认",
+        "少见逻辑自驳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "我做二十年",
+          "note": "我做二十年"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "我我做二十年",
+          "note": "我我做二十年"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "他会说他会不会有一个一个",
+          "note": "他会不会有"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短指物句→人物访谈碎句→创业重复强调→第二站说明稍长→金句慢收。",
+      "patterns": [
+        "指物短句",
+        "重复强调段",
+        "金句慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这也是一个老人的房间",
+          "note": "老人的房间"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我做二十年",
+          "note": "我做二十年"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我做二十年"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "他会有一个一个"
+        },
+        {
+          "type": "discourse",
+          "form": "对对对"
+        },
+        {
+          "type": "repair_like",
+          "form": "我我做二十年"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "我做二十年",
+          "note": "二十年重复"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "我我做二十年",
+          "note": "我我修复重复"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "对对对特别近",
+          "note": "对对对"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "他就会说他会有一个一个一个一个",
+          "note": "一个一个重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "探访好奇→温馨感动→老兵敬意→创业坚持→护理紧张→晒太阳松弛→代际沉重收束。",
+      "patterns": [
+        "温馨感",
+        "敬意",
+        "代际沉重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的",
+          "note": "挺温馨"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你看上耍过朝鲜战场的",
+          "note": "朝鲜战场"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "完之后出来晒太阳",
+          "note": "出来晒太阳"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从三家探访回落到「现在的他们=未来的我们」价值句收束。",
+      "patterns": [
+        "代际镜像收束",
+        "认真对待号召"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s129",
+          "snippet": "其实值得被我们这些现在还不老的人",
+          "note": "值得认真对待"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "去认真对待的",
+          "note": "现在还不老的人"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "价值型软CTA：认真对待养老议题，无关注/点赞硬指令。",
+      "patterns": [
+        "价值号召软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s129",
+          "snippet": "其实值得被我们这些现在还不老的人",
+          "note": "认真对待"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "现场指物、访谈叠音、英文夹杂can't wait、大量口语重复，强非书面感。",
+      "patterns": [
+        "现场指物",
+        "访谈叠句",
+        "口语重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这就是了,你看会贫上那种像银尔的防护条",
+          "note": "你看防护条"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "哇 can't wait",
+          "note": "can't wait"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我做二十年",
+          "note": "我做二十年"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重错字（羊肉/阳望/姚老）；窗口截断中间大段；信息碎片难独立成文。",
+      "patterns": [
+        "ASR损毁",
+        "窗口截断",
+        "碎片难读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "北京探访三家,不同类型的羊肉机构",
+          "note": "羊肉机构"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "几个人一起创业开始做笑容阳望",
+          "note": "笑容阳望"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我们的第二站来到了北京成交顺医区的一个姚老机构叫支付",
+          "note": "姚老机构"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "你得听院长",
+          "note": "后跳s102"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "较少逐步推理，多为现场感受与转述院长观点；「我认为」片段被噪声打断。",
+      "patterns": [
+        "感受优先",
+        "转述为主"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的",
+          "note": "感觉应该挺温馨"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "我认为是",
+          "note": "我认为是"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "他来说",
+          "note": "他来说"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "带朋友现场看：你看防护条/房间；结尾把听众拉进「还不老的我们」。",
+      "patterns": [
+        "现场共看",
+        "代际共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我现在做做了就放下来给大家看",
+          "note": "给大家看"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "这就是了,你看会贫上那种像银尔的防护条",
+          "note": "你看"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "其实值得被我们这些现在还不老的人",
+          "note": "我们这些还不老的人"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2017创业、做二十年、六层百余老人、气切管路、下午三点操后晒太阳。",
+      "patterns": [
+        "年份锚",
+        "年限锚",
+        "规模锚",
+        "日程锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "他们是从2017年开始",
+          "note": "2017年"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我做二十年",
+          "note": "二十年"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "因为有六层终大一百多个老人",
+          "note": "一百多个老人"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "现在下午三点多老人",
+          "note": "下午三点多"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密指物→访谈中低密→创业重复低密→第二站护理中密→收束高语义低信息。",
+      "patterns": [
+        "指物低密",
+        "护理中密",
+        "金句低密高义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这也是一个老人的房间",
+          "note": "房间低密"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "气切的",
+          "note": "气切护理中密"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "金句收束"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现场扫描→人物故事→创业理念→第二站能力→日常切片→价值升华（噪声打断多）。",
+      "patterns": [
+        "空间扫描流",
+        "站际切换",
+        "升华收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "北京探访三家,不同类型的羊肉机构",
+          "note": "三家机构"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我们的第二站来到了北京成交顺医区的一个姚老机构叫支付",
+          "note": "第二站"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "带大家做的操复活动活动",
+          "note": "康复活动"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "温和探访型主持人：重现场体感与照护伦理，少宏观说教。",
+      "patterns": [
+        "现场体感派",
+        "照护伦理强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "比彰简单,但是老人在这儿会感觉应该挺温馨的",
+          "note": "挺温馨的"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "真的是需要你去用心照顾的",
+          "note": "用心照顾"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "防护条温馨房、朝鲜战场老兵、用心如小孩、未来的我们。",
+      "patterns": [
+        "防护条意象",
+        "老兵锚",
+        "未来的我们金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这就是了,你看会贫上那种像银尔的防护条",
+          "note": "防护条"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你看上耍过朝鲜战场的",
+          "note": "朝鲜战场"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就该小孩是的",
+          "note": "就该小孩"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "代际收束与多站点探访骨架可借鉴，但ASR文本不可直接复用，需重录/校对后再用于观宇养老议题。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "北京探访三家,不同类型的羊肉机构",
+          "note": "三家类型"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "真的是需要你去用心照顾的",
+          "note": "用心照顾"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "毕竟现在的他们其实正是未来的我们",
+          "note": "未来的我们"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1524 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7275666693400134200",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7275666693400134200/",
+  "source_sha256": "a5ea18258ff65f0d4263113531d8b6e23e11b9bda11c11cb3ba08628692cd284",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 121,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 28,
+      "snippet": "继蜜雪冰城卖炸串以后，又出现一则令餐饮界后背发凉的消息。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 18,
+      "snippet": "茅台和瑞幸推出联名咖啡了，酱香拿铁。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 19,
+      "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "说真的，我是唯一不觉得意外的。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 60,
+      "snippet": "因为早在今年六月，有新闻说OFO创始人去美国搞咖啡的时候，我就建议过他们既然搞咖啡，就要搞茅台咖啡，让酱香玄学洒满世界。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 19,
+      "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 19,
+      "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "我作为商业鬼才，一向是大预言家。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 42,
+      "snippet": "就光今年，就提前预测了老天才电话手表（已被小天才注册）和海澜之家要请张颂文老师代言。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 19,
+      "snippet": "但很可惜，虽然我对OFO的建议很深情。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 32,
+      "snippet": "但可能他们是跑的太快了，跑出破风声了，导致没有听到我的真心建议。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "但瑞幸，似乎听到了这个声音。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 26,
+      "snippet": "要么说人家是华尔街的亲爹呢，这个信息收集能力杠杠的。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 21,
+      "snippet": "现在，瑞幸加茅台，已经是华尔街的亲爷爷了。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 41,
+      "snippet": "很多人阴阳怪气说瑞幸就会发券，瑞幸没有逼格，瑞幸当年骗了华尔街blablabla。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "说的好。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 42,
+      "snippet": "本来打算以普通人的身份与你们相处，可换来的却是疏远，不装了，我是咖啡之王，我摊牌了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 28,
+      "snippet": "一万多家门店，卖起酱香拿铁，我都不知道同行们该如何应对。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "你跟我卷发酵？"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 28,
+      "snippet": "我茅台的微量元素一加，你们和门捷列夫加一起还欠我八百多。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "你跟我卷逼格？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 24,
+      "snippet": "我茅子哥一出手，劝各位品牌别卷了，先坐小孩那桌。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 57,
+      "snippet": "哎呀我笑死啦，茅子哥搞产品的时候，黔灵山上还未必有猴，劝你们不要在我们贵州茅台面前装，你们一起上吧，我晚上还有局。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "你跟我比文化？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 53,
+      "snippet": "茅子哥都笑死了，全世界哪个品牌玄学敢说自己稳压酱香文化，我们踩曲的人晚上就去你梦里踩你脸，你还得说是奖励。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "你说盈利？"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 38,
+      "snippet": "茅子哥的毛利率是94.19%，不是因为茅子哥不完美，是因为数学还有极限而已。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 19,
+      "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 46,
+      "snippet": "之前你们笑瑞幸就会发券，就会乱卷，瑞幸都没说话，只默默地把咖啡价格定成9块9，就是在告你们。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "9.9，酒，点酒。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "谜底就在谜面上。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "还库某？"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "也配做对手？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 16,
+      "snippet": "在茅子哥面前，那已经是裤衩子了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "现在，瑞幸加了茅台。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "那发的是咖啡券吗？"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 41,
+      "snippet": "那是纳斯达克的功德券，是千年酱香魔力的体验券，是让华尔街做梦都梦不到的魔力体验券。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "别笑，你仔细看茅台的包装。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "像不像圣诞老人？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 15,
+      "snippet": "而瑞幸的logo，就是一头鹿。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "要素齐了！"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 66,
+      "snippet": "瑞幸这头蹦蹦跳跳的小鹿就是为了驮着台子哥给你们送病危通知书去的，我从房顶里进去，你们从屋顶下去，我们奔向下面一间，你们奔向下面那间。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 32,
+      "snippet": "这Luckin的几个字母拆开，就是同行们，ICU，N你K快L了。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 17,
+      "snippet": "更哭瞎的，那都不是同行，是华尔街。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 20,
+      "snippet": "怎么你都退市了，这个账号还能异地登陆的？"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "用挂是吧？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "这么玩儿是吧？"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 41,
+      "snippet": "有挣钱的主意现在你才掏出来，硬是跟我们玩起了延迟满足，合着我当年玩的是删档体验服？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 33,
+      "snippet": "我们消费，你们体验，我明明人在曼哈顿南，怎么就感觉自己去了趟缅北？"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 14,
+      "snippet": "茅台更不用说了，更是赢麻了。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "直接重新定义咖啡。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 14,
+      "snippet": "茅台整这么多花活是为了什么？"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 22,
+      "snippet": "还不是年轻人不喝白酒了，茅台怕影响力断代了。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "年轻人喝什么？"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "喝咖啡。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 4,
+      "snippet": "好喝吗？"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "不好喝啊。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 37,
+      "snippet": "问题是不喝咖啡不行啊，早上我起不来啊，工作我顶不住啊，这咖啡是救我命的啊。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 12,
+      "snippet": "我是茅台我看得心都碎了。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 11,
+      "snippet": "孩子，怎么可以这么想。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 28,
+      "snippet": "既然现在咖啡奶茶化，奶茶八宝粥化，那就让我茅台来咖啡化。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 24,
+      "snippet": "都是几十块，都是点外卖，你们拼台也可以拼个茅台。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 16,
+      "snippet": "别说话，别出声，感受酱香的魔力。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 82,
+      "snippet": "都是咖啡，都是靠咖啡因续命，别的咖啡只会让想起在店里拿着电脑改PPT的时刻，老板给你画饼PUA的时刻，相亲对象跟你互相Judge的时刻，高中生一起抄暑假作业的时"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 14,
+      "snippet": "但咱茅台的酱香拿铁就不一样。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 39,
+      "snippet": "你想到它的那个毛利率，它的那个市值，它的那个业绩，就这仨，没有高三，只有三高。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 35,
+      "snippet": "喝了这杯茅台的瑞幸咖啡，你不仅种了草，也种了股，你拿了铁，也拿了分红。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 32,
+      "snippet": "哪有什么打工人靠咖啡续命，那是尊贵的茅台客户对旗下产品进行点评。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 37,
+      "snippet": "踩过酒曲的大脚，人生路才不会走曲，选择了酱香的咖啡，才能领略到人生的芳香。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 48,
+      "snippet": "一万多家瑞幸门店都决定搞起茅台的酱香，那就是酱香的味道洒遍大地，酱香的力量终于传递到了四面八方。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 13,
+      "snippet": "瑞幸，年轻人的第一杯茅台。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 11,
+      "snippet": "你再一品，茅台加咖啡。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 13,
+      "snippet": "这根本不是咖啡改变了我们。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "而是我们，改变了咖啡！"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 45,
+      "snippet": "本来咖啡以为自己要在东方把高端饮品的家偷了，没想到一遇上茅台，咖啡要把自己的定义权都丢了。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 65,
+      "snippet": "还寻思中国人把习惯养起来，把咖啡喝起来，这边又花钱又投资，裤衩都被抽了丝，终于等到大家习惯了，要盈利了，没想到却走了一条酱香之路。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 18,
+      "snippet": "从此，咖啡是发酵的，也可以是酒窖的。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 13,
+      "snippet": "是深烘的，也可以是股东的。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 13,
+      "snippet": "是日晒的，也可以是发债的。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 29,
+      "snippet": "年轻人是上班的，咖啡是上瘾的，酒精是上头的，价格是上涨的。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 35,
+      "snippet": "一切都要谢谢大洋彼岸的好心人，华尔街韭菜的钱，终于还是进了酱香的口袋。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 1,
+      "snippet": "6"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "最赢麻了的，当属年轻人。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "咖啡苦，我命更苦啊。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 67,
+      "snippet": "很多老一辈人是真不懂年轻人明明不下地干活，天天在办公室里坐着有什么苦的，更不明白为啥每天大清早就花三十块钱捧着个黑水喝，花这个冤枉钱。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 23,
+      "snippet": "现在你说这玩意是茅台做的咖啡，那当场就明白了。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 31,
+      "snippet": "年轻人不情愿靠着咖啡续命，这不就是老一辈人不情愿的酒桌文化嘛。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 17,
+      "snippet": "经历过，能共情，懂了，当场就懂了。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 53,
+      "snippet": "之前是西方友人请自己喝咖啡，现在是东方老人给自己买咖啡，孩子开车离开家，临走时奶奶给孩子塞的都是茅台咖啡。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 21,
+      "snippet": "孩子说，奶奶，我就不要啦，警察叔叔不让喝。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 10,
+      "snippet": "奶奶，喝酒不开车啊。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "那就开完到家的时候再喝。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 51,
+      "snippet": "孩子在办公室里喝了几十块的酱香拿铁，逼格有了，咖啡喝了，人又清醒又微醺了，整个人就在如梦似幻间悟透了。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 24,
+      "snippet": "甲方钱包打开下了单子做，老板格局打开，你就提神；"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 24,
+      "snippet": "甲方改了几十遍用回初稿，老板宛若初生，你就微醺。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 36,
+      "snippet": "你发现都是早C晚A，老板是早上维生素C晚上维生素A，在甲方面前把B装了。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 31,
+      "snippet": "你是早C（coffee）晚A（alcohol），只为上这B班。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 28,
+      "snippet": "我甚至都想跟酱香拿铁的店员说去冰，去奶，去咖啡，来一杯。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 12,
+      "snippet": "一杯敬故乡，一杯敬远方。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 1,
+      "snippet": "7"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 16,
+      "snippet": "唯一输的，又是华尔街的老伙计们。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 3,
+      "snippet": "又来？"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 3,
+      "snippet": "又来？"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 3,
+      "snippet": "又来？"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 14,
+      "snippet": "你们三带一，怎么带走的是我？"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 19,
+      "snippet": "我青梅竹马华尔街，难道不敌天降茅台吗？"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 35,
+      "snippet": "明明是我先的，买股票也好，被噶韭菜也好，怎么最后，最后却成了这个样子？"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 52,
+      "snippet": "我们以为我们懂咖啡，我们更懂金融，但我们没想到神秘的东方充满了故事，每一个故事都给我梅花三弄三弄又三弄。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 28,
+      "snippet": "你们让我知道，爱是伸出却又收回的手，更是酱香又焦香的脚。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 51,
+      "snippet": "资本趋利的本性让我对你们跃跃欲试，避害的本能让我想起创伤还历历在目，就这种又该又不该的拧巴感让人瘙痒。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 25,
+      "snippet": "我怕你们不来，又怕你们乱来，更怕你们两个人一起来。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 19,
+      "snippet": "水深，巷子更深，都比不上你们的套路深。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 30,
+      "snippet": "你们一个推，一个拉，一个抑，一个扬，合着我才是里面的沸羊羊。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 11,
+      "snippet": "全都要割我们华尔街啊！"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 10,
+      "snippet": "八割呀鹿呀，八割啦。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "餐饮后背发凉新闻体切入酱香拿铁，自称唯一不意外并亮「早建议OFO搞茅台咖啡」预言人设。",
+      "patterns": [
+        "行业惊吓开场",
+        "唯一不意外",
+        "预言家自证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "继蜜雪冰城卖炸串以后，又出现一则令餐饮界后背发凉的消息。",
+          "note": "后背发凉"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "茅台和瑞幸推出联名咖啡了，酱香拿铁。",
+          "note": "酱香拿铁"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "说真的，我是唯一不觉得意外的。",
+          "note": "唯一不觉得意外"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "我作为商业鬼才，一向是大预言家。",
+          "note": "大预言家"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "联名降维打击同行（发酵/逼格/文化/盈利）→券变功德券华尔街破防→茅台获年轻化通道→咖啡被中国改写→华尔街又被割收束。",
+      "patterns": [
+        "降维四维碾压",
+        "券语义升格",
+        "茅台年轻化",
+        "我们改变咖啡",
+        "华尔街又输"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "一万多家门店，卖起酱香拿铁，我都不知道同行们该如何应对。",
+          "note": "一万多家门店"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那是纳斯达克的功德券，是千年酱香魔力的体验券，是让华尔街做梦都梦不到的魔力体验券",
+          "note": "纳斯达克功德券"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "还不是年轻人不喝白酒了，茅台怕影响力断代了。",
+          "note": "怕影响力断代"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "而是我们，改变了咖啡！",
+          "note": "我们改变了咖啡"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "唯一输的，又是华尔街的老伙计们。",
+          "note": "唯一输的华尔街"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s3",
+            "s4",
+            "s6",
+            "s7",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "prophet_hook",
+          "note": "联名消息+预言人设+瑞幸信息能力"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "crush_peers",
+          "note": "摊牌咖啡之王四维碾压同行"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53"
+          ],
+          "function": "wallstreet_break",
+          "note": "券升格与华尔街延迟满足破防"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76"
+          ],
+          "function": "maotai_youth",
+          "note": "茅台咖啡化获年轻人心智"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s78",
+            "s79",
+            "s80",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105"
+          ],
+          "function": "rewrite_coffee",
+          "note": "东方改写咖啡与早C晚A共情"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121"
+          ],
+          "function": "ws_lament_close",
+          "note": "华尔街哀嚎排比收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "章节数字切换；「现在瑞幸加了茅台」「你再一品」「唯一输的又是」。",
+      "patterns": [
+        "章节数字转",
+        "现在加码转",
+        "再一品升格转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "2",
+          "note": "章节2"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "现在，瑞幸加了茅台。",
+          "note": "现在加了茅台"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "你再一品，茅台加咖啡。",
+          "note": "你再一品"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "唯一输的，又是华尔街的老伙计们。",
+          "note": "唯一输的又是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "发券无逼格嘲讽vs摊牌咖啡之王；西方请喝咖啡vs东方老人塞茅台咖啡；华尔街先来vs天降茅台。",
+      "patterns": [
+        "嘲讽/摊牌反差",
+        "西方/东方请客反差",
+        "青梅竹马/天降反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "很多人阴阳怪气说瑞幸就会发券，瑞幸没有逼格，瑞幸当年骗了华尔街blablabla",
+          "note": "阴阳怪气发券"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "本来打算以普通人的身份与你们相处，可换来的却是疏远，不装了，我是咖啡之王，我摊牌",
+          "note": "摊牌咖啡之王"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "之前是西方友人请自己喝咖啡，现在是东方老人给自己买咖啡，孩子开车离开家，临走时奶",
+          "note": "西方友人/东方老人"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "我青梅竹马华尔街，难道不敌天降茅台吗？",
+          "note": "青梅竹马不敌天降"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "卷发酵/逼格/文化/盈利连珠炮；「发的是咖啡券吗」语义反转问；「好喝吗」自问自答。",
+      "patterns": [
+        "四维连珠炮问",
+        "语义反转问",
+        "自问自答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你跟我卷发酵？",
+          "note": "跟我卷发酵"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "那发的是咖啡券吗？",
+          "note": "发的是咖啡券吗"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "好喝吗？",
+          "note": "好喝吗"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "不好喝啊。",
+          "note": "不好喝啊"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "蜜雪冰城炸串前传、小天才/海澜之家预言、茅台毛利率94.19%、Luckin字母拆ICU梗、早C晚A。",
+      "patterns": [
+        "同行前传例",
+        "预言业绩例",
+        "毛利率锚例",
+        "字母拆梗",
+        "打工人续命例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "继蜜雪冰城卖炸串以后，又出现一则令餐饮界后背发凉的消息。",
+          "note": "蜜雪炸串"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "就光今年，就提前预测了老天才电话手表（已被小天才注册）和海澜之家要请张颂文老师代",
+          "note": "小天才海澜之家"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "茅子哥的毛利率是94.19%，不是因为茅子哥不完美，是因为数学还有极限而已。",
+          "note": "94.19%"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "这Luckin的几个字母拆开，就是同行们，ICU，N你K快L了。",
+          "note": "ICU拆字"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你是早C（coffee）晚A（alcohol），只为上这B班。",
+          "note": "早C晚A"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「降维」落到微量元素/门捷列夫；「年轻化」落到一万家门店洒酱香；「改写咖啡」落到去冰去奶去咖啡点单玩笑。",
+      "patterns": [
+        "降维→元素周期表梗",
+        "年轻化→门店覆盖",
+        "改写→点单戏仿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "我茅台的微量元素一加，你们和门捷列夫加一起还欠我八百多。",
+          "note": "门捷列夫"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "一万多家瑞幸门店都决定搞起茅台的酱香，那就是酱香的味道洒遍大地，酱香的力量终于传",
+          "note": "一万多家门店"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "我甚至都想跟酱香拿铁的店员说去冰，去奶，去咖啡，来一杯。",
+          "note": "去冰去奶去咖啡"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言华尔街亲爷爷、库某也配做对手已是裤衩、重新定义咖啡、唯一输的是华尔街。",
+      "patterns": [
+        "亲爷爷断语",
+        "对手贬低",
+        "重定义断言",
+        "输家点名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "现在，瑞幸加茅台，已经是华尔街的亲爷爷了。",
+          "note": "亲爷爷"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "也配做对手？",
+          "note": "也配做对手"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "直接重新定义咖啡。",
+          "note": "重新定义咖啡"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "唯一输的，又是华尔街的老伙计们。",
+          "note": "唯一输的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "几乎不事实纠错，而是语气加码：从亲爹升到亲爷爷；从建议OFO改口瑞幸听到了。",
+      "patterns": [
+        "称呼加码",
+        "听众改挂瑞幸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "要么说人家是华尔街的亲爹呢，这个信息收集能力杠杠的。",
+          "note": "华尔街亲爹"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "现在，瑞幸加茅台，已经是华尔街的亲爷爷了。",
+          "note": "亲爷爷"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "但瑞幸，似乎听到了这个声音。",
+          "note": "瑞幸听到了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻短打→预言自夸中速→四维碾压排比加速→华尔街破防密讽→共情段放缓→哀嚎排比高潮。",
+      "patterns": [
+        "新闻短打",
+        "自夸中",
+        "排比加速",
+        "密讽",
+        "共情放缓",
+        "哀嚎高潮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "茅台和瑞幸推出联名咖啡了，酱香拿铁。",
+          "note": "酱香拿铁短打"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你跟我卷发酵？",
+          "note": "连珠炮"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "我们消费，你们体验，我明明人在曼哈顿南，怎么就感觉自己去了趟缅北？",
+          "note": "缅北密讽"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "年轻人不情愿靠着咖啡续命，这不就是老一辈人不情愿的酒桌文化嘛。",
+          "note": "共情"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "又来？",
+          "note": "又来排比"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "惊吓猎奇→得意预言→狂妄碾压→嘲华尔街→茅台慈爱→打工人共情→华尔街哭腔。",
+      "patterns": [
+        "惊吓→得意→狂妄→嘲→慈爱→共情→哭腔"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "继蜜雪冰城卖炸串以后，又出现一则令餐饮界后背发凉的消息。",
+          "note": "发凉"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "我作为商业鬼才，一向是大预言家。",
+          "note": "预言得意"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "哎呀我笑死啦，茅子哥搞产品的时候，黔灵山上还未必有猴，劝你们不要在我们贵州茅台面",
+          "note": "笑死碾压"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "我是茅台我看得心都碎了。",
+          "note": "心都碎了"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "八割呀鹿呀，八割啦。",
+          "note": "八割啦"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从联名惊吓绕回「又来割华尔街」，用喜羊羊沸羊羊与八戒谐音完成喜剧闭环。",
+      "patterns": [
+        "联名→华尔街又割",
+        "谐音喜剧闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "茅台和瑞幸推出联名咖啡了，酱香拿铁。",
+          "note": "联名"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "全都要割我们华尔街啊！",
+          "note": "全都要割华尔街"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "八割呀鹿呀，八割啦。",
+          "note": "八割呀鹿呀"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注话术，靠段子与共情完成传播欲，互动隐含在梗的可转发性。",
+      "patterns": [
+        "梗传播隐CTA",
+        "无硬关注"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s76",
+          "snippet": "瑞幸，年轻人的第一杯茅台。",
+          "note": "年轻人的第一杯茅台"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你是早C（coffee）晚A（alcohol），只为上这B班。",
+          "note": "早C晚A金句"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "玄学洒满世界、裤衩子、缅北、梅花三弄三弄又三弄、沸羊羊，强半佛指纹。",
+      "patterns": [
+        "酱香玄学",
+        "缅北",
+        "梅花三弄叠词",
+        "沸羊羊"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "因为早在今年六月，有新闻说OFO创始人去美国搞咖啡的时候，我就建议过他们既然搞咖",
+          "note": "酱香玄学"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "我们消费，你们体验，我明明人在曼哈顿南，怎么就感觉自己去了趟缅北？",
+          "note": "缅北"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "我们以为我们懂咖啡，我们更懂金融，但我们没想到神秘的东方充满了故事，每一个故事都",
+          "note": "梅花三弄"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "你们一个推，一个拉，一个抑，一个扬，合着我才是里面的沸羊羊。",
+          "note": "沸羊羊"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "商业分析被段子淹没，联名战略深度不足；图片占位与章节数字打断；部分梗易过时。",
+      "patterns": [
+        "段子压过分析",
+        "图片噪音",
+        "梗时效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来",
+          "note": "图片截取自"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "图片截取自: 瑞幸加茅台，华尔街跪下来",
+          "note": "图片占位"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "茅子哥的毛利率是94.19%，不是因为茅子哥不完美，是因为数学还有极限而已。",
+          "note": "毛利率金句后少论证"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「年轻人喝咖啡续命=老一辈酒桌」共情映射，及品牌要素（圣诞老人+鹿）拼贴思维。",
+      "patterns": [
+        "代际共情映射",
+        "视觉要素拼贴"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "像不像圣诞老人？",
+          "note": "像不像圣诞老人"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "要素齐了！",
+          "note": "要素齐了"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "年轻人不情愿靠着咖啡续命，这不就是老一辈人不情愿的酒桌文化嘛。",
+          "note": "酒桌文化共情"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "拉打工人（早C晚A）与看热闹网民一起嘲华尔街，读者是梗的共谋者。",
+      "patterns": [
+        "打工人共谋",
+        "嘲华尔街同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s63",
+          "snippet": "问题是不喝咖啡不行啊，早上我起不来啊，工作我顶不住啊，这咖啡是救我命的啊。",
+          "note": "咖啡救我命"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你是早C（coffee）晚A（alcohol），只为上这B班。",
+          "note": "只为上这B班"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "全都要割我们华尔街啊！",
+          "note": "割我们华尔街"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "酱香拿铁、一万多家门店、毛利率94.19%、9.9点酒谜面、早C晚A。",
+      "patterns": [
+        "产品名锚",
+        "门店数锚",
+        "毛利率锚",
+        "价格谜面",
+        "早C晚A"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "茅台和瑞幸推出联名咖啡了，酱香拿铁。",
+          "note": "酱香拿铁"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "一万多家门店，卖起酱香拿铁，我都不知道同行们该如何应对。",
+          "note": "一万多家"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "茅子哥的毛利率是94.19%，不是因为茅子哥不完美，是因为数学还有极限而已。",
+          "note": "94.19%"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "9.9，酒，点酒。",
+          "note": "9.9点酒"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密新闻→预言低密自夸→碾压段高密排比→共情中密→华尔街哭腔低密重复高潮。",
+      "patterns": [
+        "新闻中",
+        "自夸低",
+        "碾压高",
+        "共情中",
+        "哭腔低密高情绪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "茅子哥的毛利率是94.19%，不是因为茅子哥不完美，是因为数学还有极限而已。",
+          "note": "94%高密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "这Luckin的几个字母拆开，就是同行们，ICU，N你K快L了。",
+          "note": "拆字高密"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "又来？",
+          "note": "又来低密重复"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "「你跟我卷X」排比；短句「说的好」「要素齐了」切断；结尾「又来？」三叠。",
+      "patterns": [
+        "卷X排比",
+        "短句切断",
+        "又来三叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你跟我卷发酵？",
+          "note": "卷发酵"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "要素齐了！",
+          "note": "要素齐了"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "又来？",
+          "note": "又来"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛商业鬼才+段子手：假装预言成真，实则用夸张拟人替品牌发言。",
+      "patterns": [
+        "商业鬼才人设",
+        "拟人代言狂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "我作为商业鬼才，一向是大预言家。",
+          "note": "商业鬼才"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "本来打算以普通人的身份与你们相处，可换来的却是疏远，不装了，我是咖啡之王，我摊牌",
+          "note": "我是咖啡之王"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「酱香拿铁」「9.9点酒」「年轻人的第一杯茅台」「早C晚A」「八割呀鹿呀」。",
+      "patterns": [
+        "产品名",
+        "9.9谜面",
+        "第一杯茅台",
+        "早C晚A",
+        "八割谐音"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "9.9，酒，点酒。",
+          "note": "9.9点酒"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "瑞幸，年轻人的第一杯茅台。",
+          "note": "第一杯茅台"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你是早C（coffee）晚A（alcohol），只为上这B班。",
+          "note": "早C晚A"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "八割呀鹿呀，八割啦。",
+          "note": "八割呀鹿呀"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "联名事件的降维打击排比+代际共情映射+输家视角收束可学，但半佛过载梗与粗口需观宇大幅降噪。",
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你跟我卷发酵？",
+          "note": "降维排比可学"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "年轻人不情愿靠着咖啡续命，这不就是老一辈人不情愿的酒桌文化嘛。",
+          "note": "代际共情可学"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "唯一输的，又是华尔街的老伙计们。",
+          "note": "输家视角收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s6",
+    "s10",
+    "s21",
+    "s41",
+    "s58",
+    "s80",
+    "s107",
+    "s7",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s39",
+    "s40",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s55",
+    "s56",
+    "s57",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s78",
+    "s79",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s17",
+    "s1",
+    "s5"
+  ],
+  "fields_complete_25": true
+}

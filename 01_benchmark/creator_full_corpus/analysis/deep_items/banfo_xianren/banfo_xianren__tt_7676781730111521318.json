@@ -1,0 +1,949 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7676781730111521318",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7676781730111521318/",
+  "source_sha256": "42d08fa0d5139f3db00b99e37bf1658443f8ae5ec37eb4ce518596b445c19ebe",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 42,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 32,
+      "snippet": "刷到一个非常魔幻的新闻，都2026年了，大家的商战还是那么直接。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "（新闻来自南方都市报）"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 18,
+      "snippet": "很多人都有个不解，就是拿公章有啥用？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 16,
+      "snippet": "这么说吧，这本质是一种卡BUG。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 20,
+      "snippet": "有没有用，看你是谁，以及你的目的是什么。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 74,
+      "snippet": "如果你也是公司股东，那理论上没有【抢】公章，你是公司股东，你本来就有权持有公章，"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 40,
+      "snippet": "如果你不是公司股东，你跟公司没关系，那你碰人家公章是抢劫犯罪，是直接踩缝纫机了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 37,
+      "snippet": "李国庆老师当年能那么做的前提，是因为他本来就有权持有公章，他就是股东之一。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "然后看目的。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 51,
+      "snippet": "拿公章不是为了控制权，而是为了破坏权和威慑权，用BUG把对方卡住，让对方动弹不得"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 27,
+      "snippet": "在条件谈好之前，啥事儿也做不了，公司业务一切强制暂停。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 21,
+      "snippet": "这的确不算控制权，但肯定算是一种控制效果。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 16,
+      "snippet": "定身和晕眩怎么就不算控制效果呢？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 35,
+      "snippet": "公章当然可以补办，但补办的前提是公章遗失且下落不明，不在其他股东手里。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 30,
+      "snippet": "而这次去拿公章的，是他们二股东，且持股和大股东都是31%多。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 32,
+      "snippet": "他们本身就是可以合法持有公章的人，于是补办这件事情也成了BUG。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 44,
+      "snippet": "因为现在公章没有丢失，也没有下落不明，而是在可以合法持有公章的股东手里，这是一个"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "这你让相关机构咋处理？"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 65,
+      "snippet": "夫妻俩吵架但还没离婚，一方带着孩子回老家了，这只能算内部争议，不算绑架也不算丢失"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 43,
+      "snippet": "这就导致相关机构也不想参与他们之间的破事儿，都是让他们自己内部解决，实在不行就走"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 49,
+      "snippet": "而走诉讼，也有BUG，因为没有公章，无法证明诉讼可以代表公司，人家其他股东拿着公"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 72,
+      "snippet": "如果不能企业主体起诉股东的话，只能是股东1来起诉股东2，但这时候问题来了，对方也"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 57,
+      "snippet": "那你说魔法对战魔法，反正自己本身作为股东也有权可以持有公章，能不能私刻一下公章呢"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 57,
+      "snippet": "所以公章被拿走之后，他们新的公章不能自己弄，必须得是有关部门制作发放，但现在问题"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 40,
+      "snippet": "甚至，甚至他们大股东发布的这个公章遗失的公告，因为没有盖公章，都不具备法律效应。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "彻底，被BUG卡了。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "大家只能扯皮了。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "就在扯皮中，会产生巨大的破坏。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 71,
+      "snippet": "只要公章不在一天，对方所有的上下游合同业务都要停摆，因为公章无法动用，公司无法做"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 104,
+      "snippet": "上下游原材料入库没有公章做不了签收，产品出库没有公章对方不敢接收，各种供应商打款"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 31,
+      "snippet": "注意看新闻，不只是拿走了一个章，是好几个章，合同专用章也没了。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 59,
+      "snippet": "这种卡壳导致的损失是不可估量的，就像飞机在天上突然发动机停了，不是说你过个几天发"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "那你说法人签字不行吗？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 3,
+      "snippet": "不行。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 21,
+      "snippet": "因为这个公司现在没有法人，这也是个BUG。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 41,
+      "snippet": "所以，这一手等于要大股东必须立马谈判，必须立马恢复运转，不然大家弄不好就没得玩了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 39,
+      "snippet": "再说一遍，公章如果真丢了，真被无关的人抢走了，真的下落不明了，那事情反而简单。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "补办是很快的。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 37,
+      "snippet": "但现在公章没丢，只是在另一个可以合法持有公章的人手里，对方和你意见不一样。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "那就是卡BUG了。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "你们自己谈吧。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "2026年商战还这么直接，抛「拿公章有啥用」疑问，立刻定性卡BUG。",
+      "patterns": [
+        "魔幻新闻起笔",
+        "拿公章有啥用",
+        "卡BUG定性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "刷到一个非常魔幻的新闻，都2026年了，大家的商战还是那么直接。",
+          "note": "魔幻的新闻"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人都有个不解，就是拿公章有啥用？",
+          "note": "拿公章有啥用"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "本质是卡BUG"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "谁拿：股东才合法→目的：破坏威慑非控制→补办前提不满足成BUG→诉讼也卡→业务停摆逼谈。",
+      "patterns": [
+        "股东合法前提",
+        "破坏威慑权",
+        "补办BUG",
+        "诉讼卡壳",
+        "停摆逼谈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "如果你也是公司股东，那理论上没有【抢】公章，你是公司股东，你本来就有权持有公章，",
+          "note": "股东拿回公章"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "拿公章不是为了控制权，而是为了破坏权和威慑权，用BUG把对方卡住，让对方动弹不得",
+          "note": "破坏权和威慑权"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "因为现在公章没有丢失，也没有下落不明，而是在可以合法持有公章的股东手里，这是一个",
+          "note": "补办成了BUG"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "而走诉讼，也有BUG，因为没有公章，无法证明诉讼可以代表公司，人家其他股东拿着公",
+          "note": "诉讼也有BUG"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "所以，这一手等于要大股东必须立马谈判，必须立马恢复运转，不然大家弄不好就没得玩了",
+          "note": "必须立马谈判"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "bug_premise",
+          "note": "谁可拿与破坏目的"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "reissue_litigation_bug",
+          "note": "补办与诉讼双BUG"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42"
+          ],
+          "function": "ops_freeze_force_talk",
+          "note": "业务停摆逼谈判"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这么说吧/然后看目的/而这次/这就导致/所以/再说一遍推进。",
+      "patterns": [
+        "这么说吧",
+        "然后看目的",
+        "这就导致",
+        "再说一遍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "这么说吧"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "然后看目的。",
+          "note": "然后看目的"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这就导致相关机构也不想参与他们之间的破事儿，都是让他们自己内部解决，实在不行就走",
+          "note": "这就导致"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "再说一遍，公章如果真丢了，真被无关的人抢走了，真的下落不明了，那事情反而简单。",
+          "note": "再说一遍"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "股东拿回 vs 外人抢劫；控制权 vs 控制效果；真丢失易补办 vs 合法持有难补办。",
+      "patterns": [
+        "股东vs外人",
+        "控制权vs效果",
+        "丢失vs合法持有"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "如果你不是公司股东，你跟公司没关系，那你碰人家公章是抢劫犯罪，是直接踩缝纫机了。",
+          "note": "不是股东是抢劫"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "这的确不算控制权，但肯定算是一种控制效果。",
+          "note": "不算控制权算控制效果"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "再说一遍，公章如果真丢了，真被无关的人抢走了，真的下落不明了，那事情反而简单。",
+          "note": "真丢了反而简单"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但现在公章没丢，只是在另一个可以合法持有公章的人手里，对方和你意见不一样。",
+          "note": "没丢在合法持有人手里"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "拿公章有啥用、定身晕眩怎不算控制、机构咋处理、法人签字不行吗等追问。",
+      "patterns": [
+        "有啥用",
+        "算不算控制",
+        "咋处理",
+        "法人行吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人都有个不解，就是拿公章有啥用？",
+          "note": "拿公章有啥用"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "定身和晕眩怎么就不算控制效果呢？",
+          "note": "定身晕眩怎么就不算"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这你让相关机构咋处理？",
+          "note": "相关机构咋处理"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "那你说法人签字不行吗？",
+          "note": "法人签字不行吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "李国庆前提；夫妻带孩子回老家；飞机发动机停了脸着地；踩缝纫机私刻。",
+      "patterns": [
+        "李国庆",
+        "夫妻孩子类比",
+        "飞机停摆",
+        "踩缝纫机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "李国庆老师当年能那么做的前提，是因为他本来就有权持有公章，他就是股东之一。",
+          "note": "李国庆老师"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "夫妻俩吵架但还没离婚，一方带着孩子回老家了，这只能算内部争议，不算绑架也不算丢失",
+          "note": "带孩子回老家"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这种卡壳导致的损失是不可估量的，就像飞机在天上突然发动机停了，不是说你过个几天发",
+          "note": "飞机发动机停了"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "那你说魔法对战魔法，反正自己本身作为股东也有权可以持有公章，能不能私刻一下公章呢",
+          "note": "私刻要踩缝纫机"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "卡BUG→补办/诉讼/公告皆失效；破坏权→上下游合同入库出库开票全停。",
+      "patterns": [
+        "三BUG具象",
+        "业务停摆清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "因为现在公章没有丢失，也没有下落不明，而是在可以合法持有公章的股东手里，这是一个",
+          "note": "公章在股东手里"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "甚至，甚至他们大股东发布的这个公章遗失的公告，因为没有盖公章，都不具备法律效应。",
+          "note": "遗失公告无公章无效"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "上下游原材料入库没有公章做不了签收，产品出库没有公章对方不敢接收，各种供应商打款",
+          "note": "入库出库开票停"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "卡BUG、定身晕眩、彻底被BUG卡、脸着地、你们自己谈吧。",
+      "patterns": [
+        "卡BUG",
+        "定身晕眩",
+        "脸着地",
+        "自己谈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "定身和晕眩怎么就不算控制效果呢？",
+          "note": "定身晕眩"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "彻底，被BUG卡了。",
+          "note": "彻底被BUG卡了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "你们自己谈吧"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说不算控制权立刻补「但肯定算控制效果」；再说真丢了反而简单作对照。",
+      "patterns": [
+        "控制权自我补正",
+        "真丢对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这的确不算控制权，但肯定算是一种控制效果。",
+          "note": "不算控制权但算效果"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "再说一遍，公章如果真丢了，真被无关的人抢走了，真的下落不明了，那事情反而简单。",
+          "note": "真丢了反而简单"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短答「不行」；BUG词反复钉；长业务停摆句后短「自己谈吧」。",
+      "patterns": [
+        "短答不行",
+        "BUG反复",
+        "长铺短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "不行。",
+          "note": "不行"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "彻底，被BUG卡了。",
+          "note": "被BUG卡了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "你们自己谈吧"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "魔幻猎奇→规则拆解爽感→业务停摆紧张→自己谈吧冷收。",
+      "patterns": [
+        "猎奇→拆解爽→紧张→冷收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "刷到一个非常魔幻的新闻，都2026年了，大家的商战还是那么直接。",
+          "note": "非常魔幻"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "只要公章不在一天，对方所有的上下游合同业务都要停摆，因为公章无法动用，公司无法做",
+          "note": "巨大的破坏"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "自己谈吧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头卡BUG有没有用→结尾没丢只是意见不合=卡BUG，自己谈吧闭环。",
+      "patterns": [
+        "卡BUG首尾",
+        "自己谈收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那就是卡BUG了。",
+          "note": "那就是卡BUG了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "你们自己谈吧"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；「你们自己谈吧」甩手收束。",
+      "patterns": [
+        "无硬CTA",
+        "甩手收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "你们自己谈吧"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "卡BUG、踩缝纫机、定身晕眩、脸着地等游戏/网络黑话。",
+      "patterns": [
+        "卡BUG",
+        "踩缝纫机",
+        "定身晕眩",
+        "脸着地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "如果你不是公司股东，你跟公司没关系，那你碰人家公章是抢劫犯罪，是直接踩缝纫机了。",
+          "note": "踩缝纫机"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "定身和晕眩怎么就不算控制效果呢？",
+          "note": "定身晕眩"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这种卡壳导致的损失是不可估量的，就像飞机在天上突然发动机停了，不是说你过个几天发",
+          "note": "脸着地"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "法律细节可能简化；站二股东视角偏多；新闻依赖读者已知情节。",
+      "patterns": [
+        "法律简化",
+        "视角偏",
+        "情节依赖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "如果你也是公司股东，那理论上没有【抢】公章，你是公司股东，你本来就有权持有公章，",
+          "note": "你只是拿回"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而这次去拿公章的，是他们二股东，且持股和大股东都是31%多。",
+          "note": "二股东31%"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "（新闻来自南方都市报）",
+          "note": "新闻来自"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先分「你是谁」再分「目的」，再推补办/诉讼/私刻三条死路。",
+      "patterns": [
+        "身份目的二分",
+        "三条死路推演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "有没有用，看你是谁，以及你的目的是什么。",
+          "note": "看你是谁以及目的"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "公章当然可以补办，但补办的前提是公章遗失且下落不明，不在其他股东手里。",
+          "note": "补办前提"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "那你说魔法对战魔法，反正自己本身作为股东也有权可以持有公章，能不能私刻一下公章呢",
+          "note": "私刻不行"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "用游戏术语降低法律门槛；默认读者听过李国庆抢公章典故。",
+      "patterns": [
+        "游戏术语降维",
+        "典故默认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "李国庆老师当年能那么做的前提，是因为他本来就有权持有公章，他就是股东之一。",
+          "note": "李国庆老师"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "定身和晕眩怎么就不算控制效果呢？",
+          "note": "定身晕眩"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "二股东31%、合同专用章、无法人、遗失公告无公章无效。",
+      "patterns": [
+        "持股比例",
+        "多枚章",
+        "无法人",
+        "公告无效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "而这次去拿公章的，是他们二股东，且持股和大股东都是31%多。",
+          "note": "持股31%"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "注意看新闻，不只是拿走了一个章，是好几个章，合同专用章也没了。",
+          "note": "合同专用章也没了"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "因为这个公司现在没有法人，这也是个BUG。",
+          "note": "没有法人"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "甚至，甚至他们大股东发布的这个公章遗失的公告，因为没有盖公章，都不具备法律效应。",
+          "note": "公告不具备法律效应"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低密→规则中高密→停摆清单高密→短收。",
+      "patterns": [
+        "低→规则高→停摆高→短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人都有个不解，就是拿公章有啥用？",
+          "note": "有啥用"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "因为现在公章没有丢失，也没有下落不明，而是在可以合法持有公章的股东手里，这是一个",
+          "note": "补办BUG"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "上下游原材料入库没有公章做不了签收，产品出库没有公章对方不敢接收，各种供应商打款",
+          "note": "上下游停摆"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "自己谈"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问短答；条件句层叠；金句短收。",
+      "patterns": [
+        "短问短答",
+        "条件层叠",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "那你说法人签字不行吗？",
+          "note": "法人签字不行吗"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不行。",
+          "note": "不行"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那就是卡BUG了。",
+          "note": "那就是卡BUG了"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式规则漏洞讲解员：把商战写成游戏BUG速通，冷静毒舌不站道德高地。",
+      "patterns": [
+        "BUG讲解员",
+        "商战游戏化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "拿公章不是为了控制权，而是为了破坏权和威慑权，用BUG把对方卡住，让对方动弹不得",
+          "note": "破坏权和威慑权"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "自己谈吧"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "卡BUG、定身也是控制、真丢反而简单、你们自己谈吧。",
+      "patterns": [
+        "卡BUG",
+        "定身控制",
+        "真丢简单",
+        "自己谈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "定身和晕眩怎么就不算控制效果呢？",
+          "note": "定身晕眩"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "再说一遍，公章如果真丢了，真被无关的人抢走了，真的下落不明了，那事情反而简单。",
+          "note": "真丢了反而简单"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你们自己谈吧。",
+          "note": "自己谈吧"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "规则漏洞/谈判筹码叙事可改编观宇谈合同与治理风险，需补法律免责声明。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这么说吧，这本质是一种卡BUG。",
+          "note": "卡BUG"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "拿公章不是为了控制权，而是为了破坏权和威慑权，用BUG把对方卡住，让对方动弹不得",
+          "note": "威慑权"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "所以，这一手等于要大股东必须立马谈判，必须立马恢复运转，不然大家弄不好就没得玩了",
+          "note": "必须立马谈判"
+        }
+      ]
+    }
+  },
+  "fields_complete_25": true,
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s5",
+    "s7",
+    "s11",
+    "s18",
+    "s22",
+    "s37",
+    "s10",
+    "s21",
+    "s38",
+    "s8",
+    "s13",
+    "s40",
+    "s14",
+    "s19",
+    "s34",
+    "s9",
+    "s20",
+    "s33",
+    "s24",
+    "s26",
+    "s31",
+    "s27",
+    "s42",
+    "s35",
+    "s30",
+    "s41",
+    "s16",
+    "s3",
+    "s6",
+    "s15",
+    "s32",
+    "s36"
+  ]
+}

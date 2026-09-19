@@ -1,0 +1,1460 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7608892485716230656",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7608892485716230656/",
+  "source_sha256": "d625ec144a59997a148f4c1254ef9a788b5211104c7eb9e941692991fad9213d",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 101,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "假期不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "去看了《镖人》。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 38,
+      "snippet": "虽然之前就有传言跟原著差的有点大，但我还是去支持一下，毕竟我很喜欢原著漫画。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "看完后，我长出一口气。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 25,
+      "snippet": "狠心的话，说不出来，毕竟大牌明星们真的从头打到尾。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 14,
+      "snippet": "当然我说啥好话，也说不出来。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 30,
+      "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 46,
+      "snippet": "倒不是电影本身有问题，作为一个武打片，他的动作戏量大管饱，只是想看战斗爽的话，确实能看个爽。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 19,
+      "snippet": "如果你没看过原著的话，这个片子非常爽。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "如果看过，就，非常意味深长。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 16,
+      "snippet": "吴京很硬汉，但刀马没那么碎嘴子。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 73,
+      "snippet": "谢霆锋帅的一匹，但谛听不是魔怔南桐，当年也没帮刀马顶追兵，人家隗知在目前的连载中还活着呢，而且人家隗"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 40,
+      "snippet": "于适的竖原著中话很少，也没这么油腻，心思也没那么多，怀疑这部分剧本是张雨绮写的。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 40,
+      "snippet": "此沙的外形确很适合演和伊玄，但和伊玄在原著里面是冷面野心家，不是大漠joker。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 49,
+      "snippet": "刘耀文很正气很少年气，但裴行俨原著是一个横竖都200的炒鸡壮汉，更适合他的角色是原著的少年秦叔宝。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 23,
+      "snippet": "反而陈丽君的阿育娅和李云霄的燕子娘，给演活了。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 11,
+      "snippet": "原著也就是这个水准了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "《镖人》的编剧真的是个奇才。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 43,
+      "snippet": "能把漫画里那些帅到爆炸的台词和分镜，改编出一种相声段子的效果，确实也是一种稀有的才能。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "但我还是觉得值回票价。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 20,
+      "snippet": "因为肉眼可见的高成本，以及演员足够拼命。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 43,
+      "snippet": "只要你忘掉原著，告诉自己在看一个纯原创的故事，根本不在意剧情，自己就是来看港派武打的。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "那这个片子确实牛。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 1,
+      "snippet": "、"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 30,
+      "snippet": "走出电影院我最关心的问题就是，拍完这电影吴京老师的腰还好吗？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 28,
+      "snippet": "我记得他前几年说过拼不动了，不想再演这种激烈的动作片了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "结果这次又这么拼。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "按这电影的折腾强度，看着都疼。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 27,
+      "snippet": "所以虽然我对剧情不满意，但我对这部电影也没啥可苛刻的。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 42,
+      "snippet": "在这个绿幕特效替身满天飞，AI马上就要上桌的时代，《镖人》这电影就突出一个土法手作。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 31,
+      "snippet": "动作戏都真打，主要场景全都跑去沙漠实拍，还玩了一堆高难度花活。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 29,
+      "snippet": "你可以说这是没苦硬吃，也可以理解为匠人精神，人均动作仙人。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 21,
+      "snippet": "袁和平老师这个等级的可以直接封号动作斗罗。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 21,
+      "snippet": "而吴京老师作为主角，参团率高达百分之八十。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 32,
+      "snippet": "开场砍通缉犯，中间砍追兵，后面砍老同事，顺便砍橘右京coser。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 19,
+      "snippet": "电影两个小时，吴京老师打了一个多小时。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 23,
+      "snippet": "从这你就能看出吴京的参团强度和老腰的受损程度。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 39,
+      "snippet": "我在电影院看吴京老师上下翻飞满地打滚的样子，都有一种腰椎获得了拉伸的奇妙错觉。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 33,
+      "snippet": "如果只是各种地面械斗也就算了，关键是这些动作戏里有不少就是在炫技。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 77,
+      "snippet": "比如有一段吴京老师和一群追杀他的人一起骑在马上跑，他直接在马上站起来，左边换右边，右边换左边，一只手"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 20,
+      "snippet": "看着就觉得，保险公司应该不会愿意给他保。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "太拼了，确实是太拼了。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 32,
+      "snippet": "起码在现在这个时代，《镖人》的动作戏能代表国产武侠片的顶尖水平。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 27,
+      "snippet": "吴京老师换不同类型的武器和不同类型的敌人战了整部电影。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "吴京老师的腰辛苦了。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 18,
+      "snippet": "电影里有很多利用环境来战斗的小巧思。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 49,
+      "snippet": "比如中间有一场在大沙暴中单挑的戏，双方互相抢占上风口，利用风的力量获取优势，字面意义上的飞来飞去。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 49,
+      "snippet": "他们这时候一边打还一边嘴遁，在聊顺天而行还是逆天而行的问题，配合风口转换，算是一段不错的剧情设计。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 23,
+      "snippet": "只要暂时忘记他们在沙暴里嘴遁会吃多少沙子就行。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 33,
+      "snippet": "原作里，刀马护送知世郎上路，一天时间就被反派追上，开始了沙暴大战。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 23,
+      "snippet": "刀马全程低调，除了主动救下竖没干任何多余的事。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 33,
+      "snippet": "和伊玄抓住阿育娅后回到的是自家的军营，所以刀马才能及时跟上去营救。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 54,
+      "snippet": "而在电影里，为了多刷几场动作戏，这条路上他们被一些原创的路人甲阻拦了好几次，甚至让他们通过了一个隋朝"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 37,
+      "snippet": "而为了营造一点家园被毁的悲壮感，电影版把决战地点选在了他们的出发地莫家集。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 19,
+      "snippet": "结果就导致后半段剧情出现了重大bug："
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 29,
+      "snippet": "从莫家集一路过来的时候千难险阻，回去的时候一眨眼就回去了。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "不是，那么多镖人呢？"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "关口呢？"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 26,
+      "snippet": "就感觉他们在老家留了个传送点一样，遇事不决直接TP。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 20,
+      "snippet": "而作为反派的和伊玄更是直接把智力给垫了。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 58,
+      "snippet": "演员非常努力的试图演出这个角色的复杂内心，但因为文戏混乱，看起来这位就是一个脱离了高级趣味的精神病，"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 22,
+      "snippet": "单看《镖人》的阵容，可以说群星荟萃大腕云集。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 20,
+      "snippet": "光靠钱组不起来，必须要动用面子果实才行。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 31,
+      "snippet": "张晋、吴京、李连杰、谢霆锋、梁家辉、惠英红、张译，全是实力派。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 22,
+      "snippet": "但看完你会发现，这群实力派，几乎全员工具人。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 24,
+      "snippet": "他们存在就是为了干架，和变着花样让主角团去干架。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 13,
+      "snippet": "再有演技也没有发挥的地方。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 73,
+      "snippet": "以至于看完电影最大的印象，就是吴京帅气的砍了不少人，谢霆锋太帅了，虽然他的谛听和原著的谛听根本就是两"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 13,
+      "snippet": "如果这不是在隋朝就更好了。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 24,
+      "snippet": "总的来说，《镖人》是一部长板短板都很明显的电影。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 21,
+      "snippet": "你想不带脑子看个战斗爽，那它不会让你失望。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 20,
+      "snippet": "《镖人》有最好的武，却没讲好最核心的侠。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 37,
+      "snippet": "武侠片式微，不是因为大家不爱看打架了，而是因为大家看不懂“为什么要打架”。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 68,
+      "snippet": "当角色的行为动机停留在“我要报仇”、“我要去长安”、“我要当天下第一”这种单薄的个人诉求时，那种“为"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 28,
+      "snippet": "剩下的只是一群武力值爆表但行为混乱的大只佬在银幕上互殴。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 33,
+      "snippet": "他们可以在马上翻飞，在沙暴里搏命，在镜头前把每一场打戏都做到极致。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 44,
+      "snippet": "但当打完之后，观众走出电影院，脑子里只剩下“打得真爽”四个字时，这种拼，似乎又有点可惜。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "但的确是把武讲到极限了。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 20,
+      "snippet": "再说一遍，演员们的努力，绝对让票价超值。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 16,
+      "snippet": "武侠的武字，这个电影做到了极致。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 9,
+      "snippet": "没有功劳也有苦劳。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "没有苦劳也有疲劳。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 11,
+      "snippet": "没有疲劳也有腰肌劳损。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 13,
+      "snippet": "于是，我今天又去看了一次。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 8,
+      "snippet": "确实，够拼命了。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 25,
+      "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "假期随笔起手，直接点名去看《镖人》，用原著粉丝身份压低期待再进场。",
+      "patterns": [
+        "假期随意起手",
+        "原著粉丝入场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "假期不卷，随便写点。",
+          "note": "假期不卷"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "去看了《镖人》。",
+          "note": "去看镖人"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "虽然之前就有传言跟原著差的有点大，但我还是去支持一下，毕竟我很喜欢原著漫画。",
+          "note": "支持原著"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "动作量大管饱但OOC到KFC→演员对照原著逐个错位→编剧把帅台词改成相声→土法手作真打心疼腰→剧情bug与工具人→武到极限侠缺失→再看一次值票价。",
+      "patterns": [
+        "OOC到KFC",
+        "逐角错位",
+        "土法真打",
+        "武有侠无"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "KFC改编"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "吴京很硬汉，但刀马没那么碎嘴子。",
+          "note": "刀马碎嘴"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在这个绿幕特效替身满天飞，AI马上就要上桌的时代，《镖人》这电影就突出一个土法手",
+          "note": "土法手作"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "《镖人》有最好的武，却没讲好最核心的侠。",
+          "note": "武有侠无"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "于是，我今天又去看了一次。",
+          "note": "又看一次"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "hook_verdict",
+          "note": "入场与KFC总判"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21"
+          ],
+          "function": "cast_vs_canon",
+          "note": "武打爽与角色对照"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "script_ticket",
+          "note": "编剧相声与忘掉原著"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "craft_spine",
+          "note": "心疼腰与土法手作"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54"
+          ],
+          "function": "fight_showcase",
+          "note": "参团强度与马上炫技"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "plot_bug",
+          "note": "沙暴巧思与传送点bug"
+        },
+        {
+          "unit_id": "u7",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83"
+          ],
+          "function": "star_tools",
+          "note": "群星工具人与风衣帅"
+        },
+        {
+          "unit_id": "u8",
+          "sentence_ids": [
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101"
+          ],
+          "function": "wuxia_thesis_close",
+          "note": "武侠论与腰肌收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用「倒不是」「如果你没看过」「所以虽然」「总的来说」分层推进；「再说一遍」回扣努力。",
+      "patterns": [
+        "倒不是让步",
+        "观众分叉",
+        "所以虽然",
+        "总的来说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "倒不是电影本身有问题，作为一个武打片，他的动作戏量大管饱，只是想看战斗爽的话，确",
+          "note": "倒不是"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "如果你没看过原著的话，这个片子非常爽。",
+          "note": "如果你没看过"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "所以虽然我对剧情不满意，但我对这部电影也没啥可苛刻的。",
+          "note": "所以虽然"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "总的来说，《镖人》是一部长板短板都很明显的电影。",
+          "note": "总的来说"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "原著刀马/谛听/竖/和伊玄/裴行俨 vs 电影人设；看过原著vs没看过；绿幕AI时代vs土法实拍；武极限vs侠缺失。",
+      "patterns": [
+        "原著对照",
+        "观众分叉",
+        "时代对照",
+        "武侠分拆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "吴京很硬汉，但刀马没那么碎嘴子。",
+          "note": "刀马对照"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "如果你没看过原著的话，这个片子非常爽。",
+          "note": "没看过爽"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在这个绿幕特效替身满天飞，AI马上就要上桌的时代，《镖人》这电影就突出一个土法手",
+          "note": "绿幕vs土法"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "《镖人》有最好的武，却没讲好最核心的侠。",
+          "note": "武有侠无"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "走出影院追问吴京腰；质问那么多镖人关口呢；用「为什么要打架」抬到侠义层面。",
+      "patterns": [
+        "走出影院追问",
+        "连问关口",
+        "为什么打架"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "走出电影院我最关心的问题就是，拍完这电影吴京老师的腰还好吗？",
+          "note": "腰还好吗"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "不是，那么多镖人呢？",
+          "note": "那么多镖人"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "关口呢？",
+          "note": "关口呢"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "武侠片式微，不是因为大家不爱看打架了，而是因为大家看不懂“为什么要打架”。",
+          "note": "为什么打架"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "马上站立换边悬空冲刺；沙暴抢风口嘴遁；砍通缉犯追兵老同事橘右京coser作参团清单。",
+      "patterns": [
+        "马上炫技",
+        "沙暴风口",
+        "砍人清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "比如有一段吴京老师和一群追杀他的人一起骑在马上跑，他直接在马上站起来，左边换右边",
+          "note": "马上站立"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "比如中间有一场在大沙暴中单挑的戏，双方互相抢占上风口，利用风的力量获取优势，字面",
+          "note": "沙暴单挑"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "开场砍通缉犯，中间砍追兵，后面砍老同事，顺便砍橘右京coser。",
+          "note": "砍人清单"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "匠人精神落到沙漠实拍真打；侠之大者落到报仇长安天下第一等单薄动机；可惜落到走出影院只剩打得真爽。",
+      "patterns": [
+        "匠人→实拍",
+        "侠→动机单薄",
+        "可惜→四字印象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "动作戏都真打，主要场景全都跑去沙漠实拍，还玩了一堆高难度花活。",
+          "note": "沙漠实拍"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "当角色的行为动机停留在“我要报仇”、“我要去长安”、“我要当天下第一”这种单薄的",
+          "note": "单薄诉求"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "但当打完之后，观众走出电影院，脑子里只剩下“打得真爽”四个字时，这种拼，似乎又有",
+          "note": "打得真爽"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "KFC级改编、值回票价、人均动作仙人、动作斗罗、智力垫了、长板短板明显。",
+      "patterns": [
+        "KFC判词",
+        "值回票价",
+        "封号夸张",
+        "智力垫了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "KFC"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但我还是觉得值回票价。",
+          "note": "值回票价"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "袁和平老师这个等级的可以直接封号动作斗罗。",
+          "note": "动作斗罗"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "而作为反派的和伊玄更是直接把智力给垫了。",
+          "note": "智力垫了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "狠心话/好话都说不出→承认动作爽；剧情不满但无可苛刻；暂时忘记吃沙子才能夸设计。",
+      "patterns": [
+        "双说不出",
+        "不满但不苛刻",
+        "忘记沙子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "狠心的话，说不出来，毕竟大牌明星们真的从头打到尾。",
+          "note": "狠心说不出"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "当然我说啥好话，也说不出来。",
+          "note": "好话说不出"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "所以虽然我对剧情不满意，但我对这部电影也没啥可苛刻的。",
+          "note": "没啥可苛刻"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "只要暂时忘记他们在沙暴里嘴遁会吃多少沙子就行。",
+          "note": "忘记沙子"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句开场→演员对照中长段→腰与炫技加速→bug连问急促→武侠长论→腰肌四字阶梯收束。",
+      "patterns": [
+        "短开场",
+        "对照中段",
+        "连问急促",
+        "四字阶梯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "假期不卷，随便写点。",
+          "note": "短开"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "谢霆锋帅的一匹，但谛听不是魔怔南桐，当年也没帮刀马顶追兵，人家隗知在目前的连载中",
+          "note": "长对照"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "不是，那么多镖人呢？",
+          "note": "连问"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "没有功劳也有苦劳。",
+          "note": "没有功劳"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "轻松入场→长出一口气的憋屈→心疼拼→嘲讽bug→群星可惜→侠义遗憾→再看一次认拼命。",
+      "patterns": [
+        "轻松",
+        "憋屈",
+        "心疼",
+        "嘲讽",
+        "遗憾",
+        "认拼命"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "假期不卷，随便写点。",
+          "note": "轻松"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "看完后，我长出一口气。",
+          "note": "长出一口气"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "按这电影的折腾强度，看着都疼。",
+          "note": "看着都疼"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就感觉他们在老家留了个传送点一样，遇事不决直接TP。",
+          "note": "传送点"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "但当打完之后，观众走出电影院，脑子里只剩下“打得真爽”四个字时，这种拼，似乎又有",
+          "note": "可惜"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "确实，够拼命了。",
+          "note": "够拼命"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题心疼腰回扣：武讲到极限、演员超值、腰肌劳损阶梯后「又去看了一次」。",
+      "patterns": [
+        "回扣心疼腰",
+        "武到极限",
+        "再看一次"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "走出电影院我最关心的问题就是，拍完这电影吴京老师的腰还好吗？",
+          "note": "腰还好吗"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "武侠的武字，这个电影做到了极致。",
+          "note": "武字极致"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "没有疲劳也有腰肌劳损。",
+          "note": "腰肌劳损"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "于是，我今天又去看了一次。",
+          "note": "又看一次"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注口令；软性观影条件「忘掉原著看港派武打」与再刷一次实证。",
+      "patterns": [
+        "观影条件",
+        "再刷实证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "只要你忘掉原著，告诉自己在看一个纯原创的故事，根本不在意剧情，自己就是来看港派武",
+          "note": "忘掉原著"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "于是，我今天又去看了一次。",
+          "note": "又看一次"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "KFC黑话、橘右京coser、传送点TP、缝纫机级网络梗；腰椎拉伸错觉的身体共情。",
+      "patterns": [
+        "同人黑话",
+        "游戏梗",
+        "身体共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "KFC"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "开场砍通缉犯，中间砍追兵，后面砍老同事，顺便砍橘右京coser。",
+          "note": "橘右京"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就感觉他们在老家留了个传送点一样，遇事不决直接TP。",
+          "note": "传送点TP"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我在电影院看吴京老师上下翻飞满地打滚的样子，都有一种腰椎获得了拉伸的奇妙错觉。",
+          "note": "腰椎错觉"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片截取占位句多；部分角色吐槽密度压过论证；侠义升华略口号化。",
+      "patterns": [
+        "截图噪音",
+        "吐槽密度",
+        "口号升华"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "图片截取自: 不管《镖人》好不好，我都心疼吴京的腰",
+          "note": "图片截取"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "于适的竖原著中话很少，也没这么油腻，心思也没那么多，怀疑这部分剧本是张雨绮写的。",
+          "note": "怀疑张雨绮写"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "当角色的行为动机停留在“我要报仇”、“我要去长安”、“我要当天下第一”这种单薄的",
+          "note": "侠之大者"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展现在「好话说不出」与「剧情不满但无可苛刻」之间摇摆；用观众分叉自我说服值票价。",
+      "patterns": [
+        "双说不出摇摆",
+        "分叉自我说服"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "狠心的话，说不出来，毕竟大牌明星们真的从头打到尾。",
+          "note": "狠心"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "当然我说啥好话，也说不出来。",
+          "note": "好话"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "只要你忘掉原著，告诉自己在看一个纯原创的故事，根本不在意剧情，自己就是来看港派武",
+          "note": "忘掉原著"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "所以虽然我对剧情不满意，但我对这部电影也没啥可苛刻的。",
+          "note": "无可苛刻"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者分成看过/没看过原著两档；默认懂同人OOC与游戏梗的影迷圈。",
+      "patterns": [
+        "原著分档",
+        "同人圈默认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "如果你没看过原著的话，这个片子非常爽。",
+          "note": "没看过"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "如果看过，就，非常意味深长。",
+          "note": "看过意味深长"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "OOC/KFC"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "吴京腰、马上站立换边、沙暴风口、莫家集传送、谢霆锋翻领风衣、参团百分之八十。",
+      "patterns": [
+        "腰",
+        "马上炫技",
+        "莫家集",
+        "风衣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "吴京老师的腰辛苦了。",
+          "note": "腰辛苦"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "比如有一段吴京老师和一群追杀他的人一起骑在马上跑，他直接在马上站起来，左边换右边",
+          "note": "马上站立"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "而为了营造一点家园被毁的悲壮感，电影版把决战地点选在了他们的出发地莫家集。",
+          "note": "莫家集"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "以至于看完电影最大的印象，就是吴京帅气的砍了不少人，谢霆锋太帅了，虽然他的谛听和",
+          "note": "翻领风衣"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密随笔→角色对照高密→腰与动作中高密→bug段尖刺→结尾理念抬升再降到腰肌玩笑。",
+      "patterns": [
+        "低开",
+        "对照高密",
+        "bug尖刺",
+        "理念再降噪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "假期不卷，随便写点。",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "谢霆锋帅的一匹，但谛听不是魔怔南桐，当年也没帮刀马顶追兵，人家隗知在目前的连载中",
+          "note": "高密对照"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "从莫家集一路过来的时候千难险阻，回去的时候一眨眼就回去了。",
+          "note": "bug"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "没有疲劳也有腰肌劳损。",
+          "note": "腰肌玩笑"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判与长对照交替；「如果…就…」条件并列；四字递进收尾制造口头回环。",
+      "patterns": [
+        "短长交替",
+        "条件并列",
+        "四字递进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "如果你没看过原著的话，这个片子非常爽。",
+          "note": "如果没看过"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "如果看过，就，非常意味深长。",
+          "note": "如果看过"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "没有功劳也有苦劳。",
+          "note": "没有功劳"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "没有苦劳也有疲劳。",
+          "note": "没有苦劳"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "原著死忠吐槽役：又毒又护，骂KFC仍心疼腰，最终用「疲劳/腰肌劳损」自嘲式宽容。",
+      "patterns": [
+        "原著死忠",
+        "又毒又护",
+        "自嘲宽容"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "KFC"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "走出电影院我最关心的问题就是，拍完这电影吴京老师的腰还好吗？",
+          "note": "心疼腰"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "没有疲劳也有腰肌劳损。",
+          "note": "腰肌劳损"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "KFC改编；心疼吴京腰；传送点TP；武有最好侠没讲好；没有疲劳也有腰肌劳损。",
+      "patterns": [
+        "KFC",
+        "心疼腰",
+        "传送点",
+        "武有侠无",
+        "腰肌劳损"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为我真的很喜欢原著，这个改编的都不是OOC了，属于KFC。",
+          "note": "KFC"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "吴京老师的腰辛苦了。",
+          "note": "腰辛苦"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就感觉他们在老家留了个传送点一样，遇事不决直接TP。",
+          "note": "传送点"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "《镖人》有最好的武，却没讲好最核心的侠。",
+          "note": "武有侠无"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "没有疲劳也有腰肌劳损。",
+          "note": "腰肌劳损"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "影评「原著对照→工艺肯定→结构bug→价值升华」骨架可改编观宇文化口播，需弱化同人黑话、加强可核实制作信息。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "吴京很硬汉，但刀马没那么碎嘴子。",
+          "note": "角色对照"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在这个绿幕特效替身满天飞，AI马上就要上桌的时代，《镖人》这电影就突出一个土法手",
+          "note": "土法手作"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "《镖人》有最好的武，却没讲好最核心的侠。",
+          "note": "武侠论"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101"
+  ],
+  "fields_complete_25": true
+}

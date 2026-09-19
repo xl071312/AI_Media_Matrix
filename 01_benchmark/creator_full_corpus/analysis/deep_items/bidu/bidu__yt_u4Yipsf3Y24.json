@@ -1,0 +1,1582 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_u4Yipsf3Y24",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=u4Yipsf3Y24",
+  "source_sha256": "bc05cd50471ddd5b60902b1ab7753747a3bfa09f0813295f5d288e62f40aae15",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 5,
+      "snippet": "女生就没了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "虽然那时候我找这样"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "但好在我脸皮后"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "全班第一个月到了午半"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "结果午会当天"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "我发现了一件神奇的事情"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "我们半的斑花居然落单了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "他自己都尴尬"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "早知道当时我这句邀请他了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "现在工具孩子都上小学二年级了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "后来我们才就知道"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "当年的真相是这样的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "要是我邀请斑花被拒绝了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 9,
+      "snippet": "那我岂不是很没面子"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "肯定会被全班人嘲笑四年大"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "班曹肯定会去邀请班花"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "人家狼猜律吗"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "我干嘛自去骑路"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "意思累退"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "每一任男生都觉得"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "为女生拒绝的修持感"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "要胜过邀请到班花的成就感"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "所以每任的选择都是稳恩"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "所以如果你没人追的话"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "可能只是因为你太优秀了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "大家害怕被你拒绝"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "每任都在博弈后做的最稳的选择"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "接着所有人就来到了"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "那时军风中的求徒吞尽"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "这显然不是最优秀的结果"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 16,
+      "snippet": "说不定班花其实当年对我一进中情呢"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "你在笑什么"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "我想起高兴的戏情"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "从博弈认的角度讲"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 12,
+      "snippet": "这种无奈的错诺是因为大家"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "信息风比门头绝测"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "只要你主动表达出你的好感"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "打破信息必累"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "那时军痕就会被打破"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "某社家up就有类似的容能"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 11,
+      "snippet": "你可以又华表示你感兴趣"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "如果对方同时对你感兴趣"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "你们才会被匹配"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 14,
+      "snippet": "这样就避免地邀请被拒绝的尴尬"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "所以比如你喜欢"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "那么你一生中会遇到很多男生"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "有没有什么科学策略"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "能找到那个最优秀的男生呢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 2,
+      "snippet": "注意"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 7,
+      "snippet": "那就正式在一起"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "如果她背后第一个男生"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 13,
+      "snippet": "那就分手和第三个男生在一起"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 9,
+      "snippet": "这种策略看似耍流氓"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 11,
+      "snippet": "但我们排查一下各种情况"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 11,
+      "snippet": "三个男生一共有六种排序"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 6,
+      "snippet": "惨用这种策略"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "有二分之一的概率"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 8,
+      "snippet": "选中最优秀的男生"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 8,
+      "snippet": "有三分之一的概率"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 9,
+      "snippet": "选到第二有秀的男生"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 9,
+      "snippet": "只有六分之一的概率"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 5,
+      "snippet": "选到最差的"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 4,
+      "snippet": "发现没有"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 12,
+      "snippet": "这种策略比忙选的厉害多了"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 10,
+      "snippet": "所以陆续先生早就说过"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 5,
+      "snippet": "初恋不值得"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 11,
+      "snippet": "她只是寻找真爱的电脚实"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 9,
+      "snippet": "请场牢手一般都会先"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 8,
+      "snippet": "随意谈上极端恋情"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "观察一下整体情况"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 7,
+      "snippet": "然后再做出决策"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 15,
+      "snippet": "那么最好的策略是观察多少个人呢"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 10,
+      "snippet": "假设一共有N的人被选"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 10,
+      "snippet": "你先观察观察前K的人"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 4,
+      "snippet": "但都放弃"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 9,
+      "snippet": "从地K加1的人开始"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 13,
+      "snippet": "一旦遇到一个比前面都有秀的"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 6,
+      "snippet": "就和她在一起"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 6,
+      "snippet": "我们那球一下"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 8,
+      "snippet": "K等于多少的时候"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 17,
+      "snippet": "我们有最大的把握和最优秀的人在一起"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 14,
+      "snippet": "我们在小学2年级的时候就学过"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 8,
+      "snippet": "条件概率和黎曼河"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 14,
+      "snippet": "选到最优秀男生的概率如果是P"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 6,
+      "snippet": "那就这么一家"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "一合并变成个机分"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 10,
+      "snippet": "让PG大持过刀等于0"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 3,
+      "snippet": "异得K"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 9,
+      "snippet": "处以N等于1分之1"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 8,
+      "snippet": "但你会发出数学家"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 9,
+      "snippet": "已经推倒出最有策略"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 9,
+      "snippet": "也只有37%的概率"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 9,
+      "snippet": "能找到最有效的男生"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 7,
+      "snippet": "你也没那么油啊"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 9,
+      "snippet": "所有可能人都识一遍"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 15,
+      "snippet": "当然可以轻松比较出谁是最优秀的"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 5,
+      "snippet": "但是你不能"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 7,
+      "snippet": "爱情是回不去的"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 17,
+      "snippet": "37%的关键就是时间和爱情的单项性"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 7,
+      "snippet": "曾经在一起的人"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 10,
+      "snippet": "哪怕再好也不能回头了"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 10,
+      "snippet": "因为下一段做出的决定"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 9,
+      "snippet": "即使为了还有正好的"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 7,
+      "snippet": "也不再为止送动"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 9,
+      "snippet": "没有什么策略能保证"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 11,
+      "snippet": "你找到那个绝对的最优洁"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 6,
+      "snippet": "但眼前这个人"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 10,
+      "snippet": "依然是你最好的选择的"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 6,
+      "snippet": "所以请珍惜他"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 3,
+      "snippet": "告诉他"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 3,
+      "snippet": "你爱他"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 2,
+      "snippet": "好的"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 10,
+      "snippet": "感谢大家收看本期视频"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 11,
+      "snippet": "如果你觉得他有意思的话"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 6,
+      "snippet": "希望能点个赞"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 6,
+      "snippet": "三连支持一下"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 8,
+      "snippet": "听说点个赞的朋友"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 10,
+      "snippet": "都能早日托弹收获幸福"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 6,
+      "snippet": "我们下期再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "截取舞会邀请后悔叙事中段入窗：班花落单、早知邀请，用尴尬回忆钩子导入博弈。",
+      "patterns": [
+        "舞会后悔钩子",
+        "班花落单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我发现了一件神奇的事情",
+          "note": "神奇事情"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我们半的斑花居然落单了",
+          "note": "班花落单"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "早知道当时我这句邀请他了",
+          "note": "早知邀请"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "人人怕拒→囚徒僵局→主动破信息壁垒→科学选伴侣策略→三男六排序演示→观察K放弃再选→K/N=1/e≈37%→珍惜眼前非绝对最优。",
+      "patterns": [
+        "怕拒僵局",
+        "破信息",
+        "三男演示",
+        "37%",
+        "珍惜眼前"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "所以每任的选择都是稳恩",
+          "note": "最稳选择"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "只要你主动表达出你的好感",
+          "note": "主动表达"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "三个男生一共有六种排序",
+          "note": "六种排序"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "处以N等于1分之1",
+          "note": "1/e"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜他"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "dance_story",
+          "note": "舞会怕拒叙事"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "game_break",
+          "note": "博弈破局与提问"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136"
+          ],
+          "function": "secretary_math",
+          "note": "三男策略到K/N"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232"
+          ],
+          "function": "limit_cta",
+          "note": "37%上限与珍惜CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「从博弈角度讲」「所以比如」「注意」「发现没有」「那么最好的策略」层层抬升。",
+      "patterns": [
+        "博弈角度",
+        "发现没有",
+        "那么最好策略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "从博弈认的角度讲",
+          "note": "博弈角度"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "发现没有",
+          "note": "发现没有"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "那么最好的策略是观察多少个人呢",
+          "note": "最好策略"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "邀请成就感vs拒绝羞耻；盲选vs策略；识遍所有人vs不可回头；37%概率vs绝对最优幻觉。",
+      "patterns": [
+        "成就vs羞耻",
+        "盲选vs策略",
+        "可比较vs单向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "为女生拒绝的修持感",
+          "note": "拒绝羞耻"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "这种策略比忙选的厉害多了",
+          "note": "比盲选强"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "所有可能人都识一遍",
+          "note": "识一遍"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "但是你不能",
+          "note": "但是你不能"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "有没有科学策略找最优秀男生；K等于多少把握最大；你在笑什么打破第四墙。",
+      "patterns": [
+        "科学策略问",
+        "K最优问",
+        "第四墙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "有没有什么科学策略",
+          "note": "科学策略"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "能找到那个最优秀的男生呢",
+          "note": "最优秀男生"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "K等于多少的时候",
+          "note": "K等于多少"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "你在笑什么",
+          "note": "你在笑什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "舞会全班不敢请班花；三男排序六种情形；秘书问题观察前K再遇更优就定。",
+      "patterns": [
+        "舞会实例",
+        "三男六排序",
+        "秘书规则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们半的斑花居然落单了",
+          "note": "班花落单"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "三个男生一共有六种排序",
+          "note": "六种排序"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "你先观察观察前K的人",
+          "note": "观察前K"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "信息壁垒落到主动表达好感；最优停止落到K/N=1/e；单向时间落到不能回头的前任。",
+      "patterns": [
+        "壁垒→表白",
+        "最优停→1/e",
+        "单向→不回头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "只要你主动表达出你的好感",
+          "note": "主动表达"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "处以N等于1分之1",
+          "note": "1/e"
+        },
+        {
+          "sentence_id": "s211",
+          "snippet": "爱情是回不去的",
+          "note": "回不去"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "初恋不值得、策略比盲选厉害、没有策略保证绝对最优、眼前仍是最好选择。",
+      "patterns": [
+        "初恋不值得",
+        "比盲选强",
+        "无绝对最优"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s113",
+          "snippet": "初恋不值得",
+          "note": "初恋不值得"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "这种策略比忙选的厉害多了",
+          "note": "比盲选厉害"
+        },
+        {
+          "sentence_id": "s218",
+          "snippet": "没有什么策略能保证",
+          "note": "没有策略保证"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "看似耍流氓的策略用穷举洗白；承认数学家最优也仅37%；从找最优转向珍惜。",
+      "patterns": [
+        "耍流氓再洗白",
+        "37%上限",
+        "转向珍惜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s100",
+          "snippet": "这种策略看似耍流氓",
+          "note": "看似耍流氓"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "但我们排查一下各种情况",
+          "note": "排查情况"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "也只有37%的概率",
+          "note": "只有37%"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "故事快叙→博弈短句→三男概率枚举加速→公式段凝滞→情感金句放慢→三连收束。",
+      "patterns": [
+        "故事快",
+        "枚举加速",
+        "公式凝",
+        "情感慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们半的斑花居然落单了",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "有二分之一的概率",
+          "note": "二分之一"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "条件概率和黎曼河",
+          "note": "条件概率"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "注意"
+        },
+        {
+          "type": "discourse",
+          "form": "发现没有"
+        },
+        {
+          "type": "filler",
+          "form": "我"
+        },
+        {
+          "type": "discourse",
+          "form": "好的"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "注意",
+          "note": "注意"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "发现没有",
+          "note": "发现没有"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我",
+          "note": "单字我"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "好的",
+          "note": "好的"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "尴尬后悔→自嘲怕拒→智识兴奋→公式紧张→命运无奈→珍惜温暖→求赞俏皮。",
+      "patterns": [
+        "尴尬",
+        "自嘲",
+        "兴奋",
+        "无奈",
+        "温暖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "早知道当时我这句邀请他了",
+          "note": "早知"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "那我岂不是很没面子",
+          "note": "没面子"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "这种策略比忙选的厉害多了",
+          "note": "厉害"
+        },
+        {
+          "sentence_id": "s211",
+          "snippet": "爱情是回不去的",
+          "note": "回不去"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "都能早日托弹收获幸福",
+          "note": "早日脱单"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从班花博弈回到爱情单向性：37%是时间单向的代价，请珍惜并说爱。",
+      "patterns": [
+        "回扣单向",
+        "珍惜说爱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s212",
+          "snippet": "37%的关键就是时间和爱情的单项性",
+          "note": "时间单向"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "你爱他",
+          "note": "你爱他"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "点赞三连；用「点赞的都能早日脱单」许愿式钩子。",
+      "patterns": [
+        "三连",
+        "脱单许愿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s228",
+          "snippet": "希望能点个赞",
+          "note": "点个赞"
+        },
+        {
+          "sentence_id": "s229",
+          "snippet": "三连支持一下",
+          "note": "三连"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "都能早日托弹收获幸福",
+          "note": "早日脱单"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "小学二年级反讽学条件概率；初恋是电脚石口误感；面对面「你在笑什么」现场感。",
+      "patterns": [
+        "学历反讽",
+        "口误感",
+        "现场互动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s129",
+          "snippet": "我们在小学2年级的时候就学过",
+          "note": "小学二年级"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "她只是寻找真爱的电脚实",
+          "note": "电脚实"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "你在笑什么",
+          "note": "你在笑什么"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重乱码削弱证据精度；窗内公式推导句残缺；恋爱建议简化为最优停止隐喻。",
+      "patterns": [
+        "ASR乱码",
+        "公式残缺",
+        "隐喻简化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "信息风比门头绝测",
+          "note": "信息风比乱码"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "让PG大持过刀等于0",
+          "note": "导数残句"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "初恋不值得",
+          "note": "初恋不值得"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从「怕没面子」到「破信息」再到「算K」的解题路径；公开37%并不高等于诚实。",
+      "patterns": [
+        "怕面子→破信息→算K",
+        "公开上限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "那我岂不是很没面子",
+          "note": "没面子"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "打破信息必累",
+          "note": "打破信息"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "我们那球一下",
+          "note": "那球一下"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "也只有37%的概率",
+          "note": "只有37%"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "单身听众「速进」；用「你喜欢…会遇到很多男生」第二人称代入选伴侣。",
+      "patterns": [
+        "单身速进",
+        "第二人称选伴侣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "所以比如你喜欢",
+          "note": "你喜欢"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "那么你一生中会遇到很多男生",
+          "note": "很多男生"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以如果你没人追的话",
+          "note": "没人追"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "班花舞会、三男六排序、K/N=1/e、37%、点赞脱单。",
+      "patterns": [
+        "班花",
+        "六排序",
+        "1/e",
+        "37%"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们半的斑花居然落单了",
+          "note": "班花"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "三个男生一共有六种排序",
+          "note": "六种排序"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "处以N等于1分之1",
+          "note": "1/e"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "也只有37%的概率",
+          "note": "37%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "故事中密→博弈升高→概率枚举高峰→残缺公式谷→情感收束中低。",
+      "patterns": [
+        "故事中",
+        "枚举峰",
+        "公式谷",
+        "情感降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "每一任男生都觉得",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "有二分之一的概率",
+          "note": "概率"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "一合并变成个机分",
+          "note": "积分残"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短句叙事串珠；「有…概率」排比；设问后立刻给策略规则。",
+      "patterns": [
+        "短句串珠",
+        "概率排比",
+        "设问给规则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s104",
+          "snippet": "有二分之一的概率",
+          "note": "二分之一"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "有三分之一的概率",
+          "note": "三分之一"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "只有六分之一的概率",
+          "note": "六分之一"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "从地K加1的人开始",
+          "note": "从K+1"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "清华毕导式「用数学安慰单身」：又贩焦虑又给公式，最后用珍惜拆解最优幻觉。",
+      "patterns": [
+        "数学安慰单身",
+        "拆最优幻觉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "可能只是因为你太优秀了",
+          "note": "太优秀了"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "也只有37%的概率",
+          "note": "只有37%"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "所以请珍惜他",
+          "note": "珍惜"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "班花落单；破信息壁垒；初恋不值得；37%规则；珍惜他告诉他你爱他。",
+      "patterns": [
+        "班花",
+        "破信息",
+        "初恋",
+        "37%",
+        "珍惜说爱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们半的斑花居然落单了",
+          "note": "班花"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "打破信息必累",
+          "note": "打破信息"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "初恋不值得",
+          "note": "初恋"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "也只有37%的概率",
+          "note": "37%"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "你爱他",
+          "note": "你爱他"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "生活问题→博弈/数学工具→概率上限→行动建议的科普骨架可改编观宇知识口播，需重录清晰讲解并弱化恋爱许愿CTA。",
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "有没有什么科学策略",
+          "note": "科学策略"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "处以N等于1分之1",
+          "note": "1/e"
+        },
+        {
+          "sentence_id": "s212",
+          "snippet": "37%的关键就是时间和爱情的单项性",
+          "note": "时间单向"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232"
+  ],
+  "fields_complete_25": true
+}

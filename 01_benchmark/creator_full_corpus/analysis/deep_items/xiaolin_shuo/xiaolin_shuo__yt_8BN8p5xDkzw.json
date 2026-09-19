@@ -1,0 +1,969 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_8BN8p5xDkzw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=8BN8p5xDkzw",
+  "source_sha256": "f63f6b7cfd6052d913c8c6f1e2552ca074c1865c81e5c4b3dd037bec3461605b",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "fields": {
+    "opening_move": {
+      "summary": "朋友们今年日元又崩了，164关口40年最低，强调这次主导因素变了并拖美国下场。",
+      "patterns": [
+        "又崩了冲击",
+        "40年极值",
+        "这次不一样+美国插手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "又崩了",
+          "note": "冲击"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "达到了40年来的最低点",
+          "note": "极值"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但今年这回不一样了",
+          "note": "不一样"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "美国政府也插手了",
+          "note": "美国插手"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "日元崩主导因素变→华尔街以人名命名交易→美联手干预→便签买日元→为美债下场→卖欧元买日元避美元信号→政策才改趋势砸钱只溅水花。",
+      "patterns": [
+        "主导因素变",
+        "人名交易",
+        "联合干预",
+        "美债动机",
+        "卖欧买日",
+        "政策vs砸钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "变了",
+          "note": "因素变"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "命名了一个交易",
+          "note": "命名交易"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "宣布联合日本一起干预",
+          "note": "联合干预"
+        },
+        {
+          "sentence_id": "s331",
+          "snippet": "所以美国就下场了",
+          "note": "下场"
+        },
+        {
+          "sentence_id": "s365",
+          "snippet": "一个信号说我干预美元了",
+          "note": "避信号"
+        },
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "水花结论"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23"
+          ],
+          "function": "崩盘冲击与这次不同+美国插手",
+          "note": "开场立题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "贝森特便签与特朗普表态+广场协议呼应",
+          "note": "证据与史钩"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s330",
+            "s331",
+            "s332",
+            "s333",
+            "s334",
+            "s335",
+            "s336",
+            "s337",
+            "s338",
+            "s339",
+            "s340",
+            "s341",
+            "s342",
+            "s343",
+            "s344",
+            "s345",
+            "s346",
+            "s347",
+            "s348",
+            "s349"
+          ],
+          "function": "为美债联手干预时间线",
+          "note": "干预实操"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s350",
+            "s351",
+            "s352",
+            "s353",
+            "s354",
+            "s355",
+            "s356",
+            "s357",
+            "s358",
+            "s359",
+            "s360",
+            "s361",
+            "s362",
+            "s363",
+            "s364",
+            "s365",
+            "s366",
+            "s367",
+            "s368",
+            "s369"
+          ],
+          "function": "为何卖欧元不卖美元的信号管理",
+          "note": "操作细节"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s669",
+            "s670",
+            "s671",
+            "s672",
+            "s673",
+            "s674",
+            "s675",
+            "s676",
+            "s677",
+            "s678",
+            "s679",
+            "s680",
+            "s681",
+            "s682",
+            "s683",
+            "s684",
+            "s685",
+            "s686",
+            "s687",
+            "s688",
+            "s689",
+            "s690",
+            "s691",
+            "s692",
+            "s693",
+            "s694",
+            "s695",
+            "s696",
+            "s697",
+            "s698"
+          ],
+          "function": "政策改趋势vs砸钱只溅水花收束",
+          "note": "结论"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "一呢分层；更关键的是；哎说到这细心朋友要问；就比如说现在。",
+      "patterns": [
+        "一呢分层",
+        "更关键递进",
+        "细心朋友问转",
+        "就比如说落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "一呢",
+          "note": "分层"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更关键的是",
+          "note": "递进"
+        },
+        {
+          "sentence_id": "s350",
+          "snippet": "哎说到这有细心的朋友",
+          "note": "细心转"
+        },
+        {
+          "sentence_id": "s678",
+          "snippet": "就比如说现在日本的局势",
+          "note": "就比如"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "往年日本自救对今年美国插手；心理支持对超过心理层面；卖欧对卖美；政策改趋势对砸钱涟漪。",
+      "patterns": [
+        "自救vs美援",
+        "心理vs实质",
+        "卖欧vs卖美",
+        "政策vs砸钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "出手救过好几次",
+          "note": "往年自救"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "美国政府也插手了",
+          "note": "今年美援"
+        },
+        {
+          "sentence_id": "s341",
+          "snippet": "超过了心理层面",
+          "note": "超心理"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "和一些残留的涟漪罢了",
+          "note": "涟漪"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "是不是跟美国联手；怎么不卖美元卖欧元；影响力体现在哪；反问欧洲躺枪。",
+      "patterns": [
+        "联手核实问",
+        "操作为何问",
+        "影响力问",
+        "躺枪反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s338",
+          "snippet": "说是不是跟美国联手了呀",
+          "note": "联手问"
+        },
+        {
+          "sentence_id": "s352",
+          "snippet": "他怎么不卖美元",
+          "note": "操作问"
+        },
+        {
+          "sentence_id": "s672",
+          "snippet": "它的影响力体现在哪呢",
+          "note": "影响力问"
+        },
+        {
+          "sentence_id": "s362",
+          "snippet": "不是你卖我欧元是几个意思",
+          "note": "躺枪问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "164关口；便签买日元50-100亿；广场协议；纽约联储经高盛摩根操作；高市早苗减税反例。",
+      "patterns": [
+        "关口例",
+        "便签金额例",
+        "广场史例",
+        "联储券商例",
+        "首相政策例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "一度摸到了164关口",
+          "note": "关口"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "叫买日元50-100亿美元",
+          "note": "金额"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "签订了广场协议",
+          "note": "广场"
+        },
+        {
+          "sentence_id": "s348",
+          "snippet": "高盛和摩根士丹利卖出欧元",
+          "note": "券商"
+        },
+        {
+          "sentence_id": "s681",
+          "snippet": "你高市早苗",
+          "note": "首相"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "干预抽象落到便签待办与联储交易；信号管理落到卖欧不卖美；政策抽象落到加息停减税。",
+      "patterns": [
+        "干预→便签交易",
+        "信号→卖欧",
+        "政策→加息减税"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "叫买日元50-100亿美元",
+          "note": "便签具象"
+        },
+        {
+          "sentence_id": "s349",
+          "snippet": "买入日元",
+          "note": "交易具象"
+        },
+        {
+          "sentence_id": "s684",
+          "snippet": "或者央行立刻大幅加息",
+          "note": "加息具象"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "一看就不像偷拍；那次他们很不好玩笑判断；作用只可能越来越小；溅起一点水花。",
+      "patterns": [
+        "不像偷拍讽刺",
+        "历史玩笑判",
+        "作用递减",
+        "水花贬义收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "一看就不像是偷拍的对吧",
+          "note": "讽刺"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "那次他们很不好",
+          "note": "玩笑判"
+        },
+        {
+          "sentence_id": "s693",
+          "snippet": "越来越小",
+          "note": "递减"
+        },
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "水花"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "咱也不知道是不是巧合呼应广场；细心朋友提问后解释卖欧逻辑，自我补问补答。",
+      "patterns": [
+        "巧合留白",
+        "自问补答卖欧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "咱也不知道是不是巧合",
+          "note": "巧合留白"
+        },
+        {
+          "sentence_id": "s351",
+          "snippet": "是不是就要问了",
+          "note": "自问"
+        },
+        {
+          "sentence_id": "s364",
+          "snippet": "其实美国他是不希望给市场",
+          "note": "补答"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句崩盘加速，便签段戏谑放慢，干预时间线中速，欧洲躺枪排比加速，政策结论放缓。",
+      "patterns": [
+        "崩盘短句加速",
+        "戏谑放慢",
+        "时间线中速",
+        "排比加速",
+        "结论放缓"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "又崩了",
+          "note": "短加速"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "字那么大",
+          "note": "戏谑"
+        },
+        {
+          "sentence_id": "s356",
+          "snippet": "日本你要救市",
+          "note": "排比起"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "和一些残留的涟漪罢了",
+          "note": "放缓"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "惊呼崩盘→八卦便签好笑→特朗普珍珠港玩笑→干预紧张→欧洲躺枪喜剧→水花无奈收束。",
+      "patterns": [
+        "惊呼",
+        "八卦好笑",
+        "历史玩笑",
+        "紧张",
+        "喜剧",
+        "无奈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "又崩了",
+          "note": "惊呼"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一看就不像是偷拍的对吧",
+          "note": "好笑"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "当然珍珠港事件除外",
+          "note": "玩笑"
+        },
+        {
+          "sentence_id": "s354",
+          "snippet": "好家伙欧洲就躺枪了",
+          "note": "喜剧"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "和一些残留的涟漪罢了",
+          "note": "无奈"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场美国插手救日元，收束若不愿改政策只砸钱，终究只溅水花涟漪。",
+      "patterns": [
+        "插手开场回扣无力",
+        "砸钱闭环水花"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "美国政府也插手了",
+          "note": "开场插手"
+        },
+        {
+          "sentence_id": "s689",
+          "snippet": "就是要硬靠砸钱",
+          "note": "砸钱"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "和一些残留的涟漪罢了",
+          "note": "涟漪闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口无硬求赞，以金句水花涟漪作思维CTA。",
+      "patterns": [
+        "思维金句CTA",
+        "无硬转化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "和一些残留的涟漪罢了",
+          "note": "余韵"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "珍珠港除外玩笑、不像偷拍讽刺、欧洲躺枪拟人抱怨、高市早苗点名，口语细节强。",
+      "patterns": [
+        "珍珠港玩笑",
+        "偷拍讽刺",
+        "躺枪拟人",
+        "点名首相"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "当然珍珠港事件除外",
+          "note": "珍珠港"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一看就不像是偷拍的对吧",
+          "note": "偷拍"
+        },
+        {
+          "sentence_id": "s354",
+          "snippet": "好家伙欧洲就躺枪了",
+          "note": "躺枪"
+        },
+        {
+          "sentence_id": "s681",
+          "snippet": "你高市早苗",
+          "note": "点名"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段大量截断致主导人名交易机制不完整；政策建议偏口语缺少数据表。",
+      "patterns": [
+        "中段截断",
+        "机制不全",
+        "缺数据表"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "这背后都是因为一个人",
+          "note": "人名未展开"
+        },
+        {
+          "sentence_id": "s330",
+          "snippet": "还是为了美债",
+          "note": "美债论证截断入口"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "分层一呢讲主导因素，再抛细心朋友问题并自答卖欧逻辑，最后推演政策替代方案。",
+      "patterns": [
+        "分层论证",
+        "自问自答",
+        "反事实政策"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "一呢",
+          "note": "分层"
+        },
+        {
+          "sentence_id": "s351",
+          "snippet": "是不是就要问了",
+          "note": "自问"
+        },
+        {
+          "sentence_id": "s680",
+          "snippet": "那也不难呀",
+          "note": "反事实易"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "朋友们开场，把观众当细心朋友共谋提问，用你看看图片拉观看同盟。",
+      "patterns": [
+        "朋友们",
+        "细心朋友共谋",
+        "你看看拉近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们",
+          "note": "称呼"
+        },
+        {
+          "sentence_id": "s350",
+          "snippet": "哎说到这有细心的朋友",
+          "note": "细心朋友"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你看看这个图片多清晰",
+          "note": "你看看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "164关口、40年、50-100亿美元、7月30/31、高盛摩根、广场协议40年。",
+      "patterns": [
+        "汇率关口",
+        "金额区间",
+        "日期锚",
+        "券商锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "一度摸到了164关口",
+          "note": "164"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "叫买日元50-100亿美元",
+          "note": "金额"
+        },
+        {
+          "sentence_id": "s333",
+          "snippet": "7月30号晚上10点半",
+          "note": "时刻"
+        },
+        {
+          "sentence_id": "s348",
+          "snippet": "高盛和摩根士丹利卖出欧元",
+          "note": "券商"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密冲击→便签细节高密→干预时间线高密→躺枪段低密喜剧→政策结论中密。",
+      "patterns": [
+        "冲击中密",
+        "细节高密",
+        "喜剧低密",
+        "结论中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "达到了40年来的最低点",
+          "note": "冲击"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "叫买日元50-100亿美元",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s362",
+          "snippet": "不是你卖我欧元是几个意思",
+          "note": "低密喜剧"
+        },
+        {
+          "sentence_id": "s674",
+          "snippet": "比如利率政策",
+          "note": "结论中密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短感叹与中句叙事交错，躺枪段对称排比，收束长条件句。",
+      "patterns": [
+        "短感叹+中叙事",
+        "对称排比",
+        "长条件收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "又崩了",
+          "note": "短感叹"
+        },
+        {
+          "sentence_id": "s356",
+          "snippet": "日本你要救市",
+          "note": "排比起"
+        },
+        {
+          "sentence_id": "s361",
+          "snippet": "救你的",
+          "note": "对称"
+        },
+        {
+          "sentence_id": "s687",
+          "snippet": "如果政府央行",
+          "note": "长条件"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "时事解说+相声感：敢开珍珠港玩笑，敢替欧洲喊冤，收束仍冷静贬砸钱。",
+      "patterns": [
+        "相声时事",
+        "敢开历史玩笑",
+        "替欧洲喊冤",
+        "冷静贬砸钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "当然珍珠港事件除外",
+          "note": "历史玩笑"
+        },
+        {
+          "sentence_id": "s354",
+          "snippet": "好家伙欧洲就躺枪了",
+          "note": "喊冤"
+        },
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "冷静贬"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "又崩了；不像偷拍便签；珍珠港除外；欧洲躺枪；溅起一点水花。",
+      "patterns": [
+        "又崩了",
+        "便签梗",
+        "珍珠港梗",
+        "躺枪梗",
+        "水花金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "又崩了",
+          "note": "又崩了"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一看就不像是偷拍的对吧",
+          "note": "便签梗"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "当然珍珠港事件除外",
+          "note": "珍珠港"
+        },
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "水花"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "极值冲击+这次不一样+证据八卦+自问操作为何+政策vs干预无力的结构，观屿汇率解读可直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但今年这回不一样了",
+          "note": "这次不一样可复用"
+        },
+        {
+          "sentence_id": "s352",
+          "snippet": "他怎么不卖美元",
+          "note": "操作自问可复用"
+        },
+        {
+          "sentence_id": "s697",
+          "snippet": "溅起一点水花",
+          "note": "无力金句可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s330",
+    "s331",
+    "s332",
+    "s333",
+    "s334",
+    "s335",
+    "s336",
+    "s337",
+    "s338",
+    "s339",
+    "s340",
+    "s341",
+    "s342",
+    "s343",
+    "s344",
+    "s345",
+    "s346",
+    "s347",
+    "s348",
+    "s349",
+    "s350",
+    "s351",
+    "s352",
+    "s353",
+    "s354",
+    "s355",
+    "s356",
+    "s357",
+    "s358",
+    "s359",
+    "s360",
+    "s361",
+    "s362",
+    "s363",
+    "s364",
+    "s365",
+    "s366",
+    "s367",
+    "s368",
+    "s369",
+    "s669",
+    "s670",
+    "s671",
+    "s672",
+    "s673",
+    "s674",
+    "s675",
+    "s676",
+    "s677",
+    "s678",
+    "s679",
+    "s680",
+    "s681",
+    "s682",
+    "s683",
+    "s684",
+    "s685",
+    "s686",
+    "s687",
+    "s688",
+    "s689",
+    "s690",
+    "s691",
+    "s692",
+    "s693",
+    "s694",
+    "s695",
+    "s696",
+    "s697",
+    "s698"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1245 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_InkelXjIR6Y",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=InkelXjIR6Y",
+  "source_sha256": "6db64a7f4c3a8a26beb408bc82deef09e752ce5331143d5cfa284bd0e476cd87",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 104,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "一个数出影灵本于多少"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "看完这个视频颠覆尼认知"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "小学章学厨法"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "老师会反复强调体"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 5,
+      "snippet": "不能做厨术"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "你们老师为什么呢"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "老师说啥是厨法"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "6厨以3.2"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "就是把6桃子分给3的人"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "每个人分到2个"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "但6桃子会给0个人的"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 14,
+      "snippet": "你这么想想不出来桃子变什么样"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "所以出影灵无意"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "你记住就对了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "长大一点我们觉得反正法"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "假设1厨灵等于B"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "这就B反正很厉害"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "B成10就能等于1"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "那会发生什么呢"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "因为0等于0加0"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "所以B成10等于1"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "那么B成10加B成10等于1"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "一因为B成10等于1"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "所以2等于1"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "同样我们也能证明3等于4等于1"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 16,
+      "snippet": "这个B的存在会导致所有的数都是1"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "数学当成于1月坏了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "但我们这个世界不全是1"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "所以这个B不存在"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "1出于1没有1"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "再长大一点学的高属"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 12,
+      "snippet": "1出于一个月接近0的小数"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "就等于一个月大的大数"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "那取得极限"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "1出于0就等于正无穷"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "被很遗憾也无视"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "因为1出于一个"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "负的接近0的小数"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "就会变成富无穷"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "这俩无穷力的这么远"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 13,
+      "snippet": "1出于0总不能记等于正无穷"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "又等于夫穷吧"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "看来1出于0还是没意义"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "还是说"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "其实正无穷和富无穷"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "是可以统一的"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 12,
+      "snippet": "会不会在一种高级的数学里"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "除于0不再是无意义的操作"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 14,
+      "snippet": "而是破斩无穷概念的有趣规则呢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "如果再长大一点"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 4,
+      "snippet": "学了互速"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "我们就能知道"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 13,
+      "snippet": "1出于0到底等于什么东西了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "在实速周之外"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 13,
+      "snippet": "加一个虚俗周变成一个富贫面"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "在在原点上"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "放一个直径为1的小球"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 8,
+      "snippet": "在北极点亮一斩灯"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "向下发出的弓线"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 13,
+      "snippet": "一定会先穿过球面上的某个点"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "再打到它底下的屏面上"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "球面上的点和屏面上的点"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 3,
+      "snippet": "1对1"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 9,
+      "snippet": "这个球就叫做李曼球"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "它就像是整个屏面"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "据远到0的球上"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "如果弓线的角度是Cita"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "那屏面上的点"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 6,
+      "snippet": "迷缘点的距离"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "就是1出于10斩的随幕"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 3,
+      "snippet": "屏面上"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "迷缘点比较近的点"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "对应在李曼球的下班球"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "迷缘点比较远的点在上班球"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 7,
+      "snippet": "迷缘点越远的点"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 7,
+      "snippet": "就集中在李曼球"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "北极点周围越小的区域"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "这时光线的角度"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "Cita也越小"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 14,
+      "snippet": "而在屏面的进行无穷远的那些点"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "最终都对应到了同一个点"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "迷缘球的北极点"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 13,
+      "snippet": "这个点就是我们一直在寻找的"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 4,
+      "snippet": "1出于0"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "它对应着无穷"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 6,
+      "snippet": "它不是这无穷"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 5,
+      "snippet": "也不是户穷"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 5,
+      "snippet": "它就是无穷"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 8,
+      "snippet": "在李曼球的规则里"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "任何数处于0都等无穷"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 4,
+      "snippet": "这都无穷"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 4,
+      "snippet": "非付非准"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "非时非虚"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 5,
+      "snippet": "它长度无线"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 4,
+      "snippet": "方向任意"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 2,
+      "snippet": "无穷"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 8,
+      "snippet": "不再是虚无的概念"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "除以0也不再是非法的习近"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "它们都有的巨小的电影"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "成为了数据的全新破战"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "所以下次再有人问你"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 10,
+      "snippet": "1出于0是什么的时候"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 13,
+      "snippet": "你可以沐沐塞给它一个李曼球"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 6,
+      "snippet": "让你自己询误"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "钩子承诺颠覆认知，再从小学除法老师禁令切入1除以0。",
+      "patterns": [
+        "颠覆认知钩子",
+        "小学老师禁令入题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "看完这个视频颠覆尼认知",
+          "note": "颠覆你认知"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "老师会反复强调体",
+          "note": "老师反复强调"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "不能做厨术",
+          "note": "不能做除数"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "小学桃子分配无意义→设B导致2=1数学崩溃→极限正负无穷冲突→黎曼球北极统一无穷。",
+      "patterns": [
+        "分配隐喻",
+        "反证崩溃",
+        "极限双无穷",
+        "黎曼球统一"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以出影灵无意",
+          "note": "除以0无意义"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "所以2等于1"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "1出于0总不能记等于正无穷",
+          "note": "不能既正无穷又负无穷"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "1出于0",
+          "note": "对应1除以0"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s2",
+            "s5",
+            "s9",
+            "s13"
+          ],
+          "function": "primary_ban",
+          "note": "小学除法禁令与桃子分配"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s20",
+            "s24",
+            "s26",
+            "s29"
+          ],
+          "function": "algebra_collapse",
+          "note": "假设商存在导致全数等于1"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s35",
+            "s39",
+            "s41",
+            "s43"
+          ],
+          "function": "limit_conflict",
+          "note": "极限逼近正负无穷冲突"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s54",
+            "s57",
+            "s64",
+            "s81",
+            "s84"
+          ],
+          "function": "riemann_sphere",
+          "note": "黎曼球灯光投影到北极无穷"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s89",
+            "s96",
+            "s98",
+            "s103"
+          ],
+          "function": "payload_cta",
+          "note": "规则内除以0合法并塞黎曼球"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "长大一点/再长大一点/还是说/如果再长大一点 按年龄台阶升级。",
+      "patterns": [
+        "年龄台阶升级",
+        "还是说转折"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "长大一点我们觉得反正法",
+          "note": "长大一点反证法"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "再长大一点学的高属",
+          "note": "再长大一点高数"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "还是说",
+          "note": "还是说"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "如果再长大一点",
+          "note": "如果再长大一点"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "正无穷 vs 负无穷；虚无概念 vs 球上具体点；非法操作 vs 有趣规则。",
+      "patterns": [
+        "正负无穷对撞",
+        "虚无/具象",
+        "非法/规则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "1出于0就等于正无穷",
+          "note": "等于正无穷"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "就会变成富无穷",
+          "note": "变成负无穷"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "不再是虚无的概念",
+          "note": "不再是虚无概念"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "除以0也不再是非法的习近",
+          "note": "不再是非法途径"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "老师为什么/那会发生什么/会不会高级数学里除以0有意义 驱动升级。",
+      "patterns": [
+        "为何禁令",
+        "后果追问",
+        "高级数学假想"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你们老师为什么呢",
+          "note": "老师为什么呢"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "那会发生什么呢",
+          "note": "那会发生什么呢"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "会不会在一种高级的数学里",
+          "note": "会不会高级数学里"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "6桃分3人、直径1小球北极灯光、球面点与平面1对1。",
+      "patterns": [
+        "桃子分配",
+        "光学投影球"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就是把6桃子分给3的人",
+          "note": "6桃子分给3人"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "放一个直径为1的小球",
+          "note": "直径为1的小球"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "在北极点亮一斩灯",
+          "note": "北极点亮一盏灯"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把无穷从符号落到黎曼球北极点：远点全部挤到同一北极。",
+      "patterns": [
+        "无穷点化",
+        "远点收敛北极"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "而在屏面的进行无穷远的那些点",
+          "note": "平面无穷远点"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "最终都对应到了同一个点",
+          "note": "最终对应同一点"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "迷缘球的北极点",
+          "note": "球面北极点"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言记住就对了、B不存在、还是没意义，再翻转它就是无穷。",
+      "patterns": [
+        "记住断语",
+        "不存在断语",
+        "翻转定义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "你记住就对了",
+          "note": "你记住就对了"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以这个B不存在",
+          "note": "所以这个B不存在"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "它就是无穷",
+          "note": "它就是无穷"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "三次宣布没意义后，用黎曼球改口：在新规则里除以0合法。",
+      "patterns": [
+        "三级否定后翻盘",
+        "规则内合法化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以出影灵无意",
+          "note": "第一次无意义"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "看来1出于0还是没意义",
+          "note": "还是没意义"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "除以0也不再是非法的习近",
+          "note": "不再是非法"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问短答小学段→代数推导加速→极限拉锯→球几何稍长解说→口号收束。",
+      "patterns": [
+        "问答短拍",
+        "推导加速",
+        "几何长板",
+        "口号收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你们老师为什么呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "2=1加速"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个球就叫做李曼球",
+          "note": "黎曼球命名长板"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "无穷",
+          "note": "无穷单字口号"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "repair_like",
+          "form": "还是说"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "在在"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以出影灵无意",
+          "note": "所以出影灵无意"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "还是说",
+          "note": "还是说"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "在在原点上",
+          "note": "在在原点上"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇钩子→小学顺从→反证惊悚→极限遗憾→几何揭秘爽感。",
+      "patterns": [
+        "好奇→顺从→惊悚→遗憾→揭秘爽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "看完这个视频颠覆尼认知",
+          "note": "颠覆认知好奇"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "2=1惊悚"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "被很遗憾也无视",
+          "note": "很遗憾也无视"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "这个点就是我们一直在寻找的",
+          "note": "一直在寻找揭秘"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到有人再问1除以0时，塞一个黎曼球让对方眩晕，首尾问答闭环。",
+      "patterns": [
+        "问答回环",
+        "道具塞回"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "所以下次再有人问你",
+          "note": "下次再有人问你"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你可以沐沐塞给它一个李曼球",
+          "note": "塞给它一个黎曼球"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "教观众用黎曼球回应杠精式提问，软性知识武器型CTA。",
+      "patterns": [
+        "知识武器型回应"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "所以下次再有人问你",
+          "note": "下次再有人问你"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你可以沐沐塞给它一个李曼球",
+          "note": "塞给它黎曼球"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错字堆叠仍保留口语台阶长大一点；塞给它黎曼球玩笑口吻。",
+      "patterns": [
+        "年龄台阶口语",
+        "塞球玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "长大一点我们觉得反正法",
+          "note": "长大一点"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你可以沐沐塞给它一个李曼球",
+          "note": "塞给它一个黎曼球"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真（出影灵/厨法/富贫面）削弱专业可信；中段公式口播难跟。",
+      "patterns": [
+        "ASR失真",
+        "公式口播难跟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "一个数出影灵本于多少",
+          "note": "出影灵失真"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "加一个虚俗周变成一个富贫面",
+          "note": "虚俗周富贫面失真"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开三层否定再构建：禁令→反证→极限冲突→几何统一，展示认知升级路径。",
+      "patterns": [
+        "三层否定再建",
+        "认知升级路径"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "假设1厨灵等于B",
+          "note": "假设1除0等于B"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这个B的存在会导致所有的数都是1",
+          "note": "导致所有数都是1"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "1出于0",
+          "note": "找到1除以0"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当从小学到复变逐步长大的学习者，陪跑认知升级。",
+      "patterns": [
+        "学习者陪跑",
+        "年龄同构"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "小学章学厨法",
+          "note": "小学章学厨法"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "如果再长大一点",
+          "note": "如果再长大一点"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "我们就能知道",
+          "note": "我们就能知道"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "6÷3桃子、2=1证明、黎曼球直径1、北极灯光线。",
+      "patterns": [
+        "桃子算式",
+        "崩溃等式",
+        "球灯模型"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就是把6桃子分给3的人",
+          "note": "6桃分3人得2"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "2等于1"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个球就叫做李曼球",
+          "note": "叫做黎曼球"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩子→代数中密→极限冲突升密→球几何峰值→口号降密。",
+      "patterns": [
+        "钩子低",
+        "代数中",
+        "几何峰",
+        "口号降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "看完这个视频颠覆尼认知",
+          "note": "钩子低密"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "代数中密"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "就是1出于10斩的随幕",
+          "note": "几何距离公式峰"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "无穷",
+          "note": "无穷降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "大量短句推进推导，几何段出现稍长描写，结尾指令句收束。",
+      "patterns": [
+        "短句推导链",
+        "几何描写拉长"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "因为0等于0加0",
+          "note": "短句0=0+0"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "一定会先穿过球面上的某个点",
+          "note": "光线穿过球面稍长"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你可以沐沐塞给它一个李曼球",
+          "note": "指令句塞球"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "耐心科普顽童：敢说颠覆又层层拆穿，最后塞球调侃。",
+      "patterns": [
+        "顽童科普",
+        "调侃收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "看完这个视频颠覆尼认知",
+          "note": "颠覆认知自信"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你可以沐沐塞给它一个李曼球",
+          "note": "塞球调侃"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "2等于1；正负无穷打架；黎曼球北极=1/0。",
+      "patterns": [
+        "2=1",
+        "双无穷",
+        "北极点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "2等于1"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "1出于0总不能记等于正无穷",
+          "note": "正负无穷冲突"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "1出于0",
+          "note": "1出于0北极"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "年龄台阶升级讲解+反证崩溃+具象模型收束，可直接迁移到观宇硬科普结构。",
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "长大一点我们觉得反正法",
+          "note": "长大一点台阶可直接用"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以2等于1",
+          "note": "反证崩溃可直接用"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个球就叫做李曼球",
+          "note": "具象模型命名可直接用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s5",
+    "s13",
+    "s24",
+    "s41",
+    "s84",
+    "s9",
+    "s16",
+    "s20",
+    "s26",
+    "s29",
+    "s32",
+    "s35",
+    "s39",
+    "s43",
+    "s54",
+    "s57",
+    "s64",
+    "s81",
+    "s89",
+    "s96",
+    "s98",
+    "s103",
+    "s15",
+    "s31",
+    "s44",
+    "s50",
+    "s97",
+    "s6",
+    "s19",
+    "s47",
+    "s58",
+    "s80",
+    "s82",
+    "s14",
+    "s88",
+    "s56",
+    "s36",
+    "s83",
+    "s101",
+    "s1",
+    "s55",
+    "s3",
+    "s52",
+    "s70",
+    "s60"
+  ],
+  "fields_complete_25": true
+}

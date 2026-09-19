@@ -1,0 +1,2006 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_W_AUp42z4bg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=W_AUp42z4bg",
+  "source_sha256": "93f85904449348ca0a089cc58240c02b572f0089ed066b2a52ae9c838e66a73e",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 262,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "大二我是青春没有售价"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "崩盘就在当下这张图我不敢看"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "往如昨日吃小金招"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "巫师的选择是处于期视平回血"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "今天盘面跌了餐点6 3个点"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "还行吧"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "也就白骨跌停"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "不慌原因很简单"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "因为今天是世界熊日"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "0 3 2 3 算了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "咱们往好的方面想"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "也就半个月吧"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "咱们就把中东那几个角色"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "各方地盘怎么分的"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "油价影响什么"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "假全怎么跟人动的"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "甚至花肥怎么造的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "塑料工艺如何"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "花母子海峡最宅几公里"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "全都摸的门清"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "感谢市场用这种最极"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "让地理历史和化工支持"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "进入我们的导海"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "如果给我一次重来的机会"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "我这样说"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "知道这些有个屁用"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 20,
+      "snippet": "中国资本市场从2800 涨到了4000家"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "明知道要打赵"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "为什么不跑"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "非要火中取力"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "贪得无厌"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "由于不绝之间"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "你以为离得远就诈不着你了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 16,
+      "snippet": "伊朗的导弹精准的命中了自己的账户"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "中东局是表面上开着缓和"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "一问就是苏然素杰"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "两周搞定"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "但今天一个药额子"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "明天一个药额子"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "就是搞不定"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "甚至一切都在往反方案走"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "越来越像是每一"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "中级对抗的起点"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "日子就这样一天天过去"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 2,
+      "snippet": "无!"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "是为什么说"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "where 什么说谎"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "如昨日吃小金招"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "你们还记不记得一个古老的词"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "顿刀子割肉"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "如果真的是咱们自己有问题"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 10,
+      "snippet": "把恐慌全部释放完也行"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 19,
+      "snippet": "但事实上咱们已经是全球最尖挺的精力体了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 4,
+      "snippet": "没有之一"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "如果真的进入天天"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "都在出遍的那种节奏"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 13,
+      "snippet": "真的只有台观才的才能赚钱了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 9,
+      "snippet": "在无人关注的角落里"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "每缘什么时候贵"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "每缘处加息"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 12,
+      "snippet": "或者大家预期要加息的时候"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "利率高了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "使用美元现金"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "或者买美国国债"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "也能吃到更高利息"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "全球资金就终着换美元"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "美元需求大增"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "美元就升值"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 5,
+      "snippet": "按正常剧本"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 2,
+      "snippet": "打仗"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "所以恐慌"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "所以大家买黄金必现"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 5,
+      "snippet": "所以金价涨"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "但这次的链条被油价打断了"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 4,
+      "snippet": "中东打仗"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "所以油价标升"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "所以全球通长压力暴增"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 10,
+      "snippet": "然而每缘处不断不降息"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "甚至在讨论加息"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 6,
+      "snippet": "所以美元走强"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "所以黄金反向走"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 6,
+      "snippet": "而且各个市场"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 4,
+      "snippet": "多如下跌"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "到处都在亏钱"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 9,
+      "snippet": "亏到保持人金不够了"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 3,
+      "snippet": "被催脚"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "所以得卖点什么"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 4,
+      "snippet": "换回现金"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "所以越亏钱"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 3,
+      "snippet": "越缺钱"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 3,
+      "snippet": "事实上"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 10,
+      "snippet": "黄金这年从1000多"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 7,
+      "snippet": "找到最近的高点"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 6,
+      "snippet": "550090"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 11,
+      "snippet": "已经造就了很多报复神话"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 10,
+      "snippet": "大量的霍利盘在那�碎"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 8,
+      "snippet": "而如今流动性吃惊"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 6,
+      "snippet": "黄金赚的最多"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 5,
+      "snippet": "大表少证点"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 7,
+      "snippet": "先抛黄金的心理"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 4,
+      "snippet": "负担最小"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 5,
+      "snippet": "继续看全球"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 9,
+      "snippet": "每一股也就算个小跌"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 6,
+      "snippet": "日韩才对刺激"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 4,
+      "snippet": "先看日本"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 12,
+      "snippet": "日本从50009000多"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "用了三周跌到5万出头"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 6,
+      "snippet": "今天依旧报跌"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 3,
+      "snippet": "而韩国"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "这一个月从9500"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 7,
+      "snippet": "跌到800出头"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 6,
+      "snippet": "依旨能源依赖"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 5,
+      "snippet": "日本和韩国"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 8,
+      "snippet": "几乎100%依赖"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 9,
+      "snippet": "他们的影响要大得多"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 11,
+      "snippet": "日韩的能源供给直接断裂"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 10,
+      "snippet": "看他们自己政府的储备"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 5,
+      "snippet": "能够扛多久"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 10,
+      "snippet": "而且他们还得赔创免戏"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 7,
+      "snippet": "甚至天天跟着叫"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 10,
+      "snippet": "制裁石油输出国欧勒斯"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 4,
+      "snippet": "重所周知"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 10,
+      "snippet": "做美国的敌人是危险的"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "而做美国的朋友"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 5,
+      "snippet": "则是致命的"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 4,
+      "snippet": "20匯率"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 7,
+      "snippet": "美元走强的时候"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 13,
+      "snippet": "日元和韩元是亚洲里最脆弱的"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 8,
+      "snippet": "韩元创17年新低"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 6,
+      "snippet": "资本外流加速"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 9,
+      "snippet": "外资抛售韩股换美元"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 8,
+      "snippet": "形成股汇双杀螺选"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 12,
+      "snippet": "而日元最近一个月也在浮冲"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 7,
+      "snippet": "只是有一波回条"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 7,
+      "snippet": "明明而上过得去"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 10,
+      "snippet": "咱们国内资本账户管制"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 8,
+      "snippet": "倒是不用担心这个"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "第三是半导体"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 4,
+      "snippet": "全重太大"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 5,
+      "snippet": "尤其是韩国"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 13,
+      "snippet": "三星加SK海利式占全重极高"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 8,
+      "snippet": "美人储如果不降息"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 4,
+      "snippet": "甚至加息"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 8,
+      "snippet": "科技股估值差逻辑"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 9,
+      "snippet": "最先砸在这些高估值"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 4,
+      "snippet": "芯片股上"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 8,
+      "snippet": "直接把指数脱下水"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 4,
+      "snippet": "解释一下"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 6,
+      "snippet": "科技股的价格"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 4,
+      "snippet": "很大一份"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 12,
+      "snippet": "不是靠现在转多少钱撑着的"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 10,
+      "snippet": "是靠未来能转很多钱的"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 5,
+      "snippet": "预期撑着的"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 9,
+      "snippet": "但这里有个关键前提"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 4,
+      "snippet": "利率要低"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 11,
+      "snippet": "也就是前本身的成本要低"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 5,
+      "snippet": "因为你用了"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 3,
+      "snippet": "你用了"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 5,
+      "snippet": "是未来的钱"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 5,
+      "snippet": "现在美人储"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 3,
+      "snippet": "不降息"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 5,
+      "snippet": "甚至要加息"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 5,
+      "snippet": "利率率上去"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 6,
+      "snippet": "逻辑就反转了"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 9,
+      "snippet": "前存营航或者买国债"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 9,
+      "snippet": "就能吃到不错的利息"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 8,
+      "snippet": "那我为什么要冒险"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 6,
+      "snippet": "去赌一家公司"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 8,
+      "snippet": "五年时间后的故事"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 9,
+      "snippet": "大家开始重新算账了"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 10,
+      "snippet": "同样是未来转一百个一"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 6,
+      "snippet": "利率低的时候"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 8,
+      "snippet": "我愿意出一千一满"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 4,
+      "snippet": "利率高了"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 10,
+      "snippet": "我只愿意出600一满"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 6,
+      "snippet": "这就是故资差"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 6,
+      "snippet": "公司没有变差"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 6,
+      "snippet": "但是钱变贵了"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 9,
+      "snippet": "未来的饼就不值钱了"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 9,
+      "snippet": "A股虽然科技股也跌"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 3,
+      "snippet": "但银航"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 12,
+      "snippet": "石油这些大权重相对扛住了"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 6,
+      "snippet": "日韩是这一轮"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 6,
+      "snippet": "第一元飞机底"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 10,
+      "snippet": "结构性最脆弱的经济体"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 4,
+      "snippet": "对外依赖"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 3,
+      "snippet": "货币弱"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 13,
+      "snippet": "叠加日韩原相的一些优势产业"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 8,
+      "snippet": "已经被咱们吃掉了"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 12,
+      "snippet": "所以就剩零星几个优势产业"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 8,
+      "snippet": "资本市场结构单一"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 11,
+      "snippet": "以上三个弱点被同时命中"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 5,
+      "snippet": "最后看欧洲"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 7,
+      "snippet": "欧洲跌得也很惨"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 9,
+      "snippet": "从634跌到573"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 11,
+      "snippet": "某些方面甚至比亚太更痛"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 4,
+      "snippet": "上周更猛"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 13,
+      "snippet": "哈特尔LNG出口设施受创厚"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 12,
+      "snippet": "欧洲天然气价格飙升35%"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 6,
+      "snippet": "欧股集体下跌"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 7,
+      "snippet": "债劝市场更下人"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 14,
+      "snippet": "德国10年期国债收益率破3%"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 2,
+      "snippet": "注意"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 13,
+      "snippet": "收益率上升等于债劝价格下跌"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 20,
+      "snippet": "英国借款成本出席全球金融危机以来最高水平"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 11,
+      "snippet": "欧洲整体股债双差无处躲"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 6,
+      "snippet": "核心就一个字"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 1,
+      "snippet": "气"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 10,
+      "snippet": "2020-25战争后"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 9,
+      "snippet": "欧洲刚把天然气供应"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 6,
+      "snippet": "从国勒斯管道"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 9,
+      "snippet": "气液换到中东LNG"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 14,
+      "snippet": "主要依赖卡特尔和其他海外国家"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 15,
+      "snippet": "结果现在中东开打LNG设施受则"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 2,
+      "snippet": "不二"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 2,
+      "snippet": "不二"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 2,
+      "snippet": "受阻"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 13,
+      "snippet": "等于欧洲刚逃出欧洲斯这个坑"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 8,
+      "snippet": "又掉进中东这个坑"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 15,
+      "snippet": "这对欧洲工业成本和军民共暖价格"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 4,
+      "snippet": "栽弹性的"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 6,
+      "snippet": "游气价格飙升"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 10,
+      "snippet": "所以欧洲通脏与气升温"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 16,
+      "snippet": "所以欧洲央行在3月1月1日率不变"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 3,
+      "snippet": "但警告"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 10,
+      "snippet": "弱高能源价格推高通脏"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 5,
+      "snippet": "将准备加息"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 4,
+      "snippet": "市场一看"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 4,
+      "snippet": "你不降息"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 5,
+      "snippet": "还加息是吧"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 1,
+      "snippet": "行"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 5,
+      "snippet": "我四给你看"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 8,
+      "snippet": "欧洲经济本来就弱"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 12,
+      "snippet": "制造业骗脉连续6个月伟缩"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 13,
+      "snippet": "但因为游气涨价格不得不加息"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 8,
+      "snippet": "这就是经典的制装"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 9,
+      "snippet": "经济停制加通脏上行"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 9,
+      "snippet": "是最难受的红关组合"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 11,
+      "snippet": "货币政策怎么选都是错的"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 7,
+      "snippet": "降息会加剧通脏"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 12,
+      "snippet": "加息会把经济活力彻底打死"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 7,
+      "snippet": "每天都不是抹日"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 9,
+      "snippet": "但每天都比昨天更慢"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 2,
+      "snippet": "更难"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 5,
+      "snippet": "总之说回来"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 4,
+      "snippet": "看完全球"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 7,
+      "snippet": "这么看咱们还行"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 10,
+      "snippet": "A股反而因为相对封闭"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 4,
+      "snippet": "能源多元"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 5,
+      "snippet": "政策工具多"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 5,
+      "snippet": "制造业坚挺"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 7,
+      "snippet": "反而是相对扛造"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 3,
+      "snippet": "意思是"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 5,
+      "snippet": "你们别跑了"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 4,
+      "snippet": "继续玩吧"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 3,
+      "snippet": "求求了"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 2,
+      "snippet": "算了"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 5,
+      "snippet": "就这么着急"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 7,
+      "snippet": "视频赚钱A股花"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 7,
+      "snippet": "一分也不带回家"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 4,
+      "snippet": "自备公平"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 2,
+      "snippet": "再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题式‘崩盘就在当下’+不敢看图，随即用‘还行吧/不慌’反讽降温。",
+      "patterns": [
+        "崩盘惊吓钩子",
+        "反讽降温自我安慰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "崩盘就在当下这张图我不敢看",
+          "note": "崩盘就在当下不敢看"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "还行吧",
+          "note": "还行吧反讽"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "不慌原因很简单",
+          "note": "不慌原因很简单"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "中东冲突拖长→油价地缘知识无用→A股贪火中取栗→全球链条日韩能源汇股双杀→对比A股相对抗造。",
+      "patterns": [
+        "冲突拖长叙事",
+        "知识无用自嘲",
+        "全球脆弱链",
+        "A股相对抗造"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "为什么不跑",
+          "note": "明知道要打为什么不跑"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就是搞不定",
+          "note": "就是搞不定"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "日韩的能源供给直接断裂",
+          "note": "日韩能源供给断裂风险"
+        },
+        {
+          "sentence_id": "s252",
+          "snippet": "反而是相对扛造",
+          "note": "A股相对扛造"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s2",
+            "s5",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "function": "crash_banter",
+          "note": "崩盘惊吓后用世界熊日自嘲"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s15",
+            "s20",
+            "s26",
+            "s29"
+          ],
+          "function": "knowledge_useless",
+          "note": "半个月摸清地缘却屁用+为何不跑"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s40",
+            "s43",
+            "s50"
+          ],
+          "function": "conflict_drag",
+          "note": "表面缓和实际拖成中级对抗/钝刀子"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s112",
+            "s116",
+            "s128",
+            "s132",
+            "s141"
+          ],
+          "function": "asia_fragility",
+          "note": "日韩能源/汇股/半导体脆弱链"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s233",
+            "s237",
+            "s245",
+            "s252",
+            "s254"
+          ],
+          "function": "compare_home",
+          "note": "欧滞胀对比后劝别跑A股"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "‘咱们往好的方面想/解释一下/总之说回来’把嘲讽切到机制再到结论。",
+      "patterns": [
+        "往好处想转场",
+        "解释一下降密",
+        "总之说回来收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "咱们往好的方面想",
+          "note": "往好的方面想"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "解释一下",
+          "note": "解释一下科技股定价"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "总之说回来",
+          "note": "总之说回来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "表面两周搞定 vs 天天药引子；做美敌人危险 vs 做朋友致命；欧滞胀难选 vs A股相对抗造。",
+      "patterns": [
+        "预期/现实对仗",
+        "敌友致命对仗",
+        "外弱内相对强"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "两周搞定",
+          "note": "两周搞定预期"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就是搞不定",
+          "note": "搞不定现实"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "做美国的敌人是危险的",
+          "note": "做敌人危险"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "则是致命的",
+          "note": "做朋友致命"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连环质问‘为什么不跑/离得远就炸不着吗/记不记得钝刀子’驱动羞耻与记忆。",
+      "patterns": [
+        "羞耻质问",
+        "记忆唤起问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "为什么不跑",
+          "note": "为什么不跑"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "你以为离得远就诈不着你了",
+          "note": "离得远就炸不着吗"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你们还记不记得一个古老的词",
+          "note": "记不记得钝刀子割肉"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用韩元创17年新低、三星SK权重、欧制造业连续收缩做跨国例证。",
+      "patterns": [
+        "汇市案例",
+        "半导体权重案例",
+        "欧制造业PMI式例证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s129",
+          "snippet": "韩元创17年新低",
+          "note": "韩元17年新低"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "三星加SK海利式占全重极高",
+          "note": "三星加SK权重极高"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "制造业骗脉连续6个月伟缩",
+          "note": "制造业连续6个月萎缩"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把‘钝刀子割肉/滞胀’落到导弹打账户、韩元双杀、政策两难。",
+      "patterns": [
+        "隐喻→账户受损",
+        "滞胀→加息两难"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "伊朗的导弹精准的命中了自己的账户",
+          "note": "导弹命中自己账户"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "顿刀子割肉",
+          "note": "钝刀子割肉"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "货币政策怎么选都是错的",
+          "note": "货币政策怎么选都错"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "痛骂贪得无厌火中取栗，又断言语气‘知道这些有个屁用’。",
+      "patterns": [
+        "道德痛骂",
+        "知识无用粗口断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "知道这些有个屁用",
+          "note": "知道这些有个屁用"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "贪得无厌",
+          "note": "贪得无厌"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说不慌还行，随即承认半个月地理化工全摸清却无用，自我打脸。",
+      "patterns": [
+        "安慰后打脸",
+        "知识投资无效纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "还行吧",
+          "note": "先还行吧"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "知道这些有个屁用",
+          "note": "随后否定知识有用"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "惊吓短句→知识清单连珠→质问爆破→机制中板→哀求式尾奏。",
+      "patterns": [
+        "惊吓短打",
+        "清单连珠",
+        "质问爆破",
+        "哀求尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "崩盘就在当下这张图我不敢看",
+          "note": "惊吓短句"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "甚至花肥怎么造的",
+          "note": "化肥塑料海峡清单"
+        },
+        {
+          "sentence_id": "s254",
+          "snippet": "你们别跑了",
+          "note": "你们别跑了哀求"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "算了"
+        },
+        {
+          "type": "filler",
+          "form": "还行吧"
+        },
+        {
+          "type": "repair",
+          "form": "0 3 2 3 算了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "还行吧",
+          "note": "还行吧口头禅"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "0 3 2 3 算了",
+          "note": "日期报完算了自修"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "算了",
+          "note": "算了放弃标记"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊吓→假镇定→愤怒自嘲→全球恐慌铺陈→半开玩笑哀求留人。",
+      "patterns": [
+        "惊→假定→怒嘲→恐慌→哀求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "崩盘就在当下这张图我不敢看",
+          "note": "惊吓"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "知道这些有个屁用",
+          "note": "怒嘲屁用"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "求求了",
+          "note": "求求了"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "全球看完对比回家‘咱们还行’，用自嘲赚钱不带回家收束再见。",
+      "patterns": [
+        "对比回家结论",
+        "自嘲公平再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s247",
+          "snippet": "这么看咱们还行",
+          "note": "这么看咱们还行"
+        },
+        {
+          "sentence_id": "s260",
+          "snippet": "一分也不带回家",
+          "note": "一分也不带回家"
+        },
+        {
+          "sentence_id": "s262",
+          "snippet": "再见",
+          "note": "再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "反CTA：求观众别跑继续玩，混搭自嘲与再见。",
+      "patterns": [
+        "反跑劝留",
+        "自嘲收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s254",
+          "snippet": "你们别跑了",
+          "note": "你们别跑了"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "继续玩吧",
+          "note": "继续玩吧"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "粗口、假镇定、哀求留人，强烈直播间情绪，非平滑AI口吻。",
+      "patterns": [
+        "粗口断语",
+        "假镇定自嘲",
+        "求求了口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "知道这些有个屁用",
+          "note": "有个屁用"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "求求了",
+          "note": "求求了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断（s50后跳s112），中东叙事与亚洲机制之间缺桥；ASR混英语。",
+      "patterns": [
+        "截断缺桥",
+        "英中混杂噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "where 什么说谎",
+          "note": "where什么说谎噪声"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "顿刀子割肉",
+          "note": "钝刀子后窗口跳号"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先列半个月学到的地缘化工，再自问有屁用，暴露无效努力。",
+      "patterns": [
+        "知识清单后自否",
+        "政策两难推演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "全都摸的门清",
+          "note": "全摸门清"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "知道这些有个屁用",
+          "note": "自否有用"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "降息会加剧通脏",
+          "note": "降息加息两难"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众写成火中取栗的同谋，又写成别跑的难兄难弟。",
+      "patterns": [
+        "同谋羞耻",
+        "难兄难弟劝留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "非要火中取力",
+          "note": "非要火中取栗"
+        },
+        {
+          "sentence_id": "s254",
+          "snippet": "你们别跑了",
+          "note": "你们别跑了"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "盘面跌点、2800到4000、韩元新低、制造业6个月萎缩等锚。",
+      "patterns": [
+        "指数点位",
+        "汇市新低",
+        "制造业连续收缩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "今天盘面跌了餐点6 3个点",
+          "note": "跌了六点三个点"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "中国资本市场从2800 涨到了4000家",
+          "note": "2800涨到4000"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "韩元创17年新低",
+          "note": "韩元17年新低"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密情绪→清单中密→日韩机制高密→对比结论降密。",
+      "patterns": [
+        "情绪低密",
+        "清单中",
+        "机制高",
+        "结论降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "还行吧",
+          "note": "情绪低密"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "三星加SK海利式占全重极高",
+          "note": "半导体机制高密"
+        },
+        {
+          "sentence_id": "s247",
+          "snippet": "这么看咱们还行",
+          "note": "结论降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短句弹幕风与解释长句交错，尾段祈使句密集。",
+      "patterns": [
+        "弹幕短句",
+        "解释长句",
+        "祈使尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "还行吧",
+          "note": "弹幕短句"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "科技股的价格",
+          "note": "科技股价格解释"
+        },
+        {
+          "sentence_id": "s254",
+          "snippet": "你们别跑了",
+          "note": "祈使尾"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "崩溃段子手：又骂又求，用黑色幽默扛恐慌。",
+      "patterns": [
+        "黑色幽默",
+        "又骂又求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为今天是世界熊日",
+          "note": "世界熊日自嘲"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "则是致命的",
+          "note": "做朋友致命金句"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "求求了",
+          "note": "求求了"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "‘钝刀子割肉’‘做美国朋友致命’‘你们别跑了’可记。",
+      "patterns": [
+        "钝刀子",
+        "敌友致命",
+        "别跑哀求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "顿刀子割肉",
+          "note": "钝刀子割肉"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "则是致命的",
+          "note": "做朋友致命"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "全球脆弱链对比本土相对优势的结构可迁到观宇宏观解说，需去掉过度哀求与粗口。",
+      "evidence": [
+        {
+          "sentence_id": "s116",
+          "snippet": "日韩的能源供给直接断裂",
+          "note": "能源依赖链可迁"
+        },
+        {
+          "sentence_id": "s252",
+          "snippet": "反而是相对扛造",
+          "note": "相对抗造结论可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s6",
+    "s8",
+    "s29",
+    "s40",
+    "s116",
+    "s252",
+    "s5",
+    "s9",
+    "s13",
+    "s15",
+    "s20",
+    "s26",
+    "s35",
+    "s43",
+    "s50",
+    "s112",
+    "s128",
+    "s132",
+    "s141",
+    "s233",
+    "s237",
+    "s245",
+    "s254",
+    "s11",
+    "s148",
+    "s37",
+    "s123",
+    "s125",
+    "s33",
+    "s49",
+    "s129",
+    "s234",
+    "s34",
+    "s239",
+    "s31",
+    "s17",
+    "s10",
+    "s257",
+    "s256",
+    "s247",
+    "s260",
+    "s262",
+    "s255",
+    "s47",
+    "s240",
+    "s30",
+    "s27",
+    "s149"
+  ],
+  "fields_complete_25": true
+}

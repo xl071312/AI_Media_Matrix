@@ -1,0 +1,1032 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_yhMq7uSv5Q4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=yhMq7uSv5Q4",
+  "source_sha256": "d0672e1cbe4d632b700085857abd613cd8c32bb6d4a761ee30a07505c4ed5f5d",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 119,
+  "fields": {
+    "opening_move": {
+      "summary": "号召朋友玩衣架套头实验，给转动成败比，抛出人体功能还是衣架阴谋的二元钩子。",
+      "patterns": [
+        "号召实验开场",
+        "成败比例钩",
+        "二元悬念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我馬上號召朋友們一起來玩",
+          "note": "号召"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "賺和不賺的比例大人是三比",
+          "note": "比例"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "這背後究竟是人體功能的便宜",
+          "note": "悬念A"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "還是一架產生的陰謀",
+          "note": "悬念B"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "现象可复现命名Hanger Reflex→腰腕踝皆可转并发paper→沉思用途→导航压迫转向方案→嘲讽眼神→医疗延展→三连启示收束。",
+      "patterns": [
+        "命名现象",
+        "多部位复现",
+        "用途沉思",
+        "导航方案",
+        "医疗延展",
+        "三启示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "腰也會轉",
+          "note": "腰"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "這玩意兒推用來導航了",
+          "note": "导航"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "發展成了造覆人民的醫療手段",
+          "note": "医疗"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "不要輕易瞧小每一個把一架套點腦袋上的人",
+          "note": "启示"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "号召实验与玄学科学悬念",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "命名与早期发现史（含ASR噪声段）",
+          "note": "命名史"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "腰腕踝扩展实验与发paper",
+          "note": "扩展"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "导航应用设想与吐槽",
+          "note": "应用"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91"
+          ],
+          "function": "医疗转化与十年执着致敬",
+          "note": "升华"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119"
+          ],
+          "function": "正确转头教学与三点启示+三连CTA",
+          "note": "收束CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "什麼呢他發現；後來他想明白了；總之呢；看到這裡；第二第三分点。",
+      "patterns": [
+        "什麼呢推进",
+        "后来想明白",
+        "总之收束",
+        "分点第二第三"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "什麼呢?",
+          "note": "什麼呢"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "後來他想明白了",
+          "note": "想明白"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "總之呢",
+          "note": "总之"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "第二",
+          "note": "分点"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "赚了对没赚；玄学对科学阴谋；综艺杀雕小把戏对医疗手段；身体被你支配对反过来支配你。",
+      "patterns": [
+        "成败对照",
+        "玄学科学",
+        "小把戏医疗",
+        "支配反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "但有的賺了有的沒賺",
+          "note": "成败"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "這背後究竟是人體功能的便宜",
+          "note": "科学侧"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "還是一架產生的陰謀",
+          "note": "玄学侧"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "他可能反過來支配了你",
+          "note": "反转"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "背后究竟；用意呢；眼神怎么回事；谁用这方式认路；身体还有多少秘密。",
+      "patterns": [
+        "究竟问",
+        "用意问",
+        "吐槽问",
+        "认路问",
+        "秘密问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "這背後究竟是人體功能的便宜",
+          "note": "究竟"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "究竟有什麼用意呢?",
+          "note": "用意"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "是怎麼一回事啊?",
+          "note": "吐槽"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "你不知道的秘密啊",
+          "note": "秘密"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "腰腕踝加压都转并发paper；头套压迫右额右转；落枕用衣架恢复；套十个衣架睡觉玩笑。",
+      "patterns": [
+        "多部位例",
+        "导航头套例",
+        "落枕恢复例",
+        "套十个玩笑例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "把一架粉式用在腰上",
+          "note": "腰例"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "頭套就會壓迫你的右前額",
+          "note": "头套"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "你可以用一架架頭說不定能貪腹",
+          "note": "落枕"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我今晚睡覺就要套十個一架",
+          "note": "玩笑"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "反射抽象落到腰腕踝转；导航抽象落到压迫前额转向；医疗抽象落到paper与落枕。",
+      "patterns": [
+        "反射→部位转",
+        "导航→压额",
+        "医疗→paper落枕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "手腕也會轉",
+          "note": "腕具象"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "然後你就會不自主的向右轉頭",
+          "note": "转头具象"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "還學了十幾篇paper",
+          "note": "paper具象"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "非常存疑；导航非常方便；尤其对盲人友好；人体真奇妙；衣架领域大有可为。",
+      "patterns": [
+        "存疑",
+        "方便肯定",
+        "盲人友好",
+        "奇妙赞叹",
+        "大有可为"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "非常存幅",
+          "note": "存疑"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "轉頭帶動身體導航非常方便",
+          "note": "方便"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "尤其對盲人十分友好",
+          "note": "友好"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "人體真是太奇妙了",
+          "note": "奇妙"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "一架領域大流可危",
+          "note": "大有可为ASR"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先抛阴谋悬念后走科学命名；吐槽导航眼神后仍总结方便；承认研究不都是杀掉的。",
+      "patterns": [
+        "阴谋后科学",
+        "吐槽后仍肯定",
+        "研究不全搞笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "還是一架產生的陰謀",
+          "note": "先阴谋"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "后科学"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "你這狂人大部的眼神",
+          "note": "吐槽"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "也不都是這麼殺掉的",
+          "note": "纠偏不全搞笑"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "号召快，命名噪声段碎，部位paper排比加速，导航说明放慢，启示分点中速，三连收束加速。",
+      "patterns": [
+        "号召快",
+        "噪声碎",
+        "paper排比",
+        "说明放慢",
+        "分点+三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我馬上號召朋友們一起來玩",
+          "note": "快"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "然後發了一篇paper",
+          "note": "排比paper"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "具體來說是這樣的",
+          "note": "放慢"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "成多了记得三连,",
+          "note": "三连"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "赢的赢的…"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "酿鸦重复"
+        },
+        {
+          "type": "discourse",
+          "form": "总之呢"
+        },
+        {
+          "type": "discourse",
+          "form": "后来他想明白了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "贏的贏的贏的贏的贏的",
+          "note": "重复填充"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "釀鸦",
+          "note": "重复噪声/口头禅残留"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "總之呢",
+          "note": "总之呢"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "後來他想明白了",
+          "note": "话语标记"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "玩梗兴奋→命名神秘→paper排比荒诞笑→导航吐槽→致敬感动→三启示促行动。",
+      "patterns": [
+        "玩梗兴奋",
+        "荒诞笑",
+        "吐槽",
+        "致敬",
+        "促行动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我馬上號召朋友們一起來玩",
+          "note": "兴奋"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "然後發了一篇paper",
+          "note": "荒诞笑"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "你這狂人大部的眼神",
+          "note": "吐槽"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "發展成了造覆人民的醫療手段",
+          "note": "致敬"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "试一试吧,不赚不是中国人",
+          "note": "促行动"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场衣架玄学落到身体反支配你与勿小看套衣架的人，号召试一试三连。",
+      "patterns": [
+        "玄学开场回扣身体秘密",
+        "勿小看闭环",
+        "试一试CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "這背後究竟是人體功能的便宜",
+          "note": "开场问"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "他可能反過來支配了你",
+          "note": "回扣"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "不要輕易瞧小每一個把一架套點腦袋上的人",
+          "note": "勿小看"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "试一试吧,不赚不是中国人",
+          "note": "试"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "试一试吧不转不是中国人；成多了记得三连，游戏化强转化。",
+      "patterns": [
+        "试一试号召",
+        "不转不是中国人梗",
+        "记得三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "试一试吧,不赚不是中国人",
+          "note": "试一试"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "成多了记得三连,",
+          "note": "三连"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR严重损坏本身像现场口播；套十个衣架睡觉；不转不是中国人；眼神吐槽，幽默人身。",
+      "patterns": [
+        "现场口播感",
+        "套十个玩笑",
+        "中国人梗",
+        "眼神吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s92",
+          "snippet": "我今晚睡覺就要套十個一架",
+          "note": "套十个"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "你這狂人大部的眼神",
+          "note": "眼神"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "试一试吧,不赚不是中国人",
+          "note": "梗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR损坏导致专名与论证断裂严重；科学机制讲解被笑料挤占；重复噪声句多。",
+      "patterns": [
+        "ASR损坏",
+        "机制不足",
+        "噪声重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前往前前前前前前前前前",
+          "note": "噪声"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "这就是一场鸦鸦",
+          "note": "重复噪声"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "我研究的這個一架夾一切",
+          "note": "机制含混"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从玩梗统计比例→查命名→扩展部位→想用途→医疗升华的研究叙事链。",
+      "patterns": [
+        "统计比例",
+        "查命名",
+        "扩展部位",
+        "想用途"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "賺和不賺的比例大人是三比",
+          "note": "统计"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "究竟有什麼用意呢?",
+          "note": "想用途"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "後來他想明白了",
+          "note": "想通"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当可一起玩的朋友与同学，教正确转头方法，用你这眼神直接对话。",
+      "patterns": [
+        "朋友同学",
+        "教学方法",
+        "直接对话眼神"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我馬上號召朋友們一起來玩",
+          "note": "朋友"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "找這兒我們可以教大家正確的",
+          "note": "教大家"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "很多同學是研究",
+          "note": "同学"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "你這狂人大部的眼神",
+          "note": "你对话"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "三比比例、Hanger Reflex、腰腕踝paper、右前额压迫、十年夹衣架、十几篇paper。",
+      "patterns": [
+        "比例锚",
+        "英文名锚",
+        "部位锚",
+        "十年锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "賺和不賺的比例大人是三比",
+          "note": "比例"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "英文名"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "頭套就會壓迫你的右前額",
+          "note": "右额"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "夾了十年",
+          "note": "十年"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密玩梗→命名中密→部位paper低密排比笑→导航说明中高密→启示低密。",
+      "patterns": [
+        "玩梗低密",
+        "命名中密",
+        "排比低密",
+        "导航中高密",
+        "启示低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我馬上號召朋友們一起來玩",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "又發了一篇paper",
+          "note": "低密排比"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你需要右轉彎的時候",
+          "note": "导航密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短重复噪声与paper排比句为主，导航段连贯因果，启示用第一第二第三分列。",
+      "patterns": [
+        "重复短句",
+        "paper排比",
+        "因果导航",
+        "分点列"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "贏的贏的贏的贏的贏的",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "又發了一篇paper",
+          "note": "排比"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "然後你就會不自主的向右轉頭",
+          "note": "因果"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "第三",
+          "note": "分点"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科学搞笑博主：用荒诞paper堆叠制造笑点，又认真致敬十年研究与盲人友好。",
+      "patterns": [
+        "科学搞笑",
+        "荒诞堆叠",
+        "认真致敬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "然後發了一篇paper",
+          "note": "荒诞"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "尤其對盲人十分友好",
+          "note": "认真"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "發展成了造覆人民的醫療手段",
+          "note": "致敬"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "衣架反射；又发一篇paper；压迫右前额；身体反过来支配你；不转不是中国人。",
+      "patterns": [
+        "反射名",
+        "paper梗",
+        "压额",
+        "反支配",
+        "中国人梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "直以过来就是一驾反射",
+          "note": "反射"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "然後發了一篇paper",
+          "note": "paper"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "他可能反過來支配了你",
+          "note": "反支配"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "试一试吧,不赚不是中国人",
+          "note": "梗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "玩梗实验→科学命名→扩展复现→应用脑洞→启示分点的科普喜剧结构可迁，须重录清洁音并补机制图。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "名字叫做Hanger Reflapse",
+          "note": "命名结构可迁"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "這玩意兒推用來導航了",
+          "note": "应用脑洞可迁"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "不要輕易瞧小每一個把一架套點腦袋上的人",
+          "note": "启示可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119"
+  ],
+  "fields_complete_25": true
+}

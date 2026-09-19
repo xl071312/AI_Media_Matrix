@@ -1,0 +1,1187 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_txfIzLpR9Uc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=txfIzLpR9Uc",
+  "source_sha256": "3f63981e8a53d6b3c7dcc59f2f718e5ce3599b1040e9fcfee616ba70d57e5708",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 89,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "你就该考虑换电池了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "时间过得好快啊"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "一转眼半年过去了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "虽然我们"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "但是在這方面方式"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "就是你想怎麼衝"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "想怎麼衝"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "心裡別想 這件事"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "Belv的減少電池水潮"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "帶來青市"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 24,
+      "snippet": "在3小时52分的时候没电 the battery"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "之后我没有给这些手机"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "换了新电池"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "这次剩一o电量"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "分别是45%"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "46%"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "44%"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 3,
+      "snippet": "42%"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 3,
+      "snippet": "24%"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "油四个件"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 3,
+      "snippet": "当你电"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "80%上下降"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 16,
+      "snippet": "对日常使用就很大影响你换一o电池"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "按住这边因为没有公开的电池电池健康数值"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 20,
+      "snippet": "所以我们测试了三部进步了我们的手机的训练"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "他们测试后的剩下了电量为35%"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "335%"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "电量是35%"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "换电池后"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "所以144%"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "143%"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "143%"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 17,
+      "snippet": "基本上相当于多了90分钟的使用时间"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 13,
+      "snippet": "电池损耗会影响手机的性能吗"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "基本不影响"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 18,
+      "snippet": "几他手机换电池的性能并没有明显的差异"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 15,
+      "snippet": "但是电池健康低的手机会提供降频"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "比如这台电池健康"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "2%85%的iPhone"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "电量在11%性能会降低"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "而换完电池后"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "电量到5%才会出现这种现象"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "体现在游戏中"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "就是新电池"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "可以多坚持一会儿在降频"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "说到这里有关实"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "就结束了"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "很多朋友可能会觉得很奇怪"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "小和"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 20,
+      "snippet": "你这个时间不是只用了20部手机半年时间吗"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 18,
+      "snippet": "为什么标题了要写40部手机两年时间呢"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 14,
+      "snippet": "这是因为这个实验我们做了三回"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 17,
+      "snippet": "第一次实验是在2020年的10月份"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 8,
+      "snippet": "那次只有4部手机"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 4,
+      "snippet": "两部快冲"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 4,
+      "snippet": "两部慢冲"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "那个时候我还不知道怎么做自动化"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "所以放电过程"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 10,
+      "snippet": "就是打开游戏挂机放电"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 11,
+      "snippet": "所以在开始的第二次实验"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "这次快冲和慢冲"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "各個买了四部手机"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "加入了安卢组"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 13,
+      "snippet": "并且依靠机械壁典型跑分软件"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "加vifi插作"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "实现了自动出坊电"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 16,
+      "snippet": "从2021年5月31日到8月3日"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 12,
+      "snippet": "一共进行了200多次循环"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 12,
+      "snippet": "但由于有四部手机直接坏掉"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "跑分软件还进上闪退"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "实验我哪有以失败告重"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 10,
+      "snippet": "这才有落的第三次实验"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "有的时候我自己都在想"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "多2022年的"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "真的还有观众关心快冲"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "是否商店值这个话题吗"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 7,
+      "snippet": "我们真的有必要"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 17,
+      "snippet": "在这件事上投入这么多的时间和资源吗"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "每当这个时候我就会想起"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 13,
+      "snippet": "我曾经有一百年那天开了个灯"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "每当这个时候我就会想起"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 13,
+      "snippet": "当我拥有自己的第一部手机时"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 8,
+      "snippet": "我一定要把它的电"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 11,
+      "snippet": "用到20%以下才敢充电"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "充到百分之百才敢拔线"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 12,
+      "snippet": "因为我听说这样叫循环充电"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 8,
+      "snippet": "对手机电只会更好"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 14,
+      "snippet": "当时实 own 用到所有手机"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "都会在更�"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "残缺开场直接落到该换电池与半年过去，用时间流逝承接实验续集感。",
+      "patterns": [
+        "续集时间锚",
+        "换电池结论前置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你就该考虑换电池了",
+          "note": "该考虑换电池了"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "时间过得好快啊",
+          "note": "时间过得好快啊"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "一转眼半年过去了",
+          "note": "一转眼半年过去了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "半年续测剩余电量骤降→换电池续航回升→性能基本不影响但低电降频→实验其实做了三回两年40机。",
+      "patterns": [
+        "续航衰减数据",
+        "换电池增益",
+        "降频边界",
+        "三年三实验幕后"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "剩电45%等数据"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "基本上相当于多了90分钟的使用时间",
+          "note": "多了90分钟"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "基本不影响",
+          "note": "基本不影响性能"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这是因为这个实验我们做了三回",
+          "note": "实验做了三回"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s3",
+            "s15",
+            "s19",
+            "s23"
+          ],
+          "function": "halfyear_result",
+          "note": "半年后续航剩余与换电池建议"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s26",
+            "s29",
+            "s33",
+            "s35",
+            "s40"
+          ],
+          "function": "battery_swap_test",
+          "note": "换电池前后电量与降频点对比"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s50",
+            "s52",
+            "s54",
+            "s60",
+            "s71"
+          ],
+          "function": "three_trials",
+          "note": "解释标题40机两年：三轮实验史"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s73",
+            "s76",
+            "s78",
+            "s82",
+            "s86"
+          ],
+          "function": "motivation_flashback",
+          "note": "自问值不值得与第一部手机充电执念"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "说到这里实验结束→很多朋友会觉得奇怪→这是因为→每当这时我想起。",
+      "patterns": [
+        "实验结束转场",
+        "观众疑问承接",
+        "闪回动机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "说到这里有关实",
+          "note": "说到这里有关实验"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "很多朋友可能会觉得很奇怪",
+          "note": "很多朋友觉得奇怪"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这是因为这个实验我们做了三回",
+          "note": "这是因为做了三回"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "每当这个时候我就会想起",
+          "note": "每当这个时候我就会想起"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "换电池前低剩余 vs 换后近满；健康低机早降频 vs 新电池更晚降频；4机手工 vs 自动化三轮。",
+      "patterns": [
+        "换前换后",
+        "降频阈值",
+        "实验方法进化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "他们测试后的剩下了电量为35%",
+          "note": "测试剩35%"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "所以144%",
+          "note": "换后144%口径"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "电量在11%性能会降低",
+          "note": "11%就降频"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "电量到5%才会出现这种现象",
+          "note": "换完5%才降频"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题为何写40机两年、是否还有人关心快充伤电池、有无必要投入这么多。",
+      "patterns": [
+        "标题质疑",
+        "话题过时自问",
+        "投入必要性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "为什么标题了要写40部手机两年时间呢",
+          "note": "为何标题写40部两年"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "真的还有观众关心快冲",
+          "note": "还有观众关心快充吗"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "我们真的有必要",
+          "note": "有必要投入这么多吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "列出多台剩余百分比、iPhone健康85%降频点、三轮实验年份与坏机闪退。",
+      "patterns": [
+        "多机百分比",
+        "iPhone降频案例",
+        "失败实验细节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "分别是45%"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "2%85%的iPhone",
+          "note": "85%的iPhone"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "第一次实验是在2020年的10月份",
+          "note": "2020年10月第一次"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "但由于有四部手机直接坏掉",
+          "note": "四部手机直接坏掉"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把电池健康抽象指标落到剩余电量百分比、游戏多撑一会儿、90分钟使用时间。",
+      "patterns": [
+        "健康→剩余电量",
+        "降频→游戏体感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "基本上相当于多了90分钟的使用时间",
+          "note": "多了90分钟使用时间"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "可以多坚持一会儿在降频",
+          "note": "新电池多坚持一会儿再降频"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言该换电池、对日常影响大、性能基本不影响。",
+      "patterns": [
+        "换电池断言",
+        "影响大",
+        "性能不影响"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你就该考虑换电池了",
+          "note": "该考虑换电池了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "对日常使用就很大影响你换一o电池",
+          "note": "对日常使用很大影响"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "基本不影响",
+          "note": "基本不影响"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认标题夸大感后解释三轮累计；承认早期不会自动化导致失败。",
+      "patterns": [
+        "标题解释性纠偏",
+        "方法能力自我披露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "你这个时间不是只用了20部手机半年时间吗",
+          "note": "你不是只用了20部半年吗"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这是因为这个实验我们做了三回",
+          "note": "因为做了三回"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "那个时候我还不知道怎么做自动化",
+          "note": "还不知道怎么做自动化"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "数据短句连发百分比→换电池对比中速→幕后故事拉长→情感闪回放慢。",
+      "patterns": [
+        "百分比连发",
+        "对比中速",
+        "幕后拉长",
+        "闪回放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "45%短句"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "基本上相当于多了90分钟的使用时间",
+          "note": "90分钟对比"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "一共进行了200多次循环",
+          "note": "200多次循环"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "当我拥有自己的第一部手机时",
+          "note": "第一部手机闪回"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "说到这里"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "每当这个时候我就会想起"
+        },
+        {
+          "type": "discourse",
+          "form": "所以"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "说到这里有关实",
+          "note": "说到这里有关实"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "每当这个时候我就会想起",
+          "note": "每当这个时候我就会想起"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "每当这个时候我就会想起",
+          "note": "重复每当这个时候"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "时间感慨→数据冷静→解释标题释疑→自我怀疑→童年执念温情。",
+      "patterns": [
+        "感慨→冷静→释疑→怀疑→温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "时间过得好快啊",
+          "note": "时间过得好快"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "基本不影响",
+          "note": "基本不影响冷静"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "是否商店值这个话题吗",
+          "note": "是否还有人关心怀疑"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "当我拥有自己的第一部手机时",
+          "note": "第一部手机温情"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从该换电池结论绕回个人第一部手机错误充电执念，解释为何死磕实验。",
+      "patterns": [
+        "结论→执念动机闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你就该考虑换电池了",
+          "note": "该换电池"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "用到20%以下才敢充电",
+          "note": "用到20%以下才敢充"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "因为我听说这样叫循环充电",
+          "note": "听说这样叫循环充电"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无强关注口令，用自问值不值得与观众共情替代硬CTA。",
+      "patterns": [
+        "共情自问代CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s77",
+          "snippet": "我们真的有必要",
+          "note": "有必要投入这么多吗"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "很多朋友可能会觉得很奇怪",
+          "note": "很多朋友可能会觉得奇怪"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "失败实验坏机闪退、标题数字诚实解释、个人充电迷信闪回，强创作者私史。",
+      "patterns": [
+        "失败披露",
+        "标题诚实解释",
+        "私史闪回"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "但由于有四部手机直接坏掉",
+          "note": "四部手机坏掉"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "实验我哪有以失败告重",
+          "note": "失败告终"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "用到20%以下才敢充电",
+          "note": "20%以下才敢充"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "开场ASR严重残缺；百分比口径前后混乱（144%）；窗口截断结尾不完整。",
+      "patterns": [
+        "开场残缺",
+        "口径混乱",
+        "截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但是在這方面方式",
+          "note": "ASR乱码"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "所以144%",
+          "note": "所以144%口径怪"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "都会在更�",
+          "note": "截断结尾"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开三轮实验迭代：不会自动化→机械臂跑分→仍失败→才有第三次。",
+      "patterns": [
+        "方法迭代公开",
+        "失败原因摊开"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "那个时候我还不知道怎么做自动化",
+          "note": "不知道怎么自动化"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "并且依靠机械壁典型跑分软件",
+          "note": "机械臂跑分"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这才有落的第三次实验",
+          "note": "才有第三次实验"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当被快充焦虑绑架的普通用户，用数据劝你别想太多也可换电池。",
+      "patterns": [
+        "快充焦虑用户",
+        "实用决策伙伴"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "就是你想怎麼衝",
+          "note": "你想怎么充"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "心裡別想 這件事",
+          "note": "心里别想这件事"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "对日常使用就很大影响你换一o电池",
+          "note": "影响大就换电池"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "剩余45%/24%、多90分钟、健康85%机11%降频、2020/2021三轮、200多次循环。",
+      "patterns": [
+        "剩余百分比",
+        "时长增益",
+        "降频阈值",
+        "实验计数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "45%"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "基本上相当于多了90分钟的使用时间",
+          "note": "90分钟"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "电量在11%性能会降低",
+          "note": "11%性能降低"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "一共进行了200多次循环",
+          "note": "200多次循环"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密感慨→数据段高密→性能对比中密→幕后故事中高→情感降密。",
+      "patterns": [
+        "感慨低",
+        "数据高",
+        "幕后中高",
+        "情感降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "时间过得好快啊",
+          "note": "感慨低密"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "数据高密"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "一共进行了200多次循环",
+          "note": "循环次数中高"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "当我拥有自己的第一部手机时",
+          "note": "闪回降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "百分比短句排炮与解释长句交替，后段回忆句变长变软。",
+      "patterns": [
+        "短句排炮",
+        "解释长句",
+        "回忆软句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "分别是45%",
+          "note": "45%短句"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这是因为这个实验我们做了三回",
+          "note": "因为做了三回长解释"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "充到百分之百才敢拔线",
+          "note": "充到百分之百才敢拔线"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "强迫症实验UP主：敢公开失败与自我怀疑，又用私史证明值得。",
+      "patterns": [
+        "公开失败",
+        "自我怀疑后坚定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "实验我哪有以失败告重",
+          "note": "失败告终"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "在这件事上投入这么多的时间和资源吗",
+          "note": "投入这么多吗"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "当我拥有自己的第一部手机时",
+          "note": "第一部手机执念"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "40部手机两年；换电池多90分钟；20%以下才敢充电的执念。",
+      "patterns": [
+        "40机两年",
+        "90分钟",
+        "20%执念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "为什么标题了要写40部手机两年时间呢",
+          "note": "40部两年标题"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "基本上相当于多了90分钟的使用时间",
+          "note": "90分钟"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "用到20%以下才敢充电",
+          "note": "20%以下才敢充"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "长期实验+失败披露+标题数字诚实解释+私史动机，是观宇做硬测评叙事的优质模板。",
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "这是因为这个实验我们做了三回",
+          "note": "三轮实验解释可直接用"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "实验我哪有以失败告重",
+          "note": "失败披露可直接用"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "用到20%以下才敢充电",
+          "note": "私史动机可直接用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s15",
+    "s33",
+    "s35",
+    "s52",
+    "s19",
+    "s23",
+    "s26",
+    "s29",
+    "s40",
+    "s50",
+    "s54",
+    "s60",
+    "s71",
+    "s73",
+    "s76",
+    "s78",
+    "s82",
+    "s86",
+    "s46",
+    "s48",
+    "s79",
+    "s30",
+    "s42",
+    "s51",
+    "s75",
+    "s77",
+    "s39",
+    "s53",
+    "s69",
+    "s45",
+    "s57",
+    "s68",
+    "s81",
+    "s84",
+    "s5",
+    "s89",
+    "s64",
+    "s72",
+    "s6",
+    "s8",
+    "s85"
+  ],
+  "fields_complete_25": true
+}

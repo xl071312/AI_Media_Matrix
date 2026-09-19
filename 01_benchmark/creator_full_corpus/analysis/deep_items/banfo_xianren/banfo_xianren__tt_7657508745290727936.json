@@ -1,0 +1,1167 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7657508745290727936",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7657508745290727936/",
+  "source_sha256": "796a356a5f055ae0551eeefe1386e0574b6c91ea11ee4227cf70a08ab04dd9de",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 70,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 20,
+      "snippet": "图片截取自: 春秋航空，看到这个要做噩梦"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 34,
+      "snippet": "不开玩笑朋友们，我活了这么久，第一次刷电商刷到觉得自己要灵魂出窍了。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 17,
+      "snippet": "我相信春秋航空看了这个也得做噩梦。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "这是2个收纳U形枕枕套。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "注意，不是U型枕。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 44,
+      "snippet": "U形枕这玩意本身就是个很临时的东西，脖子疼的时候你叫它宝宝，落地以后你说你是回避型脖子。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 26,
+      "snippet": "给它备枕芯，基本等于给泡面配海参，给共享单车贴车衣。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 22,
+      "snippet": "因为这玩意不是用来套枕芯的，是用来套行李的。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 20,
+      "snippet": "图片截取自: 春秋航空，看到这个要做噩梦"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 26,
+      "snippet": "平时你叫我U形枕，我不挑你理，到了机场，该叫我什么？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 29,
+      "snippet": "没错，它就是颈椎病检测仪，斜方肌增强器，廉航的漏洞修复包。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 21,
+      "snippet": "什么登机箱，什么压缩袋，都是中产的气氛组。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 19,
+      "snippet": "收纳U形枕套，是春秋航空最可怕的噩梦。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 14,
+      "snippet": "坐春秋航空最大的感受是什么？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "不是便宜。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 36,
+      "snippet": "而是你会突然意识到，原来在航空公司眼里，人类这种生物根本不需要拥有物品。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 20,
+      "snippet": "喜鹊衔枝，松鼠藏果，骆驼都知道储存脂肪。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 25,
+      "snippet": "只有春秋航空觉得你出门多带两条内裤高低得上七宗罪。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 28,
+      "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 20,
+      "snippet": "你去托运，柜台告诉你，不好意思，请加钱。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 18,
+      "snippet": "你说，20寸的小行李箱随身也能带上。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 34,
+      "snippet": "柜台说，不好意思，体积超过20*30*40，重量超过7kg，请加钱。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 13,
+      "snippet": "你说那带多两个包就完事了。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 25,
+      "snippet": "空姐说，不好意思，随身行李只能免费带一件，请加钱。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 35,
+      "snippet": "你面对这个周一围上身一样的柜台，无助得像一个开卷考试却没带书的大学生。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 43,
+      "snippet": "20×30×40的体积限制让你怀疑人生，7公斤的行李限额让你觉得人类好像并不需要内裤。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 26,
+      "snippet": "在春秋航空的算法面前，再强的购物癖也只能学会断舍离。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 23,
+      "snippet": "为了省托运费，很多人开发出了人类肉体的新用途。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 17,
+      "snippet": "有人套六件T恤，像一颗成精的洋葱；"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 18,
+      "snippet": "有人裤子套裤子，走起来像低帧率动画。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 57,
+      "snippet": "有人羽绒服里面塞卫衣，卫衣里面塞衬衫，衬衫里面塞秋衣，远远看上去像一辆不小心在毕业季接了大学城搬家订单的五菱宏光。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 37,
+      "snippet": "在春秋航空面前，你都只有两个选项，要cos断舍离仙人，要么化身人形行李箱。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "但，这个收纳U形枕，来了。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 37,
+      "snippet": "收纳U形枕之于春秋航空，就像蝙蝠侠之于哥谭，鸣人之于木叶村，加班之于社畜。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 25,
+      "snippet": "再看看这两条枕头，我要是春秋航空我都觉得被锁喉了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 20,
+      "snippet": "图片截取自: 春秋航空，看到这个要做噩梦"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 36,
+      "snippet": "这玩意就像一个现实版四次元口袋，麻瓜版无痕伸展咒，哆啦A梦看了都想报警。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 24,
+      "snippet": "夏天，它能吞下一周的换洗衣物，还饶你一条沙滩裤；"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 41,
+      "snippet": "冬天，它能塞进一件薄羽绒服，外加围巾手套暖宝宝，微微鼓起的厚度刚好冒充你的斜方肌。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 58,
+      "snippet": "你可以把洗漱包、化妆包塞，把各种【万一酒店不提供】的旅行装通通塞进去，让屈臣氏和名创优品的外卖业务迎来最残酷的拷打。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 40,
+      "snippet": "只要脖子够硬，你甚至可以在一个U形枕里完成从春装到夏装，从商务到休闲的完整循环。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 56,
+      "snippet": "T恤和羊绒衫可以在U形枕里相遇，沙滩裤和冰凉贴能在同一条拉链里结成伴侣，一根坚硬的液压脖子就能创死所有容量焦虑。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 37,
+      "snippet": "那些行李限额的焦虑，那些值机柜台的博弈，都在一层轻薄化纤的包裹里安详逝去。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 44,
+      "snippet": "就这个装载能力，哆啦A梦看了都觉得次元口袋有点垃圾，好莱坞看了都想找我拍纳尼亚传奇续集。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 13,
+      "snippet": "登机前，它是你柔软的支撑；"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "登机后，它是你旅行的后盾。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 29,
+      "snippet": "关键是，飞行过程中，拉链一开，旅客看了无言，机长看了沉默。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 27,
+      "snippet": "然后大家痛恨飞机上没有网，恨不得立马打开电商开始搜索。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 17,
+      "snippet": "人类对于很多东西，都有天然的信任。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 22,
+      "snippet": "例如一根香蕉，一个棒棒糖，又例如一个U形枕。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 32,
+      "snippet": "行李箱会被查，背包会被称，水会被没收，塑料袋会被怀疑的目光审视。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 17,
+      "snippet": "但没有人会质疑脖子上的一个U形枕。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 32,
+      "snippet": "安检不会检查你的颈椎健康，也不会怀疑你的脖子里装满了一整个夏天。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "他们只能看到一个疲惫的灵魂。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 44,
+      "snippet": "它护送着社畜走过春秋的严查，带着T恤在值机柜台里七进七出，领着洗漱包在行李架下纵横捭阖。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 16,
+      "snippet": "你拖两个箱子，别人以为你要搬家；"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 25,
+      "snippet": "你和朋友一人一个U形枕，一看就是加完班来不及回家。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 23,
+      "snippet": "你背两个背包，公司以为你要挑战春秋航空的底线；"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 27,
+      "snippet": "你脖子上套个U形枕，别人只会觉得你最近项目到了截止线。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 34,
+      "snippet": "你箱子装得好是收纳达人，但U形枕塞满只能看到一个为生活奔波的打工人。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 37,
+      "snippet": "搭配一根亚健康颈椎，空乘看了想给我盖毛毯（还不收钱），机长看了想给我升舱。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 28,
+      "snippet": "谁能想到那根被富贵包祝福过的颈椎上面，扛着小半个优衣库？"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 21,
+      "snippet": "春秋航空缜密的算计，顶不住U型枕轻轻发力。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 28,
+      "snippet": "看着超重的飞机，更高的油耗，春秋航空也得问我有没有头绪。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 10,
+      "snippet": "而我不会告诉他们的。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "这就是，博弈的秘密。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "灵魂出窍刷电商+断言春秋看了做噩梦，再澄清「枕套不是U型枕」翻盘。",
+      "patterns": [
+        "灵魂出窍开场",
+        "春秋噩梦断言",
+        "不是U型枕澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "不开玩笑朋友们，我活了这么久，第一次刷电商刷到觉得自己要灵魂出窍了。",
+          "note": "灵魂出窍"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我相信春秋航空看了这个也得做噩梦。",
+          "note": "做噩梦"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "注意，不是U型枕。",
+          "note": "不是U型枕"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "U枕套实为行李套→春秋行李苛政逼出人形行李箱→枕套四次元装载破限额→安检信任盲区→博弈秘密不告诉春秋。",
+      "patterns": [
+        "行李套身份",
+        "春秋苛政",
+        "四次元装载",
+        "安检盲区",
+        "博弈秘密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为这玩意不是用来套枕芯的，是用来套行李的。",
+          "note": "套行李"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。",
+          "note": "货运公司"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这玩意就像一个现实版四次元口袋，麻瓜版无痕伸展咒，哆啦A梦看了都想报警。",
+          "note": "四次元"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "但没有人会质疑脖子上的一个U形枕。",
+          "note": "无人质疑"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "博弈秘密"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "product_reveal",
+          "note": "噩梦钩子+枕套真相"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "chunqiu_tyranny",
+          "note": "春秋加钱地狱与人形行李箱"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "pocket_capacity",
+          "note": "装载能力炫技"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70"
+          ],
+          "function": "trust_blindspot_close",
+          "note": "信任盲区与博弈秘密收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "数字小标题1-4分章；「但这个收纳U形枕来了」英雄登场转；「关键是」反转。",
+      "patterns": [
+        "数字分章",
+        "英雄登场转",
+        "关键是反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "1",
+          "note": "章1"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但，这个收纳U形枕，来了。",
+          "note": "来了"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "关键是，飞行过程中，拉链一开，旅客看了无言，机长看了沉默。",
+          "note": "关键是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "枕套vs枕芯；登机箱压缩袋气氛组vs枕套噩梦；拖箱像搬家vsU枕像加班狗。",
+      "patterns": [
+        "枕套/枕芯对照",
+        "气氛组/真杀手对照",
+        "搬家/加班狗观感对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意，不是U型枕。",
+          "note": "非枕芯"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "什么登机箱，什么压缩袋，都是中产的气氛组。",
+          "note": "气氛组"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "你拖两个箱子，别人以为你要搬家；",
+          "note": "搬家"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你和朋友一人一个U形枕，一看就是加完班来不及回家。",
+          "note": "加班"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「到了机场该叫我什么」「坐春秋最大感受是什么」自问自答立人设与苛政。",
+      "patterns": [
+        "物自问命名",
+        "最大感受设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "平时你叫我U形枕，我不挑你理，到了机场，该叫我什么？",
+          "note": "该叫我什么"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "坐春秋航空最大的感受是什么？",
+          "note": "最大感受"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "泡面配海参、洋葱六件T恤、五菱宏光搬家、屈臣氏名创拷打、优衣库富贵包等密集喻例。",
+      "patterns": [
+        "错配喻例",
+        "洋葱穿衣例",
+        "五菱搬家喻",
+        "优衣库颈椎喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "给它备枕芯，基本等于给泡面配海参，给共享单车贴车衣。",
+          "note": "泡面海参"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "有人套六件T恤，像一颗成精的洋葱；",
+          "note": "洋葱T恤"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "有人羽绒服里面塞卫衣，卫衣里面塞衬衫，衬衫里面塞秋衣，远远看上去像一辆不小心在毕",
+          "note": "五菱宏光"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "谁能想到那根被富贵包祝福过的颈椎上面，扛着小半个优衣库？",
+          "note": "半个优衣库"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「货运公司」落到体积重量加钱三连对话；「四次元」落到夏冬装载清单。",
+      "patterns": [
+        "货运→加钱对话",
+        "四次元→夏冬清单",
+        "信任→安检不查颈椎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "柜台说，不好意思，体积超过20*30*40，重量超过7kg，请加钱。",
+          "note": "体积重量加钱"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "夏天，它能吞下一周的换洗衣物，还饶你一条沙滩裤；",
+          "note": "夏天装载"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "安检不会检查你的颈椎健康，也不会怀疑你的脖子里装满了一整个夏天。",
+          "note": "不查颈椎"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言春秋噩梦、伪装货运公司、中产气氛组、博弈秘密不告诉他们。",
+      "patterns": [
+        "噩梦断言",
+        "货运公司断言",
+        "气氛组贬断",
+        "秘密拒讲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "收纳U形枕套，是春秋航空最可怕的噩梦。",
+          "note": "最可怕噩梦"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。",
+          "note": "货运公司"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "什么登机箱，什么压缩袋，都是中产的气氛组。",
+          "note": "气氛组"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而我不会告诉他们的。",
+          "note": "不会告诉"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说U形枕临时，再纠正「注意不是U型枕/不是套枕芯是套行李」，完成产品身份纠偏。",
+      "patterns": [
+        "产品身份纠偏",
+        "用途纠正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意，不是U型枕。",
+          "note": "不是U型枕"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "因为这玩意不是用来套枕芯的，是用来套行李的。",
+          "note": "是套行李"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短澄清→苛政对话快打→章节炫技密喻连珠→信任段对仗收→秘密一句煞停。",
+      "patterns": [
+        "短澄清",
+        "对话快打",
+        "密喻连珠",
+        "对仗收",
+        "秘密煞停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意，不是U型枕。",
+          "note": "短澄清"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你去托运，柜台告诉你，不好意思，请加钱。",
+          "note": "对话"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这玩意就像一个现实版四次元口袋，麻瓜版无痕伸展咒，哆啦A梦看了都想报警。",
+          "note": "密喻"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "煞停"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "出窍惊叹→嘲春秋→共情无助→枕套救世主爽感→共谋得意。",
+      "patterns": [
+        "惊叹→嘲讽→无助→爽感→共谋得意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "不开玩笑朋友们，我活了这么久，第一次刷电商刷到觉得自己要灵魂出窍了。",
+          "note": "出窍"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "只有春秋航空觉得你出门多带两条内裤高低得上七宗罪。",
+          "note": "七宗罪嘲"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "你面对这个周一围上身一样的柜台，无助得像一个开卷考试却没带书的大学生。",
+          "note": "无助"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "就这个装载能力，哆啦A梦看了都觉得次元口袋有点垃圾，好莱坞看了都想找我拍纳尼亚传",
+          "note": "次元爽"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而我不会告诉他们的。",
+          "note": "得意"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "春秋缜密算计顶不住U枕→油耗质问→「我不会告诉他们」=博弈秘密闭环。",
+      "patterns": [
+        "算计顶不住",
+        "油耗反问",
+        "秘密闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "春秋航空缜密的算计，顶不住U型枕轻轻发力。",
+          "note": "顶不住"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "看着超重的飞机，更高的油耗，春秋航空也得问我有没有头绪。",
+          "note": "油耗问"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "博弈秘密"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注口令，靠共谋语气「不会告诉他们」邀请读者加入秘密同盟。",
+      "patterns": [
+        "共谋同盟软CTA",
+        "无硬关注"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "而我不会告诉他们的。",
+          "note": "不告诉他们"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "秘密"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "泡面海参、七宗罪内裤、周一围柜台、液压脖子、富贵包祝福等半佛高密度梗。",
+      "patterns": [
+        "错配梗",
+        "七宗罪梗",
+        "周一围梗",
+        "富贵包梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "给它备枕芯，基本等于给泡面配海参，给共享单车贴车衣。",
+          "note": "泡面海参"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "只有春秋航空觉得你出门多带两条内裤高低得上七宗罪。",
+          "note": "七宗罪"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "你面对这个周一围上身一样的柜台，无助得像一个开卷考试却没带书的大学生。",
+          "note": "周一围"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "谁能想到那根被富贵包祝福过的颈椎上面，扛着小半个优衣库？",
+          "note": "富贵包"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片占位与章节数字打断；产品安利喜剧压过信息增量，实用参数较少。",
+      "patterns": [
+        "图片占位",
+        "章节数字打断",
+        "参数少偏段子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 春秋航空，看到这个要做噩梦",
+          "note": "图片占位"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "2",
+          "note": "章节数字"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "这是2个收纳U形枕枕套。",
+          "note": "产品名少参数"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「为何可怕」：不是枕而是破限额工具；再推「无人查U枕」信任机制。",
+      "patterns": [
+        "可怕原因推理",
+        "信任盲区推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为这玩意不是用来套枕芯的，是用来套行李的。",
+          "note": "套行李原因"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "但没有人会质疑脖子上的一个U形枕。",
+          "note": "无人质疑"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当被春秋虐待过的旅客/社畜，拉入对抗廉航的共谋同盟。",
+      "patterns": [
+        "受虐旅客同盟",
+        "社畜共情",
+        "共谋读者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "你面对这个周一围上身一样的柜台，无助得像一个开卷考试却没带书的大学生。",
+          "note": "无助旅客"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你和朋友一人一个U形枕，一看就是加完班来不及回家。",
+          "note": "加班狗"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而我不会告诉他们的。",
+          "note": "共谋"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "20×30×40、7kg、随身一件、夏冬装载清单、春秋航空品牌靶。",
+      "patterns": [
+        "尺寸重量锚",
+        "随身一件锚",
+        "装载清单锚",
+        "品牌靶锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "柜台说，不好意思，体积超过20*30*40，重量超过7kg，请加钱。",
+          "note": "20*30*40"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "空姐说，不好意思，随身行李只能免费带一件，请加钱。",
+          "note": "一件加钱"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "夏天，它能吞下一周的换洗衣物，还饶你一条沙滩裤；",
+          "note": "一周衣物"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我相信春秋航空看了这个也得做噩梦。",
+          "note": "春秋靶"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场观点中密→苛政对话高密→密喻炫技高密偏娱乐→信任对仗中密→秘密低密收。",
+      "patterns": [
+        "观点中",
+        "对话高",
+        "喻高娱",
+        "对仗中",
+        "秘密低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "柜台说，不好意思，体积超过20*30*40，重量超过7kg，请加钱。",
+          "note": "对话密"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "T恤和羊绒衫可以在U形枕里相遇，沙滩裤和冰凉贴能在同一条拉链里结成伴侣，一根坚硬",
+          "note": "喻密"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "你拖两个箱子，别人以为你要搬家；",
+          "note": "对仗"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "低收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "「注意不是」短切；柜台「请加钱」三连排比；拖箱/U枕对仗切断长炫技。",
+      "patterns": [
+        "注意短切",
+        "请加钱排比",
+        "观感对仗切断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意，不是U型枕。",
+          "note": "注意短切"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你去托运，柜台告诉你，不好意思，请加钱。",
+          "note": "加钱"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "你拖两个箱子，别人以为你要搬家；",
+          "note": "对仗左"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你和朋友一人一个U形枕，一看就是加完班来不及回家。",
+          "note": "对仗右"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式电商毒舌：万物皆可梗+廉航仇恨共鸣+共谋安利。",
+      "patterns": [
+        "电商毒舌",
+        "廉航仇恨共鸣",
+        "共谋安利者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "不开玩笑朋友们，我活了这么久，第一次刷电商刷到觉得自己要灵魂出窍了。",
+          "note": "毒舌出窍"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。",
+          "note": "货运仇恨"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "共谋"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「春秋做噩梦」「伪装成航空公司的货运公司」「人形行李箱」「博弈的秘密」。",
+      "patterns": [
+        "做噩梦",
+        "货运公司",
+        "人形行李箱",
+        "博弈秘密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我相信春秋航空看了这个也得做噩梦。",
+          "note": "做噩梦"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。",
+          "note": "货运公司"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "在春秋航空面前，你都只有两个选项，要cos断舍离仙人，要么化身人形行李箱。",
+          "note": "人形行李箱"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这就是，博弈的秘密。",
+          "note": "博弈秘密"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "产品身份纠偏+规则漏洞故事强，但半佛情色/梗密度需降噪后才适合观宇生活向。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "因为这玩意不是用来套枕芯的，是用来套行李的。",
+          "note": "套行李"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我老早就写过了，春秋航空是一家伪装成航空公司的货运公司。",
+          "note": "货运公司定位"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "但没有人会质疑脖子上的一个U形枕。",
+          "note": "信任盲区"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s6",
+    "s9",
+    "s21",
+    "s40",
+    "s56",
+    "s70",
+    "s1",
+    "s2",
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69"
+  ],
+  "fields_complete_25": true
+}

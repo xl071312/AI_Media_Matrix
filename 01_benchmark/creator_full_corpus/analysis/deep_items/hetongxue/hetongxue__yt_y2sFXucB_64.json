@@ -1,0 +1,966 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_y2sFXucB_64",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=y2sFXucB_64",
+  "source_sha256": "756d10a2a1935ebce0ba42b5727c6bdd32549fb5308501567fe449f2d234886c",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 48,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "作为一个数码国主"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "我非常幸运的"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "天过很多数乎满"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "最新一年"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "浮动了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "我倒了"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "但我倒了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "但, 但我倒了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "但, 但我倒"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 25,
+      "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 31,
+      "snippet": "但,但, 但, 但, 但, 但, 但, 但, 但, 但, 但,"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 14,
+      "snippet": "但, 但, 但, 但, 但,"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 15,
+      "snippet": "Em, Em, Em, Em,"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "是 平几 画面 画面"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "但是ed 画面"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 1,
+      "snippet": "d"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 1,
+      "snippet": "d"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "d 画面"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 2,
+      "snippet": "so"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "在做AirPods"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 3,
+      "snippet": "蛤蟀的"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "我視頻裡最有意思的部分"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "我推移我逐渐陷入了一种混性"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "我推移我逐渐陷入一种混性"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "我推移我逐渐陷入一种混性"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "我推移我逐渐陷入一种混性"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "我推移我逐渐陷入一种混性"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "我推移我逐渐"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "我推移我逐渐�"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「作为一个数码博主」幸运开场，随即「但我倒了」转折预告最爱产品有遗憾（ASR严重噪声）。",
+      "patterns": [
+        "数码博主自述",
+        "但我倒了转折"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "数码国主自述"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但我倒了",
+          "note": "但我倒了复沓"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "幸运玩过很多数码→转折但我倒了→画面段占位→AirPods相关最有意思→陷入某种惯性/混性复读→尾崩。",
+      "patterns": [
+        "幸运清单",
+        "转折遗憾",
+        "AirPods段落",
+        "混性复读崩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "数码博主"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "在做AirPods"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "陷入一种混性"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "hook_turn",
+          "note": "数码幸运开场与但我倒了转折"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "visual_placeholder",
+          "note": "画面占位与d循环噪声段"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "airpods_obsession",
+          "note": "AirPods段落与混性复读尾"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但」字高频转折；「在做AirPods」话题跳入；缺乏清晰因果连接词（ASR损）。",
+      "patterns": [
+        "但字高频转",
+        "AirPods话题跳入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "但, 但我倒了",
+          "note": "但复沓"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "在做AirPods"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "幸运玩过很多 vs 但我倒了遗憾；最有意思的部分 vs 陷入混性失控。",
+      "patterns": [
+        "幸运/遗憾对打",
+        "有意思/混性对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我非常幸运的",
+          "note": "非常幸运"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我視頻裡最有意思的部分",
+          "note": "最有意思的部分"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "陷入混性"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "可见窗口几乎无完整问句，标题隐含「但是…」悬念，正文问法被ASR吞没。",
+      "patterns": [
+        "标题悬念代问",
+        "正文问句缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了代悬念"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但我倒了",
+          "note": "复沓强化悬念"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "仅残存「AirPods」产品锚与「画面」拍摄提示，具体产品故事被噪声覆盖。",
+      "patterns": [
+        "AirPods残例",
+        "画面拍摄提示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "AirPods"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是 平几 画面 画面",
+          "note": "平几画面"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "但是ed 画面",
+          "note": "但是ed画面"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「最喜欢的数码产品」抽象题面仅落到AirPods残片与混性感受，具体功能点缺失。",
+      "patterns": [
+        "最爱→AirPods残片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "AirPods"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我視頻裡最有意思的部分",
+          "note": "最有意思的部分"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性感受"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「非常幸运」自评；「最有意思」价值断；「陷入混性」状态断（信息稀薄）。",
+      "patterns": [
+        "幸运自评",
+        "最有意思断",
+        "混性状态断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我非常幸运的",
+          "note": "非常幸运"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我視頻裡最有意思的部分",
+          "note": "最有意思"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "陷入混性"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「但我倒了」相对幸运开场的自我转折；其后「但」复沓像修复失败的口误环。",
+      "patterns": [
+        "幸运→倒了转折",
+        "但字修复失败环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但字死循环"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短开场→但字加速复沓→画面d循环机械节拍→AirPods短暂可读→混性复读失速。",
+      "patterns": [
+        "但字加速复沓",
+        "d循环机械节拍",
+        "混性复读失速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但加速"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "d 画面",
+          "note": "d画面循环"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性复读"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repeat_loop",
+          "form": "但×多"
+        },
+        {
+          "type": "filler",
+          "form": "Em×多"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "d 画面×多"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "陷入一种混性×多"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但循环"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "Em, Em, Em, Em,",
+          "note": "Em循环"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "d 画面",
+          "note": "d画面循环"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性复读"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "幸运轻快→倒了受挫→噪声麻木→AirPods短暂兴趣→混性失控。",
+      "patterns": [
+        "幸运轻快",
+        "倒了受挫",
+        "混性失控"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我非常幸运的",
+          "note": "幸运"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "倒了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题「最喜欢…但是」与「但我倒了」呼应，但尾段混性复读未完成产品结论闭环。",
+      "patterns": [
+        "但是悬念未闭环",
+        "混性阻断收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "我推移我逐渐�",
+          "note": "逐渐残句"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无可见关注/三连CTA，叙事未抵达行动召唤。",
+      "patterns": [
+        "无可见CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "我視頻裡最有意思的部分",
+          "note": "最有意思未转CTA"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "我推移我逐渐�",
+          "note": "尾残无CTA"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "极端复沓与画面占位是口播/剪辑转写特征，绝非平滑AI长文。",
+      "patterns": [
+        "但字死循环",
+        "画面占位",
+        "Em填充"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但死循环"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "Em, Em, Em, Em,",
+          "note": "Em"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "d 画面",
+          "note": "d画面"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR几乎不可用；主体产品故事缺失；超长无信息循环；无法支撑完整论证迁移。",
+      "patterns": [
+        "ASR几乎不可用",
+        "产品故事缺失",
+        "无信息循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但循环无信息"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "d 画面",
+          "note": "d画面无信息"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我推移我逐渐陷入一种混性",
+          "note": "混性复读无推进"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "仅隐约露出「幸运清单→转折遗憾→拍AirPods时陷入某种状态」的碎片思维。",
+      "patterns": [
+        "幸运到遗憾碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我非常幸运的",
+          "note": "幸运"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "转折"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "陷入状态"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认数码观众，用博主身份共谋，但噪声导致定位信号弱。",
+      "patterns": [
+        "数码观众默契位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "数码博主对观众"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我視頻裡最有意思的部分",
+          "note": "视频里最有意思"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "AirPods是唯一清晰产品锚；其余「画面」「但」「混性」为弱锚。",
+      "patterns": [
+        "AirPods锚",
+        "画面弱锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "AirPods"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是 平几 画面 画面",
+          "note": "画面"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场短暂中密→长段近零密循环→AirPods短暂回升→混性再降为零。",
+      "patterns": [
+        "开场中密",
+        "长段零密",
+        "短暂回升再降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "开场中密"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "d 画面",
+          "note": "零密"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "短暂回升"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "我推移我逐渐陷入一种混性",
+          "note": "再降零"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短自述后进入机械重复句，流动被循环切断，几乎无长短交替设计可读。",
+      "patterns": [
+        "机械重复破流",
+        "可读段极短"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "短自述"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "机械重复"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "复读破流"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式个人体验叙事者轮廓仍在，但本转写下性格细节被噪声淹没。",
+      "patterns": [
+        "体验叙事轮廓残存"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "作为一个数码国主",
+          "note": "数码博主人设"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "陷入状态自白"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "但我倒了、AirPods、陷入一种混性（弱记忆点因噪声）。",
+      "patterns": [
+        "但我倒了",
+        "AirPods",
+        "混性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我倒了",
+          "note": "但我倒了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "在做AirPods",
+          "note": "AirPods"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "我推移我逐渐陷入了一种混性",
+          "note": "混性"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "标题钩子「最爱但是…」可参考，但正文ASR崩坏到不可分析产品逻辑，无法迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但, 但, 但, 但, 但, 但, 但, 但, 但",
+          "note": "但循环不可用"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "d 画面",
+          "note": "画面循环"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我推移我逐渐陷入一种混性",
+          "note": "混性复读"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s6",
+    "s7",
+    "s39",
+    "s42",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48"
+  ],
+  "fields_complete_25": true
+}

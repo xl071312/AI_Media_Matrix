@@ -1,0 +1,2802 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_u4HduR9I--I",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=u4HduR9I--I",
+  "source_sha256": "e80a1e5ddb74c80aa2d98a30c8b2b08983e4034f44bb53fd190ec5d57dd8a7f1",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 382,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 14,
+      "snippet": "就是2018年1月份的何同學"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "一個19歲的大一學生"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "嘴裡叼著一個運動相機"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "在宿舍的洗手間里自拍"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "我之所以在回看這段素材"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "是因為輔導員問我"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "能不能回學校做個演講"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "分享一下自己的大學生活"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "當時剛買了這個第一人稱"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "拍攝套件的我非常激動"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "每天都要叼著相機到處走"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "但是這可不是尋常的一天"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 9,
+      "snippet": "這是非常特殊的一天"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "因為就在這天"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "我對象"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "沒想到吧"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "你們小何是有女朋友的"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "和我分手了"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 15,
+      "snippet": "我現在已經想不起來為什麼要分了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "但是回看這段錄像的時候"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "我意識到我是一個十九歲的大一學生"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "嘴裡叼著一個運動相機"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "在宿舍的洗手間里自拍"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "長得還像個初中生"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "能找到對象已經是個奇跡了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "我真的很喜歡她"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "所以坐了很長時間的車"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "到她學校樓下"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "看看有沒有當面聊聊的機會"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "但她是鐵了心要分"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "並不想來見我"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "所以我就坐在這個長椅上"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "一邊沈浸在悲傷的氣氛里"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "看著全是噪點的天空發呆"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "一邊看起了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "《中國近代史綱要》"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 4,
+      "snippet": "沒有辦法"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "第二天還有期末考試"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "坐到宿舍快要關門了"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "她還是不肯下來見我"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "我只好回去"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "想著不用擔心"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "我們經常吵架"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "說不定過一陣就復合了"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 3,
+      "snippet": "走之前"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 15,
+      "snippet": "我還把給她帶的禮物留在了長椅上"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "希望她會下來拿"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 15,
+      "snippet": "路上看到很多情侶在宿舍樓下吻別"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "真是夠磨嘰的"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 13,
+      "snippet": "而且這麼晚回去就只能打車了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "之後"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "我就回到了我的母校"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "中央戲劇學院"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 13,
+      "snippet": "旁邊的北京郵電大學宏福校區"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "雖然看著有些舊"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 13,
+      "snippet": "但這裡是我在北京的第一個家"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "就是我的好捨友阿範"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 12,
+      "snippet": "在瞭解了我的重大打擊之後"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "阿範和我進城玩了一天"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 3,
+      "snippet": "所謂玩"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 13,
+      "snippet": "其實就是在城裡的大街上瞎晃"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 6,
+      "snippet": "但現在想起來"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "也是很放鬆的一天"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 5,
+      "snippet": "謝謝你阿範"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 15,
+      "snippet": "那時D850是尼康剛推出的單反"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 16,
+      "snippet": "iPhone X是蘋果最新的手機"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 2,
+      "snippet": "之後"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "我們就告別了宏福校區"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "搬家來到了新校區"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "就是剛搬到這裡時的我"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 2,
+      "snippet": "迷茫"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 2,
+      "snippet": "心碎"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 11,
+      "snippet": "每天聽著悲傷的歌曲入睡"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "那時的我肯定不會想到"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 3,
+      "snippet": "五年後"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "我會開心地回到這裡"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 9,
+      "snippet": "大家之所以會認識我"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "是因為我做過很多視頻"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 14,
+      "snippet": "而我真正開始認真做視頻的時候"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 12,
+      "snippet": "其實就是我18年的1月份"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 14,
+      "snippet": "剛搬到我們沙河校區的那段時間"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 17,
+      "snippet": "那時的我已經在網上發了一些自制視頻"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 9,
+      "snippet": "比如體驗盲人的生活"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "簡單的後期教程"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 19,
+      "snippet": "我甚至拍過一個去知乎總部參觀的Vlog"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 13,
+      "snippet": "那時的我還是非常喜歡知乎的"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 6,
+      "snippet": "不過遺憾的是"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 11,
+      "snippet": "這些視頻並沒有什麼人看"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 13,
+      "snippet": "到了2018年的1月31日"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "我的賬號只有500個粉絲"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 18,
+      "snippet": "我意識到我得開始做最有流量的數碼視頻"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 4,
+      "snippet": "產品評測"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 7,
+      "snippet": "這類視頻的內容"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "其實就是在新的手機"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 8,
+      "snippet": "筆記本上市的時候"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 12,
+      "snippet": "分享一下產品的體驗和性能"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 4,
+      "snippet": "好消息是"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 15,
+      "snippet": "我從小就是看各種產品評測長大的"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "高中時每天偷偷刷IT之家"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 9,
+      "snippet": "在這方面有一些積累"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 4,
+      "snippet": "壞消息是"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 2,
+      "snippet": "沒錢"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "新的數碼產品動輒五六千"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 8,
+      "snippet": "於是我想了個辦法"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 6,
+      "snippet": "不做新品評測"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 12,
+      "snippet": "而是給那些老的產品做視頻"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 15,
+      "snippet": "這些產品可以用很便宜的價格買到"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 13,
+      "snippet": "而且相比於前途未卜的新產品"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 18,
+      "snippet": "這些塵埃落定的老產品上沈澱了更多故事"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 5,
+      "snippet": "沒課的時候"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 22,
+      "snippet": "我就會去圖書館這個我最喜歡的角落寫視頻的稿子"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 15,
+      "snippet": "但很可能一下午一個字都憋不出來"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 13,
+      "snippet": "這時候我就會看看窗外的風景"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 5,
+      "snippet": "稿子寫完後"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 15,
+      "snippet": "學校里並沒有適合我拍產品的地方"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 7,
+      "snippet": "所以我會坐高鐵"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 9,
+      "snippet": "回山西太原的家裡拍"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 9,
+      "snippet": "一般是週五下課回去"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 15,
+      "snippet": "週六在家緊趕慢趕一天把素材拍完"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 8,
+      "snippet": "周日下午再回學校"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 9,
+      "snippet": "從18年的夏天開始"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 9,
+      "snippet": "這條路我走了太多回"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 3,
+      "snippet": "可以說"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 12,
+      "snippet": "我大多數有關做視頻的知識"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 12,
+      "snippet": "都是在十九歲的夏天學會的"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 11,
+      "snippet": "這就是視頻的全部內容了"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 10,
+      "snippet": "非常感謝你能看到這裡"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 11,
+      "snippet": "如果你覺得做得不錯的話"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 6,
+      "snippet": "求贊 求收藏"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 7,
+      "snippet": "求評論 求轉發"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 13,
+      "snippet": "最重要的是點一個大大的關注"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 16,
+      "snippet": "各位的支持就是我做視頻的最大動力"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 9,
+      "snippet": "我和我的好捨友阿範"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 11,
+      "snippet": "在取完快遞回宿舍的路上"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 7,
+      "snippet": "我跟他開玩笑說"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 13,
+      "snippet": "我將來要當粉絲最多的UP主"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 8,
+      "snippet": "我的好捨友跟我說"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 6,
+      "snippet": "沒有問題小何"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 15,
+      "snippet": "你還可以買一份粉絲最多的關東煮"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 13,
+      "snippet": "那年夏天的數碼圈有一件大事"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 8,
+      "snippet": "羅永浩的錘子科技"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 20,
+      "snippet": "要在鳥巢舉辦有史以來規模最大的產品發佈會"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 10,
+      "snippet": "發佈一款革命性的產品"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 7,
+      "snippet": "我和朋友買了票"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 9,
+      "snippet": "去現場看了這場盛會"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 13,
+      "snippet": "我當時甚至專門做了一個視頻"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 10,
+      "snippet": "回顧錘子的第一台手機"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 7,
+      "snippet": "視頻發佈的當晚"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 10,
+      "snippet": "我的粉絲數達到了1萬"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 7,
+      "snippet": "謝謝你錘子科技"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 10,
+      "snippet": "那也是我第一次用肉眼"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 11,
+      "snippet": "見到只在屏幕里見過的人"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 8,
+      "snippet": "雖然離得很遠很遠"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 10,
+      "snippet": "但感覺還是非常神奇的"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 7,
+      "snippet": "從那個夏天開始"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 9,
+      "snippet": "我就一直在做視頻了"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 10,
+      "snippet": "18年暑假結束的時候"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 7,
+      "snippet": "我有了兩萬粉絲"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 10,
+      "snippet": "開始正式做新品的評測"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 10,
+      "snippet": "到了18年年底的時候"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 11,
+      "snippet": "這個數字變成了6.5萬"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 8,
+      "snippet": "然後在這個過程中"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 14,
+      "snippet": "有一個小故事我很想和大家分享"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 11,
+      "snippet": "在2018年的10月份"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 13,
+      "snippet": "我想給一個睡眠耳塞做個視頻"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 10,
+      "snippet": "這個耳塞有多難用呢？"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 6,
+      "snippet": "當時的我寫到"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 7,
+      "snippet": "在使用了一周後"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 9,
+      "snippet": "我今天六點就起了床"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 7,
+      "snippet": "馬上買了火車票"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 10,
+      "snippet": "走了半小時路到地鐵站"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 9,
+      "snippet": "倒四次地鐵到火車站"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 10,
+      "snippet": "再坐三個小時火車到家"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 4,
+      "snippet": "就是為了"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 6,
+      "snippet": "能好好睡一覺"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 13,
+      "snippet": "再做個視頻吐槽一下這款產品"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 11,
+      "snippet": "但就在我回家的那天上午"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 8,
+      "snippet": "一個我每期都看的"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 11,
+      "snippet": "叫TESTV的數碼頻道"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 13,
+      "snippet": "發了一期這個產品的體驗視頻"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 9,
+      "snippet": "當時我整個人就傻了"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 14,
+      "snippet": "因為他們的粉絲量是我的五十倍"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 4,
+      "snippet": "好在那時"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 19,
+      "snippet": "我還在體驗一個叫iPad Pro的產品"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 14,
+      "snippet": "所以我在回家的車上趕快寫稿子"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 7,
+      "snippet": "然後到家趕緊拍"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 13,
+      "snippet": "差不多十天後把視頻發了出來"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 9,
+      "snippet": "但非常意想不到的是"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 10,
+      "snippet": "這卻成為了我頻道當時"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 8,
+      "snippet": "最成功的一期視頻"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 8,
+      "snippet": "而更巧的事情就是"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 12,
+      "snippet": "在我發完這個視頻的第二天"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 5,
+      "snippet": "TESTV"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 16,
+      "snippet": "就發了他們的iPad Pro視頻"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 10,
+      "snippet": "所以說對於做視頻來說"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 14,
+      "snippet": "速度真的還是挺重要的一件事情"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 15,
+      "snippet": "現在的我幾乎已經忘記了這個道理"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 5,
+      "snippet": "而很巧的是"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 18,
+      "snippet": "有個我喜歡了很久的博主看到了這個視頻"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 11,
+      "snippet": "還邀請我去他們公司看看"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 9,
+      "snippet": "事情在變得越來越好"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 15,
+      "snippet": "我做了一個HomePod的視頻"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 7,
+      "snippet": "漲到了10萬粉"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 16,
+      "snippet": "做了一個每天只用半小時手機的視頻"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 9,
+      "snippet": "上了科技區的排行榜"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 17,
+      "snippet": "又做了一個AirPods的體驗視頻"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 5,
+      "snippet": "有兩萬轉發"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 19,
+      "snippet": "五月份的時候我的關注數漲到了25.6萬"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 3,
+      "snippet": "慢慢地"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 11,
+      "snippet": "大家不再叫我“何世傑”"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 9,
+      "snippet": "而是叫我“何同學”"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 9,
+      "snippet": "在我們宿舍樓的盡頭"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 6,
+      "snippet": "有一個自習室"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 16,
+      "snippet": "如果你想通宵學習的話就可以去那裡"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 18,
+      "snippet": "那時的我會先發一條明天更新視頻的預告"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 15,
+      "snippet": "然後去這個自習室通宵把視頻剪完"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 12,
+      "snippet": "最後一個我在這裡剪的視頻"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 6,
+      "snippet": "叫“有多快？"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 14,
+      "snippet": "5G在日常生活中的真實體驗”"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 8,
+      "snippet": "在視頻剪完的時候"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 7,
+      "snippet": "天已經蒙蒙亮了"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 10,
+      "snippet": "那時的我只是覺得很累"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 12,
+      "snippet": "而且還有一些鏡頭需要補拍"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 10,
+      "snippet": "並沒有意識到這期視頻"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 14,
+      "snippet": "會對我的人生造成什麼樣的影響"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 3,
+      "snippet": "說實話"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 5,
+      "snippet": "可能到現在"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 9,
+      "snippet": "我也沒有完全意識到"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 19,
+      "snippet": "現在有一種說法是說你是5G的唯一受益人"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 6,
+      "snippet": "你對此怎麼看"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 9,
+      "snippet": "你認不認可這種說法"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 13,
+      "snippet": "我能理解這種表述背後的含義"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 2,
+      "snippet": "因為"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 14,
+      "snippet": "我確實因為5G這個視頻而受益"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 18,
+      "snippet": "發那個視頻的時候是2019年的6月份"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 19,
+      "snippet": "那個時候我剛剛因為做了一些產品體驗視頻"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 8,
+      "snippet": "而受到了一些關注"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 8,
+      "snippet": "第一次被大V轉發"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 16,
+      "snippet": "第一次見到只在屏幕裡面見過的博主"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 15,
+      "snippet": "第一次（受邀）參加廠商的發佈會"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 15,
+      "snippet": "很多美好的回憶都發生在那個時候"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 7,
+      "snippet": "當時我只是感覺"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 13,
+      "snippet": "一扇叫做“數碼博主”的大門"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 8,
+      "snippet": "在緩緩地向我打開"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 10,
+      "snippet": "然後這個門背後的世界"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 8,
+      "snippet": "既陌生又讓人嚮往"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 11,
+      "snippet": "完全沒有想到一個星期後"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 14,
+      "snippet": "“老師好我叫何同學”就會成為"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 14,
+      "snippet": "整個數碼世界最出名的賬號之一"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 9,
+      "snippet": "然後在那個視頻過後"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 12,
+      "snippet": "我確實覺得我們的視頻質量"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 9,
+      "snippet": "那個時候還沒有我們"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 8,
+      "snippet": "就是我的視頻質量"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 4,
+      "snippet": "很難匹配"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 7,
+      "snippet": "這麼大的關注度"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 6,
+      "snippet": "和觀眾的期待"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 12,
+      "snippet": "所以說努力提升視頻的質量"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 12,
+      "snippet": "降低了這個視頻的更新頻率"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 7,
+      "snippet": "一路就到了現在"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 11,
+      "snippet": "一路上確實也翻了不少車"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 16,
+      "snippet": "但是也做了不少我們為之驕傲的視頻"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 15,
+      "snippet": "只能說我現在還在這條道路上努力"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 5,
+      "snippet": "努力工作著"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 7,
+      "snippet": "但是我還是覺得"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 20,
+      "snippet": "5G對於我們整個社會的幫助其實是非常大的"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 13,
+      "snippet": "因為工信部我記得有一個數據"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 2,
+      "snippet": "之後"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 9,
+      "snippet": "就又到了離別的時刻"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 11,
+      "snippet": "我們學校一共有三個校區"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 7,
+      "snippet": "我們要再從這裡"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 8,
+      "snippet": "搬到城裡的老校區"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 9,
+      "snippet": "那時我正在拍一期叫"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 19,
+      "snippet": "《漲粉百萬後我的生活有什麼變化》的視頻"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 17,
+      "snippet": "我特別想拍到人走到教學樓的天台外面"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 11,
+      "snippet": "看到藍天豁然開朗的鏡頭"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 14,
+      "snippet": "這裡是整個學校風景最好的地方"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 9,
+      "snippet": "當時的我拍了一下午"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 9,
+      "snippet": "回去才發現全過曝了"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 6,
+      "snippet": "那個視頻裡面"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 18,
+      "snippet": "還有一段形容兩個世界交匯到一起的鏡頭"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 20,
+      "snippet": "就是在圖書館三樓那個我寫稿子的地方拍攝的"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 8,
+      "snippet": "拍這個鏡頭的時候"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 11,
+      "snippet": "其實就是我在這個校區的"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 7,
+      "snippet": "最後一個夜晚了"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 11,
+      "snippet": "我和阿範在那裡拍了很久"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 14,
+      "snippet": "並沒有拍到一個特別滿意的鏡頭"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 13,
+      "snippet": "但是圖書館關門的音樂響起了"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 15,
+      "snippet": "我們只好趕快把東西收拾好回宿舍"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 11,
+      "snippet": "不知道什麼時候才能回來"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 5,
+      "snippet": "謝謝你阿範"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 11,
+      "snippet": "最後一天還在幫我拍視頻"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 15,
+      "snippet": "然後我們就得收拾東西離開這裡了"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 9,
+      "snippet": "快走到校門口的時候"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 5,
+      "snippet": "我有點想哭"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 11,
+      "snippet": "雖然那時離畢業還有很久"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 14,
+      "snippet": "但是我隱隱約約感覺離開這裡後"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 8,
+      "snippet": "一切都會不一樣了"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 8,
+      "snippet": "現在看來確實如此"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 13,
+      "snippet": "現在我還是會每天刷IT之家"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 17,
+      "snippet": "只是看評論的時候經常有種背刺的體驗"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 4,
+      "snippet": "這倒沒啥"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 9,
+      "snippet": "我還是愛之家老哥的"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 9,
+      "snippet": "還有就是我們視頻里"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 9,
+      "snippet": "總會有人發賽博丁真"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 5,
+      "snippet": "這倒也沒啥"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 6,
+      "snippet": "大家高興就好"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 14,
+      "snippet": "但我還記得有一次我剛錄完節目"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 5,
+      "snippet": "準備回酒店"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 7,
+      "snippet": "往常回去的路上"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 15,
+      "snippet": "我同事會跟我復盤一下今天的表現"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 11,
+      "snippet": "說我話說得不夠多之類的"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 8,
+      "snippet": "但這次車上很安靜"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 8,
+      "snippet": "只告訴我別看手機"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 7,
+      "snippet": "我偷偷看了一下"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 8,
+      "snippet": "有人給我發消息說"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 3,
+      "snippet": "相信你"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 6,
+      "snippet": "後來我才知道"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 11,
+      "snippet": "那天晚上是有人在豆瓣上"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 10,
+      "snippet": "發了一些有關我的爆料"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 11,
+      "snippet": "衝上了微博娛樂熱搜榜一"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 12,
+      "snippet": "我認真看了看爆料里的內容"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 11,
+      "snippet": "沒有一個標點符號是真的"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 11,
+      "snippet": "再一次回到圖書館的三樓"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 7,
+      "snippet": "其實就是今天了"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 11,
+      "snippet": "這裡的一切還是那麼熟悉"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 11,
+      "snippet": "很難想象上一次來到這裡"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 6,
+      "snippet": "還是在五年前"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 3,
+      "snippet": "五年後"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 9,
+      "snippet": "很多事情都有了結局"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 7,
+      "snippet": "我和她沒有復合"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 10,
+      "snippet": "事實上從那天晚上開始"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 10,
+      "snippet": "我就再也沒有見過她了"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 9,
+      "snippet": "知道她有了男朋友時"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 6,
+      "snippet": "我哭了一晚上"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 18,
+      "snippet": "那天在鳥巢發佈的是一個徹底失敗的產品"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 15,
+      "snippet": "錘子科技在債台高築後走向了沒落"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 10,
+      "snippet": "羅永浩開始上綜藝節目"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 10,
+      "snippet": "我和他坐過同一個座位"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 10,
+      "snippet": "畢業後阿範出國讀書了"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 8,
+      "snippet": "我再也沒有見過他"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 11,
+      "snippet": "但是當我打開他的朋友圈"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 12,
+      "snippet": "第一條是他喜歡的女團的歌"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 12,
+      "snippet": "再往下划就是那期5G視頻"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 6,
+      "snippet": "我真的很想他"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 13,
+      "snippet": "我真的成了千萬粉絲的UP主"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 10,
+      "snippet": "我真的過上了十九歲時"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 7,
+      "snippet": "夢寐以求的日子"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 14,
+      "snippet": "我還是在努力做著我喜歡的視頻"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 4,
+      "snippet": "只是一切"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 11,
+      "snippet": "再也不像從前那樣簡單了"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 8,
+      "snippet": "可能這就是生活吧"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 6,
+      "snippet": "但是這次回來"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 7,
+      "snippet": "還是彌補了一個"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 6,
+      "snippet": "五年前的遺憾"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 6,
+      "snippet": "但是站在這裡"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 5,
+      "snippet": "朝遠處望去"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 11,
+      "snippet": "遠方的天空還是那麼湛藍"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 8,
+      "snippet": "落日還是那麼美麗"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 13,
+      "snippet": "跟五年前相比並沒有什麼不同"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 12,
+      "snippet": "就好像我現在就可以回宿舍"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 8,
+      "snippet": "和阿範出去看電影"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 16,
+      "snippet": "就像我一會還可以去圖書館坐一下午"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 9,
+      "snippet": "想想新視頻該做什麼"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 14,
+      "snippet": "就像我還會在手機響時心頭一緊"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 11,
+      "snippet": "忐忑是不是她發來了消息"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 8,
+      "snippet": "就像我最大的煩惱"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 9,
+      "snippet": "還是明天的實驗報告"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 10,
+      "snippet": "和一個月後的期末考試"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 6,
+      "snippet": "而幸福的含義"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 12,
+      "snippet": "不會超過週末的一個披薩餅"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 15,
+      "snippet": "就像我還是那個十九歲的大一學生"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 12,
+      "snippet": "我的大學的生活才剛剛開始"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 8,
+      "snippet": "未來是那麼的模糊"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 8,
+      "snippet": "又那麼的讓人期待"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 9,
+      "snippet": "就好像我真的回到了"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 8,
+      "snippet": "2018年的夏天"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "定格2018年1月叼运动相机自拍的19岁自己，因辅导员邀演讲而回看素材。",
+      "patterns": [
+        "旧素材定格开场",
+        "演讲邀约动机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是2018年1月份的何同學",
+          "note": "2018何同学"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "一個19歲的大一學生",
+          "note": "19岁大一"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "能不能回學校做個演講",
+          "note": "回学校演讲"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "回看分手日→长椅近代史→创作起步与速度竞赛→成长变复杂→回校弥补遗憾→仿佛回到2018夏天。",
+      "patterns": [
+        "分手叙事",
+        "创作速度",
+        "成长代价",
+        "夏天闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "和我分手了",
+          "note": "分手"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "《中國近代史綱要》",
+          "note": "近代史纲要"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "速度真的還是挺重要的一件事情",
+          "note": "速度重要"
+        },
+        {
+          "sentence_id": "s356",
+          "snippet": "再也不像從前那樣簡單了",
+          "note": "不再简单"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "2018夏天"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "breakup_day",
+          "note": "19岁分手日长椅等待与近代史"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s172",
+            "s173",
+            "s174",
+            "s175",
+            "s176",
+            "s177",
+            "s178",
+            "s179",
+            "s180",
+            "s181",
+            "s182",
+            "s183",
+            "s184",
+            "s185",
+            "s186",
+            "s187",
+            "s188",
+            "s189",
+            "s190",
+            "s191",
+            "s192",
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211"
+          ],
+          "function": "creator_speed",
+          "note": "吐槽耳塞与TESTV竞速涨粉"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s353",
+            "s354",
+            "s355",
+            "s356",
+            "s357",
+            "s358",
+            "s359",
+            "s360",
+            "s361",
+            "s362",
+            "s363",
+            "s364",
+            "s365",
+            "s366",
+            "s367",
+            "s368",
+            "s369",
+            "s370",
+            "s371",
+            "s372",
+            "s373",
+            "s374",
+            "s375",
+            "s376",
+            "s377",
+            "s378",
+            "s379",
+            "s380",
+            "s381",
+            "s382"
+          ],
+          "function": "return_summer_close",
+          "note": "回校弥补遗憾与回到2018夏天想象"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我之所以回看」「没想到吧」「但就在…」「所以说对于做视频」「但是这次回来」。",
+      "patterns": [
+        "回看动机转",
+        "没想到吧",
+        "但就在转折",
+        "所以说总结"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我之所以在回看這段素材",
+          "note": "之所以回看"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "沒想到吧",
+          "note": "没想到吧"
+        },
+        {
+          "sentence_id": "s183",
+          "snippet": "但就在我回家的那天上午",
+          "note": "但就在"
+        },
+        {
+          "sentence_id": "s201",
+          "snippet": "所以說對於做視頻來說",
+          "note": "所以说"
+        },
+        {
+          "sentence_id": "s358",
+          "snippet": "但是這次回來",
+          "note": "但是这次回来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "激动叼相机日常vs分手特殊日；粉丝五十倍大频道vs自己；从前简单vs现在复杂。",
+      "patterns": [
+        "日常/特殊日",
+        "体量差距",
+        "简单/复杂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "但是這可不是尋常的一天",
+          "note": "不寻常"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "這是非常特殊的一天",
+          "note": "特殊"
+        },
+        {
+          "sentence_id": "s188",
+          "snippet": "因為他們的粉絲量是我的五十倍",
+          "note": "五十倍"
+        },
+        {
+          "sentence_id": "s355",
+          "snippet": "只是一切",
+          "note": "一切"
+        },
+        {
+          "sentence_id": "s356",
+          "snippet": "再也不像從前那樣簡單了",
+          "note": "不再简单"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "少用疑问句推动；「这个耳塞有多难用呢」叙事设问引出远距离吐槽行动。",
+      "patterns": [
+        "难用程度设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s172",
+          "snippet": "這個耳塞有多難用呢？",
+          "note": "有多难用"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "楼下长椅送礼物；四次地铁三小时火车只为睡好觉吐槽；HomePod与半小时手机视频涨粉。",
+      "patterns": [
+        "长椅细节",
+        "回家路程例",
+        "爆款视频例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "我還把給她帶的禮物留在了長椅上",
+          "note": "礼物留椅"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "倒四次地鐵到火車站",
+          "note": "倒四次地铁"
+        },
+        {
+          "sentence_id": "s209",
+          "snippet": "漲到了10萬粉",
+          "note": "10万粉"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "做了一個每天只用半小時手機的視頻",
+          "note": "半小时手机"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「速度重要」落到与TESTV抢发；「幸福」具体到周末披萨与实验报告烦恼。",
+      "patterns": [
+        "速度→抢发事件",
+        "幸福→披萨考试"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s202",
+          "snippet": "速度真的還是挺重要的一件事情",
+          "note": "速度"
+        },
+        {
+          "sentence_id": "s193",
+          "snippet": "差不多十天後把視頻發了出來",
+          "note": "十天发出"
+        },
+        {
+          "sentence_id": "s376",
+          "snippet": "不會超過週末的一個披薩餅",
+          "note": "披萨"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "和一個月後的期末考試",
+          "note": "期末考试"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「能找到对象已经是奇迹」「速度真的还是挺重要」「可能这就是生活吧」。",
+      "patterns": [
+        "奇迹断语",
+        "速度重要",
+        "生活慨叹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "能找到對象已經是個奇跡了",
+          "note": "奇迹"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "速度真的還是挺重要的一件事情",
+          "note": "速度重要"
+        },
+        {
+          "sentence_id": "s357",
+          "snippet": "可能這就是生活吧",
+          "note": "就是生活"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先想「过阵会复合」自我安慰，回看承认想不起为何分手；现已几乎忘记速度道理再醒悟。",
+      "patterns": [
+        "复合幻想修正",
+        "遗忘道理再认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "說不定過一陣就復合了",
+          "note": "说不定复合"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我現在已經想不起來為什麼要分了",
+          "note": "想不起为何"
+        },
+        {
+          "sentence_id": "s203",
+          "snippet": "現在的我幾乎已經忘記了這個道理",
+          "note": "几乎忘记"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "分手段慢叙细节→创作段事件加速→结尾排比想象降速抒情。",
+      "patterns": [
+        "慢叙细节",
+        "事件加速",
+        "排比降速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "所以我就坐在這個長椅上",
+          "note": "长椅慢"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "所以我在回家的車上趕快寫稿子",
+          "note": "赶稿加速"
+        },
+        {
+          "sentence_id": "s366",
+          "snippet": "就好像我現在就可以回宿舍",
+          "note": "排比想象"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "怀旧萌→分手涩痛→自嘲解气→竞速焦虑→成功喜悦→成熟涩→湛蓝和解。",
+      "patterns": [
+        "怀旧→涩痛→焦虑→喜悦→和解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一個19歲的大一學生",
+          "note": "怀旧"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "一邊沈浸在悲傷的氣氛里",
+          "note": "悲伤"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "當時我整個人就傻了",
+          "note": "傻了"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "最成功的一期視頻",
+          "note": "最成功"
+        },
+        {
+          "sentence_id": "s364",
+          "snippet": "落日還是那麼美麗",
+          "note": "落日和解"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "结尾「就像我还是那个十九岁」排比回到开篇2018夏天，时间闭环。",
+      "patterns": [
+        "十九岁排比闭环",
+        "夏天回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是2018年1月份的何同學",
+          "note": "2018开"
+        },
+        {
+          "sentence_id": "s377",
+          "snippet": "就像我還是那個十九歲的大一學生",
+          "note": "还是十九岁"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "2018夏天"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；以情感共鸣与开放未来感收束，服务演讲/纪录片气质。",
+      "patterns": [
+        "共鸣收束无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s380",
+          "snippet": "又那麼的讓人期待",
+          "note": "让人期待"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "夏天"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "分手日看《中国近代史纲要》反差；具体地铁换乘；TESTV具名竞速。",
+      "patterns": [
+        "近代史反差",
+        "换乘细节",
+        "具名竞速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "《中國近代史綱要》",
+          "note": "近代史纲要"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "倒四次地鐵到火車站",
+          "note": "四次地铁"
+        },
+        {
+          "sentence_id": "s185",
+          "snippet": "叫TESTV的數碼頻道",
+          "note": "TESTV"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口大幅截断（s50→s172→s353），中间大学生活主线缺失；情绪依赖观众脑补。",
+      "patterns": [
+        "三段截断",
+        "中段缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "真是夠磨嘰的",
+          "note": "截断1"
+        },
+        {
+          "sentence_id": "s172",
+          "snippet": "這個耳塞有多難用呢？",
+          "note": "跳入耳塞"
+        },
+        {
+          "sentence_id": "s353",
+          "snippet": "夢寐以求的日子",
+          "note": "跳入结尾"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "回看时重新意识到当年可笑与喜欢；创作段暴露「看见大频道发同题就傻了→赶稿」决策。",
+      "patterns": [
+        "回看再认识",
+        "竞速决策外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我意識到我是一個十九歲的大一學生",
+          "note": "意识到十九岁"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "當時我整個人就傻了",
+          "note": "傻了"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "所以我在回家的車上趕快寫稿子",
+          "note": "车上写稿"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当知悉人设的老粉，「你们小何是有女朋友的」直接对话。",
+      "patterns": [
+        "老粉对话",
+        "人设自曝"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "你們小何是有女朋友的",
+          "note": "你们小何"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "能不能回學校做個演講",
+          "note": "演讲对象延伸"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "运动相机、宿舍洗手间、近代史纲要、TESTV五十倍、周末披萨、2018夏天。",
+      "patterns": [
+        "相机锚",
+        "近代史锚",
+        "TESTV锚",
+        "披萨/夏天"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "嘴裡叼著一個運動相機",
+          "note": "运动相机"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "《中國近代史綱要》",
+          "note": "近代史"
+        },
+        {
+          "sentence_id": "s188",
+          "snippet": "因為他們的粉絲量是我的五十倍",
+          "note": "五十倍"
+        },
+        {
+          "sentence_id": "s376",
+          "snippet": "不會超過週末的一個披薩餅",
+          "note": "披萨"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "夏天"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密叙事→分手细节高情感低信息→创作段事件高密→结尾低密抒情。",
+      "patterns": [
+        "叙中→情高信低→事件高→抒情低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "拍攝套件的我非常激動",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "看著全是噪點的天空發呆",
+          "note": "情高"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "最成功的一期視頻",
+          "note": "事件高"
+        },
+        {
+          "sentence_id": "s375",
+          "snippet": "而幸福的含義",
+          "note": "抒情低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短镜头式分句推进；结尾「就像…」排比长串。",
+      "patterns": [
+        "镜头短句",
+        "就像排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我對象",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s366",
+          "snippet": "就好像我現在就可以回宿舍",
+          "note": "就像1"
+        },
+        {
+          "sentence_id": "s377",
+          "snippet": "就像我還是那個十九歲的大一學生",
+          "note": "就像收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学温柔自嘲纪录片人格：不美化分手，把创作成长写成时间挽歌。",
+      "patterns": [
+        "温柔自嘲纪录片",
+        "时间挽歌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "能找到對象已經是個奇跡了",
+          "note": "自嘲奇迹"
+        },
+        {
+          "sentence_id": "s357",
+          "snippet": "可能這就是生活吧",
+          "note": "就是生活"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "叼相机19岁；长椅看近代史；速度挺重要；再也回不到19岁的夏天。",
+      "patterns": [
+        "叼相机",
+        "近代史长椅",
+        "速度",
+        "19岁夏天"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "嘴裡叼著一個運動相機",
+          "note": "叼相机"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "《中國近代史綱要》",
+          "note": "近代史"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "速度真的還是挺重要的一件事情",
+          "note": "速度"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "夏天"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "旧素材定格→生活切片→创作方法论→排比时空闭环的叙事可改编，需补全截断中段并弱化私密分手比重以适配观宇人设。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是2018年1月份的何同學",
+          "note": "定格"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "速度真的還是挺重要的一件事情",
+          "note": "方法"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "2018年的夏天",
+          "note": "闭环"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s172",
+    "s173",
+    "s174",
+    "s175",
+    "s176",
+    "s177",
+    "s178",
+    "s179",
+    "s180",
+    "s181",
+    "s182",
+    "s183",
+    "s184",
+    "s185",
+    "s186",
+    "s187",
+    "s188",
+    "s189",
+    "s190",
+    "s191",
+    "s192",
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s353",
+    "s354",
+    "s355",
+    "s356",
+    "s357",
+    "s358",
+    "s359",
+    "s360",
+    "s361",
+    "s362",
+    "s363",
+    "s364",
+    "s365",
+    "s366",
+    "s367",
+    "s368",
+    "s369",
+    "s370",
+    "s371",
+    "s372",
+    "s373",
+    "s374",
+    "s375",
+    "s376",
+    "s377",
+    "s378",
+    "s379",
+    "s380",
+    "s381",
+    "s382"
+  ],
+  "fields_complete_25": true
+}

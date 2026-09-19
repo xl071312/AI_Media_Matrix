@@ -1,0 +1,1198 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7675305910985654830",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7675305910985654830/",
+  "source_sha256": "e62293221631cc7cece8c62acd3d3b60859486c75b8964b706f6fb090ba8f899",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 81,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "今天我在汉堡王吃鸡条，刷手机刷的我想笑。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "(截图来自小红书账号)"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 32,
+      "snippet": "起因是支付宝「疯狂碰友日」出了一道小学语文题，让大家来完型填空："
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 18,
+      "snippet": "【——】稳定存钱，【——】环游世界。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 27,
+      "snippet": "说真的我到现在没猜到出题人咋想的，这题还有别的答案吗？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 21,
+      "snippet": "不就是【只有】稳定存钱，【才能】环游世界；"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 19,
+      "snippet": "【如果不】稳定存钱，【咋能】环游世界；"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 17,
+      "snippet": "【先】稳定存钱，【再】环游世界吗？"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "这有啥好填的？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 29,
+      "snippet": "万万没想到，那个评论区里的网友可是发狠了忘情了不要命了啊。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 40,
+      "snippet": "你如果说什么物理化学生物题，我唯唯诺诺，但你整个小学语文题，我必须给你重拳出击。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "于是现场有这么说的，"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "（截图来自小红书账号评论区）"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "这么说的，"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 14,
+      "snippet": "（截图来自小红书账号评论区）"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "以及这么说的，"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "（截图来自小红书账号评论区）"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 17,
+      "snippet": "最有活儿的是这个，都给我绷不住了，"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "（截图来自小红书账号评论区）"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 23,
+      "snippet": "合着这就叫支付宝巧施连环计，评论区误上八角笼。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "八个字，让网友为我塞爆评论区。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 22,
+      "snippet": "等我细细品味，你会发现支付宝这一手很有意思。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 74,
+      "snippet": "这八个字看似是废话，但【稳定存钱】和【环游世界】本就象征着两个极端，但凡换个说法"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 16,
+      "snippet": "是填空，更是在问你，你会怎么选？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 48,
+      "snippet": "那这看似考的是语文，实际上考的是哲学，甚至是某种意义上的统计学，支付宝压根不是阅"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 47,
+      "snippet": "于是你会发现答案可能很多样，但多样也不太可能，甚至同一年龄段的大多数人，很多时候"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 23,
+      "snippet": "比如最无忧无虑的学生阶段，很多朋友们会这么填。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 34,
+      "snippet": "说白了，穷游富游都不如少年游，少年时旅游的记忆美好是真能吃一辈子的。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 45,
+      "snippet": "在这个年龄段，那就是有健康的身体，用少少的钱去逛很多很多的景点，把时间的厚度拉长"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 48,
+      "snippet": "没有痔疮的屁股总是勇敢，几十小时的硬座说坐就坐，五一能把五岳都跟爬遍，兰博看了都"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 5,
+      "snippet": "世界大吗？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 12,
+      "snippet": "当然大，那当然要去看看。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 16,
+      "snippet": "等上了几年班后，这个答案就变了。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 32,
+      "snippet": "你会发现世界大大的，但你小小的，钱包瘪瘪的，但老板画的饼饱饱的。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 56,
+      "snippet": "生活玩的也不是填空题，生活玩儿的是海龟汤，在雇佣这种明明知道彼此不合适却放不下的"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 25,
+      "snippet": "我上的班怎么好像在吸我阳气，不然为什么它叫孵化器。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 27,
+      "snippet": "怪不得上班的时间总是这么难熬，因为地上一天地下十年啊。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 45,
+      "snippet": "少不更事时，幻想着未来一定要吃香的喝辣的，现在发现还可以吃红烧的和鲜虾的，还有老"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 53,
+      "snippet": "有时候我还想我的财力，一定要对小学门口的小吃进行降维打击，然后发现小学生三四点就"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 50,
+      "snippet": "好难啊，生活真的好难啊，我想跟他讲道理，它会揍的我找不到北，还会把北字左边那根竖"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 46,
+      "snippet": "钱也真的好难挣啊，我甚至开始想变成狗咖里的狗狗，这样【钱难挣屎难吃】这句话对我就"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 31,
+      "snippet": "那攒攒钱，再见世界吧，总有一天钱会攒够，总有一天我会环游地球。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 19,
+      "snippet": "可等到了岁数再大一点，答案又不一样了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 14,
+      "snippet": "身体不算青春，但又撑得下去；"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 15,
+      "snippet": "世界不再很大，坍缩到小小一团。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 44,
+      "snippet": "开始有了孩子，父母也在老迈，你像是等待浇水的麦子，对生活无比熟稔，你的起伏就是风"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 51,
+      "snippet": "世界各地哪里都有新鲜事，但你知道你的世界就在你的身边，想把所有的道理都告诉孩子，"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 44,
+      "snippet": "你的时间不再属于你自己，哪怕有，也开始越来越喜欢在人少的地方喘口气，这就是你个人"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "月亮一直在天上挂着。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 13,
+      "snippet": "圆圆的，像是地上的五便士。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 17,
+      "snippet": "于是最艺术，最扩圈的一部分也来了。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 46,
+      "snippet": "如果说由网友们演出的上半场，以年龄为规则进行的横切，是不同年龄段对过去或未来的劝"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 42,
+      "snippet": "随着很多名人的下场，这场完型填空性质变了，更像是不同身份背景不同职业的人的隔空对"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 12,
+      "snippet": "像姜思达，是这么回答的，"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "（截图来自姜思达小红书账号）"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 59,
+      "snippet": "你能看到姜思达还是那个姜思达，依然保留着一部分浪漫主义，敢于把钱用在路上，谁又能"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 24,
+      "snippet": "让我觉得最有意思的两个答案，是水哥与女儿的答案。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 51,
+      "snippet": "水哥本以为女儿会撒撒娇，会写出爸爸稳定存钱，我来环游世界，但女儿笑了，环游世界本"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 48,
+      "snippet": "而对于把家里装修成热带森林的水哥来说，旅行本就没有那么复杂，完全可以一边稳定存钱"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 69,
+      "snippet": "实际上大家在人生前进的路上，每个人都是自己宇宙的孤独卫星，在沿着自己的母命题孤独"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 68,
+      "snippet": "支付宝这道题有多个答案，就像是人生本就没有对错，只有取舍，人生就是反复在得到与错"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 20,
+      "snippet": "这也是支付宝整个答题环节中最精巧的一环。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "不说教，听你讲。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 41,
+      "snippet": "因为它知道，这世界没有一个绝对正确还通用的价值观，你也无法说服所有人，但倾听可以"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 27,
+      "snippet": "人生有千言万语，能语人者无二三的，能讲出来，就不容易。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 83,
+      "snippet": "大家在支付宝上见了世界，也在支付宝上记录世界，支付宝早就成了生活习惯的组成部分，"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 30,
+      "snippet": "你能见到这个世界，在陌生的城市交到意气相投的朋友，它恭喜你；"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 40,
+      "snippet": "你在脚踏实地的存下一笔笔钱，为生活缴纳一笔笔费用，它替你欢喜，因为你在未来储蓄。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 16,
+      "snippet": "过去这么多年，它跟你这么走来的。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "未来，它也会陪你走下去。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 70,
+      "snippet": "这场答题活动最彩蛋的一部分，是你看到了评论区一个个朋友的答案，再看着他们的主页，"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 53,
+      "snippet": "大家在这里短暂地交流了价值观，就像在汉堡王门店里匆匆的碰一下，是赶飞机赶高铁，还"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 52,
+      "snippet": "这个问题永远不会结束，因为每个答过这个问题的朋友，都会在未来无数次再问自己一遍，"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 21,
+      "snippet": "这一刻，支付宝疯狂碰友日这活动就没有白做。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 49,
+      "snippet": "在这里，我非常建议支付宝这个活动别只在汉堡王门店做，铺开来，搞出更多花活，将这个"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 17,
+      "snippet": "我已经，等不及看下一次头脑风暴了。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "愿灵魂之风，劲吹。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "汉堡王吃鸡条刷手机起笔，抛出支付宝八字完型填空引爆评论区。",
+      "patterns": [
+        "场景吃喝起笔",
+        "完型填空钩子",
+        "评论区开战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "今天我在汉堡王吃鸡条，刷手机刷的我想笑。",
+          "note": "汉堡王吃鸡条"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "【——】稳定存钱，【——】环游世界。",
+          "note": "稳定存钱环游世界"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "万万没想到，那个评论区里的网友可是发狠了忘情了不要命了啊。",
+          "note": "发狠了忘情了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "题看似废话→实为理想现实哲学→年龄横切答案趋同→名人隔空对话→倾听不说教营销→碰友日彩蛋收。",
+      "patterns": [
+        "废话变哲学",
+        "年龄横切",
+        "名人对话",
+        "倾听营销"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "这八个字看似是废话，但【稳定存钱】和【环游世界】本就象征着两个极端，但凡换个说法",
+          "note": "现实与理想"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "那这看似考的是语文，实际上考的是哲学，甚至是某种意义上的统计学，支付宝压根不是阅",
+          "note": "考的是哲学"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "如果说由网友们演出的上半场，以年龄为规则进行的横切，是不同年龄段对过去或未来的劝",
+          "note": "年龄横切"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "这一刻，支付宝疯狂碰友日这活动就没有白做。",
+          "note": "活动没白做"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23"
+          ],
+          "function": "hook_fillblank_chaos",
+          "note": "完型填空评论区开战"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53"
+          ],
+          "function": "age_cross_answers",
+          "note": "学生上班中年三段答案"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74"
+          ],
+          "function": "celebrity_dialogue",
+          "note": "名人答案与倾听营销"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81"
+          ],
+          "function": "easter_close",
+          "note": "主页人生彩蛋与续写建议"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "万万没想到/等我细细品味/于是/等上了班/可等到岁数大/于是最艺术推进。",
+      "patterns": [
+        "万万没想到",
+        "细细品味",
+        "等上了班",
+        "于是最艺术"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "万万没想到，那个评论区里的网友可是发狠了忘情了不要命了啊。",
+          "note": "万万没想到"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "等我细细品味，你会发现支付宝这一手很有意思。",
+          "note": "细细品味"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "等上了几年班后，这个答案就变了。",
+          "note": "等上了几年班"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "于是最艺术，最扩圈的一部分也来了。",
+          "note": "最艺术的一部分"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "物理题唯唯诺诺 vs 语文题重拳；少年游 vs 上班吸阳气 vs 世界坍缩身边；说教 vs 倾听。",
+      "patterns": [
+        "理综vs语文",
+        "三段人生对照",
+        "说教vs倾听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你如果说什么物理化学生物题，我唯唯诺诺，但你整个小学语文题，我必须给你重拳出击。",
+          "note": "物理唯唯诺诺语文重拳"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "说白了，穷游富游都不如少年游，少年时旅游的记忆美好是真能吃一辈子的。",
+          "note": "少年游"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "你会发现世界大大的，但你小小的，钱包瘪瘪的，但老板画的饼饱饱的。",
+          "note": "世界大大你小小"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "这题还有别答案吗、世界大吗、水哥女儿反问结果等推动。",
+      "patterns": [
+        "还有别答案吗",
+        "世界大吗",
+        "人生取舍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "说真的我到现在没猜到出题人咋想的，这题还有别的答案吗？",
+          "note": "还有别的答案吗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这有啥好填的？",
+          "note": "这有啥好填的"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "世界大吗？",
+          "note": "世界大吗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "是填空，更是在问你，你会怎么选？",
+          "note": "你会怎么选"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "只有才能/如果不咋能/先再三填法；硬座五岳；钱难挣屎难吃；水哥热带森林一边存一边游。",
+      "patterns": [
+        "三填法示范",
+        "硬座五岳",
+        "狗咖自嘲",
+        "水哥女儿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不就是【只有】稳定存钱，【才能】环游世界；",
+          "note": "只有才能"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "没有痔疮的屁股总是勇敢，几十小时的硬座说坐就坐，五一能把五岳都跟爬遍，兰博看了都",
+          "note": "五岳都爬遍"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "钱也真的好难挣啊，我甚至开始想变成狗咖里的狗狗，这样【钱难挣屎难吃】这句话对我就",
+          "note": "钱难挣屎难吃"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "而对于把家里装修成热带森林的水哥来说，旅行本就没有那么复杂，完全可以一边稳定存钱",
+          "note": "一边存一边游"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "理想现实→稳定存钱/环游世界八字；雇佣关系→海龟汤；月亮→地上五便士。",
+      "patterns": [
+        "八字象征",
+        "海龟汤雇佣",
+        "五便士月亮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "这八个字看似是废话，但【稳定存钱】和【环游世界】本就象征着两个极端，但凡换个说法",
+          "note": "现实与理想"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "生活玩的也不是填空题，生活玩儿的是海龟汤，在雇佣这种明明知道彼此不合适却放不下的",
+          "note": "海龟汤"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "圆圆的，像是地上的五便士。",
+          "note": "地上的五便士"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "巧施连环计八角笼、考的是哲学、人生没有对错只有取舍、最精巧一环等重判。",
+      "patterns": [
+        "连环计八角笼",
+        "哲学统计学",
+        "没有对错只有取舍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "合着这就叫支付宝巧施连环计，评论区误上八角笼。",
+          "note": "巧施连环计"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "那这看似考的是语文，实际上考的是哲学，甚至是某种意义上的统计学，支付宝压根不是阅",
+          "note": "考的是哲学"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "支付宝这道题有多个答案，就像是人生本就没有对错，只有取舍，人生就是反复在得到与错",
+          "note": "没有对错只有取舍"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「答案可能很多样，但多样也不太可能」自纠后改口趋同；对水哥预期撒娇被女儿纠正。",
+      "patterns": [
+        "多样又趋同自纠",
+        "预期被纠正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "于是你会发现答案可能很多样，但多样也不太可能，甚至同一年龄段的大多数人，很多时候",
+          "note": "多样也不太可能"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "水哥本以为女儿会撒撒娇，会写出爸爸稳定存钱，我来环游世界，但女儿笑了，环游世界本",
+          "note": "本以为女儿会撒娇"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "章节数字；长排比人生段落后短句「月亮一直在天上」；「不说教，听你讲」对仗收。",
+      "patterns": [
+        "章节数字",
+        "长铺短诗",
+        "对仗短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "月亮一直在天上挂着。",
+          "note": "月亮一直在天上"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "愿灵魂之风，劲吹。",
+          "note": "愿灵魂之风劲吹"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "笑点八卦→评论区狂欢→人生感慨下沉→名人温情→愿灵魂之风上扬收。",
+      "patterns": [
+        "笑→狂欢→下沉→温情→上扬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "今天我在汉堡王吃鸡条，刷手机刷的我想笑。",
+          "note": "我想笑"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "最有活儿的是这个，都给我绷不住了，",
+          "note": "绷不住了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "好难啊，生活真的好难啊，我想跟他讲道理，它会揍的我找不到北，还会把北字左边那根竖",
+          "note": "生活真的好难"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "愿灵魂之风，劲吹。",
+          "note": "灵魂之风"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "汉堡王碰友场景开头→结尾汉堡王匆匆一碰/建议铺开活动，场景首尾回环。",
+      "patterns": [
+        "汉堡王首尾",
+        "活动建议闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "今天我在汉堡王吃鸡条，刷手机刷的我想笑。",
+          "note": "汉堡王吃鸡条"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大家在这里短暂地交流了价值观，就像在汉堡王门店里匆匆的碰一下，是赶飞机赶高铁，还",
+          "note": "汉堡王门店里匆匆碰一下"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "在这里，我非常建议支付宝这个活动别只在汉堡王门店做，铺开来，搞出更多花活，将这个",
+          "note": "建议铺开来"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软CTA建议支付宝把活动铺开；结尾愿灵魂之风，偏倡议非关注引导。",
+      "patterns": [
+        "建议品牌扩活动",
+        "愿景收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "在这里，我非常建议支付宝这个活动别只在汉堡王门店做，铺开来，搞出更多花活，将这个",
+          "note": "非常建议支付宝"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "我已经，等不及看下一次头脑风暴了。",
+          "note": "等不及头脑风暴"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "愿灵魂之风，劲吹。",
+          "note": "愿灵魂之风"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "八角笼、吸阳气孵化器、地上一天地下十年、二匕、南北绿豆式网感外的人生段子。",
+      "patterns": [
+        "八角笼",
+        "孵化器阳气",
+        "二匕字形梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "合着这就叫支付宝巧施连环计，评论区误上八角笼。",
+          "note": "八角笼"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "我上的班怎么好像在吸我阳气，不然为什么它叫孵化器。",
+          "note": "孵化器"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "好难啊，生活真的好难啊，我想跟他讲道理，它会揍的我找不到北，还会把北字左边那根竖",
+          "note": "变成二匕"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段人生感慨偏长可能拖节奏；品牌赞美后半偏软文；截图占位多依赖读者脑补。",
+      "patterns": [
+        "中段偏长",
+        "软文风险",
+        "截图依赖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "好难啊，生活真的好难啊，我想跟他讲道理，它会揍的我找不到北，还会把北字左边那根竖",
+          "note": "生活真的好难"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "大家在支付宝上见了世界，也在支付宝上记录世界，支付宝早就成了生活习惯的组成部分，",
+          "note": "好的营销"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "（截图来自小红书账号评论区）",
+          "note": "截图来自评论区"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先自以为标准填法，再细品发现哲学题；按年龄段推演答案如何变。",
+      "patterns": [
+        "标准填法自曝",
+        "年龄推演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不就是【只有】稳定存钱，【才能】环游世界；",
+          "note": "不就是只有才能"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "等我细细品味，你会发现支付宝这一手很有意思。",
+          "note": "细细品味"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "等上了几年班后，这个答案就变了。",
+          "note": "答案就变了"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者拉进「你会怎么选」；用上班吸阳气/小学生放学对比共情打工人。",
+      "patterns": [
+        "你会怎么选",
+        "打工人共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "是填空，更是在问你，你会怎么选？",
+          "note": "你会怎么选"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "有时候我还想我的财力，一定要对小学门口的小吃进行降维打击，然后发现小学生三四点就",
+          "note": "小学生三四点放学"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "这场答题活动最彩蛋的一部分，是你看到了评论区一个个朋友的答案，再看着他们的主页，",
+          "note": "朋友的答案"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "八字完型、汉堡王、姜思达/水哥女儿、疯狂碰友日。",
+      "patterns": [
+        "八字题干",
+        "汉堡王场景",
+        "名人锚点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "【——】稳定存钱，【——】环游世界。",
+          "note": "稳定存钱环游世界"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "今天我在汉堡王吃鸡条，刷手机刷的我想笑。",
+          "note": "汉堡王"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "像姜思达，是这么回答的，",
+          "note": "姜思达"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "起因是支付宝「疯狂碰友日」出了一道小学语文题，让大家来完型填空：",
+          "note": "疯狂碰友日"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开篇题干低密→评论狂欢中密→三段人生高密抒情→营销收束中低密。",
+      "patterns": [
+        "题干低→狂欢中→人生高→营销收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "【——】稳定存钱，【——】环游世界。",
+          "note": "完型八字"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "万万没想到，那个评论区里的网友可是发狠了忘情了不要命了啊。",
+          "note": "发狠了"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "开始有了孩子，父母也在老迈，你像是等待浇水的麦子，对生活无比熟稔，你的起伏就是风",
+          "note": "等待浇水的麦子"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "列举填法短句并联；人生段长短句交错；「不说教，听你讲」两截锤。",
+      "patterns": [
+        "填法并联",
+        "长短交错",
+        "两截锤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不就是【只有】稳定存钱，【才能】环游世界；",
+          "note": "只有才能"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "【如果不】稳定存钱，【咋能】环游世界；",
+          "note": "如果不咋能"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式生活哲学家：先段子后升华，把营销活动读成价值观倾听，温暖毒舌并存。",
+      "patterns": [
+        "段子后升华",
+        "营销读成倾听",
+        "温暖毒舌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "那这看似考的是语文，实际上考的是哲学，甚至是某种意义上的统计学，支付宝压根不是阅",
+          "note": "考的是哲学"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "因为它知道，这世界没有一个绝对正确还通用的价值观，你也无法说服所有人，但倾听可以",
+          "note": "倾听可以"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你如果说什么物理化学生物题，我唯唯诺诺，但你整个小学语文题，我必须给你重拳出击。",
+          "note": "重拳出击"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "只有存钱才能环游；不说教听你讲；月亮像五便士；愿灵魂之风劲吹。",
+      "patterns": [
+        "八字题",
+        "不说教倾听",
+        "五便士月亮",
+        "灵魂之风"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "【——】稳定存钱，【——】环游世界。",
+          "note": "稳定存钱环游世界"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "圆圆的，像是地上的五便士。",
+          "note": "五便士"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "愿灵魂之风，劲吹。",
+          "note": "灵魂之风"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「看似简单选择→人生阶段答案变化→倾听不说教」可改编观宇价值观内容，需去掉支付宝软广尾。",
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "这八个字看似是废话，但【稳定存钱】和【环游世界】本就象征着两个极端，但凡换个说法",
+          "note": "现实与理想"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "如果说由网友们演出的上半场，以年龄为规则进行的横切，是不同年龄段对过去或未来的劝",
+          "note": "年龄横切"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "不说教，听你讲。",
+          "note": "不说教听你讲"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s11",
+    "s25",
+    "s27",
+    "s55",
+    "s66",
+    "s78",
+    "s24",
+    "s35",
+    "s54",
+    "s12",
+    "s30",
+    "s36",
+    "s6",
+    "s10",
+    "s33",
+    "s26",
+    "s7",
+    "s32",
+    "s43",
+    "s62",
+    "s37",
+    "s52",
+    "s21",
+    "s64",
+    "s28",
+    "s61",
+    "s51",
+    "s81",
+    "s19",
+    "s42",
+    "s76",
+    "s79",
+    "s80",
+    "s38",
+    "s69",
+    "s14",
+    "s41",
+    "s75",
+    "s57",
+    "s4",
+    "s48",
+    "s8",
+    "s67"
+  ],
+  "fields_complete_25": true
+}

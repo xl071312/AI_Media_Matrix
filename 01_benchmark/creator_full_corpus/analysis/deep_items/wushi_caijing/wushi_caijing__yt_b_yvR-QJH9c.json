@@ -1,0 +1,806 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_b_yvR-QJH9c",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=b_yvR-QJH9c",
+  "source_sha256": "25ac6d44aca27d9900692d8caeabbe801a1770b0fcf65f7be25af27df8edf143",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 415,
+  "fields": {
+    "opening_move": {
+      "summary": "开场ASR噪声后迅速进入脑白金与安利时代史，用点名批评与行业标杆立住保健品资本博弈题。",
+      "patterns": [
+        "史诗开场立行业标杆",
+        "监管点名作钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "在多個省是造劍,並為國家監管部門點名批評,自此這個遠古之神語諾白金蕩,",
+          "note": "监管点名批评"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "紫燒市場,形成差異化競爭,成為早期中國善事營,補充記行業的行業標高",
+          "note": "行业标杆"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "2010年,唐春貝建以110元美股高價登入創業版,發行使用率高達,115倍,被欲",
+          "note": "汤臣倍健上市"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "早期概念神药与直销帝国崛起；权健式崩塌触发洗牌；疫情后认知回归补剂科学；高毛利靠营销概念；营养工厂以小米加胖东来路径捅破价格窗户纸；消费即投票逼近价值时刻。",
+      "patterns": [
+        "帝国崛起到崩塌洗牌",
+        "高毛利营销拆解",
+        "透明低价挑战者",
+        "消费投票收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "2020年初,全艦案宣判",
+          "note": "权健案宣判"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "2024年上半年毛利60%點9",
+          "note": "毛利百分之六十"
+        },
+        {
+          "sentence_id": "s195",
+          "snippet": "它春春走的是小米加碰通來的路子",
+          "note": "小米加胖东来路子"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "等于投票"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s6",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "早期神药营销与直销暴利史",
+          "note": "概念加价逻辑"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s22",
+            "s23",
+            "s24",
+            "s27",
+            "s28",
+            "s30",
+            "s31",
+            "s32",
+            "s36"
+          ],
+          "function": "权健帝国扩张到媒体揭露到判刑落幕",
+          "note": "资本加传销结局"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s41",
+            "s42",
+            "s43",
+            "s46",
+            "s47",
+            "s60",
+            "s64",
+            "s66"
+          ],
+          "function": "监管洗牌与疫情后认知回归补剂",
+          "note": "中美消费差距锚"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s185",
+            "s186",
+            "s188",
+            "s190",
+            "s191",
+            "s194",
+            "s195",
+            "s199",
+            "s201"
+          ],
+          "function": "高价为利润率；营养工厂性价比透明路径登场",
+          "note": "挑战者引入"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s202",
+            "s204",
+            "s208",
+            "s214",
+            "s217",
+            "s222",
+            "s223",
+            "s224",
+            "s225"
+          ],
+          "function": "鱼油品类拆解与为什么这么便宜金句",
+          "note": "供应链透明"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s398",
+            "s401",
+            "s403",
+            "s404",
+            "s405",
+            "s407",
+            "s408",
+            "s413",
+            "s415"
+          ],
+          "function": "消费投票改变价格锚与下期见收束",
+          "note": "价值时刻动员"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "但是冥冥之中早有定数转入崩塌；同样是2020年初切疫情；为了什么呢利润率升维；这个品牌就是营养工厂点名。",
+      "patterns": [
+        "冥冥定数转崩塌",
+        "同样是切时间",
+        "为了什么呢升维",
+        "这个品牌就是点名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "但是明明之中,早有定數",
+          "note": "早有定数"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "同樣是2020年初,15前例的黑天王事件",
+          "note": "同样是2020"
+        },
+        {
+          "sentence_id": "s185",
+          "snippet": "為了什麼呢",
+          "note": "为了什么呢"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "這個品牌就是營養工廠",
+          "note": "这个品牌就是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "神药高价对比透明低价；解释为什么贵对比解释为什么便宜；贵就是好心智对比便宜有好货。",
+      "patterns": [
+        "高价神药对比透明低价",
+        "贵为什么对比便宜为什么",
+        "贵即好对比便宜有好货"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "賣出數十倍高價,謀取暴力",
+          "note": "数十倍高价"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "然後給個顯著的高性價比價格",
+          "note": "高性价比价格"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "主要經歷在解釋為什麼這麼貴",
+          "note": "解释为什么这么贵"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "為什麼這麼便宜",
+          "note": "为什么这么便宜"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "为了什么呢逼出利润率；尾段用选择营养工厂模式是不是投票完成动员问。",
+      "patterns": [
+        "为了什么呢逼因",
+        "模式选择动员问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s185",
+          "snippet": "為了什麼呢",
+          "note": "为了什么呢"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "那你选择运行工厂站的模式是",
+          "note": "你选择运行工厂站的模式是"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "汤臣倍健上市、权健判刑、鱼油成本拆解、营养工厂检测报告作多层例。",
+      "patterns": [
+        "上市倍数例",
+        "刑案落幕例",
+        "品类成本拆解例",
+        "第三方检测例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "2010年,唐春貝建以110元美股高價登入創業版,發行使用率高達,115倍,被欲",
+          "note": "发行市盈率115倍"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "其老闆因組織領導傳銷活動作也被判出有期突兵9年",
+          "note": "有期徒刑九年"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "我們與由這個品類拆解",
+          "note": "鱼油品类拆解"
+        },
+        {
+          "sentence_id": "s246",
+          "snippet": "第四方進行制檢",
+          "note": "第三方质检"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "利润率抽象原因立刻落到60.9%与62.5%毛利；透明抽象落到原料关税仓储分项。",
+      "patterns": [
+        "利润率到毛利数字",
+        "透明到成本分项清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s186",
+          "snippet": "利潤率",
+          "note": "利润率"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "2024年上半年毛利60%點9",
+          "note": "毛利60.9"
+        },
+        {
+          "sentence_id": "s237",
+          "snippet": "原料生產",
+          "note": "原料生产分项"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "称营销概念谋取暴利；断言把窗户纸捅破；动员投票给旧规则挑战者。",
+      "patterns": [
+        "暴利定性",
+        "捅破窗户纸",
+        "挑战者动员"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "賣出數十倍高價,謀取暴力",
+          "note": "谋取暴利"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "把這層窗戶值給捅破了",
+          "note": "窗户纸捅破"
+        },
+        {
+          "sentence_id": "s408",
+          "snippet": "也是投给旧規则的挑战者",
+          "note": "旧规则挑战者"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认消费者仍会觉得便宜等于劣质，故补充必须高质与透明才能破心智。",
+      "patterns": [
+        "预判误解后补条件"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s229",
+          "snippet": "會覺得高價的是不是品質更好",
+          "note": "会觉得高价更好"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "低價之外必須得有高質",
+          "note": "低价之外必须高质"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "史诗长句推进权健弧，毛利数字短击，鱼油拆解连珠，教练循环噪声后投票排比加速收。",
+      "patterns": [
+        "史诗长句",
+        "数字短击",
+        "投票排比收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "2018年底,某媒體發布文章,百億保健帝國全艦和他因應下的中國家庭",
+          "note": "长揭文标题"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "2024年上半年毛利60%點9",
+          "note": "毛利短击"
+        },
+        {
+          "sentence_id": "s405",
+          "snippet": "投给透明坦率",
+          "note": "投给透明排比"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "新鲜新鲜口语叠词",
+        "一个一个重复",
+        "教练超长循环ASR",
+        "下期见口头收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "新鮮,新鮮",
+          "note": "新鲜新鲜"
+        },
+        {
+          "sentence_id": "s221",
+          "snippet": "一個一個一個一個一個一個",
+          "note": "一个一个"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "教練",
+          "note": "教练循环"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "下期见",
+          "note": "下期见"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "对神药嘲讽，对权健落幕解气，对高毛利愤怒拆穿，对营养工厂鼓动，投票段激昂。",
+      "patterns": [
+        "嘲讽到解气到愤怒到鼓动到激昂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "賣出數十倍高價,謀取暴力",
+          "note": "暴利嘲讽"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "就此以細節性的方式落幕",
+          "note": "落幕解气"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "主要經歷在解釋為什麼這麼貴",
+          "note": "愤怒对比"
+        },
+        {
+          "sentence_id": "s405",
+          "snippet": "投给透明坦率",
+          "note": "激昂投票"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用消费投票敲响旧秩序丧钟回收开场资本博弈，并以下期见系列收。",
+      "patterns": [
+        "投票回收博弈题",
+        "下期见系列收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "等于投票"
+        },
+        {
+          "sentence_id": "s413",
+          "snippet": "敲响到丧中",
+          "note": "敲响丧钟"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "下期见",
+          "note": "下期见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "强观念CTA：选便宜透明模式等于投票；并以自奔用不免式口号加下期见收。",
+      "patterns": [
+        "投票式消费CTA",
+        "下期见系列CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "等于投票"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "下期见",
+          "note": "下期见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "为什么这么贵对比为什么这么便宜对句、捅破窗户纸口语、教练循环噪声，口播感强。",
+      "patterns": [
+        "贵便宜对句",
+        "窗户纸口语",
+        "噪声现场感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s223",
+          "snippet": "主要經歷在解釋為什麼這麼貴",
+          "note": "为什么贵"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "為什麼這麼便宜",
+          "note": "为什么便宜"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "把這層窗戶值給捅破了",
+          "note": "窗户纸"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "开场与中后段大量ASR循环（纳粹、教练）；赞助品牌营养工厂段落带软广风险；专名错字多。",
+      "patterns": [
+        "ASR循环",
+        "软广风险",
+        "专名错字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "像這碗歌是安利納粹納粹納粹納粹納粹納粹納粹納粹納粹納粹納粹納粹納粹納�.",
+          "note": "纳粹循环"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "這個品牌就是營養工廠",
+          "note": "品牌点名"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "教練",
+          "note": "教练循环"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "为了什么呢当场追问利润动机；预演消费者贵即好偏见再给破局条件。",
+      "patterns": [
+        "动机追问外化",
+        "偏见预演外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s185",
+          "snippet": "為了什麼呢",
+          "note": "为了什么呢"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "畢竟消費者對貴的就是好",
+          "note": "贵就是好"
+        },
+        {
+          "sentence_id": "s234",
+          "snippet": "低價之外必須得有高質",
+          "note": "必须高质"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众从被营销收割的消费者改写为给透明模式投票的公民。",
+      "patterns": [
+        "消费者改写为投票公民"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s403",
+          "snippet": "你不仅仅是在完成一次个人消费",
+          "note": "不仅仅是个人消费"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "等于投票"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "115倍市盈率、有期徒刑9年罚5000万、毛利60.9%/62.5%、大盘四分之一价。",
+      "patterns": [
+        "刑案数字锚",
+        "毛利锚",
+        "价格倍率锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "2010年,唐春貝建以110元美股高價登入創業版,發行使用率高達,115倍,被欲",
+          "note": "115倍"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "其老闆因組織領導傳銷活動作也被判出有期突兵9年",
+          "note": "九年"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "罰款5000萬元",
+          "note": "五千万"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "2024年上半年毛利60%點9",
+          "note": "毛利60.9"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "基本是大盤的四分之一",
+          "note": "四分之一"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "史段落高密，疫情认知中密，毛利与鱼油拆解高密，教练循环谷，投票收束中高密。",
+      "patterns": [
+        "史与拆解双峰",
+        "教练谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "其老闆因組織領導傳銷活動作也被判出有期突兵9年",
+          "note": "刑案高密"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "我們與由這個品類拆解",
+          "note": "拆解高密"
+        },
+        {
+          "sentence_id": "s382",
+          "snippet": "教練",
+          "note": "教练谷"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "行业史到帝国崩塌到认知回归到高价动机到挑战者拆解到投票动员。",
+      "patterns": [
+        "史到因到案到动员"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "2020年初,全艦案宣判",
+          "note": "崩塌"
+        },
+        {
+          "sentence_id": "s186",
+          "snippet": "利潤率",
+          "note": "利润因"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "這個品牌就是營養工廠",
+          "note": "挑战者"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "动员"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "打假式财经叙述者：仇视概念暴利，拥抱供应链透明，结尾带动员鼓动。",
+      "patterns": [
+        "仇视概念暴利",
+        "拥抱透明",
+        "动员鼓动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "賣出數十倍高價,謀取暴力",
+          "note": "暴利"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "花多少錢買多少東西很透明",
+          "note": "花多少买多少透明"
+        },
+        {
+          "sentence_id": "s408",
+          "snippet": "也是投给旧規则的挑战者",
+          "note": "挑战者"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "别人解释为什么这么贵我们解释为什么这么便宜；消费等于投票；捅破窗户纸。",
+      "patterns": [
+        "贵便宜对句",
+        "消费投票",
+        "窗户纸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s223",
+          "snippet": "主要經歷在解釋為什麼這麼貴",
+          "note": "为什么贵"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "為什麼這麼便宜",
+          "note": "为什么便宜"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "投票"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "把這層窗戶值給捅破了",
+          "note": "窗户纸"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "贵为什么对比便宜为什么与消费投票结构极适合观屿；须剥离软广嫌疑、清洗ASR循环，并把营养工厂案例改为可验证第三方叙述。",
+      "evidence": [
+        {
+          "sentence_id": "s225",
+          "snippet": "為什麼這麼便宜",
+          "note": "便宜对句可迁"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "弄实于投票",
+          "note": "投票结构可迁"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "2024年上半年毛利60%點9",
+          "note": "毛利证据可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s6",
+    "s9",
+    "s10",
+    "s31",
+    "s190",
+    "s195",
+    "s404",
+    "s11",
+    "s12",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s27",
+    "s28",
+    "s30",
+    "s32",
+    "s36",
+    "s37",
+    "s38",
+    "s41",
+    "s42",
+    "s43",
+    "s46",
+    "s47",
+    "s60",
+    "s64",
+    "s66",
+    "s185",
+    "s186",
+    "s188",
+    "s191",
+    "s194",
+    "s199",
+    "s201",
+    "s202",
+    "s204",
+    "s208",
+    "s214",
+    "s217",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s398",
+    "s401",
+    "s403",
+    "s405",
+    "s407",
+    "s408",
+    "s413",
+    "s415",
+    "s26",
+    "s402",
+    "s246",
+    "s237",
+    "s258",
+    "s229",
+    "s234",
+    "s5",
+    "s221",
+    "s382",
+    "s7",
+    "s231",
+    "s33",
+    "s256"
+  ],
+  "fields_complete_25": true
+}

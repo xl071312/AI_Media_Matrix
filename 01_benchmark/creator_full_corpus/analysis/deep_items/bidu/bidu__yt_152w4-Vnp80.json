@@ -1,0 +1,860 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_152w4-Vnp80",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=152w4-Vnp80",
+  "source_sha256": "01614d8864c46e48090302711ee42577b22cc031fbc24508a6d264d305fc18bd",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 31,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "你把这个人喝入味�"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 2,
+      "snippet": "为主"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "全给下水道取了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "这个自己溜汤的甜汤"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "这个面汤很有想法"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "我们买了同itom的溜汤"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "希望能复刻它的技法"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "比较有展绝"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "方便为啥能全过任全过跑出来呢"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "因为前面的方便面随着汤"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "但面汤有弹性的前面的后面面面"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "面和面具尖住录录子传绕"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "所以后面面也被怪下去了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "最后全都被戴到下水道了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "具养化以吸荣誉"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "它很年也很有弹性"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "这就是刀分子独特的年弹性"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "因为刚子内就像无数争方便面"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "当一部分人业被甩出杯子"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "受到自身重力下落时"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 15,
+      "snippet": "中间荣誉中的刀分子面就被拉直了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "内部成成是拉印力"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "而刀分子内相互缠结"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "导致这种人业很难短开"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 16,
+      "snippet": "前面的人业就拽着后面人业一起流出"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "接住"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 13,
+      "snippet": "下次兄弟是方便面趁它不注意"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "用着的方法"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "一口续完一整晚面"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "成功了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "记得给我反评"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "开场即「全给下水道」事故感，声明要复刻溜汤技法。",
+      "patterns": [
+        "事故开场",
+        "复刻声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "下水道"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "希望能复刻它的技法",
+          "note": "复刻技法"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "面汤弹性→高分子缠结拽后面→整碗流出→用同法一口吸完室友泡面。",
+      "patterns": [
+        "弹性机制",
+        "缠结拽出",
+        "一口吸完"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "它很年也很有弹性",
+          "note": "很有弹性"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "相互缠结"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "前面的人业就拽着后面人业一起流出",
+          "note": "拽着后面"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一口续完"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "accident_setup",
+          "note": "下水道事故与复刻动机"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "phenomenon",
+          "note": "为何整碗跑出"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "polymer_explain",
+          "note": "高分子弹性与缠结"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "prank_cta",
+          "note": "对室友实操+求赞"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「因为」「所以」「这就是」串联现象到分子解释。",
+      "patterns": [
+        "因为",
+        "所以",
+        "这就是"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为前面的方便面随着汤",
+          "note": "因为"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "所以后面面也被怪下去了",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "这就是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "前段面被甩出 vs 后段被拽下；玩笑吃室友 vs 科学高分子。",
+      "patterns": [
+        "前甩后拽",
+        "玩笑/科学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "当一部分人业被甩出杯子",
+          "note": "甩出杯子"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "前面的人业就拽着后面人业一起流出",
+          "note": "拽后面"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "高分子"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「方便面为啥能全跑出来呢」唯一驱动问。",
+      "patterns": [
+        "为啥跑出来"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "方便为啥能全过任全过跑出来呢",
+          "note": "为啥跑出来"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "同itom溜汤复刻；重力下落拉直面丝；对室友一口吸完示范。",
+      "patterns": [
+        "同款复刻",
+        "重力拉直",
+        "室友示范"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我们买了同itom的溜汤",
+          "note": "同款溜汤"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "受到自身重力下落时",
+          "note": "重力下落"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一口续完"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「年弹性」落到高分子缠结、拉印力、拽着后面一起流出。",
+      "patterns": [
+        "缠结具象",
+        "拽出具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "中间荣誉中的刀分子面就被拉直了",
+          "note": "拉直面"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "相互缠结"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "前面的人业就拽着后面人业一起流出",
+          "note": "拽着流出"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「很有想法」「刀分子独特年弹性」「成功了」轻判。",
+      "patterns": [
+        "有想法",
+        "独特弹性",
+        "成功"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这个面汤很有想法",
+          "note": "很有想法"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "独特弹性"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "成功了",
+          "note": "成功了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "窗口极短，几乎无显式自我纠正，仅从事故到科学解释的口径切换。",
+      "patterns": [
+        "事故→科学切换"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "事故"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "科学解释"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "事故快切→设问→分子解释稍密→恶作剧短句收+求评。",
+      "patterns": [
+        "快切",
+        "设问",
+        "密解释",
+        "短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "快切"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "方便为啥能全过任全过跑出来呢",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "密解释"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "求评"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "discourse",
+          "form": "这就是"
+        },
+        {
+          "type": "cta_filler",
+          "form": "记得给我反评"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "所以后面面也被怪下去了",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "这就是"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "求评口语"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊愕事故→好奇机制→科普满足→恶作剧得意。",
+      "patterns": [
+        "惊愕",
+        "好奇",
+        "满足",
+        "得意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "惊愕"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "方便为啥能全过任全过跑出来呢",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "科普"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "成功了",
+          "note": "成功"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场下水道流失，收束用同法一口吸完+成功，把事故变绝活。",
+      "patterns": [
+        "事故开",
+        "绝活收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "下水道"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一口续完"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "成功了",
+          "note": "成功"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「下次兄弟…一口续完」「记得给我反评」玩笑教学+求互动。",
+      "patterns": [
+        "玩笑教学CTA",
+        "求评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "下次兄弟是方便面趁它不注意",
+          "note": "下次兄弟"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "给我反评"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR严重乱码本身像真人；室友恶作剧语气；下水道具体场景。",
+      "patterns": [
+        "ASR破绽",
+        "室友梗",
+        "下水道场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "下水道"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "下次兄弟是方便面趁它不注意",
+          "note": "兄弟方便面"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "你把这个人喝入味�",
+          "note": "乱码开场"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR几乎不可读；科学名词被听成「刀分子」；时长过短论证薄。",
+      "patterns": [
+        "ASR崩溃",
+        "术语错听",
+        "过短"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你把这个人喝入味�",
+          "note": "开场乱码"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "刀分子"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "极短收"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从现象提问到高分子缠结的因果链，再迁移到恶作剧应用。",
+      "patterns": [
+        "现象→机制→应用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "方便为啥能全过任全过跑出来呢",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "缠结机制"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "用着的方法",
+          "note": "用这方法"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准宿舍搞笑受众，用「兄弟」「室友泡面」亲密称呼。",
+      "patterns": [
+        "宿舍兄弟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "下次兄弟是方便面趁它不注意",
+          "note": "下次兄弟"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一整晚面"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "下水道；同款溜汤；高分子缠结；一口吸完一整碗。",
+      "patterns": [
+        "下水道",
+        "同款",
+        "缠结",
+        "一口整碗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "最后全都被戴到下水道了",
+          "note": "下水道"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我们买了同itom的溜汤",
+          "note": "同itom"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "缠结"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一口续完"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "事故低密→设问→分子段相对高密→恶作剧低密CTA。",
+      "patterns": [
+        "低",
+        "问",
+        "高",
+        "低CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "中间荣誉中的刀分子面就被拉直了",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "CTA低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "破碎短句为主；因果「因为/所以」连接；收束祈使句。",
+      "patterns": [
+        "破碎短句",
+        "因为所以",
+        "祈使收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "为主",
+          "note": "极短"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "因为前面的方便面随着汤",
+          "note": "因为"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "记得给我反评",
+          "note": "祈使"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "实验恶作剧者：把厨房事故讲成高分子课，再教损友一招。",
+      "patterns": [
+        "事故变课堂",
+        "损友教学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "希望能复刻它的技法",
+          "note": "复刻技法"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "高分子课"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "下次兄弟是方便面趁它不注意",
+          "note": "损友招"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "全给下水道；高分子年弹性；拽着后面流出；一口续完；给我反评。",
+      "patterns": [
+        "下水道",
+        "年弹性",
+        "拽出",
+        "一口",
+        "求评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "全给下水道取了",
+          "note": "下水道"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这就是刀分子独特的年弹性",
+          "note": "年弹性"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "前面的人业就拽着后面人业一起流出",
+          "note": "拽出"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "一口"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "现象→机制→恶作剧应用的60秒科普骨架可改编，必须重录清口+修正术语。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "方便为啥能全过任全过跑出来呢",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而刀分子内相互缠结",
+          "note": "机制"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一口续完一整晚面",
+          "note": "应用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s7",
+    "s16",
+    "s23",
+    "s25",
+    "s29",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31"
+  ],
+  "fields_complete_25": true
+}

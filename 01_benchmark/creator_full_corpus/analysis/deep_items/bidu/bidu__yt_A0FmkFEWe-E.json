@@ -1,0 +1,1090 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_A0FmkFEWe-E",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=A0FmkFEWe-E",
+  "source_sha256": "93c0279a6f87fc0a23670afe1c7927dc268e2c12a2a5ed0ec5575b598a0324ea",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 52,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 39,
+      "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "说是和博士,说是有分学书和"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 15,
+      "snippet": "就是會自动量为足够的科技发展天"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "所以往往看起来十分高等"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "我看你"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "我看你"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "我看你"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 3,
+      "snippet": "我看你"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "魔法水處理"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "是那個魔"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "真的是研究的魔的幾乎魔大一家"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 17,
+      "snippet": "前人用伊斯蘭武本森俠邪律和堅本安安"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "合成了海水淡化魔"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "然後你想到一個ID爾"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "欸我能不能往魔裡面加點什麼大米"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "才能提升到的性能呢"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "於是你往魔裡面稱了探納米果安"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "做的一學習實驗"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 15,
+      "snippet": "果然提升了一片論文就實施寫完了"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "這就是束縛的生活"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 15,
+      "snippet": "在一個狹窄的研究裡面不斷的生瓦"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "所以博士的支持面未必裹博"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "碩屈的研究的事情也並不碩"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "有的專注可能會說"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "這外語有啥用呢"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "欸你問到點子上來"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 13,
+      "snippet": "這個是獨言最讓人難受的一點"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "各位門心自問"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "你們愛課研嗎"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "你們為它想走上吹煙之度嗎"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "很遺憾"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 17,
+      "snippet": "大部分的獨言的人並不想從事課研討厭"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 14,
+      "snippet": "在一項官方的考研動機調查當中"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "只有20%的人表示"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "是對學術研究感性學"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "台前三的是什麼呢"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "提升作業競爭力"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "提高文化層次和為了學力"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "但是研究生期間不僅作業技能"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 17,
+      "snippet": "修給的都是讀文獻做實驗學論文的技能"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "出訣來看"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 18,
+      "snippet": "信息學步也是年薪主要是在19%30%"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 14,
+      "snippet": "同學步也有一半人到17萬以上"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "大約人們已學同學"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "這些也是年薪基本在7"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 10,
+      "snippet": "醫學集中在10萬上下"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "不過這個數據就是大概"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 13,
+      "snippet": "語言關鍵還是人聽自己喜歡上"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "有的人啊"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 13,
+      "snippet": "英文信息就往高興串業裡面啥"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "有的人出發學力"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "而且科研能力"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "ASR严重噪声后切入硕博「看起来高等」与膜研究窄题目示例，用加材料发论文讽刺读研日常。",
+      "patterns": [
+        "噪声后膜研究钩",
+        "发论文讽刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "所以往往看起来十分高等",
+          "note": "十分高等"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "合成了海水淡化魔",
+          "note": "海水淡化魔"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "果然提升了一片論文就實施寫完了",
+          "note": "一篇论文就写完了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "窄题生瓜式科研→博士不博硕士不硕→读研难受点：多数不想科研→动机调查数据→技能错配与薪资对照→关键还是人听自己喜欢。",
+      "patterns": [
+        "窄题讽刺",
+        "动机数据",
+        "技能错配",
+        "兴趣收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束缚的生活"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以博士的支持面未必裹博",
+          "note": "博士未必博"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "大部分的獨言的人並不想從事課研討厭",
+          "note": "并不想从事科研"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "只有20%"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "修給的都是讀文獻做實驗學論文的技能",
+          "note": "读文献做实验"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "关键还是喜欢"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "asr_membrane",
+          "note": "噪声与膜研究发论文讽刺"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39"
+          ],
+          "function": "motivation_survey",
+          "note": "爱不爱科研与动机调查"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "skill_salary_close",
+          "note": "技能错配薪资对照与兴趣收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「於是」实验推进；「這就是」定性；「所以」博士不博；「欸你問到點子上」接问；「但是」技能反差。",
+      "patterns": [
+        "於是",
+        "這就是",
+        "欸你問到",
+        "但是"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "於是你往魔裡面稱了探納米果安",
+          "note": "於是你往魔裡面"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "這就是束縛"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "欸你問到點子上來",
+          "note": "問到點子上"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但是研究生期間不僅作業技能",
+          "note": "但是研究生期間"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "看起来高等vs狭窄生瓜；博士/硕士名实不符；想提升竞争力vs练的是论文技能；爱科研20%vs前三就业学历动机。",
+      "patterns": [
+        "高等/狭窄",
+        "名实不符",
+        "动机/技能错配"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "所以往往看起来十分高等",
+          "note": "十分高等"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "在一個狹窄的研究裡面不斷的生瓦",
+          "note": "狹窄的研究"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以博士的支持面未必裹博",
+          "note": "未必裹博"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "大部分的獨言的人並不想從事課研討厭",
+          "note": "並不想科研"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "提升作業競爭力",
+          "note": "提升競爭力"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「這外語有啥用呢」代众问；「你們愛課研嗎」「為什麼想走上科研」灵魂拷问。",
+      "patterns": [
+        "代众问有啥用",
+        "爱不爱科研拷问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "這外語有啥用呢",
+          "note": "有啥用呢"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "愛課研嗎"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你們為它想走上吹煙之度嗎",
+          "note": "走上吹煙之度嗎"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "海水淡化膜加碳纳米管发论文；官方考研动机20%与前三动机；信息/同学部/医学年薪区间。",
+      "patterns": [
+        "加料发论文例",
+        "动机百分比",
+        "年薪区间例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "於是你往魔裡面稱了探納米果安",
+          "note": "探納米"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "果然提升了一片論文就實施寫完了",
+          "note": "論文寫完"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "信息學步也是年薪主要是在19%30%",
+          "note": "19%30%年薪"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「束縛生活」落到窄题加料实验；「不想科研」落到动机调查百分比；「技能」落到文献实验论文。",
+      "patterns": [
+        "束缚→窄题实验",
+        "不想→20%",
+        "技能→文献实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束縛的生活"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "於是你往魔裡面稱了探納米果安",
+          "note": "加料實驗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "修給的都是讀文獻做實驗學論文的技能",
+          "note": "讀文獻做實驗"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定这就是束缚生活；博士未必博；大部分读研人不想科研；关键还是人听自己喜欢。",
+      "patterns": [
+        "束缚断定",
+        "名实判断",
+        "动机判断",
+        "兴趣关键"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束縛的生活"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以博士的支持面未必裹博",
+          "note": "未必裹博"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "大部分的獨言的人並不想從事課研討厭",
+          "note": "並不想"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "關鍵還是喜歡"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「不過這個數據就是大概」降低薪资数据精度；承认语言关键是兴趣。",
+      "patterns": [
+        "数据精度降调",
+        "兴趣修正焦点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "不過這個數據就是大概",
+          "note": "數據就是大概"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "關鍵還是喜歡"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "噪声碎句→膜实验叙事中速→名实金句急顿→拷问短句→数据中密→兴趣收缓。",
+      "patterns": [
+        "噪声碎",
+        "叙事中速",
+        "拷问短句",
+        "数据中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "噪声"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "欸我能不能往魔裡面加點什麼大米",
+          "note": "加料叙事"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "拷问"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_loop",
+          "form": "我看你"
+        },
+        {
+          "type": "discourse",
+          "form": "欸"
+        },
+        {
+          "type": "discourse",
+          "form": "很遺憾"
+        },
+        {
+          "type": "hedge",
+          "form": "不過這個數據就是大概"
+        },
+        {
+          "type": "repair_asr",
+          "form": "和 和 和"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我看你",
+          "note": "我看你"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "欸我能不能往魔裡面加點什麼大米",
+          "note": "欸我能不能"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "很遺憾",
+          "note": "很遺憾"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不過這個數據就是大概",
+          "note": "數據大概"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "和重复噪声"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "开场混乱→讽刺科研流水线的冷笑→拷问沉重→数据冷静→兴趣温吞收（窗截断感）。",
+      "patterns": [
+        "混乱",
+        "冷笑",
+        "沉重",
+        "冷静"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "混乱"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束缚冷笑"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "很遺憾",
+          "note": "遺憾"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "喜歡"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「读研是否搞科研」回到动机错配与「关键喜欢」，弱闭环（转录截断）。",
+      "patterns": [
+        "动机错配弱闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "愛課研嗎"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "大部分的獨言的人並不想從事課研討厭",
+          "note": "並不想"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "喜歡"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「各位捫心自問」反思式软CTA；无报名/课程硬推。",
+      "patterns": [
+        "捫心自问软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "各位門心自問",
+          "note": "捫心自問"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "愛課研嗎"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "重ASR损毁、我看你循环、加米发论文土味讽刺、捫心自问，呈口播课堂残片。",
+      "patterns": [
+        "ASR损毁",
+        "土味讽刺",
+        "捫心自问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "ASR"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "我看你",
+          "note": "我看你"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "欸我能不能往魔裡面加點什麼大米",
+          "note": "加點大米"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "各位門心自問",
+          "note": "捫心自問"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重，术语与薪资数字不可靠；窗口在兴趣句截断；论证跳跃。",
+      "patterns": [
+        "ASR严重",
+        "窗截断",
+        "数字不可靠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "开场不可读"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "信息學步也是年薪主要是在19%30%",
+          "note": "年薪数字损"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "而且科研能力",
+          "note": "窗尾截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "用「欸我能不能加点什么」展示科研idea生成，再跳到「有啥用」自问，思考链条外露但被ASR打断。",
+      "patterns": [
+        "idea生成外露",
+        "有啥用自问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "欸我能不能往魔裡面加點什麼大米",
+          "note": "能不能加點"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "這外語有啥用呢",
+          "note": "有啥用"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "欸你問到點子上來",
+          "note": "問到點子上"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "面向犹豫读研的学生，用「各位捫心自問你們愛科研嗎」直接点名。",
+      "patterns": [
+        "犹豫读研学生",
+        "直接点名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "各位門心自問",
+          "note": "各位捫心自問"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "愛課研嗎"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "海水淡化膜；碳纳米；20%学术动机；提升就业竞争力；文献实验论文技能；年薪区间残片。",
+      "patterns": [
+        "膜实验锚",
+        "20%",
+        "技能锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "合成了海水淡化魔",
+          "note": "海水淡化"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "提升作業競爭力",
+          "note": "競爭力"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "修給的都是讀文獻做實驗學論文的技能",
+          "note": "讀文獻"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "噪声极低密→实验叙事中密→金句中密→调查数据高密→薪资残片中低密→兴趣降密。",
+      "patterns": [
+        "噪声低",
+        "数据高密",
+        "截断降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哦 和 和 和 和 和 和 和 和 和 和 和 和 和 都 the  mind",
+          "note": "低密噪声"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "数据高密"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "噪声→膜寓言→名实金句→代问→动机数据→技能/薪资→兴趣。",
+      "patterns": [
+        "寓言-金句-数据-兴趣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "合成了海水淡化魔",
+          "note": "寓言"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以博士的支持面未必裹博",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "在一項官方的考研動機調查當中",
+          "note": "数据"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "兴趣"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "清醒劝退型学长：用讽刺寓言拆读研幻觉，数据冷，结尾留兴趣余地。",
+      "patterns": [
+        "劝退学长",
+        "讽刺寓言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束縛"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "大部分的獨言的人並不想從事課研討厭",
+          "note": "並不想科研"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "語言關鍵還是人聽自己喜歡上",
+          "note": "喜歡"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「加點…發論文」；「博士未必博，碩士並不碩」；「只有20%」；「捫心自問愛不愛科研」。",
+      "patterns": [
+        "加料发论文",
+        "博士不博",
+        "20%",
+        "捫心自问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "果然提升了一片論文就實施寫完了",
+          "note": "論文寫完"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以博士的支持面未必裹博",
+          "note": "未必裹博"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你們愛課研嗎",
+          "note": "愛課研嗎"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「窄题寓言→动机数据→技能错配→兴趣」可改编读研决策口播，必须重录并核实数据。",
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "這就是束縛的生活",
+          "note": "束缚寓言"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "只有20%的人表示",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "修給的都是讀文獻做實驗學論文的技能",
+          "note": "技能错配"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s4",
+    "s13",
+    "s19",
+    "s20",
+    "s22",
+    "s32",
+    "s34",
+    "s40",
+    "s48",
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s49",
+    "s50",
+    "s51",
+    "s52"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,777 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_baf-mj2C8FA",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=baf-mj2C8FA",
+  "source_sha256": "374a611df7e5544dac8be6a34f230868187fb5df55a7a276a1f331512700ff6c",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 178,
+  "fields": {
+    "opening_move": {
+      "summary": "以自嘲翻盘开场：先承认曾骂王一博不懂资本，再用股权绑定反转钩住听众。",
+      "patterns": [
+        "自嘲旧判断后接新闻反转钩子",
+        "用后花园隐喻抬升利害"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "老师我之前罵王一博近生不了资本",
+          "note": "自嘲旧观点"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "烂你服不上墙现在反转了",
+          "note": "反转预告"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "王一博直接把岳华这个17亿的上市公司",
+          "note": "17亿上市公司锚点"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "表面分股是人情，实为岳华用锁定期稳业务；粉丝股东叙事是配菜；利润线与市值线拆分后，价值链反向于粉丝幻想。",
+      "patterns": [
+        "表面人情到实质锁人",
+        "粉丝叙事降级为配菜",
+        "利润线与市值线拆分"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "所以这反而是王一博买了个人情",
+          "note": "人情表述"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "用4年时间把人锁住",
+          "note": "四年锁人"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这种不同不养的头线上的转变是配菜",
+          "note": "配菜判断"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "但这个逻辑完全是相反的",
+          "note": "逻辑相反"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "开场反转并提出人情假说",
+          "note": "旧骂到股权新闻到人情解读"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "拆解1.5%稀释对岳华的真实收益",
+          "note": "数字加解锁条款加投资故事保全"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s46"
+          ],
+          "function": "从王一博侧论证吸引力有限",
+          "note": "账面价值对比代言收入"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s66",
+            "s67",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "拆粉丝叙事并建立利润市值双线",
+          "note": "配菜与两条掏钱线"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s97",
+            "s98",
+            "s100",
+            "s101"
+          ],
+          "function": "核心问题：价值链与羊毛出在羊身上",
+          "note": "反向粉丝幻想"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s107",
+            "s108",
+            "s109",
+            "s126",
+            "s128",
+            "s131",
+            "s144",
+            "s176",
+            "s177"
+          ],
+          "function": "拉开时间轴看市值与模式崩解风险",
+          "note": "IPO峰值到续约弱反弹到渠道化崩盘"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用所以、而这又引出、但我们拉开看，把假说推进到双线与时间轴。",
+      "patterns": [
+        "所以收束假说",
+        "引出核心问题换挡",
+        "拉开看拉远镜头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "所以这反而是王一博买了个人情",
+          "note": "所以收束"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "这又引出了我核心问题",
+          "note": "引出核心问题"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "但我们拉开看",
+          "note": "拉开时间轴"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "系统对位岳华稳盘收益与王侧低吸引力，粉丝晋升叙事与资本配菜，利润游戏与市值游戏。",
+      "patterns": [
+        "双边成本收益对照",
+        "叙事层与交易层对照",
+        "利润概念与资本概念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "但对于岳华而言分一点股份",
+          "note": "岳华侧"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "其实吸引力不大",
+          "note": "王侧吸引力小"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "敬利认是快捷概念",
+          "note": "利润快捷概念"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "市值管理才是资本概念",
+          "note": "市值管理才是资本"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用反问压粉丝叙事并逼近市场定价真相。",
+      "patterns": [
+        "市场承受力反问",
+        "续约该大涨吗反讽提问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你要真坚持市场能承受多少呢",
+          "note": "市场能承受多少"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "应该大长对吧",
+          "note": "应该大涨对吧"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "但你才当天越华股价如何",
+          "note": "当天股价如何"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以股权条款、港币金额、代言收入、IPO市值曲线作例证。",
+      "patterns": [
+        "条款级案例四年百分之二十五",
+        "市值时间点案例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "而且分4年解锁每年25%",
+          "note": "分四年每年百分之二十五"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而王一博这边2500万港币",
+          "note": "两千五百万港币"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "2.23年IPO市值冲上50亿港币",
+          "note": "IPO冲五十亿"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "先给传递信号与概念股抽象标签，再落到解锁条款与财报受众。",
+      "patterns": [
+        "抽象信号功能落到不会轻易走",
+        "概念股标签落到财报写给投资者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "这个动作完成了传避信号的功能",
+          "note": "传递信号功能"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "就是看上去他不会轻易走",
+          "note": "不会轻易走"
+        },
+        {
+          "sentence_id": "s142",
+          "snippet": "财报的目标受众不是粉丝",
+          "note": "财报受众不是粉丝"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "王一博是概念股",
+          "note": "王一博是概念股"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "口吻锋利：称财报话术为屁话，直判粉丝吹法是配菜、逻辑相反。",
+      "patterns": [
+        "贬斥财报话术",
+        "降级粉丝叙事",
+        "明确反向判决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "能理解这种屁话",
+          "note": "理解这种屁话"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这种不同不养的头线上的转变是配菜",
+          "note": "转变是配菜"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "但这个逻辑完全是相反的",
+          "note": "逻辑完全相反"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "主动标注主观判断不可轻信，并把旧骂立场翻成现解读。",
+      "patterns": [
+        "纯主观免责声明",
+        "旧判断翻盘自纠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "这个纯主观你们不要轻易采信",
+          "note": "纯主观不要轻易采信"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "老师我之前罵王一博近生不了资本",
+          "note": "承认以前骂过"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句连击拆交易后插入嘲讽停顿，再进入双线慢讲与时间轴加速。",
+      "patterns": [
+        "条款短句连击",
+        "嘲讽停顿后升维",
+        "时间轴数字加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "而且分4年解锁每年25%",
+          "note": "短条款"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "就烧高香吧",
+          "note": "烧高香停顿"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "这两条线就清楚了",
+          "note": "两条线就清楚了"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "你瞧了重复催听",
+        "我太会谢了口语感叹",
+        "烧高香吧口语收束",
+        "不已不已ASR重复片段"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "你瞧了",
+          "note": "重复催听"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我太会谢了",
+          "note": "口语感叹"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "就烧高香吧",
+          "note": "口语收束"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "不已不已不已不已",
+          "note": "ASR或口误重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽开场，冷算账，对粉丝吹法恼怒，对模式崩解冷静收束。",
+      "patterns": [
+        "嘲讽升温",
+        "算账降温",
+        "恼怒再升",
+        "冷静收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我太会谢了",
+          "note": "会谢兴奋嘲讽"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但粉丝还在那儿吹",
+          "note": "粉丝还在吹"
+        },
+        {
+          "sentence_id": "s177",
+          "snippet": "这个模式就崩了",
+          "note": "模式就崩了"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到一人大到成渠道则模式崩，收束开场资本博弈命题，并承认公司前期投入巨大。",
+      "patterns": [
+        "模式崩解闭环",
+        "补一句公司投入成本"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s176",
+          "snippet": "但当一个一人大到足以自己成为渠道的时候",
+          "note": "一人成渠道"
+        },
+        {
+          "sentence_id": "s177",
+          "snippet": "这个模式就崩了",
+          "note": "模式崩了"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "但公司前期投入确实巨大",
+          "note": "前期投入巨大"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无明显求赞关注CTA；以这个基本厉害关系盘明白了吧完成认知收割式收束。",
+      "patterns": [
+        "认知确认式收束而非订阅CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "这个基本厉害关系应该算是盘名败了吧",
+          "note": "盘明白了吧"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "夹带脏话式贬斥、粉丝嘲讽、主观免责与口语重复，不像模板公文。",
+      "patterns": [
+        "屁话类口语贬斥",
+        "纯主观免责",
+        "粉丝吹法点名嘲讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "能理解这种屁话",
+          "note": "屁话"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这个纯主观你们不要轻易采信",
+          "note": "主观免责"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但粉丝还在那儿吹",
+          "note": "粉丝还在吹"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中后段ASR严重重复（不已、这些人），削弱价值链讲解清晰度；部分专名被听写扭曲。",
+      "patterns": [
+        "ASR循环噪声段",
+        "专名听写误差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s90",
+          "snippet": "不已不已不已不已",
+          "note": "不已重复"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "几人家 家 家 家 家 家 家 家",
+          "note": "家家家重复"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "伤疑伤疑伤疑伤疑伤疑伤疑",
+          "note": "伤疑重复"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示无视直觉判断再自我限缩可信度，并当场推演价值链步骤。",
+      "patterns": [
+        "暴露主观直觉再限缩",
+        "当场推价值链步骤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "而且无视一个直觉判断",
+          "note": "直觉判断"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这个纯主观你们不要轻易采信",
+          "note": "不要轻易采信"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "整个价值链条是怎么运转的",
+          "note": "价值链条怎么运转"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众当需被纠正的粉丝叙事受害者或其他股东，并给资本速成课。",
+      "patterns": [
+        "点名其他股东烧高香",
+        "资本试讲教学姿态"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "你们这些其他股东手里的股价没费了",
+          "note": "其他股东"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这里给你们资本试讲",
+          "note": "给你们资本试讲"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "锚定1.5%、2500万、4年25%、17亿市值、IPO50亿、续约日涨2.2%等硬数字。",
+      "patterns": [
+        "股权比例与金额",
+        "市值与涨跌幅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "1.5%的股份只是表面上价值2500万",
+          "note": "1.5%与2500万"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "王一博直接把岳华这个17亿的上市公司",
+          "note": "17亿上市公司"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "只长了2.2%",
+          "note": "只涨了2.2%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场钩子中密，条款拆解高密，粉丝嘲讽中密，市值时间轴高密，尾段ASR低密。",
+      "patterns": [
+        "条款段峰值",
+        "时间轴峰值",
+        "尾噪声谷值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "而且分4年解锁每年25%",
+          "note": "条款高密"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "2.23年IPO市值冲上50亿港币",
+          "note": "市值高密"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "几人家 家 家 家 家 家 家 家",
+          "note": "噪声谷"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "新闻钩到假说到条款证明到对侧证伪到双线升维到价值链到时间轴验证。",
+      "patterns": [
+        "假说证明升维",
+        "时间轴回证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "所以这反而是王一博买了个人情",
+          "note": "假说"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "这两条线就清楚了",
+          "note": "双线清楚"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "这个反弹力度说明市场的定价是利空出境",
+          "note": "市场定价验证"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷嘲资本巫师人设：敢骂粉丝叙事、敢贬财报话术，同时承认人情主观。",
+      "patterns": [
+        "反粉丝叙事锐评",
+        "财报话术鄙视链",
+        "主观人情保留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "能理解这种屁话",
+          "note": "屁话"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "就是王一博还是很讲情义和道义的",
+          "note": "讲情义主观"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "但这个逻辑完全是相反的",
+          "note": "逻辑相反"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "花小钱办大事、羊毛出在羊身上、利润快捷与市值资本对句可复述。",
+      "patterns": [
+        "花小钱办大事口令",
+        "羊毛出在羊身上",
+        "利润与市值对句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "花小钱半大事",
+          "note": "花小钱半大事"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "杨毛永远出在杨身上",
+          "note": "羊毛出在羊身上"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "敬利认是快捷概念",
+          "note": "利润快捷概念"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "双线拆解与叙事配菜化可迁到观屿财经口播，但需清洗脏话与ASR噪声，并改写成更干净的条款讲解节奏。",
+      "evidence": [
+        {
+          "sentence_id": "s66",
+          "snippet": "敬利认是快捷概念",
+          "note": "利润市值概念可迁"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "但这个逻辑完全是相反的",
+          "note": "反向逻辑结构可迁"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这种不同不养的头线上的转变是配菜",
+          "note": "配菜降级手法可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s10",
+    "s37",
+    "s50",
+    "s83",
+    "s3",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s35",
+    "s36",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s66",
+    "s67",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s84",
+    "s85",
+    "s97",
+    "s98",
+    "s100",
+    "s101",
+    "s107",
+    "s108",
+    "s109",
+    "s126",
+    "s128",
+    "s131",
+    "s144",
+    "s176",
+    "s177",
+    "s125",
+    "s33",
+    "s34",
+    "s142",
+    "s22",
+    "s53",
+    "s29",
+    "s20",
+    "s90",
+    "s178",
+    "s154",
+    "s173",
+    "s52",
+    "s28",
+    "s65",
+    "s127",
+    "s54"
+  ],
+  "fields_complete_25": true
+}

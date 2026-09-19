@@ -1,0 +1,1486 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_qgqr3gvQsGQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=qgqr3gvQsGQ",
+  "source_sha256": "aa7f13f1bebc1c451233733c556dddfa64f9744c1fb4c72483506237427a04e5",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 96,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "是一棵"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "可以自己生長的晶體樹"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 5,
+      "snippet": "而我們用它"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "種了一整片森林"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 4,
+      "snippet": "我小時候"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "很喜歡這種玩具樹"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "只需要將兩片紙"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "插在底座上"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "澆灌配置好的溶液"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "睡一晚上就能獲得"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "一棵長滿彩色晶體的樹"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "現在過年回家"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "已經有小朋友叫我叔了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "這棵小樹也很難再讓我"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "感受到童年的快樂了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "那能不能用它"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 5,
+      "snippet": "再重溫一下"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "小時候的震撼呢"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "我們的想法是"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "把四個季節的晶體樹"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "種到沙盤裡面"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "並讓一列小火車"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "在其中穿越四季"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "迎接新的一年"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "我們做了幾個巨大的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "代表不同季節的沙盤"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "裡面的小圓孔"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "代表我這一年以來"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "踩的坑"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "其實是用來種樹的"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "但是直接拍沙盤肯定不行"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "因為背景會穿幫"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "所以我們搞來了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "三台投影儀"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "和弧形幕布"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 10,
+      "snippet": "做出了24小時變化的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 4,
+      "snippet": "天空背景"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "並且拉來了機械臂"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "和探針鏡頭"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "方便我們在沙盤上"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "大膽運鏡"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "一切就緒"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "只差我們的主角"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "晶體樹了"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "一開始我們覺得"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "市場上的樹都不夠好看"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "決定做自己的樹"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 10,
+      "snippet": "所以我們買來了幾種紙"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "設計好樹的形狀"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 11,
+      "snippet": "配置好了磷酸二氫鉀溶液"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "信心滿滿地種了下去"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "結果一天過去"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 6,
+      "snippet": "壓根沒長出來"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "這是因為它的原理是"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 11,
+      "snippet": "溶液通過紙的孔隙往上走"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "在紙的邊緣蒸發"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 4,
+      "snippet": "結出晶體"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "除了我們買的紙"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "都不夠吸水之外"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "圖省事兒用的激光切割機"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "也把紙的邊緣給燒焦了"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "自然不行"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 10,
+      "snippet": "所以我們改用了吸水紙"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "再用剪刀剪出樹的形狀"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 5,
+      "snippet": "終於成功了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "因為可能得拍很多次"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "我們3D打印了"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 8,
+      "snippet": "兩千多套蓄水底座"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "裁剪了六千多棵小樹"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "而最後要面對的問題"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "就是冬天來了"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "不僅氣溫很低"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 6,
+      "snippet": "濕度也降低了"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 7,
+      "snippet": "不利於晶體析出"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "種植晶體樹的失敗率"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 3,
+      "snippet": "會很高"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "好在COLMO給我們"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "提供了圖靈二代中央空調"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "它能通過AI智能算法"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "自行調整運行模式"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 8,
+      "snippet": "持續保持溫濕平衡"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 10,
+      "snippet": "助力晶體樹的生長需求"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "讓樹和我們拍攝的同事"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "都有更好的狀態"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 11,
+      "snippet": "如果是在回南天和梅雨季"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 8,
+      "snippet": "圖靈二代中央空調"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "還能做到除濕不降溫"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 6,
+      "snippet": "把舒適的體感"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 7,
+      "snippet": "延續到一年四季"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 2,
+      "snippet": "終於"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 8,
+      "snippet": "在種了一個月樹後"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 10,
+      "snippet": "我們拍到了下面的畫面"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "祝大家在新的一年"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "順順利利"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「可以自己生长的晶体树」+种了一整片森林视觉钩，童年玩具树回忆铺垫重温震撼。",
+      "patterns": [
+        "晶体树视觉钩",
+        "童年回忆铺垫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "可以自己生長的晶體樹",
+          "note": "自己生長的晶體樹"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "種了一整片森林",
+          "note": "種了一整片森林"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "很喜歡這種玩具樹",
+          "note": "玩具樹"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "小時候的震撼呢",
+          "note": "小時候的震撼"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "童年树→四季沙盘小火车构想→投影仪幕布机械臂基建→自制树失败改吸水纸→海量底座裁树→冬天温湿度难题→空调赞助解决方案→拍成祝福收。",
+      "patterns": [
+        "构想",
+        "基建",
+        "失败迭代",
+        "环境难题",
+        "赞助收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "把四個季節的晶體樹",
+          "note": "四個季節"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "三台投影儀",
+          "note": "投影儀"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "沒長出來"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "終於成功了",
+          "note": "終於成功"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "兩千多套"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "提供了圖靈二代中央空調",
+          "note": "中央空調"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "祝大家順利"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "childhood_hook",
+          "note": "晶体树钩与童年动机"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "set_build",
+          "note": "四季沙盘与拍摄基建"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68"
+          ],
+          "function": "fail_iterate",
+          "note": "自制树失败与原理修正"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "scale_climate",
+          "note": "量产与冬天温湿度难题"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96"
+          ],
+          "function": "sponsor_close",
+          "note": "空调赞助与成片祝福"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「那能不能」动机转方案；「所以」做沙盘；「但是」背景穿帮；「結果」失败；「這是因為」原理；「好在」赞助解围；「終於」成片。",
+      "patterns": [
+        "那能不能",
+        "所以",
+        "但是穿帮",
+        "結果",
+        "好在",
+        "終於"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "那能不能用它",
+          "note": "那能不能"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "所以",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但是直接拍沙盤肯定不行",
+          "note": "但是直接拍"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "結果一天過去",
+          "note": "結果一天過去"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "這是因為它的原理是",
+          "note": "這是因為"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "好在COLMO給我們",
+          "note": "好在"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "終於",
+          "note": "終於"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "童年快乐vs长大难再快乐；市场树不好看vs自制；信心满满vs一天没长；激光烧焦vs剪刀成功；冬天不利vs空调平衡。",
+      "patterns": [
+        "童年/长大",
+        "市场/自制",
+        "信心/失败",
+        "激光/剪刀",
+        "冬天/空调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "感受到童年的快樂了",
+          "note": "難再快樂"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "市場上的樹都不夠好看",
+          "note": "不夠好看"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "沒長出來"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "也把紙的邊緣給燒焦了",
+          "note": "燒焦了"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "再用剪刀剪出樹的形狀",
+          "note": "剪刀"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "種植晶體樹的失敗率",
+          "note": "失敗率高"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「能不能用它再重溫小時候震撼」核心动机问；其余陈述推进。",
+      "patterns": [
+        "重温震撼动机问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "那能不能用它",
+          "note": "那能不能用它"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "小時候的震撼呢",
+          "note": "小時候的震撼呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "两片纸浇溶液睡一晚；四季沙盘小火车；三台投影弧幕；磷酸二氢钾；2000底座6000树；COLMO图灵二代空调。",
+      "patterns": [
+        "童年做法例",
+        "沙盘火车",
+        "投影幕",
+        "化学溶液",
+        "量产数",
+        "空调品牌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只需要將兩片紙",
+          "note": "兩片紙"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "並讓一列小火車",
+          "note": "小火車"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "三台投影儀",
+          "note": "三台投影儀"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "配置好了磷酸二氫鉀溶液",
+          "note": "磷酸二氫鉀"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "兩千多套"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "提供了圖靈二代中央空調",
+          "note": "圖靈二代"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「重温震撼」落到四季沙盘火车；「原理」落到毛细蒸发结晶；「温湿平衡」落到具体空调型号功能。",
+      "patterns": [
+        "震撼→沙盘火车",
+        "原理→孔隙蒸发",
+        "温湿→空调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "把四個季節的晶體樹",
+          "note": "四季晶體樹"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "溶液通過紙的孔隙往上走",
+          "note": "孔隙往上走"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "持續保持溫濕平衡",
+          "note": "溫濕平衡"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "提供了圖靈二代中央空調",
+          "note": "中央空調"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定直接拍沙盘不行会穿帮；市场树不够好看；激光烧边自然不行；冬天失败率会很高。",
+      "patterns": [
+        "穿帮判断",
+        "不好看",
+        "自然不行",
+        "失败率高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "但是直接拍沙盤肯定不行",
+          "note": "肯定不行"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "市場上的樹都不夠好看",
+          "note": "不夠好看"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "自然不行",
+          "note": "自然不行"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "會很高",
+          "note": "會很高"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "小圆孔先说踩的坑再改口其实种树；自制失败后用原理解释并改吸水纸+剪刀。",
+      "patterns": [
+        "踩坑改口",
+        "失败后改材料工艺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "踩的坑",
+          "note": "踩的坑"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "其實是用來種樹的",
+          "note": "其實是種樹"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "沒長出來"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我們改用了吸水紙",
+          "note": "改用吸水紙"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "诗意短钩→构想中速→基建列举加速→失败顿挫→量产数字连打→赞助段稍长→祝福短收。",
+      "patterns": [
+        "诗意短钩",
+        "列举加速",
+        "失败顿挫",
+        "数字连打",
+        "短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "可以自己生長的晶體樹",
+          "note": "短钩"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "三台投影儀",
+          "note": "基建列举"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "失败顿"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "数字"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "祝福"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "惊叹开场→怀旧柔→创作兴奋→失败挫败→成功喜悦→冬天焦虑→赞助解围安心→祝福暖收。",
+      "patterns": [
+        "惊叹",
+        "怀旧",
+        "挫败",
+        "喜悦",
+        "焦虑",
+        "暖收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "種了一整片森林",
+          "note": "森林惊叹"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "感受到童年的快樂了",
+          "note": "童年难再"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "挫败"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "終於成功了",
+          "note": "成功"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "種植晶體樹的失敗率",
+          "note": "焦慮"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "祝福"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从种晶体森林回到「种了一月后拍到画面」+新年顺利祝福，活动闭环。",
+      "patterns": [
+        "种成拍到闭环",
+        "新年祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "種了一整片森林",
+          "note": "森林开"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "在種了一個月樹後",
+          "note": "種了一個月"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "順順利利"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "品牌软广CTA（COLMO空调功能）；祝福式收束无强购买指令。",
+      "patterns": [
+        "赞助软广",
+        "祝福收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "提供了圖靈二代中央空調",
+          "note": "COLMO空調"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "還能做到除濕不降溫",
+          "note": "除濕不降溫"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "祝大家順利"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "叫我叔、踩坑改口、激光烧焦、2000底座6000树具体量，强工作室纪实感。",
+      "patterns": [
+        "叫我叔",
+        "踩坑改口",
+        "烧焦细节",
+        "量产数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "已經有小朋友叫我叔了",
+          "note": "叫我叔"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "踩的坑",
+          "note": "踩的坑"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "也把紙的邊緣給燒焦了",
+          "note": "燒焦"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "裁剪了六千多棵小樹",
+          "note": "六千多棵"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中后段品牌植入较长；科学原理一笔带过；成片画面依赖视频无法从文本验证。",
+      "patterns": [
+        "软广偏长",
+        "原理简",
+        "文本难验成片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "好在COLMO給我們",
+          "note": "好在贊助起"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "圖靈二代中央空調",
+          "note": "回南天軟廣"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我們拍到了下面的畫面",
+          "note": "下面的畫面"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "构想→穿帮问题→自制失败→原理归因→改材料成功→气候新问题→赞助解，迭代链完整外露。",
+      "patterns": [
+        "迭代链外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "但是直接拍沙盤肯定不行",
+          "note": "穿帮"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "失敗"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "這是因為它的原理是",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我們改用了吸水紙",
+          "note": "改吸水紙"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "種植晶體樹的失敗率",
+          "note": "冬天難題"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当怀旧同事粉，用「小朋友叫我叔」共龄，邀请见证重温震撼的制作过程。",
+      "patterns": [
+        "怀旧共龄粉",
+        "见证制作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "已經有小朋友叫我叔了",
+          "note": "叫我叔"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "小時候的震撼呢",
+          "note": "重温震撼"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "睡一晚上就能獲得",
+          "note": "睡一晚上"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "晶体树；四季沙盘小火车；三投影弧幕；磷酸二氢钾；吸水纸剪刀；2000底座6000树；COLMO图灵二代。",
+      "patterns": [
+        "树锚",
+        "沙盘火车",
+        "化学",
+        "量产数",
+        "空调型号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "可以自己生長的晶體樹",
+          "note": "晶體樹"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "並讓一列小火車",
+          "note": "小火車"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "配置好了磷酸二氫鉀溶液",
+          "note": "磷酸二氫鉀"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "兩千多套"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "提供了圖靈二代中央空調",
+          "note": "圖靈二代"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场诗意低密→构想中密→基建高密列举→失败原理中高密→量产数字高密→赞助中密功能→祝福降密。",
+      "patterns": [
+        "基建高密",
+        "数字高密",
+        "祝福降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "三台投影儀",
+          "note": "基建密"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "数字密"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "它能通過AI智能算法",
+          "note": "AI算法密"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "视觉钩→童年→动机问→构想→基建→主角→失败迭代→量产→气候→赞助→成片祝福。",
+      "patterns": [
+        "钩-童年-构想-基建-迭代-赞助-祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "這",
+          "note": "钩"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我小時候",
+          "note": "童年"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我們的想法是",
+          "note": "构想"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一開始我們覺得",
+          "note": "失敗迭代"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "好在COLMO給我們",
+          "note": "贊助"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "祝福"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "浪漫工程师何同学：把童年玩具做成森林工程，坦然晒失败，结尾温和祝福。",
+      "patterns": [
+        "浪漫工程师",
+        "晒失败",
+        "温和祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "種了一整片森林",
+          "note": "森林"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "沒長出來"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "終於成功了",
+          "note": "成功"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "順利"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「自己生長的晶體樹」；「種了一整片森林」；「小朋友叫我叔」；「兩千多套底座」；「順順利利」。",
+      "patterns": [
+        "自生长树",
+        "一片森林",
+        "叫我叔",
+        "两千底座",
+        "顺顺利利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "可以自己生長的晶體樹",
+          "note": "自生長"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "種了一整片森林",
+          "note": "森林"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "已經有小朋友叫我叔了",
+          "note": "叫我叔"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "兩千多套蓄水底座",
+          "note": "兩千多套"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "祝大家在新的一年",
+          "note": "順順利利"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「童年物→工程化重做→失败迭代→环境解法」制作纪录片骨架可迁移，需压缩软广段。",
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "小時候的震撼呢",
+          "note": "重温震撼"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "壓根沒長出來",
+          "note": "失败迭代"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "終於成功了",
+          "note": "成功"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s5",
+    "s7",
+    "s19",
+    "s21",
+    "s36",
+    "s55",
+    "s67",
+    "s70",
+    "s80",
+    "s95",
+    "s1",
+    "s2",
+    "s4",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s68",
+    "s69",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s96"
+  ],
+  "fields_complete_25": true
+}

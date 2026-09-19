@@ -1,0 +1,22 @@
+{
+  "structural_pass": true,
+  "schema_ok_31_60": 30,
+  "errs": [],
+  "creators_1_60": {
+    "wushi_caijing": 34,
+    "banfo_xianren": 5,
+    "bidu": 5,
+    "wenyifei_jijiu": 4,
+    "hetongxue": 4,
+    "xiaolin_shuo": 8
+  },
+  "mods": {
+    "FULL_SPOKEN": 47,
+    "COMPLETE_TEXT": 13
+  },
+  "tiers": {
+    "HIGH": 46,
+    "MEDIAN": 14
+  },
+  "template_risk": 0
+}

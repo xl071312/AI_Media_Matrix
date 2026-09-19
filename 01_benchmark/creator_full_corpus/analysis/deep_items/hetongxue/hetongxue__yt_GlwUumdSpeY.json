@@ -1,0 +1,2086 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_GlwUumdSpeY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=GlwUumdSpeY",
+  "source_sha256": "86f67f91da95f4cb886db82b3746ff6d2a780487ce34636583295ec349d5746f",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 226,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "这是刚刚发布的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "全新Mac mini"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "真的是非常小"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 3,
+      "snippet": "大家好"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 5,
+      "snippet": "我是何同学"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "我从杭州的工作室"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "来到了加州的洛杉矶"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "体验了刚刚发布的"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "M4 Mac系列"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "让我用最快的速度"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "带大家看看"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "这次都有哪些更新"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "变化最大的是Mac mini"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "它的高度"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "比原来厚了1.4厘米"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "大概一个指节的长度"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 9,
+      "snippet": "但是占桌面积比原来"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "小了一半还不止"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "还不到两台手机的大小"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "为了适应这么小的机身"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "苹果设计了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "全新的散热结构"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "能引导气流穿过内部"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "最后从底部流出"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "非常优雅的设计"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "就是长得有点像"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "我家的煤气灶"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "接口也改了"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "原来的两个USB-A接口"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "被替换成C口"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "并且和耳机孔"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "一起挪到了机身正面"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "而Mac mini的背面"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "无论配置高低"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "都统一为三个雷雳口"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "不过M4 Pro版本"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "是带宽更大的雷雳5"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "这样的布局"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "确实更合理"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "因为之前接口都在背面"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "每次插拔都要绕一下"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "不太顺手"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "遗憾的是"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "它依旧只有"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "原来的银色"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "没有网传的深空灰"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "但是有一个改动"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "我想提一下"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "就是这回把电源键"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "给挪到了底部"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 6,
+      "snippet": "这让我想起了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 12,
+      "snippet": "我第一次用iMac的时候"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "因为找不到电源键"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "而猛戳苹果logo"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 2,
+      "snippet": "另外"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "新Mac mini"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "还把起步内存"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "从原来的8G"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "升级到了16G"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "价格没变"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 6,
+      "snippet": "还是4499"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 9,
+      "snippet": "如果用教育优惠的话"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "只要3749"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "还是挺香的"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 3,
+      "snippet": "要知道"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 12,
+      "snippet": "在Mac上买16GB内存"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "就得花3000块"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "最后 大家觉得"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "这次mini的外观改动"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 3,
+      "snippet": "怎么样"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 5,
+      "snippet": "我的感觉是"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "既合理又意外"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 5,
+      "snippet": "合理是因为"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "M1版本的mini发布后"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 9,
+      "snippet": "主板比原来小了一半"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "用不到这么大的外壳"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "意外是因为14年来"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 11,
+      "snippet": "Mac mini的外观"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 4,
+      "snippet": "就没变过"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 12,
+      "snippet": "别说iPhone 16了"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 12,
+      "snippet": "iPhone 6看了都得"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 3,
+      "snippet": "说一句"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 9,
+      "snippet": "我是看您的设计语言"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 3,
+      "snippet": "长大的"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 4,
+      "snippet": "看完外观"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 6,
+      "snippet": "我们再来看看"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 8,
+      "snippet": "它内在的最大升级"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 2,
+      "snippet": "M4"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 8,
+      "snippet": "最基础的M4芯片"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 7,
+      "snippet": "CPU单核性能"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 8,
+      "snippet": "比M3提升25%"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "多核性能提升32%"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 7,
+      "snippet": "是自M系列芯片"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 4,
+      "snippet": "发布以来"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 5,
+      "snippet": "CPU性能"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 7,
+      "snippet": "提升最大的一代"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 5,
+      "snippet": "GPU方面"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 11,
+      "snippet": "它也比M3提升约20%"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 6,
+      "snippet": "标准版的M4"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 8,
+      "snippet": "性能有了大幅提升"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "那Pro版的表现呢"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 8,
+      "snippet": "对比M2 Pro"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 9,
+      "snippet": "它的CPU多核性能"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 6,
+      "snippet": "提升1.6倍"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 11,
+      "snippet": "GPU性能提升1.5倍"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 12,
+      "snippet": "而M4 Max的性能提升"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 4,
+      "snippet": "同样明显"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 12,
+      "snippet": "多核性能是M3 Max的"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 4,
+      "snippet": "1.2倍"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 13,
+      "snippet": "GPU性能是M3 Max的"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 4,
+      "snippet": "1.2倍"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 4,
+      "snippet": "总体来看"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "这代的提升幅度还可以"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 10,
+      "snippet": "但是Mac mini"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 11,
+      "snippet": "并不能选配M4 Max"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 5,
+      "snippet": "只有新款的"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 11,
+      "snippet": "MacBook Pro"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 5,
+      "snippet": "才可以选配"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 6,
+      "snippet": "首先它的外观"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 8,
+      "snippet": "还是和前几代一样"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 6,
+      "snippet": "看最初的预告"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 8,
+      "snippet": "本以为这回的刘海"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 7,
+      "snippet": "会加入面容解锁"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 6,
+      "snippet": "结果不但没有"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 6,
+      "snippet": "遮挡顶部图标"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 4,
+      "snippet": "这个问题"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 5,
+      "snippet": "似乎到今天"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 7,
+      "snippet": "官方还没有解决"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 6,
+      "snippet": "但也不得不说"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 13,
+      "snippet": "这代MacBook Pro"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 5,
+      "snippet": "还是挺香的"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 4,
+      "snippet": "起步内存"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 10,
+      "snippet": "从原来的8G升级到了"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 3,
+      "snippet": "16G"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 6,
+      "snippet": "并且它的右侧"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 8,
+      "snippet": "还新增了一个C口"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 9,
+      "snippet": "现在也有三个雷雳口"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "高配版才有的"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 4,
+      "snippet": "深空黑色"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 6,
+      "snippet": "现在全系都有"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 6,
+      "snippet": "起售价依然是"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 7,
+      "snippet": "和之前保持一致"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 10,
+      "snippet": "新iMac有啥变化呢"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 4,
+      "snippet": "这么说吧"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 4,
+      "snippet": "感觉就是"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 9,
+      "snippet": "土豆和马铃薯的区别"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 5,
+      "snippet": "首先是颜色"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 8,
+      "snippet": "原来的入门版只有"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 1,
+      "snippet": "蓝"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 1,
+      "snippet": "绿"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 1,
+      "snippet": "粉"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 1,
+      "snippet": "银"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 5,
+      "snippet": "这四种颜色"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 5,
+      "snippet": "现在黄橙紫"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 8,
+      "snippet": "这三种高配专属色"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 7,
+      "snippet": "入门版也能选了"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 9,
+      "snippet": "而且彩色后盖的明度"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 6,
+      "snippet": "要比上代更高"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 4,
+      "snippet": "这个粉色"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 6,
+      "snippet": "很有猛男气息"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 7,
+      "snippet": "看上去很有活力"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 5,
+      "snippet": "而银色版本"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 5,
+      "snippet": "则是统一了"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 7,
+      "snippet": "前后面板的颜色"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 8,
+      "snippet": "看起来一体性更强"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 4,
+      "snippet": "不过这代"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 7,
+      "snippet": "其他方面的升级"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 3,
+      "snippet": "还挺大"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 4,
+      "snippet": "起步内存"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 8,
+      "snippet": "翻倍到了16GB"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 14,
+      "snippet": "再加上MacBook Air"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 10,
+      "snippet": "也改成了16GB起步"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 8,
+      "snippet": "意味着Mac全系"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 9,
+      "snippet": "都是16GB起步了"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 4,
+      "snippet": "什么时候"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 13,
+      "snippet": "标准版iPhone上了高刷"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 8,
+      "snippet": "我的数码博主生涯"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 6,
+      "snippet": "就没有遗憾了"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 7,
+      "snippet": "摄像头升级到了"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 7,
+      "snippet": "1200万像素"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 10,
+      "snippet": "有一个有些神奇的功能"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 5,
+      "snippet": "是iMac"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 9,
+      "snippet": "可以把超广角的画面"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 7,
+      "snippet": "矫正成俯视机位"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 4,
+      "snippet": "同时拍摄"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 7,
+      "snippet": "人脸和俯视镜头"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 6,
+      "snippet": "还是挺方便的"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 10,
+      "snippet": "芯片从M3升级到M4"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 11,
+      "snippet": "而10999元的起售价"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 8,
+      "snippet": "跟上一代保持一致"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 6,
+      "snippet": "但要注意的是"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 6,
+      "snippet": "入门版的芯片"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 11,
+      "snippet": "是一颗定制的8核CPU"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 9,
+      "snippet": "加8核GPU的M4"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 11,
+      "snippet": "算上iPad Pro上"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 7,
+      "snippet": "9+10的M4"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 12,
+      "snippet": "和标准版10+10的M4"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 6,
+      "snippet": "共有三种M4"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 4,
+      "snippet": "上次看到"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 7,
+      "snippet": "这么丰富的选择"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 9,
+      "snippet": "还是在点奶茶的时候"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 6,
+      "snippet": "我是真没想到"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 4,
+      "snippet": "少甜下面"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 7,
+      "snippet": "还能分出少少甜"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 5,
+      "snippet": "和少少少甜"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 9,
+      "snippet": "和Mac一同更新的"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 10,
+      "snippet": "还有苹果的妙控三件套"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 13,
+      "snippet": "全部从Lightning口"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 5,
+      "snippet": "变成了C口"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 7,
+      "snippet": "充电方便了很多"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 7,
+      "snippet": "只是这个鼠标的"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 4,
+      "snippet": "充电方式"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 7,
+      "snippet": "依然非常地松弛"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 5,
+      "snippet": "工作是工作"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 5,
+      "snippet": "充电是充电"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 5,
+      "snippet": "既然在充电"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 7,
+      "snippet": "就别老想着工作"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 7,
+      "snippet": "这就是我在现场"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 8,
+      "snippet": "拍到的全部内容了"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 8,
+      "snippet": "如果对你了解产品"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 5,
+      "snippet": "有帮助的话"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 8,
+      "snippet": "可以给我们点个赞"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 4,
+      "snippet": "非常感谢"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 5,
+      "snippet": "再见朋友们"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「这是刚刚发布的全新Mac mini真的是非常小」实物钩子，再自报从杭州到洛杉矶体验M4。",
+      "patterns": [
+        "实物尺寸钩子",
+        "跨城现场体验",
+        "最快速度带看预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这是刚刚发布的",
+          "note": "刚刚发布"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "全新Mac mini",
+          "note": "全新Mac mini"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "真的是非常小",
+          "note": "非常小"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我从杭州的工作室",
+          "note": "杭州工作室"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "来到了加州的洛杉矶",
+          "note": "加州洛杉矶"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "体积腰斩+散热重构→接口前移更合理→性能跨代提升→mini不能选Max→MBP刘海未解但香→妙控改C口收。",
+      "patterns": [
+        "体积散热→接口→性能→配置限制→MBP取舍→配件收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "小了一半还不止",
+          "note": "面积小一半"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "确实更合理",
+          "note": "布局更合理"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "提升最大的一代",
+          "note": "提升最大一代"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "并不能选配M4 Max",
+          "note": "不能选配Max"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "还是挺香的",
+          "note": "挺香的"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "变成了C口",
+          "note": "变成了C口"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "hook_size",
+          "note": "开场mini尺寸与自我介绍"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "design_ports",
+          "note": "体积散热与接口改动"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113"
+          ],
+          "function": "perf_chips",
+          "note": "M4/Pro/Max性能对比窗段"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128"
+          ],
+          "function": "mbp_notch",
+          "note": "MBP外观刘海与内存升级"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226"
+          ],
+          "function": "sku_accessories",
+          "note": "SKU奶茶梗与妙控三件套收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「变化最大的是」「接口也改了」「遗憾的是」「总体来看」「和Mac一同更新的还有」。",
+      "patterns": [
+        "变化最大切段",
+        "遗憾转折",
+        "一同更新递加"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "变化最大的是Mac mini",
+          "note": "变化最大的是"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "接口也改了",
+          "note": "接口也改了"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "遗憾的是",
+          "note": "遗憾的是"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "总体来看",
+          "note": "总体来看"
+        },
+        {
+          "sentence_id": "s207",
+          "snippet": "和Mac一同更新的",
+          "note": "一同更新"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "高度略增vs占桌腰斩；背面全接口vs正面插拔；传闻深空灰vs仍银色；性能涨vs不能选Max。",
+      "patterns": [
+        "尺寸此消彼长",
+        "接口前后对比",
+        "传闻vs实机",
+        "性能vs选配墙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "比原来厚了1.4厘米",
+          "note": "厚了1.4厘米"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "小了一半还不止",
+          "note": "小一半"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "因为之前接口都在背面",
+          "note": "之前都在背面"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "没有网传的深空灰",
+          "note": "没有深空灰"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "并不能选配M4 Max",
+          "note": "不能选配Max"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「那Pro版的表现呢」性能追问；余问隐含在「本以为会加入面容」预期落空。",
+      "patterns": [
+        "Pro表现追问",
+        "预期落空隐含问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "那Pro版的表现呢",
+          "note": "Pro版表现呢"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "本以为这回的刘海",
+          "note": "本以为面容"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "指节厚度、两台手机面积、煤气灶散热、雷雳5、CPU/GPU倍率、奶茶少少甜SKU、鼠标反向充电。",
+      "patterns": [
+        "身体尺度例",
+        "家居煤气灶喻",
+        "性能倍率例",
+        "奶茶SKU梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "大概一个指节的长度",
+          "note": "一个指节"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "还不到两台手机的大小",
+          "note": "两台手机"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我家的煤气灶",
+          "note": "煤气灶"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "提升1.6倍",
+          "note": "提升1.6倍"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "还能分出少少甜",
+          "note": "少少甜"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「非常小」落到指节/手机面积；「更合理」落到正面插拔；「松弛充电」落到鼠标倒置不能用。",
+      "patterns": [
+        "小→尺度锚",
+        "合理→正面口",
+        "松弛→倒置充电"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "大概一个指节的长度",
+          "note": "指节长度"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "一起挪到了机身正面",
+          "note": "挪到正面"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "依然非常地松弛",
+          "note": "依然非常地松弛"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "既然在充电",
+          "note": "既然在充电"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「非常优雅的设计」「确实更合理」「提升幅度还可以」「还是挺香的」「依然非常地松弛」。",
+      "patterns": [
+        "优雅肯定",
+        "合理判定",
+        "还可以克制",
+        "松弛吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "非常优雅的设计",
+          "note": "非常优雅"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "确实更合理",
+          "note": "确实更合理"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "这代的提升幅度还可以",
+          "note": "还可以"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "还是挺香的",
+          "note": "挺香的"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "依然非常地松弛",
+          "note": "非常地松弛"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先夸散热优雅，立刻补「长得有点像煤气灶」自嘲降调；预告刘海面容后「结果不但没有」。",
+      "patterns": [
+        "夸后自嘲降调",
+        "预期结果纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "非常优雅的设计",
+          "note": "优雅"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就是长得有点像",
+          "note": "长得有点像"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "本以为这回的刘海",
+          "note": "本以为"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "结果不但没有",
+          "note": "结果不但没有"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句尺寸连击→接口说明中板→性能数字快打→SKU玩笑放缓→妙控吐槽→致谢短收。",
+      "patterns": [
+        "短句尺寸连击",
+        "性能数字快打",
+        "吐槽后短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "真的是非常小",
+          "note": "非常小短句"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "提升1.6倍",
+          "note": "1.6倍快打"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "还是在点奶茶的时候",
+          "note": "点奶茶放缓"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "再见朋友们",
+          "note": "再见短收"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊艳小巧→优雅欣赏→煤气灶笑→遗憾无灰→性能振奋→Max落空淡定→妙控无奈笑→致谢温暖。",
+      "patterns": [
+        "小巧惊艳",
+        "自嘲笑",
+        "落空淡定",
+        "无奈笑收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "真的是非常小",
+          "note": "非常小"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我家的煤气灶",
+          "note": "煤气灶笑"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "没有网传的深空灰",
+          "note": "无深空灰"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "并不能选配M4 Max",
+          "note": "不能Max"
+        },
+        {
+          "sentence_id": "s218",
+          "snippet": "就别老想着工作",
+          "note": "别老想着工作"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从现场「拍到的全部内容」回扣开篇带看更新，点赞致谢再见收束体验旅程。",
+      "patterns": [
+        "现场内容回扣",
+        "点赞致谢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s220",
+          "snippet": "这就是我在现场",
+          "note": "现场拍到全部"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "可以给我们点个赞",
+          "note": "点个赞"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "再见朋友们",
+          "note": "再见朋友们"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性「如果对你了解产品有帮助…点个赞」，无硬带货链。",
+      "patterns": [
+        "了解有帮助软CTA",
+        "点赞致谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s222",
+          "snippet": "如果对你了解产品",
+          "note": "了解产品有帮助"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "可以给我们点个赞",
+          "note": "点个赞"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "煤气灶散热喻、深空灰谣言打假、奶茶少少甜SKU、鼠标充电哲学金句。",
+      "patterns": [
+        "煤气灶喻",
+        "少少甜梗",
+        "充电哲学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "我家的煤气灶",
+          "note": "煤气灶"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "还能分出少少甜",
+          "note": "少少甜"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "工作是工作",
+          "note": "工作是工作"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳过中段实测；部分性能数字缺基准机说明；MBP段切入突兀。",
+      "patterns": [
+        "截断跳段",
+        "基准机不明",
+        "产品切换突兀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "给挪到了底部",
+          "note": "跳到s94"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "提升最大的一代",
+          "note": "提升最大缺基准"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "首先它的外观",
+          "note": "首先外观跳MBP"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显「我想提一下」电源键改动；用「本以为…结果」暴露预期检验；「总体来看」自评幅度。",
+      "patterns": [
+        "我想提一下",
+        "本以为结果",
+        "总体自评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "我想提一下",
+          "note": "我想提一下"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "本以为这回的刘海",
+          "note": "本以为"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "这代的提升幅度还可以",
+          "note": "总体来看还可以"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当要快速知情的数码党，「带大家看看」「OK各位」现场解说同位。",
+      "patterns": [
+        "带大家看",
+        "OK各位现场感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "带大家看看",
+          "note": "带大家看看"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "厚1.4cm、面积一半、三雷雳/雷雳5、CPU1.6x GPU1.5x、内存8→16G起步、Lightning→C。",
+      "patterns": [
+        "尺寸锚",
+        "接口锚",
+        "倍率锚",
+        "内存锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "比原来厚了1.4厘米",
+          "note": "1.4厘米"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "都统一为三个雷雳口",
+          "note": "三个雷雳口"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "提升1.6倍",
+          "note": "1.6倍"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "从原来的8G升级到了",
+          "note": "8G升级"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩子→设计接口中高密→性能数字高密→SKU玩笑降密→配件中密→CTA低密。",
+      "patterns": [
+        "设计中高密",
+        "性能高密",
+        "玩笑降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "都统一为三个雷雳口",
+          "note": "接口密"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "提升1.6倍",
+          "note": "性能密"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "还是在点奶茶的时候",
+          "note": "奶茶降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "尺寸钩→自我介绍→散热接口→性能阶梯→MBP取舍→SKU玩笑→妙控吐槽→致谢。",
+      "patterns": [
+        "钩→设计→性能→取舍→玩笑收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "变化最大的是Mac mini",
+          "note": "切mini"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "发布以来",
+          "note": "切性能"
+        },
+        {
+          "sentence_id": "s207",
+          "snippet": "和Mac一同更新的",
+          "note": "切配件"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式现场极简测评：尺度生活化、夸完必损、克制「还可以」。",
+      "patterns": [
+        "生活化尺度",
+        "夸完必损",
+        "克制评分"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "大概一个指节的长度",
+          "note": "指节"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我家的煤气灶",
+          "note": "煤气灶"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "这代的提升幅度还可以",
+          "note": "还可以"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "两台手机大、煤气灶散热、正面C口、少少甜、工作充电分开。",
+      "patterns": [
+        "两台手机",
+        "煤气灶",
+        "少少甜",
+        "充电哲学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "还不到两台手机的大小",
+          "note": "两台手机"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我家的煤气灶",
+          "note": "煤气灶"
+        },
+        {
+          "sentence_id": "s205",
+          "snippet": "还能分出少少甜",
+          "note": "少少甜"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "工作是工作",
+          "note": "工作是工作"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "现场尺寸钩→改动对比→性能锚→遗憾点→配件吐槽节奏可改编观宇数码快讯，需补中段实测与价格。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "真的是非常小",
+          "note": "尺寸钩"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "确实更合理",
+          "note": "改动判断"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "依然非常地松弛",
+          "note": "吐槽记忆点"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s6",
+    "s7",
+    "s18",
+    "s39",
+    "s96",
+    "s115",
+    "s131",
+    "s210",
+    "s4",
+    "s5",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s94",
+    "s95",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s132",
+    "s133",
+    "s197",
+    "s198",
+    "s199",
+    "s200",
+    "s201",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226"
+  ],
+  "fields_complete_25": true
+}

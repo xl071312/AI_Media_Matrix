@@ -1,0 +1,819 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7595144248563876406",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7595144248563876406/",
+  "source_sha256": "862c1c1bdf4e6bfb53f65ef2b82ba9ba33994c801566ce44f594c323e62e1586",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 62,
+  "fields": {
+    "opening_move": {
+      "summary": "转述后台新闻家属起诉公益救援队的义愤，先共鸣好人没好报，再标题式做得好翻盘。",
+      "patterns": [
+        "转述义愤开场",
+        "共鸣后翻盘",
+        "做得好定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "后台有人给我发了个新闻，说这个家属怎么这样？",
+          "note": "转述开场"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "好人没好报啊。",
+          "note": "共鸣"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "翻盘定调"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "表面恩将仇报→起诉反而对→公益不该给非法穿越兜底→荒诞在于无偿救违法者→收费才能尊重生命→三次强调起诉的好。",
+      "patterns": [
+        "翻盘立论",
+        "不该兜底",
+        "荒诞无偿",
+        "收费尊重",
+        "三次强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "家属这么做就对了，就好了。",
+          "note": "翻盘"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "没开玩笑，这些公益救援队的时间精力情绪不该用在非法穿越的人身上。",
+          "note": "不该兜底"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这不是很荒诞么？",
+          "note": "荒诞"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "钱才会让人尊重法律和生命。",
+          "note": "收费论"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "三次"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "转述新闻与大众义愤",
+          "note": "铺垫"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "翻盘：起诉对，公益不该掺和",
+          "note": "立论"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "成年人自担后果与尊重自身生命",
+          "note": "责任伦理"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "无偿兜底助长乱来，起诉促反思",
+          "note": "激励扭曲"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "商业重金替代与更大公益收束",
+          "note": "解决方案"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "怎么说呢朋友；而这时候；所以家属起诉的好；所以第三次说。",
+      "patterns": [
+        "怎么说呢转折",
+        "而这时候推进",
+        "所以收束",
+        "第三次强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "怎么说呢朋友，我去年9月写过这事儿。",
+          "note": "怎么说呢"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "而这时候，公益救援队蹦出来了，这就让一切显得非常荒诞。",
+          "note": "而这时候"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以，家属起诉的好。",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "第三次"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "大众骂家属对作者挺起诉；公益无偿对商业重金；尊重自然法律对救援队自轻。",
+      "patterns": [
+        "舆论对作者翻盘",
+        "公益对商业",
+        "自轻对自重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "好人没好报啊。",
+          "note": "大众侧"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "作者侧"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "但凡是收重金，都起码符合一个基础的逻辑。",
+          "note": "重金对照"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这些事情应该让商业救援队来，收重金才干活最好。",
+          "note": "商业方案"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连这都起诉；队员的命不是命吗；你去尊重个啥；需要公益出手吗，连环道德反问。",
+      "patterns": [
+        "义愤问",
+        "命问",
+        "尊重问",
+        "必要问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "连这都起诉啊？",
+          "note": "义愤问"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "队员的命不是命吗？",
+          "note": "命问"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "那你去那尊重个啥？",
+          "note": "尊重问"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "况且，自然和法律都拦不住的人，需要公益救援队出手吗？",
+          "note": "必要问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "非法穿越致死新闻；玩嘛浪嘛反正有人来救的心理台词；商业救援收重金方案。",
+      "patterns": [
+        "新闻事例",
+        "心理台词例",
+        "商业方案例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "自己家人去非法穿越，结果挂了不说，家属还要起诉人家公益救援队？",
+          "note": "新闻"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "玩嘛，浪嘛，反正有人来救嘛。",
+          "note": "心理台词"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这些事情应该让商业救援队来，收重金才干活最好。",
+          "note": "商业例"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "干预自然选择落到偷偷进山；荒诞落到无偿给违法兜底；更大公益落到一看价格就清醒。",
+      "patterns": [
+        "自然选择→偷进山",
+        "荒诞→无偿兜底",
+        "公益→价格清醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这是在，干预大自然的选择。",
+          "note": "抽象"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "甚至都是学习攻略刻意绕过所有人自己偷偷地进去",
+          "note": "偷进山"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "因为一看价格，都清醒了，以后乱来的人少了。",
+          "note": "价格清醒"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "做得好；起诉的好就该起诉；非常荒诞；这不闹嘛；这才是更大的公益。",
+      "patterns": [
+        "做得好定调",
+        "就该祈使",
+        "荒诞判断",
+        "闹嘛口语贬",
+        "更大公益升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "做得好",
+          "note": "定调"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "就该"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这不是很荒诞么？",
+          "note": "荒诞"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "升维"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先共鸣好人没好报，立即声明去年写过并翻盘；承认家属主要目的恩将仇报但巧了结果对。",
+      "patterns": [
+        "共鸣后翻盘",
+        "目的坏结果好"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "好人没好报啊。",
+          "note": "先共鸣"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "虽然他们的主要目的是恩将仇报，但巧了。",
+          "note": "目的承认"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "家属这么做就对了，就好了。",
+          "note": "结果翻盘"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场转述中速，翻盘后短句连珠加速，伦理长句放慢，三次起诉的好鼓点收束。",
+      "patterns": [
+        "转述中速",
+        "短句连珠",
+        "长句放慢",
+        "三次鼓点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "短句加速"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "既然人家都决定非法穿越了，都决定看不起大自然和国家法律了",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以，家属起诉的好。",
+          "note": "鼓点1"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "鼓点3"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "义愤共鸣→翻盘爽感→荒诞怒→心寒劝退→更大公益冷静升维。",
+      "patterns": [
+        "义愤",
+        "翻盘爽",
+        "荒诞怒",
+        "心寒",
+        "冷静升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "好人没好报啊。",
+          "note": "义愤"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "爽"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这不是很荒诞么？",
+          "note": "怒"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "就该让公益救援队心寒，就该让他们彻底退出",
+          "note": "心寒"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "升维"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题做得好贯穿，三次起诉的好后升到收费减少乱来才是更大公益，与开场义愤完全闭环反转。",
+      "patterns": [
+        "做得好贯穿",
+        "三次强调",
+        "更大公益反转闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "做得好",
+          "note": "标题"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "三次"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "升维闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注按钮，以价值判断鼓动读者站队收费救援与退出公益兜底。",
+      "patterns": [
+        "站队鼓动",
+        "价值CTA",
+        "无平台按钮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "这些事情应该让商业救援队来，收重金才干活最好。",
+          "note": "方案鼓动"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "价值CTA"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "后台有人给我发了、怎么说呢朋友、玩嘛浪嘛、三次说等口语；敢逆舆论翻盘。",
+      "patterns": [
+        "后台私信感",
+        "朋友称呼",
+        "玩嘛浪嘛",
+        "三次强调口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "后台有人给我发了个新闻，说这个家属怎么这样？",
+          "note": "后台"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "怎么说呢朋友，我去年9月写过这事儿。",
+          "note": "朋友"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "玩嘛，浪嘛，反正有人来救嘛。",
+          "note": "玩嘛"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "三次说"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "法律程序与案件事实细节少；自然选择修辞易引争议；商业救援可行性未展开。",
+      "patterns": [
+        "案情细节少",
+        "修辞过火风险",
+        "方案未展开"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这是在，干预大自然的选择。",
+          "note": "修辞过火"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这些事情应该让商业救援队来，收重金才干活最好。",
+          "note": "方案一句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从大众情绪到翻盘推理：先承认恩将仇报，再论证激励扭曲与更大公益。",
+      "patterns": [
+        "先承认再翻",
+        "激励扭曲推理",
+        "升维结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "虽然他们的主要目的是恩将仇报，但巧了。",
+          "note": "先承认"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "就是有这些救援队，才让很多非法穿越的这么猖獗",
+          "note": "激励"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "甚至当大家都开始严格的收大钱的时候，反而才能救更多人。",
+          "note": "升维"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当被舆论带偏的朋友，用怎么说呢朋友拉回，强迫重新站队。",
+      "patterns": [
+        "朋友拉回",
+        "反舆论站队",
+        "强迫重思"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "怎么说呢朋友，我去年9月写过这事儿。",
+          "note": "朋友"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "就该让所有公益救援队都清楚一个问题，这帮子非法穿越的，你一个公益救援队去掺和什么",
+          "note": "强迫重思"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "非法穿越致死起诉新闻；去年9月旧文；商业救援收重金；三次起诉的好。",
+      "patterns": [
+        "新闻锚",
+        "旧文时间锚",
+        "重金方案锚",
+        "三次鼓点锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "自己家人去非法穿越，结果挂了不说，家属还要起诉人家公益救援队？",
+          "note": "新闻"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "怎么说呢朋友，我去年9月写过这事儿。",
+          "note": "去年9月"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "钱才会让人尊重法律和生命。",
+          "note": "钱锚"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场故事中密→伦理论证高密长句→心理台词低密→方案升维中密。",
+      "patterns": [
+        "故事中密",
+        "伦理高密",
+        "台词低密",
+        "方案中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "自己家人去非法穿越，结果挂了不说，家属还要起诉人家公益救援队？",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "既然人家都决定非法穿越了，都决定看不起大自然和国家法律了",
+          "note": "伦理密"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "玩嘛，浪嘛，反正有人来救嘛。",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "中密升维"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判断句与超长反问句交替，排比法律/自然/生命，三次重复形成鼓点。",
+      "patterns": [
+        "短判+长反问",
+        "三域排比",
+        "三次重复鼓点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "起诉的好，就该起诉。",
+          "note": "短判"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "法律不让你去的地方，你去了。",
+          "note": "排比1"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "大自然本身恶劣的地方，你去了。",
+          "note": "排比2"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "所以第三次说，家属起诉的好。",
+          "note": "重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "逆舆论狠人：敢说干预自然选择，敢劝救援队心寒退出，价值观极锋利。",
+      "patterns": [
+        "逆舆论",
+        "锋利价值观",
+        "劝退出"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这是在，干预大自然的选择。",
+          "note": "锋利"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "就该让公益救援队心寒，就该让他们彻底退出",
+          "note": "劝退出"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "家属这么做就对了，就好了。",
+          "note": "逆舆论"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "做得好；干预大自然的选择；玩嘛浪嘛；钱才尊重生命；更大的公益。",
+      "patterns": [
+        "做得好",
+        "自然选择金句",
+        "玩嘛浪嘛",
+        "钱尊重",
+        "更大公益"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "做得好",
+          "note": "标题记忆"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这是在，干预大自然的选择。",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "玩嘛，浪嘛，反正有人来救嘛。",
+          "note": "台词"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "升维记忆"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "共鸣铺垫→价值翻盘→激励扭曲→升维更大公益的议论文骨架可迁，但自然选择措辞需软化以免观屿过激。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "家属这么做就对了，就好了。",
+          "note": "翻盘骨架可迁"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "就是有这些救援队，才让很多非法穿越的这么猖獗",
+          "note": "激励扭曲可迁"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "这，才是更大的公益。",
+          "note": "升维可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62"
+  ],
+  "fields_complete_25": true
+}

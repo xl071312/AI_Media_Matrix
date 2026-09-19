@@ -1,0 +1,1292 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_wN2X-KheNiM",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=wN2X-KheNiM",
+  "source_sha256": "901cfb257d19a942f855968dae4f32fd28ffb4cc0e182f35023307bd7e940143",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 72,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "大家好 我是闢導"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "今天晚上就要開啄的問我"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 3,
+      "snippet": "今天候"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 12,
+      "snippet": "所有講附選的消息都是假的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 17,
+      "snippet": "沒有任何證據表明村上的村書又在陪跑"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "但我還是覺得他今年又在陪跑"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "各位觀眾應該大部分都沒有得罪"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "那麼做一個實 準備好得罪"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "今天我教大家如何才能得罪"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "如果有一個人會說"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "如果有一個"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "如果有一個也會說"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "明明禁止聽聽自己的弱講"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "但其實是比學生互相聽聽的弱講"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "今年我聽聽你"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "明明你得了弱講的在聽聽我"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "這就是兩人課業家"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "互為共和弱講的概念"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "現在我們知道的規則"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "有什麼得獎的技巧呢"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "首先選擇比 harder"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "有好跌就隨便找"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 20,
+      "snippet": "研究StreetS顯示的Blazer負子"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "共獲了1915年的物理獎"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "1922年獲獎"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "他這小波爾75年獲獎"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "非常理智"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "而且拚幫球還打得那麼好"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "趟居負子"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 2,
+      "snippet": "老爹"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 14,
+      "snippet": "發現電子是立子2006年獲獎"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "而這發現電子型的波 can"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "有句话说的好"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "导师的水平决定了你们可以上线"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "记得问一问你的导师"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "你准备啥受得诺讲的"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "再然后�"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 19,
+      "snippet": "最近十年的话学讲有六年都翻评了生物学家"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 21,
+      "snippet": "所以研究生物可以让你得诺讲的概率提升60%"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "你也会你进去敬任"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "此外一个诺讲最多只能三个人分享"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 14,
+      "snippet": "所以如果现在你脑子里有一个弄"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 18,
+      "snippet": "弄我只能到处里面不要在弹幕里边发出来"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 18,
+      "snippet": "在研究安全果之后记得你要年年跑步健身"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "让自己活得久一点"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "因为诺讲只能搬对活人"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 14,
+      "snippet": "2013年的诺里讲搬给了研究"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 14,
+      "snippet": "西哥斯波色子的西哥斯和恩德乐"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 18,
+      "snippet": "恩哥的合作者不讨特本来应该一起去领讲"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 16,
+      "snippet": "但因为两年前去世了就已经讲无缘了"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "呢..."
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 3,
+      "snippet": "..."
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 3,
+      "snippet": "..."
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "大家好我是毕导+今晚要开啄，用村上春树陪跑梗引入「如何得罪/得奖」。",
+      "patterns": [
+        "自我介绍开啄",
+        "陪跑梗引入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大家好 我是闢導",
+          "note": "我是闢導"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "今天晚上就要開啄的問我",
+          "note": "开啄"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "又在陪跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "如何才能得罪"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "多数人没得过奖→教你得奖→师徒互为弱讲/诺奖→选导师→生物提升概率→最多三人分享→活得久→希格斯合作者已故反例→尾段ASR崩。",
+      "patterns": [
+        "互为弱讲",
+        "选导师",
+        "学生物",
+        "最多三人",
+        "活久"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "互為共和弱講的概念",
+          "note": "互为共和弱讲"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师水平决定上限"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "生物概率提升60%"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "此外一个诺讲最多只能三个人分享",
+          "note": "最多三个人"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "只能颁给活人"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "function": "hook_murakami",
+          "note": "开啄与村上陪跑钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "joke_rules",
+          "note": "得罪准备与互为弱讲戏仿规则"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "advisor_bio",
+          "note": "选导师与学生物提概率"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "alive_higgs",
+          "note": "活着领奖与希格斯合作者反例"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "asr_collapse",
+          "note": "尾段省略号ASR崩坏"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "那么；首先；再然后；此外；有句话说的好。",
+      "patterns": [
+        "那么",
+        "首先",
+        "再然后",
+        "此外",
+        "有句话说的好"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "那麼做一個實 準備好得罪",
+          "note": "那么"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "首先選擇比 harder",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "再然后�",
+          "note": "再然后"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "此外一个诺讲最多只能三个人分享",
+          "note": "此外"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "有句话说的好",
+          "note": "有句话说的好"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "禁止听自己弱讲vs实际互听；有好爹随便找vs导师决定上限；研究出成果还要活到颁奖。",
+      "patterns": [
+        "禁止听/互听",
+        "好爹/导师上限",
+        "成果/活着"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "明明禁止聽聽自己的弱講",
+          "note": "禁止听听自己"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但其實是比學生互相聽聽的弱講",
+          "note": "互相听听"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "有好跌就隨便找",
+          "note": "有好跌随便找"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师决定上限"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "只能搬对活人"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "有什么得奖的技巧呢；记得问一问你的导师你准备啥时候得诺奖。",
+      "patterns": [
+        "有什么技巧",
+        "问导师何时得奖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "有什麼得獎的技巧呢",
+          "note": "有什么得奖的技巧呢"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "记得问一问你的导师",
+          "note": "记得问一问你的导师"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "你准备啥受得诺讲的",
+          "note": "准备啥受得诺讲"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "布拉格父子1915/1922；玻尔；汤姆孙发现电子；希格斯与恩格勒2013；合作者两年前去世。",
+      "patterns": [
+        "布拉格父子",
+        "玻尔",
+        "汤姆孙",
+        "希格斯恩格勒",
+        "已故合作者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "共獲了1915年的物理獎",
+          "note": "1915年物理奖"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "他這小波爾75年獲獎",
+          "note": "玻尔"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "發現電子是立子2006年獲獎",
+          "note": "发现电子"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "西哥斯波色子的西哥斯和恩德乐",
+          "note": "希格斯和恩德乐"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但因为两年前去世了就已经讲无缘了",
+          "note": "两年前去世"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "互为弱讲概念落到师生互听；导师上限落到问导师何时得奖；活着规则落到已故失缘。",
+      "patterns": [
+        "弱讲→互听",
+        "上限→追问导师",
+        "活人规则→已故"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "互為共和弱講的概念",
+          "note": "互为弱讲"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师上限"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "你准备啥受得诺讲的",
+          "note": "问导师"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但因为两年前去世了就已经讲无缘了",
+          "note": "讲无缘"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "没有任何证据但我觉得他还在陪跑；非常理智；所以研究生物概率提升60%。",
+      "patterns": [
+        "证据vs我觉得",
+        "非常理智",
+        "概率60%"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "沒有任何證據表明村上的村書又在陪跑",
+          "note": "没有任何证据"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "我还是觉得"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "非常理智",
+          "note": "非常理智"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "提升60%"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说禁止听自己弱讲再揭示其实是互相听；好跌随便找被导师决定上限纠偏。",
+      "patterns": [
+        "禁止听再揭示互听",
+        "好爹说再纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "明明禁止聽聽自己的弱講",
+          "note": "禁止听听"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但其實是比學生互相聽聽的弱講",
+          "note": "其实是互相"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "有好跌就隨便找",
+          "note": "随便找"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师决定上限"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短梗→规则段重复「如果有一个人会说」鼓点→技巧清单加速→尾段省略号停摆。",
+      "patterns": [
+        "短梗",
+        "重复鼓点",
+        "清单加速",
+        "省略停摆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "如果有一個人會說",
+          "note": "如果有一个人会说"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "首先選擇比 harder",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "...",
+          "note": "..."
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler",
+          "form": "呢..."
+        },
+        {
+          "type": "repeat",
+          "form": "如果有一个人会说×N"
+        },
+        {
+          "type": "ellipsis",
+          "form": "..."
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "呢...",
+          "note": "呢..."
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "如果有一個人會說",
+          "note": "如果有一个人会说"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "...",
+          "note": "省略号段"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "玩笑热身→荒诞规则嬉笑→技巧认真半讽→已故反例一凛→ASR无声。",
+      "patterns": [
+        "玩笑",
+        "嬉笑",
+        "半讽认真",
+        "一凛",
+        "无声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "互為共和弱講的概念",
+          "note": "互为弱讲"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但因为两年前去世了就已经讲无缘了",
+          "note": "无缘"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "呢...",
+          "note": "呢..."
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以活人才能领奖与已故失缘收束得奖攻略玩笑，尾段崩溃未再回扣开啄。",
+      "patterns": [
+        "活人规则收束",
+        "尾段未回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "只能搬对活人"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但因为两年前去世了就已经讲无缘了",
+          "note": "讲无缘"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弹幕勿发灵感；年年跑步健身活久点；弱行动号召淹没在ASR里。",
+      "patterns": [
+        "弹幕勿发",
+        "跑步健身"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "弄我只能到处里面不要在弹幕里边发出来",
+          "note": "不要在弹幕里边发出来"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "在研究安全果之后记得你要年年跑步健身",
+          "note": "年年跑步健身"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "陪跑梗；得罪/得奖谐音；如果有一个人会说复读；60%伪精确；ASR省略海洋。",
+      "patterns": [
+        "陪跑",
+        "得罪谐音",
+        "复读",
+        "60%",
+        "省略海洋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "得罪"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "如果有一個人會說",
+          "note": "如果有一个人会说"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "...",
+          "note": "..."
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极差：专名错乱、中段复读占位、后段全省略；诺奖史细节需重听。",
+      "patterns": [
+        "ASR极差",
+        "复读占位",
+        "后段省略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "如果有一個",
+          "note": "如果有一个"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "研究StreetS顯示的Blazer負子",
+          "note": "StreetS噪声"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "...",
+          "note": "..."
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式教大家如何得奖；规则→技巧分步；导师问题外化决策。",
+      "patterns": [
+        "教你得奖声明",
+        "规则到技巧",
+        "导师问题外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "教大家如何"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "有什麼得獎的技巧呢",
+          "note": "有什么技巧"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "记得问一问你的导师",
+          "note": "问导师"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当没得过奖的预备役：大部分都没得罪；弹幕保密共同体。",
+      "patterns": [
+        "没得过奖预备役",
+        "弹幕保密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "各位觀眾應該大部分都沒有得罪",
+          "note": "大部分都没得罪"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "那麼做一個實 準備好得罪",
+          "note": "准备好得罪"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "弄我只能到处里面不要在弹幕里边发出来",
+          "note": "弹幕不要发"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1915/1922布拉格；玻尔；电子；近十年化学奖六年生物学家；最多三人；2013希格斯。",
+      "patterns": [
+        "1915/1922",
+        "玻尔",
+        "六年生物",
+        "三人",
+        "2013"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "共獲了1915年的物理獎",
+          "note": "1915"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "1922年獲獎",
+          "note": "1922"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "最近十年的话学讲有六年都翻评了生物学家",
+          "note": "六年生物学家"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "此外一个诺讲最多只能三个人分享",
+          "note": "最多三个人"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "2013年的诺里讲搬给了研究",
+          "note": "2013"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密梗→中段规则中密→技巧史实高密→已故案例中密→尾段零有效密度。",
+      "patterns": [
+        "梗低密",
+        "史实高密",
+        "尾段零密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "西哥斯波色子的西哥斯和恩德乐",
+          "note": "希格斯"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "...",
+          "note": "..."
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "陪跑钩子→得罪双关→互听规则→选导师→学生物→三人分享→保命→反例→崩坏。",
+      "patterns": [
+        "钩子规则",
+        "导师生物",
+        "保命反例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "互為共和弱講的概念",
+          "note": "互为弱讲"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "活人"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理工鬼马讲师：用伪攻略解构诺奖偶然与师承，冷幽默盖过鸡汤。",
+      "patterns": [
+        "鬼马讲师",
+        "伪攻略解构"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "教大家如何得罪"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "提升60%"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "只能颁活人"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "陪跑；得罪；互为弱讲；导师决定上限；学生物+60%；最多三人；只能颁活人。",
+      "patterns": [
+        "陪跑",
+        "得罪",
+        "互为弱讲",
+        "导师上限",
+        "60%",
+        "三人",
+        "活人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但我還是覺得他今年又在陪跑",
+          "note": "陪跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "得罪"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "互為共和弱講的概念",
+          "note": "互为弱讲"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师上限"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以研究生物可以让你得诺讲的概率提升60%",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "此外一个诺讲最多只能三个人分享",
+          "note": "三人"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "活人"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "伪攻略解构奖项偶然性的毕导式骨架可改编，观宇需重做清晰口播并去掉ASR崩段。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "今天我教大家如何才能得罪",
+          "note": "教你得奖"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "导师的水平决定了你们可以上线",
+          "note": "导师上限"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "因为诺讲只能搬对活人",
+          "note": "颁给活人"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s6",
+    "s9",
+    "s23",
+    "s39",
+    "s44",
+    "s46",
+    "s51",
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s45",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72"
+  ],
+  "fields_complete_25": true
+}

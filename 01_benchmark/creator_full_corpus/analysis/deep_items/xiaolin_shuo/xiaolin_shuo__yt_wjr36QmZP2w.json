@@ -1,0 +1,1426 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_wjr36QmZP2w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=wjr36QmZP2w",
+  "source_sha256": "1b562bbf7f0a488fd6ab65c30cfb6bc4b0e7072b3d2ad612c8f0171d58aefe1f",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "咱們來聊一聊許家印記"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "老闆的資本操作"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "他是怎麼透過美元債"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "避稅天堂等等"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "完成了一套組合拳"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "目的又是什麼"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "我先聲明一下"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "關於許家印的這些資本操作"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "我就是把一些公開信息裡頭"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 12,
+      "snippet": "我個人認為比較可信的部分"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "整理出來跟大家聊聊"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 5,
+      "snippet": "一些聽起來"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "非常玄乎那種小道消息"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "或者一些猜測我就不說了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "2018年10月30日"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "恆大的離岸子公司"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "景程有限公司"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "在新加坡交易所"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "發行了18億美元債"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "而在債券的賣家當中"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "出現了一個"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 22,
+      "snippet": "叫“Xin Xin ltd.” 的BVI公司"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "認購了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "總計超過10億美元的債"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "這個正是許家印控制的BVI實體"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "也就是說"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "恆大這一期發行的美元債"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "有一半多"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "都是許家印自己的BVI認購的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "而且不光許老闆自己買"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 2,
+      "snippet": "據說"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "他在香港\"大D會\"的一些朋友"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "也買了一共超過10億美元的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "恆大債券"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "其實一個大股東"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "他認購一小部分"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "自己的公司債"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "這個在資本市場裡也算正常"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "你想董事長自掏腰包"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "買一部分自己的公司債"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "那不就相當於以個人的名義"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "把錢借給公司"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "這不是他對他們自己公司"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "有信心的表現"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "市場也是很願意看到的"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 13,
+      "snippet": "但像許家印這麼大規模地認購"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 14,
+      "snippet": "甚至加上他的朋友們一起買買下"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "下了恆大超過3/4"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "就幾乎所有的債券"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 10,
+      "snippet": "這個就著實非常罕見了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 11,
+      "snippet": "獲得了100多億港元的"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "境外分紅"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "然後轉頭"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "又買了至少10億美元"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "恆大自己的美元債"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "好多人可能就"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "說說 許家印通過這套操作"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "轉移境外資產"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "怎麼空手套白狼"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 8,
+      "snippet": "掏空恆大等等等等"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 14,
+      "snippet": "不過身為小Lin的觀眾朋友們"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 12,
+      "snippet": "大家都是有獨立思考能力的"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "你就仔細想想"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "這裡頭其實是有很多疑問的"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 11,
+      "snippet": "你比如說說轉移境外資產"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "其實恆大分紅這一步"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "資產就已經轉到境外了"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 11,
+      "snippet": "許老闆都已經拿到港幣了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "你說他為什麼還要轉頭"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 9,
+      "snippet": "再回來買自己的債呢"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "尤其是那時候"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "其實恆大的現金流"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 12,
+      "snippet": "就已經有一些危險的苗頭了"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 11,
+      "snippet": "就已經開始借新債還舊債"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 11,
+      "snippet": "那時候許老闆不光自己買"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 8,
+      "snippet": "還拉著朋友一起買"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 5,
+      "snippet": "這是為什麼"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 6,
+      "snippet": "其實正是因為"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 8,
+      "snippet": "那時候恆大的信用"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 7,
+      "snippet": "已經出現問題了"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 12,
+      "snippet": "所以它發行債券的那個利率"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 5,
+      "snippet": "是非常高的"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "你比如說"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 10,
+      "snippet": "許老闆自己買了兩筆債"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 13,
+      "snippet": "利率有13% 13.75%"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "高的出奇"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 6,
+      "snippet": "基本是那前後"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "恆大發行債裡邊利息最高的"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 9,
+      "snippet": "而且不光是恆大發行"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 9,
+      "snippet": "在2018年的時候"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 4,
+      "snippet": "另一方面"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 10,
+      "snippet": "也把自己變成了債權人"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 7,
+      "snippet": "這就有點像什麼"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 11,
+      "snippet": "恆大它就像是一艘巨大的"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 7,
+      "snippet": "正在下沉的巨輪"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 4,
+      "snippet": "許家印呢"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 6,
+      "snippet": "一邊趕緊變賣"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 8,
+      "snippet": "船上值錢的玩意兒"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 8,
+      "snippet": "一邊趕緊往船頂跑"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 6,
+      "snippet": "根據公開信息"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "大概就這麼個意思"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 7,
+      "snippet": "其實這一波操作"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 9,
+      "snippet": "挺匪夷所思的一個點"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 10,
+      "snippet": "就是它站在每一個地區"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 8,
+      "snippet": "基本上都是合規的"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 5,
+      "snippet": "其實本質上"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 11,
+      "snippet": "大部分國際上的避稅手段"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 4,
+      "snippet": "資本遊戲"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 5,
+      "snippet": "都是利用了"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 13,
+      "snippet": "各個不同國家之間的規則差異"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 9,
+      "snippet": "或者漏洞在玩的遊戲"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 10,
+      "snippet": "它其實就是個貓鼠遊戲"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 9,
+      "snippet": "市場玩家在找空子鑽"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 4,
+      "snippet": "不同國家"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 11,
+      "snippet": "就努力想辦法堵這個窟窿"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 6,
+      "snippet": "可能像BVI"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 8,
+      "snippet": "開曼群島這些地方"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 9,
+      "snippet": "還一起幫著給空子鑽"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 9,
+      "snippet": "整體上就形成了這場"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 7,
+      "snippet": "全球的大博弈吧"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "直接宣布聊许家印美元债+避税天堂组合拳，并先做信息边界声明。",
+      "patterns": [
+        "组合拳预告",
+        "信息边界声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "咱們來聊一聊許家印記",
+          "note": "聊许家印"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "完成了一套組合拳",
+          "note": "组合拳"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我先聲明一下",
+          "note": "先声明"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "景程发债→Xin Xin BVI大额认购→朋友跟买→高息动机质疑掏空说→债权人自保→猫鼠博弈收束。",
+      "patterns": [
+        "发债认购事实链",
+        "反掏空质疑",
+        "债权人自保解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "發行了18億美元債",
+          "note": "18亿美债"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "都是許家印自己的BVI認購的",
+          "note": "自己BVI认购"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "也把自己變成了債權人",
+          "note": "变成债权人"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "frame_disclaimer",
+          "note": "话题与可信信息边界"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "deal_facts",
+          "note": "发债与BVI认购事实"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "normal_vs_rare",
+          "note": "正常小额认购vs罕见大规模"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "challenge_narrative",
+          "note": "反驳掏空说并指向高息动机"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160"
+          ],
+          "function": "metaphor_close",
+          "note": "沉船债权人隐喻与全球猫鼠博弈"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我先声明/也就是说/你比如说/其实正是因为/另一方面」论证转场。",
+      "patterns": [
+        "先声明",
+        "也就是说翻译",
+        "其实正是因为"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我先聲明一下",
+          "note": "我先声明"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "也就是說",
+          "note": "也就是说"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "其實正是因為",
+          "note": "其实正是因为"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "正常小额自购债 vs 许式3/4扫货；掏空叙事 vs 高息债权人自保；各地合规 vs 规则缝隙游戏。",
+      "patterns": [
+        "正常vs罕见规模",
+        "掏空vs自保",
+        "合规外表vs缝隙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "這個在資本市場裡也算正常",
+          "note": "正常小额"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "這個就著實非常罕見了",
+          "note": "几乎所有债券"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "基本上都是合規的",
+          "note": "各地合規"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用「目的又是什么/为什么还要买自己的债/这是为什么」驱动独立思考。",
+      "patterns": [
+        "目的追问",
+        "独立思考设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "目的又是什麼",
+          "note": "目的是什么"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "再回來買自己的債呢",
+          "note": "为何再买债"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "這是為什麼",
+          "note": "这是为什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "具体到2018-10-30、18亿、Xin Xin、利率13%/13.75%等交易细项。",
+      "patterns": [
+        "交易细项举证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "2018年10月30日",
+          "note": "2018日期"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "叫“Xin Xin ltd.” 的BVI公司",
+          "note": "Xin Xin BVI"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "利率有13% 13.75%",
+          "note": "13%利率"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「组合拳/空手套白狼」落到分红买债数字；自保抽象落到沉船往船顶跑隐喻。",
+      "patterns": [
+        "组合拳→交易数字",
+        "自保→沉船隐喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "又買了至少10億美元",
+          "note": "买至少10亿"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "正在下沉的巨輪",
+          "note": "下沉巨轮"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "一邊趕緊往船頂跑",
+          "note": "往船顶跑"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「着实非常罕见」「高的出奇」「挺匪夷所思」等有分寸的强判断。",
+      "patterns": [
+        "罕见判定",
+        "利息出奇",
+        "匪夷所思"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "這個就著實非常罕見了",
+          "note": "非常罕见"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "高的出奇",
+          "note": "高的出奇"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "挺匪夷所思的一個點",
+          "note": "匪夷所思"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "声明不传小道；引导观众否定简单掏空叙事后给替代解释。",
+      "patterns": [
+        "拒小道边界",
+        "否定简单叙事"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "或者一些猜測我就不說了",
+          "note": "小道不说"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "這裡頭其實是有很多疑問的",
+          "note": "有很多疑问"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "声明稳开→事实短句链→质疑连问加速→隐喻放慢收束。",
+      "patterns": [
+        "声明稳开",
+        "连问加速",
+        "隐喻慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我先聲明一下",
+          "note": "声明"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "再回來買自己的債呢",
+          "note": "连问"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "它其實就是個貓鼠遊戲",
+          "note": "猫鼠慢收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "冷静声明→事实惊讶→质疑张力→豁然理解高息→无奈猫鼠收场。",
+      "patterns": [
+        "冷静→惊讶",
+        "张力→理解→无奈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "我個人認為比較可信的部分",
+          "note": "可信部分"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "這個就著實非常罕見了",
+          "note": "罕见惊讶"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "全球的大博弈吧",
+          "note": "全球博弈"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从许案升维到避税天堂猫鼠游戏，完成「组合拳目的」的制度层回答。",
+      "patterns": [
+        "个案例→制度博弈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s152",
+          "snippet": "它其實就是個貓鼠遊戲",
+          "note": "猫鼠游戏"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "全球的大博弈吧",
+          "note": "全球大博弈"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "以「小Lin观众有独立思考」身份认同代替硬CTA。",
+      "patterns": [
+        "身份认同软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "不過身為小Lin的觀眾朋友們",
+          "note": "小Lin观众"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "大家都是有獨立思考能力的",
+          "note": "独立思考"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "口语重复「说说」、港式「大D会」、沉船比喻生活化。",
+      "patterns": [
+        "口语重复",
+        "港式词",
+        "沉船比喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "說說 許家印通過這套操作",
+          "note": "说说许家印"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "他在香港\"大D會\"的一些朋友",
+          "note": "大D会"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "恆大它就像是一艘巨大的",
+          "note": "巨大轮船"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断致中段论证缺口；部分「据说」信息强度弱于主证据链。",
+      "patterns": [
+        "窗口缺口",
+        "据说弱证据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "這個就著實非常罕見了",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "獲得了100多億港元的",
+          "note": "跳入分红"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "據說",
+          "note": "据说朋友买"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开带领「你仔细想想」拆解掏空说漏洞，再给出信用危机高息解释。",
+      "patterns": [
+        "带领拆解",
+        "替代解释外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s73",
+          "snippet": "你就仔細想想",
+          "note": "仔细想想"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "其實正是因為",
+          "note": "正是因为信用"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "定位为有独立思考能力的小Lin观众，反对吃瓜简单结论。",
+      "patterns": [
+        "独立思考观众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "不過身為小Lin的觀眾朋友們",
+          "note": "观众朋友们"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "大家都是有獨立思考能力的",
+          "note": "独立思考"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2018-10-30、景程、新加坡交易所、18亿、Xin Xin BVI、10亿+、13%/13.75%。",
+      "patterns": [
+        "交易时间地点",
+        "利率锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "2018年10月30日",
+          "note": "日期"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "發行了18億美元債",
+          "note": "18亿"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "利率有13% 13.75%",
+          "note": "13%利率"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "声明低密→交易事实高密→质疑中密→隐喻收束低密。",
+      "patterns": [
+        "事实高密",
+        "收束低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "發行了18億美元債",
+          "note": "事实高密"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "利率有13% 13.75%",
+          "note": "利率高密"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "它其實就是個貓鼠遊戲",
+          "note": "低密隐喻"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "预告→声明→事实短句→对比长句→连问→隐喻金句。",
+      "patterns": [
+        "事实短句链",
+        "连问段",
+        "隐喻金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "發行了18億美元債",
+          "note": "事实句"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "再回來買自己的債呢",
+          "note": "连问"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "它其實就是個貓鼠遊戲",
+          "note": "金句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "审慎财经解说者：拒小道、反情绪化结论，用结构解释老板行为。",
+      "patterns": [
+        "审慎拒谣",
+        "结构解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "或者一些猜測我就不說了",
+          "note": "拒小道"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "也把自己變成了債權人",
+          "note": "变债权人解释"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "自己BVI买自家债；13%天价息；沉船往船顶跑；猫鼠游戏。",
+      "patterns": [
+        "自买债钩",
+        "天价息",
+        "沉船/猫鼠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "都是許家印自己的BVI認購的",
+          "note": "自己认购"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "利率有13% 13.75%",
+          "note": "13%"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "一邊趕緊往船頂跑",
+          "note": "往船顶跑"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "声明边界→交易事实→反常识提问→结构解释→制度升维，适合观宇资本案口播直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我先聲明一下",
+          "note": "声明边界"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "再回來買自己的債呢",
+          "note": "反常识问"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "它其實就是個貓鼠遊戲",
+          "note": "制度升维"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s7",
+    "s19",
+    "s29",
+    "s132",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s131",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s160"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1123 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_HTa1uc_kmHQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=HTa1uc_kmHQ",
+  "source_sha256": "00b29f69d7decde627e3f999cea3ca50e55a8d6bc9d70df947ad29f518d3728f",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 71,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "哎"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "大家可能经常刷到这种"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "机器人出扬相的视频"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "刷的视频"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "要不就是经常看见那些"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "计划的一些"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "传家的计划"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "和商店的伴们的伴们"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "感觉这些就是我们经常会"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "见到的机器人"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "好像要纯准"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "我说了经人的395亿美元"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "关键它 so"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "的刚刚成X厢里"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "連產品都還沒量"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "而國內呢"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "在了極其人"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "首先我要和極其人來一場人機打戰"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "他好弱呀"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "我時間了 我要時間了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "我能能穿一腳嗎"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 11,
+      "snippet": "你要不要聽聽你在說什麼"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 17,
+      "snippet": "我聽你來 我就測試一下我們節目效果"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "他平衡好 很好"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "謝謝"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 27,
+      "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 22,
+      "snippet": "運輸 裝ist 裝箱現在已經基本全都是極其人"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "唯一你想買幾塊錢的東西都"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "成本怎麼可能壓到那麼低"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "包括醫療領域"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "有iają數極其人"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "被譜助做進食演的手術"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "行葬支架等的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "服務類的就更多了"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "早立極其人"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "人在酒店 餐廳看"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "然後還會翻轉轉身把工"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "已經開始在特斯拉的工廠裡去練"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "能玩成像電池的分裝 東西分類 翻運"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "5.這些人物"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 15,
+      "snippet": "就是說經歧程度可以做到能拿雞蛋"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 3,
+      "snippet": "不碎好"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 15,
+      "snippet": "其实很多都是特斯拉汽车的供应商"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 21,
+      "snippet": "要做机器人对我们现在的技能来说难点到底在哪"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 30,
+      "snippet": "很快他们就能变成出来那个是猫那个是狗这个人是男的还是你的这个"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 2,
+      "snippet": "是迪"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 23,
+      "snippet": "我就给模你出来一个鸡蛋他大概是什么手感什么粗�"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 30,
+      "snippet": "这时就集结了一批机器人领域非常牛的技术人才组成了一个明星团队"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 24,
+      "snippet": "上来就号称要做这个星球上最大最具影响力的公司之一"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 14,
+      "snippet": "现在试头也确实很没有开始量产"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 16,
+      "snippet": "但是已经跟宝马克做开始进场训练了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 21,
+      "snippet": "他还有一个没有透露性命的打客户也在密切交流"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "据推测可能是一大事"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 25,
+      "snippet": "据Fegs人의创始人说就这两个客户定单的的前再规模"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 13,
+      "snippet": "未来四五年可能会达到十万级"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 11,
+      "snippet": "这个数字我是非常震惊的"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 30,
+      "snippet": "你像十万个机器人未来,未来四五年你就要� p 出,也就是很有"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 22,
+      "snippet": "你能够把这些箱子从,这个货架,能够到那个货架"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 16,
+      "snippet": "总之需要你手部需要你上支比较灵火"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 20,
+      "snippet": "所以你从Fegs人放上这些单模也能看出来"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 26,
+      "snippet": "而且已经连续无法免疫,这个在机器人公司里是非常罕见的"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 20,
+      "snippet": "他最厉害的地方,我觉得就是能把成本给打散"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 23,
+      "snippet": "他的这一页轻量级的人心机器人做到了九万九人民币"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "当然七月底就发"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 51,
+      "snippet": "发布了一个R1,只要3.999,000气,大家见得比较多的消� and 资格的四足机器狗还不到一万块钱"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "24年所有夹起来全"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 15,
+      "snippet": "大家 这次机前 大家 这次机前"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "Thank"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "她还是挺值得期待的"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 14,
+      "snippet": "这次机前 这次机前 这次机前"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 2,
+      "snippet": "这次"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "刷到机器人出丑视频的日常感开场，对比天价估值与产品未量产反差。",
+      "patterns": [
+        "出丑视频钩子",
+        "估值未量产反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "机器人出扬相的视频",
+          "note": "出扬相视频"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "我说了经人的395亿美元",
+          "note": "395亿美元"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "連產品都還沒量",
+          "note": "产品还没量产"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "狭义人形尚早但广义机器人已遍布物流医疗→难点在灵巧感知→明星团队高估值→成本打下来才关键→仍值得期待。",
+      "patterns": [
+        "广义已至→难点→资本→成本→谨慎期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "生活中已常见"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "要做机器人对我们现在的技能来说难点到底在哪",
+          "note": "难点在哪"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这时就集结了一批机器人领域非常牛的技术人才组成了一个明星团队",
+          "note": "明星团队"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本打散"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "她还是挺值得期待的",
+          "note": "挺值得期待"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "function": "hook_hype",
+          "note": "出丑与估值反差钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "live_demo",
+          "note": "人机对战节目效果"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43"
+          ],
+          "function": "broad_robots",
+          "note": "广义机器人应用盘点"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61"
+          ],
+          "function": "hard_problems_capital",
+          "note": "技术难点与资本订单"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71"
+          ],
+          "function": "cost_close",
+          "note": "成本下探与期待收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「其实广义的机器人」「难点到底在哪」从热度转到实质。",
+      "patterns": [
+        "广义其实转折",
+        "难点追问过渡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "其实广义"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "要做机器人对我们现在的技能来说难点到底在哪",
+          "note": "难点在哪"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "刷到出丑vs工厂真用；天价未量产vs九万九价格带；拿蛋不碎精细对比。",
+      "patterns": [
+        "出丑vs实用",
+        "估值vs售价",
+        "精细任务对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "机器人出扬相的视频",
+          "note": "出丑"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "運輸 裝ist 裝箱現在已經基本全都是極其人",
+          "note": "装箱已是机器人"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "他的这一页轻量级的人心机器人做到了九万九人民币",
+          "note": "九万九"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就是說經歧程度可以做到能拿雞蛋",
+          "note": "能拿鸡蛋不碎"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "难点到底在哪、你要不要听听你在说什么节目自嘲问。",
+      "patterns": [
+        "技术难点问",
+        "节目自嘲问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "要做机器人对我们现在的技能来说难点到底在哪",
+          "note": "难点在哪"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要不要聽聽你在說什麼",
+          "note": "听听你在说什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "物流装箱、手术机器人、酒店餐厅、特斯拉工厂、Figure十万级订单、单价九万九。",
+      "patterns": [
+        "行业场景例",
+        "客户订单例",
+        "价格带例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "運輸 裝ist 裝箱現在已經基本全都是極其人",
+          "note": "运输装箱"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "被譜助做進食演的手術",
+          "note": "辅助手术"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "未来四五年可能会达到十万级",
+          "note": "十万级"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "他的这一页轻量级的人心机器人做到了九万九人民币",
+          "note": "九万九"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "灵巧落成拿鸡蛋不碎、货架搬运；成本落成具体售价。",
+      "patterns": [
+        "鸡蛋任务具象",
+        "售价具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "就是說經歧程度可以做到能拿雞蛋",
+          "note": "拿鸡蛋不碎"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "你能够把这些箱子从,这个货架,能够到那个货架",
+          "note": "货架到货架"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "发布了一个R1,只要3.999,000气,大家见得比较多的消� and 资格的四",
+          "note": "3999机器狗"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "这个数字我非常震惊、最厉害是把成本打散、挺值得期待。",
+      "patterns": [
+        "震惊判断",
+        "成本能力判断",
+        "谨慎期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "这个数字我是非常震惊的",
+          "note": "非常震惊"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本打散"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "她还是挺值得期待的",
+          "note": "值得期待"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "现场对战自嘲机器人好弱，又立刻转测试节目效果圆场。",
+      "patterns": [
+        "好弱自嘲再圆场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "他好弱呀",
+          "note": "他好弱"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我聽你來 我就測試一下我們節目效果",
+          "note": "测试节目效果"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "热度碎句→现场打闹→应用盘点中速→资本数字加重→价格带快收；ASR破尾。",
+      "patterns": [
+        "打闹调节",
+        "数字加重",
+        "尾ASR破节奏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "首先我要和極其人來一場人機打戰",
+          "note": "人机大战"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "这个数字我是非常震惊的",
+          "note": "震惊数字"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这次机前 这次机前 这次机前",
+          "note": "重复噪声"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "哎"
+        },
+        {
+          "type": "discourse",
+          "form": "其实"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "我们我们"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎",
+          "note": "哎"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "其实"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "我们我们"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "刷到热度戏谑→对战欢乐→应用踏实→订单震惊→成本欣喜→期待收。",
+      "patterns": [
+        "戏谑",
+        "震惊",
+        "期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "机器人出扬相的视频",
+          "note": "戏谑出丑"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "这个数字我是非常震惊的",
+          "note": "震惊"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "她还是挺值得期待的",
+          "note": "期待"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以挺值得期待收，但尾部ASR重复使闭环不完整。",
+      "patterns": [
+        "值得期待收",
+        "ASR损闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "她还是挺值得期待的",
+          "note": "值得期待"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "这次",
+          "note": "噪声尾"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式关注CTA，期待句作软收。",
+      "patterns": [
+        "期待型软收无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "她还是挺值得期待的",
+          "note": "值得期待"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "现场人机互动、自嘲好弱、价格脱口秀；ASR混杂中英乱码。",
+      "patterns": [
+        "现场互动",
+        "自嘲好弱",
+        "ASR混杂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "首先我要和極其人來一場人機打戰",
+          "note": "人机大战"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "他好弱呀",
+          "note": "好弱"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "关键它 so",
+          "note": "中英混杂"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重致论点碎裂；广义狭义界定未清晰；订单数字缺来源。",
+      "patterns": [
+        "ASR碎裂",
+        "界定不清",
+        "数字缺出处"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "和商店的伴们的伴们",
+          "note": "乱码开场"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "未来四五年可能会达到十万级",
+          "note": "十万级缺出处"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "大家 这次机前 大家 这次机前",
+          "note": "重复尾"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从刷短视频感受→追问难点→看到成本页的认知路径较清晰。",
+      "patterns": [
+        "刷感到追问",
+        "成本页顿悟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "大家可能经常刷到这种",
+          "note": "经常刷到"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "要做机器人对我们现在的技能来说难点到底在哪",
+          "note": "难点追问"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本打散顿悟"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认观众也被机器人短视频刷到，用共同刷感建立同盟。",
+      "patterns": [
+        "共同刷感同盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "大家可能经常刷到这种",
+          "note": "大家可能经常刷到"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "395亿估值、拿鸡蛋、九万九、3999、十万级订单。",
+      "patterns": [
+        "估值锚",
+        "鸡蛋锚",
+        "价格锚",
+        "订单锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "我说了经人的395亿美元",
+          "note": "395亿"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就是說經歧程度可以做到能拿雞蛋",
+          "note": "鸡蛋"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "他的这一页轻量级的人心机器人做到了九万九人民币",
+          "note": "九万九"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "未来四五年可能会达到十万级",
+          "note": "十万级"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低密→应用中密→资本订单高密→价格带中密→尾噪声无效。",
+      "patterns": [
+        "订单高密",
+        "尾无效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "運輸 裝ist 裝箱現在已經基本全都是極其人",
+          "note": "应用中密"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "未来四五年可能会达到十万级",
+          "note": "订单高密"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "这次机前 这次机前 这次机前",
+          "note": "无效重复"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "热度→现场→广义应用→难点资本→成本→期待。",
+      "patterns": [
+        "热度-应用-资本-成本"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "机器人出扬相的视频",
+          "note": "热度"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "广义"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷静降温型科技解说：承认广义自动化已至，对人形泡沫保持成本视角。",
+      "patterns": [
+        "降温但不否定",
+        "成本视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "已经常见"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本打散"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "出丑视频vs工厂机器人、拿鸡蛋、成本打下来、九万九。",
+      "patterns": [
+        "出丑对照",
+        "鸡蛋任务",
+        "成本金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "机器人出扬相的视频",
+          "note": "出丑"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就是說經歧程度可以做到能拿雞蛋",
+          "note": "鸡蛋"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本打散"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "热度降温→广义已至→难点→成本的科技选题骨架可改编，需重做清晰口播与数据标注。",
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "其實廣益的極其人我們,我們生活中已經非常常見 just",
+          "note": "广义已至"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "要做机器人对我们现在的技能来说难点到底在哪",
+          "note": "难点问"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他最厉害的地方,我觉得就是能把成本给打散",
+          "note": "成本点"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s12",
+    "s15",
+    "s26",
+    "s44",
+    "s48",
+    "s62",
+    "s69",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s45",
+    "s46",
+    "s47",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s70",
+    "s71"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1205 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_eoa3OAmEaQw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=eoa3OAmEaQw",
+  "source_sha256": "b669c9fa42158cf181d1b6e69ef31be9cc2bfe144d4b93b926d00ce215a92b30",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s193"
+    },
+    {
+      "sentence_id": "s194"
+    },
+    {
+      "sentence_id": "s195"
+    },
+    {
+      "sentence_id": "s196"
+    },
+    {
+      "sentence_id": "s197"
+    },
+    {
+      "sentence_id": "s198"
+    },
+    {
+      "sentence_id": "s199"
+    },
+    {
+      "sentence_id": "s200"
+    },
+    {
+      "sentence_id": "s201"
+    },
+    {
+      "sentence_id": "s202"
+    },
+    {
+      "sentence_id": "s203"
+    },
+    {
+      "sentence_id": "s204"
+    },
+    {
+      "sentence_id": "s205"
+    },
+    {
+      "sentence_id": "s206"
+    },
+    {
+      "sentence_id": "s207"
+    },
+    {
+      "sentence_id": "s208"
+    },
+    {
+      "sentence_id": "s209"
+    },
+    {
+      "sentence_id": "s210"
+    },
+    {
+      "sentence_id": "s211"
+    },
+    {
+      "sentence_id": "s212"
+    },
+    {
+      "sentence_id": "s213"
+    },
+    {
+      "sentence_id": "s214"
+    },
+    {
+      "sentence_id": "s215"
+    },
+    {
+      "sentence_id": "s216"
+    },
+    {
+      "sentence_id": "s217"
+    },
+    {
+      "sentence_id": "s218"
+    },
+    {
+      "sentence_id": "s219"
+    },
+    {
+      "sentence_id": "s220"
+    },
+    {
+      "sentence_id": "s221"
+    },
+    {
+      "sentence_id": "s222"
+    },
+    {
+      "sentence_id": "s223"
+    },
+    {
+      "sentence_id": "s224"
+    },
+    {
+      "sentence_id": "s225"
+    },
+    {
+      "sentence_id": "s226"
+    },
+    {
+      "sentence_id": "s227"
+    },
+    {
+      "sentence_id": "s228"
+    },
+    {
+      "sentence_id": "s229"
+    },
+    {
+      "sentence_id": "s230"
+    },
+    {
+      "sentence_id": "s231"
+    },
+    {
+      "sentence_id": "s232"
+    },
+    {
+      "sentence_id": "s396"
+    },
+    {
+      "sentence_id": "s397"
+    },
+    {
+      "sentence_id": "s398"
+    },
+    {
+      "sentence_id": "s399"
+    },
+    {
+      "sentence_id": "s400"
+    },
+    {
+      "sentence_id": "s401"
+    },
+    {
+      "sentence_id": "s402"
+    },
+    {
+      "sentence_id": "s403"
+    },
+    {
+      "sentence_id": "s404"
+    },
+    {
+      "sentence_id": "s405"
+    },
+    {
+      "sentence_id": "s406"
+    },
+    {
+      "sentence_id": "s407"
+    },
+    {
+      "sentence_id": "s408"
+    },
+    {
+      "sentence_id": "s409"
+    },
+    {
+      "sentence_id": "s410"
+    },
+    {
+      "sentence_id": "s411"
+    },
+    {
+      "sentence_id": "s412"
+    },
+    {
+      "sentence_id": "s413"
+    },
+    {
+      "sentence_id": "s414"
+    },
+    {
+      "sentence_id": "s415"
+    },
+    {
+      "sentence_id": "s416"
+    },
+    {
+      "sentence_id": "s417"
+    },
+    {
+      "sentence_id": "s418"
+    },
+    {
+      "sentence_id": "s419"
+    },
+    {
+      "sentence_id": "s420"
+    },
+    {
+      "sentence_id": "s421"
+    },
+    {
+      "sentence_id": "s422"
+    },
+    {
+      "sentence_id": "s423"
+    },
+    {
+      "sentence_id": "s424"
+    },
+    {
+      "sentence_id": "s425"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "果然如我所料日本加息，末位负利率经济体十七年后首次加息，立刻抬到象征意义。",
+      "patterns": [
+        "预言兑现开场",
+        "历史首次加息",
+        "象征意义抬升"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "果然",
+          "note": "果然"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "日本加息了",
+          "note": "加息了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "关键是说它有一个巨大的象征意义",
+          "note": "象征意义"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "加息+放弃YCC=激进货币时代终结→市场反常日元跌穿150→海外资产/利差交易解释→美日利差仍大故继续做空。",
+      "patterns": [
+        "双政策取消",
+        "反常跌穿",
+        "利差交易解释",
+        "美日利差续空"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "我们也不搞了",
+          "note": "YCC不搞了"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "反倒兑美元再一次跌穿了150大关",
+          "note": "跌穿150"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "这个就是我们老说那个利差交易",
+          "note": "利差交易"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "市场偏偏猛猛做空它",
+          "note": "猛猛做空"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "加息与取消YCC的历史信号",
+          "note": "开场立论"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "自嘲影响力与日元反常下跌类比",
+          "note": "反常钩子"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232"
+          ],
+          "function": "海外资产规模与Carry Trade机制",
+          "note": "机制解释"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s396",
+            "s397",
+            "s398",
+            "s399",
+            "s400",
+            "s401",
+            "s402",
+            "s403",
+            "s404",
+            "s405",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423",
+            "s424",
+            "s425"
+          ],
+          "function": "美日利差持续与做空日元窗口",
+          "note": "收束展望"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「这还没完」「咱说回到日本」「总而言之」「所以这个影响」层层回扣。",
+      "patterns": [
+        "这还没完递进",
+        "说回主题",
+        "总而言之收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "这还没完",
+          "note": "这还没完"
+        },
+        {
+          "sentence_id": "s199",
+          "snippet": "咱说回到日本",
+          "note": "说回到日本"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "总而言之",
+          "note": "总而言之"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "一小步vs一大步；正常应暴涨vs实际跌穿150；放假同学却哭了的反常类比。",
+      "patterns": [
+        "一小步/一大步",
+        "应涨实跌",
+        "放假却哭类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "看着好像是日本央行的一小步",
+          "note": "一小步"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但这其实是日本货币政策的一大步",
+          "note": "一大步"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "日元它不光没涨",
+          "note": "没涨反跌"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "结果同学全哭了",
+          "note": "同学全哭了"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「这是什么概念」「为什么有这么多海外资产」「哭什么」驱动解释。",
+      "patterns": [
+        "概念追问",
+        "为何海外资产",
+        "反常追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s193",
+          "snippet": "这是什么概念",
+          "note": "什么概念"
+        },
+        {
+          "sentence_id": "s200",
+          "snippet": "那你说它(日本)为什么会有这么多",
+          "note": "为何海外资产"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "你说说 他们哭什么",
+          "note": "哭什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "去纽约买楼/欧洲买股票、借日元投美元、做空日元空头创2007来新高。",
+      "patterns": [
+        "买楼买股例",
+        "借日元例",
+        "空头新高例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s207",
+          "snippet": "那我还不如去纽约买栋楼",
+          "note": "纽约买楼"
+        },
+        {
+          "sentence_id": "s215",
+          "snippet": "我为什么不借日元",
+          "note": "借日元"
+        },
+        {
+          "sentence_id": "s420",
+          "snippet": "竟然达到了2007年以来的最高点",
+          "note": "2007最高"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "从货币政策一大步落到0.1%数字、150关口、五个日本GDP、Carry Trade。",
+      "patterns": [
+        "利率数字落地",
+        "汇率关口",
+        "GDP倍数",
+        "利差术语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "把它的基准利率从负的0.1%",
+          "note": "负0.1%"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "反倒兑美元再一次跌穿了150大关",
+          "note": "150大关"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "大概相当于五个日本的GDP",
+          "note": "五个日本GDP"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "Carry Trade",
+          "note": "Carry Trade"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「这就不太符合经济学常识」「可能会非常匪夷所思」「很有油水」。",
+      "patterns": [
+        "不符常识判断",
+        "匪夷所思",
+        "油水评价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "这就不太符合经济学常识了",
+          "note": "不符常识"
+        },
+        {
+          "sentence_id": "s416",
+          "snippet": "可能会非常匪夷所思的一个现象",
+          "note": "匪夷所思"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "可能在很长一段时间都还是会有油水",
+          "note": "有油水"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先自嘲视频影响力，随即「但我跟你说」把焦点改到市场反应。",
+      "patterns": [
+        "自嘲后转折",
+        "焦点改到市场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "可见小Lin的视频",
+          "note": "自嘲影响力"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "但我跟你说",
+          "note": "但我跟你说"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "日本加完息有意思的其实是市场的反应",
+          "note": "市场反应才有意思"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句宣告→政策解释中速→类比短问顿挫→机制段长链→收束展望放慢。",
+      "patterns": [
+        "短句宣告",
+        "类比顿挫",
+        "机制长链",
+        "展望放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "日本加息了",
+          "note": "宣告"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "你说说 他们哭什么",
+          "note": "顿挫问"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "这个就是我们老说那个利差交易",
+          "note": "机制"
+        },
+        {
+          "sentence_id": "s425",
+          "snippet": "咱们也可以再聊聊美国",
+          "note": "展望"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "预言爽感→历史庄重→自嘲轻快→反常困惑→机制冷静→做空张力→美国混沌收。",
+      "patterns": [
+        "爽感",
+        "庄重",
+        "轻快",
+        "困惑",
+        "冷静",
+        "张力",
+        "混沌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "果然",
+          "note": "爽感"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这就不太符合经济学常识了",
+          "note": "困惑"
+        },
+        {
+          "sentence_id": "s412",
+          "snippet": "大家就玩命抓紧最后这个窗口去做空日元",
+          "note": "张力"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "就是比较混沌",
+          "note": "混沌"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场加息象征意义，收束解释为何加息仍被做空，并预告再聊美国。",
+      "patterns": [
+        "象征开场",
+        "做空解释收",
+        "预告美国"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "关键是说它有一个巨大的象征意义",
+          "note": "象征开"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "市场偏偏猛猛做空它",
+          "note": "做空收"
+        },
+        {
+          "sentence_id": "s425",
+          "snippet": "咱们也可以再聊聊美国",
+          "note": "再聊美国"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "评论区讨论非重点话题；预告美国篇作系列钩子，软性留人。",
+      "patterns": [
+        "评论区讨论",
+        "系列预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s197",
+          "snippet": "大家可以在评论区讨论讨论",
+          "note": "评论区讨论"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "这不是我们今天的重点",
+          "note": "非今天重点"
+        },
+        {
+          "sentence_id": "s425",
+          "snippet": "咱们也可以再聊聊美国",
+          "note": "再聊美国"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「果然如我所料」人格钩子、放假哭了类比、小Lin自嘲影响力，口语人格强。",
+      "patterns": [
+        "预言人格",
+        "生活类比",
+        "自嘲品牌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如我所料",
+          "note": "如我所料"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "这就有点像老师要是告诉同学说",
+          "note": "放假类比"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "可见小Lin的视频",
+          "note": "小Lin自嘲"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED，中段机制与开头之间大段缺失；海外资产概念题故意悬置。",
+      "patterns": [
+        "中段截断",
+        "概念题悬置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "你说说 他们哭什么",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s193",
+          "snippet": "这是什么概念",
+          "note": "截断后跳入"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "这不是我们今天的重点",
+          "note": "故意非重点"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示正常应涨预期→观察反常→用国内低回报与利差交易反推资金回流逻辑。",
+      "patterns": [
+        "预期-反常",
+        "低回报推理",
+        "利差回流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "那日元应该暴涨",
+          "note": "应暴涨预期"
+        },
+        {
+          "sentence_id": "s203",
+          "snippet": "因为国内的投资回报率太低了",
+          "note": "回报率低"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "那我赶紧还是把海外的钱给撤回来",
+          "note": "撤回来"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对「咱们」财经观众用老师放假类比降低门槛，邀请评论区讨论。",
+      "patterns": [
+        "咱们同盟",
+        "类比降门槛",
+        "评论邀请"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "其实前两天咱们也聊过",
+          "note": "咱们也聊过"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "这就有点像老师要是告诉同学说",
+          "note": "老师同学类比"
+        },
+        {
+          "sentence_id": "s197",
+          "snippet": "大家可以在评论区讨论讨论",
+          "note": "评论区"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "十七年、负0.1%到0-0.1%、150关口、五个日本GDP、美利率3-5、2007空头高点。",
+      "patterns": [
+        "年数锚",
+        "利率锚",
+        "汇率锚",
+        "GDP锚",
+        "空头高点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "日本央行也在整整十七年之后",
+          "note": "十七年"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "反倒兑美元再一次跌穿了150大关",
+          "note": "150"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "这几年美国的利率大概是3到5",
+          "note": "美利率3到5"
+        },
+        {
+          "sentence_id": "s420",
+          "snippet": "竟然达到了2007年以来的最高点",
+          "note": "2007最高"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密宣告→类比低密→海外资产/利差高密→美日博弈收束高密。",
+      "patterns": [
+        "宣告中密",
+        "类比低密",
+        "机制高密",
+        "博弈高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "迎来了第一次加息",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "我们明天放假",
+          "note": "低密类比"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "这个就是我们老说那个利差交易",
+          "note": "高密机制"
+        },
+        {
+          "sentence_id": "s420",
+          "snippet": "竟然达到了2007年以来的最高点",
+          "note": "高密数据"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短宣告+解释长句交替，类比段短问短答，机制段条件句连锁。",
+      "patterns": [
+        "短长交替",
+        "短问短答",
+        "条件连锁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你看着好像只加了0.1%",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "你说说 他们哭什么",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "而现在日本央行它一旦加息",
+          "note": "条件连锁"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "自信预言者+通俗讲解员：敢说如我所料，又用放假哭了把宏观变生活。",
+      "patterns": [
+        "预言自信",
+        "生活化类比",
+        "系列预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如我所料",
+          "note": "如我所料"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "结果同学全哭了",
+          "note": "生活类比"
+        },
+        {
+          "sentence_id": "s425",
+          "snippet": "咱们也可以再聊聊美国",
+          "note": "系列感"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "果然如我所料；负利率我们不搞了；放假同学全哭了；Carry Trade；加息却猛猛做空。",
+      "patterns": [
+        "如我所料",
+        "不搞了",
+        "放假哭了",
+        "Carry Trade",
+        "加息做空"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如我所料",
+          "note": "如我所料"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我们不搞了",
+          "note": "不搞了"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "结果同学全哭了",
+          "note": "哭了"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "市场偏偏猛猛做空它",
+          "note": "猛猛做空"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "预言开场+反常市场钩子+利差机制+美日对照的宏观讲解骨架可直接用于观宇财经口播。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如我所料",
+          "note": "预言开场可复用"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这就不太符合经济学常识了",
+          "note": "反常钩子可复用"
+        },
+        {
+          "sentence_id": "s217",
+          "snippet": "这个就是我们老说那个利差交易",
+          "note": "机制段可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s12",
+    "s28",
+    "s45",
+    "s217",
+    "s418",
+    "s31",
+    "s193",
+    "s396",
+    "s18",
+    "s199",
+    "s224",
+    "s10",
+    "s11",
+    "s44",
+    "s49",
+    "s200",
+    "s50",
+    "s207",
+    "s215",
+    "s420",
+    "s7",
+    "s194",
+    "s219",
+    "s46",
+    "s416",
+    "s411",
+    "s34",
+    "s36",
+    "s37",
+    "s425",
+    "s412",
+    "s423",
+    "s197",
+    "s198",
+    "s2",
+    "s47",
+    "s40",
+    "s203",
+    "s231",
+    "s19",
+    "s5",
+    "s214",
+    "s6",
+    "s48",
+    "s9",
+    "s227",
+    "s17"
+  ],
+  "fields_complete_25": true
+}

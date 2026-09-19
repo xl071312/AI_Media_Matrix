@@ -1,0 +1,1089 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_J4dpVQhxxpI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=J4dpVQhxxpI",
+  "source_sha256": "48488fa3a2862199b27106d3a4491605e0966e0858efb2a48902352f541ddb6d",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 69,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "前段時間我又有一個"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "前段時間我又有一個"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "前段時間我又有一個"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "前段時間我又有一個"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "前段時間我又有"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "前段時間我又"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "比1.49还大的业体啊"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "不堵而且都不是什么擅长"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "而是一业就二"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "不堵"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "但既然大家这么想看"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 19,
+      "snippet": "-诀一诀识语语语语语语语语语语语语语语"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 2,
+      "snippet": "不啊"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 3,
+      "snippet": "试试证"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "未研究"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "-诜音"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "感谢各位提这个建议的关注吧"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "这个真的是出乎我的意料"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 15,
+      "snippet": "我再在这把它放一天一会会看这会"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "交 off"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "latest suggested"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 2,
+      "snippet": "语音"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "语音可以吗"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "鼓励"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "语音"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "这...是四形了吗"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "那我先做有色机体的实验吧"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 13,
+      "snippet": "我能想到的后悦方法来有三种"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "农校孙家红"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "深称红中色的二氧化弹"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "农年孙家冬我孙家"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "深称黄六色的律师"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "农年孙家电话家"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "深称子次的电争器"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "我来搞定三纳小孙"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "农流孙"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "农年孙主义之中话题"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "农校的主义之中话题"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "色形的主义之中话题"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "是是不是有经验中的"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "也可以判死行"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "又死了一次"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 16,
+      "snippet": "就是对上期视频用三个高频问题的回"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "对上期视频用三个高频问题的回应"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "感谢大家的好奇心"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "那我们下期"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "下期"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "等一下"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "很有一个糖水呢"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "一起来看一下"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "多了几个小时"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "白糖变少了"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "夜面下降了"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "但是在蓝牌两层中间"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 12,
+      "snippet": "出现那个神秘的白色火原型"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "像一个肺腿"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "上下一动机会"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "它还会忽打忽小"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 14,
+      "snippet": "大忽刚立这是永远有位戒指米啊"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 9,
+      "snippet": "你知道这是为什么吗"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 11,
+      "snippet": "记得给我们三连支持一下"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 6,
+      "snippet": "我们下期再见"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "人造为你强"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 3,
+      "snippet": "三斩的"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "就打这个大忽刚"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "人造为你"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "重复「前段时间我又有一个」卡住开场，随即转向网友想看的更大折光实验。",
+      "patterns": [
+        "重复卡顿开场",
+        "回应网友猜想"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前段時間我又有一個",
+          "note": "重复开场"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但既然大家这么想看",
+          "note": "大家想看"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "比1.49还大的业体啊",
+          "note": "更大业体"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "回应上期高频问题→承诺做有色介质实验→三种方法线索→糖水白雾悬念→三连预告下期。",
+      "patterns": [
+        "回应上期问题",
+        "实验方法预告",
+        "悬念收钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "对上期视频用三个高频问题的回应",
+          "note": "三高频回应"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "我能想到的后悦方法来有三种",
+          "note": "三种方法"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "白色火原悬念"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "setup_motivation",
+          "note": "开场卡顿与回应网友"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44"
+          ],
+          "function": "method_sketch",
+          "note": "有色介质三种方法草图(ASR噪声大)"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "teaser_phenomenon",
+          "note": "糖水白雾现象悬念"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69"
+          ],
+          "function": "cta_close",
+          "note": "三连下期再见"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但既然大家这么想看」「那我先做」「那我们下期」推进段落。",
+      "patterns": [
+        "但既然承接",
+        "那我先做切换",
+        "下期预告过渡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但既然大家这么想看",
+          "note": "但既然想看"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "那我先做有色机体的实验吧",
+          "note": "那我先做"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "那我们下期",
+          "note": "那我们下期"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "对比「不是擅长而是一业就二」与「出乎意料」；糖水白糖变少vs白雾出现。",
+      "patterns": [
+        "预期vs出乎意料",
+        "减少vs新生现象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "不堵而且都不是什么擅长",
+          "note": "不是擅长"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这个真的是出乎我的意料",
+          "note": "出乎意料"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "白糖变少了",
+          "note": "白糖变少"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用「你知道这是为什么吗」「语音可以吗」「这是四形了吗」拉互动。",
+      "patterns": [
+        "悬念为什么问",
+        "确认式短问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "你知道这是为什么吗",
+          "note": "为什么吗"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "语音可以吗",
+          "note": "语音可以吗"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "这...是四形了吗",
+          "note": "四形了吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以糖水静置数小时后界面白雾作为可观察实验例证。",
+      "patterns": [
+        "静置现象例证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "多了几个小时",
+          "note": "多了几小时"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "白色火原"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "像一个肺腿",
+          "note": "像一个肺腿"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象「更大折光体」落到糖水层间白雾、忽大忽小的可视频象。",
+      "patterns": [
+        "折光抽象→糖水白雾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "比1.49还大的业体啊",
+          "note": "更大业体"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "白雾现象"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "它还会忽打忽小",
+          "note": "忽大忽小"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "轻判断：出乎意料、感谢好奇心；结尾「人造为你强」口号式自评。",
+      "patterns": [
+        "出乎意料判断",
+        "口号自评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这个真的是出乎我的意料",
+          "note": "出乎意料"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "感谢大家的好奇心",
+          "note": "感谢好奇心"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "人造为你强",
+          "note": "人造为你强"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "开场多次重启同一句，属口语自我修复；「等一下」中断后改讲糖水。",
+      "patterns": [
+        "句首重启修复",
+        "等一下改道"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前段時間我又有一個",
+          "note": "四次重启"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "等一下",
+          "note": "等一下"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开头重复极慢→中段ASR碎句→结尾悬念问+三连短收。",
+      "patterns": [
+        "重复拖拍开场",
+        "碎句中段",
+        "悬念短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "前段時間我又有一個",
+          "note": "重复拖拍"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "你知道这是为什么吗",
+          "note": "悬念问"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连短收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "前段時間我又有一個"
+        },
+        {
+          "type": "discourse",
+          "form": "但既然"
+        },
+        {
+          "type": "repair",
+          "form": "等一下"
+        },
+        {
+          "type": "discourse",
+          "form": "那我先"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前段時間我又有一個",
+          "note": "开场连环重复"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但既然大家这么想看",
+          "note": "但既然"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "等一下",
+          "note": "等一下修复"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "那我先做有色机体的实验吧",
+          "note": "那我先做"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "卡顿尴尬→感谢鼓励→实验好奇→白雾惊奇→三连热情收。",
+      "patterns": [
+        "卡顿→感谢",
+        "好奇→惊奇→热情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "感谢各位提这个建议的关注吧",
+          "note": "感谢建议"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "神秘白雾"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连支持"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用「为什么」悬念扣回折光主题，预告下期完成回应闭环。",
+      "patterns": [
+        "悬念扣主题",
+        "下期闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "你知道这是为什么吗",
+          "note": "为什么悬念"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "我们下期再见",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "标准三连支持+下期再见。",
+      "patterns": [
+        "三连CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s63",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连支持"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "我们下期再见",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "真实口误重复、中英夹杂「cut off/latest suggested」、比喻「像一个肺腿」。",
+      "patterns": [
+        "口误重复",
+        "中英夹杂",
+        "怪比喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前段時間我又有一個",
+          "note": "口误重复"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "交 off",
+          "note": "cut off"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "像一个肺腿",
+          "note": "肺腿比喻"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真导致方法段几乎不可读，信息传达受损。",
+      "patterns": [
+        "ASR失真伤可读性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "-诀一诀识语语语语语语语语语语语语语语",
+          "note": "乱码句"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "农校孙家红",
+          "note": "农校孙家红噪声"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开「我能想到的后续方法有三种」与当场改讲糖水的决策过程。",
+      "patterns": [
+        "三种方法外显",
+        "当场改题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "我能想到的后悦方法来有三种",
+          "note": "三种方法"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "等一下",
+          "note": "等一下改讲"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当提出猜想的共创者：感谢建议/好奇心。",
+      "patterns": [
+        "共创建议者定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "感谢各位提这个建议的关注吧",
+          "note": "感谢建议"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "感谢大家的好奇心",
+          "note": "感谢好奇心"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但既然大家这么想看",
+          "note": "大家想看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "糖水、白糖变少液面下降、蓝牌两层白雾、三连等可拍锚点。",
+      "patterns": [
+        "糖水现象锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "很有一个糖水呢",
+          "note": "糖水"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "白糖变少了",
+          "note": "白糖变少"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "白色火原"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场极低密重复→方法段噪声高密但低信息→悬念段中密→CTA低密。",
+      "patterns": [
+        "低密重复",
+        "噪声高密低信息",
+        "悬念中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "前段時間我又有一個",
+          "note": "低密重复"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "深称红中色的二氧化弹",
+          "note": "噪声句"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "悬念信息"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "重复碎片→跳跃实验词→完整回应句→现象短句链→问答收。",
+      "patterns": [
+        "碎片→完整句",
+        "短句现象链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "对上期视频用三个高频问题的回应",
+          "note": "完整回应句"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "白糖变少了",
+          "note": "现象短句"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "你知道这是为什么吗",
+          "note": "问答收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式「被网友推着做实验」的谦虚好奇人设，夹杂口号「人造为你强」。",
+      "patterns": [
+        "被观众推动",
+        "科普好奇口吻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但既然大家这么想看",
+          "note": "大家想看才做"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "人造为你强",
+          "note": "人造为你强"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "糖水层间神秘白雾+「你知道为什么吗」悬念问，便于下期回收。",
+      "patterns": [
+        "白雾悬念钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "神秘白雾"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "你知道这是为什么吗",
+          "note": "为什么吗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「回应评论→预告实验→现象悬念→三连」短视频骨架可改编观宇科普预告，需重录清晰旁白替换ASR噪声。",
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "对上期视频用三个高频问题的回应",
+          "note": "回应高频问"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "出现那个神秘的白色火原型",
+          "note": "现象悬念"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s11",
+    "s7",
+    "s46",
+    "s29",
+    "s57",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69"
+  ],
+  "fields_complete_25": true
+}

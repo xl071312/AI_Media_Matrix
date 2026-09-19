@@ -1,0 +1,1227 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7566939561138422281",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7566939561138422281/",
+  "source_sha256": "efc05d638d69ece701958d95887c2806ff2a1420768f1e2cfce492aa762bec4b",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 59,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 21,
+      "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 32,
+      "snippet": "很多人看到这里都懵了，一个搓麻酱和牛油的，怎么就跨界捏饭团去了？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 32,
+      "snippet": "就像郭德纲老师突然宣布出道成为偶像练习生，唱的还是阿姆的RAP。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "这合理吗？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "太合理了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 15,
+      "snippet": "因为没有人比海底捞，更懂日料。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "真的，做痔疮膏的去做眼霜，叫跨赛道。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 31,
+      "snippet": "一个做火锅的去做日料，顶多算虚线打着转向灯变道，直接呵护驾照。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 21,
+      "snippet": "海底捞做日料不止是跨赛道，而是扩大舒适圈。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 13,
+      "snippet": "直接把舒适圈往对手坟上盖。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 15,
+      "snippet": "在海底捞面前，日料还是太弱了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "没有护城河，只有下水道。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 69,
+      "snippet": "日料这种餐饮方式，说白了就是半成品加半成品，如果你去过日本，你就会发现他们不仅不掩饰，甚至直接半成品做成商用大包装给你开超市，生怕你不知。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 18,
+      "snippet": "你去看一下市面上的日料店，就知道了。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "海草，预制的；"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "牛丼，预制的；"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "海螺片，预制的。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 17,
+      "snippet": "很多日料店基本等于预制菜买手精选。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 61,
+      "snippet": "你吃的鳗鱼可能是中央厨房上个月做好的，你尝的刺身可能是上个礼拜冻好冷链今天送到解冻的，你喝的味噌汤搞不好是去年的料包冲的。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 23,
+      "snippet": "既然大家都是玩半成品，那谁才是半成品界的王者？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "诶~火锅。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 32,
+      "snippet": "论半成品的供应链管理，日料跟火锅，简直就是一对失散多年的亲兄弟。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 14,
+      "snippet": "哦不对，火锅比日料厉害多了。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 27,
+      "snippet": "因为消费者对火锅没有滤镜，不会自己脑补，所以不好糊弄。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 17,
+      "snippet": "这时候你看，海底捞做日料，就很妙。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 28,
+      "snippet": "很多日料店里的产品，它本身就是在海底捞火锅业务里开光的。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "日料店的牛丼饭要用肥牛？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 37,
+      "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "刺身拼盘要的三文鱼金枪鱼？"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 19,
+      "snippet": "我海底捞的冷链冰箱里，什么鱼游不过来？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 16,
+      "snippet": "从挪威到新西兰，都是我家的鱼塘。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "你日料要配可尔必思、大福、冰淇淋？"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 47,
+      "snippet": "海底捞的饮料台、甜品站里都是现成的，员工甚至能教你用可尔必思和草莓冰淇淋调个小红书同款鸡尾酒。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 25,
+      "snippet": "甚至，日料引以为傲的寿喜锅，本身就是个实习小火锅。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 28,
+      "snippet": "这时候，海底捞做日料，就像擎天柱改行做货拉拉，无缝衔接。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 25,
+      "snippet": "甚至再一思考，火锅供应链做日料已经有些过于奢侈了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "牛丼饭，是肥牛拼盘的；"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 20,
+      "snippet": "你吃到甜虾，是今早和火锅虾滑一起到货的；"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 21,
+      "snippet": "你尝到海胆，是和火锅海鲜坐同一架飞机来的。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 26,
+      "snippet": "海鲜的终极命运，不是在火锅里成熟就是在寿司醋里沐浴。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 61,
+      "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两人一个托马斯全旋就开始跟所有的烦恼说拜拜。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 30,
+      "snippet": "以后日料好不好，不看师傅的手，得看海底捞的物流车几点到门口。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 58,
+      "snippet": "但凡它直接把火锅底料浇在刺身上，或者人均消费满三百送半小时美甲服务，关于日料到底是吃环境还是吃食材的争论将迎来终局。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 27,
+      "snippet": "就这个商业逻辑，寿司之神来了都稚嫩得像刚入行的实习生。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 15,
+      "snippet": "海底捞去做日料，这能叫竞争吗？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "这叫，顺手拿捏。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 34,
+      "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 13,
+      "snippet": "这波属于谜底就在谜面上了。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "没有人比海底捞更懂日料。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 21,
+      "snippet": "图片截取自: 在海底捞面前，日料还是太弱了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "海底捞开「如鮨寿司」跨界钩，用郭德纲唱阿姆RAP类比「这合理吗？太合理了」，定调「没有人比海底捞更懂日料」。",
+      "patterns": [
+        "跨界开寿司钩",
+        "郭德纲RAP类比",
+        "太合理了翻盘",
+        "更懂日料定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。",
+          "note": "如鮨寿司"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "就像郭德纲老师突然宣布出道成为偶像练习生，唱的还是阿姆的RAP。",
+          "note": "郭德纲阿姆RAP"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "这合理吗"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "因为没有人比海底捞，更懂日料。",
+          "note": "更懂日料"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "跨界实为扩舒适圈→日料多半成品无护城河→火锅更是半成品王者→供应链边角料无缝衔接→物流定胜负→顺手拿捏收束谜面。",
+      "patterns": [
+        "扩舒适圈",
+        "日料半成品",
+        "火锅王者",
+        "供应链无缝",
+        "物流定胜负",
+        "顺手拿捏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "海底捞做日料不止是跨赛道，而是扩大舒适圈。",
+          "note": "扩大舒适圈"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "很多日料店基本等于预制菜买手精选。",
+          "note": "预制菜买手"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "诶~火锅。",
+          "note": "火锅"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "边角料开三家"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "以后日料好不好，不看师傅的手，得看海底捞的物流车几点到门口。",
+          "note": "看物流车几点到"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这叫，顺手拿捏。",
+          "note": "顺手拿捏"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "cross_hook",
+          "note": "跨界震惊与太合理定调"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "prefab_moat",
+          "note": "日料半成品与火锅供应链对比"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44"
+          ],
+          "function": "supply_seamless",
+          "note": "肥牛边角/冷链/寿喜锅无缝例"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "logistics_punchline",
+          "note": "物流定胜负与海底捞字谜收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「这合理吗？太合理了」「真的」「既然大家都是」「这时候你看」「甚至再一思考」「怪不得」。",
+      "patterns": [
+        "合理吗太合理",
+        "真的强调",
+        "既然都是",
+        "这时候你看",
+        "甚至再思考",
+        "怪不得字谜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "合理吗"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "真的，做痔疮膏的去做眼霜，叫跨赛道。",
+          "note": "真的"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "既然大家都是玩半成品，那谁才是半成品界的王者？",
+          "note": "既然大家都是"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这时候你看，海底捞做日料，就很妙。",
+          "note": "这时候你看"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "甚至再一思考，火锅供应链做日料已经有些过于奢侈了。",
+          "note": "甚至再一思考"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "怪不得"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "痔疮膏做眼霜真跨赛道 vs 火锅做日料虚线变道；日料滤镜易糊弄 vs 火锅无滤镜；师傅手艺 vs 物流车点到。",
+      "patterns": [
+        "真跨/虚线变道",
+        "滤镜/无滤镜",
+        "手艺/物流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "真的，做痔疮膏的去做眼霜，叫跨赛道。",
+          "note": "痔疮膏眼霜"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "一个做火锅的去做日料，顶多算虚线打着转向灯变道，直接呵护驾照。",
+          "note": "虚线打转向灯"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "因为消费者对火锅没有滤镜，不会自己脑补，所以不好糊弄。",
+          "note": "火锅没有滤镜"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "以后日料好不好，不看师傅的手，得看海底捞的物流车几点到门口。",
+          "note": "不看师傅看物流"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「这合理吗」「谁才是半成品界王者」「刺身要的三文鱼？」「这能叫竞争吗」连问带答。",
+      "patterns": [
+        "合理吗",
+        "半成品王者问",
+        "食材供应链问",
+        "能叫竞争吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "这合理吗"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "既然大家都是玩半成品，那谁才是半成品界的王者？",
+          "note": "谁才是王者"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "刺身拼盘要的三文鱼金枪鱼？",
+          "note": "刺身拼盘要的"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "海底捞去做日料，这能叫竞争吗？",
+          "note": "这能叫竞争吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "海草牛丼海螺片预制清单；中央厨房鳗鱼/冻刺身/味噌料包；肥牛边角开三家；可尔必思甜品台；科目三变脸脑洞。",
+      "patterns": [
+        "预制清单例",
+        "中央厨房冷链例",
+        "肥牛边角例",
+        "饮料甜品台例",
+        "科目三脑洞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "海草预制"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "你吃的鳗鱼可能是中央厨房上个月做好的，你尝的刺身可能是上个礼拜冻好冷链今天送到解",
+          "note": "中央厨房鳗鱼"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "边角料三家旗舰店"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "海底捞的饮料台、甜品站里都是现成的，员工甚至能教你用可尔必思和草莓冰淇淋调个小红",
+          "note": "可尔必思甜品站"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "科目三川剧变脸"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「无护城河」落到预制清单；「供应链优势」落到边角料/冷链鱼塘；「顺手拿捏」落到海底捞字面谜底。",
+      "patterns": [
+        "护城河→预制清单",
+        "优势→边角冷链",
+        "拿捏→字面谜底"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "没有护城河，只有下水道。",
+          "note": "没有护城河"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "海草预制"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "边角料"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "从挪威到新西兰，都是我家的鱼塘。",
+          "note": "挪威到新西兰鱼塘"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "原材料去海底捞"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言太合理、日料太弱只有下水道、火锅比日料厉害、寿司之神都稚嫩、这叫顺手拿捏。",
+      "patterns": [
+        "太合理断语",
+        "太弱下水道",
+        "火锅更厉害",
+        "寿司之神稚嫩",
+        "顺手拿捏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "在海底捞面前，日料还是太弱了。",
+          "note": "日料还是太弱了"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "没有护城河，只有下水道。",
+          "note": "只有下水道"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "哦不对，火锅比日料厉害多了。",
+          "note": "火锅厉害多了"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "就这个商业逻辑，寿司之神来了都稚嫩得像刚入行的实习生。",
+          "note": "寿司之神稚嫩"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这叫，顺手拿捏。",
+          "note": "顺手拿捏"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先问合理吗再答太合理；先称失散亲兄弟，立刻「哦不对火锅厉害多了」加码修正。",
+      "patterns": [
+        "合理吗到太合理",
+        "亲兄弟到火锅更强"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "合理吗"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "论半成品的供应链管理，日料跟火锅，简直就是一对失散多年的亲兄弟。",
+          "note": "失散亲兄弟"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "哦不对，火锅比日料厉害多了。",
+          "note": "哦不对厉害多了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "跨界钩短问→类比加速→预制清单顿挫→供应链例密铺→科目三脑洞爆发→字谜金句收。",
+      "patterns": [
+        "短问钩",
+        "类比加速",
+        "清单顿挫",
+        "供应链密铺",
+        "脑洞爆发",
+        "字谜收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "就像郭德纲老师突然宣布出道成为偶像练习生，唱的还是阿姆的RAP。",
+          "note": "类比"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "清单"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "供应链密"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "脑洞"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "字谜"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "跨界错愕→反讽畅快→揭半成品冷酷→供应链碾压得意→脑洞荒诞→字谜得意收官。",
+      "patterns": [
+        "错愕",
+        "畅快反讽",
+        "冷酷揭底",
+        "碾压得意",
+        "荒诞",
+        "得意收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人看到这里都懵了，一个搓麻酱和牛油的，怎么就跨界捏饭团去了？",
+          "note": "懵了"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "很多日料店基本等于预制菜买手精选。",
+          "note": "预制菜买手"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "边角料碾压"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "科目三"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "这波属于谜底就在谜面上了。",
+          "note": "谜底在谜面"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇「更懂日料」定调，中证半成品与供应链，收束「原材料都是去海底捞上来的」字面回扣标题。",
+      "patterns": [
+        "更懂日料开",
+        "供应链中证",
+        "字面海底捞收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "因为没有人比海底捞，更懂日料。",
+          "note": "更懂日料"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这时候，海底捞做日料，就像擎天柱改行做货拉拉，无缝衔接。",
+          "note": "无缝衔接"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "去海底捞上来的"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "没有人比海底捞更懂日料。",
+          "note": "更懂日料回扣"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注硬广；以连续反问「这能叫竞争吗」激发评论争辩软CTA。",
+      "patterns": [
+        "反问争辩软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "海底捞去做日料，这能叫竞争吗？",
+          "note": "这能叫竞争吗"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这叫，顺手拿捏。",
+          "note": "顺手拿捏"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "如鮨店名、郭德纲阿姆、痔疮膏眼霜、边角料开三家、科目三托马斯全旋——强段子颗粒。",
+      "patterns": [
+        "如鮨店名",
+        "郭德纲阿姆",
+        "痔疮膏眼霜",
+        "边角料三家",
+        "科目三脑洞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。",
+          "note": "如鮨寿司"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "就像郭德纲老师突然宣布出道成为偶像练习生，唱的还是阿姆的RAP。",
+          "note": "郭德纲阿姆"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "真的，做痔疮膏的去做眼霜，叫跨赛道。",
+          "note": "痔疮膏眼霜"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "开三家旗舰店"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "科目三"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "配图截取占位多；半成品一刀切可能激怒日料爱好者；缺具体门店/价格数据；脑洞段易盖过商业论证。",
+      "patterns": [
+        "配图噪音",
+        "一刀切半成品",
+        "缺价格数据",
+        "脑洞盖论证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "图片截取自: 在海底捞面前，日料还是太弱了",
+          "note": "图片截取"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "很多日料店基本等于预制菜买手精选。",
+          "note": "预制菜买手"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "科目三脑洞"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「震惊→判合理→拆半成品→比火锅供应链→推物流定胜负→字谜点题」段子论证程序。",
+      "patterns": [
+        "判合理外露",
+        "半成品拆解",
+        "字谜点题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "日料这种餐饮方式，说白了就是半成品加半成品，如果你去过日本，你就会发现他们不仅不",
+          "note": "半成品加半成品"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "谜底在谜面"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准看热闹的餐饮吃瓜读者，用「你去看一下市面上的日料店」把读者拉成共谋观察者。",
+      "patterns": [
+        "吃瓜读者位",
+        "共谋观察者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人看到这里都懵了，一个搓麻酱和牛油的，怎么就跨界捏饭团去了？",
+          "note": "很多人懵了"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "你去看一下市面上的日料店，就知道了。",
+          "note": "你去看一下日料店"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "如鮨寿司、海草牛丼海螺片、中央厨房鳗鱼、肥牛边角三家旗舰店、挪威到新西兰鱼塘。",
+      "patterns": [
+        "如鮨锚",
+        "预制三件套",
+        "边角料三家",
+        "鱼塘锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。",
+          "note": "如鮨"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "海草"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "三家旗舰店"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "从挪威到新西兰，都是我家的鱼塘。",
+          "note": "挪威到新西兰"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩子→预制清单高密→供应链例高密→脑洞中密荒诞→字谜低密收。",
+      "patterns": [
+        "钩子低密",
+        "清单高密",
+        "供应链高密",
+        "字谜低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。",
+          "note": "低密钩"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "清单高密"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "供应链高密"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "字谜低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问答「合理吗/太合理」；预制三短句排比；长供应链句；脑洞超长句后短判「顺手拿捏」。",
+      "patterns": [
+        "短问答",
+        "三短句排比",
+        "长供应链句",
+        "超长脑洞后短判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这合理吗？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "短答"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "海草，预制的；",
+          "note": "排比"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我火锅店片肥牛时剔下来的边角料，都够你开三家旗舰店，还能饶你一个自助早餐。",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我都怕吃到一半，服务员现场给你来一段科目三，寿司师傅把手握一扔就开始川剧变脸，两",
+          "note": "超长脑洞"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这叫，顺手拿捏。",
+          "note": "短判"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毒舌段子手商业评论：用脏类比拆跨界，结论「谜底在谜面」式得意。",
+      "patterns": [
+        "毒舌段子",
+        "脏类比拆跨界",
+        "谜面得意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "真的，做痔疮膏的去做眼霜，叫跨赛道。",
+          "note": "痔疮膏眼霜"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "没有护城河，只有下水道。",
+          "note": "只有下水道"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "这波属于谜底就在谜面上了。",
+          "note": "谜底就在谜面上"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "这合理吗太合理了；日料太弱了；半成品买手；顺手拿捏；原材料都是去海底捞上来的。",
+      "patterns": [
+        "太合理了",
+        "日料太弱",
+        "半成品买手",
+        "顺手拿捏",
+        "海底捞字谜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "太合理了。",
+          "note": "太合理了"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "在海底捞面前，日料还是太弱了。",
+          "note": "太弱了"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "很多日料店基本等于预制菜买手精选。",
+          "note": "预制菜买手"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这叫，顺手拿捏。",
+          "note": "顺手拿捏"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "海底捞上来的"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "跨界钩→半成品拆解→供应链碾压→字谜收束的餐饮评论骨架可改编观宇，需降攻击性类比并补数据。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近，海底捞搞了个寿司品牌叫“如鮨寿司”。",
+          "note": "跨界钩"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "很多日料店基本等于预制菜买手精选。",
+          "note": "半成品拆解"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "怪不得人家叫海底捞呢，日料的精髓可不就是原材料都是去海底捞上来的吗。",
+          "note": "字谜收"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s12",
+    "s22",
+    "s26",
+    "s34",
+    "s50",
+    "s55",
+    "s1",
+    "s3",
+    "s4",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s56",
+    "s57",
+    "s58",
+    "s59"
+  ],
+  "fields_complete_25": true
+}

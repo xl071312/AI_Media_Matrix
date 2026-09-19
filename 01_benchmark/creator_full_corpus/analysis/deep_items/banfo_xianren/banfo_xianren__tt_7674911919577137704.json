@@ -1,0 +1,1181 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7674911919577137704",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7674911919577137704/",
+  "source_sha256": "f5ad017a0891687f0f043eb2f24f4794117e945c99b01de5b077d8762d5eedda",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 74,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 33,
+      "snippet": "前几天不是才写过寿司郎嘛，然后就刷到了相关新闻，真就是给我看笑了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 31,
+      "snippet": "寿司郎估计也开始笑了，真的，人在面对巨大荒谬的时候，真的会笑。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 14,
+      "snippet": "（新闻来自光明网&第一现场）"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 36,
+      "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "开店真的太恐怖了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 60,
+      "snippet": "开店真正恐怖的地方不是房租高不高，生意好不好，哪怕房租高生意不好，最终倒闭了，这"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 64,
+      "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "这事儿，你说谁有错？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 21,
+      "snippet": "如果真要较真，门店的行为，当然是有问题的。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 26,
+      "snippet": "就你让客人不满意了，说一千道一万，那也是门店的问题。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 29,
+      "snippet": "但更大的问题是在于，门店没有别的办法了，这个问题解决不了。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 30,
+      "snippet": "就说白了，饭店知道这种行为不好，饭店想防范，饭店能怎么办呢？"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "谁能拦得住熊孩子突然的自我？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 22,
+      "snippet": "整个地球上，哪个饭店敢说自己能防范这件事情？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 17,
+      "snippet": "上次海底捞也没拦得住熊孩子撒尿啊。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "菜没做好，可以要求饭店做好。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 16,
+      "snippet": "有宠物进去了，可以要求饭店拦截。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 22,
+      "snippet": "熊孩子突然戏精上身，这怎么精准识别提前预防？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "这是开饭店，又不是红警的尤里。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 47,
+      "snippet": "另外，顾客现场要求消杀，消杀是有操作标准的，不可能其他桌子都在吃饭，给他们看着你"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "那其他人还吃不吃了？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "让他们吸消毒液嘛？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 45,
+      "snippet": "你说那给你拿酒精湿巾擦一下不就行了吗，开什么玩笑，人家要的是消杀，擦一下人家自己"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 46,
+      "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 32,
+      "snippet": "那以后大家不用做生意了，以后就找熊孩子伸个脚就可以干掉一家店了。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "商业被熊孩子一脚绊到。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 30,
+      "snippet": "哦对了，万一熊孩子脚指头调皮翻滚，水龙头给弄开了，烫了一下。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 22,
+      "snippet": "恭喜你，熊孩子的爸妈也要开收拾你这个饭店了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "喜欢男女混合双打两面夹击嘛？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 16,
+      "snippet": "所以，饭店遇到这种事情，能咋办？"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 39,
+      "snippet": "怎么做都是错，怎么做都会得罪人，如果直接干脆的全店消杀退款，那生意也不用做了。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 17,
+      "snippet": "开店就是错，错就错在自己不是尤里。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 49,
+      "snippet": "甚至，寿司郎已经被坑过一次了，他们变成现在的模式就是因为在日本有熊孩子在回转寿司"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "给他们整破防了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "（新闻来自环球网）"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 42,
+      "snippet": "所以他们现在的模式（封闭厨房+专属传送带+座位隔开）已经是尽全力试图防止不确定性"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 26,
+      "snippet": "说白了，寿司郎为了防止这种事，已经把能做的都给做了。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 23,
+      "snippet": "为了不让别人有机会碰到你的食物，都是传送履带；"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 22,
+      "snippet": "为了不让别人有机会碰到你的水壶，都是直饮水；"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 24,
+      "snippet": "甚至为了防止别人侵犯你隐私，每个座位都是隔离的。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 26,
+      "snippet": "但还是拦不住人类突然的自我，这已经到了玄学的地步了。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 59,
+      "snippet": "就，你是开店的，你兢兢业业迭代了很多次尽可能标准化控制流程了，然后，你看到这一幕"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 10,
+      "snippet": "这是，什么雷霆动作？"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 57,
+      "snippet": "寿司郎要是对这种事情都有办法，那它也不用开什么饭店了，世界和平就指望它了，人类到"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "寿司郎看着监控忙着笑呢。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 39,
+      "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 37,
+      "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 16,
+      "snippet": "除了这个，也不知道还能做什么了。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 24,
+      "snippet": "当然，你可以说你不干有的是人干，说的对，说得好。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "所以我不干了。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 19,
+      "snippet": "所以我才劝大家，别开店了，你玩不转的。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "神仙来了也没辙。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 15,
+      "snippet": "要对人类的多样性，给一点尊重。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 17,
+      "snippet": "图片截取自: 让顾客喝“洗脚水”？"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "寿司郎已经开始笑了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "接前文写寿司郎后刷到新闻「看笑了」，用巨大荒谬的笑与劝人别开店血泪经验钩子。",
+      "patterns": [
+        "接前文刷新闻",
+        "荒谬的笑",
+        "别开店血泪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "前几天不是才写过寿司郎嘛，然后就刷到了相关新闻，真就是给我看笑了。",
+          "note": "刷到相关新闻看笑了"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "寿司郎估计也开始笑了，真的，人在面对巨大荒谬的时候，真的会笑。",
+          "note": "巨大荒谬会笑"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "倒了2位数店"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "开店恐怖在不可预见神人→门店有错但无解→熊孩子难防→消杀标准不可现场执行→寿司郎已尽全力仍拦不住→别开店尊重多样性。",
+      "patterns": [
+        "恐怖在神人",
+        "有错无解",
+        "消杀两难",
+        "已尽全力",
+        "别开店"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多",
+          "note": "人类多样性神人"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但更大的问题是在于，门店没有别的办法了，这个问题解决不了。",
+          "note": "解决不了"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关",
+          "note": "全场退款消杀"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "说白了，寿司郎为了防止这种事，已经把能做的都给做了。",
+          "note": "能做的都做了"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店了"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "absurd_laugh_hook",
+          "note": "荒谬笑与开店恐怖"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "whos_fault",
+          "note": "门店有错但无解"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "sanitize_dilemma",
+          "note": "消杀标准与两面夹击"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74"
+          ],
+          "function": "tried_all_quit",
+          "note": "已防尽防与别开店收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "所以/就说白了/另外/所以饭店能咋办/甚至/当然你可以说推进两难。",
+      "patterns": [
+        "所以劝店",
+        "说白了",
+        "另外消杀",
+        "当然你可以说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "所以劝不要开店"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "就说白了，饭店知道这种行为不好，饭店想防范，饭店能怎么办呢？",
+          "note": "就说白了"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "另外，顾客现场要求消杀，消杀是有操作标准的，不可能其他桌子都在吃饭，给他们看着你",
+          "note": "另外顾客要求消杀"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "当然，你可以说你不干有的是人干，说的对，说得好。",
+          "note": "当然你可以说"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "房租生意倒闭可理解 vs 神人花活不可理解；菜没做好可改 vs 熊孩子戏精难防；尽全力标准化 vs 仍玄学翻车。",
+      "patterns": [
+        "可理解倒闭vs神人",
+        "可改vs难防",
+        "标准化vs玄学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "开店真正恐怖的地方不是房租高不高，生意好不好，哪怕房租高生意不好，最终倒闭了，这",
+          "note": "房租高不恐怖"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "菜没做好，可以要求饭店做好。",
+          "note": "菜没做好可要求"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "熊孩子突然戏精上身，这怎么精准识别提前预防？",
+          "note": "戏精怎么预防"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "但还是拦不住人类突然的自我，这已经到了玄学的地步了。",
+          "note": "到了玄学地步"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "这事儿谁有错、饭店能怎么办、谁拦得住熊孩子、其他人还吃不吃、喜欢混合双打吗等连问施压。",
+      "patterns": [
+        "谁有错",
+        "能怎么办",
+        "还吃不吃",
+        "混合双打吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这事儿，你说谁有错？",
+          "note": "你说谁有错"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "就说白了，饭店知道这种行为不好，饭店想防范，饭店能怎么办呢？",
+          "note": "饭店能怎么办呢"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "那其他人还吃不吃了？",
+          "note": "其他人还吃不吃了"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "喜欢男女混合双打两面夹击嘛？",
+          "note": "喜欢混合双打吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "海底捞熊孩子撒尿；尤里心灵控制；脚指头开水龙头烫到反告；日本回转寿司骚操作；哈基米疯笑。",
+      "patterns": [
+        "海底捞撒尿",
+        "尤里",
+        "烫脚反告",
+        "日本前科",
+        "哈基米笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "上次海底捞也没拦得住熊孩子撒尿啊。",
+          "note": "海底捞撒尿"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这是开饭店，又不是红警的尤里。",
+          "note": "不是红警尤里"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "哦对了，万一熊孩子脚指头调皮翻滚，水龙头给弄开了，烫了一下。",
+          "note": "水龙头烫一下"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "甚至，寿司郎已经被坑过一次了，他们变成现在的模式就是因为在日本有熊孩子在回转寿司",
+          "note": "日本熊孩子骚操作"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "开店恐怖→不知摔哪跤；消杀抽象→全场退款关店；防不确定性→封闭厨房+专属传送带+座位隔开。",
+      "patterns": [
+        "摔跤具象恐怖",
+        "全场退款",
+        "三件套防不确定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多",
+          "note": "诡异地方摔一跤"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关",
+          "note": "全场退款关店消杀"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以他们现在的模式（封闭厨房+专属传送带+座位隔开）已经是尽全力试图防止不确定性",
+          "note": "封闭厨房传送带隔开"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "开店太恐怖、像克苏鲁、商业被熊孩子一脚绊到、开店就是错、神仙来了也没辙。",
+      "patterns": [
+        "开店恐怖",
+        "克苏鲁",
+        "一脚绊到",
+        "神仙没辙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "开店真的太恐怖了。",
+          "note": "开店真的太恐怖"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多",
+          "note": "跟克苏鲁一样"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "商业被熊孩子一脚绊到。",
+          "note": "商业被一脚绊到"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "神仙来了也没辙。",
+          "note": "神仙来了也没辙"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先认门店有问题，立刻转「更大问题是没办法」；「当然你可以说不干有的是人干」接「所以我不干了」。",
+      "patterns": [
+        "认错再转无解",
+        "接话自证不干"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "如果真要较真，门店的行为，当然是有问题的。",
+          "note": "门店行为当然有问题"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但更大的问题是在于，门店没有别的办法了，这个问题解决不了。",
+          "note": "更大问题解决不了"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "当然，你可以说你不干有的是人干，说的对，说得好。",
+          "note": "不干有的是人干"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "所以我不干了。",
+          "note": "所以我不干了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻截图标题反复插入；短句「开店就是错」；超长哈基米笑串破坏节奏制造释怀。",
+      "patterns": [
+        "截图反复",
+        "短句定错",
+        "疯笑串"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "开店就是错，错就错在自己不是尤里。",
+          "note": "开店就是错"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "道爷我成了"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米南北绿豆"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "荒谬笑→开店恐惧→替店两难共情→踩缝纫机式绝望→疯笑释怀→劝退收。",
+      "patterns": [
+        "笑→恐→两难→绝望→疯笑→劝退"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "寿司郎估计也开始笑了，真的，人在面对巨大荒谬的时候，真的会笑。",
+          "note": "开始笑了"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "开店真的太恐怖了。",
+          "note": "太恐怖"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "怎么做都是错，怎么做都会得罪人，如果直接干脆的全店消杀退款，那生意也不用做了。",
+          "note": "怎么做都是错"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "哈哈哈哈"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店了"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头寿司郎笑了/劝别开店→结尾我不干了/别开店/尊重多样性，劝退主题闭环。",
+      "patterns": [
+        "笑与劝退首尾",
+        "多样性尊重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "不要开店"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店了"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "要对人类的多样性，给一点尊重。",
+          "note": "给一点尊重"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "强态度CTA「别开店了」；无关注引导，靠劝退结论留人。",
+      "patterns": [
+        "劝退CTA",
+        "无关注硬推"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店了你玩不转"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "神仙来了也没辙。",
+          "note": "神仙来了也没辙"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "克苏鲁、踩缝纫机、红警尤里、哈基米南北绿豆、道爷我悟了等疯梗。",
+      "patterns": [
+        "克苏鲁",
+        "缝纫机",
+        "尤里",
+        "哈基米"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多",
+          "note": "克苏鲁"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "开店真的太恐怖了。",
+          "note": "倒了2位数店"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这是开饭店，又不是红警的尤里。",
+          "note": "红警尤里"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米南北绿豆"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "截图标题重复过多；对顾客诉求共情偏少可能被批站店；疯笑段信息量为零。",
+      "patterns": [
+        "截图重复",
+        "站店偏见",
+        "疯笑空转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "图片截取自: 让顾客喝“洗脚水”？",
+          "note": "图片截取"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "就你让客人不满意了，说一千道一万，那也是门店的问题。",
+          "note": "门店的问题"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式两难推演：认错→无解→消杀标准不可行→反事实全场关店→日本前科证明已防。",
+      "patterns": [
+        "两难推演",
+        "反事实关店",
+        "前科证明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "如果真要较真，门店的行为，当然是有问题的。",
+          "note": "当然有问题"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关",
+          "note": "全场退款消杀"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "甚至，寿司郎已经被坑过一次了，他们变成现在的模式就是因为在日本有熊孩子在回转寿司",
+          "note": "已经被坑过一次"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "用「你是开店的你会不会摊笑」角色代入；默认读者懂饭店经营常识。",
+      "patterns": [
+        "开店者代入",
+        "经营常识默认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "就，你是开店的，你兢兢业业迭代了很多次尽可能标准化控制流程了，然后，你看到这一幕",
+          "note": "你是开店的你会不会"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "血泪经验"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "倒闭两位数店、海底捞事件、封闭厨房+专属传送带+座位隔离、日本前科新闻。",
+      "patterns": [
+        "倒店数",
+        "海底捞",
+        "三件套模式",
+        "日本新闻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "倒了2位数店"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "上次海底捞也没拦得住熊孩子撒尿啊。",
+          "note": "海底捞"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以他们现在的模式（封闭厨房+专属传送带+座位隔开）已经是尽全力试图防止不确定性",
+          "note": "封闭厨房传送带"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "（新闻来自环球网）",
+          "note": "环球网"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子中密→责任两难高密→消杀推演高密→疯笑低密→劝退中密。",
+      "patterns": [
+        "钩中→两难高→消杀高→笑低→劝退中"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "开店真正恐怖的地方，在于你永远不知道会在什么诡异的地方摔一跤，永远不知道人类的多",
+          "note": "神人花活"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关",
+          "note": "消杀标准"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "疯笑"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问连珠炮；条件句「如果完整按照」推极端；突然超长拟声破坏。",
+      "patterns": [
+        "短问连珠",
+        "极端条件句",
+        "拟声破坏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "谁能拦得住熊孩子突然的自我？",
+          "note": "谁拦得住"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "整个地球上，哪个饭店敢说自己能防范这件事情？",
+          "note": "哪个饭店敢说"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "如果完整按照消杀标准，只要有个熊孩子动动脚，饭店就要立马全场退款，疏散所有顾客关",
+          "note": "如果完整按照"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "咦嘻嘻嘻"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式开店劝退者：用血泪经验站在商家无解处，荒诞笑中带真劝退，不卖惨卖悟。",
+      "patterns": [
+        "开店劝退者",
+        "荒诞笑+真劝退"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我这些年一直坚持不懈地劝大家不要开店，这是我倒了2位数店的血泪经验。",
+          "note": "血泪经验"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "所以我不干了。",
+          "note": "所以我不干了"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "咦嘻嘻嘻嘻嘻嘻嘻嘿嘿嘿嘿额嘿嘿嘿哈哈哈哈哈哈嘎嘎嘎嘎嘎嘎道爷我成了道爷我悟啦！",
+          "note": "道爷我悟啦"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "人在荒谬时会笑、开店就是错因你不是尤里、哈基米疯笑、神仙来了也没辙。",
+      "patterns": [
+        "荒谬会笑",
+        "不是尤里",
+        "哈基米",
+        "神仙没辙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "寿司郎估计也开始笑了，真的，人在面对巨大荒谬的时候，真的会笑。",
+          "note": "巨大荒谬会笑"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "开店就是错，错就错在自己不是尤里。",
+          "note": "错在自己不是尤里"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哈基米哈基米哈基米哈基米哈哈哈哈哈哈哈哈哈哈哈哈哈哈基米哈基米哦南北绿豆！",
+          "note": "哈基米"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "神仙来了也没辙。",
+          "note": "神仙没辙"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「系统已防尽防仍被黑天鹅击穿→从业者劝退」叙事可迁移观宇谈行业风险与预期管理。",
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "说白了，寿司郎为了防止这种事，已经把能做的都给做了。",
+          "note": "能做的都做了"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "但还是拦不住人类突然的自我，这已经到了玄学的地步了。",
+          "note": "玄学地步"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我才劝大家，别开店了，你玩不转的。",
+          "note": "别开店了"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s7",
+    "s10",
+    "s16",
+    "s33",
+    "s50",
+    "s70",
+    "s19",
+    "s29",
+    "s68",
+    "s9",
+    "s23",
+    "s25",
+    "s54",
+    "s13",
+    "s30",
+    "s38",
+    "s22",
+    "s26",
+    "s36",
+    "s44",
+    "s64",
+    "s49",
+    "s8",
+    "s35",
+    "s71",
+    "s14",
+    "s69",
+    "s43",
+    "s63",
+    "s42",
+    "s72",
+    "s4",
+    "s15",
+    "s57",
+    "s48",
+    "s20",
+    "s21"
+  ],
+  "fields_complete_25": true
+}

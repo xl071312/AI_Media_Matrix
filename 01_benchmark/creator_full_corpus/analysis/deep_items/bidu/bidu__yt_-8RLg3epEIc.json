@@ -1,0 +1,1268 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_-8RLg3epEIc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=-8RLg3epEIc",
+  "source_sha256": "974d6ae79f2fe015e55a30ca15c3d527d7b8baa4189de38cb77e1c03b00257a6",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 59,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "大新闻"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "诺贝尔委员会"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 2,
+      "snippet": "今天"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "结果破奖的是A.I"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "我刚刚就去问"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "那你如何评教"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "HOPFIELD和拼拳得奖呢"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "A.I表示"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 16,
+      "snippet": "我觉得这奖办完最开心的是学化学的"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 17,
+      "snippet": "以后看谁还改消诺贝尔化学奖势里终奖"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "你就无力讲都跳出里终"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "给她组织去了"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "破奖者拼拳听说消息时"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "自己都比较尽"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 14,
+      "snippet": "I have no idea"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 48,
+      "snippet": "I can be nominated for the Nobel Prize in prison"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 48,
+      "snippet": "How could I be sure it wasn't just proof of code"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "毕竟神经网络炸一听"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "她确实不入理"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 17,
+      "snippet": "我觉得她发展生理学或医学奖的很合理"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 6,
+      "snippet": "毕竟神经网络"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "本来就是模拟生物的神经网络"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "给个文学奖也很合理"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "大家现在日常的文学创作"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "主要都操大模型了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 14,
+      "snippet": "当然她得到诺贝尔和拼奖最合理"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "毕竟神经网络再收了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "哎呀"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "要说这事还是冠诺贝尔"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 22,
+      "snippet": "当年你怎么就没有想到设定的计算机方面的奖项呢"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "我自己没讲过计算机"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 12,
+      "snippet": "那诺奖舞由会是怎么认论呢"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 5,
+      "snippet": "官网上表示"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 20,
+      "snippet": "TOPPIO在1980年代创作的第一个网"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 17,
+      "snippet": "TOPPIO的把把马马都属物理学家"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "天认当年也是本科从物理系"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 4,
+      "snippet": "专系走的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "血头一年很物理"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "所以他就是物理"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "时代在发展"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "科学的边界也在擴张"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 14,
+      "snippet": "诺奖也需要吸挡全新的学术离物"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "来保持自身的先进"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "及时年前"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 23,
+      "snippet": "TOPPIO和Hinten从物理方程中得到灵感"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "提出了神经网络"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 3,
+      "snippet": "而现在"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "神经网络又有用"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "新兴设计"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "明明明明明毕竟有陪同学们"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "你没有多少人的研究"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 16,
+      "snippet": "今天做特提是AI和傳統科學的教學"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 2,
+      "snippet": "最後"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 12,
+      "snippet": "今天是考驗光明開始的日子"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "諾教委會趕在之前開腳"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 13,
+      "snippet": "就是勸你趕緊轉馬去考408"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "他們的苦心"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "你該得到了嗎"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「大新闻」开场宣布诺奖破给AI，立刻把Hopfield/Hinton得奖丢给AI评教，用化学学生最开心玩梗。",
+      "patterns": [
+        "大新闻钩",
+        "AI评教戏码",
+        "化学学生最开心梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "大新闻"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "结果破奖的是A.I",
+          "note": "结果破奖的是A.I"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "HOPFIELD和拼拳得奖呢",
+          "note": "HOPFIELD和拼拳得奖"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "最开心的是学化学的"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "AI得物理奖荒诞→得主自己也懵→神经网给生理/文学/和平都合理→缺计算机奖项→委员会用物理学家出身正名→边界扩张→劝转码考408收。",
+      "patterns": [
+        "荒诞得奖",
+        "得主懵",
+        "多奖项都合理",
+        "缺计算机奖",
+        "出身正名",
+        "边界扩张",
+        "转码408收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "结果破奖的是A.I",
+          "note": "破奖AI"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "自己都比较尽",
+          "note": "自己都比较尽"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我觉得她发展生理学或医学奖的很合理",
+          "note": "生理学也合理"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "给个文学奖也很合理",
+          "note": "文学奖也合理"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "当年你怎么就没有想到设定的计算机方面的奖项呢",
+          "note": "没设定计算机奖"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "所以他就是物理"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "科学的边界也在擴张",
+          "note": "科学边界扩张"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转马去考408"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "news_gag",
+          "note": "大新闻与AI评教化学梗"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29"
+          ],
+          "function": "multi_prize_irony",
+          "note": "得主懵与多学科都该给奖反讽"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "physics_justification",
+          "note": "缺计算机奖与出身正名"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "boundary_and_cta",
+          "note": "边界扩张与转码408收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我刚刚就去问」「A.I表示」「毕竟」「要说这事还是怪诺贝尔」「官网上表示」「最后」。",
+      "patterns": [
+        "我去问转戏",
+        "AI表示",
+        "毕竟解释",
+        "怪诺贝尔",
+        "官网表示",
+        "最后收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我刚刚就去问",
+          "note": "我刚刚就去问"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "A.I表示",
+          "note": "A.I表示"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "毕竟神经网络炸一听",
+          "note": "毕竟神经网络"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "要说这事还是冠诺贝尔",
+          "note": "要说这事还是冠诺贝尔"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "官网上表示",
+          "note": "官网上表示"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "最後",
+          "note": "最後"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "物理奖 vs 化学/生理/文学/和平都合理；神经网络不物理 vs 出身是物理；传统边界 vs 时代扩张；劝你转码 vs 诺奖先进性。",
+      "patterns": [
+        "多奖项对照",
+        "不物理/出身物理",
+        "边界旧新",
+        "转码劝诫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "化学最开心"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "她确实不入理",
+          "note": "确实不物理"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "所以他就是物理"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "科学的边界也在擴张",
+          "note": "边界扩张"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转马考408"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「如何评价Hopfield得奖」「当年怎没设计算机奖」「委员会怎么认定」「苦心你该得到了吗」。",
+      "patterns": [
+        "如何评价问",
+        "为何无计算机奖",
+        "怎么认定",
+        "苦心得到了吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "那你如何评教",
+          "note": "如何评教"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "当年你怎么就没有想到设定的计算机方面的奖项呢",
+          "note": "怎么就没有想到计算机奖"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "那诺奖舞由会是怎么认论呢",
+          "note": "怎么认论呢"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你該得到了嗎",
+          "note": "你該得到了嗎"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "Hopfield/Hinton得奖；得主英文自述懵；日常文学创作靠大模型；本科物理转系；考408转码。",
+      "patterns": [
+        "得主例",
+        "英文懵例",
+        "大模型写作例",
+        "物理转系例",
+        "408转码例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "HOPFIELD和拼拳得奖呢",
+          "note": "HOPFIELD"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "I have no idea",
+          "note": "I have no idea"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "主要都操大模型了",
+          "note": "操大模型了"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "天认当年也是本科从物理系",
+          "note": "本科从物理系"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「奖项荒诞」落到多学科都该给；「正名」落到官网出身叙事；「跟上时代」落到劝转码考408。",
+      "patterns": [
+        "荒诞→多奖合理",
+        "正名→出身官网",
+        "时代→考408"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我觉得她发展生理学或医学奖的很合理",
+          "note": "生理学合理"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "官网上表示",
+          "note": "官网上表示"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "TOPPIO的把把马马都属物理学家",
+          "note": "都属物理学家"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言化学学生最开心、给文学/和平也合理、出身物理所以是物理、诺奖需吸新以保先进。",
+      "patterns": [
+        "化学最开心断语",
+        "多奖合理断语",
+        "出身即物理",
+        "需吸新保先进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "最开心学化学"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "当然她得到诺贝尔和拼奖最合理",
+          "note": "和平奖最合理"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "所以他就是物理"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "来保持自身的先进",
+          "note": "保持自身的先进"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先觉神经网络不物理，再承认出身叙事；先列多奖都合理，收束到物理正名与转码现实劝诫。",
+      "patterns": [
+        "不物理到出身正名",
+        "多奖反讽到转码劝"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "她确实不入理",
+          "note": "确实不物理"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "就是物理"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "当然她得到诺贝尔和拼奖最合理",
+          "note": "和平最合理"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转码408"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "大新闻短爆→戏谑问答加速→多奖列举顿挫→官网正名中速→转码劝诫短句钉死。",
+      "patterns": [
+        "短爆开",
+        "戏谑加速",
+        "列举顿挫",
+        "正名中速",
+        "劝诫钉死"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "大新闻"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "化学梗加速"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我觉得她发展生理学或医学奖的很合理",
+          "note": "列举"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "官网上表示",
+          "note": "官网"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "408钉死"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "大新闻"
+        },
+        {
+          "type": "discourse",
+          "form": "毕竟"
+        },
+        {
+          "type": "discourse",
+          "form": "哎呀"
+        },
+        {
+          "type": "code_switch",
+          "form": "I have no idea"
+        },
+        {
+          "type": "filler",
+          "form": "明明明明明"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "大新闻"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "I have no idea",
+          "note": "I have no idea"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "毕竟神经网络炸一听",
+          "note": "毕竟神经网络"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "哎呀",
+          "note": "哎呀"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "明明明明明毕竟有陪同学们",
+          "note": "明明明明明"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "爆笑震惊→戏谑调侃→得主懵共情→反讽升级→正名无奈→转码焦虑劝诫。",
+      "patterns": [
+        "震惊爆笑",
+        "戏谑",
+        "共情懵",
+        "反讽",
+        "无奈正名",
+        "焦虑劝诫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "大新闻"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "化学开心"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "自己都比较尽",
+          "note": "自己都懵"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "当然她得到诺贝尔和拼奖最合理",
+          "note": "和平奖反讽"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "就是物理"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转码"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇AI拿物理奖新闻，中段用多奖反讽与出身正名，收束「赶在光明前劝转码408」把诺奖新闻拧成职业忠告。",
+      "patterns": [
+        "AI物理奖开",
+        "反讽正名中",
+        "转码408收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "结果破奖的是A.I",
+          "note": "破奖AI"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "就是物理"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你該得到了嗎",
+          "note": "苦心得到了吗"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注口令；以「劝你赶紧转码去考408」「苦心你该得到了吗」考试动员软CTA。",
+      "patterns": [
+        "转码408动员",
+        "苦心反问CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "趕緊轉馬去考408"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你該得到了嗎",
+          "note": "你該得到了嗎"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "点名Hopfield/Hinton、英文原话懵、大模型写作日常、考408中国考研梗，强时效口播。",
+      "patterns": [
+        "得主点名",
+        "英文原话",
+        "大模型日常",
+        "408考研梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "HOPFIELD和拼拳得奖呢",
+          "note": "HOPFIELD"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "I have no idea",
+          "note": "I have no idea"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "主要都操大模型了",
+          "note": "操大模型"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重（拼拳/破奖/转马/離物）；物理机制解释薄；「明明明明明」噪声；幽默大于信息密度。",
+      "patterns": [
+        "ASR乱码",
+        "机制薄",
+        "噪声填充",
+        "幽默压信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "HOPFIELD和拼拳得奖呢",
+          "note": "拼拳乱码"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "明明明明明毕竟有陪同学们",
+          "note": "明明明明明"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "诺奖也需要吸挡全新的学术离物",
+          "note": "学术离物乱码"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "她确实不入理",
+          "note": "不物理一带而过"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外露「丢给AI评→列多奖合理性→怪诺贝尔无计算机奖→查官网出身→推边界扩张→转码建议」吐槽推理。",
+      "patterns": [
+        "AI评戏外露",
+        "官网正名程序",
+        "转码收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我刚刚就去问",
+          "note": "去问AI"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "官网上表示",
+          "note": "官网表示"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "科学的边界也在擴张",
+          "note": "边界扩张"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转码"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准懂梗的学生党/科研围观者，用「学化学最开心」「考408」把听众放进应试转码共同体。",
+      "patterns": [
+        "懂梗围观位",
+        "应试转码共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "学化学的"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你該得到了嗎",
+          "note": "你该得到了吗"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "Hopfield/Hinton、I have no idea原话、1980年代网络、本科物理转系、考408。",
+      "patterns": [
+        "得主锚",
+        "英文原话锚",
+        "1980年代锚",
+        "408锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "HOPFIELD和拼拳得奖呢",
+          "note": "HOPFIELD"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "I have no idea",
+          "note": "I have no idea"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "TOPPIO在1980年代创作的第一个网",
+          "note": "1980年代"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "408"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密爆点→戏谑中密→多奖列举中密→官网正名中高密→转码劝诫低密钉。",
+      "patterns": [
+        "爆点低密",
+        "戏谑中密",
+        "正名中高密",
+        "劝诫低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "低密爆"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "戏谑密"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "官网上表示",
+          "note": "正名密"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "劝诫低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短爆句；「也合理」排比；中英夹杂引用；「所以他就是物理」短判；408命令句收。",
+      "patterns": [
+        "短爆句",
+        "也合理排比",
+        "中英夹杂",
+        "短判正名",
+        "命令句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "短爆"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我觉得她发展生理学或医学奖的很合理",
+          "note": "也合理"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "给个文学奖也很合理",
+          "note": "也合理"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "I have no idea",
+          "note": "英文"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "短判"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "命令句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "戏谑科普吐槽者：把诺奖争议写成跨学科都合理的段子，收束中国学生转码现实焦虑。",
+      "patterns": [
+        "戏谑吐槽",
+        "跨学科段子",
+        "转码现实焦虑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "化学最开心"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "当然她得到诺贝尔和拼奖最合理",
+          "note": "和平奖最合理"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "转码408"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "大新闻AI拿物理奖；学化学最开心；所以他就是物理；赶紧转码考408。",
+      "patterns": [
+        "大新闻AI",
+        "化学最开心",
+        "就是物理",
+        "考408"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "大新闻"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "结果破奖的是A.I",
+          "note": "A.I"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "我觉得这奖办完最开心的是学化学的",
+          "note": "学化学"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以他就是物理",
+          "note": "就是物理"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "考408"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "新闻爆点→多角度反讽→官方正名→行动劝诫骨架可改编观宇科技热点，需重录清ASR并补一点技术解释。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大新闻",
+          "note": "新闻爆点"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我觉得她发展生理学或医学奖的很合理",
+          "note": "多角度反讽"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就是勸你趕緊轉馬去考408",
+          "note": "行动劝诫"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s7",
+    "s9",
+    "s14",
+    "s20",
+    "s23",
+    "s30",
+    "s40",
+    "s42",
+    "s57",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s58",
+    "s59"
+  ],
+  "fields_complete_25": true
+}

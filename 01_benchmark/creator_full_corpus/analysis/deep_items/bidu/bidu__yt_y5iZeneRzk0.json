@@ -1,0 +1,1271 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_y5iZeneRzk0",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=y5iZeneRzk0",
+  "source_sha256": "194bb4d52d119d7c616265898aece065673b59cf341da0bbcc265b34bdde1f7e",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 79,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 5,
+      "snippet": "怎么下一下"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "经过研究我发现"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "撒牛牛丸的确是火锅时在中最特殊的一个"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 18,
+      "snippet": "像牛羊肉、毛祖如虾、滑鸭血、蔬菜等等"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "它固像体"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 17,
+      "snippet": "但只有 a 牛丸是故业量向混合体系"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 16,
+      "snippet": "外面的肉侠包着里面的,里面的尿下"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 16,
+      "snippet": "丸子的本体是一个 y7 牛八的球"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "外层是Q 产的牛肉"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "中间层是白色的皮肚,内层是一小桌"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 3,
+      "snippet": "在家日"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 13,
+      "snippet": "卓之的液体突然在你口中爆胶"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "年初 脂肥充满了你的口 口腔"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "所以 今天"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "我就要用火锅传热血和大家探讨一下"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "撒牛牛的油眼吃法"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "我们现在损损"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "撒牛牛丸下的火锅以后"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "内磚的温度是如何变化"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "夹设火锅是温度"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "固定一些无穷大的理想火锅"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "撒牛,�"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "再达到了90度"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "从食品安全的角度下才能吃了"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "那许多人之间觉得"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 11,
+      "snippet": "玩自己福气来这这件事了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "其他朋友们在玩家不许玩"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "这也不许ま义"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "这也不许玩不许玩不许"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 28,
+      "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "在西斯坦给出的解释"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "如果你攪一杯茶"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "那最后茶叶会聚集在杯子中心"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "这是因为"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "罗玄运动的水与杯子的"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 12,
+      "snippet": "是杯币与杯底附近速度正军"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "形成高约的边界层引起二次流"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 10,
+      "snippet": "从而形成一个新的罗玄"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "这种罗玄会推动茶叶向新运动"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "所以同理议"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "等你吃到最后"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "只要狂角一通"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "那些消失在汤里的肉"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "就会出现在火锅中心"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "就算前面想不过谈知的朋友"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "但军事的重点"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "你就可以疯狂检论"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "今天有火锅传热血"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "教了大家如何优雅的吃一口"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "但当我重新端响它使"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "我忽然陷入城市"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "这哪里是撒牛牛丸啊"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 11,
+      "snippet": "这分明是一颗撒牛地球啊"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "所以不要小看爱吃火锅的自己"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "每吃一个撒牛牛丸"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "已经咬爆了一颗心臣"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 7,
+      "snippet": "还是Astah"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "它曾经提出了一个静太与周理论"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 11,
+      "snippet": "它认为我们的与周是有限"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "但无界的"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "2019年的新发现"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "也给这个理论提供了正经"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "发言一下"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 13,
+      "snippet": "就是说当你向着与周的边缘走"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "你永远走不到镜头"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 11,
+      "snippet": "但如果站在与周外太与周"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "它只是个封闭的球"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 20,
+      "snippet": "所以如果存在一个超越于我们与周外的高伟生"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 13,
+      "snippet": "我们的太阳阅量地球在太野中"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "也许只是撒牛牛丸而已"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 14,
+      "snippet": "而与周对他而言就是个大火锅吧"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 23,
+      "snippet": "算上之前已经跟尿尔业动力学院等我下次在研究清楚"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 11,
+      "snippet": "为什么撒炮尿能照着自己"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "我就可以构建尿尔业大一通理论了"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 35,
+      "snippet": "欢迎你 Commission for the World of War"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 16,
+      "snippet": "如果你的生活如果收拾应用我的理论"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "好用的话记得告诉我"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 12,
+      "snippet": "希望他一定要三年支持一下"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 4,
+      "snippet": "下期再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "研究结论：撒尿牛丸是火锅里固液混合特殊体系，再宣布用传热学讲优雅吃法。",
+      "patterns": [
+        "研究结论开场",
+        "固液混合定义",
+        "传热学吃法预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "经过研究我发现",
+          "note": "经过研究我发现"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但只有 a 牛丸是故业量向混合体系",
+          "note": "固液混合体系"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我就要用火锅传热血和大家探讨一下",
+          "note": "火锅传热学探讨"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "结构分层→下锅内温演化→90度可食→茶叶二次流类比捞肉→咬爆如咬行星→宇宙有限无界隐喻→尿尔业大一统玩笑收。",
+      "patterns": [
+        "结构→传热→二次流→行星隐喻→大一统玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "中间层是白色的皮肚,内层是一小桌",
+          "note": "三层结构"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "再达到了90度",
+          "note": "90度可食"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "形成高约的边界层引起二次流",
+          "note": "二次流"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "撒尿地球"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "我就可以构建尿尔业大一通理论了",
+          "note": "大一统理论"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "hook_special",
+          "note": "特殊体系与吃法预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "heat_transfer",
+          "note": "理想火锅传热与可食温度"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "tea_leaf_analogy",
+          "note": "茶叶二次流与捞肉"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "planet_metaphor",
+          "note": "咬爆行星与宇宙隐喻"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "cta_joke",
+          "note": "大一统玩笑与关注CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「所以今天」「我们现在算算」「所以同理」「所以不要小看」「算上之前」。",
+      "patterns": [
+        "所以今天切题",
+        "同理迁移",
+        "算上之前递加"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "所以 今天",
+          "note": "所以今天"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我们现在损损",
+          "note": "我们现在算算"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以同理议",
+          "note": "所以同理"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "所以不要小看爱吃火锅的自己",
+          "note": "不要小看"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "算上之前已经跟尿尔业动力学院等我下次在研究清楚",
+          "note": "算上之前"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "牛羊肉等固体vs牛丸固液混合；禁止玩耍重复vs正经二次流解释；牛丸vs地球尺度错位。",
+      "patterns": [
+        "固体/固液",
+        "胡闹/正经物理",
+        "牛丸/地球"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "它固像体",
+          "note": "其他固体"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但只有 a 牛丸是故业量向混合体系",
+          "note": "固液混合"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这也不许玩不许玩不许",
+          "note": "不许玩重复"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "撒尿地球"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「怎么优雅吃」总问；「这哪里是牛丸啊」顿悟反问；「为什么能照着自己」下期预告问。",
+      "patterns": [
+        "优雅吃法总问",
+        "顿悟反问",
+        "下期预告问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "撒牛牛的油眼吃法",
+          "note": "优雅吃法"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这哪里是撒牛牛丸啊",
+          "note": "哪里是牛丸"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "为什么撒炮尿能照着自己",
+          "note": "为什么照着自己"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "外层牛肉/皮肚/汤心三层；搅茶茶叶聚中；狂搅火锅捞肉；爱因斯坦有限无界。",
+      "patterns": [
+        "三层结构例",
+        "搅茶例",
+        "宇宙理论例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "中间层是白色的皮肚,内层是一小桌",
+          "note": "三层"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "如果你攪一杯茶",
+          "note": "搅一杯茶"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "它曾经提出了一个静太与周理论",
+          "note": "静太与周理论"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「混合体系」落到三层球；「二次流」落到茶叶聚中心；「有限无界」落到走不到尽头的球。",
+      "patterns": [
+        "体系→三层",
+        "二次流→茶叶",
+        "无界→走不到头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "中间层是白色的皮肚,内层是一小桌",
+          "note": "三层球"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "那最后茶叶会聚集在杯子中心",
+          "note": "茶叶聚集中心"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "你永远走不到镜头",
+          "note": "永远走不到尽头"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「的确是最特殊的一个」；「从食品安全角度才能吃」；「这分明是一颗撒尿地球」。",
+      "patterns": [
+        "最特殊断言",
+        "安全可食判",
+        "地球金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "撒牛牛丸的确是火锅时在中最特殊的一个",
+          "note": "最特殊"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "从食品安全的角度下才能吃了",
+          "note": "才能吃"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "分明是地球"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "重新端详后「忽然陷入沉思」修正认知：不是牛丸是地球；下期研究未清先挂账。",
+      "patterns": [
+        "端详后修正",
+        "未清挂账"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "但当我重新端响它使",
+          "note": "重新端详"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我忽然陷入城市",
+          "note": "陷入沉思"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "算上之前已经跟尿尔业动力学院等我下次在研究清楚",
+          "note": "下次研究清楚"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "定义短句→传热中板→不许玩复读加速笑话→物理说明放慢→隐喻拔高→CTA短收。",
+      "patterns": [
+        "复读加速笑",
+        "物理放慢",
+        "隐喻拔高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "这也不许玩不许玩不许",
+          "note": "不许玩复读"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "形成高约的边界层引起二次流",
+          "note": "二次流慢讲"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "隐喻拔高"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以今天"
+        },
+        {
+          "type": "discourse",
+          "form": "所以同理"
+        },
+        {
+          "type": "repair_repeat",
+          "form": "不许玩不许玩"
+        },
+        {
+          "type": "discourse",
+          "form": "发言一下"
+        },
+        {
+          "type": "filler",
+          "form": "就是说"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "所以 今天",
+          "note": "所以今天"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以同理议",
+          "note": "所以同理"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "不许玩复读"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "发言一下",
+          "note": "发言一下"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "就是说当你向着与周的边缘走",
+          "note": "就是说"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "学术一本正经→复读玩笑爆笑→物理冷静→行星顿悟震撼→宇宙浪漫→关注软收。",
+      "patterns": [
+        "一本正经",
+        "复读爆笑",
+        "顿悟震撼",
+        "浪漫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "经过研究我发现",
+          "note": "研究发现"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "复读笑"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "地球顿悟"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "而与周对他而言就是个大火锅吧",
+          "note": "大火锅浪漫"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从优雅吃一口回扣到咬爆行星/宇宙火锅，预告大一统理论并求三年支持。",
+      "patterns": [
+        "吃法回扣隐喻",
+        "大一统预告",
+        "支持CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "教了大家如何优雅的吃一口",
+          "note": "优雅吃一口"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "地球"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "我就可以构建尿尔业大一通理论了",
+          "note": "大一统"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "希望他一定要三年支持一下",
+          "note": "三年支持"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「好用的话记得告诉我」「希望一定要三年支持一下」「下期再见」。",
+      "patterns": [
+        "好用告诉我",
+        "三年支持",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s77",
+          "snippet": "好用的话记得告诉我",
+          "note": "记得告诉我"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "希望他一定要三年支持一下",
+          "note": "三年支持"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "下期再见",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "不许玩超长复读；撒尿地球金句；尿尔业大一统；ASR乱码仍保留毕导一本正经讲废话气质。",
+      "patterns": [
+        "超长复读",
+        "撒尿地球",
+        "大一统玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "复读"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "地球"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "我就可以构建尿尔业大一通理论了",
+          "note": "大一统"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损坏传热推导中段；复读占用信息位；宇宙段跳跃大，科学严谨性让位于梗。",
+      "patterns": [
+        "ASR损坏推导",
+        "复读占位",
+        "跳跃大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "撒牛,�",
+          "note": "ASR断裂"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "复读占位"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "它曾经提出了一个静太与周理论",
+          "note": "理论跳跃"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "「经过研究我发现」；「我们现在算算」；「忽然陷入沉思」现场认知翻转外显。",
+      "patterns": [
+        "研究发现",
+        "现在算算",
+        "沉思翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "经过研究我发现",
+          "note": "研究发现"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我们现在损损",
+          "note": "现在算算"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我忽然陷入城市",
+          "note": "陷入沉思"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把吃货当物理学生，「教了大家如何优雅」；欢迎加入「World of War」玩笑共同体。",
+      "patterns": [
+        "吃货当学生",
+        "玩笑共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "教了大家如何优雅的吃一口",
+          "note": "教了大家"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "欢迎你 Commission for the World of War",
+          "note": "欢迎加入"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "三层球结构；90度可食；茶叶聚中心；狂搅捞肉；咬爆行星。",
+      "patterns": [
+        "三层锚",
+        "90度锚",
+        "茶叶锚",
+        "咬爆锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "中间层是白色的皮肚,内层是一小桌",
+          "note": "三层"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "再达到了90度",
+          "note": "90度"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "那最后茶叶会聚集在杯子中心",
+          "note": "茶叶中心"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "已经咬爆了一颗心臣",
+          "note": "咬爆"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "定义中密→传热高密（残）→复读低密笑→物理中密→隐喻中低密→CTA低密。",
+      "patterns": [
+        "传热高密残",
+        "复读低密",
+        "隐喻中低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "内磚的温度是如何变化",
+          "note": "传热密"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "复读低密"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "它只是个封闭的球",
+          "note": "隐喻"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "特殊定义→传热→笑话打断→二次流同理→顿悟地球→宇宙隐喻→预告CTA。",
+      "patterns": [
+        "定义→传热→同理→隐喻→CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但只有 a 牛丸是故业量向混合体系",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以同理议",
+          "note": "同理"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "顿悟"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式科学相声：一本正经胡说八道、物理梗密度高、自我宇宙化。",
+      "patterns": [
+        "科学相声",
+        "物理梗",
+        "宇宙化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我就要用火锅传热血和大家探讨一下",
+          "note": "传热学探讨"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "形成高约的边界层引起二次流",
+          "note": "二次流"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "地球"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "固液混合；不许玩复读；茶叶二次流；撒尿地球；宇宙大火锅。",
+      "patterns": [
+        "固液混合",
+        "不许玩",
+        "撒尿地球",
+        "大火锅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但只有 a 牛丸是故业量向混合体系",
+          "note": "固液"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这也不许玩不许玩不许玩不许玩不许玩不许玩不许玩不许玩不�",
+          "note": "不许玩"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "地球"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "而与周对他而言就是个大火锅吧",
+          "note": "大火锅"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "日常食物→物理模型→荒诞尺度跃迁的科普喜剧结构可改编，观宇需重录清晰推导并控复读时长。",
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但只有 a 牛丸是故业量向混合体系",
+          "note": "物理定义"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "所以同理议",
+          "note": "同理迁移"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这分明是一颗撒牛地球啊",
+          "note": "尺度跃迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s6",
+    "s15",
+    "s10",
+    "s23",
+    "s37",
+    "s53",
+    "s74",
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79"
+  ],
+  "fields_complete_25": true
+}

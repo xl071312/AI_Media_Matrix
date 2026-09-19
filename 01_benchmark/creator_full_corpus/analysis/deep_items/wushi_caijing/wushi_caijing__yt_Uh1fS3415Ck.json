@@ -1,0 +1,1666 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_Uh1fS3415Ck",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Uh1fS3415Ck",
+  "source_sha256": "ddebd6f7054bee93a5d2c4543b8a591b6a5b93cc19b395a41da41619da2c8d01",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 179,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 11,
+      "snippet": "美聯儲合創部的資本博弈"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "刊似的位工未民"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "但被隔離都10000個星期"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 12,
+      "snippet": "同官經濟和貌幣政策的算法"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "我認為都是配菜"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "我看它的主線就三個大"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "大幣是5.5%"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "創部2017年就提名"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 2,
+      "snippet": "包圓"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "擔任美聯儲主席"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "比實創部企業"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "包圓許低利率政策"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "以刺激經濟"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "這樣創部可以交上一份"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "把經濟搞好的達倦的"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "但包圓上財後"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "反手給了創幣"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 4,
+      "snippet": "也表演出"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 12,
+      "snippet": "看看我們美聯儲多獨立的戲"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "包圓為應對通脹"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "人家是有震痛的"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "50年前美聯儲贏合"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "白宮的超寬鬆貨幣政策"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "導致高通脹與高失業並存"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "瞎幹"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "比不幹"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "更不糟糕"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 17,
+      "snippet": "此,此外美聯儲因低估通脹而被迫激進"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "加息的較於利利在幕"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "2021年被購併延續後世競契的側"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "讓美聯儲的政策轉向更加謹慎"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "但我們更深一步"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "白宮和美聯儲的較量�"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "分,其實每個念代的較量都脫不開"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "如果如果很早就降息"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "一旦通脹失控"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "那創意就可以乖乖物價上漲"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "是美聯儲的國"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "美聯儲也知道"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "自然不能刮田裡下"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "當然大家也不知道"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 10,
+      "snippet": "是創期先往往的國更多"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "還是美聯儲不夠獨立"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "從而提前降息的國更多"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "美聯儲就兩事了"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 11,
+      "snippet": "一是物價也就是一致吞噱"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "二就是,就是就業"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 19,
+      "snippet": "但物價才是民眾最能直接感受到的經濟大距"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "而物價本質就是每元的夠買力"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "為此是美聯儲的核心任務"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "而美聯儲死活不降息"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 22,
+      "snippet": "可將可能只物價的財特責,擱人百分之百只相總統"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 16,
+      "snippet": "同時還能展現自己獨立和強硬的人設"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 4,
+      "snippet": "一十二年"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 16,
+      "snippet": "相反而如果真破壓力降息了 for"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 13,
+      "snippet": "加期三年的成果短時間內被消"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "等物價鎮崩了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "民眾發現我靠我竟然是那個代價"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 19,
+      "snippet": "五十萬馬克·英麵包的故事大家聽說過嗎?"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 12,
+      "snippet": "落保美術生的故事都聽過吧"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 16,
+      "snippet": "不是美術生會費,而是他會借事肥生"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "什麼事啊?"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "民粹之事"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "就算一切還沒那麼糟糕"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 11,
+      "snippet": "那不矛盾還沒同樣的爆炸"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 4,
+      "snippet": "美聯�!"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "在想修復信用"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "要不像握坑用著路出清"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 15,
+      "snippet": "要不就美聯儲在當十年老鼠來填補"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 13,
+      "snippet": "無論怎麼樣站在美聯儲的角度"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 19,
+      "snippet": "別看他站在精靡書記和寒術計算的話語體系"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "分析一大堆說不降息"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "本身上是降息後面全是死門"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 18,
+      "snippet": "而且以前經紀好的時候總統瞎折騰沒什麼"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 13,
+      "snippet": "而在某東方大國的虎視單單下"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 14,
+      "snippet": "在去美元的壓力下容易一跌不起"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 5,
+      "snippet": "照這麼折騰"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 12,
+      "snippet": "我問你美國還能有幾個事件"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 14,
+      "snippet": "誰都不想當造成一跌不起的罪人"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 19,
+      "snippet": "在有美元的高利率說白了就是維持美元信利"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 18,
+      "snippet": "4.5的基準率仍能信國一資本流入美債"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 21,
+      "snippet": "而美國這麼實上已經形成了腐在的欠套對衝擊者"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 19,
+      "snippet": "降息可能躲著立插收 rr 跨京資本流出"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "竟然引發股债"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "如果是我就一个字"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 19,
+      "snippet": "拖第一拖到总统的政策对经济冲击充分显现"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 10,
+      "snippet": "将经济批软归英于白宫"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 12,
+      "snippet": "第二拖到通脏数据明确降温"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "为降息提供合理一句"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "第三拖到资本市场风险出清"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 13,
+      "snippet": "避免政策调整出发系统性危机"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 18,
+      "snippet": "这任期到了美联储依旧会遵循步章国理论"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 20,
+      "snippet": "我美联储的耐心和眼迹比你创造的任期更坚挺"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 11,
+      "snippet": "左边是创造出甩锅小算盘"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 12,
+      "snippet": "同样想通过政策的不断反复"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 6,
+      "snippet": "操纵资本市场"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 18,
+      "snippet": "以实现家族成员化而接朋友们的最大盈利"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "右边美联储一方面是不章国"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 15,
+      "snippet": "二十具体康时自己的独立可信人社"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "我为什么用人设这个词"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 10,
+      "snippet": "无实以前在投行的时候"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 18,
+      "snippet": "也以为他们是先进的稳定的复杂的高级的"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 14,
+      "snippet": "当民众试图了解美联储的政策时"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 13,
+      "snippet": "长长线主进入支持的复杂性中"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 13,
+      "snippet": "而这正是上层希望民众保持的"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "我这些人身为歌派和阴派"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 16,
+      "snippet": "但我觉得这又像处地的农民幻想皇帝"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 15,
+      "snippet": ",我这也是一种分� I们的美化"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 5,
+      "snippet": "美化美联�"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 13,
+      "snippet": "但我觉得其实很多人都是摆射"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 10,
+      "snippet": "其实就听那两三个人的"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 13,
+      "snippet": "甚至两三个这个两次都多说了"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 18,
+      "snippet": "大量的文件报告和数据其实都是有模板的"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 11,
+      "snippet": "我每次下来下来最新版本"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 18,
+      "snippet": "其实都是用工具去找和上一个版本的区别"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 17,
+      "snippet": "而其中大段大段的内容都是绒于重复的"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 10,
+      "snippet": "我自己称他为金融史山"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 10,
+      "snippet": "我也先会跟我同事抱怨"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 9,
+      "snippet": "你妈怎么那么不废话"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 14,
+      "snippet": "而且都是专有名词和数据的堆点"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 12,
+      "snippet": "大量复杂和算法寒恕的堆点"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 12,
+      "snippet": "乐门和阴流报告更是一堆史"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 10,
+      "snippet": "但大家没办法必须吃史"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 10,
+      "snippet": "毕端金融从业者都觉得"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 15,
+      "snippet": "都觉得美人储公布的东西都是上纸"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 10,
+      "snippet": "里面真正的干货有没有"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 20,
+      "snippet": "但我得在几百顿史里找那几百克融化的巧合力"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 20,
+      "snippet": "还有当时很多金融人特别喜欢教自己金融民工"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 5,
+      "snippet": "以前我也是"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 6,
+      "snippet": "看起来在自签"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 14,
+      "snippet": "背地里其实是隐隐的傲慢语偏见"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 14,
+      "snippet": "但行业由于多重因素不断降新后"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 18,
+      "snippet": "可能真比不上人家高水平的民工的实心了"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 14,
+      "snippet": "咱们大A多长时间没有IPO了"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 10,
+      "snippet": "头行部门多久没扩张了"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 10,
+      "snippet": "大�ark上走了伙�"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 7,
+      "snippet": "中江被现实打破"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 7,
+      "snippet": "美联储也是一样"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 4,
+      "snippet": "强用独立"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "非常值得信任对了"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 18,
+      "snippet": "从业者成长认为美人储背后的信任是奇迹"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 2,
+      "snippet": "我刚"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 10,
+      "snippet": "现在有提出第二个暴论"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 13,
+      "snippet": "美人美人储的根基不在于信任"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 13,
+      "snippet": "而是在于霸权背后的军事力量"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 24,
+      "snippet": "靠的是一次的一次 there is a root"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 8,
+      "snippet": "是好母是隐身战机"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 10,
+      "snippet": "是星罗旗步的美军基地"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 12,
+      "snippet": "是信心化武器的硬实力一点"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 10,
+      "snippet": "美人储的信任只是表象"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 14,
+      "snippet": "而中国人一步步纯实霸权的地基"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 14,
+      "snippet": "中国的牌叫做福利抽心而霸权一"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 19,
+      "snippet": "一旦松细美人储的12个人再怎么表演信任"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 15,
+      "snippet": "全球的资产阮集集也会用脚投票的"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 4,
+      "snippet": "毕竟谁赢"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 10,
+      "snippet": "黑帮大哥要让大家服贴"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 12,
+      "snippet": "-要满足两个条件一是足够"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 8,
+      "snippet": "仓人25里要能担"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 7,
+      "snippet": "将胡上其他存在"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 3,
+      "snippet": "现在旁"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 13,
+      "snippet": "多里也穿了一堆不可民壮武器"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 11,
+      "snippet": "这只熊猫也不跟你抢地盘"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 13,
+      "snippet": "还消息息的和黑帮大哥做生意"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 9,
+      "snippet": "而且笑得越来越慎人"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 14,
+      "snippet": "多里武器越来越多越来越看不懂"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 6,
+      "snippet": "你如果是美国"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 12,
+      "snippet": "你这个大哥还能当得安心吗"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 5,
+      "snippet": "更离谱的是"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 11,
+      "snippet": "自己都是连武器已经空修"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 5,
+      "snippet": "历还是厉害"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 11,
+      "snippet": "但是工业能力已经空心化"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 11,
+      "snippet": "甚至为了维护老大的危引"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 5,
+      "snippet": "不得不和�"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 13,
+      "snippet": "很多视频吹宝罗默克多么传奇"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 13,
+      "snippet": "这种就是把他们往神坦上推了"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 5,
+      "snippet": "我不太喜欢"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 17,
+      "snippet": "在我看来美联储只是履行最基本的指责"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 8,
+      "snippet": "保证货幣稳定而已"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题式点题「美联储和川普的资本博弈」，宣称经济算法是配菜、主线只三件事。",
+      "patterns": [
+        "标题点题开场",
+        "主线三件事声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "美聯儲合創部的資本博弈",
+          "note": "美联储和川普资本博弈"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "我認為都是配菜",
+          "note": "我认为都是配菜"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我看它的主線就三個大",
+          "note": "主线就三个大"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主线：鲍威尔独立人设反手川普→不降息因降息后全是死门→拖字诀三拖→信任表象靠军事霸权→中国牌是福利抽心。",
+      "patterns": [
+        "独立人设反手",
+        "降息死门",
+        "拖字诀",
+        "霸权地基论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "反手給了創幣",
+          "note": "反手给了川普"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "本身上是降息後面全是死門",
+          "note": "降息后面全是死门"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "拖第一"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "而是在于霸权背后的军事力量",
+          "note": "根基在军事力量"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但我们更深一步」「无论怎么样」「我为什么用人设这个词」推进层次。",
+      "patterns": [
+        "更深一步递进",
+        "无论怎么样收束",
+        "为什么追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "但我們更深一步",
+          "note": "但我们更深一步"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "無論怎麼樣站在美聯儲的角度",
+          "note": "无论怎么样站在美联储"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "我为什么用人设这个词",
+          "note": "我为什么用人设这个词"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "白宫甩锅小算盘vs美联储不降息人设；民众神化vs草台模板；美元信任vs军事硬实力。",
+      "patterns": [
+        "白宫/美联储对照",
+        "神化/草台对照",
+        "信任/军事对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s94",
+          "snippet": "左边是创造出甩锅小算盘",
+          "note": "川普甩锅小算盘"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "右边美联储一方面是不章国",
+          "note": "美联储不降息"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "也以为他们是先进的稳定的复杂的高级的",
+          "note": "以为先进稳定"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "而是在于霸权背后的军事力量",
+          "note": "根基在军事"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「美国还能有几个事件」「你这个大哥还能当得安心吗」压迫式设问。",
+      "patterns": [
+        "还能几个事件",
+        "大哥安心吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "我問你美國還能有幾個事件",
+          "note": "美国还能有几个事件"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "你这个大哥还能当得安心吗",
+          "note": "大哥还能当得安心吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "50年前滞胀、2021低估通胀、4.5%利率吸资本、投行读报告找巧克力、航母隐形战机基地。",
+      "patterns": [
+        "滞胀史例",
+        "利率吸资例",
+        "投行读报告例",
+        "军力清单例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "50年前美聯儲贏合",
+          "note": "50年前超宽松"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "4.5的基準率仍能信國一資本流入美債",
+          "note": "4.5基准率吸资本"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "但我得在几百顿史里找那几百克融化的巧合力",
+          "note": "几百吨屎里找巧克力"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "是好母是隐身战机",
+          "note": "航母隐形战机基地"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「拖」抽象策略落地为三拖清单；「信任」落地为军事硬件与黑帮大哥比喻。",
+      "patterns": [
+        "拖→三拖清单",
+        "信任→军事硬件",
+        "霸权→黑帮大哥"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "拖到冲击显现"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "而是在于霸权背后的军事力量",
+          "note": "军事力量根基"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "黑帮大哥要让大家服贴",
+          "note": "黑帮大哥两个条件"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言降息后全是死门；美联储只是履行基本职责别神化；工业空心化才致命。",
+      "patterns": [
+        "降息死门判定",
+        "别神化美联储",
+        "工业空心化判定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s73",
+          "snippet": "本身上是降息後面全是死門",
+          "note": "降息后面全是死门"
+        },
+        {
+          "sentence_id": "s177",
+          "snippet": "我不太喜欢",
+          "note": "不太喜欢神化"
+        },
+        {
+          "sentence_id": "s172",
+          "snippet": "但是工业能力已经空心化",
+          "note": "工业能力已经空心化"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "自承以前在投行也神化美联储；承认自己曾有金融民工傲慢。",
+      "patterns": [
+        "自承曾神化",
+        "自承曾傲慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "无实以前在投行的时候",
+          "note": "以前在投行也以为"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "以前我也是",
+          "note": "以前我也是"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "背地里其实是隐隐的傲慢语偏见",
+          "note": "隐隐的傲慢与偏见"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "背景短句→机制中长句→三拖列举短句→投行吐槽口语爆发→黑帮比喻收。",
+      "patterns": [
+        "三拖短句列举",
+        "吐槽口语爆发",
+        "比喻收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "拖第一短句"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "你妈怎么那么不废话",
+          "note": "抱怨废话口语"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "黑帮大哥要让大家服贴",
+          "note": "黑帮比喻"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "冷叙述提名→嘲讽独立戏→压迫死门→愤懑金融屎山→警醒霸权地基。",
+      "patterns": [
+        "冷→嘲→压迫→愤懑→警醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "看看我們美聯儲多獨立的戲",
+          "note": "独立戏嘲讽"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "本身上是降息後面全是死門",
+          "note": "死门压迫"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "我自己称他为金融史山",
+          "note": "金融屎山愤懑"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "而是在于霸权背后的军事力量",
+          "note": "霸权警醒"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以黑帮大哥/熊猫比喻收束美元霸权焦虑，并降神：美联储只保货币稳定。",
+      "patterns": [
+        "黑帮熊猫比喻收束",
+        "降神基本职责"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s163",
+          "snippet": "这只熊猫也不跟你抢地盘",
+          "note": "熊猫不抢地盘"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "你这个大哥还能当得安心吗",
+          "note": "大哥安心吗"
+        },
+        {
+          "sentence_id": "s179",
+          "snippet": "保证货幣稳定而已",
+          "note": "保证货币稳定而已"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：反对神化人物的价值表态，暗示继续看穿人设即可。",
+      "patterns": [
+        "反神化价值CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s176",
+          "snippet": "这种就是把他们往神坦上推了",
+          "note": "把他们往神坛上推我不喜欢"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "在我看来美联储只是履行最基本的指责",
+          "note": "只是履行最基本职责"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "投行经历自曝、脏话抱怨报告、自称金融屎山、黑帮比喻，强个人经历指纹。",
+      "patterns": [
+        "投行自曝",
+        "金融屎山自造词",
+        "黑帮比喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "无实以前在投行的时候",
+          "note": "以前在投行"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "我自己称他为金融史山",
+          "note": "金融屎山"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "黑帮大哥要让大家服贴",
+          "note": "黑帮大哥"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段跳号；部分句子ASR乱码；三拖与左右小算盘结构清晰但尾段比喻略散。",
+      "patterns": [
+        "跳号截断",
+        "尾段比喻略散"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "為此是美聯儲的核心任務",
+          "note": "跳到s70"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "美化美联�",
+          "note": "美化美联乱码"
+        },
+        {
+          "sentence_id": "s174",
+          "snippet": "不得不和�",
+          "note": "不得不和截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「站在美联储角度」换位：降息死门→三拖→人设维护的决策链。",
+      "patterns": [
+        "换位美联储",
+        "三拖决策链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s70",
+          "snippet": "無論怎麼樣站在美聯儲的角度",
+          "note": "站在美联储角度"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "本身上是降息後面全是死門",
+          "note": "降息死门"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "拖字诀"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众从精美数据话语中拉出，定位为需看穿人设与屎山的清醒者。",
+      "patterns": [
+        "看穿人设",
+        "识破屎山"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s103",
+          "snippet": "当民众试图了解美联储的政策时",
+          "note": "民众试图了解时"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "而这正是上层希望民众保持的",
+          "note": "上层希望民众保持"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "但我得在几百顿史里找那几百克融化的巧合力",
+          "note": "在屎里找巧克力"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "5.5%大币、2017提名、50年前滞胀、4.5%利率、航母隐形战机基地。",
+      "patterns": [
+        "利率数字",
+        "历史年份",
+        "军力清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "大幣是5.5%",
+          "note": "大币是5.5%"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "創部2017年就提名",
+          "note": "2017年提名"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "4.5的基準率仍能信國一資本流入美債",
+          "note": "4.5基准率"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "是好母是隐身战机",
+          "note": "航母隐形战机"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场人事中密→甩锅机制高密→三拖高密→吐槽高密口语→比喻中密收束。",
+      "patterns": [
+        "机制高密",
+        "三拖高密",
+        "吐槽高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "如果如果很早就降息",
+          "note": "早降息机制"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "三拖高密"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "我自己称他为金融史山",
+          "note": "屎山吐槽"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "点题→人事→独立戏→更深甩锅→死门→三拖→人设批判→霸权地基→比喻。",
+      "patterns": [
+        "层层加深",
+        "换位后拔高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "但我們更深一步",
+          "note": "更深一步"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "我为什么用人设这个词",
+          "note": "人设追问"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "美人美人储的根基不在于信任",
+          "note": "第二个暴论"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "前投行吐槽者+反神化现实主义者+换位博弈拆解者。",
+      "patterns": [
+        "投行吐槽者",
+        "反神化",
+        "换位拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s119",
+          "snippet": "你妈怎么那么不废话",
+          "note": "抱怨废话"
+        },
+        {
+          "sentence_id": "s177",
+          "snippet": "我不太喜欢",
+          "note": "不喜欢神化"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "無論怎麼樣站在美聯儲的角度",
+          "note": "换位美联储"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "配菜主线、独立戏、降息死门、拖字诀三拖、金融屎山、黑帮大哥与熊猫。",
+      "patterns": [
+        "配菜主线",
+        "独立戏",
+        "死门",
+        "三拖",
+        "金融屎山",
+        "黑帮熊猫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我認為都是配菜",
+          "note": "都是配菜"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "看看我們美聯儲多獨立的戲",
+          "note": "独立戏"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "本身上是降息後面全是死門",
+          "note": "死门"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "拖"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "我自己称他为金融史山",
+          "note": "金融屎山"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "黑帮大哥要让大家服贴",
+          "note": "黑帮大哥"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s5",
+            "s6",
+            "s8",
+            "s10"
+          ],
+          "function": "setup_cast",
+          "note": "点题+鲍威尔提名背景"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s19",
+            "s20",
+            "s28"
+          ],
+          "function": "independence_play",
+          "note": "上任后反手独立表演"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s38",
+            "s43",
+            "s52"
+          ],
+          "function": "blame_option",
+          "note": "早降息则锅在美联储"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s70",
+            "s73",
+            "s79",
+            "s86"
+          ],
+          "function": "delay_strategy",
+          "note": "降息死门与三拖策略"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s94",
+            "s97",
+            "s100",
+            "s117"
+          ],
+          "function": "persona_critique",
+          "note": "两侧小算盘与金融屎山"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s145",
+            "s146",
+            "s152",
+            "s157"
+          ],
+          "function": "hegemony_root",
+          "note": "信任表象与军事霸权/黑帮比喻"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "瞎干比不干更糟糕"
+        },
+        {
+          "type": "discourse",
+          "form": "你妈怎么那么多废话"
+        },
+        {
+          "type": "discourse",
+          "form": "如果是我就一个字拖"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "瞎幹",
+          "note": "瞎干"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "你妈怎么那么不废话",
+          "note": "你妈怎么那么多废话"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "如果是我就一个字",
+          "note": "如果是我就一个字"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "换位美联储决策树+三拖策略+反神化金融屎山拆解，对观鱼宏观/美元叙事高迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "拖第一拖到总统的政策对经济冲击充分显现",
+          "note": "三拖策略可迁移"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "我自己称他为金融史山",
+          "note": "金融屎山可迁移"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "而是在于霸权背后的军事力量",
+          "note": "军事霸权地基论可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s6",
+    "s17",
+    "s73",
+    "s86",
+    "s146",
+    "s32",
+    "s70",
+    "s100",
+    "s94",
+    "s98",
+    "s102",
+    "s78",
+    "s168",
+    "s22",
+    "s81",
+    "s128",
+    "s148",
+    "s157",
+    "s177",
+    "s172",
+    "s101",
+    "s130",
+    "s132",
+    "s119",
+    "s19",
+    "s117",
+    "s163",
+    "s179",
+    "s176",
+    "s178",
+    "s50",
+    "s109",
+    "s174",
+    "s103",
+    "s105",
+    "s7",
+    "s8",
+    "s35",
+    "s145",
+    "s10",
+    "s16",
+    "s20",
+    "s28",
+    "s38",
+    "s43",
+    "s52",
+    "s79",
+    "s97",
+    "s152",
+    "s25",
+    "s85"
+  ],
+  "fields_complete_25": true
+}

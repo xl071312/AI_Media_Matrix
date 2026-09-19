@@ -1,0 +1,1210 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_s371F4BYoP8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=s371F4BYoP8",
+  "source_sha256": "1d137a8c0135337396dd148155f7319e5c6ae1ba1e22f57cf9ad64a1abc078ed",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 75,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 6,
+      "snippet": "在我的公司里"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "有一名"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "专门喂我口香糖的员工"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 1,
+      "snippet": "他"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "就是我们工作室的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "口香糖发射器"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 2,
+      "snippet": "小发"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "他可以自动跟踪你的嘴"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "并且在你张嘴的时候"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "喂你一粒"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "喂你一粒口香糖"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 3,
+      "snippet": "之所以"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "会有这个岗位"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 3,
+      "snippet": "是因为"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "我们工作室的压力"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "还是挺大的"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "大家喜欢"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "嚼口香糖解压"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "茶水间的口香糖"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "总是一下子就没了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "既然大家"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "这么喜欢吃口香糖"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "不如安排一个同事"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "专门负责这件事情"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "小发通过两个眼睛"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "判断目标的方向与距离"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "而他的身体里"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "藏着两个"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "反向旋转的摩擦轮"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "口香糖被推杆往前推"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "接触到摩擦轮之后"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "就会被打出去"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "把小发放在台子上"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "路过的同事一张嘴"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "就可以吃到一粒口香糖"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "把他放到会议室里"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "转一圈"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "就能给每个同事"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "喂一粒口香糖"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "缓解紧张"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "大家的发言也能更自信"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "如果你想的话"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "还可以和小发来一个"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "超远配合"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "解压的同时"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "还可以活跃一下"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "工作气氛"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "在没有工作的时候"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "小发也会摸鱼"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "这时候"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "我就会让他找个事"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 3,
+      "snippet": "想办法"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 4,
+      "snippet": "自我提升"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 2,
+      "snippet": "其实"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "如果你压力真的很大"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "除了找小发吃口香糖"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 9,
+      "snippet": "你还可以找他的同事"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 2,
+      "snippet": "小泡"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "要一张泡泡纸捏着玩"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "这样一边捏"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 3,
+      "snippet": "一边嚼"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "非常解压"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 9,
+      "snippet": "我们3D打印了一些"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "塑料口香糖"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 3,
+      "snippet": "用处嘛"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 5,
+      "snippet": "就是让小发"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "给我们表演节目"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 3,
+      "snippet": "有时候"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "小发会梳这个"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 7,
+      "snippet": "莫西干发型上班"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "不仅看着精神"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "还能多存几发口香糖"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 3,
+      "snippet": "但如果"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "想带一箱口香糖来上班"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "荒诞岗位钩：「公司有一名专门喂我口香糖的员工」——口香糖发射器小发。",
+      "patterns": [
+        "荒诞岗位钩",
+        "设备拟人命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "在我的公司里",
+          "note": "公司里"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "专门喂我口香糖的员工",
+          "note": "专门喂口香糖"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "口香糖发射器",
+          "note": "口香糖发射器"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "小发",
+          "note": "小发"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "压力大爱嚼糖→茶水间总空→设岗做发射器→双目测距+摩擦轮射出→场景应用→摸鱼自我提升→联名小泡→莫西干存弹。",
+      "patterns": [
+        "需求→发明→原理→场景→摸鱼→联名彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "还是挺大的",
+          "note": "压力挺大"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "总是一下子就没了",
+          "note": "一下子就没了"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "专门负责这件事情",
+          "note": "专门负责"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "摩擦轮"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "小发也会摸鱼",
+          "note": "摸鱼"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "小泡",
+          "note": "小泡"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "hook_job",
+          "note": "荒诞岗位与命名"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "why_build",
+          "note": "压力解压需求"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "how_works",
+          "note": "双目与摩擦轮原理"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "use_scenes",
+          "note": "台面/会议室/超远配合"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75"
+          ],
+          "function": "side_gags",
+          "note": "摸鱼小泡莫西干彩蛋"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「之所以会有这个岗位是因为」「小发通过…」「把他放到…」「其实如果你压力真的很大」「最后」。",
+      "patterns": [
+        "之所以因果",
+        "通过原理切",
+        "放到场景切",
+        "其实递加",
+        "最后收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "之所以",
+          "note": "之所以"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "小发通过两个眼睛",
+          "note": "小发通过"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "把他放到会议室里",
+          "note": "放到会议室"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "如果你压力真的很大",
+          "note": "其实如果"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "最后",
+          "note": "最后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "茶水间抢空vs专人投喂；工作发糖vs摸鱼自我提升；真糖解压vs塑料糖表演。",
+      "patterns": [
+        "抢空/专喂",
+        "工作/摸鱼",
+        "真糖/塑料演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "总是一下子就没了",
+          "note": "一下子没了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "不如安排一个同事",
+          "note": "专门负责"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "小发也会摸鱼",
+          "note": "摸鱼"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "塑料口香糖",
+          "note": "塑料口香糖"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎无真问句；以「用处嘛」自问自答带出塑料糖表演。",
+      "patterns": [
+        "用处嘛自问自答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s66",
+          "snippet": "用处嘛",
+          "note": "用处嘛"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "双目测距；反向摩擦轮；台面一张嘴；会议室转圈；超远配合；泡泡纸联名；莫西干发型。",
+      "patterns": [
+        "传感摩擦轮例",
+        "场景三连例",
+        "彩蛋例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "判断目标的方向与距离",
+          "note": "判断方向距离"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "摩擦轮"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "路过的同事一张嘴",
+          "note": "一张嘴"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "就能给每个同事",
+          "note": "每个同事"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "要一张泡泡纸捏着玩",
+          "note": "泡泡纸"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「专门岗位」落到发射器；「解压」落到张嘴接糖；「自我提升」落到摸鱼被派任务。",
+      "patterns": [
+        "岗位→发射器",
+        "解压→张嘴接",
+        "提升→摸鱼任务"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "口香糖发射器",
+          "note": "发射器"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "就可以吃到一粒口香糖",
+          "note": "吃到一粒"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我就会让他找个事",
+          "note": "找个事自我提升"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「还是挺大的」压力量级；「就可以吃到」功能肯定；「非常解压」；「不仅看着精神还能多存几发」。",
+      "patterns": [
+        "压力判断",
+        "功能肯定",
+        "精神又多弹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "还是挺大的",
+          "note": "挺大的"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "就可以吃到一粒口香糖",
+          "note": "就可以吃到"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "非常解压",
+          "note": "非常解压"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "不仅看着精神",
+          "note": "看着精神"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「喂你一粒」后立刻补全「喂你一粒口香糖」修复省略；无深度观点回撤。",
+      "patterns": [
+        "省略后补全修复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "喂你一粒",
+          "note": "喂你一粒"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "喂你一粒口香糖",
+          "note": "喂你一粒口香糖"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句钩子连切→需求中板→原理短说明→场景快切→彩蛋加速→存弹笑点停。",
+      "patterns": [
+        "短句钩连切",
+        "场景快切",
+        "彩蛋加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "专门喂我口香糖的员工",
+          "note": "短钩"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "把小发放在台子上",
+          "note": "场景起"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "小泡",
+          "note": "小泡彩蛋"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "还能多存几发口香糖",
+          "note": "多存几发"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "荒诞好奇→共鸣压力→原理满足→场景好玩→摸鱼共情→联名会心→莫西干爆笑。",
+      "patterns": [
+        "荒诞好奇",
+        "好玩",
+        "共情",
+        "爆笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "专门喂我口香糖的员工",
+          "note": "专门喂"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "大家的发言也能更自信",
+          "note": "更自信"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "小发也会摸鱼",
+          "note": "摸鱼"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗末停在「想带一箱口香糖来上班」未完句，彩蛋开放而未闭环（截断感）。",
+      "patterns": [
+        "存弹彩蛋",
+        "开放未完句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s73",
+          "snippet": "还能多存几发口香糖",
+          "note": "多存几发"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "想带一箱口香糖来上班",
+          "note": "带一箱上班"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗内无显式点赞CTA；产品演示即内容，靠好玩自传播。",
+      "patterns": [
+        "无显式CTA",
+        "演示即传播"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "就可以吃到一粒口香糖",
+          "note": "演示投喂"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "给我们表演节目",
+          "note": "表演节目"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "岗位拟人「小发」；摸鱼自我提升反讽；少少…莫西干存弹；塑料糖表演节目。",
+      "patterns": [
+        "小发拟人",
+        "摸鱼反讽",
+        "莫西干存弹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "小发",
+          "note": "小发"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "小发也会摸鱼",
+          "note": "摸鱼"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "自我提升",
+          "note": "自我提升"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "全文偏短且窗末截断；原理一笔带过缺参数；无失败调试过程，完整感弱。",
+      "patterns": [
+        "窗末截断",
+        "原理缺参",
+        "无调试过程"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "想带一箱口香糖来上班",
+          "note": "截断未完"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "摩擦轮缺参"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "就会被打出去",
+          "note": "打出去缺调试"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "「之所以…是因为」需求推理外显；「既然大家这么喜欢不如安排」决策跳跃展示。",
+      "patterns": [
+        "之所以因果外显",
+        "既然不如决策"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "之所以",
+          "note": "之所以"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是因为",
+          "note": "是因为"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "既然大家",
+          "note": "既然喜欢不如"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当工作室压力共鸣者与极客围观群众，「路过的同事一张嘴」代入。",
+      "patterns": [
+        "压力共鸣",
+        "同事代入围观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "还是挺大的",
+          "note": "压力挺大"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "路过的同事一张嘴",
+          "note": "路过的同事"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "双目测距；反向摩擦轮；推杆；会议室转圈；泡泡纸；3D打印塑料糖；莫西干存弹。",
+      "patterns": [
+        "双目摩擦轮",
+        "场景动作",
+        "塑料糖莫西干"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "小发通过两个眼睛",
+          "note": "两个眼睛"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "摩擦轮"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "转一圈",
+          "note": "转一圈"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "塑料口香糖",
+          "note": "3D打印"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低密→需求中密→原理短高密→场景中密→彩蛋低密玩梗。",
+      "patterns": [
+        "原理短高密",
+        "场景中密",
+        "彩蛋低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "原理密"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "就可以吃到一粒口香糖",
+          "note": "场景"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "彩蛋低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "岗位钩→命名→需求→原理→场景三连→摸鱼→联名→发型彩蛋。",
+      "patterns": [
+        "钩→需求→原理→场景→彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "之所以",
+          "note": "切需求"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "小发通过两个眼睛",
+          "note": "切原理"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "在没有工作的时候",
+          "note": "切彩蛋"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式工作室荒诞工程师：一本正经讲瞎岗、温柔吐槽压力、彩蛋收。",
+      "patterns": [
+        "荒诞工程师",
+        "温柔吐槽压力",
+        "彩蛋人格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "专门喂我口香糖的员工",
+          "note": "专门喂"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "还是挺大的",
+          "note": "压力"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "莫西干"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "口香糖发射器小发；一张嘴就喂；摸鱼自我提升；莫西干多存几发。",
+      "patterns": [
+        "小发",
+        "一张嘴",
+        "摸鱼提升",
+        "莫西干"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "口香糖发射器",
+          "note": "发射器"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "路过的同事一张嘴",
+          "note": "一张嘴"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "自我提升",
+          "note": "自我提升"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "还能多存几发口香糖",
+          "note": "多存几发"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "荒诞需求→极简原理→场景演示→拟人彩蛋短视频骨架可改编观宇趣味科技，需补完整收束与参数。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "专门喂我口香糖的员工",
+          "note": "荒诞钩"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "反向旋转的摩擦轮",
+          "note": "原理核"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "莫西干发型上班",
+          "note": "彩蛋"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s6",
+    "s7",
+    "s16",
+    "s20",
+    "s24",
+    "s29",
+    "s49",
+    "s58",
+    "s71",
+    "s2",
+    "s4",
+    "s5",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s72",
+    "s73",
+    "s74",
+    "s75"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1591 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_nAAb4D30HmE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=nAAb4D30HmE",
+  "source_sha256": "75e43db3770726eb9a986603de29f74db148527c05cb626c6e46616da9972560",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 117,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "生活中我們有時會帶上有色"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "你的笑容依凡黃"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "也歡迎大家在大部裡面打下"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 17,
+      "snippet": "現在你你最近的黃 and 色的東西"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "仔細思考後你會發現"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "變黃的遠遠不知這些"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 20,
+      "snippet": "看讨一下,为什么事件万物最后都会变成黄色"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 27,
+      "snippet": "为了解答这个问题,我们先分析一下一些常见物品变黄的原因"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "数页为什么会变黄呢?"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "因为数页中很有绿色的业"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 19,
+      "snippet": "下天功合作用墙,业绿素多,业次又显绿色"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "秋天遇到变短,业�"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "黑色飘浅,那么头发的本"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "就从黑色变成黄色"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "反正新发色没没搭"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 19,
+      "snippet": "但是随着水洗日晨,然发记得色素慢慢没了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 17,
+      "snippet": "幼露出了目前头发的本色,也就是黄色"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "无论色色多么有人的食物饮料"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "在你身体里走一圈"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "都彪成了�"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "经过了胆素人群黄变成了黄费的氧色"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "所以黄色是建长的颜色"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "除非你昨天吃了红星火龙果"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 4,
+      "snippet": "说有几天"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "有的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 1,
+      "snippet": "了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "暴露出了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "一定是藍色"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "為什麼奇蹟就一定是橙色"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "有的關"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "因為番茄只反射紅光"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "你看到就是紅色"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "對吧"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 1,
+      "snippet": "小"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "小學老師都這麼驕傲"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "不是不知紅色"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "光的能量只取絕於光的剷長"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 12,
+      "snippet": "光的剷長又體現為光的顔色"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 16,
+      "snippet": "所以特定的分子只吸收特定顔色的光"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 16,
+      "snippet": "比如番茟的皮里面有大量的番茟紅素"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 24,
+      "snippet": "它會吸收剷剷在4-4-3-4-7-1-5-0-2"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "那你的藜綠光反射其他光"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 14,
+      "snippet": "因此你眼中萬物無彩冰紛的顏色"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 21,
+      "snippet": "主要取決於物質化學節奏吸收了某些顏色的光後"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 14,
+      "snippet": "你的大腦對剩下的光了主觀感知"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 2,
+      "snippet": "為了"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 12,
+      "snippet": "化學的這門的結構決定性質"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 16,
+      "snippet": "那麼correct 都變成了黃色"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 20,
+      "snippet": "因為時間流氏讓他們化學節奏發生了香色的病"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 15,
+      "snippet": "難道這就是世界變黃的本是決綠嗎"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 17,
+      "snippet": "讓我們來審視一下這些變黃的化學反應"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 19,
+      "snippet": "只是當中的常戀性微塑,手機會被通清氧化"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "變成同,不知不絕就黃了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 18,
+      "snippet": "白江深的居然只白面吸,照射氧化變成吞"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "不絕就黃了"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "那外科中的劇口�"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "會發生多種重拍環繞化"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 14,
+      "snippet": "深層雙鍵同分,不知不絕就黃了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 8,
+      "snippet": "能量更小的可见光"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "也能挤发电子约签了"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "吸收光不曲线"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "就会像长波方向移动"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 5,
+      "snippet": "这就叫红尼"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 4,
+      "snippet": "综上所说"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "原畅白色的物质"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 4,
+      "snippet": "养化之后"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "生成了双键共和解冻"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "吸收光普红尼的一丢丢"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "开始吸收紫光了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "那它 by 看起来"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 7,
+      "snippet": "就是紫色的補色"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "也就是黄色的了"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 15,
+      "snippet": "这就是世界都无在变黄的化学本质"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 3,
+      "snippet": "所以呢"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "人只 只要碰到氧气"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "就难免会变黄"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 14,
+      "snippet": "大家也不必 it 太过自责了"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 4,
+      "snippet": "身色物质"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 12,
+      "snippet": "往往就有更复杂的分子结构"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 7,
+      "snippet": "更大的功劳体系"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "比如 紫色 蚀蚀"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 7,
+      "snippet": "加基层的花青素"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 16,
+      "snippet": "每几个本环都不好意思说自己有顏色"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 5,
+      "snippet": "欢迎它在弹"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 13,
+      "snippet": "弹幕里面写出他们的多少合度"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 22,
+      "snippet": "此外 一些很有 o r s mp 的集 it"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 10,
+      "snippet": "也会促进西收光普通益"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 8,
+      "snippet": "具体 计划 选择"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 2,
+      "snippet": "有些"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 9,
+      "snippet": "有 一些 经营公使"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 6,
+      "snippet": "帮助大家计算"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 8,
+      "snippet": "z 科学 搞颜色"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 10,
+      "snippet": "你以为我做的半天视频"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 8,
+      "snippet": "就是为了让你以后"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 10,
+      "snippet": "可以堂堂 真正找颜色"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 14,
+      "snippet": "我 说 这 了 敷钱 的人吗"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 15,
+      "snippet": "你 这 这 这 这 这 这 这"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 17,
+      "snippet": "如果 说 黄色 时间慢 这是实力道"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 19,
+      "snippet": "您 也可以选择的 时工 流序中慢慢变幻"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 11,
+      "snippet": "你可以选择1.3 年的"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 16,
+      "snippet": "让你 我换发生命 活理 各佛世界"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 14,
+      "snippet": "一些多 采的人生 万 万变广"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 17,
+      "snippet": "怎么选择 就 看你自急 只是本期是"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "全部内容 front"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 6,
+      "snippet": "前过 有 问"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "For you"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 17,
+      "snippet": "我没想到 Tan  bo 脪 轮转"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 4,
+      "snippet": "解 例子"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "有色/变黄生活现象引入，弹幕互动「最近的黄色东西」，再抛出「为什么世间万物最后都会变成黄色」。",
+      "patterns": [
+        "生活变黄引入",
+        "弹幕互动",
+        "万物变黄总问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "生活中我們有時會帶上有色",
+          "note": "带上有色"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "現在你你最近的黃 and 色的東西",
+          "note": "最近的黄色东西"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "看讨一下,为什么事件万物最后都会变成黄色",
+          "note": "为什么都会变成黄色"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "常见物变黄例→树叶/头发/排泄物→补色误解纠正→吸收光谱分子机制→氧化共轭红移→黄是紫的补色→氧气难免变黄→复杂结构才彩色→玩笑收束。",
+      "patterns": [
+        "举例归类",
+        "光谱分子机制",
+        "氧化红移本质",
+        "不必自责玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为了解答这个问题,我们先分析一下一些常见物品变黄的原因",
+          "note": "先分析变黄原因"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "所以特定的分子只吸收特定顔色的光",
+          "note": "吸收特定颜色光"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这就叫红尼",
+          "note": "这就叫红移"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "也就是黄色的了",
+          "note": "紫色的补色黄色"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "就难免会变黄",
+          "note": "难免会变黄"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "hook_examples",
+          "note": "变黄现象钩子与树叶头发食物例"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "color_misconception",
+          "note": "番茄反射红光常识与纠正铺垫"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60"
+          ],
+          "function": "molecular_absorption",
+          "note": "波长能量与分子选择性吸收"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86"
+          ],
+          "function": "oxidation_redshift",
+          "note": "氧化共轭红移→黄为紫补色本质"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117"
+          ],
+          "function": "complex_color_close",
+          "note": "复杂结构彩色与玩笑式收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「为了解答…我们先分析」；「综上所说」；「所以呢」落地；「此外」扩展。",
+      "patterns": [
+        "为了解答先分析",
+        "综上所说",
+        "所以呢",
+        "此外"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为了解答这个问题,我们先分析一下一些常见物品变黄的原因",
+          "note": "为了解答先分析"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "综上所说",
+          "note": "综上所说"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "所以呢",
+          "note": "所以呢"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "此外 一些很有 o r s mp 的集 it",
+          "note": "此外"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "幼时染发黑vs水洗后露出黄本色；小学「只反射红光」简化vs分子吸收光谱；白物氧化后变黄vs复杂结构才彩色。",
+      "patterns": [
+        "染发今昔",
+        "小学简化/光谱",
+        "氧化黄/复杂彩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "反正新发色没没搭",
+          "note": "新发色"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "幼露出了目前头发的本色,也就是黄色",
+          "note": "本色黄色"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "小學老師都這麼驕傲",
+          "note": "小学老师"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "所以特定的分子只吸收特定顔色的光",
+          "note": "吸收特定光"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "往往就有更复杂的分子结构",
+          "note": "更复杂分子结构"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "总问万物为何变黄；「树叶为什么会变黄」；「为什么物体就一定是某色」；「难道这就是本质吗」再审视。",
+      "patterns": [
+        "总问",
+        "分例问",
+        "难道本质吗再审"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "看讨一下,为什么事件万物最后都会变成黄色",
+          "note": "为什么变成黄色"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "数页为什么会变黄呢?",
+          "note": "树叶为什么变黄"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "為什麼奇蹟就一定是橙色",
+          "note": "为什么一定是橙色"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "難道這就是世界變黃的本是決綠嗎",
+          "note": "难道就是本质吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "树叶叶绿素；染发掉色；胆色素；番茄红素波长；塑料/纸氧化；伤口结痂类比（ASR残）。",
+      "patterns": [
+        "叶绿素例",
+        "染发例",
+        "番茄红素",
+        "氧化日用例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为数页中很有绿色的业",
+          "note": "绿色的叶"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但是随着水洗日晨,然发记得色素慢慢没了",
+          "note": "水洗色素没了"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "比如番茟的皮里面有大量的番茟紅素",
+          "note": "番茄红素"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "變成同,不知不絕就黃了",
+          "note": "不知不觉就黄了"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「结构决定性质」落到双键共轭与吸收紫光显黄；「红移」落到长波方向移动。",
+      "patterns": [
+        "结构性质→共轭吸光",
+        "红移→长波"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "化學的這門的結構決定性質",
+          "note": "结构决定性质"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "生成了双键共和解冻",
+          "note": "双键共和"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "就会像长波方向移动",
+          "note": "长波方向移动"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这就叫红尼",
+          "note": "红移"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「黄色是健康的颜色」玩笑判；「这就是世界都在变黄的化学本质」定论；「大家也不必太过自责」。",
+      "patterns": [
+        "玩笑健康判",
+        "化学本质定论",
+        "不必自责"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以黄色是建长的颜色",
+          "note": "黄色是健康的颜色"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是世界都无在变黄的化学本质",
+          "note": "变黄的化学本质"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "大家也不必 it 太过自责了",
+          "note": "不必太过自责"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先抛小学反射说，再否定「不是只有红色」走向吸收光谱；「难道就是本质吗」再审视反应类型。",
+      "patterns": [
+        "小学说再否定",
+        "本质吗再审视"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "小學老師都這麼驕傲",
+          "note": "小学老师都这么教"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "不是不知紅色",
+          "note": "不是只有红色"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "難道這就是世界變黃的本是決綠嗎",
+          "note": "难道就是本质吗"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "讓我們來審視一下這些變黃的化學反應",
+          "note": "审视化学反应"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "例证短句连珠「不知不觉就黄了」反复→光谱中段密讲→「所以呢」金句落地→弹幕互动放缓。",
+      "patterns": [
+        "就黄了反复",
+        "光谱密讲",
+        "金句落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "變成同,不知不絕就黃了",
+          "note": "就黄了"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "不絕就黃了",
+          "note": "就黄了"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "深層雙鍵同分,不知不絕就黃了",
+          "note": "就黄了"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是世界都无在变黄的化学本质",
+          "note": "化学本质"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "对吧"
+        },
+        {
+          "type": "discourse",
+          "form": "所以呢"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "有/有/有"
+        },
+        {
+          "type": "cta_danmu",
+          "form": "弹幕里面写出"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "對吧",
+          "note": "对吧"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "所以呢",
+          "note": "所以呢"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "有",
+          "note": "有重复"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "弹幕里面写出他们的多少合度",
+          "note": "弹幕里面写出"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇玩梗→例证的轻喜剧→纠正误解的认真→本质揭晓的满足→「不必自责」的安抚玩笑。",
+      "patterns": [
+        "玩梗好奇",
+        "轻喜剧例证",
+        "认真揭晓",
+        "安抚玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "看讨一下,为什么事件万物最后都会变成黄色",
+          "note": "万物变黄问"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "除非你昨天吃了红星火龙果",
+          "note": "红心火龙果"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是世界都无在变黄的化学本质",
+          "note": "化学本质"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "大家也不必 it 太过自责了",
+          "note": "不必自责"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到氧气→变黄命运，用「多彩人生」价值选择与「本期全部内容」收束，弹幕作业回扣开场互动。",
+      "patterns": [
+        "氧气命运回扣",
+        "多彩选择",
+        "弹幕作业"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "人只 只要碰到氧气",
+          "note": "碰到氧气"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "就难免会变黄",
+          "note": "难免变黄"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "一些多 采的人生 万 万变广",
+          "note": "多彩的人生"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "全部内容 front",
+          "note": "全部内容"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弹幕写出共轭度；玩笑「堂堂正正搞颜色」；开放「怎么选择看你自己」。",
+      "patterns": [
+        "弹幕作业",
+        "搞颜色玩笑CTA",
+        "选择开放"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s94",
+          "snippet": "弹幕里面写出他们的多少合度",
+          "note": "弹幕写出"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "可以堂堂 真正找颜色",
+          "note": "堂堂正正搞颜色"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "怎么选择 就 看你自急 只是本期是",
+          "note": "怎么选择看你自己"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "火龙果例外梗、不知不觉就黄了口头禅、ASR崩坏仍保留口播节奏、弹幕共轭作业，毕导式理工玩笑。",
+      "patterns": [
+        "火龙果梗",
+        "就黄了口头禅",
+        "弹幕作业"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "除非你昨天吃了红星火龙果",
+          "note": "红心火龙果"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "變成同,不知不絕就黃了",
+          "note": "就黄了"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "弹幕里面写出他们的多少合度",
+          "note": "弹幕"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重：波长数字碎裂、多句「有」占位、后段几乎不可读；化学专名需重听校对。",
+      "patterns": [
+        "ASR碎裂",
+        "有占位",
+        "专名不可靠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "它會吸收剷剷在4-4-3-4-7-1-5-0-2",
+          "note": "波长数字碎"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "有",
+          "note": "有占位"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "我没想到 Tan  bo 脪 轮转",
+          "note": "尾段不可读"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式「先分析常见物品」；「难道本质吗→让我们审视反应」二次深入；结构决定性质推理链外化。",
+      "patterns": [
+        "先分析声明",
+        "二次审视",
+        "结构性质推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "为了解答这个问题,我们先分析一下一些常见物品变黄的原因",
+          "note": "先分析原因"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "難道這就是世界變黃的本是決綠嗎",
+          "note": "难道本质吗"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "讓我們來審視一下這些變黃的化學反應",
+          "note": "审视反应"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "化學的這門的結構決定性質",
+          "note": "结构决定性质"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "当中学理科听众：用小学老师对比拔高；弹幕互动当课堂提问；安抚「不必自责」把听众拉进玩笑共同体。",
+      "patterns": [
+        "中学理科生",
+        "弹幕课堂",
+        "玩笑共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "小學老師都這麼驕傲",
+          "note": "小学老师"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "弹幕里面写出他们的多少合度",
+          "note": "弹幕"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "大家也不必 it 太过自责了",
+          "note": "不必自责"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "叶绿素/秋天；染发本色黄；番茄红素；氧化变黄三连；紫的补色是黄；氧气。",
+      "patterns": [
+        "叶绿素",
+        "染发",
+        "番茄红素",
+        "补色黄",
+        "氧气"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为数页中很有绿色的业",
+          "note": "叶绿素相关"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "幼露出了目前头发的本色,也就是黄色",
+          "note": "头发本色黄"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "比如番茟的皮里面有大量的番茟紅素",
+          "note": "番茄红素"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "也就是黄色的了",
+          "note": "紫色补色黄色"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "人只 只要碰到氧气",
+          "note": "碰到氧气"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密互动→例证中密→光谱机制高密→氧化红移高密→收束玩笑低密；ASR后段有效密度崩塌。",
+      "patterns": [
+        "互动低密",
+        "机制高密",
+        "ASR崩塌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "現在你你最近的黃 and 色的東西",
+          "note": "互动"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "所以特定的分子只吸收特定顔色的光",
+          "note": "吸收机制"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这就叫红尼",
+          "note": "红移"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "你 这 这 这 这 这 这 这",
+          "note": "这这这噪声"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "总问→分例→常识纠正→分子原理→氧化归因→补色结论→人生隐喻收。",
+      "patterns": [
+        "总分例",
+        "纠正到原理",
+        "隐喻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "看讨一下,为什么事件万物最后都会变成黄色",
+          "note": "总问"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "数页为什么会变黄呢?",
+          "note": "分例"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "不是不知紅色",
+          "note": "纠正"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这就叫红尼",
+          "note": "红移"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "一些多 采的人生 万 万变广",
+          "note": "多彩人生"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理工脱口秀老师：用黄色搞黄双关讲真光谱，结尾道德升华式「多彩人生」。",
+      "patterns": [
+        "理工脱口秀",
+        "双关讲真科学",
+        "升华收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "z 科学 搞颜色",
+          "note": "科学搞颜色"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是世界都无在变黄的化学本质",
+          "note": "化学本质"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "一些多 采的人生 万 万变广",
+          "note": "多彩人生"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "不知不觉就黄了；紫的补色是黄；碰到氧气难免变黄；堂堂正正搞颜色。",
+      "patterns": [
+        "就黄了",
+        "紫补色黄",
+        "氧气难免",
+        "搞颜色"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "變成同,不知不絕就黃了",
+          "note": "就黄了"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "也就是黄色的了",
+          "note": "补色黄色"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "就难免会变黄",
+          "note": "难免变黄"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "可以堂堂 真正找颜色",
+          "note": "搞颜色"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「生活怪问→多例→纠正常识→分子机制→一句本质」科普骨架可直接改编，必须重录清除ASR并校对化学事实。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "看讨一下,为什么事件万物最后都会变成黄色",
+          "note": "怪问钩子"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这就叫红尼",
+          "note": "红移机制"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是世界都无在变黄的化学本质",
+          "note": "本质句"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s7",
+    "s8",
+    "s48",
+    "s72",
+    "s81",
+    "s85",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s82",
+    "s83",
+    "s84",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117"
+  ],
+  "fields_complete_25": true
+}

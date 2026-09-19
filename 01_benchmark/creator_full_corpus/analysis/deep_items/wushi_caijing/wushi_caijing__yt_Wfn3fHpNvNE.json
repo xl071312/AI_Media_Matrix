@@ -1,0 +1,896 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_Wfn3fHpNvNE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Wfn3fHpNvNE",
+  "source_sha256": "730a3559652704e30538bd46c8c79e9b385cba55a3448e852b198742f2eca779",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 37,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 11,
+      "snippet": "大陸時 世界杯決定,並"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "尚牢在帮世界hetia"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 3,
+      "snippet": "封耀斯"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 5,
+      "snippet": "尚�day"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 2,
+      "snippet": "尚牢"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "尸 尸 尸 �"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 18,
+      "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 1,
+      "snippet": "."
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "這領官圈成為世界被官方頂起了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "進入了世界被各大賽場內"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "還進入全美11的核心城市昌昭"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 20,
+      "snippet": "中國企業贊助世界,被是有一個抽象的故事了"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 3,
+      "snippet": "世界-"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 15,
+      "snippet": "是被其實對中國沒什麼價值 сы"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "大多數比賽,被安排在北京時間領程"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 18,
+      "snippet": "本界還擴大的球隊數量導致精彩度還下降"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 18,
+      "snippet": "關賽體驗還不如蘇昌昌昌昌昌耀等更加-"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "更接地的賽事"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "但如果刀"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 19,
+      "snippet": "中國不,不買國不買國際組組組組組組組組"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 18,
+      "snippet": "中國� will take over"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 11,
+      "snippet": "中國贊助企業的現下活動"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "社交話題"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 1,
+      "snippet": "營"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "以及場館内大量的logo"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "漏出"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "電視品牌贊助世界被很直接"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "電視品牌贊助世界被很直接"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "世界被全"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 15,
+      "snippet": "世界被喧囚最大電視觀看場景之一"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "看世界被用海信電視"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 31,
+      "snippet": "这种海信 电的信息 这种信息 这种信息 这种信息 这种信息 这"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 1,
+      "snippet": "l"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "你你你你你你你你"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "世界章写功能性"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 43,
+      "snippet": "在那一个年代,常常在商业上被捆绑虽是,而壮战的地争交互,又是个洪荣大、负杂、向海外转移"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 2,
+      "snippet": "圆毀"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "世界杯赞助议题硬切，尽管ASR严重损坏，仍可辨「官方顶起/进入赛场与美国核心城市」。",
+      "patterns": [
+        "赞助议题硬切",
+        "场景渗透钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這領官圈成為世界被官方頂起了",
+          "note": "官方顶起"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "進入了世界被各大賽場內",
+          "note": "进入各大赛场"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "還進入全美11的核心城市昌昭",
+          "note": "全美核心城市"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "中国企业赞助世界杯有「抽象故事」→赛事对中国时差/扩军减精彩价值存疑→但仍买曝光社交logo→电视品牌（海信）路径最直接。",
+      "patterns": [
+        "抽象赞助故事",
+        "价值存疑",
+        "仍买曝光",
+        "电视品牌直通"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "中國企業贊助世界,被是有一個抽象的故事了",
+          "note": "抽象的故事"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "对中国没什么价值"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "大多數比賽,被安排在北京時間領程",
+          "note": "北京时间凌晨"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "以及場館内大量的logo",
+          "note": "场馆logo"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "看世界杯用海信"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "sponsor_presence",
+          "note": "世界杯赞助进入赛场与城市（ASR噪声重）"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "value_skeptic",
+          "note": "对中国价值存疑：时差扩军精彩度"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "why_still_buy",
+          "note": "即便如此仍买线下活动社交话题与logo"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "tv_brand_case",
+          "note": "电视品牌赞助直通观赛场景以海信为例"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但如果」转折仍解释为何买；重复「电视品牌赞助很直接」强调结论。",
+      "patterns": [
+        "但如果转折",
+        "重复强调结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "但如果刀",
+          "note": "但如果"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "很直接"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "重复很直接"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "官方大场面渗透vs对中国观众时差价值低；世界杯招牌vs更接地气的赛事体验。",
+      "patterns": [
+        "场面/时差价值反差",
+        "招牌/接地气赛事反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "進入了世界被各大賽場內",
+          "note": "进入赛场"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "大多數比賽,被安排在北京時間領程",
+          "note": "北京时间凌晨"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更接地的賽事",
+          "note": "更接地的赛事"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "文本几乎无完整问句；价值判断以陈述代问，ASR下疑问功能弱。",
+      "patterns": [
+        "陈述代问",
+        "问句稀缺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没什么价值（判断代问）"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "中國企業贊助世界,被是有一個抽象的故事了",
+          "note": "抽象故事（议题）"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "海信「看世界杯用海信电视」作为品类赞助直通观赛场景的例子；扩军导致精彩度下降作赛事侧例。",
+      "patterns": [
+        "海信口号例",
+        "扩军副作用例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "本界還擴大的球隊數量導致精彩度還下降",
+          "note": "扩大球队数量"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "看世界杯用海信"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「赞助抽象故事」落到凌晨时差、logo漏出、海信电视观赛绑定。",
+      "patterns": [
+        "抽象→时差",
+        "曝光→logo",
+        "品类→海信口号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "大多數比賽,被安排在北京時間領程",
+          "note": "北京时间"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "漏出",
+          "note": "logo漏出"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "海信电视"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言对中国没什么价值、精彩度下降、电视品牌赞助很直接。",
+      "patterns": [
+        "价值否定",
+        "精彩度降",
+        "路径直接断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没什么价值"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "本界還擴大的球隊數量導致精彩度還下降",
+          "note": "精彩度还下降"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "很直接"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先贬价值再「但如果」承认仍买曝光；结构是让步修正而非事实纠错。",
+      "patterns": [
+        "贬后让步",
+        "价值/行为张力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没什么价值"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但如果刀",
+          "note": "但如果"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "中國贊助企業的現下活動",
+          "note": "线下活动"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场噪声短碎→价值怀疑稍长→曝光列举加速→海信口号后ASR崩坏煞停。",
+      "patterns": [
+        "噪声短碎",
+        "怀疑稍长",
+        "列举加速",
+        "崩坏煞停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸",
+          "note": "尸尸填充"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "价值判断"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "以及場館内大量的logo",
+          "note": "logo"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "这种海信 电的信息 这种信息 这种信息 这种信息 这种信息 这",
+          "note": "信息重复崩"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "尸尸尸"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "你你你你"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "组组组组"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸",
+          "note": "尸字连环"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "中國不,不買國不買國際組組組組組組組組",
+          "note": "组组组组"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "你你你你你你你你",
+          "note": "你你你你"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "话题冷起→嘲讽价值→无奈承认仍买→品类案例稍明→转录崩溃烦躁收。",
+      "patterns": [
+        "冷→嘲→无奈→稍明→烦躁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "中國企業贊助世界,被是有一個抽象的故事了",
+          "note": "抽象故事嘲"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没价值"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "海信稍明"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "你你你你你你你你",
+          "note": "重复烦躁"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "未能干净收束；停留在赞助功能性与海外转移残句，闭环被ASR截断。",
+      "patterns": [
+        "收束失败",
+        "ASR截断闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "世界章写功能性",
+          "note": "功能性"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "在那一个年代,常常在商业上被捆绑虽是,而壮战的地争交互,又是个洪荣大、负杂、向海",
+          "note": "向海外转移"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "圆毀",
+          "note": "圆毀截断"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无可见关注/点赞话术，样本过短且损坏，CTA缺失。",
+      "patterns": [
+        "CTA缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "圆毀",
+          "note": "无CTA残尾"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "仅品牌口号非互动CTA"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "大量填充重复与中英夹杂「will take over」显出口语现场，但更多是ASR伪信号。",
+      "patterns": [
+        "填充重复",
+        "中英夹杂",
+        "ASR伪口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "中國� will take over",
+          "note": "will take over"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸",
+          "note": "尸填充"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "这种海信 电的信息 这种信息 这种信息 这种信息 这种信息 这",
+          "note": "这种信息重复"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "全文ASR严重损坏，论点仅片段可辨；重复句与无意义填充占比高，分析可信度受限。",
+      "patterns": [
+        "ASR灾难",
+        "信息密度坍塌",
+        "重复噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "尸 尸 尸 �",
+          "note": "无意义填充"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "整句重复"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "这种海信 电的信息 这种信息 这种信息 这种信息 这种信息 这",
+          "note": "信息循环"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "仍可见「先质疑价值→再解释为何仍赞助→落到电视场景」的巫师式拆解骨架。",
+      "patterns": [
+        "质疑→解释→场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "先质疑"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "中國贊助企業的現下活動",
+          "note": "再解释活动"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "世界被喧囚最大電視觀看場景之一",
+          "note": "最大电视观看场景"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当看穿品牌赞助算盘的财经受众，语气偏揭底。",
+      "patterns": [
+        "看穿赞助的财经受众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "中國企業贊助世界,被是有一個抽象的故事了",
+          "note": "抽象故事"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "对你没价值"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "北京时间凌晨比赛、扩军减精彩、场馆logo、海信电视观赛绑定。",
+      "patterns": [
+        "时差锚",
+        "扩军锚",
+        "logo锚",
+        "海信锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "大多數比賽,被安排在北京時間領程",
+          "note": "北京时间"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "本界還擴大的球隊數量導致精彩度還下降",
+          "note": "扩大球队"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "海信电视"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场近零密噪声→中段价值论点短暂升密→品牌段中密→尾段崩塌近零。",
+      "patterns": [
+        "噪声近零",
+        "价值短暂升",
+        "品牌中",
+        "尾崩零"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸",
+          "note": "近零"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "升密"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "你你你你你你你你",
+          "note": "崩零"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "残片短句与偶发完整判断句夹杂；重复句无法形成排比美感。",
+      "patterns": [
+        "残片/整句夹杂",
+        "病态重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "完整判断"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "電視品牌贊助世界被很直接",
+          "note": "再重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "巫师财经一贯冷嘲赞助，本集人设被转录质量严重掩盖。",
+      "patterns": [
+        "冷嘲赞助",
+        "人设被ASR掩盖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "中國企業贊助世界,被是有一個抽象的故事了",
+          "note": "抽象故事冷嘲"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没价值"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「对中国没什么价值」「看世界杯用海信」残存可记，其余被噪声淹没。",
+      "patterns": [
+        "没价值口令",
+        "海信口号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "没什么价值"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "用海信电视"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR损坏导致论证链不完整，仅「价值存疑仍买曝光→品类场景直通」骨架可参考，原文不可直接迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是被其實對中國沒什麼價值 сы",
+          "note": "价值存疑可参考"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "看世界被用海信電視",
+          "note": "场景直通可参考"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": ",尸 尸 尸 尸 尸 尸 尸 尸 尸",
+          "note": "损坏不可用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s25",
+    "s31",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s13",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37"
+  ],
+  "fields_complete_25": true
+}

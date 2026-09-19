@@ -1,0 +1,1552 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_ic2qcE1gyTQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=ic2qcE1gyTQ",
+  "source_sha256": "cad39c9a7558417e5098cca7c87ee2d783e23ac573463c8b14dbdb54cf2dcaa5",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "何同學"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "這麼多粉絲在現場"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "你緊張嗎"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 3,
+      "snippet": "我還行"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "我挺好的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "你們喜歡何同學嗎"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "（沈默…）"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "這是一杯可口可樂"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "這是一杯百事可樂"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "你能喝出它們的區別嗎"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "玻璃瓶可樂"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "真的要比"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "塑料瓶的氣更足"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "市面上這麼多可樂"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "哪個最好喝"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "帶著這些問題"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "我們擺了4個攤"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "請1000人喝了一次冰可樂"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "這裡有三種可樂"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "請您品嘗一下"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "然後選出您覺得"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "最好喝的一杯"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "我是看你的節目長大的"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "啊這 您現在"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "九歲了是嗎"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "對對對"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 2,
+      "snippet": "這個"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "好的 玻璃瓶"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "非常感謝"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "這個（塑料瓶）好喝一點"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "聽裝的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "玻璃瓶"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "在喝原包裝可樂時"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "有44%的人覺得"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "玻璃瓶最好喝"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "接著是易拉罐"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "最後是塑料瓶"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "難道玻璃瓶里的可樂"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "真的更好喝"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "我們把3種包裝的可樂"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "送去了實驗室"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 10,
+      "snippet": "測試了二氧化碳氣容量"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "檢測出來"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "塑料瓶可樂里的氣"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "還真的要比"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "玻璃瓶和易拉罐"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 3,
+      "snippet": "少一點"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "但我們還做了一個測試"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "把3種包裝的可樂"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "倒進紙杯"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 3,
+      "snippet": "第四個"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 3,
+      "snippet": "也錯了"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 5,
+      "snippet": "第一個對了"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "第二個也對了"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 5,
+      "snippet": "第三個錯了"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 4,
+      "snippet": "非常遺憾"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "而我們都知道"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 8,
+      "snippet": "冰可樂是最好喝的"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 10,
+      "snippet": "可是可樂上的包裝寫了"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "3度的可樂最好喝"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 6,
+      "snippet": "真的是這樣嗎"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "我們給大家加了"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 6,
+      "snippet": "加冰塊的0度"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 2,
+      "snippet": "3度"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 3,
+      "snippet": "10度"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 10,
+      "snippet": "還有25度的常溫可樂"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 7,
+      "snippet": "結果3度的可樂"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 7,
+      "snippet": "投票佔比54%"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 5,
+      "snippet": "毫無懸念地"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 5,
+      "snippet": "拿下了第一"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "其餘三種溫度的可樂"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 9,
+      "snippet": "一共只佔到了46%"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 13,
+      "snippet": "我們認真嘗了一下3度的可樂"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "發現相比於冰可樂"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 6,
+      "snippet": "它不會被冰塊"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 4,
+      "snippet": "稀釋甜味"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 7,
+      "snippet": "產生的氣泡口感"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 6,
+      "snippet": "也更加的濃密"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 2,
+      "snippet": "最後"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 8,
+      "snippet": "市面上這麼多可樂"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 10,
+      "snippet": "到底哪個可樂最好喝呢"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 9,
+      "snippet": "可口這邊我們選擇了"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 4,
+      "snippet": "普通可口"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 10,
+      "snippet": "零度 健怡 纖維可樂"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 10,
+      "snippet": "百事可樂里有普通百事"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 5,
+      "snippet": "無糖 輕怡"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 5,
+      "snippet": "還有生可樂"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 11,
+      "snippet": "它們會根據品牌分為2組"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 9,
+      "snippet": "再決出各自的第一名"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 12,
+      "snippet": "然後在總決賽中1v1單挑"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 4,
+      "snippet": "二氧化碳"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 3,
+      "snippet": "焦糖色"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 2,
+      "snippet": "磷酸"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 3,
+      "snippet": "咖啡因"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 4,
+      "snippet": "食用香精"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 8,
+      "snippet": "基本沒有什麼區別"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 4,
+      "snippet": "但是百事"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 10,
+      "snippet": "多加了安賽蜜和蔗糖素"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 6,
+      "snippet": "這兩種甜味劑"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 5,
+      "snippet": "雖然不是糖"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 9,
+      "snippet": "卻比普通的糖還要甜"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 10,
+      "snippet": "但有可能有點甜過頭了"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 4,
+      "snippet": "導致大家"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 8,
+      "snippet": "更願意投可口一票"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 9,
+      "snippet": "我們再看電商平台上"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 9,
+      "snippet": "可口可樂1200萬"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 11,
+      "snippet": "百事710萬的年度銷量"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 4,
+      "snippet": "這個比例"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 6,
+      "snippet": "也和我們這個"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 6,
+      "snippet": "活動中的結果"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 4,
+      "snippet": "交相呼應"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 4,
+      "snippet": "非常感謝"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 9,
+      "snippet": "來參與測試的朋友們"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 5,
+      "snippet": "如果你覺得"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 9,
+      "snippet": "這期視頻有意思的話"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 8,
+      "snippet": "歡迎給我們點個贊"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 6,
+      "snippet": "如果你有什麼"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 6,
+      "snippet": "想測試的項目"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 9,
+      "snippet": "歡迎在評論區里留言"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "现场粉丝紧张互动冷场后，端出可口vs百事盲品问题，宣告请1000人喝冰可乐。",
+      "patterns": [
+        "现场互动",
+        "盲品设问",
+        "1000人宣言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "你緊張嗎",
+          "note": "紧张吗"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "這是一杯可口可樂",
+          "note": "可口"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "這是一杯百事可樂",
+          "note": "百事"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "請1000人喝了一次冰可樂",
+          "note": "1000人"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "包装偏好玻璃>罐>塑→实验室测CO2塑略少→倒纸杯再测（窗截）→3度可乐54%胜出→品牌对决可口胜→成分安赛蜜过甜解释→电商销量呼应。",
+      "patterns": [
+        "包装排序",
+        "气容量",
+        "3度最优",
+        "可口胜",
+        "甜味剂",
+        "销量呼应"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "玻璃44%"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "少一點",
+          "note": "塑气少"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "3度54%"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "更願意投可口一票",
+          "note": "投可口"
+        },
+        {
+          "sentence_id": "s186",
+          "snippet": "可口可樂1200萬",
+          "note": "1200万"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39"
+          ],
+          "function": "field_setup",
+          "note": "现场与包装盲选"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108"
+          ],
+          "function": "lab_temp",
+          "note": "气容量与温度测试"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s171",
+            "s172",
+            "s173",
+            "s174",
+            "s175",
+            "s176",
+            "s177",
+            "s178",
+            "s179",
+            "s180",
+            "s181",
+            "s182",
+            "s183",
+            "s184",
+            "s185",
+            "s186",
+            "s187",
+            "s188",
+            "s189",
+            "s190",
+            "s191",
+            "s192",
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200"
+          ],
+          "function": "brand_final",
+          "note": "品牌对决成分与销量CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「带着这些问题」「接着是」「但我们还做了一个测试」「最后」「我们再看电商」。",
+      "patterns": [
+        "带着问题",
+        "接着是",
+        "还做测试",
+        "最后",
+        "再看电商"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "帶著這些問題",
+          "note": "带着问题"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "接著是易拉罐",
+          "note": "接着是"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "但我們還做了一個測試",
+          "note": "还做测试"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "最後",
+          "note": "最后"
+        },
+        {
+          "sentence_id": "s185",
+          "snippet": "我們再看電商平台上",
+          "note": "再看电商"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "玻璃/罐/塑；原包装vs倒纸杯；0/3/10/25度；可口线vs百事线；实验室气vs主观票。",
+      "patterns": [
+        "三包装",
+        "原装vs纸杯",
+        "四温度",
+        "两品牌",
+        "主客观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "玻璃"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "倒進紙杯",
+          "note": "倒纸杯"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "結果3度的可樂",
+          "note": "3度"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "它們會根據品牌分為2組",
+          "note": "分两组"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "你紧张吗；能喝出区别吗；哪个最好喝；玻璃真更好喝吗；3度真最好吗；到底哪个最好喝。",
+      "patterns": [
+        "现场问",
+        "区别问",
+        "最好喝总问",
+        "真假验证问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "你緊張嗎",
+          "note": "紧张吗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "你能喝出它們的區別嗎",
+          "note": "区别吗"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "哪個最好喝",
+          "note": "哪个最好喝"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "真的更好喝",
+          "note": "真更好喝"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "真的是這樣嗎",
+          "note": "真是这样吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "1000人现场摊位；气容量送检；3度54%票；配方表安赛蜜蔗糖素；电商1200万vs710万。",
+      "patterns": [
+        "千人现场",
+        "送检",
+        "54%",
+        "甜味剂",
+        "销量"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "請1000人喝了一次冰可樂",
+          "note": "1000人"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "測試了二氧化碳氣容量",
+          "note": "气容量"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "54%"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "多加了安賽蜜和蔗糖素",
+          "note": "安赛蜜"
+        },
+        {
+          "sentence_id": "s186",
+          "snippet": "可口可樂1200萬",
+          "note": "1200万"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「更好喝」落到气容量与温度票；品牌偏好落到甜味剂过甜；结论呼应落到电商销量比。",
+      "patterns": [
+        "好喝→气/温度",
+        "偏好→甜味剂",
+        "结论→销量"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "塑料瓶可樂里的氣",
+          "note": "塑气少"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "稀釋甜味",
+          "note": "不被冰稀释"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "但有可能有點甜過頭了",
+          "note": "甜过头"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "交相呼應",
+          "note": "交相呼应"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "毫无悬念拿下第一；可能甜过头；交相呼应；非常遗憾（现场判错）。",
+      "patterns": [
+        "毫无悬念",
+        "甜过头",
+        "交相呼应",
+        "非常遗憾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s99",
+          "snippet": "毫無懸念地",
+          "note": "毫无悬念"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "但有可能有點甜過頭了",
+          "note": "甜过头"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "交相呼應",
+          "note": "呼应"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "非常遺憾",
+          "note": "非常遗憾"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "原包装玻璃胜后用倒杯测试挑战「包装本身」；包装写3度用四温度实证而非盲信。",
+      "patterns": [
+        "倒杯挑战包装",
+        "实证3度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "但我們還做了一個測試",
+          "note": "还做测试"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "3度的可樂最好喝",
+          "note": "包装写3度"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "結果3度的可樂",
+          "note": "结果验证"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "现场碎句快→结果播报中速→实验室插入→温度段加速→品牌决赛中长→感谢CTA慢。",
+      "patterns": [
+        "现场碎",
+        "播报中",
+        "温度加速",
+        "CTA慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "啊這 您現在",
+          "note": "啊这"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "有44%的人覺得",
+          "note": "44%"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "54%"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "歡迎給我們點個贊",
+          "note": "点赞"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "紧张玩笑→好奇盲品→数据满足→温度确幸→品牌拉扯→感谢温暖。",
+      "patterns": [
+        "玩笑",
+        "好奇",
+        "满足",
+        "确幸",
+        "温暖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我還行",
+          "note": "还行"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "哪個最好喝",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "数据"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "拿下了第一",
+          "note": "第一"
+        },
+        {
+          "sentence_id": "s192",
+          "snippet": "非常感謝",
+          "note": "感谢"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「哪个最好喝」落到可口胜出+销量呼应，感谢参与并邀评论出题。",
+      "patterns": [
+        "回扣最好喝",
+        "销量呼应",
+        "邀出题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "哪個最好喝",
+          "note": "最好喝"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "更願意投可口一票",
+          "note": "投可口"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "想測試的項目",
+          "note": "评论留言"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "有意思就点赞；想测什么评论区留言。",
+      "patterns": [
+        "点赞",
+        "评论出题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s196",
+          "snippet": "歡迎給我們點個贊",
+          "note": "点个赞"
+        },
+        {
+          "sentence_id": "s199",
+          "snippet": "歡迎在評論區里留言",
+          "note": "评论区留言"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「我是看你节目长大的」「九岁了是吗」现场荒诞对话；具体54%/44%票。",
+      "patterns": [
+        "现场荒诞对话",
+        "具体票数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "我是看你的節目長大的",
+          "note": "看节目长大"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "九歲了是嗎",
+          "note": "九岁"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "54%"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗严重截断纸杯段与决赛细节；千人样本代表性不透明；成分解释偏单因。",
+      "patterns": [
+        "窗截断",
+        "样本不透明",
+        "单因解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "倒進紙杯",
+          "note": "倒纸杯后截断"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "請1000人喝了一次冰可樂",
+          "note": "1000人"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "但有可能有點甜過頭了",
+          "note": "甜过头"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「主观票→实验室→再盲测温度/品牌」的多层证伪设计。",
+      "patterns": [
+        "多层证伪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "我們把3種包裝的可樂",
+          "note": "送实验室"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "但我們還做了一個測試",
+          "note": "再测试"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我們給大家加了",
+          "note": "加温度组"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把粉丝当实验被试与共谋；结尾邀请出题变成选题会。",
+      "patterns": [
+        "被试共谋",
+        "评论选题会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "請您品嘗一下",
+          "note": "请您品尝"
+        },
+        {
+          "sentence_id": "s198",
+          "snippet": "想測試的項目",
+          "note": "想测试的项目"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1000人；玻璃44%；3度54%；安赛蜜；可口1200万百事710万。",
+      "patterns": [
+        "1000人",
+        "44%",
+        "54%",
+        "安赛蜜",
+        "销量比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "請1000人喝了一次冰可樂",
+          "note": "1000"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "44%"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "54%"
+        },
+        {
+          "sentence_id": "s186",
+          "snippet": "可口可樂1200萬",
+          "note": "1200万"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "现场低密互动→包装结果中密→实验室抬升→温度高峰→成分与销量高峰→CTA降。",
+      "patterns": [
+        "互动低",
+        "结果中",
+        "温度峰",
+        "成分峰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你們喜歡何同學嗎",
+          "note": "互动"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "结果"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "温度"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "多加了安賽蜜和蔗糖素",
+          "note": "成分"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现场问答短轮换；结果「百分之」播报句；成分名词并列句。",
+      "patterns": [
+        "短轮换",
+        "百分比播报",
+        "名词并列"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "你能喝出它們的區別嗎",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "44%"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "二氧化碳",
+          "note": "二氧化碳"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学「认真玩」实验主持人：用千人摊位把口味争端做成可重复测试。",
+      "patterns": [
+        "认真玩",
+        "可重复测试"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我們擺了4個攤",
+          "note": "摆了4个摊"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "測試了二氧化碳氣容量",
+          "note": "测气容量"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "1000人冰可乐；玻璃瓶44%；3度54%；可口赢；电商销量呼应。",
+      "patterns": [
+        "1000人",
+        "玻璃44%",
+        "3度",
+        "可口赢",
+        "销量呼应"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "請1000人喝了一次冰可樂",
+          "note": "1000"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玻璃瓶最好喝",
+          "note": "玻璃"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "投票佔比54%",
+          "note": "3度"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "更願意投可口一票",
+          "note": "可口"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "交相呼應",
+          "note": "呼应"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "大众争议→分层盲测→实验室辅助→销量外验的测试视频骨架可改编观宇「打假/对比」口播，需补全截断段并交代样本。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "帶著這些問題",
+          "note": "问题清单"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "但我們還做了一個測試",
+          "note": "分层再测"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "交相呼應",
+          "note": "外验"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s171",
+    "s172",
+    "s173",
+    "s174",
+    "s175",
+    "s176",
+    "s177",
+    "s178",
+    "s179",
+    "s180",
+    "s181",
+    "s182",
+    "s183",
+    "s184",
+    "s185",
+    "s186",
+    "s187",
+    "s188",
+    "s189",
+    "s190",
+    "s191",
+    "s192",
+    "s193",
+    "s194",
+    "s195",
+    "s196",
+    "s197",
+    "s198",
+    "s199",
+    "s200"
+  ],
+  "fields_complete_25": true
+}

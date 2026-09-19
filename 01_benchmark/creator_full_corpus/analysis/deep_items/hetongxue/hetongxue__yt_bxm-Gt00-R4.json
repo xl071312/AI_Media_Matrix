@@ -1,0 +1,1396 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_bxm-Gt00-R4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=bxm-Gt00-R4",
+  "source_sha256": "dbdaac401a95f4e1ae2daea7cf05f8b5f6011871677eaeb91efabe3c6a4e8f20",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "為了能看見音樂"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "我們花兩年"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "做了一台魔法鋼琴"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "之所以會做這個"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "是因為兩年前"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "我剛開始學鋼琴時"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "總是感覺它缺了點什麼"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "幾百年來"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "我們都只能通過聲音"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "和演奏者的動作"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "來感受鋼琴的魅力"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 5,
+      "snippet": "有沒有可能"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "給這個古老的樂器增加一個維度"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "讓我們能真正地看到音樂呢"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "而網上早就有了這樣的視頻"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "彈奏時光會迸發出來"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "如夢幻一般"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "第一眼我就被這個效果"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 3,
+      "snippet": "擊中了"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "只不過這些光都是假的"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "是特效做的"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 12,
+      "snippet": "如果這一切能在現實中發生"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 6,
+      "snippet": "那該有多帥啊"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "所以我開始了嘗試"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "但當時的我萬萬沒有想到"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "這一試"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "就是兩年"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 14,
+      "snippet": "我們經歷了無數次的測試和迭代"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "做了四個"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "原理各異的視覺鋼琴原型"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "為了能真正駕馭這台"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "會發光的樂器"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "我也練習了兩年琴技"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "本視頻不含任何AI"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "今天就帶大家走上一段"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "光影與音符的旅程"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "這個效果的核心是找到一種"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "能憑空上升還能發光的東西"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "我們最先想到了"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 1,
+      "snippet": "煙"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "這是一個影視煙機"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "可以噴出好看的煙"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "那假如"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "我們在鋼琴後面放一排煙機"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 10,
+      "snippet": "按下琴鍵後讓煙升上來"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "再用激光把煙點亮"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 13,
+      "snippet": "是不是就會有炫酷的效果了呢"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "讓我們試一試吧"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "這是我們的第一版視覺鋼琴"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 10,
+      "snippet": "第一眼真的驚艷到我了"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 6,
+      "snippet": "液滴搭配燈光"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 10,
+      "snippet": "給了人一種魔法的感覺"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 6,
+      "snippet": "但是看得久了"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 7,
+      "snippet": "還是有很多問題"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 6,
+      "snippet": "它好看的地方"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 9,
+      "snippet": "主要集中在鋼琴下面"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 6,
+      "snippet": "液滴升上去後"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 5,
+      "snippet": "因為照不到"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 7,
+      "snippet": "就不怎麼好看了"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 7,
+      "snippet": "我們試著再加燈"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 9,
+      "snippet": "把上面的液滴也點亮"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 6,
+      "snippet": "但是效果一般"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 6,
+      "snippet": "而且升上去後"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 6,
+      "snippet": "就開始亂飄了"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 14,
+      "snippet": "所以我們又嘗試給針管配玻璃管"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 5,
+      "snippet": "讓液滴走直"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 7,
+      "snippet": "但放了玻璃管後"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 10,
+      "snippet": "就更沒有魔法的感覺了"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 6,
+      "snippet": "我們甚至試過"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 9,
+      "snippet": "把環境溶液的折射率"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 8,
+      "snippet": "調得和玻璃管一致"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 7,
+      "snippet": "讓缸重新變透明"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 9,
+      "snippet": "這事還真是挺神奇的"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 7,
+      "snippet": "大家看這杯是水"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 11,
+      "snippet": "這杯是我們調配過的溶液"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 11,
+      "snippet": "把玻璃棒同時放進去之後"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 9,
+      "snippet": "這杯里的就看不見了"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 9,
+      "snippet": "但是在管子多了之後"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 10,
+      "snippet": "這麼操作的效果並不好"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 3,
+      "snippet": "到這裡"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 16,
+      "snippet": "這個項目已經斷斷續續地推進了兩年"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 7,
+      "snippet": "我們已經試過了"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 8,
+      "snippet": "所有能想到的方案"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 13,
+      "snippet": "我實在是不知道還能怎麼辦了"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 8,
+      "snippet": "我們過去很多項目"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 10,
+      "snippet": "都因為效果不好放棄了"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 8,
+      "snippet": "但是從來沒有一個"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 14,
+      "snippet": "投入了這麼多時間和精力的項目"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 3,
+      "snippet": "失敗過"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 12,
+      "snippet": "能演奏那個我腦海裡的鋼琴"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 12,
+      "snippet": "給這個視頻一個最好的結尾"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 6,
+      "snippet": "我不敢說每天"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 4,
+      "snippet": "但下班後"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 5,
+      "snippet": "只要有時間"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 4,
+      "snippet": "就會練琴"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 3,
+      "snippet": "到現在"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 6,
+      "snippet": "已經快三年了"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 5,
+      "snippet": "OK 各位"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 10,
+      "snippet": "非常感謝你能看到這裡"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 10,
+      "snippet": "做這種項目的風險很大"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 7,
+      "snippet": "我們得不斷嘗試"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 6,
+      "snippet": "不斷推倒重來"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 8,
+      "snippet": "而這次的合作夥伴"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 14,
+      "snippet": "是一個同樣願意探索極限的品牌"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 2,
+      "snippet": "紅魔"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 13,
+      "snippet": "在手機背面越來越突出的當下"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 7,
+      "snippet": "紅魔做到了全平"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 7,
+      "snippet": "當手機內部散熱"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 7,
+      "snippet": "已經達到極限時"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 11,
+      "snippet": "他們整出了手機里的風冷"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 15,
+      "snippet": "而全新升級的紅魔11 Pro+"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 5,
+      "snippet": "甚至將水冷"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 6,
+      "snippet": "結合進手機中"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 6,
+      "snippet": "配置也是拉滿"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 5,
+      "snippet": "在給你滿滿"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 7,
+      "snippet": "情緒價值的同時"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 12,
+      "snippet": "也能帶來非常好的遊戲體驗"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 6,
+      "snippet": "大家新年快樂"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 5,
+      "snippet": "再見朋友們"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "为看见音乐花两年做魔法钢琴：学琴缺维→网上特效光击中→若现实发生该多帅。",
+      "patterns": [
+        "使命开场",
+        "缺维动机",
+        "特效羡慕钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了能看見音樂",
+          "note": "看见音乐"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "做了一台魔法鋼琴",
+          "note": "魔法钢琴"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "擊中了",
+          "note": "击中了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "要给钢琴加可见维度→特效是假的故自研→多方案迭代两年→液滴有魔法但有缺陷→坚持练琴收束+赞助。",
+      "patterns": [
+        "加维主张",
+        "真做非特效",
+        "迭代失败学习",
+        "赞助收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "給這個古老的樂器增加一個維度",
+          "note": "增加维度"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "是特效做的",
+          "note": "特效是假"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們經歷了無數次的測試和迭代",
+          "note": "无数次迭代"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "給了人一種魔法的感覺",
+          "note": "魔法感觉"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "看见音乐动机与两年承诺",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s192",
+            "s193",
+            "s194",
+            "s195",
+            "s196",
+            "s197",
+            "s198",
+            "s199",
+            "s200",
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211"
+          ],
+          "function": "液滴方案问题与玻璃管折射率尝试",
+          "note": "中段迭代"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s394",
+            "s395",
+            "s396",
+            "s397",
+            "s398",
+            "s399",
+            "s400",
+            "s401",
+            "s402",
+            "s403",
+            "s404",
+            "s405",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423"
+          ],
+          "function": "练琴收束与红魔赞助CTA",
+          "note": "结尾"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "“之所以会做这个是因为”“所以我开始了尝试”“但是看得久了”“到这里”推进时间线。",
+      "patterns": [
+        "之所以因为",
+        "所以开始尝试",
+        "但是久了",
+        "到这里"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "之所以會做這個",
+          "note": "之所以"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以我開始了嘗試",
+          "note": "所以开始"
+        },
+        {
+          "sentence_id": "s195",
+          "snippet": "但是看得久了",
+          "note": "但是久了"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "到這裡",
+          "note": "到这里"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "声音动作感受vs看见音乐；网上假光vs现实真做；液滴魔法感vs加玻璃管后无魔法。",
+      "patterns": [
+        "听vs看",
+        "假特效vs真造物",
+        "魔法感vs工程感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我們都只能通過聲音",
+          "note": "只能通过声音"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "只不過這些光都是假的",
+          "note": "光都是假的"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "就更沒有魔法的感覺了",
+          "note": "更没魔法感"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "“有没有可能增加维度让我们看到音乐呢”核心设问驱动整片。",
+      "patterns": [
+        "有没有可能设问",
+        "看见音乐总问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "有沒有可能",
+          "note": "有没有可能"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "讓我們能真正地看到音樂呢",
+          "note": "看到音乐呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "网上光效视频、影视烟机方案、液滴加灯、折射率调透明玻璃杯演示。",
+      "patterns": [
+        "网上视频例",
+        "烟机原型例",
+        "折射率演示例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而網上早就有了這樣的視頻",
+          "note": "网上视频"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "這是一個影視煙機",
+          "note": "影视烟机"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "大家看這杯是水",
+          "note": "这杯是水"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "“看见音乐”落到光会迸发；“折射率一致”落到玻璃棒放进溶液看不见。",
+      "patterns": [
+        "看见音乐→光迸发",
+        "折射率→玻璃棒消失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "彈奏時光會迸發出來",
+          "note": "光会迸发"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "這杯里的就看不見了",
+          "note": "就看不见了"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "“击中了”“该有多帅”“第一眼真的惊艳”“更没有魔法的感觉”审美判断鲜明。",
+      "patterns": [
+        "击中惊艳",
+        "帅审美",
+        "魔法感判决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "擊中了",
+          "note": "击中了"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "那該有多帥啊",
+          "note": "该有多帅"
+        },
+        {
+          "sentence_id": "s210",
+          "snippet": "就更沒有魔法的感覺了",
+          "note": "没魔法感"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认看得久问题多、加灯效果一般、玻璃管破坏魔法，甚至坦言不知道怎么办。",
+      "patterns": [
+        "久看问题自纠",
+        "方案失败承认",
+        "不知怎么办"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s196",
+          "snippet": "還是有很多問題",
+          "note": "很多问题"
+        },
+        {
+          "sentence_id": "s204",
+          "snippet": "但是效果一般",
+          "note": "效果一般"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "我實在是不知道還能怎麼辦了",
+          "note": "不知道怎么办"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句使命开场→迭代段中长叙述→困境停顿→赞助段说明文节奏。",
+      "patterns": [
+        "使命短句",
+        "迭代叙述",
+        "困境停顿",
+        "赞助说明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "做了一台魔法鋼琴",
+          "note": "短句钢琴"
+        },
+        {
+          "sentence_id": "s207",
+          "snippet": "所以我們又嘗試給針管配玻璃管",
+          "note": "迭代叙述"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "我實在是不知道還能怎麼辦了",
+          "note": "困境"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "浪漫动机→击中兴奋→两年艰辛→液滴惊艳再失落→坚持练琴温情→赞助收。",
+      "patterns": [
+        "浪漫",
+        "兴奋",
+        "艰辛",
+        "惊艳失落",
+        "温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "擊中了",
+          "note": "击中兴奋"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就是兩年",
+          "note": "就是两年"
+        },
+        {
+          "sentence_id": "s192",
+          "snippet": "第一眼真的驚艷到我了",
+          "note": "惊艳"
+        },
+        {
+          "sentence_id": "s401",
+          "snippet": "已經快三年了",
+          "note": "快三年练琴"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用练琴接近脑海中钢琴给视频最好结尾，呼应开场看见音乐；新年快乐作礼节收。",
+      "patterns": [
+        "练琴呼应开场",
+        "最好结尾",
+        "新年快乐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s394",
+          "snippet": "能演奏那個我腦海裡的鋼琴",
+          "note": "脑海钢琴"
+        },
+        {
+          "sentence_id": "s395",
+          "snippet": "給這個視頻一個最好的結尾",
+          "note": "最好结尾"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "大家新年快樂",
+          "note": "新年快乐"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "感谢看到这里+红魔产品植入（全平/风冷/水冷）+新年快乐再见。",
+      "patterns": [
+        "感谢看到这里",
+        "品牌极限对位植入",
+        "节日告别"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s403",
+          "snippet": "非常感謝你能看到這裡",
+          "note": "感谢看到这里"
+        },
+        {
+          "sentence_id": "s409",
+          "snippet": "紅魔",
+          "note": "红魔"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "再見朋友們",
+          "note": "再见朋友们"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "本视频不含AI声明、折射率土法演示、两年失败坦白，强创作者身体感。",
+      "patterns": [
+        "不含AI声明",
+        "土法演示",
+        "失败坦白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "本視頻不含任何AI",
+          "note": "不含任何AI"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "大家看這杯是水",
+          "note": "杯子演示"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "我實在是不知道還能怎麼辦了",
+          "note": "不知道怎么办"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断使成功方案段落缺失；结尾硬广与造物叙事缝合偏陡。",
+      "patterns": [
+        "窗口截断",
+        "硬广缝合陡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s230",
+          "snippet": "投入了這麼多時間和精力的項目",
+          "note": "截断前困境"
+        },
+        {
+          "sentence_id": "s409",
+          "snippet": "紅魔",
+          "note": "硬广切入"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开假设链：烟机+激光→液滴→加灯→玻璃管→调折射率，展示试错思维。",
+      "patterns": [
+        "假如方案链",
+        "试错暴露",
+        "不知怎么办坦诚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "那假如",
+          "note": "那假如"
+        },
+        {
+          "sentence_id": "s202",
+          "snippet": "我們試著再加燈",
+          "note": "试着再加灯"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "我實在是不知道還能怎麼辦了",
+          "note": "坦诚困境"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "带大家走上光影旅程；大家看这杯；OK各位感谢，观众=同行见证者。",
+      "patterns": [
+        "带大家旅程",
+        "大家看演示",
+        "OK各位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "今天就帶大家走上一段",
+          "note": "带大家走上"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "大家看這杯是水",
+          "note": "大家看"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "OK 各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "魔法钢琴、影视烟机、液滴针管玻璃管、折射率溶液、红魔11 Pro+。",
+      "patterns": [
+        "钢琴实物",
+        "烟机液滴",
+        "折射率",
+        "红魔型号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "做了一台魔法鋼琴",
+          "note": "魔法钢琴"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "這是一個影視煙機",
+          "note": "烟机"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "而全新升級的紅魔11 Pro+",
+          "note": "红魔11"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密动机→迭代段高密工程细节→情感段疏→赞助中密参数。",
+      "patterns": [
+        "动机中密",
+        "工程高密",
+        "情感疏",
+        "赞助中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "給這個古老的樂器增加一個維度",
+          "note": "动机"
+        },
+        {
+          "sentence_id": "s212",
+          "snippet": "把環境溶液的折射率",
+          "note": "折射率密"
+        },
+        {
+          "sentence_id": "s399",
+          "snippet": "就會練琴",
+          "note": "练琴疏"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "动机→网感钩→承诺两年→方案迭代→困境→练琴→赞助告别。",
+      "patterns": [
+        "动机到迭代",
+        "困境到练琴",
+        "赞助告别流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了能看見音樂",
+          "note": "动机"
+        },
+        {
+          "sentence_id": "s196",
+          "snippet": "還是有很多問題",
+          "note": "困境"
+        },
+        {
+          "sentence_id": "s407",
+          "snippet": "而這次的合作夥伴",
+          "note": "赞助"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学造物人设：浪漫工程师，敢说失败，审美词“魔法/帅”高频。",
+      "patterns": [
+        "浪漫工程师",
+        "公开失败",
+        "魔法审美"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "那該有多帥啊",
+          "note": "多帅"
+        },
+        {
+          "sentence_id": "s228",
+          "snippet": "都因為效果不好放棄了",
+          "note": "放弃过项目"
+        },
+        {
+          "sentence_id": "s194",
+          "snippet": "給了人一種魔法的感覺",
+          "note": "魔法感觉"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "看见音乐/魔法钢琴、假光特效、玻璃棒消失、不含AI、红魔对位极限。",
+      "patterns": [
+        "看见音乐",
+        "假光",
+        "玻璃棒消失",
+        "不含AI"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了能看見音樂",
+          "note": "看见音乐"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "只不過這些光都是假的",
+          "note": "光是假的"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "這杯里的就看不見了",
+          "note": "看不见了"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "本視頻不含任何AI",
+          "note": "不含AI"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "缺维动机→真做非特效→公开试错→情感收束，观屿造物/评测长视频结构可直接复用；赞助对位话术可ADAPT。",
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "給這個古老的樂器增加一個維度",
+          "note": "缺维动机"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們經歷了無數次的測試和迭代",
+          "note": "公开试错"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "本視頻不含任何AI",
+          "note": "不含AI声明"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s19",
+    "s13",
+    "s21",
+    "s28",
+    "s194",
+    "s4",
+    "s24",
+    "s195",
+    "s222",
+    "s9",
+    "s20",
+    "s210",
+    "s12",
+    "s14",
+    "s15",
+    "s42",
+    "s216",
+    "s16",
+    "s219",
+    "s23",
+    "s196",
+    "s204",
+    "s226",
+    "s207",
+    "s27",
+    "s192",
+    "s401",
+    "s394",
+    "s395",
+    "s422",
+    "s403",
+    "s409",
+    "s423",
+    "s34",
+    "s230",
+    "s44",
+    "s202",
+    "s35",
+    "s402",
+    "s415",
+    "s212",
+    "s399",
+    "s407",
+    "s228"
+  ],
+  "fields_complete_25": true
+}

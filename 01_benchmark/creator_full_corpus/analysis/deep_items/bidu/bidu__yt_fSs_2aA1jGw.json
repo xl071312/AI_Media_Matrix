@@ -1,0 +1,1545 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_fSs_2aA1jGw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=fSs_2aA1jGw",
+  "source_sha256": "d462c0112e6184b2a1cba91655000ab0befa99dd11c0b0f7f1561cf647853772",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 94,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "有很多粉丝朋友爱着我"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 17,
+      "snippet": "让我分析一下小潮院长视频的这个游戏"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "这个游戏是比谁的旦更硬啊"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "这话怎么这么怪"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "规则呢很简单"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "两个人各拿一个熟悉旦对撞"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "旦碎的一方书"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "诈一看这个游戏纯平密切"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "但碎了急需的旦之后我发现"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "这晚的入科学策略"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "看完我的视频"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "保你把所有人的旦动撞碎"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "小潮他们在提出一些撞旦丝"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "我们来分析一下"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "阿嬷作人为"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "把旦泡在冷血里热帐冷缩"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "但密度会变大就变得更硬"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "大家觉得这堆吗"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "我查到一篇1973年的论文"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "策了720个诞发现"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "温度越低"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "但可强度越大"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "所以阿嬷作是对的"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "纵老师捐网"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "玩游戏前还偷脱血论文呢"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "小潮也提立了策略"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "说颜色越深的弹越硬"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "黑弹就比白弹硬"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "大佳节的对吗"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "我查到一篇1974年的论文"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "发现深色的虽然弹可比白弹薄"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "但强度比白弹大"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "所以小潮也也是对的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "看老师捐网"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "玩游戏前还偷脱血论文呢"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "小澳提出的挑弹技巧"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "说小弹比大弹接应"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "大家觉得对吗"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "我查到一篇1977年的论文"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "策略100多弹发现"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "小弹弹可强度更大"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "所以小澳一也是对的"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "傲老师捐网"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 11,
+      "snippet": "玩游戏前还偷脱血论文呢"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "小澳还提出"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "动的弹比进食的弹更容易碎"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "大家觉得对吗"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "这个我没有查到论文"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "但我自己实验了十几次发现"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "好像是动弹更容易碎"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "我强行解释"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 10,
+      "snippet": "近弹往背手包着等在哪"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 15,
+      "snippet": "手掌推给近弹起到一个画劲的作用"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 14,
+      "snippet": "动弹往往是急着收紧拿出往前撞"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "没有画劲就容易碎"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 4,
+      "snippet": "总结一下"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "小弹比大弹好"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "深弹比白弹好"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "近弹比动弹好"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "冰弹比热弹好"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "总之小身近冰弹最好"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "我自己还想有很扯弹的方法"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 13,
+      "snippet": "大家应该听过这个卢博特之类"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "把融化的玻璃低入水中"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "就会变得非常尖艺"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "锤子杂艳艳鸡鸭都没事"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 11,
+      "snippet": "这是因为卢博特之类表面"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 12,
+      "snippet": "有很大的压印力上它很尖艺"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "我用力捏这个弹"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "弹可受到挤压产生压印力"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 12,
+      "snippet": "是不是能得到一个强化霸佛"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "成为颗卢博特之弹"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 7,
+      "snippet": "我们来实验一下"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 9,
+      "snippet": "现在我用力捏这个弹"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 2,
+      "snippet": "来吧"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 5,
+      "snippet": "1 2 3"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 4,
+      "snippet": "4剩两败"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 14,
+      "snippet": "说不定这个炉弹法真的有点用逐"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 18,
+      "snippet": "建议观众开展详细的研究发片paper"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 12,
+      "snippet": "我还有一种已如特钢的死路"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "把鸡弹用速泡一夜"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 9,
+      "snippet": "它就会变成一个软弹"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "软弹弹团非常柔韧"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 9,
+      "snippet": "虽然不可能撞破硬弹"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 9,
+      "snippet": "但自己也永远会回复"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "我们软弹赢不了"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 5,
+      "snippet": "但也不会输"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "就等硬弹受不了自己的口小"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "这就是软弹的生存智慧"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 13,
+      "snippet": "如何用科学让你的弹更加强大"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 5,
+      "snippet": "你学会了吗"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 10,
+      "snippet": "不要走开后面还有彩弹"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 7,
+      "snippet": "还要吃好几天呢"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "粉丝点名小潮院长撞蛋游戏，自嘲「这话怎么这么怪」后抛「保你撞碎所有人」承诺钩。",
+      "patterns": [
+        "粉丝点题钩",
+        "怪话自嘲",
+        "保你撞碎承诺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "让我分析一下小潮院长视频的这个游戏",
+          "note": "小潮院长视频"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "这话怎么这么怪"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "保你把所有人的旦动撞碎",
+          "note": "保你把所有人的旦撞碎"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "冷血变硬有论文→深色更硬有论文→小蛋更硬有论文→动蛋易碎自实验→总结小深静冰→卢博特捏强化→醋酸软蛋不输智慧。",
+      "patterns": [
+        "温度论文",
+        "颜色论文",
+        "大小论文",
+        "动静自实验",
+        "四维总结",
+        "卢博特强化",
+        "软蛋智慧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "所以阿嬷作是对的",
+          "note": "阿嬷作是对的"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以小潮也也是对的",
+          "note": "小潮也是对的"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "所以小澳一也是对的",
+          "note": "小澳也是对的"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "好像是动弹更容易碎",
+          "note": "动弹更容易碎"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "小深静冰最好"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "成为颗卢博特之弹",
+          "note": "卢博特之弹"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "也不会输"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "hook_rules",
+          "note": "点题规则与科学策略承诺"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "paper_triad",
+          "note": "温度/颜色/大小三篇论文验证"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "motion_and_summary",
+          "note": "动静实验与四维总结"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94"
+          ],
+          "function": "prince_rupert_soft",
+          "note": "卢博特捏蛋与软蛋智慧收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「规则呢很简单」「我们来分析」「大家觉得对吗」「所以…也是对的」「总结一下」「我还有一种」。",
+      "patterns": [
+        "规则很简单",
+        "大家觉得对吗循环",
+        "所以对的确认",
+        "总结一下",
+        "我还有一种"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "规则呢很简单",
+          "note": "规则很简单"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "大家觉得这堆吗"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "所以阿嬷作是对的",
+          "note": "所以是对的"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "总结一下",
+          "note": "总结一下"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "我还有一种已如特钢的死路",
+          "note": "我还有一种"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "冷vs热；深vs白；小vs大；静vs动；硬撞vs软蛋不输；通稿直觉vs论文/自实验。",
+      "patterns": [
+        "冷热",
+        "深白",
+        "小大",
+        "静动",
+        "硬软智慧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "但可强度越大",
+          "note": "温度低强度大"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但强度比白弹大",
+          "note": "深色强度大"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "小弹弹可强度更大",
+          "note": "小弹强度更大"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "好像是动弹更容易碎",
+          "note": "动更容易碎"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "我们软弹赢不了",
+          "note": "软弹赢不了"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "也不会输"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "循环「大家觉得对吗」四次验收；「是不是能得到强化霸王」；收束「你学会了吗」。",
+      "patterns": [
+        "大家觉得对吗循环",
+        "强化霸王设问",
+        "学会了吗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "大家觉得"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "大佳节的对吗",
+          "note": "对吗"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "大家觉得对吗",
+          "note": "对吗"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "大家觉得对吗",
+          "note": "对吗"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "是不是能得到一个强化霸佛",
+          "note": "是不是强化"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "你学会了吗",
+          "note": "学会了吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "1973/74/77论文样本；自实验十几次；卢博特玻璃滴；醋酸泡一夜软蛋。",
+      "patterns": [
+        "三篇论文例",
+        "自实验十几次",
+        "卢博特例",
+        "醋酸软蛋例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我查到一篇1973年的论文",
+          "note": "1973年论文"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "我查到一篇1974年的论文",
+          "note": "1974年"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我查到一篇1977年的论文",
+          "note": "1977年"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但我自己实验了十几次发现",
+          "note": "实验十几次"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "把融化的玻璃低入水中",
+          "note": "玻璃滴入水"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "把鸡弹用速泡一夜",
+          "note": "醋泡一夜"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「科学策略」落到冷深小静；「压应力强化」落到当场捏蛋倒数；「软智慧」落到醋泡软壳。",
+      "patterns": [
+        "策略→冷深小静",
+        "强化→捏蛋倒数",
+        "智慧→醋泡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "小深静冰"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "1 2 3",
+          "note": "1 2 3"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "把鸡弹用速泡一夜",
+          "note": "醋泡一夜"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这就是软弹的生存智慧",
+          "note": "软弹生存智慧"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "连续「所以…是对的」背书；断言小深静冰最好；软蛋赢不了但不会输。",
+      "patterns": [
+        "是对的背书",
+        "小深静冰最好",
+        "软蛋不输"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "所以阿嬷作是对的",
+          "note": "是对的"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以小潮也也是对的",
+          "note": "也是对的"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "最好"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "也不会输"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "颜色策略先疑后查论文确认；动静无论文改为自实验并「强行解释」缓冲；捏蛋「说不定有点用」保留不确定。",
+      "patterns": [
+        "疑后查确认",
+        "无论文改自实验",
+        "强行解释缓冲",
+        "说不定保留不确定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "大佳节的对吗",
+          "note": "大家觉得对吗"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以小潮也也是对的",
+          "note": "确认对"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这个我没有查到论文",
+          "note": "没有查到论文"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我强行解释",
+          "note": "强行解释"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "说不定这个炉弹法真的有点用逐",
+          "note": "说不定有点用"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "怪话钩→论文三段同构节拍→总结四短句→卢博特实验加速→软蛋金句放慢收。",
+      "patterns": [
+        "怪话钩",
+        "三段同构",
+        "四短句总结",
+        "实验加速",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "怪"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我查到一篇1973年的论文",
+          "note": "论文段"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "小弹比大弹好",
+          "note": "小弹比大弹好"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "1 2 3",
+          "note": "倒数"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "也不会输"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "这话怎么这么怪"
+        },
+        {
+          "type": "discourse",
+          "form": "大家觉得对吗"
+        },
+        {
+          "type": "discourse",
+          "form": "总结一下"
+        },
+        {
+          "type": "filler",
+          "form": "好"
+        },
+        {
+          "type": "repair",
+          "form": "强行解释"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "这话怎么这么怪"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "大家觉得"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我强行解释",
+          "note": "我强行解释"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "总结一下",
+          "note": "总结一下"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "好",
+          "note": "好"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "玩梗尴尬→好奇验证→连续「也是对的」爽感→无论文微慌→捏蛋紧张→软蛋豁达幽默收。",
+      "patterns": [
+        "尴尬玩梗",
+        "好奇",
+        "验证爽",
+        "微慌",
+        "紧张",
+        "豁达"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "怪"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我们来分析一下",
+          "note": "来分析"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "所以阿嬷作是对的",
+          "note": "对的爽"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这个我没有查到论文",
+          "note": "无论文"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "1 2 3",
+          "note": "倒数紧张"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这就是软弹的生存智慧",
+          "note": "生存智慧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇保你撞碎，中段四维策略+强化实验，收束「软蛋不会输」与「学会了吗/还有彩蛋」教学闭环。",
+      "patterns": [
+        "撞碎承诺开",
+        "策略中证",
+        "学会了吗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "保你把所有人的旦动撞碎",
+          "note": "保你撞碎"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "最好总结"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "你学会了吗",
+          "note": "学会了吗"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "不要走开后面还有彩弹",
+          "note": "还有彩蛋"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「看完保你撞碎」结果承诺；「建议观众发paper」；「学会了吗/不要走开还有彩蛋」留人。",
+      "patterns": [
+        "结果承诺CTA",
+        "发paper邀请",
+        "彩蛋留人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "保你把所有人的旦动撞碎",
+          "note": "保你撞碎"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "建议观众开展详细的研究发片paper",
+          "note": "建议发paper"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "你学会了吗",
+          "note": "学会了吗"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "不要走开后面还有彩弹",
+          "note": "不要走开"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "点名小潮院长、1973/74/77年份论文、自实验十几次、强行解释、卢博特/醋泡，实验口播脏锚。",
+      "patterns": [
+        "点名小潮",
+        "论文年份",
+        "自实验次数",
+        "强行解释",
+        "卢博特醋泡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "让我分析一下小潮院长视频的这个游戏",
+          "note": "小潮院长"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我查到一篇1973年的论文",
+          "note": "1973"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但我自己实验了十几次发现",
+          "note": "十几次"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我强行解释",
+          "note": "强行解释"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "大家应该听过这个卢博特之类",
+          "note": "卢博特"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR「旦/弹」错字多；论文细节被噪声糊；「捐网偷论文」玩梗重复三次可能腻；软蛋段偏鸡汤。",
+      "patterns": [
+        "ASR错字",
+        "论文细节糊",
+        "玩梗重复",
+        "软蛋鸡汤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "这个游戏是比谁的旦更硬啊",
+          "note": "旦更硬"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "玩游戏前还偷脱血论文呢",
+          "note": "偷脱血论文"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "玩游戏前还偷脱血论文呢",
+          "note": "重复捐网"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这就是软弹的生存智慧",
+          "note": "生存智慧"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外露「列策略→问观众→查论文/自实验→背书或强行解释→总结→加脑洞实验」科学沟通程序。",
+      "patterns": [
+        "问观众再查证",
+        "无论文改自实验",
+        "总结后加脑洞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "问观众"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我查到一篇1973年的论文",
+          "note": "查论文"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这个我没有查到论文",
+          "note": "无论文"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但我自己实验了十几次发现",
+          "note": "自实验"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "总结一下",
+          "note": "总结"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当可一起判对错的同学，用「大家觉得对吗」点名，再升为可发paper的研究者玩笑位。",
+      "patterns": [
+        "同学共判位",
+        "发paper玩笑位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "大家觉得"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "建议观众开展详细的研究发片paper",
+          "note": "建议观众发paper"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "小潮撞蛋、1973测720个、冷深小静冰、捏蛋1234、醋泡一夜、卢博特玻璃滴。",
+      "patterns": [
+        "小潮锚",
+        "1973/720锚",
+        "四维锚",
+        "捏蛋倒数锚",
+        "醋泡锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "让我分析一下小潮院长视频的这个游戏",
+          "note": "小潮"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "策了720个诞发现",
+          "note": "720个"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "小深静冰"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "1 2 3",
+          "note": "123"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "把鸡弹用速泡一夜",
+          "note": "醋泡"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密玩梗→三论文中高密同构→总结低密四句→卢博特/软蛋中密收。",
+      "patterns": [
+        "玩梗低密",
+        "论文高密",
+        "总结低密",
+        "脑洞中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我查到一篇1973年的论文",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "小弹比大弹好",
+          "note": "低密总结"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "把融化的玻璃低入水中",
+          "note": "中密卢博特"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句-论文-「所以对的」同构三轮；总结四短句排比；实验倒数数字句；软蛋对仗收。",
+      "patterns": [
+        "三轮同构",
+        "四短句排比",
+        "倒数数字",
+        "对仗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "问"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "所以阿嬷作是对的",
+          "note": "所以对"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "小弹比大弹好",
+          "note": "短句排比"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "1 2 3",
+          "note": "倒数"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "我们软弹赢不了",
+          "note": "赢不了"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "不输"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "玩梗科学家：用论文给网红策略背书，承认强行解释，用软蛋金句收科幻幽默。",
+      "patterns": [
+        "玩梗科学家",
+        "背书+强行解释",
+        "软蛋幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这话怎么这么怪",
+          "note": "怪话"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我强行解释",
+          "note": "强行解释"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "这就是软弹的生存智慧",
+          "note": "软弹智慧"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "保你撞碎；所以也是对的；小深静冰最好；软蛋不会输；学会了吗。",
+      "patterns": [
+        "保你撞碎",
+        "也是对的",
+        "小深静冰",
+        "不会输",
+        "学会了吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "保你把所有人的旦动撞碎",
+          "note": "保你撞碎"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以小潮也也是对的",
+          "note": "也是对的"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "总之小身近冰弹最好",
+          "note": "最好"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "但也不会输",
+          "note": "不会输"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "你学会了吗",
+          "note": "学会了吗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "粉丝点题→策略验证循环→总结→脑洞实验的科普骨架可改编观宇，需清理ASR并收敛重复玩梗。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "让我分析一下小潮院长视频的这个游戏",
+          "note": "点题"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大家觉得这堆吗",
+          "note": "验证循环"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "总结一下",
+          "note": "总结"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s12",
+    "s23",
+    "s33",
+    "s42",
+    "s50",
+    "s61",
+    "s72",
+    "s88",
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94"
+  ],
+  "fields_complete_25": true
+}

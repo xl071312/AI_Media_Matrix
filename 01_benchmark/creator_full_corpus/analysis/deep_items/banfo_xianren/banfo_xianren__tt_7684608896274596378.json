@@ -1,0 +1,869 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7684608896274596378",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7684608896274596378/",
+  "source_sha256": "b22fb32d41cc3ee84174c5818ce677413f6fecd1ecbdd14684bbb7e86f44e1eb",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 32,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "终于，果子的折叠屏来了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "（新闻来自北京日报）"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "就这个东西这两天各路测试视频，看的人很难绷。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 19,
+      "snippet": "那个折痕控制以及配置，只能说遥遥落后。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 17,
+      "snippet": "但，依然会卖得好，依然有的是人买。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "因为果子的用户，跑不了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "我也跑不了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 16,
+      "snippet": "虽然这东西的价格不便宜，但值得。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 12,
+      "snippet": "对会买果子的人而言值得。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 36,
+      "snippet": "你得知道会第一时间买最新一代果子而不是等第二年618再买的消费者的心态。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 47,
+      "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 50,
+      "snippet": "就像喜欢买特斯拉的人，人家只是要特斯拉，别的牌子什么新能源旧能源燃油混动自主合资"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 47,
+      "snippet": "能出到这个价位买手机的人，驱动人家决策的不是说这一代多牛，而是你得知道我用的是最"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "果子也很清楚这一点。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 69,
+      "snippet": "所以果子每次换代都得整点全新的配色，要么外形上多少得有点变动，不管是背部摄像头还"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 24,
+      "snippet": "从这个角度，折叠屏堪称史诗级更新，行业迎来大变。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 40,
+      "snippet": "这时候，你要非得说这个产品哪里不够好，那只能说对对对对对对，但人家买的人不在乎。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 15,
+      "snippet": "而且你知道价格了对吧，嘎嘎嘎。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 29,
+      "snippet": "竹板这么一打呀，别的咱不夸，就掏出咱这个果子折叠屏扇扇吧。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 43,
+      "snippet": "哎呀这个天咋这么热，哎呀你看我这个折叠屏真是用处不够多，是我不懂水果，只是有点钱"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 40,
+      "snippet": "哎呀哎呀哎呀还是你们懂得多，都是我买的错，不如你的鸿蒙和安卓，我只是有点钱烧的。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 27,
+      "snippet": "大概就是富哥直呼吧友懂得多，人家要的就是这么一个效果。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 66,
+      "snippet": "另一方面，得知道果子的存量用户，习惯了果子系统的用户，以及数据沉淀在果子里迁移成"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 24,
+      "snippet": "他们已经是离不开果子生态了，这是自己的赛博化身。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 48,
+      "snippet": "这里面会有相当部分对折叠屏感兴趣，只不过过去只能折叠屏和果子系统二选一，现在不用"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "这部分人，会非常非常多。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 27,
+      "snippet": "华为已经用销量证明了这个价位的产品受众足够多足够慷慨。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "那果子不做才是脑子有问题呢。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 43,
+      "snippet": "谁跟利润过不去，而且供应链被华为三星培养的那么成熟有趣，这个果子肯定也要来两口续"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 18,
+      "snippet": "所以，产品傻不傻的吧，钱先赚了再说。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "嘎嘎嘎。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "果子折叠屏终于来了，测试视频难绷+遥遥落后，立刻反转「依然会卖得好」。",
+      "patterns": [
+        "终于来了",
+        "难绷落后",
+        "反转照卖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "终于，果子的折叠屏来了。",
+          "note": "折叠屏来了"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "遥遥落后"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但，依然会卖得好，依然有的是人买。",
+          "note": "依然会卖得好"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "配置落后但果粉跑不了→首发心态要最新→外观必须可辨→存量生态迁移成本高→华为证明价位有人→钱先赚再说。",
+      "patterns": [
+        "果粉锁死",
+        "首发心态",
+        "外观可辨",
+        "生态迁移",
+        "价位验证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "因为果子的用户，跑不了。",
+          "note": "用户跑不了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "要最新的果子"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以果子每次换代都得整点全新的配色，要么外形上多少得有点变动，不管是背部摄像头还",
+          "note": "全新配色外形"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "另一方面，得知道果子的存量用户，习惯了果子系统的用户，以及数据沉淀在果子里迁移成",
+          "note": "迁移成本茫茫高"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "hook_lag_still_sells",
+          "note": "落后仍热卖钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "early_adopter_mindset",
+          "note": "首发心态与可辨更新"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "ecosystem_lock_close",
+          "note": "生态锁定与赚钱收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "因为/虽然/你得知道/从这个角度/另一方面/所以推进。",
+      "patterns": [
+        "因为果粉",
+        "你得知道",
+        "从这个角度",
+        "另一方面"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "因为果子的用户，跑不了。",
+          "note": "因为果子的用户"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "你得知道会第一时间买最新一代果子而不是等第二年618再买的消费者的心态。",
+          "note": "你得知道"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "从这个角度，折叠屏堪称史诗级更新，行业迎来大变。",
+          "note": "从这个角度"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "另一方面，得知道果子的存量用户，习惯了果子系统的用户，以及数据沉淀在果子里迁移成",
+          "note": "另一方面"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "遥遥落后 vs 依然热卖；产品好不好 vs 要不要最新果子；折叠屏与果子系统二选一 vs 现在不用选。",
+      "patterns": [
+        "落后vs热卖",
+        "性能vs身份",
+        "二选一vs不用选"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "遥遥落后"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但，依然会卖得好，依然有的是人买。",
+          "note": "依然会卖得好"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "不在乎咋样要最新"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这里面会有相当部分对折叠屏感兴趣，只不过过去只能折叠屏和果子系统二选一，现在不用",
+          "note": "不用选了"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎无真设问；反讽「买他干嘛」与「傻不傻」标题呼应。",
+      "patterns": [
+        "买他干嘛",
+        "傻不傻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "所以果子每次换代都得整点全新的配色，要么外形上多少得有点变动，不管是背部摄像头还",
+          "note": "不然买他干嘛"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "产品傻不傻的吧"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "特斯拉只买特斯拉类比；灵动岛/摄像头外形变动；华为销量证明价位；竹板快板戏仿富哥。",
+      "patterns": [
+        "特斯拉类比",
+        "外形符号",
+        "华为证明",
+        "快板戏仿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "就像喜欢买特斯拉的人，人家只是要特斯拉，别的牌子什么新能源旧能源燃油混动自主合资",
+          "note": "喜欢买特斯拉"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以果子每次换代都得整点全新的配色，要么外形上多少得有点变动，不管是背部摄像头还",
+          "note": "灵动岛摄像头"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "华为已经用销量证明了这个价位的产品受众足够多足够慷慨。",
+          "note": "华为销量证明"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "竹板这么一打呀，别的咱不夸，就掏出咱这个果子折叠屏扇扇吧。",
+          "note": "竹板这么一打"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "品牌锁定→跑不了/我也跑不了；身份消费→知道我用最新一代；生态→赛博化身。",
+      "patterns": [
+        "跑不了具象",
+        "最新一代身份",
+        "赛博化身"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "能出到这个价位买手机的人，驱动人家决策的不是说这一代多牛，而是你得知道我用的是最",
+          "note": "用的是最新一代"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "他们已经是离不开果子生态了，这是自己的赛博化身。",
+          "note": "赛博化身"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "遥遥落后、史诗级更新、脑子有问题才不做、钱先赚再说。",
+      "patterns": [
+        "遥遥落后",
+        "史诗级更新",
+        "脑子有问题",
+        "钱先赚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "遥遥落后"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "从这个角度，折叠屏堪称史诗级更新，行业迎来大变。",
+          "note": "史诗级更新"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "那果子不做才是脑子有问题呢。",
+          "note": "不做才脑子有问题"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先贬配置立刻承认自己也跑不了；「对对对」假装认错实为嘲讽批评者。",
+      "patterns": [
+        "自曝也跑不了",
+        "假认错真嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这时候，你要非得说这个产品哪里不够好，那只能说对对对对对对，但人家买的人不在乎。",
+          "note": "对对对对对对"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句锤「我也跑不了」「嘎嘎嘎」；快板戏仿拉长后短收「钱先赚」。",
+      "patterns": [
+        "短锤自曝",
+        "快板戏仿",
+        "短收赚钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "竹板这么一打呀，别的咱不夸，就掏出咱这个果子折叠屏扇扇吧。",
+          "note": "竹板这么一打"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嘎嘎嘎。",
+          "note": "嘎嘎嘎"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "难绷嘲讽→自我招供→快板戏谑→生态严肃→赚钱释然。",
+      "patterns": [
+        "嘲→招供→戏谑→严肃→释然"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "就这个东西这两天各路测试视频，看的人很难绷。",
+          "note": "很难绷"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "哎呀这个天咋这么热，哎呀你看我这个折叠屏真是用处不够多，是我不懂水果，只是有点钱",
+          "note": "有点钱烧的"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头傻不傻/落后仍卖→结尾傻不傻钱先赚+嘎嘎嘎，问题首尾咬合。",
+      "patterns": [
+        "傻不傻首尾",
+        "赚钱收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "遥遥落后"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "傻不傻钱先赚"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嘎嘎嘎。",
+          "note": "嘎嘎嘎"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；态度句「钱先赚再说」收束。",
+      "patterns": [
+        "无硬CTA",
+        "态度收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嘎嘎嘎。",
+          "note": "嘎嘎嘎"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "遥遥落后梗、对对对叠词、快板富哥、嘎嘎嘎笑。",
+      "patterns": [
+        "遥遥落后",
+        "对对对",
+        "快板富哥",
+        "嘎嘎嘎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "遥遥落后"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "这时候，你要非得说这个产品哪里不够好，那只能说对对对对对对，但人家买的人不在乎。",
+          "note": "对对对对对对"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "大概就是富哥直呼吧友懂得多，人家要的就是这么一个效果。",
+          "note": "富哥直呼"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嘎嘎嘎。",
+          "note": "嘎嘎嘎"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "论证偏果粉决定论；快板段娱乐强于信息；对产品技术短板一笔带过。",
+      "patterns": [
+        "决定论",
+        "戏仿稀释",
+        "技术一笔带过"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "根本不在乎咋样"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "竹板这么一打呀，别的咱不夸，就掏出咱这个果子折叠屏扇扇吧。",
+          "note": "竹板这么一打"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "折痕配置"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式拆首发消费者决策序：先要果子→要最新→其他不在选项。",
+      "patterns": [
+        "决策序拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你得知道会第一时间买最新一代果子而不是等第二年618再买的消费者的心态。",
+          "note": "你得知道心态"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "首先要果子其次最新"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把批评者写成「懂得多」被富哥戏仿；默认读者懂果粉与安卓对线语境。",
+      "patterns": [
+        "懂得多戏仿",
+        "果粉语境"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "哎呀哎呀哎呀还是你们懂得多，都是我买的错，不如你的鸿蒙和安卓，我只是有点钱烧的。",
+          "note": "还是你们懂得多"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "大概就是富哥直呼吧友懂得多，人家要的就是这么一个效果。",
+          "note": "富哥直呼吧友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "折痕测试、灵动岛、特斯拉、华为折叠销量、供应链三星华为。",
+      "patterns": [
+        "折痕",
+        "灵动岛",
+        "华为销量",
+        "供应链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那个折痕控制以及配置，只能说遥遥落后。",
+          "note": "折痕控制"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以果子每次换代都得整点全新的配色，要么外形上多少得有点变动，不管是背部摄像头还",
+          "note": "灵动岛"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "华为已经用销量证明了这个价位的产品受众足够多足够慷慨。",
+          "note": "华为销量"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "谁跟利润过不去，而且供应链被华为三星培养的那么成熟有趣，这个果子肯定也要来两口续",
+          "note": "华为三星供应链"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "事件低密→心态中密→快板低密娱乐→生态迁移高密→赚钱短收。",
+      "patterns": [
+        "低→中→娱乐低→生态高→短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "终于，果子的折叠屏来了。",
+          "note": "折叠屏来了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "决策心态"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "竹板这么一打呀，别的咱不夸，就掏出咱这个果子折叠屏扇扇吧。",
+          "note": "竹板"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "另一方面，得知道果子的存量用户，习惯了果子系统的用户，以及数据沉淀在果子里迁移成",
+          "note": "存量用户"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判连发；「非常」三叠；戏仿长段后两字「嘎嘎嘎」。",
+      "patterns": [
+        "短判连发",
+        "非常三叠",
+        "戏仿后拟声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但，依然会卖得好，依然有的是人买。",
+          "note": "依然会卖得好"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "这部分人，会非常非常多。",
+          "note": "非常非常非常多"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嘎嘎嘎。",
+          "note": "嘎嘎嘎"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式果粉自黑观察者：一边骂落后一边承认锁死，用快板把鄙视链反过来玩。",
+      "patterns": [
+        "果粉自黑",
+        "鄙视链反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "哎呀哎呀哎呀还是你们懂得多，都是我买的错，不如你的鸿蒙和安卓，我只是有点钱烧的。",
+          "note": "我只是有点钱烧的"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "遥遥落后仍热卖、我也跑不了、赛博化身、钱先赚再说嘎嘎嘎。",
+      "patterns": [
+        "落后仍卖",
+        "跑不了",
+        "赛博化身",
+        "钱先赚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但，依然会卖得好，依然有的是人买。",
+          "note": "依然会卖得好"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "我也跑不了。",
+          "note": "我也跑不了"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "他们已经是离不开果子生态了，这是自己的赛博化身。",
+          "note": "赛博化身"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚了再说"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "品牌锁定/身份消费/生态迁移成本叙事可直接迁移观宇谈硬件溢价与用户心智。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "人家根本不在乎这个东西咋样，人家首先是要果子，其次是要最新的果子，其他产品根本不",
+          "note": "要最新果子"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "另一方面，得知道果子的存量用户，习惯了果子系统的用户，以及数据沉淀在果子里迁移成",
+          "note": "迁移成本"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "所以，产品傻不傻的吧，钱先赚了再说。",
+          "note": "钱先赚"
+        }
+      ]
+    }
+  },
+  "fields_complete_25": true,
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s12",
+    "s16",
+    "s24",
+    "s31",
+    "s11",
+    "s17",
+    "s26",
+    "s13",
+    "s28",
+    "s20",
+    "s8",
+    "s14",
+    "s25",
+    "s29",
+    "s18",
+    "s32",
+    "s4",
+    "s21",
+    "s23",
+    "s22",
+    "s30",
+    "s27"
+  ]
+}

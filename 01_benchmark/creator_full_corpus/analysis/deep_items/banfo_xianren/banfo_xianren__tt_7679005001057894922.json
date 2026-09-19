@@ -1,0 +1,1429 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7679005001057894922",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7679005001057894922/",
+  "source_sha256": "e368b3104975752dedc0532f9ce4f0ebda15223edf298d2401f9002519a6fcb8",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 88,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 29,
+      "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "这么多年，他们居然整了点有用的东西。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 12,
+      "snippet": "但这个东西，还不够神经。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 23,
+      "snippet": "你试过在喝瑞幸的时候，多点一根百亿活菌吸管吗？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "就是这个东西。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 22,
+      "snippet": "是，我知道生吃活菌这种事情听起来有点毛毛的。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 18,
+      "snippet": "一开始我也觉得瑞幸弄这个东西是疯了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 38,
+      "snippet": "活菌这个词搭配的应该是胶头滴管而不是吸管，往嘴里放这个我真是要给自己壮壮胆。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 31,
+      "snippet": "但这几天，我买了好多杯瑞幸，每次都要多点一根这个百亿活菌吸管。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "我吸了一口。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 20,
+      "snippet": "活菌刺溜一下笑了，它说肠子啊，人生苦短。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 20,
+      "snippet": "来呀，快活呀，反正我，总拿外卖敷衍三餐。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "我为什么沉迷跟菌群接吻？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 14,
+      "snippet": "因为我的肠子早已被外卖折损。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 39,
+      "snippet": "我每天吃吃吃，吃到大肠让我滚，小肠问我为何如此心狠，为何对自己的肠胃如此残忍。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 43,
+      "snippet": "我咬着活菌吸管猛吸，仿佛要吸回被辜负的岁月点滴，雪白明月照在大地，藏着我最深处的秘密。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 35,
+      "snippet": "大肠嚼嚼嚼，小肠嘬嘬嘬，它们争抢起活菌火锅，它们把我的身体变成了餐桌。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 21,
+      "snippet": "大肠掐住小肠，小肠袭击大脑，大脑放弃思考。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 23,
+      "snippet": "大脑缺氧了，崩溃了，海马体和松果体一起爆炸了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "大脑说我要活菌！"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "我要活菌！"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 5,
+      "snippet": "我要活菌！"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 17,
+      "snippet": "这不是活菌，这是我给身体交的赎金。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "百亿活菌很多吗？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "这点赎金就够了吗？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "还远远不够。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 21,
+      "snippet": "哪怕百亿活菌，也救不了肠子消化外卖的工伤；"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 21,
+      "snippet": "哪怕百亿活菌，也换不回我从屁股溜走的健康。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "屁股对我说，崽种，直视我！"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "直视我的眼睛！"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "桀桀桀，知道你为什么便秘吗？"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "桀桀桀，知道你为什么得痔疮吗？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "桀桀桀，知道谁是身体的主人吗？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 24,
+      "snippet": "是大肠小肠，是踉踉跄跄，是牛马鸡羊，是匆匆忙忙。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 12,
+      "snippet": "是天道有常，是人生无常。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 56,
+      "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电话条件反射的【外卖放门口谢谢】。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "谢谢谢谢谢谢，感谢宇宙毁灭。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 38,
+      "snippet": "我突然想吃大粪浇灌的青菜了，但那可能不是大粪而是狗屎，我吃了的话狗吃什么呢？"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 38,
+      "snippet": "我怀念走地鸡了可我还不如走地鸡呢，我是笼养鸡，我只有显示屏那么大的方寸天地。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 21,
+      "snippet": "爪子踩在键盘上，在word里下出一个个蛋。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 26,
+      "snippet": "咯咯哒，咯咯哒，咯咯咯咯咯咯咯咯咯咯咯咯咯咯咯咯哒。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "我又吸了一口。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 19,
+      "snippet": "这块活菌比较大颗，在我嘴里没马上化开。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 20,
+      "snippet": "我嚼了一下，菌群哗啦哗啦，灵魂顺流而下。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 32,
+      "snippet": "亿万年前，恐龙相互撕咬，洞穴里鼠鼠细细小小，天上飞着九头的怪鸟。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "我说鼠鼠你就是我的祖先吗？"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 34,
+      "snippet": "你不要出洞了好不好……我们哺乳动物……究竟会变成什么样子啊（哽咽）。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 26,
+      "snippet": "百万年前，野牛迁徙狮子咆哮，南方古猿在大草原上奔跑。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 33,
+      "snippet": "彼时它们还不知道，自己奔向的不是星辰大海，而是国潮外卖和狠活饭菜。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "不要进化！"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 5,
+      "snippet": "不要进化！"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "不要进化！"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 7,
+      "snippet": "这里，不是家。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 27,
+      "snippet": "我睁开眼，一群裸猿爬上食物链顶端，顶端放着一个外卖架。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 22,
+      "snippet": "三排第四个外卖盒，就是你们努力几万年的奖赏。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 23,
+      "snippet": "裸猿挠挠头，顶端就吃这种东西啊，早知道不爬了。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 20,
+      "snippet": "我哭了，我说人类在进化史上从未如此失败。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 16,
+      "snippet": "活菌笑了，谁告诉你们越顶端越好？"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 23,
+      "snippet": "别逗你菌哥笑了，菌哥在地球上出现得不比你们早？"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 8,
+      "snippet": "资历不比你们老？"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "食物链是你菌哥不想爬吗？"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 8,
+      "snippet": "是你菌哥看不上。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 36,
+      "snippet": "金字塔的顶端只有针尖大，爬得越高压力就越大，容错就越低，生存空间就越小。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 11,
+      "snippet": "傻了吧，吃上人粮了吧。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 21,
+      "snippet": "人现在混得还不如羊，起码羊真的可以吃到草。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 30,
+      "snippet": "而你们吃的是钢铁畜牧场里的钢铁饲料，深夜有社畜的灵魂在惨叫。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "是谁在惨叫？"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 15,
+      "snippet": "哦，原来是我被生活抽出了牛叫。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 36,
+      "snippet": "牛说我要吃草，我说来我这里我的生活全是草，全是草，草草草草草草草草草草。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 37,
+      "snippet": "牛说我的生活真奇妙，于是牛成了我，我成了牛，我们在大草原上淋雨变得滑溜溜。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 35,
+      "snippet": "滑溜溜，原来是菌群在出溜，菌群说我们六六六，六六六，六六六六六六六六。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 7,
+      "snippet": "我又吸了一口。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 28,
+      "snippet": "活菌吸管空了，瑞幸的杯子空了，马桶空了，我的肠子也空了。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 8,
+      "snippet": "肠子终于满意了。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 18,
+      "snippet": "肠子说下不为例，以后要对自己好一点。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "我点点头，可我知道我做不到。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 24,
+      "snippet": "喝完这杯瑞幸，和菌群说完拜拜，我还是会一切如故。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 24,
+      "snippet": "因为我没有退路，我太忙了我不可能想吃什么自己煮。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 24,
+      "snippet": "外卖就是我唯一的出路，哪怕我早已吃吃吃吃到想吐。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "可是我，没有资格说不。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 11,
+      "snippet": "马桶里，活菌叹了口气。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 15,
+      "snippet": "叹世人纷纷入歧途，总把浮生误。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "这时，电话响了。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "你好，你的外卖到了。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 6,
+      "snippet": "我打开了门。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "也关上了门。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 15,
+      "snippet": "这大概，也就是瑞幸的精神状态。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "瑞幸送垃圾袋钩子起手，反讽「居然整了点有用的」再立刻降级「还不够神经」，把产品变成精神状态诊断。",
+      "patterns": [
+        "垃圾袋精神诊断钩",
+        "有用却不够神经反讽",
+        "产品人格化开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "瑞幸送垃圾袋担心精神状态"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "这么多年，他们居然整了点有用的东西。",
+          "note": "居然整了点有用的"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "但这个东西，还不够神经。",
+          "note": "还不够神经"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "活菌吸管毛骨悚然→沉迷因外卖折损肠子→百亿赎金不够→疯的不是瑞幸是外卖工业→进化史反讽→菌群嘲讽食物链→承认无退路继续点外卖闭环。",
+      "patterns": [
+        "毛骨悚然试用",
+        "外卖折损动机",
+        "赎金不够",
+        "工业归因翻盘",
+        "进化史反讽",
+        "无退路闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "是，我知道生吃活菌这种事情听起来有点毛毛的。",
+          "note": "生吃活菌毛毛的"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "因为我的肠子早已被外卖折损。",
+          "note": "肠子被外卖折损"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这不是活菌，这是我给身体交的赎金。",
+          "note": "给身体交的赎金"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "疯的不是瑞幸是外卖"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我哭了，我说人类在进化史上从未如此失败。",
+          "note": "进化史上从未如此失败"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "外卖就是我唯一的出路，哪怕我早已吃吃吃吃到想吐。",
+          "note": "外卖唯一出路"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "product_hook",
+          "note": "垃圾袋/活菌吸管产品钩与试用矛盾"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "gut_ransom",
+          "note": "肠子拟人、赎金与屁股训诫"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "industrial_despair",
+          "note": "外卖工业归因与笼养鸡自喻"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64"
+          ],
+          "function": "evolution_irony",
+          "note": "恐龙-古猿-裸猿进化史反讽"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88"
+          ],
+          "function": "no_exit_loop",
+          "note": "空杯空肠、无退路、外卖到门闭环"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但这几天」「我为什么沉迷」「哪怕…也…」对仗；「原来疯的不是…是…」翻盘；「我又吸了一口」三次节拍器。",
+      "patterns": [
+        "但这几天转折",
+        "为什么沉迷设问",
+        "哪怕也对仗",
+        "原来不是是翻盘",
+        "又吸一口节拍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "但这几天，我买了好多杯瑞幸，每次都要多点一根这个百亿活菌吸管。",
+          "note": "但这几天我买了好多杯"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我为什么沉迷跟菌群接吻？",
+          "note": "我为什么沉迷"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "哪怕百亿活菌，也救不了肠子消化外卖的工伤；",
+          "note": "哪怕百亿也救不了"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "原来疯的不是瑞幸"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "我又吸了一口。",
+          "note": "我又吸了一口"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "有用vs不够神经；胶头滴管vs吸管；百亿赎金vs救不了工伤；星辰大海vs国潮外卖；顶端针尖vs菌哥看不上。",
+      "patterns": [
+        "有用/不够神经",
+        "滴管/吸管",
+        "赎金/工伤",
+        "星辰/外卖",
+        "顶端/菌哥"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "这么多年，他们居然整了点有用的东西。",
+          "note": "有用"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "但这个东西，还不够神经。",
+          "note": "不够神经"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "活菌这个词搭配的应该是胶头滴管而不是吸管，往嘴里放这个我真是要给自己壮壮胆。",
+          "note": "胶头滴管不是吸管"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "彼时它们还不知道，自己奔向的不是星辰大海，而是国潮外卖和狠活饭菜。",
+          "note": "不是星辰大海而是外卖"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "是你菌哥看不上。",
+          "note": "菌哥看不上"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「多点一根百亿活菌吸管吗」「我为什么沉迷」「百亿很多吗/赎金够吗」「知道谁是主人吗」连环逼问。",
+      "patterns": [
+        "试用邀请问",
+        "沉迷动机问",
+        "赎金够吗",
+        "身体主人逼问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你试过在喝瑞幸的时候，多点一根百亿活菌吸管吗？",
+          "note": "多点一根吸管吗"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我为什么沉迷跟菌群接吻？",
+          "note": "为什么沉迷"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "百亿活菌很多吗？",
+          "note": "百亿很多吗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这点赎金就够了吗？",
+          "note": "赎金够吗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "桀桀桀，知道谁是身体的主人吗？",
+          "note": "谁是身体的主人"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "外卖敷衍三餐、便秘痔疮、笼养鸡键盘下蛋、三排第四个外卖盒奖赏、钢铁畜牧场社畜惨叫。",
+      "patterns": [
+        "外卖三餐例",
+        "便秘痔疮例",
+        "笼养鸡例",
+        "外卖盒奖赏",
+        "钢铁饲料例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "来呀，快活呀，反正我，总拿外卖敷衍三餐。",
+          "note": "外卖敷衍三餐"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "桀桀桀，知道你为什么便秘吗？",
+          "note": "为什么便秘"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我怀念走地鸡了可我还不如走地鸡呢，我是笼养鸡，我只有显示屏那么大的方寸天地。",
+          "note": "笼养鸡显示屏"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "三排第四个外卖盒，就是你们努力几万年的奖赏。",
+          "note": "三排第四个外卖盒"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "而你们吃的是钢铁畜牧场里的钢铁饲料，深夜有社畜的灵魂在惨叫。",
+          "note": "钢铁饲料"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「精神状态」落到垃圾袋/活菌吸管；「进化失败」落到外卖架奖赏；「无退路」落到电话外卖到了开关门。",
+      "patterns": [
+        "精神→垃圾袋吸管",
+        "失败→外卖架",
+        "无退路→电话开关门"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "送垃圾袋"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "我睁开眼，一群裸猿爬上食物链顶端，顶端放着一个外卖架。",
+          "note": "顶端放着外卖架"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "你好，你的外卖到了。",
+          "note": "外卖到了"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "我打开了门。",
+          "note": "打开了门"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "也关上了门。",
+          "note": "关上了门"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言「还不够神经」「这是赎金」「疯的不是瑞幸」「从未如此失败」「没有资格说不」。",
+      "patterns": [
+        "不够神经断语",
+        "赎金断语",
+        "工业归因断语",
+        "进化失败断语",
+        "无资格说不"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "但这个东西，还不够神经。",
+          "note": "还不够神经"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这不是活菌，这是我给身体交的赎金。",
+          "note": "这是赎金"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "疯的不是瑞幸"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我哭了，我说人类在进化史上从未如此失败。",
+          "note": "从未如此失败"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "可是我，没有资格说不。",
+          "note": "没有资格说不"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先觉瑞幸疯了→自己沉迷多点；先问赎金够吗→立刻「还远远不够」；肠子说下不为例→承认做不到一切如故。",
+      "patterns": [
+        "疯了到沉迷修正",
+        "赎金够到不够",
+        "下不为例到做不到"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "一开始我也觉得瑞幸弄这个东西是疯了。",
+          "note": "一开始觉得疯了"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但这几天，我买了好多杯瑞幸，每次都要多点一根这个百亿活菌吸管。",
+          "note": "但这几天沉迷"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这点赎金就够了吗？",
+          "note": "够了吗"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "还远远不够。",
+          "note": "还远远不够"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "我点点头，可我知道我做不到。",
+          "note": "我知道我做不到"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短钩开场→拟人狂欢加速（我要活菌三连/不要进化三连）→进化史长段放慢→空杯空肠降速→开关门短句钉死。",
+      "patterns": [
+        "短钩",
+        "三连加速",
+        "进化长段",
+        "空杯降速",
+        "开关门钉死"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "短钩"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "大脑说我要活菌！",
+          "note": "我要活菌"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我要活菌！",
+          "note": "三连"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "不要进化！",
+          "note": "不要进化"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "活菌吸管空了，瑞幸的杯子空了，马桶空了，我的肠子也空了。",
+          "note": "空了排比"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "我打开了门。",
+          "note": "开关门"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "嘲讽担心→毛骨悚然试用→狂欢自虐→绝望工业批判→进化史悲凉→自嘲无退路→冷收瑞幸精神状态。",
+      "patterns": [
+        "嘲讽",
+        "毛骨悚然",
+        "狂欢自虐",
+        "工业绝望",
+        "悲凉",
+        "无退路冷收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "担心嘲讽"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "是，我知道生吃活菌这种事情听起来有点毛毛的。",
+          "note": "毛毛的"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "大脑说我要活菌！",
+          "note": "狂欢我要活菌"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "工业绝望"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我哭了，我说人类在进化史上从未如此失败。",
+          "note": "哭了"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这大概，也就是瑞幸的精神状态。",
+          "note": "冷收精神状态"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场担心瑞幸精神状态，中段证明疯的是人类外卖日常，收束「打开又关门」等于瑞幸精神状态，钩子回扣。",
+      "patterns": [
+        "精神状态开题",
+        "工业中证",
+        "开关门回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "担心精神状态开"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "中证工业"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这大概，也就是瑞幸的精神状态。",
+          "note": "也就是瑞幸精神状态"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注硬广；软行动是「多点一根吸管」试用邀请，收束不劝关注只留荒诞共鸣。",
+      "patterns": [
+        "试用邀请软CTA",
+        "无硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你试过在喝瑞幸的时候，多点一根百亿活菌吸管吗？",
+          "note": "多点一根吗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但这几天，我买了好多杯瑞幸，每次都要多点一根这个百亿活菌吸管。",
+          "note": "每次都要多点"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "活菌刺溜笑了、屁股桀桀桀训诫、咯咯哒键盘下蛋、菌哥六六六——强私密荒诞口语，非模板科普。",
+      "patterns": [
+        "活菌拟人笑",
+        "屁股训诫",
+        "笼养鸡下蛋",
+        "菌哥六六六"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "活菌刺溜一下笑了，它说肠子啊，人生苦短。",
+          "note": "活菌刺溜一下笑了"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "屁股对我说，崽种，直视我！",
+          "note": "屁股直视我"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "咯咯哒，咯咯哒，咯咯咯咯咯咯咯咯咯咯咯咯咯咯咯咯哒。",
+          "note": "咯咯哒"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "滑溜溜，原来是菌群在出溜，菌群说我们六六六，六六六，六六六六六六六六。",
+          "note": "六六六"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "编号「1」与超长拟人段易疲劳；进化史段信息发散；结尾无产品信息增量；部分读者会觉脏梗过密。",
+      "patterns": [
+        "编号噪音",
+        "拟人疲劳",
+        "进化发散",
+        "脏梗过密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "1",
+          "note": "编号1"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大肠嚼嚼嚼，小肠嘬嘬嘬，它们争抢起活菌火锅，它们把我的身体变成了餐桌。",
+          "note": "肠子火锅拟人"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "亿万年前，恐龙相互撕咬，洞穴里鼠鼠细细小小，天上飞着九头的怪鸟。",
+          "note": "恐龙段发散"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我突然想吃大粪浇灌的青菜了，但那可能不是大粪而是狗屎，我吃了的话狗吃什么呢？",
+          "note": "大粪青菜脏梗"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「嫌恶心→试吸→沉迷归因→翻盘归因工业→自承做不到」的心路，把消费选择暴露为无退路。",
+      "patterns": [
+        "嫌恶心到沉迷",
+        "翻盘归因外露",
+        "做不到自承"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "一开始我也觉得瑞幸弄这个东西是疯了。",
+          "note": "一开始觉得疯了"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "我为什么沉迷跟菌群接吻？",
+          "note": "为什么沉迷"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "翻盘归因"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "我点点头，可我知道我做不到。",
+          "note": "做不到"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者放进「每天外卖放门口谢谢」的社畜位，用肠子/屁股第二人称训诫形成共犯式共鸣。",
+      "patterns": [
+        "社畜外卖位",
+        "肠子训诫位",
+        "共犯共鸣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "来呀，快活呀，反正我，总拿外卖敷衍三餐。",
+          "note": "外卖敷衍三餐"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "外卖放门口谢谢"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "屁股对我说，崽种，直视我！",
+          "note": "屁股直视我"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "垃圾袋、百亿活菌吸管、三排第四个外卖盒、显示屏方寸、钢铁畜牧场、电话外卖到了。",
+      "patterns": [
+        "垃圾袋锚",
+        "百亿吸管锚",
+        "外卖盒锚",
+        "显示屏锚",
+        "电话锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "垃圾袋"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "你试过在喝瑞幸的时候，多点一根百亿活菌吸管吗？",
+          "note": "百亿活菌吸管"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "三排第四个外卖盒，就是你们努力几万年的奖赏。",
+          "note": "三排第四个"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我怀念走地鸡了可我还不如走地鸡呢，我是笼养鸡，我只有显示屏那么大的方寸天地。",
+          "note": "显示屏"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "你好，你的外卖到了。",
+          "note": "外卖到了"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密钩子→拟人狂欢中密→进化史与菌哥说理高密→空杯无退路降密短句收。",
+      "patterns": [
+        "钩子低密",
+        "狂欢中密",
+        "进化高密",
+        "无退路降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "低密钩"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大肠嚼嚼嚼，小肠嘬嘬嘬，它们争抢起活菌火锅，它们把我的身体变成了餐桌。",
+          "note": "中密拟人"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "金字塔的顶端只有针尖大，爬得越高压力就越大，容错就越低，生存空间就越小。",
+          "note": "高密金字塔"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "活菌吸管空了，瑞幸的杯子空了，马桶空了，我的肠子也空了。",
+          "note": "降密空了"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判与超长拟人交替；「我要活菌/不要进化」三连；「哪怕…也…」对仗；开关门二字句收束。",
+      "patterns": [
+        "长短交替",
+        "三连重复",
+        "哪怕对仗",
+        "二字句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "但这个东西，还不够神经。",
+          "note": "短判"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "大脑说我要活菌！",
+          "note": "三连"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "哪怕百亿活菌，也救不了肠子消化外卖的工伤；",
+          "note": "哪怕对仗"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "我打开了门。",
+          "note": "打开了门"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "荒诞自虐型观察者：把消费主义健康补丁写成肠子赎金，用菌群视角嘲讽人类顶端幻觉。",
+      "patterns": [
+        "荒诞自虐",
+        "赎金隐喻",
+        "菌群嘲讽顶端"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "这不是活菌，这是我给身体交的赎金。",
+          "note": "赎金"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "活菌笑了，谁告诉你们越顶端越好？",
+          "note": "活菌笑了"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "金字塔的顶端只有针尖大，爬得越高压力就越大，容错就越低，生存空间就越小。",
+          "note": "顶端针尖大"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "担心瑞幸精神状态；这是赎金；疯的不是瑞幸是外卖；不要进化；打开又关上了门。",
+      "patterns": [
+        "精神状态",
+        "赎金",
+        "疯的不是瑞幸",
+        "不要进化",
+        "开关门"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "精神状态"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这不是活菌，这是我给身体交的赎金。",
+          "note": "赎金"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "疯的不是"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "不要进化！",
+          "note": "不要进化"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这大概，也就是瑞幸的精神状态。",
+          "note": "精神状态回扣"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "产品钩→身体拟人→工业翻盘→无退路闭环的荒诞评论骨架可改编观宇消费/外卖选题，需大幅降脏梗与三连密度。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "当最近瑞幸开始送垃圾袋的时候，我开始担心他们的精神状态了。",
+          "note": "产品精神钩"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "原来疯的不是瑞幸，是绝望的人类食品和外卖工业，是我对浪费时间的胆怯，是每天接起电",
+          "note": "工业翻盘"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这大概，也就是瑞幸的精神状态。",
+          "note": "精神状态闭环"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s4",
+    "s7",
+    "s15",
+    "s24",
+    "s37",
+    "s58",
+    "s80",
+    "s1",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88"
+  ],
+  "fields_complete_25": true
+}

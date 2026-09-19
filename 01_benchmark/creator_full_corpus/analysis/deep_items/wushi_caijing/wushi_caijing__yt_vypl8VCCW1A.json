@@ -1,0 +1,622 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_vypl8VCCW1A",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=vypl8VCCW1A",
+  "source_sha256": "aca29fb742efe7936a3ef3333277565720c44337da842b17d314876238a51b6f",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 15,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "- 而封�,全球30%的海硬使用"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 27,
+      "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "无事把这些给中国的油分了四档"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 23,
+      "snippet": "第一档是渣的,是砸到10时 for 都给封上了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "- 以Ice的颜色�"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 26,
+      "snippet": "- 它在225年度,我们创造了1.19万亿美元的顺差"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 26,
+      "snippet": "- 它在鸟,是一种鸟,是一种鸟,是一种髧�鸟,是一种"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 111,
+      "snippet": "- 迪大共产国,但Los的心里很多,他们 can't be more than the new worlded, most of them are the mo"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 34,
+      "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 29,
+      "snippet": "反而天天跟我们喊口号喊友谊的国家,他们从我们这召的历史越多"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 49,
+      "snippet": "要防着Los,把我们当成筹码卖给美国 where we are more often,很多人会反驳"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 27,
+      "snippet": "但我更�,更倾向于Los的终极历史是恢复欧洲市场的历史"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "中国市场是制裁时"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 34,
+      "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "等它的欧美白月光 月光又"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "以全球海运占比切入封锁议题，并宣称研究逻辑可直接拿去吹逼。",
+      "patterns": [
+        "航运占比钩子",
+        "赠送话术开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "- 而封�,全球30%的海硬使用",
+          "note": "全球30%海运使用"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "研究逻辑展开可直接用"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "中国石油分档→顺差实力→越掰腕子越受益→口号友谊国抽血更多→俄以中国为备胎非首选。",
+      "patterns": [
+        "分档框架",
+        "冲突受益论",
+        "友谊抽血论",
+        "备胎定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "无事把这些给中国的油分了四档",
+          "note": "油分四档"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "越掰车利受益越多"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "反而天天跟我们喊口号喊友谊的国家,他们从我们这召的历史越多",
+          "note": "喊友谊召的历史越多"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "中国是替代方非首选"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "function": "frame_offer",
+          "note": "航运/分档+赠送逻辑"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s6",
+            "s9",
+            "s10"
+          ],
+          "function": "benefit_paradox",
+          "note": "顺差与冲突受益/友谊抽血"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s14",
+            "s15"
+          ],
+          "function": "russia_hedge",
+          "note": "防被当筹码与欧洲白月光备胎论"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "‘巫师把…分了四档/而且巫师想说/但我更倾向’推进分层判断。",
+      "patterns": [
+        "分档转场",
+        "更倾向纠偏转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "无事把这些给中国的油分了四档",
+          "note": "分了四档"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "但我更�,更倾向于Los的终极历史是恢复欧洲市场的历史",
+          "note": "但我更倾向于"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "掰腕子对手 vs 口号友谊国；欧洲白月光首选 vs 中国制裁期替代。",
+      "patterns": [
+        "对手/友谊收益对仗",
+        "白月光/备胎对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "掰腕子受益"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "反而天天跟我们喊口号喊友谊的国家,他们从我们这召的历史越多",
+          "note": "友谊抽血"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等它的欧美白月光 月光又",
+          "note": "欧美白月光"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "少直接提问，靠‘很多人会反驳’预演异议代替问答。",
+      "patterns": [
+        "预演反驳代问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "要防着Los,把我们当成筹码卖给美国 where we are more oft",
+          "note": "很多人会反驳"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用1.19万亿顺差与石油分档（渣油档）作例，短片例证偏少。",
+      "patterns": [
+        "顺差数字例",
+        "石油分档例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "第一档是渣的,是砸到10时 for 都给封上了",
+          "note": "渣的档封到10时"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "- 它在225年度,我们创造了1.19万亿美元的顺差",
+          "note": "1.19万亿顺差"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把地缘友谊叙事落到备胎/白月光关系与顺差数字。",
+      "patterns": [
+        "友谊抽象→抽血具体",
+        "备胎隐喻落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "反而天天跟我们喊口号喊友谊的国家,他们从我们这召的历史越多",
+          "note": "喊友谊抽血"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "替代方而非首选"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言越对抗越受益、中国只是备胎，语气决断。",
+      "patterns": [
+        "对抗受益断语",
+        "备胎定位断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "受益越多断语"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "被备胎罢了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先提防俄卖华，再改口更倾向俄终极目标是恢复欧洲市场。",
+      "patterns": [
+        "防卖华→欧洲优先纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "要防着Los,把我们当成筹码卖给美国 where we are more oft",
+          "note": "防当筹码卖给美国"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "但我更�,更倾向于Los的终极历史是恢复欧洲市场的历史",
+          "note": "更倾向恢复欧洲市场"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短片高密断言连发，几乎无喘息，收在白月光半句。",
+      "patterns": [
+        "断言连发",
+        "半句悬停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "断言连发"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等它的欧美白月光 月光又",
+          "note": "白月光半句悬停"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "是一种鸟…重复"
+        },
+        {
+          "type": "code_switch",
+          "form": "Commission/where we are"
+        },
+        {
+          "type": "discourse",
+          "form": "而且巫师想说"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "- 它在鸟,是一种鸟,是一种鸟,是一种髧�鸟,是一种",
+          "note": "是一种鸟重复填充"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "而且巫师想说"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "要防着Los,把我们当成筹码卖给美国 where we are more oft",
+          "note": "英语夹杂"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "赠送自信→冷硬地缘→讽刺友谊→备胎苦笑收。",
+      "patterns": [
+        "自信→冷硬→讽刺→苦笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "赠送自信"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "反而天天跟我们喊口号喊友谊的国家,他们从我们这召的历史越多",
+          "note": "友谊讽刺"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "备胎苦笑"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "收在欧美白月光回归半句，形成未完成闭环（短片截断感）。",
+      "patterns": [
+        "白月光悬置收",
+        "短片截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "等它的欧美白月光 月光又",
+          "note": "白月光又…悬置"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "开场即CTA：逻辑可直接拿去吹逼，等于授权复述。",
+      "patterns": [
+        "授权复述式CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "吹逼时可以直接用"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "吹逼授权、备胎土词、白月光隐喻，口语私货重。",
+      "patterns": [
+        "吹逼授权",
+        "备胎/白月光土喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "吹逼可直接用"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "被备胎罢了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "仅15句且ASR严重损坏，分档细节与俄论证不完整，证据链薄。",
+      "patterns": [
+        "极短窗",
+        "ASR损坏",
+        "论证未完成"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "- 以Ice的颜色�",
+          "note": "颜色句残缺"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "- 迪大共产国,但Los的心里很多,他们 can't be more than",
+          "note": "英中乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开分档框架与‘更倾向’的判断修正路径。",
+      "patterns": [
+        "分档框架外露",
+        "倾向修正外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "无事把这些给中国的油分了四档",
+          "note": "分四档"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "但我更�,更倾向于Los的终极历史是恢复欧洲市场的历史",
+          "note": "更倾向于"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当要出去吹逼的二传手与需防被当筹码的国人。",
+      "patterns": [
+        "二传手赋能",
+        "防筹码警示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "吹逼二传手"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "要防着Los,把我们当成筹码卖给美国 where we are more oft",
+          "note": "防当筹码"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "30%海运、1.19万亿顺差、石油四档。",
+      "patterns": [
+        "航运占比",
+        "顺差数字",
+        "分档"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "- 而封�,全球30%的海硬使用",
+          "note": "30%海运"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "- 它在225年度,我们创造了1.19万亿美元的顺差",
+          "note": "1.19万亿顺差"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "全片短促高密断言，几乎无低密铺垫，结尾悬置降密。",
+      "patterns": [
+        "全片高密",
+        "悬置降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "- 它在225年度,我们创造了1.19万亿美元的顺差",
+          "note": "顺差高密"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等它的欧美白月光 月光又",
+          "note": "悬置降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "标题句+断言句为主，少连接词，呈提纲口播。",
+      "patterns": [
+        "提纲口播",
+        "少连接"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "无事把这些给中国的油分了四档",
+          "note": "分档提纲"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "断言句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷酷地缘现实主义者，赠送话术的教师爷。",
+      "patterns": [
+        "冷酷现实",
+        "教师爷赠招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "- 无事把我的研究逻辑展开,你们吹逼的时候,可以直接用",
+          "note": "教师爷赠招"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "备胎冷酷定位"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "‘越掰腕子越受益’与‘备胎/白月光’对仗可记。",
+      "patterns": [
+        "对抗受益金句",
+        "备胎白月光"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "越掰受益"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "- 期的替代方 Commission 而非首选,我们就是个被贝太罢了",
+          "note": "备胎"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等它的欧美白月光 月光又",
+          "note": "白月光"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "分档+对手/友谊收益对仗可用于观宇地缘短片，但本条证据过薄需补全数据。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "无事把这些给中国的油分了四档",
+          "note": "分档框架可迁"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "- 而且无事想说,越跟我们掰车利,历史的国家,事实上我们从中收益越多",
+          "note": "对抗受益对仗可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s9",
+    "s10",
+    "s14",
+    "s4",
+    "s6",
+    "s11",
+    "s12",
+    "s15",
+    "s7",
+    "s5",
+    "s8"
+  ],
+  "fields_complete_25": true
+}

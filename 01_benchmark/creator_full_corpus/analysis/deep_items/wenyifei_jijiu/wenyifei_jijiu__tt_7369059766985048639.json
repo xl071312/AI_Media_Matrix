@@ -1,0 +1,1149 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7369059766985048639",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7369059766985048639/",
+  "source_sha256": "44dbec5f5c4f3c4b68ca0a30e2c3fc2e3fc45ac2b49046ead042f0bcc0872138",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 61,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 22,
+      "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "人们都不乐意买房，也买不起房子，"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 21,
+      "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 15,
+      "snippet": "还真不一定，你看美国就知道了，"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 25,
+      "snippet": "现在的美国，正在疯狂炒房，楼市的表现都超过AI了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 2,
+      "snippet": "一、"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 28,
+      "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 24,
+      "snippet": "国人抗拒用房子绑架婚姻，希望丈母娘经济赶紧崩盘，"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 29,
+      "snippet": "美国就不用婚前就买房，很多人35岁的时候大学贷款还没还完；"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 17,
+      "snippet": "国人都讨厌高层住宅，觉得是鸽子笼，"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 27,
+      "snippet": "美国地广人稀，可以住郊区别墅，不一定非得挤在城区高楼；"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "国内租房保障差，呼吁租售同权，"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 30,
+      "snippet": "美国早就实现了，别说提灯定损了，租客欠房租你都拿他没办法的；"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 38,
+      "snippet": "国人呼吁打击炒房客，给那些手头多套房的收房产税，美国房产税都收了200年了；"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 38,
+      "snippet": "而且人家房地产占GDP比重在15%-18%之间，买房是消费，投资大头在股票。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 22,
+      "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 22,
+      "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 2,
+      "snippet": "二、"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 15,
+      "snippet": "这每一条都对房地产杀伤力十足，"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 25,
+      "snippet": "美国的地产开发商和中国房企相比，简直就是地狱难度，"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 17,
+      "snippet": "这样一个市场，房价肯定涨不起来吧。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "你要真这么以为那就太天真了——"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 47,
+      "snippet": "事实上美国的房价，一直都是上涨的，即便经过了08年次贷危机这么大的事，但很快就继"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 33,
+      "snippet": "2020年，房价指数涨幅11.3%，2021年更夸张涨幅达20%。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 46,
+      "snippet": "而且不是地域性的，圣地亚哥、洛杉矶、华盛顿特区和纽约这些大城市不用说，是全美国的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 36,
+      "snippet": "今年2月份，美国的十城综合房价上涨8%，20城综合房价同比上涨7.3%，"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 29,
+      "snippet": "即便是对标中国东北的老工业基地底特律，房价也涨了8.9%，"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 40,
+      "snippet": "即便是美国一直在加息，现在房贷利率都高达7.23%了，你想7.23%是什么概念？"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 63,
+      "snippet": "你等额本息贷款300万，30年分期，每个月得还2万，之前美国的房贷利息只有3%的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 45,
+      "snippet": "这样的压力放别的地方，楼市得直接寒冬，但美国现在新盘开了就抢光，二手房挂牌就一堆"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 42,
+      "snippet": "资本市场更上头，都说美股是科技股，但今年的美国股市里，房地产市场表现甚至超过了A"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 22,
+      "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "三、"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "为啥涨的这么离谱？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 22,
+      "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 21,
+      "snippet": "整个美国新房的建设一直是滞后的，缺开发商，"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 48,
+      "snippet": "新建住宅面积也不够，2018年的时候，美国住房短缺的严重程度达到40年新高，之后"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 39,
+      "snippet": "截至2024年2月，美国成屋库存量约为107万套，处于2000年以来极低水平。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 22,
+      "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 22,
+      "snippet": "为啥美国的开发商拿地不积极，盖楼也不积极呢？"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 34,
+      "snippet": "首先是当年的次贷危机搞怕了 ，2007-2009年的那一波经济衰退，"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 35,
+      "snippet": "许多建筑商和开发商破产，建筑许可和新屋开工量分别下降了30%和43%。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 26,
+      "snippet": "在这之后，美国的建筑行业企业注册数量，一直都很低迷。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 28,
+      "snippet": "而且 美国开发商不像中国追求速度，正常速度就要慢1倍 。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 27,
+      "snippet": "你要是和2016年碧桂园搞得高周转比，那就更没得比了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 56,
+      "snippet": "2020年后， 美国的建筑材料和劳动力成本飙升，开发商应对的办法也很简单，招不到"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 18,
+      "snippet": "现在很多美国的楼盘，一建就是两年多。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 20,
+      "snippet": "那就导致新建房屋是完全跟不上市场需求的，"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 31,
+      "snippet": "在2019年至2021年期间，美国的房屋数量仅增长了1.7%。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 18,
+      "snippet": "至于二手房，二手房的那些人是最精的，"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 25,
+      "snippet": "新房价涨了，很多美国人就不乐意卖了，要么就涨价了，"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 44,
+      "snippet": "特别是那些低房贷的时候入手的人，你让他把3%房贷的老房子卖了，然后换现在的7%的"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "那显然是不可能的。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 40,
+      "snippet": "所以美国的二手房现在是供不应求，只要你敢挂牌，看房的都能挤破门，那价格能不涨么？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 51,
+      "snippet": "所以美国的房地产市场，尽管看起来是开发商的地狱，各种不利因素拉满，换在中国楼市，"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 26,
+      "snippet": "但只要每年给你新建的房子减少了，那一样还是供不应求。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 18,
+      "snippet": "所以房地产的调整，还是应该交给市场。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 32,
+      "snippet": "如果一个地方新建住宅越来越少，开发商不拿地了，政府也不让卖地了，"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 28,
+      "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 32,
+      "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 24,
+      "snippet": "你们觉得这个长期趋势对房价影响如何，评论区说说。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "反问「不买不盖房价会越跌吗」后甩美国疯狂炒房、楼市表现超AI的打脸钩。",
+      "patterns": [
+        "反直觉提问",
+        "美国超AI钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "房价会越跌越低吗"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "还真不一定，你看美国就知道了，",
+          "note": "还真不一定"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "现在的美国，正在疯狂炒房，楼市的表现都超过AI了。",
+          "note": "表现都超过AI了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "美国具备中国人理想去地产化条件→房价仍长期涨→供给短缺根因（开发商怕/慢/贵）→二手惜售→结论：新建减少则未来供应更少。",
+      "patterns": [
+        "理想条件仍涨",
+        "供给短缺",
+        "开发商三怕",
+        "二手惜售",
+        "供应趋势结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——",
+          "note": "痛恨房地产希望的样子"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "事实上美国的房价，一直都是上涨的，即便经过了08年次贷危机这么大的事，但很快就继",
+          "note": "一直都是上涨"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "能拿出来卖的太少"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "特别是那些低房贷的时候入手的人，你让他把3%房贷的老房子卖了，然后换现在的7%的",
+          "note": "3%换7%不可能"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。",
+          "note": "新增供应越来越少"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "hook_and_ideal_us",
+          "note": "反跌价提问与美国理想去地产画像"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "price_still_up",
+          "note": "地狱难度仍大涨的数据段"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "why_shortage",
+          "note": "新建滞后与开发商不积极原因"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "resale_lockin",
+          "note": "二手惜售与利率锁定"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61"
+          ],
+          "function": "market_lesson",
+          "note": "交给市场与供应趋势警告"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「一、二、三、」章节号；「为啥涨的这么离谱」「为啥开发商不积极」。",
+      "patterns": [
+        "章节号",
+        "为啥追问转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一、",
+          "note": "一、"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "二、",
+          "note": "二、"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "三、",
+          "note": "三、"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "为啥涨的这么离谱？",
+          "note": "为啥涨的这么离谱"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "为啥美国的开发商拿地不积极，盖楼也不积极呢？",
+          "note": "为啥不积极"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "中国人希望的去地产条件 vs 美国已实现仍涨；房贷3% vs 7.23%月供翻倍；开发商地狱 vs 抢盘。",
+      "patterns": [
+        "愿望vs现实",
+        "利率月供对照",
+        "地狱vs抢盘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——",
+          "note": "希望的样子"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这样一个市场，房价肯定涨不起来吧。",
+          "note": "肯定涨不起来吧"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "即便是美国一直在加息，现在房贷利率都高达7.23%了，你想7.23%是什么概念？",
+          "note": "利率7.23%"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你等额本息贷款300万，30年分期，每个月得还2万，之前美国的房贷利息只有3%的",
+          "note": "月供翻倍"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这样的压力放别的地方，楼市得直接寒冬，但美国现在新盘开了就抢光，二手房挂牌就一堆",
+          "note": "开了就抢光"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场会不会越跌、中间为啥离谱/为啥不积极、结尾长期趋势影响如何征评论。",
+      "patterns": [
+        "开场反问",
+        "因果追问",
+        "评论征问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "会越跌越低吗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "为啥涨的这么离谱？",
+          "note": "为啥离谱"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "为啥美国的开发商拿地不积极，盖楼也不积极呢？",
+          "note": "为啥不积极"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你们觉得这个长期趋势对房价影响如何，评论区说说。",
+          "note": "评论区说说"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "中美婚房/高层/租售/房产税对照条列；圣地亚哥到底特律涨幅；碧桂园高周转对比。",
+      "patterns": [
+        "中美条列对照",
+        "城市涨幅例",
+        "碧桂园对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "美国就不用婚前就买房，很多人35岁的时候大学贷款还没还完；",
+          "note": "35岁大学贷款"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "即便是对标中国东北的老工业基地底特律，房价也涨了8.9%，",
+          "note": "底特律涨8.9%"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "你要是和2016年碧桂园搞得高周转比，那就更没得比了。",
+          "note": "碧桂园高周转"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "供给短缺抽象→成屋库存107万套；利率压力→300万贷月供2万具体账。",
+      "patterns": [
+        "短缺→库存数",
+        "利率→月供账"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "房子太少了"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "截至2024年2月，美国成屋库存量约为107万套，处于2000年以来极低水平。",
+          "note": "库存约107万套"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你等额本息贷款300万，30年分期，每个月得还2万，之前美国的房贷利息只有3%的",
+          "note": "每月得还2万"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「你要真这么以为那就太天真了」「那些人是最精的」「肯定是一个长期趋势」。",
+      "patterns": [
+        "太天真打脸",
+        "最精判断",
+        "长期趋势断言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你要真这么以为那就太天真了——",
+          "note": "太天真了"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "至于二手房，二手房的那些人是最精的，",
+          "note": "那些人是最精的"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。",
+          "note": "长期的趋势"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先铺「这样市场房价肯定涨不起来吧」再自打「太天真」，主动纠读者预期。",
+      "patterns": [
+        "预期自打纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "这样一个市场，房价肯定涨不起来吧。",
+          "note": "肯定涨不起来吧"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要真这么以为那就太天真了——",
+          "note": "太天真了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "提问快→条列对照中速→涨幅数字加速→机制拆解中速→趋势警告慢收。",
+      "patterns": [
+        "提问快",
+        "条列中",
+        "数字加速",
+        "机制中",
+        "警告慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "会越跌吗"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "国人呼吁打击炒房客，给那些手头多套房的收房产税，美国房产税都收了200年了；",
+          "note": "房产税200年"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "2020年，房价指数涨幅11.3%，2021年更夸张涨幅达20%。",
+          "note": "涨幅20%"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "首先是当年的次贷危机搞怕了 ，2007-2009年的那一波经济衰退，",
+          "note": "次贷搞怕了"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。",
+          "note": "一定要注意"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇质疑→对照爽感→打脸震惊→机制冷静→对国内供应趋势的提醒紧张。",
+      "patterns": [
+        "质疑",
+        "对照爽",
+        "震惊",
+        "冷静",
+        "提醒紧张"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "会越跌吗"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且人家房地产占GDP比重在15%-18%之间，买房是消费，投资大头在股票。",
+          "note": "投资大头在股票"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "2020年，房价指数涨幅11.3%，2021年更夸张涨幅达20%。",
+          "note": "20%"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "太少了"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。",
+          "note": "一定要注意"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣开场「不盖会不会跌」：新建越少供应越少，趋势提醒+征评论。",
+      "patterns": [
+        "回扣供应",
+        "趋势+征评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "会越跌吗"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。",
+          "note": "新增供应越来越少"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你们觉得这个长期趋势对房价影响如何，评论区说说。",
+          "note": "评论区说说"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「评论区说说」软互动CTA；隐含「注意长期趋势」行动提醒。",
+      "patterns": [
+        "评论征集",
+        "趋势注意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。",
+          "note": "一定要注意"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你们觉得这个长期趋势对房价影响如何，评论区说说。",
+          "note": "评论区说说"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "丈母娘经济/提灯定损/许家印等中文网感词；月供具体账；章节手工排版。",
+      "patterns": [
+        "网感词",
+        "月供账",
+        "手工章节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "国人抗拒用房子绑架婚姻，希望丈母娘经济赶紧崩盘，",
+          "note": "丈母娘经济"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "美国早就实现了，别说提灯定损了，租客欠房租你都拿他没办法的；",
+          "note": "提灯定损"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你等额本息贷款300万，30年分期，每个月得还2万，之前美国的房贷利息只有3%的",
+          "note": "每月还2万"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "所以美国的房地产市场，尽管看起来是开发商的地狱，各种不利因素拉满，换在中国楼市，",
+          "note": "许家印"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片截取占位重复；美股「超AI」需时效核验；对中国暗示偏跳跃。",
+      "patterns": [
+        "图片占位",
+        "时效核验",
+        "跳跃暗示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 美国房价，涨的比AI还凶~~~",
+          "note": "图片截取自"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "资本市场更上头，都说美股是科技股，但今年的美国股市里，房地产市场表现甚至超过了A",
+          "note": "超过了AI"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "如果一个地方新建住宅越来越少，开发商不拿地了，政府也不让卖地了，",
+          "note": "政府也不让卖地"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "明示「原因并不复杂」后拆新建滞后→开发商三因→二手惜售链条。",
+      "patterns": [
+        "原因不复杂声明",
+        "三层拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "原因并不复杂"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "为啥美国的开发商拿地不积极，盖楼也不积极呢？",
+          "note": "为啥不积极"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "至于二手房，二手房的那些人是最精的，",
+          "note": "至于二手房"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准「痛恨房地产的中国人」愿望投射，用美国镜子校正预期。",
+      "patterns": [
+        "痛恨地产读者",
+        "美国镜子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——",
+          "note": "痛恨房地产的中国人"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "还真不一定，你看美国就知道了，",
+          "note": "你看美国就知道了"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "你们觉得这个长期趋势对房价影响如何，评论区说说。",
+          "note": "你们觉得"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "涨幅11.3%/20%、利率7.23%、库存107万、许可开工降30%/43%、房屋数+1.7%。",
+      "patterns": [
+        "涨幅",
+        "利率",
+        "库存",
+        "开工降",
+        "房屋增速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "2020年，房价指数涨幅11.3%，2021年更夸张涨幅达20%。",
+          "note": "涨幅达20%"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "即便是美国一直在加息，现在房贷利率都高达7.23%了，你想7.23%是什么概念？",
+          "note": "7.23%"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "截至2024年2月，美国成屋库存量约为107万套，处于2000年以来极低水平。",
+          "note": "107万套"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "许多建筑商和开发商破产，建筑许可和新屋开工量分别下降了30%和43%。",
+          "note": "下降30%和43%"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "在2019年至2021年期间，美国的房屋数量仅增长了1.7%。",
+          "note": "仅增长1.7%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子中密→条列高密→涨幅数据峰→机制高密→结论中低密。",
+      "patterns": [
+        "中密钩",
+        "条列高密",
+        "数据峰",
+        "机制高密",
+        "结论收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "现在的美国，正在疯狂炒房，楼市的表现都超过AI了。",
+          "note": "超过AI"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "国人呼吁打击炒房客，给那些手头多套房的收房产税，美国房产税都收了200年了；",
+          "note": "房产税"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "今年2月份，美国的十城综合房价上涨8%，20城综合房价同比上涨7.3%，",
+          "note": "十城涨8%"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "2020年后， 美国的建筑材料和劳动力成本飙升，开发商应对的办法也很简单，招不到",
+          "note": "材料劳动力"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "所以房地产的调整，还是应该交给市场。",
+          "note": "交给市场"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "反问→美国画像条列→打脸数据→短缺机制→惜售→趋势警告，议论文清晰。",
+      "patterns": [
+        "反问画像",
+        "打脸数据",
+        "机制惜售",
+        "趋势"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——",
+          "note": "希望的样子"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要真这么以为那就太天真了——",
+          "note": "太天真"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "太少了"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "所以美国的二手房现在是供不应求，只要你敢挂牌，看房的都能挤破门，那价格能不涨么？",
+          "note": "供不应求"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。",
+          "note": "越来越少"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "温义飞式「愿望打脸翻译官」：用美国对照拆中国读者地产迷思。",
+      "patterns": [
+        "愿望打脸",
+        "对照翻译",
+        "趋势警告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你要真这么以为那就太天真了——",
+          "note": "太天真了"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "美国房地产，正是现在很多痛恨房地产的中国人希望的样子——",
+          "note": "希望的样子"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "这肯定是一个长期的趋势， 可能暂时不会明显，但是你一定要注意 。",
+          "note": "长期趋势"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "楼市涨过AI + 理想条件仍涨 + 月供翻倍仍抢 + 新建少则供应少。",
+      "patterns": [
+        "超AI",
+        "理想仍涨",
+        "月供翻倍抢",
+        "供应少"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "现在的美国，正在疯狂炒房，楼市的表现都超过AI了。",
+          "note": "超过AI"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "事实上美国的房价，一直都是上涨的，即便经过了08年次贷危机这么大的事，但很快就继",
+          "note": "一直上涨"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你等额本息贷款300万，30年分期，每个月得还2万，之前美国的房贷利息只有3%的",
+          "note": "月供翻倍"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。",
+          "note": "新增供应越来越少"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反直觉提问→对照画像→数据打脸→供给机制→趋势警告，完整可直接改编观宇地产宏观口播。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "开发商也不拿地盖房子后，房价会越跌越低吗？",
+          "note": "反跌问可迁"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "原因并不复杂， 美国能拿出来卖的房子太少了，",
+          "note": "短缺因可迁"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "那可以确定一点，它未来新增供应的房子，肯定是越来越少的。",
+          "note": "供应结论可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s23",
+    "s35",
+    "s52",
+    "s59",
+    "s1",
+    "s2",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s60",
+    "s61"
+  ],
+  "fields_complete_25": true
+}

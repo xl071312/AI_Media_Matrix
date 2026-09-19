@@ -1,0 +1,1611 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt__1AaLf9khpc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=_1AaLf9khpc",
+  "source_sha256": "ff0d844750e931bcb94b20c507c347ab0b92c26fd430db42609a320d41ed6b0f",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 134,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 13,
+      "snippet": "这本上就是在脸上光个电影运"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "为什么小小的头显"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "能显示出一块这么大的屏幕呢"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 17,
+      "snippet": "我们不方看一看这个最简单的比二眼镜"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 16,
+      "snippet": "你在手机上打开一个这样的双目视频"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "放到这"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "这两个芯片前 用眼镜看"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "同样也能看到一个巨大的屏幕"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "就是因为 二眼镜的镜片"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "其实类似一个放大镜"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "也让进入的 几种的 屏远处"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 13,
+      "snippet": "心上虚向 呈现出巨大的画面"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "但这个显示远里会带来很多问题"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "第一个就是屏幕使存放大了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "但像素素有没变"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "所以星期都就变差了"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "甚至能看到像素点"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "我说 诶 诶 诶 诶 诶 诶诶"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "诶 诶  for �"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 16,
+      "snippet": "诶 诶 诶 诶 诶 诶 �,诶诶"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 6,
+      "snippet": "诶 诶 诶诶"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 18,
+      "snippet": "那V-SIM Pro的办公体 如何呢"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 19,
+      "snippet": "不好说 因为只有少数的办公软件做了失配"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "国内我们知道的只有低音"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "所以现在还不能独立使用"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "更使用的办法 是把Mac的屏幕"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "直接投到V-SIM Pro里"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 16,
+      "snippet": "这样就可以拥有一个巨大的电脑屏幕"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "同时有Mac的键盘和中共买操作"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 15,
+      "snippet": "原之很低 用起来没有投运的感觉"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "作为一款空间计算设备"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "它最有趣的功能"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 14,
+      "snippet": "就是可以在三月空电里面放窗口"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 22,
+      "snippet": "比如在上班的时候 放一遍 到左边 放一遍往夜"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "右边 放一个聊天软件"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 14,
+      "snippet": "桌子上 再排几个 我先撤模型"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 20,
+      "snippet": "在主动机的时候还可以在锅上 放一个技术系"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "你可以同时摆非常多的窗口"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 23,
+      "snippet": "在红外相机里面 我好看它在不停的扫描之外的环境"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 14,
+      "snippet": "放窗口放在空间中 重新的位置"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 3,
+      "snippet": "而更有"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 12,
+      "snippet": "放复它真的是 实在的物品"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 18,
+      "snippet": "如果你在面前放一个正在发出声音的方口"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "那么"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 29,
+      "snippet": "在刚体验Vision Pro时 我的感觉是 一切都复得通了"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 30,
+      "snippet": "苹果在四年前给iPad Pro 打载了Lighter 窗感器"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 16,
+      "snippet": "原来不只是为了让你能够把它当使用"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 23,
+      "snippet": "也是为了能让训练的程序 能感觉到真实的物理世界"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 27,
+      "snippet": "实 实在是在Lighter 窗口里面 让你把LSH的戏"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 23,
+      "snippet": "也是为了让你能在虚拧世界里看进真 real世界"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 19,
+      "snippet": "而 Maxx 奶 mc 的芯片给了VS"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "很�"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "它的重量是30克左右"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "但它最大的問題不是重量"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 4,
+      "snippet": "而是重心"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "如果你直接在頭"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 9,
+      "snippet": "整個630克的東西"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "其實沒有很重"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "因為它的重心"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "在頭的正上方"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 15,
+      "snippet": "但是Vision Pro的重心"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "完全在頭的外面"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "原來裝得很獨自"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 3,
+      "snippet": "實在是"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "非常之類的重量"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "大部分壓在你的"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 9,
+      "snippet": "另外一個附測的頭髮"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "雖然好一些"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 2,
+      "snippet": "但是"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "有一個問題"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "在使用中"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "我每次在這個東西"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 5,
+      "snippet": "20分鐘後"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "就要把你修一下"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "我用比賽看俊俊的時候"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 11,
+      "snippet": "總是一不小心就看通�室"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 5,
+      "snippet": "第二天上班"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 2,
+      "snippet": "如果"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 3,
+      "snippet": "如果說"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 3,
+      "snippet": "智能手"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "那麼Vi2眼鏡"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 10,
+      "snippet": "作為傳統眼線的眼神物"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 5,
+      "snippet": "是不可格的"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "它的欺入感"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 3,
+      "snippet": "太強了"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 15,
+      "snippet": "對Paidite和周圍的人都是"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 8,
+      "snippet": "在2007cc年"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 15,
+      "snippet": "我可以把共同機換成iPhone"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 7,
+      "snippet": "而不說任何已經"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 6,
+      "snippet": "在2024年"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 15,
+      "snippet": "i眼鏡換成Vision Pro"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 8,
+      "snippet": "將無法成成的生活"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 2,
+      "snippet": "這個"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 7,
+      "snippet": "問題不是技術的"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 3,
+      "snippet": "別墨的"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 5,
+      "snippet": "可以解決的"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 10,
+      "snippet": "而它最封鋁碗的問題是"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "學彈的發言 我看你了"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 4,
+      "snippet": "我看你了"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 4,
+      "snippet": "我看你了"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 4,
+      "snippet": "這個可能"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 4,
+      "snippet": "節奏光鍵"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 5,
+      "snippet": "半桶命LX"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 5,
+      "snippet": "確實很好玩"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 11,
+      "snippet": "現在主流VR眼鏡的賣點"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 8,
+      "snippet": "也都集中在遊戲上"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 13,
+      "snippet": "但是蘋果並沒有做遊戲的基因"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "Vision Pro"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 14,
+      "snippet": "演動加手勢 the 教育方式"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "也決定它玩不了什麼"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 5,
+      "snippet": "腐散的遊戲"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 14,
+      "snippet": "VR行業還有一個巨大的現實式"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "所有大公司的VR R"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 4,
+      "snippet": "AR業務"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 8,
+      "snippet": "都還沒有學得成功"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "這早的國務眼鏡"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "做了兩代後放棄了"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 19,
+      "snippet": "之後的Vision Hololands"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 3,
+      "snippet": "五年了"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 4,
+      "snippet": "沒有課業"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 13,
+      "snippet": "Mata的Quest 系列"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 5,
+      "snippet": "然後就到了"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 10,
+      "snippet": "而且任天堂成功前有�"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 17,
+      "snippet": "一个品组的产品在成功前会先经历失败"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 8,
+      "snippet": "这个很正常的事情"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 15,
+      "snippet": "作为一个从2016年就开始体制"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 10,
+      "snippet": "这种辩论在前面不辩论"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 19,
+      "snippet": "但无论如何Vision Pro已经来论"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "这个星球"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 7,
+      "snippet": "它到底能不能成"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 18,
+      "snippet": "不是为一个是我一个做视频的能想明白的"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 13,
+      "snippet": "是能交给这时间最残酷的力量"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 5,
+      "snippet": "最后我得说"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 1,
+      "snippet": "你"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「脸上挂电影」体感起手，追问小头显何以巨屏，用VR眼镜+手机双目视频当场演示光学。",
+      "patterns": [
+        "体感金句开场",
+        "原理追问",
+        "手边实验演示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这本上就是在脸上光个电影运",
+          "note": "脸上挂电影"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "能显示出一块这么大的屏幕呢",
+          "note": "为什么巨屏"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "你在手机上打开一个这样的双目视频",
+          "note": "双目视频演示"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "放大虚像原理→像素被放大清晰度掉→办公靠Mac投射→空间窗口有趣→重心体验差→沉浸过强社交不合格→行业未成功→交给时间。",
+      "patterns": [
+        "光学原理",
+        "清晰度代价",
+        "办公投射权宜",
+        "空间计算亮点",
+        "重心痛点",
+        "社交不合格",
+        "行业失败谱",
+        "时间裁决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "其实类似一个放大镜",
+          "note": "放大镜"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以星期都就变差了",
+          "note": "清晰度变差"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "直接投到V-SIM Pro里",
+          "note": "Mac屏幕投射"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "就是可以在三月空电里面放窗口",
+          "note": "空中放窗口"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "而是重心",
+          "note": "重心问题"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "是不可格的",
+          "note": "不可格"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "都還沒有學得成功",
+          "note": "还没成功"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "交给时间"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "optics_demo",
+          "note": "巨屏体感与放大虚像及像素问题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "office_workaround",
+          "note": "办公适配少→Mac投射方案"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "spatial_wow",
+          "note": "空间窗口与苹果传感器伏笔串联"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86"
+          ],
+          "function": "ergonomics_social",
+          "note": "重量重心与社交沉浸过强"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134"
+          ],
+          "function": "industry_verdict",
+          "note": "游戏基因缺失+大厂失败谱+时间残酷力量收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但这个显示原理会带来很多问题」「那办公体验如何呢」「如果…那么」条件推进。",
+      "patterns": [
+        "原理→问题转",
+        "场景追问转",
+        "如果那么条件转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "但这个显示远里会带来很多问题",
+          "note": "会带来很多问题"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "那V-SIM Pro的办公体 如何呢",
+          "note": "办公如何呢"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "如果你在面前放一个正在发出声音的方口",
+          "note": "如果你在面前放"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "屏幕变大vs像素不变；头盔630g正上方重心vs Vision Pro头外重心；很牛vs没用/行业未成功。",
+      "patterns": [
+        "放大/像素反差",
+        "重心位置反差",
+        "牛/没用总反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "第一个就是屏幕使存放大了",
+          "note": "屏幕放大"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "但像素素有没变",
+          "note": "像素没变"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "在頭的正上方",
+          "note": "重心在正上方"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "完全在頭的外面",
+          "note": "完全在头外面"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "何以巨屏；办公如何；最大问题不是重量而是重心的判断式设问；能不能成交给时间。",
+      "patterns": [
+        "原理问",
+        "场景体验问",
+        "成败悬问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "能显示出一块这么大的屏幕呢",
+          "note": "为什么巨屏"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "那V-SIM Pro的办公体 如何呢",
+          "note": "办公如何"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "它到底能不能成",
+          "note": "到底能不能成"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "VR眼镜手机双目演示；上班左文档右聊天；iPad LiDAR伏笔；谷歌眼镜/HoloLens/Quest失败谱。",
+      "patterns": [
+        "手边光学例",
+        "窗口布局例",
+        "产品史伏笔",
+        "竞品失败例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你在手机上打开一个这样的双目视频",
+          "note": "双目视频"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "比如在上班的时候 放一遍 到左边 放一遍往夜",
+          "note": "左边右边窗口"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "苹果在四年前给iPad Pro 打载了Lighter 窗感器",
+          "note": "iPad LiDAR"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "Mata的Quest 系列",
+          "note": "Quest系列"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「空间计算」落到红外扫描放窗口；「很牛但没用」落到20分钟要摘、玩不了复杂游戏。",
+      "patterns": [
+        "空间计算→扫描放窗",
+        "体验差→20分钟摘下",
+        "游戏→手势限制"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "在红外相机里面 我好看它在不停的扫描之外的环境",
+          "note": "红外扫描环境"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "20分鐘後",
+          "note": "20分钟后"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "也決定它玩不了什麼",
+          "note": "玩不了什么"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言还不能独立办公、最大问题是重心、作为传统眼镜替身不合格、苹果无游戏基因。",
+      "patterns": [
+        "不能独立用",
+        "重心断言",
+        "社交不合格",
+        "无游戏基因"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "所以现在还不能独立使用",
+          "note": "不能独立使用"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "而是重心",
+          "note": "最大问题重心"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "是不可格的",
+          "note": "不合格"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "但是蘋果並沒有做遊戲的基因",
+          "note": "没有做游戏的基因"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先赞一切复得通再翻到重量重心与社交问题；承认品类成功前失败正常。",
+      "patterns": [
+        "通了→痛点翻面",
+        "失败正常化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "在刚体验Vision Pro时 我的感觉是 一切都复得通了",
+          "note": "一切都复得通了"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "但它最大的問題不是重量",
+          "note": "最大问题不是重量"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "这个很正常的事情",
+          "note": "很正常的事情"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "原理演示中速→办公短评→空间窗口兴奋加速→重心抱怨拉长→行业点名冷静→时间收束留白。",
+      "patterns": [
+        "演示中速",
+        "窗口加速",
+        "痛点拉长",
+        "点名冷静",
+        "留白收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "同样也能看到一个巨大的屏幕",
+          "note": "巨大屏幕"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "你可以同时摆非常多的窗口",
+          "note": "很多窗口"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "20分鐘後",
+          "note": "20分钟"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "时间力量"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "诶诶诶"
+        },
+        {
+          "type": "discourse",
+          "form": "不好说"
+        },
+        {
+          "type": "discourse",
+          "form": "最后我得说"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我说 诶 诶 诶 诶 诶 诶诶",
+          "note": "诶诶连环"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "不好说 因为只有少数的办公软件做了失配",
+          "note": "不好说"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "最后我得说",
+          "note": "最后我得说"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇原理→办公无奈→空间窗口惊喜→脸压痛苦→行业悲观→释然交给时间。",
+      "patterns": [
+        "好奇→无奈→惊喜→痛苦→悲观→释然"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "能显示出一块这么大的屏幕呢",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "所以现在还不能独立使用",
+          "note": "无奈"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "在刚体验Vision Pro时 我的感觉是 一切都复得通了",
+          "note": "通了惊喜"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "非常之類的重量",
+          "note": "重量痛苦"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "释然"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题「很牛但没用」在行业失败谱与「交给时间最残酷力量」中完成裁决闭环。",
+      "patterns": [
+        "牛/没用裁决",
+        "时间闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s128",
+          "snippet": "但无论如何Vision Pro已经来论",
+          "note": "已经来到"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "它到底能不能成",
+          "note": "能不能成"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "交给时间"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「最后我得说」欲言又止式收尾，弱CTA，把判断权交给观众与时间。",
+      "patterns": [
+        "欲言又止",
+        "判断权出让"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s133",
+          "snippet": "最后我得说",
+          "note": "最后我得说"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "不是为一个是我一个做视频的能想明白的",
+          "note": "做视频的想不明白"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "诶诶填充、ASR乱码夹英文、口语「不合格/没有游戏基因」，体验细节20分钟摘下。",
+      "patterns": [
+        "诶填充",
+        "体验分钟数",
+        "基因口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我说 诶 诶 诶 诶 诶 诶诶",
+          "note": "诶诶"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "20分鐘後",
+          "note": "20分钟"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "但是蘋果並沒有做遊戲的基因",
+          "note": "游戏基因"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR大量损坏（V-SIM/重量数字抖动）；中段窗口跳号；结尾「你」字截断。",
+      "patterns": [
+        "ASR严重",
+        "跳号",
+        "结尾截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "诶 诶  for �",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "現在主流VR眼鏡的賣點",
+          "note": "跳号"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "你",
+          "note": "你截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场推「放大镜虚像→像素问题」；串联苹果四年传感器伏笔证明空间计算布局。",
+      "patterns": [
+        "光学推理外露",
+        "产品史伏笔串联"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "其实类似一个放大镜",
+          "note": "类似放大镜"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "苹果在四年前给iPad Pro 打载了Lighter 窗感器",
+          "note": "四年前LiDAR"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "也是为了能让训练的程序 能感觉到真实的物理世界",
+          "note": "感知真实物理世界"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当一起拆产品的极客朋友，用「我们知道的只有钉钉」拉国内语境。",
+      "patterns": [
+        "极客朋友",
+        "国内语境锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我们不方看一看这个最简单的比二眼镜",
+          "note": "不妨看一看"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "国内我们知道的只有低音",
+          "note": "国内只有钉钉"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "手机双目演示、Mac投射、红外扫描、20分钟需休息、Quest/HoloLens失败年限。",
+      "patterns": [
+        "演示锚",
+        "投射锚",
+        "时长锚",
+        "竞品锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你在手机上打开一个这样的双目视频",
+          "note": "双目视频"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "直接投到V-SIM Pro里",
+          "note": "投到Vision Pro"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "20分鐘後",
+          "note": "20分钟"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "五年了",
+          "note": "五年了"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "光学中密→办公低密→空间功能高密→人体工程学中密→行业点名列表高密→哲理降密。",
+      "patterns": [
+        "光学中",
+        "空间高",
+        "人因中",
+        "行业列表高",
+        "哲理降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "所以星期都就变差了",
+          "note": "清晰度"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "你可以同时摆非常多的窗口",
+          "note": "多窗口"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "都還沒有學得成功",
+          "note": "大公司未成功"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "时间"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "演示短句与原理说明长句交替；失败产品名呈列举排比后接「很正常」。",
+      "patterns": [
+        "短演示/长原理",
+        "失败列举排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "同样也能看到一个巨大的屏幕",
+          "note": "看到巨大屏幕"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "這早的國務眼鏡",
+          "note": "两代后放弃"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "这个很正常的事情",
+          "note": "很正常"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式冷静测评：先让你懂原理再泼冷水，拒绝做预言家。",
+      "patterns": [
+        "先懂再冷",
+        "拒预言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "在刚体验Vision Pro时 我的感觉是 一切都复得通了",
+          "note": "先通了"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "不是为一个是我一个做视频的能想明白的",
+          "note": "想不明白交给时间"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「脸上挂电影」「很牛但没用」「最大问题是重心」「交给时间」。",
+      "patterns": [
+        "脸上电影",
+        "牛但没用",
+        "重心",
+        "时间裁决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这本上就是在脸上光个电影运",
+          "note": "脸上电影"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "而是重心",
+          "note": "重心"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "时间残酷力量"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "手边演示讲清原理→场景亮点→人因/社交冷水→行业坐标→拒预言的测评骨架可直接用于观宇硬件评测。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "你在手机上打开一个这样的双目视频",
+          "note": "手边演示"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "而是重心",
+          "note": "人因冷水"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "是能交给这时间最残酷的力量",
+          "note": "拒预言收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s10",
+    "s16",
+    "s27",
+    "s33",
+    "s55",
+    "s83",
+    "s115",
+    "s132",
+    "s2",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s53",
+    "s54",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s84",
+    "s85",
+    "s86",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s133",
+    "s134",
+    "s18",
+    "s19"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1518 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_-NkxRoyHuzY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=-NkxRoyHuzY",
+  "source_sha256": "43f27de123063810aac4875f786db68fda8f76da8649070fb5afb1e335fdd6ac",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 117,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 2,
+      "snippet": "上周"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "我去了趟蘋果"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "在上海的"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "應用研究實驗室"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "他們給我看了三個"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "用來折磨手機的設備"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "一進門就看到了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "我最喜歡的機械臂"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "在我們工作室"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 3,
+      "snippet": "機械臂"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "是用來拍手機的"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "而在這裡"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "也是用來拍手機的"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "這其實是一個"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "跌落測試設備"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "工作人員會讓機械臂"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "按照某個路徑運動"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "把手機摔下去"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "這個路徑可以"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "完全復現"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "如果測出來"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "某個路徑下"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 6,
+      "snippet": "把手機摔壞了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "就可以針對性"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "調整設計"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "然後把調整後的手機"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "再按照這個路徑"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 3,
+      "snippet": "摔一次"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 2,
+      "snippet": "好疼"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "不想再被摔了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 2,
+      "snippet": "於是"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "我們又連續摔了3次"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "手機幾乎每次"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "都落在了相同的位置"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "甚至連角度都一樣"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "這個復現的精確度"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "真挺高"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "我謝謝你啊"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "不過更讓我好奇的"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "是接下來這個"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "放在橙色"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "玻璃房內的設備"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "它看起來就像是"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "《星球大戰》裡面的"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "R2D2"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "它其實是一個"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 5,
+      "snippet": "振動測試台"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "通過下面的電機"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "驅動上方平台"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "在z軸上下運動"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "來振動手機"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "通過這個測試"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "我們就可以"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "給手機減脂"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "通過了這個測試"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "手機在運輸"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "和日常交通中"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "損壞的幾率"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "就會大大減少"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "對於光學防抖"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "之類的組件"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "挑戰還是挺大的"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 3,
+      "snippet": "地震啦"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "大家快跑"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 4,
+      "snippet": "不要管我"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "最後一個測試"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "防水測試"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "我們經常能看到"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "IPXX之類的"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 4,
+      "snippet": "數字組合"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 3,
+      "snippet": "代表的"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "就是設備的防護等級"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 8,
+      "snippet": "最後一個數字越高"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "防水性能就越好"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 8,
+      "snippet": "最基礎的防水等級"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 4,
+      "snippet": "就是這個"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 7,
+      "snippet": "下著小雨的裝置"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 5,
+      "snippet": "它可以測試"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "IPX1和2的防水等級"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "只要iPhone"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "能堅持10分鐘"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 4,
+      "snippet": "就算通過"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 7,
+      "snippet": "看起來過於輕鬆"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "以至於它自己都覺得"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "有點“無雨”"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 4,
+      "snippet": "旁邊這個"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "稍微炫酷一點"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 6,
+      "snippet": "會在3分鐘內"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "朝iPhone"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 8,
+      "snippet": "連續噴30多升水"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 6,
+      "snippet": "別說洗手機了"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 5,
+      "snippet": "洗車都夠了"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 8,
+      "snippet": "而防水的最高等級"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 4,
+      "snippet": "IPX8"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 6,
+      "snippet": "反而是在旁邊"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 8,
+      "snippet": "不起眼的角落里的"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 4,
+      "snippet": "這個水箱"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 6,
+      "snippet": "相貌平平無奇"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 9,
+      "snippet": "但卻可以通過增壓器"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "模擬出不同的水深"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 9,
+      "snippet": "最高可以模擬到6米"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 8,
+      "snippet": "手機得在這個裡面"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 10,
+      "snippet": "待滿30分鐘才算通過"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 6,
+      "snippet": "不知道為什麼"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 8,
+      "snippet": "我最近壓力有點大"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 4,
+      "snippet": "相比之下"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 9,
+      "snippet": "還是IPX5的測試"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 7,
+      "snippet": "看起來更有意思"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 5,
+      "snippet": "我又嘗試著"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 3,
+      "snippet": "拿手機"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 8,
+      "snippet": "近距離拍攝了一下"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "測試過程"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 8,
+      "snippet": "結果被水噴得夠嗆"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 2,
+      "snippet": "於是"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 7,
+      "snippet": "我們搖來了一台"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 5,
+      "snippet": "高速攝影機"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 8,
+      "snippet": "拍到了這樣的畫面"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「上周我去了苹果上海应用研究实验室」地点钩，预告三台折磨手机设备。",
+      "patterns": [
+        "地点钩",
+        "三设备预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "上周",
+          "note": "上周"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我去了趟蘋果",
+          "note": "去了苹果"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "他們給我看了三個",
+          "note": "三个设备"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "用來折磨手機的設備",
+          "note": "折磨手机"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "机械臂跌落复现→振动台减脂运输→防水IP等级雨淋到加压水箱→高速摄影收趣味。",
+      "patterns": [
+        "跌落",
+        "振动",
+        "防水阶梯",
+        "高速摄影"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "跌落測試設備",
+          "note": "跌落测试"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "振動測試台",
+          "note": "振动测试台"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "防水測試",
+          "note": "防水测试"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "高速攝影機",
+          "note": "高速摄影机"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "drop_test",
+          "note": "机械臂跌落复现与拟人吐槽"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "vibration_test",
+          "note": "R2D2振动台与运输减损"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87"
+          ],
+          "function": "waterproof_basic",
+          "note": "IP等级与小雨装置"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134"
+          ],
+          "function": "waterproof_extreme_fun",
+          "note": "喷水/IPX8水箱+高速摄影"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「而在这里也是」「不过更让我好奇」「最后一个测试」「相比之下」。",
+      "patterns": [
+        "而在这里",
+        "更好奇",
+        "最后测试",
+        "相比之下"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "而在這裡",
+          "note": "而在这里"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "不過更讓我好奇的",
+          "note": "更好奇"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "最後一個測試",
+          "note": "最后测试"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "相比之下",
+          "note": "相比之下"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "工作室机械臂拍手机 vs 实验室摔手机；IP基础小雨太轻松 vs IPX5喷30升；貌不惊人水箱却是最高等级。",
+      "patterns": [
+        "拍/摔",
+        "小雨/喷水",
+        "貌不起眼/最高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "是用來拍手機的",
+          "note": "拍手机"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "也是用來拍手機的",
+          "note": "也是拍=摔"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "看起來過於輕鬆",
+          "note": "过于轻松"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "30多升"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "相貌平平無奇",
+          "note": "平平无奇"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "少用疑问句，以「不知道为什么我最近压力有点大」拟人吐槽代替设问。",
+      "patterns": [
+        "拟人压力吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s121",
+          "snippet": "不知道為什麼",
+          "note": "不知道为什么"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "好疼",
+          "note": "好疼"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "连续摔3次同落点；R2D2外形振动台；IPX1/2十分钟；3分钟喷30升；模拟6米深30分钟。",
+      "patterns": [
+        "摔3次",
+        "R2D2",
+        "IPX1-2",
+        "30升",
+        "6米30分"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "我們又連續摔了3次",
+          "note": "连续摔3次"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "R2D2",
+          "note": "R2D2"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "就算通過",
+          "note": "10分钟通过"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "30多升"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "最高可以模擬到6米",
+          "note": "6米"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「复现」落到路径角度相同；「减脂」落到运输振动损坏率下降；防水落到具体升数水深。",
+      "patterns": [
+        "路径复现",
+        "减脂具象",
+        "升数水深"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "甚至連角度都一樣",
+          "note": "角度一样"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "給手機減脂",
+          "note": "给手机减脂"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "30升水"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「复现精确度真挺高」「看起来过于轻松」「相貌平平无奇」。",
+      "patterns": [
+        "挺高",
+        "过于轻松",
+        "平平无奇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "真挺高",
+          "note": "挺高"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "看起來過於輕鬆",
+          "note": "过于轻松"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "相貌平平無奇",
+          "note": "平平无奇"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "手机拟人「不想再被摔」后立刻「于是我们又连续摔了3次」反差修正节奏。",
+      "patterns": [
+        "不想摔→再摔3次"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "不想再被摔了",
+          "note": "不想再摔"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "我們又連續摔了3次",
+          "note": "又摔3次"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "参观引入中速→跌落段玩笑顿挫→振动稳讲→防水等级递进加速→被喷水笑点→高速摄影收。",
+      "patterns": [
+        "中速引入",
+        "玩笑顿挫",
+        "稳讲",
+        "递进加速",
+        "笑点",
+        "影像收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "好疼",
+          "note": "好疼顿挫"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "振動測試台",
+          "note": "稳讲"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "加速"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "結果被水噴得夠嗆",
+          "note": "笑点"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇参观→机械臂喜感→共情疼痛→振动紧张玩笑→防水轻松到震撼→自己被喷狼狈→视觉爽感。",
+      "patterns": [
+        "好奇",
+        "喜感",
+        "共情",
+        "紧张",
+        "震撼",
+        "狼狈",
+        "爽感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我最喜歡的機械臂",
+          "note": "最喜欢"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "好疼",
+          "note": "好疼"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "地震啦",
+          "note": "地震啦"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "震撼"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "結果被水噴得夠嗆",
+          "note": "被喷"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场三设备折磨预告，收束高速摄影拍到画面，把测试变成视觉作品。",
+      "patterns": [
+        "三设备开",
+        "高速摄影收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "用來折磨手機的設備",
+          "note": "折磨预告"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "我們搖來了一台",
+          "note": "摇来高速机"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "拍到了這樣的畫面",
+          "note": "这样的画面"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式关注CTA；以「拍到了这样的画面」视觉钩保留完播/下一镜期待。",
+      "patterns": [
+        "视觉钩软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s134",
+          "snippet": "拍到了這樣的畫面",
+          "note": "这样的画面"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "工作室对比私货；手机拟人「我谢谢你」；「无雨」谐音梗；自己被喷够呛。",
+      "patterns": [
+        "工作室私货",
+        "拟人谢谢",
+        "无雨梗",
+        "被喷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "在我們工作室",
+          "note": "工作室"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "我謝謝你啊",
+          "note": "我谢谢你"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "有點“無雨”",
+          "note": "无雨"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "結果被水噴得夠嗆",
+          "note": "被喷够呛"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED中段跳号；防水等级讲解不完整；结尾悬在画面无总结观点。",
+      "patterns": [
+        "截断跳号",
+        "讲解不全",
+        "无观点收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s87",
+          "snippet": "稍微炫酷一點",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "會在3分鐘內",
+          "note": "跳号后"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "拍到了這樣的畫面",
+          "note": "悬收"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「坏路径复现→针对性改设计→再同路径验证」的测试闭环思维。",
+      "patterns": [
+        "复现改设计再验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "把手機摔壞了",
+          "note": "摔坏了"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "調整設計",
+          "note": "调整设计"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "摔一次",
+          "note": "再摔一次"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "科技爱好者参观视角，用「我们」带观众一起看测试，拟人台词降低门槛。",
+      "patterns": [
+        "参观带看",
+        "拟人降门槛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一進門就看到了",
+          "note": "一进门"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "我們就可以",
+          "note": "我们就可以"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "大家快跑",
+          "note": "大家快跑"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "上海实验室；连续摔3次同落点；IPX1/2十分钟；3分钟30升；IPX8模拟6米30分。",
+      "patterns": [
+        "上海",
+        "摔3次",
+        "10分钟",
+        "30升",
+        "6米30分"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "在上海的",
+          "note": "上海"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "我們又連續摔了3次",
+          "note": "摔3次"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "能堅持10分鐘",
+          "note": "10分钟"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "30升"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "待滿30分鐘才算通過",
+          "note": "30分钟"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "引入低密→跌落中密→振动中密→IP讲解高密→趣味低密收。",
+      "patterns": [
+        "低",
+        "中跌落",
+        "中振动",
+        "高IP",
+        "低趣味"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "用來折磨手機的設備",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "跌落測試設備",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "最後一個數字越高",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "結果被水噴得夠嗆",
+          "note": "低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短字幕句推进；双关「拍手机」；拟人短吐槽；参数短句堆叠。",
+      "patterns": [
+        "极短句",
+        "双关",
+        "拟人吐槽",
+        "参数堆叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "機械臂",
+          "note": "极短"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "也是用來拍手機的",
+          "note": "双关拍"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "好疼",
+          "note": "吐槽"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "参数"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "好奇极客导游：实验室测试当展品讲解，夹带拟人喜剧与谐音。",
+      "patterns": [
+        "极客导游",
+        "拟人喜剧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我最喜歡的機械臂",
+          "note": "最喜欢机械臂"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "給手機減脂",
+          "note": "减脂双关"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "有點“無雨”",
+          "note": "无雨梗"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "折磨手机的设备；也是用来拍手机的；给手机减脂；洗车都够了；高速摄影。",
+      "patterns": [
+        "折磨设备",
+        "拍手机双关",
+        "减脂",
+        "洗车够了",
+        "高速机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "用來折磨手機的設備",
+          "note": "折磨"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "也是用來拍手機的",
+          "note": "拍手机"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "給手機減脂",
+          "note": "减脂"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "洗車都夠了",
+          "note": "洗车"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "高速攝影機",
+          "note": "高速机"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "实验室三测试参观+拟人笑点+参数锚的科技口播模板可直接用于观宇硬件探厂。",
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "用來折磨手機的設備",
+          "note": "三设备钩"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "跌落測試設備",
+          "note": "跌落段"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "連續噴30多升水",
+          "note": "参数锚"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s15",
+    "s47",
+    "s67",
+    "s133",
+    "s3",
+    "s4",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s134"
+  ],
+  "fields_complete_25": true
+}

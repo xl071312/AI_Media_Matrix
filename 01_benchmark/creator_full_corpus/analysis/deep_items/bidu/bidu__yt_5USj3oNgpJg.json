@@ -1,0 +1,1268 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_5USj3oNgpJg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=5USj3oNgpJg",
+  "source_sha256": "ad8f49fd8ea56a5a386ddde10e84002d74a8b05a740d0a44279b205df14adab5",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 77,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 21,
+      "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 21,
+      "snippet": "其實宇宙年齡可以輕鬆算出來一個公式就能搞定"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 26,
+      "snippet": "我們的宇宙在不停的膨脹這最早是哈勃在1929年發現的"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 14,
+      "snippet": "對 就是哈勃共演進了一個哈勃"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 23,
+      "snippet": "如果新鮮們只是在一周固定大小的宇宙裡面各自運動"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 17,
+      "snippet": "他们应该会有些靠近我们有些远离我们"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 18,
+      "snippet": "但哈伯发现几乎所有的星系都在远离我们"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "而且距离我们越远的星系"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "远离我们的速度就越快"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 17,
+      "snippet": "星系远离的速度还和到我们的距离成正"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "这只规律就叫做哈伯定律"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "这比例就叫哈伯常数"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 15,
+      "snippet": "宇宙的横帐有点像这张皮精被拉长"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "这时我的左手和两只骂长都觉得自己没动"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 14,
+      "snippet": "但他们还是会觉得比此越来越远"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "而且在我的左手上来"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 17,
+      "snippet": "离左手远的骂长比近的骂长远离得更快"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "把皮精被拉长都过程到放一下"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "自然就能往回追俗"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "它被拉长的多久"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "酸宇宙的连离也一样"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 23,
+      "snippet": "只要从星系的距离和速度到推宇宙横帐的多久就行了"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 18,
+      "snippet": "最简单的假设是哈伯常数不变的余速横帐"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "这种余速可能和你想不太一样"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "其实我右手拉皮精的速会越来越快"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 11,
+      "snippet": "比如一开始皮精是1厘米"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "1秒周后变成2厘米"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "2秒周后它就是4厘米"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "3秒钟就是8厘米"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "这个余速指的是横帐率不变"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "这一位传信息离我们越远的时候"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "离开我们宿度越快"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "所以距离成正义的技术恰好能消掉"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "在这种条件下"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 16,
+      "snippet": "余周的连离就越等于哈伯常数的道数"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 13,
+      "snippet": "哈伯常数大展是67000米"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "每秒每MPC"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "MPC是个很大的距离单位"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "越等于300万光年"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 15,
+      "snippet": "现在离咱们一MPC那么远的东西"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 16,
+      "snippet": "远离我们的速度是67000米每秒"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "这么一算"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 13,
+      "snippet": "余周的连离大展是144厘米"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "竟然还挺准确的"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "不过这咋还有一点误差呢"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "因为哈伯常数其实是个时间的寒数"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "虽然在余周里所有地方都一样"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 13,
+      "snippet": "但他会随于余周的眼花而变化"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "所以这世子要做一点点修改"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "这个机分长这样"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 20,
+      "snippet": "被前面的算出来的余周年龄成了一个修正系数"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "大约是0.9565"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 15,
+      "snippet": "成一下就得到了138亿岁的结果"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 17,
+      "snippet": "算余周的年龄是不是一小不到的简单呢"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 12,
+      "snippet": "如果只是算着余周年龄的话"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "其实没什么大不了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "真正地我今天的事"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "余周在138亿年前的生日"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "竟然是可以会计算的"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 13,
+      "snippet": "占余周总质量26%的案物质"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "69%的案能量"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 13,
+      "snippet": "我们人类对他们几乎一无所需"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 12,
+      "snippet": "然而天文学家就像真太一样"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 12,
+      "snippet": "在各种天文学现象的细节中"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "找到了线索"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 13,
+      "snippet": "真的推算出了他们的质量占比"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 9,
+      "snippet": "让我们即便困于地球"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "也能推演出宇宙的过去"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 5,
+      "snippet": "现在和未来"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "最牢的人只能回忆百年"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 6,
+      "snippet": "一直千年网吧"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "制多见过宋明的光级"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 15,
+      "snippet": "埋余地下的时辈或许能流存百万年"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 13,
+      "snippet": "而你的思维却不受时中的限制"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 8,
+      "snippet": "持成在整个宇宙中"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 11,
+      "snippet": "大概这才是我描述的人类"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 5,
+      "snippet": "最浪漫的事"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「你怎么知道宇宙年龄？算过生辰八字吗？」玩笑提问，宣称一个公式搞定。",
+      "patterns": [
+        "玩笑八字问",
+        "一公式宣称"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "八字玩笑"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "其實宇宙年齡可以輕鬆算出來一個公式就能搞定",
+          "note": "一公式搞定"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "哈勃膨胀→距离速度正比→橡皮筋类比倒推→H0倒数≈年龄→修正系数→138亿→暗物质能量浪漫收。",
+      "patterns": [
+        "膨胀发现",
+        "哈勃定律",
+        "倒推年龄",
+        "修正",
+        "浪漫收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我們的宇宙在不停的膨脹這最早是哈勃在1929年發現的",
+          "note": "哈勃1929"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这只规律就叫做哈伯定律",
+          "note": "哈伯定律"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "余周的连离就越等于哈伯常数的道数",
+          "note": "年龄=倒数"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "最浪漫"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "hubble_law",
+          "note": "膨胀与哈勃定律常数"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "rubber_band_analogy",
+          "note": "皮筋类比倒推时间"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "constant_H_age",
+          "note": "匀速膨胀假设与H倒数"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54"
+          ],
+          "function": "compute_correct",
+          "note": "H0数值计算+修正到138亿"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77"
+          ],
+          "function": "romance_close",
+          "note": "暗成分与思维穿越浪漫"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「其实」「对就是哈勃」「这么一算」「不过这咋还有一点误差」推进。",
+      "patterns": [
+        "其实",
+        "对就是",
+        "这么一算",
+        "不过误差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "其實宇宙年齡可以輕鬆算出來一個公式就能搞定",
+          "note": "其实"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "對 就是哈勃共演進了一個哈勃",
+          "note": "对就是哈勃"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这么一算",
+          "note": "这么一算"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "不过这咋还有一点误差呢",
+          "note": "不过误差"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "若宇宙固定大小应有靠近/远离 vs 几乎全远离；简单倒数 vs 需修正系数。",
+      "patterns": [
+        "固定宇宙反事实",
+        "简单/修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "他们应该会有些靠近我们有些远离我们",
+          "note": "应有靠近"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但哈伯发现几乎所有的星系都在远离我们",
+          "note": "几乎全远离"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "不过这咋还有一点误差呢",
+          "note": "有误差"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "被前面的算出来的余周年龄成了一个修正系数",
+          "note": "乘修正系数"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场八字问；「它被拉长多久」；「算宇宙年龄是不是一分钟不到」复盘问。",
+      "patterns": [
+        "八字问",
+        "多久问",
+        "一分钟问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "八字"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "它被拉长的多久",
+          "note": "拉长多久"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "算余周的年龄是不是一小不到的简单呢",
+          "note": "一分钟简单吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "左手蚂蚁皮筋；1cm→2→4→8指数拉长；H0≈67000m/s/Mpc；修正0.9565。",
+      "patterns": [
+        "皮筋蚂蚁",
+        "指数拉长",
+        "H0数值",
+        "0.9565"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "这时我的左手和两只骂长都觉得自己没动",
+          "note": "左手蚂蚁"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "比如一开始皮精是1厘米",
+          "note": "1厘米"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "哈伯常数大展是67000米",
+          "note": "67000米"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "大约是0.9565",
+          "note": "0.9565"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「膨胀」落到皮筋蚂蚁；「年龄」落到H0倒数再乘0.9565得138亿。",
+      "patterns": [
+        "皮筋具象",
+        "算式具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "宇宙的横帐有点像这张皮精被拉长",
+          "note": "皮筋被拉长"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "余周的连离就越等于哈伯常数的道数",
+          "note": "倒数"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿岁"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「竟然还挺准确」「真正了不起的是」「大概这才是…最浪漫的事」。",
+      "patterns": [
+        "挺准确",
+        "了不起",
+        "最浪漫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "竟然还挺准确的",
+          "note": "挺准确"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "真正地我今天的事",
+          "note": "真正…事"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "最浪漫"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先算144亿「挺准确」，马上承认有误差并引入时间相关修正。",
+      "patterns": [
+        "144→修正138"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "余周的连离大展是144厘米",
+          "note": "144"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "不过这咋还有一点误差呢",
+          "note": "有误差"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "玩笑快开→定律讲解中速→皮筋类比放慢→数值计算加速→浪漫抒情放慢收。",
+      "patterns": [
+        "快开",
+        "中速讲",
+        "类比慢",
+        "计算快",
+        "抒情慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "快开"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "宇宙的横帐有点像这张皮精被拉长",
+          "note": "类比"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "哈伯常数大展是67000米",
+          "note": "计算"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "而你的思维却不受时中的限制",
+          "note": "抒情"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "其实"
+        },
+        {
+          "type": "discourse",
+          "form": "对 就是"
+        },
+        {
+          "type": "discourse",
+          "form": "这么一算"
+        },
+        {
+          "type": "discourse",
+          "form": "不过"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "其實宇宙年齡可以輕鬆算出來一個公式就能搞定",
+          "note": "其实"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "對 就是哈勃共演進了一個哈勃",
+          "note": "对就是"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这么一算",
+          "note": "这么一算"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "不过这咋还有一点误差呢",
+          "note": "不过"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "玩笑轻松→科学惊奇→类比恍然→计算满足→误差警惕→浪漫升华。",
+      "patterns": [
+        "轻松",
+        "惊奇",
+        "恍然",
+        "满足",
+        "警惕",
+        "浪漫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "轻松"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "但哈伯发现几乎所有的星系都在远离我们",
+          "note": "惊奇"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "竟然还挺准确的",
+          "note": "满足"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "不过这咋还有一点误差呢",
+          "note": "警惕"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "浪漫"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场能否算出宇宙年龄，收束思维可驰骋宇宙是人类最浪漫的事。",
+      "patterns": [
+        "年龄问开",
+        "浪漫收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "年龄问"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "最浪漫"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬广；「算年龄一分钟不到」能力炫耀式软CTA，邀观众感受浪漫。",
+      "patterns": [
+        "能力炫耀软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "算余周的年龄是不是一小不到的简单呢",
+          "note": "一分钟简单"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "最浪漫"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "生辰八字梗；皮筋蚂蚁口语；ASR「余周/横帐」错听显真人。",
+      "patterns": [
+        "八字梗",
+        "蚂蚁口语",
+        "ASR错听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "八字"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这时我的左手和两只骂长都觉得自己没动",
+          "note": "蚂蚁"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "余周的连离大展是144厘米",
+          "note": "余周连离"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（哈伯/余周）；匀速假设讲解易混指数；暗物质段偏题抒情。",
+      "patterns": [
+        "ASR错字",
+        "假设易混",
+        "抒情偏题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这只规律就叫做哈伯定律",
+          "note": "哈伯"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这个余速指的是横帐率不变",
+          "note": "余速易混"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "占余周总质量26%的案物质",
+          "note": "暗物质跳"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「定律→类比倒推→简化计算→承认误差修正」的科学推导暴露。",
+      "patterns": [
+        "推导链暴露",
+        "误差修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "只要从星系的距离和速度到推宇宙横帐的多久就行了",
+          "note": "倒推多久"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "余周的连离就越等于哈伯常数的道数",
+          "note": "简化公式"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以这世子要做一点点修改",
+          "note": "做修改"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准科普小白，用「你怎么知道」「是不是一分钟」拉齐参与感。",
+      "patterns": [
+        "小白同盟",
+        "一分钟挑战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "你怎么知道"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "算余周的年龄是不是一小不到的简单呢",
+          "note": "是不是简单"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1929哈勃；H0=67000m/s/Mpc；Mpc≈300万光年；修正0.9565；138亿岁。",
+      "patterns": [
+        "1929",
+        "67000",
+        "300万光年",
+        "0.9565",
+        "138亿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "我們的宇宙在不停的膨脹這最早是哈勃在1929年發現的",
+          "note": "1929"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "哈伯常数大展是67000米",
+          "note": "67000"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "越等于300万光年",
+          "note": "300万光年"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密玩笑→定律中密→类比中密→数值高密→抒情低密。",
+      "patterns": [
+        "低",
+        "中定律",
+        "中类比",
+        "高数值",
+        "低抒情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这只规律就叫做哈伯定律",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "哈伯常数大展是67000米",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "而你的思维却不受时中的限制",
+          "note": "低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句开；短句定律；类比叙事中长；数字短句连发；抒情长句收。",
+      "patterns": [
+        "问句",
+        "定律短",
+        "类比中",
+        "数字连发",
+        "抒情长"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "问"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "这比例就叫哈伯常数",
+          "note": "短"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "2秒周后它就是4厘米",
+          "note": "数字"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "而你的思维却不受时中的限制",
+          "note": "长抒情"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "俏皮科普者：八字玩笑开场，用皮筋算宇宙，收束人类思维浪漫。",
+      "patterns": [
+        "俏皮科普",
+        "浪漫收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "俏皮"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "宇宙的横帐有点像这张皮精被拉长",
+          "note": "皮筋教具"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "浪漫"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "生辰八字算宇宙；哈勃定律；皮筋蚂蚁；H倒数；138亿岁；最浪漫。",
+      "patterns": [
+        "八字",
+        "哈勃",
+        "皮筋",
+        "倒数",
+        "138亿",
+        "浪漫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "你怎麼知道宇宙的年齡的你算過他生存八字嗎?",
+          "note": "八字"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这只规律就叫做哈伯定律",
+          "note": "定律"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "宇宙的横帐有点像这张皮精被拉长",
+          "note": "皮筋"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "138亿"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "大概这才是我描述的人类",
+          "note": "浪漫"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "一公式口算宇宙年龄的类比+计算+修正+升华骨架可直接改编观宇冷知识口播。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "其實宇宙年齡可以輕鬆算出來一個公式就能搞定",
+          "note": "一公式"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "宇宙的横帐有点像这张皮精被拉长",
+          "note": "类比"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "成一下就得到了138亿岁的结果",
+          "note": "结果"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s11",
+    "s35",
+    "s53",
+    "s76",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s77"
+  ],
+  "fields_complete_25": true
+}

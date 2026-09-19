@@ -1,0 +1,42 @@
+{
+  "checkpoint": 330,
+  "structural_pass": true,
+  "gates": {
+    "n_ge_330": true,
+    "creators_6": true,
+    "spoken_ge_180": true,
+    "text_ge_150": true,
+    "oral_creators_ge_4": true,
+    "each_creator_ge_30": true,
+    "has_three_tiers": true,
+    "fields_25_rate": true,
+    "no_marker_misuse": true
+  },
+  "creators": {
+    "wushi_caijing": 50,
+    "banfo_xianren": 70,
+    "bidu": 50,
+    "wenyifei_jijiu": 50,
+    "hetongxue": 50,
+    "xiaolin_shuo": 60
+  },
+  "mods": {
+    "FULL_SPOKEN": 180,
+    "COMPLETE_TEXT": 150
+  },
+  "tiers": {
+    "HIGH": 132,
+    "MEDIAN": 99,
+    "CONTROL": 99
+  },
+  "field_rate": 1.0,
+  "template_risk": 0,
+  "schema_errs": [],
+  "misuse": 0,
+  "oral_creators": [
+    "bidu",
+    "hetongxue",
+    "wushi_caijing",
+    "xiaolin_shuo"
+  ]
+}

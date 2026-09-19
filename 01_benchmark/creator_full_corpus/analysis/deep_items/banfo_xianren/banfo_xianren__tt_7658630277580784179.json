@@ -1,0 +1,1023 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7658630277580784179",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7658630277580784179/",
+  "source_sha256": "a8eda1c5d6e55a867fc7631ed137588508dbb4c1e47a3f47adc2c0eb9e793b78",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 47,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "品鉴一个很魔幻的新闻。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 20,
+      "snippet": "果子的新一代手机产品被泄露了一个底朝天。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "（新闻来自财联社）"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 91,
+      "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开发流程，零件细节，以及供应商名单和设计图说直接点，这些资料足够数码同行研究很久了"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 21,
+      "snippet": "或者说直接一点，华强北提前拿到了操作指南。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "这一代肯定会大干一番。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 61,
+      "snippet": "果子过去也出现过各种泄露事件，但这次比之前加起来都猛，是真的彻底露了也泄了，果子的人看到这么特别的泄露，都直接要说泄特了。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "但这一切都是自找的。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 19,
+      "snippet": "因为谁让要生产咖喱味的iphone呢。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 59,
+      "snippet": "你东西放在印度弄，搞出什么魔幻的事情，都应该像是人会吃饭喝水一样自然而然，那是一个神奇的土地，是魔幻的试验田，培养皿。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "细菌去了那边都得捂着屁股。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 58,
+      "snippet": "而且讲道理，虽然已经泄露个底朝天，同行都在彻夜研究，但那甚至是印度老铁们严格训练了，因为起码还没开始大规模倒卖零件。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 38,
+      "snippet": "当然，这里只是说还没开始，不是说他们不会做，他们会做的事情太多根本没法预测。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 23,
+      "snippet": "我们都知道，事情的严重程度，一般分为六个级别。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 15,
+      "snippet": "轻度，中度，重度，极度，超度。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "以及印度。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 57,
+      "snippet": "就这么一个变形金刚去了都得改排气管，连蜥蜴过去都得立马进化出一双手这样才能捂住屁股逃跑的地方，居然要组装果子手机。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 32,
+      "snippet": "当年路虎自打被塔塔收购之后，那真的是一言难尽，工地大哥都不买了。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 22,
+      "snippet": "选择印度，这不是印度有问题，这是果子有问题。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 57,
+      "snippet": "果子的老对手三星也好，小米也罢，那都是在印度吃过大亏的，且一个比一个大，果子微微一笑，看我操作，然后吃下一个满大。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 17,
+      "snippet": "一边脸都要肿辣还要笑着说问题不大。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 29,
+      "snippet": "刚说完就没声了，以为是沉默了结果是看着泄露的资料昏过去了。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 54,
+      "snippet": "印度这个地方，网上有很多说法，什么脏乱差，什么治安差，什么环境不行，什么人不行，什么抽象事件，什么神经兮兮。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "我告诉你，都是网友的想象。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 18,
+      "snippet": "因为印度的魔幻，你们根本就想象不到。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 21,
+      "snippet": "我年轻的时候不懂事儿，出国旅游，选了印度。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 31,
+      "snippet": "坦率地说，从决定的那一刻开始，我已经做好了物理准备和心理准备。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 20,
+      "snippet": "但我还是准备不足，因为没有做好生理准备。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 52,
+      "snippet": "我到那边，住的是五星酒店，并且奉行一个原则，坚决不吃任何乱七八糟的小吃，不喝自来水，只喝未拆封的瓶装水。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 39,
+      "snippet": "我们去了6个人，其他人没有我这么准备充分，分分钟就开始拉肚子中招在酒店虚脱了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "为此，我很自豪。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "他们，太弱了。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 64,
+      "snippet": "但很快，我自豪不起来了，因为我得洗澡，他们他喵的酒店洗澡水有问题，不干净，而人的嘴，皮肤，眼珠，乃至肛门直肠，都是可以吸收水的。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 20,
+      "snippet": "这就导致我最后还是加入了他们虚脱的队伍。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "最后大家一起躺了。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 39,
+      "snippet": "像极了这对去印度的手机品牌，最后八仙过海各显神通，但不耽误最后结局，一起躺了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 24,
+      "snippet": "你甚至不能怪印度，因为人家很平等，没有区别对待。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "谁来，都是躺。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 19,
+      "snippet": "图片截取自: 果子被印度坑了，太正常了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "品鉴魔幻新闻开场：果子新机供应链被印度泄了个底朝天。",
+      "patterns": [
+        "魔幻新闻品鉴钩",
+        "供应链泄密冲击"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "品鉴一个很魔幻的新闻"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "果子的新一代手机产品被泄露了一个底朝天。",
+          "note": "果子新一代手机被泄露了一个底朝天"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "完整供应链开发流程"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "不是外形炒作而是供应链全泄露→华强北拿到操作指南→自找的因选印度→严重级别印度封顶→路虎塔塔前车→对手吃过大亏果子再吃→亲历洗澡水中招→平等躺平收束。",
+      "patterns": [
+        "全链路泄露",
+        "自找印度",
+        "印度封顶级",
+        "亲历类比躺平"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "零件细节供应商名单"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "或者说直接一点，华强北提前拿到了操作指南。",
+          "note": "华强北操作指南"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但这一切都是自找的。",
+          "note": "这一切都是自找的"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "因为谁让要生产咖喱味的iphone呢。",
+          "note": "咖喱味iphone"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "以及印度。",
+          "note": "以及印度"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "当年路虎自打被塔塔收购之后，那真的是一言难尽，工地大哥都不买了。",
+          "note": "路虎塔塔"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这就导致我最后还是加入了他们虚脱的队伍。",
+          "note": "加入虚脱队伍"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "leak_shock",
+          "note": "泄露级别与华强北受益"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "india_curse",
+          "note": "印度魔幻自找与前车"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "travel_analogy",
+          "note": "亲历旅行中招类比收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "注意哦/或者说/但这一切/因为谁让/而且讲道理/当然/就这么/我告诉你。",
+      "patterns": [
+        "注意哦转",
+        "但这一切转",
+        "因为谁让转",
+        "我告诉你翻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "注意哦"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "或者说直接一点，华强北提前拿到了操作指南。",
+          "note": "或者说直接一点"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但这一切都是自找的。",
+          "note": "但这一切都是自找的"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "因为谁让要生产咖喱味的iphone呢。",
+          "note": "因为谁让"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "我告诉你，都是网友的想象。",
+          "note": "我告诉你"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "外形炒作泄露vs供应链真泄；训练有素尚未倒卖零件vs会做不可预测；准备充分vs洗澡水中招；八仙过海vs一起躺。",
+      "patterns": [
+        "假泄/真泄",
+        "尚未倒卖/会做",
+        "准备/洗澡中招",
+        "各显神通/一起躺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "不是外形那种泄露"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而且讲道理，虽然已经泄露个底朝天，同行都在彻夜研究，但那甚至是印度老铁们严格训练",
+          "note": "还没开始大规模倒卖"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当然，这里只是说还没开始，不是说他们不会做，他们会做的事情太多根本没法预测。",
+          "note": "不是说他们不会做"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "为此，我很自豪。",
+          "note": "很自豪"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但很快，我自豪不起来了，因为我得洗澡，他们他喵的酒店洗澡水有问题，不干净，而人的",
+          "note": "洗澡水有问题"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "像极了这对去印度的手机品牌，最后八仙过海各显神通，但不耽误最后结局，一起躺了。",
+          "note": "八仙过海一起躺"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不问句推进，靠断言与「我告诉你」否定网友想象。",
+      "patterns": [
+        "断言代问",
+        "我告诉你纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "我告诉你，都是网友的想象。",
+          "note": "我告诉你"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "因为印度的魔幻，你们根本就想象不到。",
+          "note": "根本就想象不到"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "路虎被塔塔收购后工地大哥不买；三星小米吃亏；六人旅行五星酒店仍中招。",
+      "patterns": [
+        "路虎塔塔例",
+        "三星小米例",
+        "五星酒店旅行例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "当年路虎自打被塔塔收购之后，那真的是一言难尽，工地大哥都不买了。",
+          "note": "路虎塔塔一言难尽"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "果子的老对手三星也好，小米也罢，那都是在印度吃过大亏的，且一个比一个大，果子微微",
+          "note": "三星小米吃过大亏"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "我到那边，住的是五星酒店，并且奉行一个原则，坚决不吃任何乱七八糟的小吃，不喝自来",
+          "note": "五星酒店瓶装水原则"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我们去了6个人，其他人没有我这么准备充分，分分钟就开始拉肚子中招在酒店虚脱了。",
+          "note": "其他人拉肚子"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "印度魔幻落到细菌捂屁股/变形金刚改排气管；平等对待落到谁来都躺。",
+      "patterns": [
+        "魔幻→捂屁股画面",
+        "平等→谁来都躺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "细菌去了那边都得捂着屁股。",
+          "note": "细菌捂着屁股"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "就这么一个变形金刚去了都得改排气管，连蜥蜴过去都得立马进化出一双手这样才能捂住屁",
+          "note": "变形金刚改排气管"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "自找的；太正常了；选择印度是果子有问题；都是网友想象。",
+      "patterns": [
+        "自找断",
+        "果子有问题断",
+        "想象纠偏断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但这一切都是自找的。",
+          "note": "都是自找的"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "选择印度，这不是印度有问题，这是果子有问题。",
+          "note": "是果子有问题"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "我告诉你，都是网友的想象。",
+          "note": "都是网友的想象"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先自豪准备充分，很快因洗澡水加入虚脱；先说没倒卖零件，补一句不是不会做。",
+      "patterns": [
+        "自豪→洗澡翻车",
+        "没倒卖→不是不会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "为此，我很自豪。",
+          "note": "我很自豪"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但很快，我自豪不起来了，因为我得洗澡，他们他喵的酒店洗澡水有问题，不干净，而人的",
+          "note": "洗澡水有问题"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而且讲道理，虽然已经泄露个底朝天，同行都在彻夜研究，但那甚至是印度老铁们严格训练",
+          "note": "还没倒卖"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当然，这里只是说还没开始，不是说他们不会做，他们会做的事情太多根本没法预测。",
+          "note": "不是说不会做"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻钩短句→泄露细节中长→印度段子排比加速→旅行叙事降速→谁来都躺短收。",
+      "patterns": [
+        "钩短",
+        "细节中长",
+        "段子加速",
+        "短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "短钩"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "细节中长"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "轻度，中度，重度，极度，超度。",
+          "note": "级别排比"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "短收躺"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "猎奇→嘲讽自找→夸张嫌弃→亲历共情笑→一起躺释然。",
+      "patterns": [
+        "猎奇",
+        "嘲讽",
+        "嫌弃",
+        "共情笑",
+        "释然"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "猎奇魔幻"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但这一切都是自找的。",
+          "note": "嘲讽自找"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "细菌去了那边都得捂着屁股。",
+          "note": "嫌弃捂屁股"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这就导致我最后还是加入了他们虚脱的队伍。",
+          "note": "共情虚脱"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "释然躺"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇果子被印度坑在结尾「谁来都是躺」闭环，强调平等无差别对待。",
+      "patterns": [
+        "被坑→谁来都躺",
+        "平等闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "果子的新一代手机产品被泄露了一个底朝天。",
+          "note": "果子被泄露"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "你甚至不能怪印度，因为人家很平等，没有区别对待。",
+          "note": "很平等"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注口令；以段子结论收束不诱导订阅。",
+      "patterns": [
+        "无硬CTA",
+        "段子结论收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "咖喱味iphone、捂屁股、超度以及印度、他喵的洗澡水等半佛式脏口语。",
+      "patterns": [
+        "咖喱味iphone",
+        "捂屁股",
+        "以及印度",
+        "他喵的"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "因为谁让要生产咖喱味的iphone呢。",
+          "note": "咖喱味iphone"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "细菌去了那边都得捂着屁股。",
+          "note": "捂着屁股"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "以及印度。",
+          "note": "以及印度"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但很快，我自豪不起来了，因为我得洗澡，他们他喵的酒店洗澡水有问题，不干净，而人的",
+          "note": "他喵的酒店洗澡水"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "配图占位多；印度刻板印象过重；供应链泄露细节缺核验来源链接外信息。",
+      "patterns": [
+        "配图噪音",
+        "刻板过重",
+        "细节待核"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "图片截取自: 果子被印度坑了，太正常了",
+          "note": "配图占位"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "印度这个地方，网上有很多说法，什么脏乱差，什么治安差，什么环境不行，什么人不行，",
+          "note": "脏乱差枚举"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "（新闻来自财联社）",
+          "note": "新闻来自财联社"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「先定泄露级别→归因选址→前车对照→亲历类比→平等结论」的段子推理。",
+      "patterns": [
+        "级别→归因",
+        "亲历类比外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我们都知道，事情的严重程度，一般分为六个级别。",
+          "note": "严重程度六级"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "选择印度，这不是印度有问题，这是果子有问题。",
+          "note": "果子有问题"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "像极了这对去印度的手机品牌，最后八仙过海各显神通，但不耽误最后结局，一起躺了。",
+          "note": "像极了手机品牌"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当看热闹的数码/段子受众，用「我们都知道」拉共犯。",
+      "patterns": [
+        "看热闹数码位",
+        "我们都知道共谋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我们都知道，事情的严重程度，一般分为六个级别。",
+          "note": "我们都知道"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "品鉴新闻"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "财联社新闻、华强北操作指南、路虎塔塔、五星酒店瓶装水、六人旅行。",
+      "patterns": [
+        "财联社锚",
+        "华强北锚",
+        "五星酒店锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "（新闻来自财联社）",
+          "note": "财联社"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "或者说直接一点，华强北提前拿到了操作指南。",
+          "note": "华强北"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "我到那边，住的是五星酒店，并且奉行一个原则，坚决不吃任何乱七八糟的小吃，不喝自来",
+          "note": "五星酒店"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我们去了6个人，其他人没有我这么准备充分，分分钟就开始拉肚子中招在酒店虚脱了。",
+          "note": "去了6个人"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密→泄露细节高密→印度段子中密排比→旅行叙事中密→短句降密。",
+      "patterns": [
+        "细节高密",
+        "段子中密",
+        "降密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "泄露高密"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "轻度，中度，重度，极度，超度。",
+          "note": "级别排比中密"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "降密收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短品鉴句+长泄露说明；排比级联；旅行叙事长短交替。",
+      "patterns": [
+        "短+长",
+        "排比级联",
+        "叙事交替"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "短品鉴"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "注意哦，这次不是简单的产品外形那种你也不知道是不是炒作的泄露，这是完整的供应链开",
+          "note": "长说明"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "轻度，中度，重度，极度，超度。",
+          "note": "排比"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但很快，我自豪不起来了，因为我得洗澡，他们他喵的酒店洗澡水有问题，不干净，而人的",
+          "note": "长叙事"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式毒舌品鉴者：魔幻试验田口径，敢用捂屁股/超度印度，结尾平等躺平。",
+      "patterns": [
+        "毒舌品鉴",
+        "平等躺平"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "你东西放在印度弄，搞出什么魔幻的事情，都应该像是人会吃饭喝水一样自然而然，那是一",
+          "note": "魔幻试验田"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "以及印度。",
+          "note": "以及印度"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "底朝天泄露、咖喱味iphone、严重级别：印度、谁来都是躺。",
+      "patterns": [
+        "底朝天",
+        "咖喱味",
+        "级别印度",
+        "谁来都躺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "果子的新一代手机产品被泄露了一个底朝天。",
+          "note": "底朝天"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "因为谁让要生产咖喱味的iphone呢。",
+          "note": "咖喱味iphone"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "以及印度。",
+          "note": "以及印度"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都是躺"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "新闻钩→归因自找→级联段子→亲历类比→金句收束，适合观宇科技吐槽口播，需弱化地域攻击并核验泄露事实。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "品鉴一个很魔幻的新闻。",
+          "note": "魔幻新闻钩"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "以及印度。",
+          "note": "级别印度"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "谁来，都是躺。",
+          "note": "谁来都躺"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s6",
+    "s7",
+    "s11",
+    "s12",
+    "s20",
+    "s23",
+    "s42",
+    "s46",
+    "s1",
+    "s4",
+    "s5",
+    "s8",
+    "s9",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s47"
+  ],
+  "fields_complete_25": true
+}

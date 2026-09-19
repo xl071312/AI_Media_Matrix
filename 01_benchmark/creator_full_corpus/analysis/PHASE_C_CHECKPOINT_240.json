@@ -1,0 +1,25 @@
+{
+  "checkpoint": 240,
+  "structural_pass": true,
+  "schema_errs": [],
+  "imbalance": [],
+  "template_risk": 0,
+  "creators": {
+    "wushi_caijing": 50,
+    "banfo_xianren": 33,
+    "bidu": 33,
+    "wenyifei_jijiu": 32,
+    "hetongxue": 32,
+    "xiaolin_shuo": 60
+  },
+  "mods": {
+    "FULL_SPOKEN": 145,
+    "COMPLETE_TEXT": 95
+  },
+  "tiers": {
+    "HIGH": 132,
+    "MEDIAN": 75,
+    "CONTROL": 33
+  },
+  "note": "Tier HIGH-skew from early sample order; remaining 241-330 includes more CONTROL/MEDIAN slots."
+}

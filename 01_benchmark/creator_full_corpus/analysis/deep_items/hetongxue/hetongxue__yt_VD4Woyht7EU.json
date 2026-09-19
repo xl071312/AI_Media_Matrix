@@ -1,0 +1,1455 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_VD4Woyht7EU",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=VD4Woyht7EU",
+  "source_sha256": "5b66f59982382392de05a81bf626cffc7c69b38c6e30b47b6e43ea3e288479aa",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 101,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "这就是刚刚发布的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "iPhone 16 Pro"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "大家好我是何同学"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "我刚才和几百人赛跑"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "才拍到了这个手机"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "今年的升级"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "虽然看起来挺小"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 3,
+      "snippet": "但其实"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "也不大"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "就是外观上最大的更新"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 2,
+      "snippet": "屏幕"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "Pro版本"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "屏幕从原来的6.1英寸"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "和6.7英寸"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "涨到了6.3"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "和6.9英寸"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "并且屏幕边缘"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "也进一步缩窄了"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 16,
+      "snippet": "和iPhone 15 Pro一比"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 6,
+      "snippet": "确实是更炫酷"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "更有未来感一些"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "标准版这边的屏幕"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "则没有什么变化"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "而且刷新率"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "还是60Hz"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "很遗憾"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "但真是一点也不意外"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "翻到背面"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "我们则可以看到"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "镜头从斜向排列"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "变成了竖向"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "显然"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "是为了拍摄空间视频"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "毕竟原来的斜向排列"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "想拍空间视频"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "那只能给二郎神看"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "而这代iPhone"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "在功能上最大的改变"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "就是这颗相机控制按钮"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "Pro版和标准版都有"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "支持两挡按压力度"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "轻按两下可以打开菜单"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "左右滑可以变焦"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "重按则可以真正地"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "把按钮按下拍照"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "而且它是一个全局按钮"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "在任何界面"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "都可以进入相机"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "对日常误触"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 2,
+      "snippet": "啊不"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 4,
+      "snippet": "日常抓拍"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "应该帮助不小"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 8,
+      "snippet": "接下来就是新颜色"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "标准版有5个颜色"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 3,
+      "snippet": "变成了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 3,
+      "snippet": "群青色"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 3,
+      "snippet": "深青色"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 2,
+      "snippet": "粉色"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 2,
+      "snippet": "白色"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 8,
+      "snippet": "比去年的颜色更深"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "Pro这边"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 11,
+      "snippet": "有一个叫沙漠色的新颜色"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 9,
+      "snippet": "但感觉其实就是金色"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 18,
+      "snippet": "Apple Watch这边变得更大了"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 13,
+      "snippet": "41mm版本变成了42mm"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 11,
+      "snippet": "45mm变成了46mm"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 4,
+      "snippet": "机身更薄"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 15,
+      "snippet": "铝合金的Apple Watch"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 7,
+      "snippet": "还有了亮黑版本"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "而原来的"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "抛光不锈钢版本"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "变成了抛光（钛合金）版本"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 4,
+      "snippet": "毫无疑问"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 4,
+      "snippet": "是近年来"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 18,
+      "snippet": "更新幅度最大的Apple Watch"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 12,
+      "snippet": "就是所有的AirPods"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 4,
+      "snippet": "都更新了"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "比较值得一提的是"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 15,
+      "snippet": "AirPods Pro可以检测"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "自己的听力健康"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 4,
+      "snippet": "而且正式"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "有了助听器的功能"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "对特殊人群来说"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 10,
+      "snippet": "说不定是个不错的选择"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 4,
+      "snippet": "除了这些"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 9,
+      "snippet": "我能在现场能拍到的"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "新iPhone内部"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "还有非常多的更新"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "Pro的超广角镜头"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "升级到了4800W"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "支持了4K 120帧视频"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 11,
+      "snippet": "A18 Pro和A18"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 5,
+      "snippet": "从纸面上看"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 5,
+      "snippet": "提升也不小"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 4,
+      "snippet": "下周我们"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 7,
+      "snippet": "也会在第一时间"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 14,
+      "snippet": "发布iPhone 16系列的"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 4,
+      "snippet": "体验视频"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 5,
+      "snippet": "再见朋友们"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "亮出刚发布的iPhone 16 Pro+「和几百人赛跑才拍到」现场感，再用「升级看起来挺小其实也不大」自嘲定调。",
+      "patterns": [
+        "赛跑拍到钩子",
+        "升级不大自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "iPhone 16 Pro",
+          "note": "iPhone 16 Pro"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我刚才和几百人赛跑",
+          "note": "几百人赛跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "也不大"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "外观屏幕尺寸→标准版60Hz遗憾→镜头竖排为空间视频→相机控制按钮→新颜色→Watch变大→AirPods听力→内部规格预告下周体验。",
+      "patterns": [
+        "外观-按钮-配件-预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "屏幕从原来的6.1英寸",
+          "note": "屏幕涨到"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "还是60Hz",
+          "note": "还是60Hz"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "是为了拍摄空间视频",
+          "note": "空间视频"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就是这颗相机控制按钮",
+          "note": "相机控制按钮"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "有一个叫沙漠色的新颜色",
+          "note": "沙漠色"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "更新幅度最大的Apple Watch",
+          "note": "更新幅度最大"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "体验视频"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "race_hook",
+          "note": "赛跑上手与升级定调"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "screen_camera",
+          "note": "屏幕尺寸与镜头排列"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54"
+          ],
+          "function": "camera_button",
+          "note": "相机控制按钮详解"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87"
+          ],
+          "function": "colors_watch_pods",
+          "note": "颜色Watch AirPods"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101"
+          ],
+          "function": "specs_tease",
+          "note": "内部规格与下周预告"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先」；「翻到背面」；「而这代…最大的改变」；「接下来」；「最后」；「除了这些」预告。",
+      "patterns": [
+        "首先",
+        "翻到背面",
+        "接下来",
+        "最后",
+        "除了这些"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "首先",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "翻到背面",
+          "note": "翻到背面"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "在功能上最大的改变",
+          "note": "最大的改变"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "接下来就是新颜色",
+          "note": "接下来"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "最后",
+          "note": "最后"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "除了这些",
+          "note": "除了这些"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "升级看起来小vs其实也不大；Pro更大更炫酷vs标准版60Hz遗憾；斜排二郎神vs竖排空间视频；误触口误改抓拍。",
+      "patterns": [
+        "小/不大",
+        "Pro/标准60Hz",
+        "斜排/竖排",
+        "误触/抓拍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "虽然看起来挺小",
+          "note": "看起来挺小"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "还是60Hz",
+          "note": "60Hz"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "那只能给二郎神看",
+          "note": "二郎神"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "啊不",
+          "note": "啊不"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "日常抓拍",
+          "note": "日常抓拍"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎无真问句；用陈述评测推进，偶发「啊不」自我打断代问。",
+      "patterns": [
+        "少问句",
+        "自我打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "啊不",
+          "note": "啊不"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "6.1/6.7涨到6.3/6.9；轻按两下菜单左右滑变焦重按拍照；沙漠色其实金色；Watch 41→42、45→46；助听器功能。",
+      "patterns": [
+        "尺寸数例",
+        "按钮手势例",
+        "颜色例",
+        "Watch尺寸",
+        "助听器"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "涨到了6.3",
+          "note": "涨到了6.3"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "轻按两下可以打开菜单",
+          "note": "轻按两下"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "其实就是金色"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "41mm版本变成了42mm",
+          "note": "42mm"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "有了助听器的功能",
+          "note": "助听器"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「最大更新」落到英寸与缩窄；「功能最大改变」落到两挡按压按钮；「更新幅度最大」落到Watch尺寸材质。",
+      "patterns": [
+        "更新→英寸",
+        "改变→按钮",
+        "幅度→Watch"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "就是外观上最大的更新",
+          "note": "最大的更新"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "屏幕从原来的6.1英寸",
+          "note": "6.1英寸"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就是这颗相机控制按钮",
+          "note": "相机控制按钮"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "更新幅度最大的Apple Watch",
+          "note": "幅度最大"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定更炫酷更有未来感；60Hz很遗憾但不意外；沙漠色其实金色；Watch近年来更新最大。",
+      "patterns": [
+        "炫酷判断",
+        "遗憾不意外",
+        "金色直判",
+        "Watch最大更"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "确实是更炫酷",
+          "note": "更炫酷"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "很遗憾",
+          "note": "很遗憾"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "但真是一点也不意外",
+          "note": "一点也不意外"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "就是金色"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "更新幅度最大的Apple Watch",
+          "note": "幅度最大"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「看起来挺小…其实也不大」双否定自嘲；「日常误触啊不日常抓拍」口误即时修理。",
+      "patterns": [
+        "双否定自嘲",
+        "口误修理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "虽然看起来挺小",
+          "note": "挺小"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "也不大"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "啊不",
+          "note": "啊不"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "日常抓拍",
+          "note": "日常抓拍"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "钩子短句→规格短切连打→按钮手势稍密→颜色点名加速→配件段→预告收。",
+      "patterns": [
+        "规格短切",
+        "手势稍密",
+        "点名加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "屏幕从原来的6.1英寸",
+          "note": "尺寸短切"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "轻按两下可以打开菜单",
+          "note": "手势"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "群青色",
+          "note": "群青色"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "再见朋友们",
+          "note": "再见"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "赛跑兴奋→升级不大淡定→Pro炫酷→标准版遗憾→按钮兴趣→沙漠色吐槽→Watch肯定→预告期待。",
+      "patterns": [
+        "兴奋",
+        "淡定",
+        "遗憾",
+        "吐槽",
+        "期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我刚才和几百人赛跑",
+          "note": "赛跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "不大"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "很遗憾",
+          "note": "遗憾"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "金色吐槽"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "体验视频"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从现场拍到新机回到「下周第一时间发布体验视频，再见朋友们」，预告闭环。",
+      "patterns": [
+        "下周体验预告闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "才拍到了这个手机",
+          "note": "拍到了这个手机"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "体验视频"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "再见朋友们",
+          "note": "再见朋友们"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软预告下周体验视频；告别「再见朋友们」；无硬带货。",
+      "patterns": [
+        "下周预告CTA",
+        "告别"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s97",
+          "snippet": "下周我们",
+          "note": "下周我们"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "体验视频"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "再见朋友们",
+          "note": "再见朋友们"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "几百人赛跑、二郎神梗、啊不修理、沙漠色=金色吐槽，强现场评测人口吻。",
+      "patterns": [
+        "赛跑现场",
+        "二郎神",
+        "啊不",
+        "金色吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我刚才和几百人赛跑",
+          "note": "赛跑"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "那只能给二郎神看",
+          "note": "二郎神"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "啊不",
+          "note": "啊不"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "就是金色"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "深度体验缺失（自承下周再发）；标准版槽点一带而过；内部规格仅纸面点到。",
+      "patterns": [
+        "深度缺失",
+        "规格点到为止"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s95",
+          "snippet": "从纸面上看",
+          "note": "纸面上看"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "下周体验"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先说升级小再改口不大；解释竖排是为空间视频；口误误触改抓拍，思考外露轻量。",
+      "patterns": [
+        "改口定调",
+        "竖排原因",
+        "口误改"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "虽然看起来挺小",
+          "note": "挺小"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "不大"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "是为了拍摄空间视频",
+          "note": "为了空间视频"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "啊不",
+          "note": "啊不"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "科技粉丝现场同步观众，用「我们则可以看到」带看真机，默认关心Pro/标准差异。",
+      "patterns": [
+        "现场同步粉",
+        "带看真机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "大家好我是何同学",
+          "note": "我是何同学"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "我们则可以看到",
+          "note": "我们可以看到"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "标准版这边的屏幕",
+          "note": "标准版这边"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "6.3/6.9英寸；60Hz；竖向镜头；相机控制两挡；沙漠色；Watch 42/46；AirPods助听器；4800W；4K120。",
+      "patterns": [
+        "尺寸锚",
+        "按钮锚",
+        "Watch锚",
+        "规格锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "涨到了6.3",
+          "note": "6.3"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "还是60Hz",
+          "note": "60Hz"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "支持两挡按压力度",
+          "note": "两挡按压"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "有了助听器的功能",
+          "note": "助听器"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "支持了4K 120帧视频",
+          "note": "4K 120帧"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子中密→屏幕镜头高密规格→按钮中高密→颜色中密点名→Watch/Pods中密→纸面规格中密→预告降密。",
+      "patterns": [
+        "规格高密",
+        "点名中密",
+        "预告降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "屏幕从原来的6.1英寸",
+          "note": "屏幕密"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "轻按两下可以打开菜单",
+          "note": "按钮密"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "群青色",
+          "note": "颜色"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "再见朋友们",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "亮机钩→定调→屏幕→镜头→按钮→颜色→Watch→Pods→内部预告→告别。",
+      "patterns": [
+        "钩-模块评测-预告-别"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这就是刚刚发布的",
+          "note": "钩"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "首先",
+          "note": "首先模块"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "最后",
+          "note": "最后"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "再见朋友们",
+          "note": "别"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "克制毒舌科技博主：少吹少骂，用「不意外」「其实金色」轻刺，保持何同学式冷静幽默。",
+      "patterns": [
+        "克制毒舌",
+        "冷静幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "但真是一点也不意外",
+          "note": "不意外"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "就是金色"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "也不大"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「和几百人赛跑才拍到」；「其实也不大」；「只能给二郎神看」；「啊不，日常抓拍」；「沙漠色其实金色」。",
+      "patterns": [
+        "赛跑拍到",
+        "也不大",
+        "二郎神",
+        "啊不抓拍",
+        "沙漠金色"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我刚才和几百人赛跑",
+          "note": "赛跑"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "也不大",
+          "note": "也不大"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "那只能给二郎神看",
+          "note": "二郎神"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "日常抓拍",
+          "note": "抓拍"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "但感觉其实就是金色",
+          "note": "金色"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「现场上手模块评测+口误修理+下周深体验预告」可改编发布会快评，需补主观体验数据。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我刚才和几百人赛跑",
+          "note": "赛跑现场"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "就是这颗相机控制按钮",
+          "note": "按钮模块"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "发布iPhone 16系列的",
+          "note": "预告"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s9",
+    "s14",
+    "s26",
+    "s34",
+    "s40",
+    "s63",
+    "s76",
+    "s99",
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s100",
+    "s101"
+  ],
+  "fields_complete_25": true
+}

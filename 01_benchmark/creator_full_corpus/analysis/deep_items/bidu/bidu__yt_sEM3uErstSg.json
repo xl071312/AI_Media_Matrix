@@ -1,0 +1,1285 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_sEM3uErstSg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=sEM3uErstSg",
+  "source_sha256": "1b6c8367acefa22cd023b9f8d63811107063bc3916db34aac49bdebf4ba375b7",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 78,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 24,
+      "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "AKASEM"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "它是还话财圣的课语"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "丹尺"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 22,
+      "snippet": "下午可以跟着贵老师学习一下电竞的支揚方的方法"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "一倍不实质虚"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "挑几个颜值最高的放进去"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "决定就是你们这几个了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 15,
+      "snippet": "老师你以前做过什么领埔的样子吗"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "做过很多"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "太头发声拍过"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "还有拍那个古音草的那个虚"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "你拍过水果吗"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "水果的话没拍过"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "如果能够看"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "你等会儿搞一个吗"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "你吃一个"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 5,
+      "snippet": "你吃多难吗"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "你还在看另外问题"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "老师错了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "老师错了"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "老师错"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "老师"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "像是一片荒无平及的土地"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "浮到的表面很贵"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "像一堆废具"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "更像一个银耳"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "最后是皮胖车"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "这什么节奏啊"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "为什么这么惊喜啊"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 3,
+      "snippet": "这啥呀"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 3,
+      "snippet": "完蛋了"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "皮胖有那米节奏了"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 14,
+      "snippet": "看来你把人家的弄我们得推翻了"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "说明有这样的节奏有可以"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "那这种怎么这么一个啦"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "是一个这样的节奏"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 3,
+      "snippet": "但是呢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 15,
+      "snippet": "就说明它表面的确有节奏色的起度"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "但是因为它底色是黄色"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "所以它就看不出来"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "而蓝明底色是黑色"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 7,
+      "snippet": "就让蓝色的感觉"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "这个节奏有点临头之下"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "这个评论是挑战战"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "这个真的好看"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "这真比蓝明牛逼"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 8,
+      "snippet": "你足字好展上来了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 6,
+      "snippet": "你看这像一个"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 1,
+      "snippet": "怪"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "一个比较清光"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "这个在惊呀"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "这个在惊呀"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 12,
+      "snippet": "出现了一期之外的实验结果"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "你们觉得在高兴还是担忧呢"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 8,
+      "snippet": "这堂电竞质的语声"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "我找回了青春的回忆"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "以前我也经常看电竞"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "但从没像今天这般快乐"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 11,
+      "snippet": "我乌倒了两条客严快乐法"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 11,
+      "snippet": "第一条不用发文上的客严"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 3,
+      "snippet": "最开心"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 8,
+      "snippet": "第二条别人的客严"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "永远比自己的好玩啊"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 7,
+      "snippet": "你这你这你这你"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "你这你这你这你"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "ASR噪声中抛出「200万倍扫描电镜」钩子，邀跟贵老师学制样，随即挑颜值样本开拍。",
+      "patterns": [
+        "电镜倍数钩子",
+        "跟拍学习预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "200万倍"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "下午可以跟着贵老师学习一下电竞的支揚方的方法",
+          "note": "跟着贵老师学习"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "挑几个颜值最高的放进去",
+          "note": "颜值最高的放进去"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "介绍电镜→对话老师样品史→吃水果玩笑→老师错了循环→微观比喻观赏→意外纹理惊喜→青春回忆与客研快乐法收束。",
+      "patterns": [
+        "跟拍学电镜",
+        "微观观赏",
+        "客研快乐法"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "电镜"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "老师你以前做过什么领埔的样子吗",
+          "note": "做过什么"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "像是一片荒无平及的土地",
+          "note": "荒芜土地"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "出现了一期之外的实验结果",
+          "note": "意外实验结果"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "我乌倒了两条客严快乐法",
+          "note": "两条客严快乐法"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "function": "sem_intro",
+          "note": "电镜介绍与选样"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "teacher_chat",
+          "note": "问老师样品史与吃水果玩笑"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "laoshi_loop",
+          "note": "老师错了重复循环"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "micro_metaphor",
+          "note": "微观形貌比喻与惊喜"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78"
+          ],
+          "function": "joy_close",
+          "note": "青春回忆与客研快乐法"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「下午可以跟着」邀约切；「如果能够看」条件切；「但是呢」解释纹理；「第一条/第二条」分条收。",
+      "patterns": [
+        "跟着邀约",
+        "但是呢解释",
+        "分条收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "下午可以跟着贵老师学习一下电竞的支揚方的方法",
+          "note": "跟着贵老师"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "如果能够看",
+          "note": "如果能够看"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但是呢",
+          "note": "但是呢"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "第一条不用发文上的客严",
+          "note": "第一条"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "枯燥电镜标题vs快乐跟拍；头发古草拍过vs水果没拍过；黄底看不出纹理vs黑底显蓝；自己课题vs别人课题更好玩。",
+      "patterns": [
+        "枯燥/快乐",
+        "拍过/没拍",
+        "底色显隐",
+        "自己/别人课题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "水果的话没拍过",
+          "note": "水果没拍过"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "但是因为它底色是黄色",
+          "note": "底色是黄色"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "而蓝明底色是黑色",
+          "note": "蓝明底色是黑色"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "第二条别人的客严",
+          "note": "别人的客严"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连问老师做过什么、拍过水果吗、搞一个吗；微观「这啥呀」「为什么这么惊喜」；收束「高兴还是担忧」。",
+      "patterns": [
+        "对老师连问",
+        "微观惊叹问",
+        "态度二选一问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "老师你以前做过什么领埔的样子吗",
+          "note": "做过什么"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "你拍过水果吗",
+          "note": "你拍过水果吗"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "为什么这么惊喜啊",
+          "note": "为什么这么惊喜"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "你们觉得在高兴还是担忧呢",
+          "note": "高兴还是担忧"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "头发、古音草虚；水果未拍；荒芜土地/废墟/银耳/皮胖车比喻；蓝明纹理对比。",
+      "patterns": [
+        "样品史例",
+        "微观比喻例",
+        "底色对比例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "太头发声拍过",
+          "note": "头发"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "还有拍那个古音草的那个虚",
+          "note": "古音草"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "像是一片荒无平及的土地",
+          "note": "荒芜土地"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "更像一个银耳",
+          "note": "银耳"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "而蓝明底色是黑色",
+          "note": "蓝明黑色"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「电镜」落到200万倍与选样；「有纹理」落到黄底看不见黑底显色；「快乐」落到两条客研快乐法。",
+      "patterns": [
+        "电镜→倍数选样",
+        "纹理→底色",
+        "快乐→两条法则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "200万倍"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "挑几个颜值最高的放进去",
+          "note": "颜值最高"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "所以它就看不出来",
+          "note": "看不出来"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "我乌倒了两条客严快乐法",
+          "note": "两条快乐法"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定老师错了；纹理的确有；真比蓝明牛逼；别人的课题永远更好玩。",
+      "patterns": [
+        "老师错了",
+        "纹理断定",
+        "牛逼判断",
+        "快乐法则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就说明它表面的确有节奏色的起度",
+          "note": "的确有节奏"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "这真比蓝明牛逼",
+          "note": "比蓝明牛逼"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "永远比自己的好玩"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「看来你把人家的弄我们得推翻了」承认误判；「说明有这样的节奏有可以」改口确认纹理存在。",
+      "patterns": [
+        "推翻误判",
+        "改口确认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "看来你把人家的弄我们得推翻了",
+          "note": "推翻了"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "说明有这样的节奏有可以",
+          "note": "说明有这样的节奏"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "噪声开场→问答短句→「老师」重复鼓点→比喻短切观赏→快乐法分条收。",
+      "patterns": [
+        "问答短句",
+        "老师重复鼓点",
+        "比喻短切"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "老师你以前做过什么领埔的样子吗",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "像是一片荒无平及的土地",
+          "note": "比喻"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "第一条不用发文上的客严",
+          "note": "分条"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repair",
+          "form": "老师错了"
+        },
+        {
+          "type": "filler_loop",
+          "form": "老师"
+        },
+        {
+          "type": "discourse",
+          "form": "但是呢"
+        },
+        {
+          "type": "discourse",
+          "form": "对"
+        },
+        {
+          "type": "repair_asr",
+          "form": "你这你这你这你"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "老师",
+          "note": "老师"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但是呢",
+          "note": "但是呢"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "对",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "你这你这你这你",
+          "note": "你这重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇开场→玩笑轻松→老师错了失控喜剧→微观惊叹→意外实验张力→怀旧快乐收。",
+      "patterns": [
+        "好奇",
+        "喜剧失控",
+        "惊叹",
+        "怀旧快乐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "挑几个颜值最高的放进去",
+          "note": "选样好奇"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "喜剧"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "为什么这么惊喜啊",
+          "note": "惊喜"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "但从没像今天这般快乐",
+          "note": "这般快乐"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从枯燥电镜回到「从没像今天这般快乐」+别人课题更好玩，闭环标题反差。",
+      "patterns": [
+        "快乐闭环标题反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "电镜开"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "但从没像今天这般快乐",
+          "note": "这般快乐"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "别人更好玩"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "几乎无硬CTA；用「你们觉得高兴还是担忧」轻互动；快乐法金句传阅。",
+      "patterns": [
+        "轻互动问",
+        "金句传阅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "你们觉得在高兴还是担忧呢",
+          "note": "高兴还是担忧"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "永远更好玩"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "严重ASR噪声、老师循环、现场推翻误判、口语「这啥呀」，强真人跟拍残片感。",
+      "patterns": [
+        "ASR噪声",
+        "老师循环",
+        "现场推翻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "它是还话财圣的课语",
+          "note": "ASR噪声"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "这啥呀",
+          "note": "这啥呀"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "看来你把人家的弄我们得推翻了",
+          "note": "推翻了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损毁科学名词与因果；老师循环占窗过长；科普知识密度低，偏情绪跟拍。",
+      "patterns": [
+        "ASR损毁",
+        "循环过长",
+        "科普稀薄"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "它是还话财圣的课语",
+          "note": "噪声"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "老师",
+          "note": "老师重复"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "术语受损"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先惊纹理→怀疑弄错推翻→用底色解释为何肉眼不见，露出现场推理。",
+      "patterns": [
+        "惊-疑-解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "为什么这么惊喜啊",
+          "note": "惊喜"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "看来你把人家的弄我们得推翻了",
+          "note": "推翻"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "但是因为它底色是黄色",
+          "note": "底色黄色"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当实验室围观同学，用「你们觉得」共情客研快乐与吐槽。",
+      "patterns": [
+        "围观同学",
+        "共情客研"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s67",
+          "snippet": "你们觉得在高兴还是担忧呢",
+          "note": "你们觉得"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "以前我也经常看电竞",
+          "note": "以前我也经常看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "200万倍；AKASEM；头发/古草；荒芜土地银耳；蓝明黑底；两条客研快乐法。",
+      "patterns": [
+        "倍数锚",
+        "样品锚",
+        "比喻锚",
+        "快乐法"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "200万倍"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "AKASEM",
+          "note": "AKASEM"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "太头发声拍过",
+          "note": "头发"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "更像一个银耳",
+          "note": "银耳"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "别人更好玩"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场术语半密→对话中密→老师循环极低密→微观比喻中密→快乐法中密金句。",
+      "patterns": [
+        "循环极低密",
+        "比喻中密",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "循环低密"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "像是一片荒无平及的土地",
+          "note": "比喻密"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "我乌倒了两条客严快乐法",
+          "note": "快乐法密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "介绍→问答→循环闹剧→微观观赏→解释纹理→意外态度问→怀旧法则收。",
+      "patterns": [
+        "介绍-问答-闹剧-观赏-法则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "介绍"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "老师你以前做过什么领埔的样子吗",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "闹剧"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "像是一片荒无平及的土地",
+          "note": "观赏"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "我乌倒了两条客严快乐法",
+          "note": "法则"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "自嘲科研vlogger：把枯燥电镜拍成喜剧跟拍，用「别人课题更好玩」戳客研痛点。",
+      "patterns": [
+        "自嘲科研vlog",
+        "客研吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "但从没像今天这般快乐",
+          "note": "这般快乐"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "别人更好玩"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「200万倍」；「老师错了」；「别人的客研永远比自己的好玩」。",
+      "patterns": [
+        "200万倍",
+        "老师错了",
+        "别人课题更好玩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "200万倍"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "老师错了",
+          "note": "老师错了"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "永远更好玩"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「枯燥实验跟拍→现场误判纠正→客研快乐法则」可改编科普vlog，必须重录清晰口播并压缩循环段。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不老学派出了一台能放到200万倍的扫描电子线为敬",
+          "note": "电镜钩子"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "看来你把人家的弄我们得推翻了",
+          "note": "推翻误判"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "永远比自己的好玩啊",
+          "note": "快乐法则"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s7",
+    "s9",
+    "s21",
+    "s34",
+    "s66",
+    "s72",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78"
+  ],
+  "fields_complete_25": true
+}

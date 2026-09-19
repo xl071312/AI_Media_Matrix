@@ -1,0 +1,1189 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_p2NiiyIDAWQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=p2NiiyIDAWQ",
+  "source_sha256": "2321a56f0cf518724a660c626b173d44249a374cd67f6ccd0af681f5cf976d12",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 71,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 6,
+      "snippet": "这个假视频网"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "如果第一组人里有100分之十的人"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "点击了封面第二绕"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "有 at 25%的人"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "点击了封面击"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 4,
+      "snippet": "那就说明"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "封面击更新人"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "做完这个词"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "能不能用这个程序"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "找到封面时的流量密码"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "当年按照这"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "要一个满透的话"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "实在是过于普宿"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "可能更没有人会点"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "如果你是知名博主"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 12,
+      "snippet": "我自己出境的封面的点击率"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "我自己出境的封面的点击率"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "我自己出境的封面的点击率"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 23,
+      "snippet": "打 I got the right point"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 12,
+      "snippet": "我自己出境的封面的点击率"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "我自己出境的封面的"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "上面的测试"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "我们是在封面上下功夫"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "想든更多观众点进来"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "最重要的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "还是要视频的题"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "标题里"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "放入非常大的数字"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "所以我们写了下面这些标题"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "标题一"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "这是一个一"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "1元的满透"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 3,
+      "snippet": "标题3"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "这是一个1�1元的满透"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "这个已经非常离谣了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "最后为了测试目的"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "我们还起了这个"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 39,
+      "snippet": "这是一个是一个是一个1,1元 which is a full-time job"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "需要说明的是"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "我们没有吃"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "我们没有吃"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "我们的表点幅号上"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 15,
+      "snippet": "视频标题里出现太好的频率非常高"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 16,
+      "snippet": "可能就是因为极端的情绪会让人更想"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 3,
+      "snippet": "想点击"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "at 这个标题"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "一个满厚"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "赶紧1.89"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "吃了一口发现值了"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "再准�"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "我们有把他们放进了见面里"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 11,
+      "snippet": "义圆和12.9元的满厚"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "数据非常接近"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 4,
+      "snippet": "在7.3"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 2,
+      "snippet": "义圆"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "一般是9元"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "满厚的点击率直接翻倍"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "打到15.8"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "一线一般是9元"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 2,
+      "snippet": "满厚"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "比1.92"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 5,
+      "snippet": "比1.92"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 118,
+      "snippet": "比1.92比1.92比1.92比1.92比1.92比1.92比1.92比1.92"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "有此可见"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 12,
+      "snippet": "极 级�2 细细� 继绿"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 13,
+      "snippet": "细细细细细细细细细细细细�"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "细细细�"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 1,
+      "snippet": "�"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 8,
+      "snippet": "细细细细细细细�"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "细细细细细细细细细�"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 3,
+      "snippet": "细细�"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "假视频网站A/B点击率对比开场，抛出「封面流量密码」实验问题。",
+      "patterns": [
+        "假站A/B开场",
+        "流量密码提问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这个假视频网",
+          "note": "假视频网"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "如果第一组人里有100分之十的人",
+          "note": "百分之十的人"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "找到封面时的流量密码",
+          "note": "封面时的流量密码"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "封面点击差→本人出境点击更高→标题放大数字/极端情绪→实测1元vs12.9元点击翻倍。",
+      "patterns": [
+        "封面差",
+        "出境优势",
+        "数字标题",
+        "情绪点击",
+        "价格翻倍"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "封面击更新人",
+          "note": "封面击更新人"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "自己出境点击率"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "放入非常大的数字",
+          "note": "非常大的数字"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "可能就是因为极端的情绪会让人更想",
+          "note": "极端的情绪"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "点击率直接翻倍"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "fake_site_ab",
+          "note": "假站封面点击对比设问"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23"
+          ],
+          "function": "self_cover_repeat",
+          "note": "本人出境封面点击率反复强调"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "title_number_test",
+          "note": "标题放大数字与离谱标题"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "emotion_price_result",
+          "note": "极端情绪与价格点击翻倍数据"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71"
+          ],
+          "function": "asr_collapse_tail",
+          "note": "ASR崩坏尾段含结论碎片"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「那就说明」「所以我们写了」「需要说明的是」「有此可见」串联实验结论。",
+      "patterns": [
+        "那就说明",
+        "所以写了",
+        "需要说明",
+        "由此可见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "那就说明",
+          "note": "那就说明"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我们写了下面这些标题",
+          "note": "所以我们写了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "需要说明的是",
+          "note": "需要说明的是"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "有此可见",
+          "note": "有此可见"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "封面A 10% vs 封面B 25%；朴素标题无人点 vs 大数字；1元与12.9接近 vs 离谱价翻倍。",
+      "patterns": [
+        "点击率对比",
+        "朴素vs夸张",
+        "价格档对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如果第一组人里有100分之十的人",
+          "note": "百分之十"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "有 at 25%的人",
+          "note": "25%"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "实在是过于普宿",
+          "note": "过于普宿"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "数据非常接近",
+          "note": "数据非常接近"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "直接翻倍"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「能不能用这个程序找到封面流量密码」作为全片实验题。",
+      "patterns": [
+        "实验总问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "能不能用这个程序",
+          "note": "能不能用这个程序"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "找到封面时的流量密码",
+          "note": "流量密码"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "列出标题一/三（1元馒头等）与价格档点击率7.3→15.8作例证。",
+      "patterns": [
+        "标题清单例",
+        "点击率数例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "标题一",
+          "note": "标题一"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "1元的满透",
+          "note": "1元的满透"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "在7.3",
+          "note": "在7.3"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "打到15.8",
+          "note": "打到15.8"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "流量密码抽象→具体封面出境/大数字标题/极端情绪词与百分点。",
+      "patterns": [
+        "密码→封面操作",
+        "情绪→百分点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "我们是在封面上下功夫",
+          "note": "封面上下功夫"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "放入非常大的数字",
+          "note": "非常大的数字"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "可能就是因为极端的情绪会让人更想",
+          "note": "极端的情绪"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "翻倍"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「过于朴素可能更没人点」「已经非常离谱」「极端情绪会让人更想点」。",
+      "patterns": [
+        "朴素否定",
+        "离谱判断",
+        "情绪驱动判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "实在是过于普宿",
+          "note": "过于普宿"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这个已经非常离谣了",
+          "note": "非常离谣"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "可能就是因为极端的情绪会让人更想",
+          "note": "极端的情绪"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "声明「我们没有吃」重复澄清实验边界，避免观众误读。",
+      "patterns": [
+        "边界澄清重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "我们没有吃",
+          "note": "我们没有吃"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我们没有吃",
+          "note": "我们没有吃"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "A/B数据中速→出境句机械重复拖拍→标题列举加速→结论句后ASR崩坏。",
+      "patterns": [
+        "数据中速",
+        "重复拖拍",
+        "列举加速",
+        "尾崩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "有 at 25%的人",
+          "note": "25%"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "点击率重复"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我们写了下面这些标题",
+          "note": "写了下面这些"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "细细细细细细细细细细细细�",
+          "note": "细细崩坏"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我自己出境的封面的点击率"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "我们没有吃"
+        },
+        {
+          "type": "discourse",
+          "form": "那就说明"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "出境点击率重复"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我们没有吃",
+          "note": "我们没有吃"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "那就说明",
+          "note": "那就说明"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "实验好奇→重复强调略焦躁→标题设计戏谑→数据兴奋→尾段崩坏无情绪可读。",
+      "patterns": [
+        "好奇",
+        "焦躁重复",
+        "戏谑",
+        "数据兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "找到封面时的流量密码",
+          "note": "流量密码"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "点击率三连"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这个已经非常离谣了",
+          "note": "离谱"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "翻倍"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "「有此可见」试图收束极端数字/情绪策略，但ASR尾毁坏完整闭环。",
+      "patterns": [
+        "由此可见收",
+        "尾毁不完整"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "有此可见",
+          "note": "有此可见"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "翻倍"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无显式关注CTA，以实验结论代替行动号召。",
+      "patterns": [
+        "结论代CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "有此可见",
+          "note": "有此可见"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "点击率翻倍"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "假站实验细节、标题列举口误、英文夹杂、机械重复，强创作者现场感。",
+      "patterns": [
+        "假站实验",
+        "口误列举",
+        "英夹",
+        "机械重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这个假视频网",
+          "note": "假视频网"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "打 I got the right point",
+          "note": "英文夹杂"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "重复三连"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这是一个是一个是一个1,1元 which is a full-time job",
+          "note": "中英混标题"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极重损坏（满透/离谣/细细崩）；出境句异常重复；尾段几乎不可读。",
+      "patterns": [
+        "ASR崩坏",
+        "异常重复",
+        "尾不可读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "1元的满透",
+          "note": "满透"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "比1.92比1.92比1.92比1.92比1.92比1.92比1.92比1.92",
+          "note": "比1.92连环"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "细细细细细细细细细细细细�",
+          "note": "细细细"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开假站分组逻辑→封面功夫不够转标题→列出测试标题→对照点击率。",
+      "patterns": [
+        "分组逻辑公开",
+        "策略转向公开"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如果第一组人里有100分之十的人",
+          "note": "第一组人"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我们是在封面上下功夫",
+          "note": "封面上下功夫"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "还是要视频的题",
+          "note": "还是要视频的题"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "我们有把他们放进了见面里",
+          "note": "放进了见面里"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当共研流量的创作者同伴，「如果你是知名博主」分层提示。",
+      "patterns": [
+        "创作者同伴",
+        "知名博主分层"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "找到封面时的流量密码",
+          "note": "流量密码"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "如果你是知名博主",
+          "note": "如果你是知名博主"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "10%/25%点击、1元与12.9元馒头、7.3→15.8点击率。",
+      "patterns": [
+        "百分比",
+        "价格档",
+        "点击率"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "如果第一组人里有100分之十的人",
+          "note": "百分之十"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "义圆和12.9元的满厚",
+          "note": "12.9元"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "打到15.8",
+          "note": "15.8"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数据中密→重复段低密空转→标题与结果高密→尾崩零信息。",
+      "patterns": [
+        "中密",
+        "低密重复",
+        "高密结果",
+        "零信息尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "有 at 25%的人",
+          "note": "25%"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我自己出境的封面的点击率",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "翻倍"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "细细细细细细细细细�",
+          "note": "细细"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "假设对比→重复强调→标题清单→数据对照→尾崩，实验叙事被ASR打断。",
+      "patterns": [
+        "假设对比",
+        "清单",
+        "数据对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "那就说明",
+          "note": "那就说明"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "所以我们写了下面这些标题",
+          "note": "下面这些标题"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "数据非常接近",
+          "note": "非常接近"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式「做假站验证直觉」理工玩梗，对夸张标题既用又嘲。",
+      "patterns": [
+        "假站验证",
+        "用且嘲夸张"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这个假视频网",
+          "note": "假视频网"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这个已经非常离谣了",
+          "note": "离谱"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "可能就是因为极端的情绪会让人更想",
+          "note": "极端情绪"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "假视频网站设定 + 点击翻倍到15.8 + 大数字标题策略。",
+      "patterns": [
+        "假站",
+        "15.8翻倍",
+        "大数字标题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这个假视频网",
+          "note": "假视频网"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "放入非常大的数字",
+          "note": "非常大的数字"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "打到15.8",
+          "note": "15.8"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "A/B假站→封面/标题变量→点击率对照的实验骨架可改编观宇增长口播；须重做清晰文稿避开ASR废段。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "找到封面时的流量密码",
+          "note": "密码提问可迁"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "放入非常大的数字",
+          "note": "大数字策略可迁"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "满厚的点击率直接翻倍",
+          "note": "翻倍结果可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s10",
+    "s7",
+    "s16",
+    "s28",
+    "s44",
+    "s57",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71"
+  ],
+  "fields_complete_25": true
+}

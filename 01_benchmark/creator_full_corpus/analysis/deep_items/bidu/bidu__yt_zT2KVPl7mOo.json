@@ -1,0 +1,1035 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_zT2KVPl7mOo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=zT2KVPl7mOo",
+  "source_sha256": "e0408f296ec94346b70729969ef8caa5420e3929f6e8b821492f2676c28cf4ac",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 77,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s51"
+    },
+    {
+      "sentence_id": "s52"
+    },
+    {
+      "sentence_id": "s53"
+    },
+    {
+      "sentence_id": "s54"
+    },
+    {
+      "sentence_id": "s55"
+    },
+    {
+      "sentence_id": "s56"
+    },
+    {
+      "sentence_id": "s57"
+    },
+    {
+      "sentence_id": "s58"
+    },
+    {
+      "sentence_id": "s59"
+    },
+    {
+      "sentence_id": "s60"
+    },
+    {
+      "sentence_id": "s61"
+    },
+    {
+      "sentence_id": "s62"
+    },
+    {
+      "sentence_id": "s63"
+    },
+    {
+      "sentence_id": "s64"
+    },
+    {
+      "sentence_id": "s65"
+    },
+    {
+      "sentence_id": "s66"
+    },
+    {
+      "sentence_id": "s67"
+    },
+    {
+      "sentence_id": "s68"
+    },
+    {
+      "sentence_id": "s69"
+    },
+    {
+      "sentence_id": "s70"
+    },
+    {
+      "sentence_id": "s71"
+    },
+    {
+      "sentence_id": "s72"
+    },
+    {
+      "sentence_id": "s73"
+    },
+    {
+      "sentence_id": "s74"
+    },
+    {
+      "sentence_id": "s75"
+    },
+    {
+      "sentence_id": "s76"
+    },
+    {
+      "sentence_id": "s77"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "1秒口算0.2×0.3得0.6后卡在0.5×0.8，争议0.4还是0.04引入三种方法。",
+      "patterns": [
+        "热身口算",
+        "争议钩子",
+        "三种方法预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "0.6",
+          "note": "0.6热身"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "0.4还是0.04"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "今天必要是就介绍三种方法",
+          "note": "三种方法"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "概率实验法（抛硬币摸球）→化学蒸发称重法→电路欧姆定律法，三次「不太行」后必杀技得0.4。",
+      "patterns": [
+        "概率法",
+        "化学法",
+        "电路必杀",
+        "答案0.4"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "就应该等于0.5成0.8",
+          "note": "概率乘法"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "转化为了简单的化学",
+          "note": "转化学"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "电阻成一电流就等于电压",
+          "note": "欧姆定律"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "0.4"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "争议钩子与方法预告",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "概率独立事件法并否定",
+          "note": "方法一"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "溶液蒸发称重化学法并否定",
+          "note": "方法二"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77"
+          ],
+          "function": "欧姆定律电路必杀得0.4",
+          "note": "方法三"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「这个方法看来不太行，但是还要关心/没有关系，我们还有」失败递进。",
+      "patterns": [
+        "不太行转折",
+        "还有下一招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "这个方法看来不太行",
+          "note": "不太行"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "我们还有第二周",
+          "note": "还有第二周"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "但是没有关系",
+          "note": "没有关系"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我们还有必杀技",
+          "note": "必杀技"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "把复杂小数乘法分别对照成概率论/化学/电学「简单概念」。",
+      "patterns": [
+        "数学转概率",
+        "数学转化学",
+        "数学转电学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "找到未来简单的概念论",
+          "note": "转概率论"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "转化为了简单的化学",
+          "note": "转化学"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "电阻成一电流就等于电压",
+          "note": "转电压"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「到底等于0.4还是0.04」「是不是很巧妙呢」驱动方法演示。",
+      "patterns": [
+        "二选一争议问",
+        "巧妙反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "0.4还是0.04"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "是不是很巧妙呢",
+          "note": "很巧妙呢"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "不是吧0.4吧",
+          "note": "不是吧"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "硬币正面0.5+红球0.8；0.8克/升取0.5升；0.8欧电阻过0.5安电流。",
+      "patterns": [
+        "硬币红球例",
+        "溶液例",
+        "电阻电流例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "是0.5",
+          "note": "硬币0.5"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "农度为0.8克没生",
+          "note": "浓度0.8"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "只要我有一个0.8欧露的电阻",
+          "note": "0.8欧电阻"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象乘法落到抛1万次、蒸干称重、搭电路读电压的可操作实验。",
+      "patterns": [
+        "1万次实验",
+        "蒸干称重",
+        "搭电路读表"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "那只要做1万次实验",
+          "note": "1万次"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "称出容质的质量",
+          "note": "称质量"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "我们又第二表测一下",
+          "note": "测一下"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「这个方法看来不太行」「化学法也不太行」「必杀技」阶梯评价。",
+      "patterns": [
+        "不太行否定",
+        "必杀技抬升"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "这个方法看来不太行",
+          "note": "不太行"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "看来化学法也不太行",
+          "note": "化学也不行"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我们还有必杀技",
+          "note": "必杀技"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "每法演示后当场否定，承认不行再推下一招，形成假失败真教学。",
+      "patterns": [
+        "演示后否定",
+        "再推下一招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "这个方法看来不太行",
+          "note": "否定法一"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "看来化学法也不太行",
+          "note": "否定法二"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "但是没有关系",
+          "note": "没有关系"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场极短数字对答→方法段说明中速→「开始实验」停顿→答案短句收。",
+      "patterns": [
+        "数字对答",
+        "说明中速",
+        "实验停顿",
+        "答案短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "0.4",
+          "note": "0.4对答"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "开始实验",
+          "note": "开始实验"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "答案"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repair",
+          "form": "不是吧"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "0.4×N"
+        },
+        {
+          "type": "discourse",
+          "form": "对"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不是吧0.4吧",
+          "note": "不是吧修复"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "对",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "0.4",
+          "note": "0.4重复"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "不是吧",
+          "note": "不是吧再疑"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "热身得意→争议疑惑→方法一荒诞笑→方法二酸感→必杀揭晓爽感。",
+      "patterns": [
+        "得意",
+        "疑惑",
+        "荒诞笑",
+        "酸感",
+        "揭晓爽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "0.6",
+          "note": "得意"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "疑惑"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "如此的有点酸",
+          "note": "有点酸"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "揭晓"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场争议0.4/0.04，三法折腾后电路读数回到0.4，争议闭环。",
+      "patterns": [
+        "争议开",
+        "三法折腾",
+        "0.4闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "争议开"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我们还有必杀技",
+          "note": "必杀"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "0.4闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「比达你设怎么样了」互动问；窗口无显式关注CTA，教学即转化。",
+      "patterns": [
+        "互动提问",
+        "教学即内容"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "比达你设怎么样了",
+          "note": "互动问"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "今天必要是就介绍三种方法",
+          "note": "教大家"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错字（战率/容业/欧露）与「有点酸」实验吐槽，现场演示感强。",
+      "patterns": [
+        "ASR错字",
+        "实验吐槽",
+        "现场演示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "发出正面的战略",
+          "note": "战率错字"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "如此的有点酸",
+          "note": "有点酸"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "开始实验",
+          "note": "开始实验"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重错词影响可读；前两法故意不可行略拖沓；答案句残缺「450.4」。",
+      "patterns": [
+        "ASR错词",
+        "假方法拖沓",
+        "答案残缺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "教大家�ing速算队0.5成0.8",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "那只要做1万次实验",
+          "note": "1万次不现实"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "450.4残缺"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "明示独立事件乘法、体积×浓度、V=IR三条跨学科映射思路。",
+      "patterns": [
+        "概率映射",
+        "化学映射",
+        "电学映射"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "那么争据独立事件战略程法公式",
+          "note": "独立事件公式"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "就应该等于体积成一能度",
+          "note": "体积成浓度"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "电阻成一电流就等于电压",
+          "note": "欧姆定律"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准被小数乘法绕晕的大众与学生，用「教大家速算」降低门槛。",
+      "patterns": [
+        "大众学生",
+        "速算承诺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "今天必要是就介绍三种方法",
+          "note": "介绍三种方法"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "教大家�ing速算队0.5成0.8",
+          "note": "教大家速算"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "争议共鸣"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "0.2×0.3=0.6热身；1万次；0.8克/升；0.5安；答案0.4。",
+      "patterns": [
+        "热身算式",
+        "1万次",
+        "浓度锚",
+        "电流锚",
+        "0.4"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "1秒钟快速地打0.2成0.3的一起",
+          "note": "0.2成0.3"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "那只要做1万次实验",
+          "note": "1万次"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "使得电阻上通过的电流为0.5安",
+          "note": "0.5安"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "答案"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密对答→每法中密原理→实验过程低密→答案高密短收。",
+      "patterns": [
+        "对答低密",
+        "原理中密",
+        "实验低密",
+        "答案高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "0.4",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "那么争据独立事件战略程法公式",
+          "note": "原理密"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "倒入蒸发名",
+          "note": "实验低密"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "答案"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "数字独词句对答；原理说明长句；「开始实验」祈使短句切换。",
+      "patterns": [
+        "独词对答",
+        "原理长句",
+        "祈使切换"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "0.4",
+          "note": "独词"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "右手刚好摸到红球的战率",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "开始实验",
+          "note": "祈使"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "戏精科普人：明知直算更快，偏用跨学科荒诞法三次翻车再揭晓。",
+      "patterns": [
+        "戏精科普",
+        "假失败真教学",
+        "跨学科恶搞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "这个方法看来不太行",
+          "note": "假失败"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我们还有必杀技",
+          "note": "必杀"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "是不是很巧妙呢",
+          "note": "巧妙反问"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "0.4还是0.04；抛硬币摸红球；化学法有点酸；欧姆定律必杀；等于0.4。",
+      "patterns": [
+        "争议二选一",
+        "硬币红球",
+        "有点酸",
+        "必杀",
+        "0.4"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "争议"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "我们只要左手抛硬幣",
+          "note": "抛硬币"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "如此的有点酸",
+          "note": "有点酸"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "450.4",
+          "note": "0.4"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "争议钩子+三法假失败+跨学科具象可改编观宇科普短视频，需净化ASR并收紧假方法时长。",
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到底等于0.4还是0.04呢",
+          "note": "争议钩子可改编"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "这个方法看来不太行",
+          "note": "假失败结构可改编"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "电阻成一电流就等于电压",
+          "note": "跨学科锚可改编"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s11",
+    "s12",
+    "s28",
+    "s50",
+    "s67",
+    "s77",
+    "s1",
+    "s15",
+    "s38",
+    "s63",
+    "s36",
+    "s62",
+    "s33",
+    "s51",
+    "s5",
+    "s18",
+    "s41",
+    "s68",
+    "s29",
+    "s47",
+    "s75",
+    "s61",
+    "s4",
+    "s52",
+    "s6",
+    "s8",
+    "s7",
+    "s57",
+    "s34",
+    "s17",
+    "s14",
+    "s25",
+    "s44",
+    "s74",
+    "s55",
+    "s27",
+    "s23"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1386 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_KosgUhdAL5w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=KosgUhdAL5w",
+  "source_sha256": "ec9098354505eeea1a1bddd0f2467f1690a6f788695489079a566cca02a69386",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "也很久没跟大家聊天了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 4,
+      "snippet": "所以这次"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "小Lin也想借着这个春节假期"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "正好也庆祝一下"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "咱们频道粉丝突破了200万"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "跟大家一起来聊一聊"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "大家比较感兴趣的一些话题"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "你看我们也换了个新背景"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "轻松一点 不那么严肃"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "这次我就不想用那种"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "一个问题回答 一个问题回答"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "这种一问一答的形式"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "我可能更想像咱们日常视频那样"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "整理出来一个框架"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "慢慢这么深入地聊"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "符合咱们一贯的风格"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "比较有逻辑性"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "我是详细整理了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "大家感兴趣的各种问题"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "包括私信的 评论的"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "还有很多我在可能"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "网上刷到的关于我的一些讨论"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "总结下来"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "今天我准备分这么三块来聊"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 13,
+      "snippet": "第一块 也是大家最感兴趣的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "就是我是怎么赚钱的"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 15,
+      "snippet": "咱们聊一聊小Lin说的商业模式"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "第二块就更偏内容向一点"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "我会介绍一下"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "小Lin现在团队大概是个什么状态"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "我们有多少人"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "这个内容是怎么做出来的"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "包括我们对内容的一些想法 规划"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "就是我们想把频道做成个什么样的"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "因为很多人觉得"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 11,
+      "snippet": "小Lin平时也不怎么回"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "大家评论不回私信"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 17,
+      "snippet": "这个小Lin的团队好像很神秘 是吧"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "所以今天我们也来一个"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "大公开 大揭秘"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "来跟大家一起分享一下"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "第三块 可能就更偏个人向一点"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 13,
+      "snippet": "反正有的没的 咱就开门见山"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "先来说说我们是怎么赚钱的"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 15,
+      "snippet": "因为我其实经常在网上有看到讨论"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "说你看这个小Lin"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "她是怎么赚钱的呢"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "也没看见什么广告"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 15,
+      "snippet": "我跟你说 那可能就是你还没刷到"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 14,
+      "snippet": "我们现在收入其实主要是四大块"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 15,
+      "snippet": "所以我在没清楚大家是不是真实的"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 9,
+      "snippet": "有这个需求的情况下"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 15,
+      "snippet": "现在确实没有这么多的时间和精力"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 7,
+      "snippet": "去支持做这件事"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 12,
+      "snippet": "这其实也是为什么我们现在"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 12,
+      "snippet": "内容这个频率一直都上不去"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 5,
+      "snippet": "有很多粉丝"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 11,
+      "snippet": "整天私信催更 评论催更"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 11,
+      "snippet": "说希望我们视频改到周更"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 13,
+      "snippet": "但说实话 臣妾真的是做不到"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 7,
+      "snippet": "不是我们不想做"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 12,
+      "snippet": "真的是没有这个时间和精力"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 10,
+      "snippet": "就有人问说 小Lin"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 13,
+      "snippet": "你这一段视频要花多长时间呀"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 10,
+      "snippet": "说你背后是不是有一个"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 6,
+      "snippet": "特别大的团队"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 10,
+      "snippet": "有几十人 甚至上百人"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 13,
+      "snippet": "你整天就往那坐着念稿就行了"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 8,
+      "snippet": "我跟你说还真不是"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 7,
+      "snippet": "我稍微透露一下"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 9,
+      "snippet": "我们现在团队的情况"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 12,
+      "snippet": "我们团队就是个位数的人数"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 10,
+      "snippet": "基本上有这么几个角色"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 11,
+      "snippet": "内容 后期 商务 运营"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 7,
+      "snippet": "内容就是写稿子"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 9,
+      "snippet": "后期就是做视频后期"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 11,
+      "snippet": "商务就是负责跟甲方对接"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 12,
+      "snippet": "跟甲方 \"Battle\""
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 15,
+      "snippet": "运营基本上就是维护我们各个平台"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 12,
+      "snippet": "比如说上传视频 维护评论"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 10,
+      "snippet": "包括跟平台的一些对接"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 7,
+      "snippet": "其实大部分这种"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 9,
+      "snippet": "视频内容向的自媒体"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 8,
+      "snippet": "大概是这么个角色"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 13,
+      "snippet": "然后我们一段视频的制作周期"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 9,
+      "snippet": "基本是要在两周左右"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 4,
+      "snippet": "先会选题"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 13,
+      "snippet": "选题之后就是查资料 写稿子"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 6,
+      "snippet": "这其实是一个"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 11,
+      "snippet": "我觉得痛并快乐着的过程"
+    },
+    {
+      "sentence_id": "s502",
+      "char_len": 5,
+      "snippet": "非常地欣慰"
+    },
+    {
+      "sentence_id": "s503",
+      "char_len": 5,
+      "snippet": "当然更多的"
+    },
+    {
+      "sentence_id": "s504",
+      "char_len": 13,
+      "snippet": "可能是一些本科生或者研究生"
+    },
+    {
+      "sentence_id": "s505",
+      "char_len": 6,
+      "snippet": "看着我的视频"
+    },
+    {
+      "sentence_id": "s506",
+      "char_len": 15,
+      "snippet": "去什么写写论文 写写作业什么的"
+    },
+    {
+      "sentence_id": "s507",
+      "char_len": 13,
+      "snippet": "我的重点不是说不让你们参考"
+    },
+    {
+      "sentence_id": "s508",
+      "char_len": 15,
+      "snippet": "我更多的可能是感受到了一些压力"
+    },
+    {
+      "sentence_id": "s509",
+      "char_len": 7,
+      "snippet": "说到未来我觉得"
+    },
+    {
+      "sentence_id": "s510",
+      "char_len": 7,
+      "snippet": "我也可能没想过"
+    },
+    {
+      "sentence_id": "s511",
+      "char_len": 11,
+      "snippet": "要打造一个什么商业帝国"
+    },
+    {
+      "sentence_id": "s512",
+      "char_len": 11,
+      "snippet": "打造一个小Lin奶茶店"
+    },
+    {
+      "sentence_id": "s513",
+      "char_len": 10,
+      "snippet": "我觉得我也不一定合适"
+    },
+    {
+      "sentence_id": "s514",
+      "char_len": 9,
+      "snippet": "可能也没有那个能力"
+    },
+    {
+      "sentence_id": "s515",
+      "char_len": 12,
+      "snippet": "你看我招个人都费劲 对吧"
+    },
+    {
+      "sentence_id": "s516",
+      "char_len": 7,
+      "snippet": "所以我有的时候"
+    },
+    {
+      "sentence_id": "s517",
+      "char_len": 13,
+      "snippet": "就感觉每天忙忙叨叨非常繁琐"
+    },
+    {
+      "sentence_id": "s518",
+      "char_len": 6,
+      "snippet": "你看一个视频"
+    },
+    {
+      "sentence_id": "s519",
+      "char_len": 15,
+      "snippet": "各个平台的播放量几百万 几十万"
+    },
+    {
+      "sentence_id": "s520",
+      "char_len": 13,
+      "snippet": "你就觉得已经习惯了那个数字"
+    },
+    {
+      "sentence_id": "s521",
+      "char_len": 14,
+      "snippet": "但其实你经常跟粉丝互动的时候"
+    },
+    {
+      "sentence_id": "s522",
+      "char_len": 5,
+      "snippet": "你就会觉得"
+    },
+    {
+      "sentence_id": "s523",
+      "char_len": 6,
+      "snippet": "这些数字背后"
+    },
+    {
+      "sentence_id": "s524",
+      "char_len": 14,
+      "snippet": "是切切实实的真的有几百万个人"
+    },
+    {
+      "sentence_id": "s525",
+      "char_len": 5,
+      "snippet": "他花了时间"
+    },
+    {
+      "sentence_id": "s526",
+      "char_len": 17,
+      "snippet": "他因为信任小Lin去点进了这段视频"
+    },
+    {
+      "sentence_id": "s527",
+      "char_len": 8,
+      "snippet": "所以回归到我未来"
+    },
+    {
+      "sentence_id": "s528",
+      "char_len": 11,
+      "snippet": "可能就是做好每一段视频"
+    },
+    {
+      "sentence_id": "s529",
+      "char_len": 13,
+      "snippet": "真的是非常再次感谢一下大家"
+    },
+    {
+      "sentence_id": "s530",
+      "char_len": 11,
+      "snippet": "对小Lin的支持和信任"
+    },
+    {
+      "sentence_id": "s531",
+      "char_len": 5,
+      "snippet": "我会努力的"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "久未聊天+春节假期+粉丝破200万庆祝，声明换背景轻松聊、不用一问一答。",
+      "patterns": [
+        "久未见面破冰",
+        "粉丝里程碑",
+        "拒一问一答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "也很久没跟大家聊天了",
+          "note": "很久没聊天"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "咱们频道粉丝突破了200万",
+          "note": "粉丝突破200万"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "一个问题回答 一个问题回答",
+          "note": "不要一问一答"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "三块议程：商业模式赚钱→团队揭秘→个人向；收入四大块→产能瓶颈→个位数团队→做好每支视频。",
+      "patterns": [
+        "三块议程",
+        "收入→产能→团队→ dedications"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "今天我准备分这么三块来聊",
+          "note": "分三块来聊"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "我们现在收入其实主要是四大块",
+          "note": "收入四大块"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "我们团队就是个位数的人数",
+          "note": "团队个位数"
+        },
+        {
+          "sentence_id": "s528",
+          "snippet": "可能就是做好每一段视频",
+          "note": "做好每一段视频"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "festival_frame",
+          "note": "春节破200万粉丝+三块议程预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "revenue_tease",
+          "note": "怎么赚钱切入四大收入块"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261",
+            "s262",
+            "s263",
+            "s264",
+            "s265",
+            "s266",
+            "s267"
+          ],
+          "function": "capacity_limit",
+          "note": "催更压力与时间精力不够"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s268",
+            "s269",
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279",
+            "s280",
+            "s281",
+            "s282",
+            "s283",
+            "s284",
+            "s285",
+            "s502",
+            "s503",
+            "s504",
+            "s505",
+            "s506",
+            "s507"
+          ],
+          "function": "team_reveal",
+          "note": "个位数团队角色与两周周期"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s508",
+            "s509",
+            "s510",
+            "s511",
+            "s512",
+            "s513",
+            "s514",
+            "s515",
+            "s516",
+            "s517",
+            "s518",
+            "s519",
+            "s520",
+            "s521",
+            "s522",
+            "s523",
+            "s524",
+            "s525",
+            "s526",
+            "s527",
+            "s528",
+            "s529",
+            "s530",
+            "s531"
+          ],
+          "function": "gratitude_close",
+          "note": "未来不做帝国+感谢信任收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "第一块/第二块/第三块、所以今天、我跟你说、回归到我未来。",
+      "patterns": [
+        "块序编号",
+        "所以今天揭秘",
+        "回归未来"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "第一块 也是大家最感兴趣的",
+          "note": "第一块"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "第二块就更偏内容向一点",
+          "note": "第二块"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "第三块 可能就更偏个人向一点",
+          "note": "第三块"
+        },
+        {
+          "sentence_id": "s527",
+          "snippet": "所以回归到我未来",
+          "note": "回归到我未来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "严肃日常视频 vs 轻松新背景；外界猜上百人团队 vs 实际个位数；想周更 vs 做不到。",
+      "patterns": [
+        "严肃vs轻松背景",
+        "百人猜疑vs个位数",
+        "催更vs产能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "轻松一点 不那么严肃",
+          "note": "轻松不严肃"
+        },
+        {
+          "sentence_id": "s262",
+          "snippet": "有几十人 甚至上百人",
+          "note": "几十上百人猜"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "臣妾做不到"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "借网友问「她怎么赚钱」「要花多长时间」「是不是大团队」推进自我回答。",
+      "patterns": [
+        "网友代问赚钱",
+        "制作时长问",
+        "大团队猜问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "她是怎么赚钱的呢",
+          "note": "怎么赚钱的呢"
+        },
+        {
+          "sentence_id": "s259",
+          "snippet": "你这一段视频要花多长时间呀",
+          "note": "花多长时间呀"
+        },
+        {
+          "sentence_id": "s261",
+          "snippet": "特别大的团队",
+          "note": "特别大的团队"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "私信评论催更；内容/后期/商务/运营四角色；两周选题写稿周期。",
+      "patterns": [
+        "催更例",
+        "四角色分工",
+        "两周周期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s253",
+          "snippet": "整天私信催更 评论催更",
+          "note": "私信催更"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "内容 后期 商务 运营",
+          "note": "内容后期商务运营"
+        },
+        {
+          "sentence_id": "s281",
+          "snippet": "基本是要在两周左右",
+          "note": "两周左右"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「商业模式」落到四大收入；「神秘团队」落到个位数角色清单与Battle甲方。",
+      "patterns": [
+        "收入四块落地",
+        "角色清单落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "我们现在收入其实主要是四大块",
+          "note": "收入四大块"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "我们团队就是个位数的人数",
+          "note": "个位数人数"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "跟甲方 \"Battle\"",
+          "note": "跟甲方Battle"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「臣妾真的是做不到」「还真不是」「痛并快乐着」「不一定合适」自我裁定。",
+      "patterns": [
+        "臣妾做不到",
+        "还真不是",
+        "能力自限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "臣妾做不到"
+        },
+        {
+          "sentence_id": "s264",
+          "snippet": "我跟你说还真不是",
+          "note": "还真不是"
+        },
+        {
+          "sentence_id": "s513",
+          "snippet": "我觉得我也不一定合适",
+          "note": "不一定合适"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "澄清没刷到广告≠没广告；否认念稿大团队想象；承认招人都费劲故不做帝国。",
+      "patterns": [
+        "广告澄清",
+        "否认大团队",
+        "招人费劲自限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "我跟你说 那可能就是你还没刷到",
+          "note": "你还没刷到"
+        },
+        {
+          "sentence_id": "s264",
+          "snippet": "我跟你说还真不是",
+          "note": "还真不是"
+        },
+        {
+          "sentence_id": "s515",
+          "snippet": "你看我招个人都费劲 对吧",
+          "note": "招个人都费劲"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场闲聊慢热→议程加速→赚钱段中密→团队揭秘快答→感谢收束放慢。",
+      "patterns": [
+        "闲聊慢热",
+        "议程加速",
+        "揭秘快答",
+        "感谢放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "也很久没跟大家聊天了",
+          "note": "久未聊天"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "今天我准备分这么三块来聊",
+          "note": "三块议程"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "我们团队就是个位数的人数",
+          "note": "个位数揭秘"
+        },
+        {
+          "sentence_id": "s529",
+          "snippet": "真的是非常再次感谢一下大家",
+          "note": "再次感谢"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "亲切庆祝→好奇揭秘→催更无奈自嘲→团队坦白轻松→信任感动收尾。",
+      "patterns": [
+        "庆祝→揭秘→无奈→坦白→感动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "正好也庆祝一下",
+          "note": "庆祝一下"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "做不到无奈"
+        },
+        {
+          "sentence_id": "s502",
+          "snippet": "非常地欣慰",
+          "note": "非常地欣慰"
+        },
+        {
+          "sentence_id": "s530",
+          "snippet": "对小Lin的支持和信任",
+          "note": "支持和信任"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「怎么赚钱/团队神秘」回到「做好每一段视频+感谢信任」，拒帝国叙事。",
+      "patterns": [
+        "拒帝国",
+        "做好视频闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s511",
+          "snippet": "要打造一个什么商业帝国",
+          "note": "不打造商业帝国"
+        },
+        {
+          "sentence_id": "s528",
+          "snippet": "可能就是做好每一段视频",
+          "note": "做好每一段视频"
+        },
+        {
+          "sentence_id": "s530",
+          "snippet": "对小Lin的支持和信任",
+          "note": "感谢支持信任"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软感谢与「我会努力」承诺，无硬关注口令。",
+      "patterns": [
+        "感谢承诺式CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s529",
+          "snippet": "真的是非常再次感谢一下大家",
+          "note": "再次感谢"
+        },
+        {
+          "sentence_id": "s531",
+          "snippet": "我会努力的",
+          "note": "我会努力的"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "臣妾做不到典、Battle英文夹、忙忙叨叨口语、数字习惯后突然感人，口述感强。",
+      "patterns": [
+        "臣妾典",
+        "Battle夹杂",
+        "忙忙叨叨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "臣妾真的是"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "跟甲方 \"Battle\"",
+          "note": "Battle"
+        },
+        {
+          "sentence_id": "s517",
+          "snippet": "就感觉每天忙忙叨叨非常繁琐",
+          "note": "忙忙叨叨"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳过收入细节；三块中个人向后段密度不均；部分重复解释产能。",
+      "patterns": [
+        "收入细节截断",
+        "块间密度不均"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "我们现在收入其实主要是四大块",
+          "note": "四大块后跳切"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "内容这个频率一直都上不去",
+          "note": "频率上不去重复"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示整理私信评论框架的过程；透露团队与周期时用「稍微透露一下」。",
+      "patterns": [
+        "整理问题框架",
+        "稍微透露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "我是详细整理了",
+          "note": "详细整理了"
+        },
+        {
+          "sentence_id": "s265",
+          "snippet": "我稍微透露一下",
+          "note": "稍微透露一下"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把粉丝当「咱们」共同庆祝的熟人，回应催更与神秘团队八卦。",
+      "patterns": [
+        "咱们粉丝共同体",
+        "回应八卦催更"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "跟大家一起来聊一聊",
+          "note": "跟大家一起聊"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个小Lin的团队好像很神秘 是吧",
+          "note": "团队好像很神秘"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "200万粉丝；四大收入；个位数团队；两周制作；播放量几百万。",
+      "patterns": [
+        "200万里程碑",
+        "个位数团队",
+        "两周周期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "咱们频道粉丝突破了200万",
+          "note": "突破200万"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "我们团队就是个位数的人数",
+          "note": "个位数"
+        },
+        {
+          "sentence_id": "s281",
+          "snippet": "基本是要在两周左右",
+          "note": "两周左右"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密寒暄→议程中密→赚钱/团队高密→个人感悟低密情感。",
+      "patterns": [
+        "寒暄低",
+        "揭秘高",
+        "感悟低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你看我们也换了个新背景",
+          "note": "换背景寒暄"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "内容 后期 商务 运营",
+          "note": "角色高密"
+        },
+        {
+          "sentence_id": "s524",
+          "snippet": "是切切实实的真的有几百万个人",
+          "note": "几百万个人"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短口语句推进；「你看/我跟你说」口语衔接；收尾长情感句。",
+      "patterns": [
+        "短口语推进",
+        "你看衔接",
+        "情感长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你看我们也换了个新背景",
+          "note": "你看我们也换"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "我跟你说 那可能就是你还没刷到",
+          "note": "我跟你说"
+        },
+        {
+          "sentence_id": "s524",
+          "snippet": "是切切实实的真的有几百万个人",
+          "note": "几百万个人"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说幕后版：逻辑框架控场+自嘲产能+拒帝国的务实创作者人格。",
+      "patterns": [
+        "框架控场",
+        "自嘲产能",
+        "拒帝国务实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "整理出来一个框架",
+          "note": "整理框架"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "臣妾做不到"
+        },
+        {
+          "sentence_id": "s511",
+          "snippet": "要打造一个什么商业帝国",
+          "note": "不打造帝国"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "粉丝200万；收入四大块；团队个位数；臣妾做不到周更。",
+      "patterns": [
+        "200万",
+        "个位数团队",
+        "臣妾做不到"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "咱们频道粉丝突破了200万",
+          "note": "200万"
+        },
+        {
+          "sentence_id": "s267",
+          "snippet": "我们团队就是个位数的人数",
+          "note": "个位数"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "但说实话 臣妾真的是做不到",
+          "note": "做不到"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "创作者商业模式+团队揭秘话术可改编为观宇「内容创业幕后」特辑，但需补全被截断的收入细节并弱化个人粉丝里程碑。",
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "咱们聊一聊小Lin说的商业模式",
+          "note": "商业模式可改编"
+        },
+        {
+          "sentence_id": "s269",
+          "snippet": "内容 后期 商务 运营",
+          "note": "角色分工可改编"
+        },
+        {
+          "sentence_id": "s528",
+          "snippet": "可能就是做好每一段视频",
+          "note": "做好每支的收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s11",
+    "s24",
+    "s50",
+    "s267",
+    "s528",
+    "s25",
+    "s28",
+    "s42",
+    "s527",
+    "s9",
+    "s262",
+    "s255",
+    "s47",
+    "s259",
+    "s261",
+    "s253",
+    "s269",
+    "s281",
+    "s273",
+    "s264",
+    "s513",
+    "s49",
+    "s515",
+    "s529",
+    "s4",
+    "s502",
+    "s530",
+    "s511",
+    "s531",
+    "s517",
+    "s251",
+    "s18",
+    "s265",
+    "s6",
+    "s38",
+    "s8",
+    "s524",
+    "s14",
+    "s27"
+  ],
+  "fields_complete_25": true
+}

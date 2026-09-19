@@ -1,0 +1,720 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_UtLGyEdpGxg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=UtLGyEdpGxg",
+  "source_sha256": "bff69c42237c9977e8c9ffbcc5f6832bf4c787969641a15593e3ddbf196b67bd",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 65,
+  "fields": {
+    "opening_move": {
+      "summary": "用但也没那么复杂降压开场，直接拆明星网红个独企业税筹路径。",
+      "patterns": [
+        "降压口语起手",
+        "机制拆解开篇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "降压开场"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "其实很多明星和网红就是注册一大堆个人独自企业转移收入",
+          "note": "个独转移收入"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "税筹并不玄，地方优惠解释霍尔果斯潮；行业神话破灭进入监管周期；千寻体系证明供应链可替代个人IP；最后抛出平台两难。",
+      "patterns": [
+        "去神秘化税筹",
+        "周期监管论",
+        "IP与供应链设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "其实很多明星和网红就是注册一大堆个人独自企业转移收入",
+          "note": "税筹机制"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那也意味著行業的整頓高度監管和規範化",
+          "note": "整顿监管"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "IP魅力问"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "還是選品和共同劉亞更重要",
+          "note": "选品供应链问"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "拆个独税筹与霍尔果斯现象",
+          "note": "机制解释后宣布没什么可分析"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "升维到行业周期：神话到神坛到监管到红海结束",
+          "note": "因果链节节推进"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s39",
+            "s40"
+          ],
+          "function": "千寻归来案例：团队复刻与数据爬升",
+          "note": "日期与观看量证据"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "从案例提炼IP与选品供应链问题",
+          "note": "设问留到后续案例"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "转向平台角色两难选择题",
+          "note": "红人IP与中小商家出货"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这点也没什么分析的，转到我倒是觉得忽略的一点，再到这也问你一个问题，再到再看后面案例，层层换挡。",
+      "patterns": [
+        "贬低旧话题换挡",
+        "忽略点升维",
+        "案例后设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这点也没什么分析的",
+          "note": "没什么分析"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "我倒是觉得大家都忽略的一点是",
+          "note": "忽略的一点"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "這也問你一個問題了",
+          "note": "问你一个问题"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "再看後面的幾個案例",
+          "note": "再看后面案例"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "对照个人IP神话与供应链复刻，对照捧红人与帮中小企业出货。",
+      "patterns": [
+        "IP魅力对比选品供应链",
+        "捧红人对比商家出货"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "IP个人魅力"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "還是選品和共同劉亞更重要",
+          "note": "选品供应链"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "是捧起來紅人和向JIP更重要",
+          "note": "捧红人"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "把自己的後午賣出去更重要",
+          "note": "货卖出去"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连续抛出思考题与角色代入选择题，推迟给答案。",
+      "patterns": [
+        "二选一思考题",
+        "负责人角色代入问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "到底哪个更重要"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "如果你是直播盤子的負責人",
+          "note": "如果你是负责人"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "或說給你兩個選擇",
+          "note": "给你两个选择"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用霍尔果斯注册潮与千寻新直播间复刻数据作双案例。",
+      "patterns": [
+        "行业注册潮例",
+        "复刻直播间数据例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "有人疑惑为什么那么多影视公司都举华尔国斯注册",
+          "note": "霍尔果斯注册"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "有五位都是原意姐直播間的主播和模特",
+          "note": "五位原班人马"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開播當天直播間累積觀看118.9萬",
+          "note": "118.9万观看"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "红荒时代结束与马太效应抽象后，立刻落到2月12日开播与观看量台阶。",
+      "patterns": [
+        "周期抽象到日期数据落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "這又意味著整個行業的紅荒時代結束",
+          "note": "红荒时代结束"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "太效應越來越強",
+          "note": "太效应"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "2022年2月12號",
+          "note": "2022年2月12号"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "斩钉截铁宣称税筹点没什么可分析，并用终于到下一个周期做价值判断。",
+      "patterns": [
+        "话题降权判决",
+        "周期到位感慨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这点也没什么分析的",
+          "note": "没什么分析"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更多是感慨行業終於到下一個週期",
+          "note": "终于到下一周期"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说税筹不复杂可解释，再承认忽略的一点，把重心挪到周期与IP问题。",
+      "patterns": [
+        "话题重心自纠迁移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "没那么复杂"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "我倒是觉得大家都忽略的一点是",
+          "note": "忽略的一点"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "机制快讲，周期排比加速，案例数字连击，设问放慢留白。",
+      "patterns": [
+        "排比加速周期",
+        "数字连击",
+        "设问留白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "那也意味著行業的整頓高度監管和規範化",
+          "note": "意味着监管"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開播當天直播間累積觀看118.9萬",
+          "note": "观看量"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "這一點我們可以從未來的發展中看出答案",
+          "note": "从未来看出答案"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "但也没那么复杂口语软起",
+        "你你你重复口吃或ASR",
+        "这点也没什么分析的口头抹平"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "软起口语"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你你你你你你你你你你",
+          "note": "你你你重复"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这点也没什么分析的",
+          "note": "口头抹平"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "轻松拆税，感慨周期，案例数据爬升兴奋，冷静设问收。",
+      "patterns": [
+        "轻松到感慨到兴奋到冷静"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "轻松"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更多是感慨行業終於到下一個週期",
+          "note": "感慨"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "第五天就進入了千萬級別",
+          "note": "千万级别兴奋"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "這一點我們可以從未來的發展中看出答案",
+          "note": "冷静留问"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "未闭环答案，用再看后面案例你就会有答案与平台两难作系列钩子收束。",
+      "patterns": [
+        "系列预告式开放结尾",
+        "平台两难悬置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "再看後面的幾個案例",
+          "note": "再看后面案例"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你就會有答案",
+          "note": "你就会有答案"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "是捧起來紅人和向JIP更重要",
+          "note": "两个选择"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式关注CTA；用设问与后续案例预告拉动续看。",
+      "patterns": [
+        "续看预告代替关注CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "再看後面的幾個案例",
+          "note": "后面几个案例"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "口语降压、口吃重复、霍尔果斯土味专名与听写瑕疵并存，显出口播现场感。",
+      "patterns": [
+        "降压口语",
+        "口吃重复",
+        "现场听写瑕疵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "降压"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你你你你你你你你你你",
+          "note": "口吃"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "有人疑惑为什么那么多影视公司都举华尔国斯注册",
+          "note": "霍尔果斯"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "s13到s16出现听写崩坏与主题跳切；专名大量形近错字。",
+      "patterns": [
+        "中段ASR崩坏",
+        "专名错字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "你你你你你你你你你你",
+          "note": "你你你"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "共自文化監視里必須有一席之地",
+          "note": "共自文化乱码感"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "以及共同劉亞和選民體系",
+          "note": "共同劉亞听写错"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "明示我倒是觉得大家都忽略，并当场把问题改写成二选一框架。",
+      "patterns": [
+        "忽略点自我标记",
+        "问题框架重写"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我倒是觉得大家都忽略的一点是",
+          "note": "忽略的一点"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但你們看到這會被為了一個思考模樣",
+          "note": "思考模样"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "二选一"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当需要被纠偏的神话IP信徒，并让其代入平台负责人。",
+      "patterns": [
+        "纠偏神话听众",
+        "角色代入平台负责人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "而之前被過於神話的直播IP",
+          "note": "过于神话的直播IP"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "如果你是直播盤子的負責人",
+          "note": "如果你是负责人"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "锚定注册十几个个独、2月12日开播、118.9万到300万到千万观看、机构榜第一。",
+      "patterns": [
+        "日期锚",
+        "观看量阶梯锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "注册十几个个人独自企业",
+          "note": "十几个个独"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "2022年2月12號",
+          "note": "日期"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開播當天直播間累積觀看118.9萬",
+          "note": "118.9万"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "税筹段中密，周期段概念密，案例段数字高密，设问段密度下降留思考。",
+      "patterns": [
+        "案例数字峰",
+        "设问谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "其实很多明星和网红就是注册一大堆个人独自企业转移收入",
+          "note": "税筹中密"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開播當天直播間累積觀看118.9萬",
+          "note": "数字峰"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "這一點我們可以從未來的發展中看出答案",
+          "note": "设问谷"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "机制解释到宣称无分析到周期升维到案例证明到设问开放到平台两难。",
+      "patterns": [
+        "降权旧题后升维",
+        "案例后设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这点也没什么分析的",
+          "note": "降权"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "只是千尋和未來的故事到這還沒完",
+          "note": "案例未完"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "這也問你一個問題了",
+          "note": "设问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "去魅型评论者：先把税筹讲透再宣布无聊，兴趣在周期结构与真问题。",
+      "patterns": [
+        "去魅后嫌弃浅题",
+        "追问结构真问题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这点也没什么分析的",
+          "note": "没什么分析"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更多是感慨行業終於到下一個週期",
+          "note": "周期感慨"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "红荒时代结束，以及IP与供应链二选一设问易记。",
+      "patterns": [
+        "红荒时代结束",
+        "IP与供应链二选一"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "這又意味著整個行業的紅荒時代結束",
+          "note": "红荒时代结束"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "IP更重要吗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "去魅开场加案例数据爬升加二选一设问的结构非常适合观屿做行业复盘口播，稍修正专名即可复用。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "但也没那么复杂",
+          "note": "降压开场可复用"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "開播當天直播間累積觀看118.9萬",
+          "note": "数据阶梯可复用"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就到底是IP本人的個人魅力更重要",
+          "note": "二选一设问可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s21",
+    "s50",
+    "s51",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s52",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s14",
+    "s15",
+    "s49",
+    "s53"
+  ],
+  "fields_complete_25": true
+}

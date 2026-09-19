@@ -1,0 +1,1391 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_6994023355280196135",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/6994023355280196135/",
+  "source_sha256": "4599148b4ff1cf97b04146edf84cd1a929c1dc752b4b9c047a9cae03c84d9bcb",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 100,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 28,
+      "snippet": "昨天我在微博看到了一个极其魔幻的事情，是一个女孩的哭诉。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 35,
+      "snippet": "前两天，全X酒店里，一赤身男子，凌晨三点闯进一女顾客房间，并且发酒疯。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 23,
+      "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 46,
+      "snippet": "而且是什么支撑着他，在50分钟内，找遍三层楼所有房间，面对着一扇扇无法推开的门，仍不起厌倦？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 13,
+      "snippet": "总不会是，他爱的是锁孔吧？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 21,
+      "snippet": "糟糕，就连签这个行业，也要有竞争对手了吗。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "太卷了，太卷了。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 25,
+      "snippet": "言归正传，8月5号，全季酒店官方微博发了致歉声明："
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 33,
+      "snippet": "酒店的态度确实是不错的，毕竟从利益的角度，他们也没道理纵容这事儿。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 44,
+      "snippet": "但问题是，大家也不是第一天开酒店了，类似的问题出现肯定也不是一次两次了，之前，干嘛去了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 53,
+      "snippet": "考虑到酒店确实架不住别的顾客临时自由发挥，这次事件最大的问题也不是有人突然发酒疯，因为顾客干嘛谁也不知道。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 48,
+      "snippet": "最大的问题是，发微博的人，不是他今晚第一个闹的，之前他已经发过酒疯，对于这个信息，酒店是已知的。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "那么这个事件，就有意思了。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 37,
+      "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是："
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 22,
+      "snippet": "我们之前不是这样的，所以我们打算调整成如此。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "原本的机制，就是的确有问题。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 45,
+      "snippet": "比如之前的保安可能有上岗培训，但培训效果确实不咋地，是否需要保安们通过培训和考试也是未知。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 47,
+      "snippet": "比如我们酒店楼道有监控不假，监控一直开着也是事实，但是我们绝对不保证有人时刻监察这个监控画面。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 22,
+      "snippet": "哦，你问我，那加装监控还费电开着是干什么的？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 44,
+      "snippet": "肯定不是监视消费者的处境状况啊，主要为了在酒店发生事故时，能及时把视频当证据提交给警方。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 44,
+      "snippet": "这个证据可以及早证明， 一切意外事件都发生于客人之间，跟我们酒店的主观意识没有任何关联。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "无妄之灾，别牵连我。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "说白了就是，自保用的。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 42,
+      "snippet": "酒店的逻辑没啥不能理解的，自保很合理，我在银行上过班，银行的监控其实也是用于自保的。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 16,
+      "snippet": "想明白这些，我开始思考一个问题："
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 17,
+      "snippet": "消费者入住酒店，酒店应该管什么事？"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 77,
+      "snippet": "这个问题我以前从没想过，毕竟我钱给到你酒店了，你酒店的配置里也是有安保力量和监控设施的，总不能到最后，我出价钱睡你，你连我最基本的人身安全，都不能保证吧？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 94,
+      "snippet": "但是从酒店的角度，我又架不住用户互动对吧，而且最近流调的结果一出，大家都发现原来正常的生活下，无数看似正常的人竟然如此热衷于和不该互动的人亲密互动，大家相互连接"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 18,
+      "snippet": "既然从业务层面拦不住，那法律层面呢？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 54,
+      "snippet": "我专门问了一个律师朋友，得到了一个很无力的信息：我国现行法律，并没有明确严格规定酒店应该履行的安全保障义务。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "好嘛，那就是业务设计问题了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "那这里就是简单的成本问题了。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 23,
+      "snippet": "成本对应收入，住贵一点的酒店的人，图的是什么？"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 34,
+      "snippet": "硬件上当然期望好一点，还有就是期望软件上能做的更好，例如服务和安全。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 24,
+      "snippet": "安全保障确实酒店做不到百分百，毕竟这不是派出所。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 52,
+      "snippet": "但拿着加特林的猛男你拦不住，也没义务帮我挡子弹，可一个油腻赤膊的裸体变态，总应该你在处理能力范围内了吧？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 37,
+      "snippet": "况且这货都已经遭到过一次投诉了，你们还给人送回房间过一次了，这个不应该吧。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "这属于印度行为。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 20,
+      "snippet": "继续往下思考，出现了一个值得深思的问题："
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 37,
+      "snippet": "当一个客人，存在威胁到其他客人的潜在可能时，酒店为什么不直接采取强硬措施？"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "比如派个保安负责重点跟守？"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 22,
+      "snippet": "肯定是要付出代价，代价钱，以及钱以外的其他。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "这其实是一道数学题。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 87,
+      "snippet": "从酒店的角度，没有动力去付出大量成本来防范，因为这个可能，只是一个潜在的可能 ，倘若直接采取强硬措施，抛开保安要不要有加班费的成本支出不谈，带来的结果几乎必然是"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 26,
+      "snippet": "往小了说损失一个客源，往大了说平台上的记录不好处理。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 43,
+      "snippet": "可只要不参与此事，哪怕潜在的可能变成现实，在酒店的眼里，矛盾的双方，也没有自己的身影。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 35,
+      "snippet": "你们尽管自由演变尽管闹，情况若不妙，大事有警察，小事，有果盘和免房费。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 34,
+      "snippet": "至于舆论上的隐患，其实吧，酒店总部，和门店管理者，利益未必是一致的。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "门店管理者是宁肯把事情闹大的。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 40,
+      "snippet": "因为他严格按照自己酒店的规则来，事情闹大，那就是总部公关以及相关风险管理的事情。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "最后是总部承认规则缺失。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 28,
+      "snippet": "如果他没有按照规则来，做出了其他操作，那么责任就是他的。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 13,
+      "snippet": "自保，是一种打工人的智慧。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 20,
+      "snippet": "这个事情里，果盘的存在，实在是太魔幻了。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 24,
+      "snippet": "好像宇宙中的一切问题，都可以用一个果盘的来解决。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 28,
+      "snippet": "我记得以前大家都是讲烧烤的，现在已经消费降级成这样了么。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 45,
+      "snippet": "我又想了一下，酒店其实对于此类误入事件，应该是有成熟方案的，送果盘，就是方案的核心竞争力。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 33,
+      "snippet": "这个方案就好像是在帮你庆祝认识一个陌生人那种感觉，吃个果盘开心下。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 22,
+      "snippet": "住店的又不是牛老师，谁会对全裸猛男感兴趣呢。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 23,
+      "snippet": "而且谁知道他是不是还穿着拖鞋，是不是真的全裸。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 17,
+      "snippet": "全裸战神这事，还有很多迷幻的地方。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 40,
+      "snippet": "战神的妻子和女顾客交流时表示，战神本人在里面很害怕……所以希望女顾客能原谅对方。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 36,
+      "snippet": "这话说的，我扇了你一个嘴巴子，我自己的手也很疼，所以你体谅下我好不好啊？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 46,
+      "snippet": "全裸战神自己喝多了，喝醉酒做出啥事儿可能都未必是主观意愿，但既然造成了问题，那就得承担后果。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 30,
+      "snippet": "况且，裸体战神已经出来2天了，7月31日执行，行政拘留5日。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 13,
+      "snippet": "全裸战神的问题，只是个案。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 23,
+      "snippet": "真正的问题，是酒店行业为了控制成本的避重就轻。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 19,
+      "snippet": "开店要赚钱的，这个可以理解，没有问题。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 23,
+      "snippet": "但缩水，可以缩硬件，不可以缩【安全】这个软件。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 25,
+      "snippet": "但魔幻的是，硬件看得到，所以反而大家为了竞争不缩。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 27,
+      "snippet": "软件不好直接评价，那就大缩特缩，反正出了大问题有警察。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 13,
+      "snippet": "出了小问题有果盘儿和道歉。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 9,
+      "snippet": "果盘真是YYDS。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 28,
+      "snippet": "归根结底，敢对自己如此低标准松要求的背景，还是代价太低。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 22,
+      "snippet": "指望商家讲道德那是不可能的，要讲规则和代价。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 25,
+      "snippet": "或者说 代价能否承受，才是商家判断问题的永恒规则。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 27,
+      "snippet": "当不做一件好事对自己看起来没什么影响时，那就代表能做。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 31,
+      "snippet": "纵使事发，也关系不到他，这是酒店以前倾向于削减安保成本的动机。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 31,
+      "snippet": "如今事发，舆论关系到了他，这是酒店如今在道歉里表示整改的原因。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 26,
+      "snippet": "没有舆论，这些整改根本就不可能出现，毕竟法律没规定。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 45,
+      "snippet": "所以从这个角度看，道歉再诚恳，也并不能解决问题，甚至于酒店一声令下，保安和前台工作量加大。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 13,
+      "snippet": "指望他们加人那是不可能的。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 14,
+      "snippet": "真正诚恳的道歉，应该是金钱。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 12,
+      "snippet": "嘘寒问暖，不如一笔巨款。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 21,
+      "snippet": "不管是被有关部门罚，还是赔给顾客，都可以。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "没有代价，都是空话。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 19,
+      "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "微博哭诉切入全裸男子闯房，用「变态都要卷了」荒诞幽默定调。",
+      "patterns": [
+        "事件哭诉开场",
+        "内卷荒诞笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "昨天我在微博看到了一个极其魔幻的事情，是一个女孩的哭诉。",
+          "note": "哭诉"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "前两天，全X酒店里，一赤身男子，凌晨三点闯进一女顾客房间，并且发酒疯。",
+          "note": "闯房"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。",
+          "note": "变态卷"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "事件→酒店致歉可读→监控自保→法律空白→成本数学→总部门店激励错位→果盘方案→代价才是规则。",
+      "patterns": [
+        "读道歉",
+        "自保逻辑",
+        "成本激励",
+        "代价结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "言归正传，8月5号，全季酒店官方微博发了致歉声明：",
+          "note": "致歉"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "说白了就是，自保用的。",
+          "note": "自保"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我专门问了一个律师朋友，得到了一个很无力的信息：我国现行法律，并没有明确严格规定",
+          "note": "法律空白"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "这其实是一道数学题。",
+          "note": "数学题"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "出了小问题有果盘儿和道歉。",
+          "note": "果盘道歉"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "没有代价空话"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "incident_hook",
+          "note": "魔幻事件与已知酒疯信息"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "read_apology",
+          "note": "解读整改措辞与监控自保"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "law_cost_incentive",
+          "note": "法律空白、成本数学、门店自保"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86"
+          ],
+          "function": "fruit_plate_satire",
+          "note": "果盘方案与战神个案"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "cost_rule_close",
+          "note": "代价规则与金钱诚恳道歉"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「言归正传」「想明白这些我开始思考」「继续往下思考」「归根结底」议论文阶梯。",
+      "patterns": [
+        "言归正传",
+        "开始思考",
+        "继续往下",
+        "归根结底"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "言归正传，8月5号，全季酒店官方微博发了致歉声明：",
+          "note": "言归正传"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "想明白这些，我开始思考一个问题：",
+          "note": "开始思考"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "继续往下思考，出现了一个值得深思的问题：",
+          "note": "继续思考"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "归根结底，敢对自己如此低标准松要求的背景，还是代价太低。",
+          "note": "归根结底"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "酒店态度不错vs机制本有问题；硬件不缩vs安全软件大缩；舆论前不改vs舆论后道歉。",
+      "patterns": [
+        "态度/机制",
+        "硬件/软件安全",
+        "舆论前后动机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "酒店的态度确实是不错的，毕竟从利益的角度，他们也没道理纵容这事儿。",
+          "note": "态度不错"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "原本的机制，就是的确有问题。",
+          "note": "机制有问题"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "但魔幻的是，硬件看得到，所以反而大家为了竞争不缩。",
+          "note": "硬件不缩"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "软件不好直接评价，那就大缩特缩，反正出了大问题有警察。",
+          "note": "软件大缩"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "纵使事发，也关系不到他，这是酒店以前倾向于削减安保成本的动机。",
+          "note": "以前动机"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "如今事发，舆论关系到了他，这是酒店如今在道歉里表示整改的原因。",
+          "note": "如今道歉"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "爱的是锁孔吗；加监控干什么；酒店该管什么；为何不强硬措施。",
+      "patterns": [
+        "荒诞反问",
+        "职责边界问",
+        "激励为何问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "总不会是，他爱的是锁孔吧？",
+          "note": "锁孔"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "哦，你问我，那加装监控还费电开着是干什么的？",
+          "note": "监控干什么"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "消费者入住酒店，酒店应该管什么事？",
+          "note": "该管什么"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "当一个客人，存在威胁到其他客人的潜在可能时，酒店为什么不直接采取强硬措施？",
+          "note": "为何不强硬"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "银行监控自保类比；加特林猛男vs油腻裸体；果盘方案；妻子求情类比扇耳光。",
+      "patterns": [
+        "银行类比",
+        "能力边界例",
+        "果盘例",
+        "求情荒诞类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "酒店的逻辑没啥不能理解的，自保很合理，我在银行上过班，银行的监控其实也是用于自保",
+          "note": "银行监控"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "但拿着加特林的猛男你拦不住，也没义务帮我挡子弹，可一个油腻赤膊的裸体变态，总应该",
+          "note": "加特林"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "我又想了一下，酒店其实对于此类误入事件，应该是有成熟方案的，送果盘，就是方案的核",
+          "note": "果盘核心"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "这话说的，我扇了你一个嘴巴子，我自己的手也很疼，所以你体谅下我好不好啊？",
+          "note": "扇耳光类比"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「整改措施」解码为承认原机制有问题；「代价」落到罚款/巨款赔偿。",
+      "patterns": [
+        "措辞解码",
+        "代价→金钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是：",
+          "note": "整改四字"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我们之前不是这样的，所以我们打算调整成如此。",
+          "note": "解码"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "真正诚恳的道歉，应该是金钱。",
+          "note": "诚恳是金钱"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "嘘寒问暖，不如一笔巨款。",
+          "note": "巨款"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「这属于印度行为」「果盘真是YYDS」「没有代价都是空话」辛辣断语。",
+      "patterns": [
+        "印度行为",
+        "果盘YYDS",
+        "代价空话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "这属于印度行为。",
+          "note": "印度行为"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "果盘真是YYDS。",
+          "note": "YYDS"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "空话"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先理解酒店自保合理，再把问题从「拦不住顾客」收窄到「已知酒疯却送回房」。",
+      "patterns": [
+        "理解后收窄焦点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "考虑到酒店确实架不住别的顾客临时自由发挥，这次事件最大的问题也不是有人突然发酒疯",
+          "note": "拦不住"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "最大的问题是，发微博的人，不是他今晚第一个闹的，之前他已经发过酒疯，对于这个信息",
+          "note": "已知酒疯"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "酒店的逻辑没啥不能理解的，自保很合理，我在银行上过班，银行的监控其实也是用于自保",
+          "note": "自保合理"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "段子加速开场→读声明减速拆词→成本段严密→果盘段再加速讽刺→金句收。",
+      "patterns": [
+        "段子加速",
+        "拆词减速",
+        "讽刺再加速",
+        "金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "太卷了，太卷了。",
+          "note": "太卷了"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是：",
+          "note": "拆词"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "好像宇宙中的一切问题，都可以用一个果盘的来解决。",
+          "note": "果盘宇宙"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "金句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "荒诞爆笑→致歉将信→拆穿冷感→无力法律→愤怒果盘→代价清醒。",
+      "patterns": [
+        "爆笑→冷感→愤怒→清醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。",
+          "note": "爆笑"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "说白了就是，自保用的。",
+          "note": "冷感自保"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "这个事情里，果盘的存在，实在是太魔幻了。",
+          "note": "果盘愤怒"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "清醒"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从个案回到行业成本动机，落点「没有代价都是空话」完成规则命题。",
+      "patterns": [
+        "个案到行业",
+        "代价命题闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "全裸战神的问题，只是个案。",
+          "note": "只是个案"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "真正的问题，是酒店行业为了控制成本的避重就轻。",
+          "note": "真正问题"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "代价空话"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注CTA；以「真正诚恳的道歉应该是金钱」行动标准作软收。",
+      "patterns": [
+        "行动标准软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s96",
+          "snippet": "真正诚恳的道歉，应该是金钱。",
+          "note": "金钱道歉"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "不管是被有关部门罚，还是赔给顾客，都可以。",
+          "note": "罚或赔"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「变态都要卷」「印度行为」「果盘YYDS」「嘘寒问暖不如一笔巨款」强个人腔。",
+      "patterns": [
+        "内卷笑",
+        "印度行为",
+        "YYDS",
+        "巨款金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。",
+          "note": "卷"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这属于印度行为。",
+          "note": "印度"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "果盘真是YYDS。",
+          "note": "YYDS"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "嘘寒问暖，不如一笔巨款。",
+          "note": "巨款"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "配图占位句多；「印度行为」表述有冒犯风险；法律结论依赖「律师朋友」逸闻。",
+      "patterns": [
+        "配图噪音",
+        "冒犯措辞",
+        "逸闻法律"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 全裸战神扒了酒店的大裤衩",
+          "note": "配图"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这属于印度行为。",
+          "note": "印度行为"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我专门问了一个律师朋友，得到了一个很无力的信息：我国现行法律，并没有明确严格规定",
+          "note": "律师朋友"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「读声明解码→问律师→改成本题→拆激励」的层层追问过程。",
+      "patterns": [
+        "解码→法律→成本→激励"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是：",
+          "note": "教读声明"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "我专门问了一个律师朋友，得到了一个很无力的信息：我国现行法律，并没有明确严格规定",
+          "note": "问律师"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "这其实是一道数学题。",
+          "note": "数学题"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "教「大家」读道歉声明，把读者当可能住店的消费者同盟。",
+      "patterns": [
+        "教读声明",
+        "住店消费者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是：",
+          "note": "教大家读"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这个问题我以前从没想过，毕竟我钱给到你酒店了，你酒店的配置里也是有安保力量和监控",
+          "note": "我出钱睡你"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "凌晨三点、50分钟三层楼、行政拘留5日、果盘、整改措施四字。",
+      "patterns": [
+        "时间动作锚",
+        "拘留5日",
+        "果盘",
+        "整改四字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "前两天，全X酒店里，一赤身男子，凌晨三点闯进一女顾客房间，并且发酒疯。",
+          "note": "凌晨三点"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "而且是什么支撑着他，在50分钟内，找遍三层楼所有房间，面对着一扇扇无法推开的门，",
+          "note": "50分钟"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "况且，裸体战神已经出来2天了，7月31日执行，行政拘留5日。",
+          "note": "拘留5日"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "果盘真是YYDS。",
+          "note": "果盘"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密段子→声明解码中密→成本激励高密→果盘低密讽→代价金句降密。",
+      "patterns": [
+        "段子低→解码中→激励高→金句降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "太卷了，太卷了。",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "比如我们酒店楼道有监控不假，监控一直开着也是事实，但是我们绝对不保证有人时刻监察",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "从酒店的角度，没有动力去付出大量成本来防范，因为这个可能，只是一个潜在的可能 ，",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "降"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短段子与长分析句交替；设问后自答；金句单行砸地。",
+      "patterns": [
+        "段子/分析交替",
+        "设问自答",
+        "金句单行"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。",
+          "note": "短段子"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "从酒店的角度，没有动力去付出大量成本来防范，因为这个可能，只是一个潜在的可能 ，",
+          "note": "长分析"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "金句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式毒舌商业观察：先共情荒诞再拆激励，结论不道德化而讲代价。",
+      "patterns": [
+        "毒舌激励拆解",
+        "代价现实主义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s88",
+          "snippet": "指望商家讲道德那是不可能的，要讲规则和代价。",
+          "note": "别指望道德"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "或者说 代价能否承受，才是商家判断问题的永恒规则。",
+          "note": "代价规则"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "变态都要卷了；监控为自保；果盘YYDS；没有代价都是空话。",
+      "patterns": [
+        "变态卷",
+        "监控自保",
+        "果盘YYDS",
+        "代价空话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "这个操作把我看麻了，怎么这年头当变态都要卷了。",
+          "note": "卷"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "说白了就是，自保用的。",
+          "note": "自保"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "果盘真是YYDS。",
+          "note": "YYDS"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "空话"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "事件钩→读官方措辞→激励错位→代价金句的评论骨架可直接迁移观宇消费维权/商业伦理口播。",
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "这里教大家读一下这个道歉声明，那上面强调的“整改措施”，这四个字的含义是：",
+          "note": "读措辞"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "至于舆论上的隐患，其实吧，酒店总部，和门店管理者，利益未必是一致的。",
+          "note": "激励错位"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "没有代价，都是空话。",
+          "note": "代价"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100"
+  ],
+  "fields_complete_25": true
+}

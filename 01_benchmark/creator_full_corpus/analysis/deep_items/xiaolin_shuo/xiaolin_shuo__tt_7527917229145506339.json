@@ -1,0 +1,1239 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7527917229145506339",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7527917229145506339/",
+  "source_sha256": "b38acec9fa0ef0d5b9e6ad458c6db56f085055418f0e1787bdbfa6794e7b9389",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s144"
+    },
+    {
+      "sentence_id": "s145"
+    },
+    {
+      "sentence_id": "s146"
+    },
+    {
+      "sentence_id": "s147"
+    },
+    {
+      "sentence_id": "s148"
+    },
+    {
+      "sentence_id": "s149"
+    },
+    {
+      "sentence_id": "s150"
+    },
+    {
+      "sentence_id": "s151"
+    },
+    {
+      "sentence_id": "s152"
+    },
+    {
+      "sentence_id": "s153"
+    },
+    {
+      "sentence_id": "s154"
+    },
+    {
+      "sentence_id": "s155"
+    },
+    {
+      "sentence_id": "s156"
+    },
+    {
+      "sentence_id": "s157"
+    },
+    {
+      "sentence_id": "s158"
+    },
+    {
+      "sentence_id": "s159"
+    },
+    {
+      "sentence_id": "s160"
+    },
+    {
+      "sentence_id": "s161"
+    },
+    {
+      "sentence_id": "s162"
+    },
+    {
+      "sentence_id": "s163"
+    },
+    {
+      "sentence_id": "s164"
+    },
+    {
+      "sentence_id": "s165"
+    },
+    {
+      "sentence_id": "s166"
+    },
+    {
+      "sentence_id": "s167"
+    },
+    {
+      "sentence_id": "s168"
+    },
+    {
+      "sentence_id": "s169"
+    },
+    {
+      "sentence_id": "s170"
+    },
+    {
+      "sentence_id": "s171"
+    },
+    {
+      "sentence_id": "s172"
+    },
+    {
+      "sentence_id": "s173"
+    },
+    {
+      "sentence_id": "s174"
+    },
+    {
+      "sentence_id": "s175"
+    },
+    {
+      "sentence_id": "s176"
+    },
+    {
+      "sentence_id": "s177"
+    },
+    {
+      "sentence_id": "s178"
+    },
+    {
+      "sentence_id": "s179"
+    },
+    {
+      "sentence_id": "s180"
+    },
+    {
+      "sentence_id": "s181"
+    },
+    {
+      "sentence_id": "s182"
+    },
+    {
+      "sentence_id": "s183"
+    },
+    {
+      "sentence_id": "s297"
+    },
+    {
+      "sentence_id": "s298"
+    },
+    {
+      "sentence_id": "s299"
+    },
+    {
+      "sentence_id": "s300"
+    },
+    {
+      "sentence_id": "s301"
+    },
+    {
+      "sentence_id": "s302"
+    },
+    {
+      "sentence_id": "s303"
+    },
+    {
+      "sentence_id": "s304"
+    },
+    {
+      "sentence_id": "s305"
+    },
+    {
+      "sentence_id": "s306"
+    },
+    {
+      "sentence_id": "s307"
+    },
+    {
+      "sentence_id": "s308"
+    },
+    {
+      "sentence_id": "s309"
+    },
+    {
+      "sentence_id": "s310"
+    },
+    {
+      "sentence_id": "s311"
+    },
+    {
+      "sentence_id": "s312"
+    },
+    {
+      "sentence_id": "s313"
+    },
+    {
+      "sentence_id": "s314"
+    },
+    {
+      "sentence_id": "s315"
+    },
+    {
+      "sentence_id": "s316"
+    },
+    {
+      "sentence_id": "s317"
+    },
+    {
+      "sentence_id": "s318"
+    },
+    {
+      "sentence_id": "s319"
+    },
+    {
+      "sentence_id": "s320"
+    },
+    {
+      "sentence_id": "s321"
+    },
+    {
+      "sentence_id": "s322"
+    },
+    {
+      "sentence_id": "s323"
+    },
+    {
+      "sentence_id": "s324"
+    },
+    {
+      "sentence_id": "s325"
+    },
+    {
+      "sentence_id": "s326"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "点名私信最多选题稳定币，连抛美港立法、Circle涨750%、巨头入场，再拆阴谋论。",
+      "patterns": [
+        "私信选题开场",
+        "立法潮证据堆",
+        "拆阴谋论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们来说说这个最近给我私信最多的选题 ：稳定币。",
+          "note": "私信最多"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "5月20号，美国参议院通过了稳定币《天才法案》的关键性程序投票；",
+          "note": "天才法案"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "而市场这边，稳定币第一股Circle上市不到一个月，股价已经涨了750%；",
+          "note": "涨750%"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "可这么多国家地区的政府、这么多主流大公司全都冲进来了，不可能都是为了圈钱，或者明",
+          "note": "不可能都圈钱"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "稳定币=链上1:1美元→发行/赎回锚定→储备赚钱→美国要巩固美元+刺激美债（个人打折）→金融脱媒冲击→多重冲撞收束。",
+      "patterns": [
+        "定义锚定",
+        "储备利息",
+        "美元地位",
+        "美债需求打折",
+        "金融脱媒",
+        "多重冲撞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但它最大的区别就是稳定，大部分是和美元1:1绑定。",
+          "note": "1:1绑定"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "它发行稳定币，你不是会给它1美元么，它主要就是靠那1美元投资带来的利息。",
+          "note": "靠利息赚钱"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "美国财政部长贝森特，在3月份就明说了: 特朗普政府将会利用稳定币来维持美元的主导",
+          "note": "维持美元主导"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "不过我个人认为，这一点其实并不是推动美国加急推出稳定币法案的主要原因。",
+          "note": "美债非主因"
+        },
+        {
+          "sentence_id": "s306",
+          "snippet": "我们非常高概念的说，稳定币崛起，包括去中心化金融，本质上就是跳过了金融中介、跳过",
+          "note": "金融脱媒"
+        },
+        {
+          "sentence_id": "s320",
+          "snippet": "稳定币，真的非常有意思，我肯定没有能力一段视频给它聊透，但至少我希望让大家意识到",
+          "note": "多重冲撞"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "立法潮与入场证据拆阴谋",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "稳定币定义锚定机制与利润",
+          "note": "基础"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168",
+            "s169",
+            "s170",
+            "s171",
+            "s172",
+            "s173",
+            "s174",
+            "s175",
+            "s176",
+            "s177",
+            "s178",
+            "s179",
+            "s180",
+            "s181",
+            "s182"
+          ],
+          "function": "美国动机：美元地位与美债需求辨析",
+          "note": "动机"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s297",
+            "s298",
+            "s299",
+            "s300",
+            "s301",
+            "s302",
+            "s303",
+            "s304",
+            "s305",
+            "s306",
+            "s307",
+            "s308",
+            "s309",
+            "s310",
+            "s311",
+            "s312",
+            "s313",
+            "s314",
+            "s315",
+            "s316",
+            "s317",
+            "s318",
+            "s319",
+            "s320",
+            "s321",
+            "s322",
+            "s323",
+            "s324",
+            "s325",
+            "s326"
+          ],
+          "function": "全球混战、金融脱媒与冲撞收束",
+          "note": "冲击收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我们来一口气了解」「顺带一提」「首先/其次」「至于」分层推进。",
+      "patterns": [
+        "一口气了解",
+        "顺带一提",
+        "首先其次",
+        "至于转层"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我们来一口气了解一下，稳定币这个混沌的战场。",
+          "note": "一口气了解"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "顺带一提，这些发行稳定币的公司，利润率是很恐怖的。",
+          "note": "顺带一提"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "首先，加强美元地位。",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "其次，就是刺激美债需求。",
+          "note": "其次"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "比特币波动 vs 稳定币锚定；去中心化理想 vs 中心化发行；美债新需求 vs 实际转移需求。",
+      "patterns": [
+        "波动/稳定",
+        "去中心/中心",
+        "新需求/转移需求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但它最大的区别就是稳定，大部分是和美元1:1绑定。",
+          "note": "稳定绑定"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "你看这也挺讽刺的，虽然区块链的理念是去中心化，但稳定币这个加密世界货币，主流还是",
+          "note": "仍中心化讽刺"
+        },
+        {
+          "sentence_id": "s175",
+          "snippet": "所以贝森特说的这一万亿美债，并不是完全的新需求，要打不少折扣的。",
+          "note": "非全新需求"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为什么突然都冲进来」「凭什么稳定在1美元」「怎么赚钱」驱动分层解答。",
+      "patterns": [
+        "为何入场",
+        "如何锚定",
+        "如何赚钱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "为什么突然间大家都冲进来了？",
+          "note": "为何冲进来"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我们稍微引申一点，泰达凭什么能保证这个USDT能稳定在1美元，不会像比特币一样波",
+          "note": "凭什么稳定"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "那这些稳定币发行公司，是怎么赚钱的？",
+          "note": "怎么赚钱"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "USDT发行赎回套利；Tether人均利润一亿；土耳其等美元化极端假设；Jamie Dimon改口发币。",
+      "patterns": [
+        "USDT机制例",
+        "人均利润例",
+        "美元化假设",
+        "Dimon改口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "这样一来，一旦市场价高于1美元，你就可以找泰达买，然后在市场上抛售，低于1美元，",
+          "note": "套利锁定1美元"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "人均一亿"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "咱举个极端一点的假设，如果土耳其、尼日利亚、阿根廷，全都用美元稳定币交易结算了，",
+          "note": "土耳其假设"
+        },
+        {
+          "sentence_id": "s308",
+          "snippet": "摩根大通老大Jamie Dimon 2023年还说比特币就是个大骗局，结果最近摩",
+          "note": "Dimon改口"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "稳定币抽象概念落到1436亿发行/1492亿储备、4%利息、60%/24%市占、金融脱媒名词。",
+      "patterns": [
+        "储备数字",
+        "利息测算",
+        "市占",
+        "脱媒名词"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "比如观察泰达一季度的报告，它总共发行了1436.8亿的泰达币，而它的储备资产有1",
+          "note": "1436.8亿"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "比如泰达，它发行了1500亿美元的泰达币，咱就按4%的利息算，也有60亿美元了。",
+          "note": "4%算60亿"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "泰达币，USDT，占60%；",
+          "note": "USDT占60%"
+        },
+        {
+          "sentence_id": "s306",
+          "snippet": "我们非常高概念的说，稳定币崛起，包括去中心化金融，本质上就是跳过了金融中介、跳过",
+          "note": "金融脱媒"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「挺讽刺的」「利润率很恐怖」「美债正愁没人买呢岂不正好」「八成没想明白」。",
+      "patterns": [
+        "讽刺判断",
+        "利润恐怖",
+        "岂不正好",
+        "八成没想明白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "你看这也挺讽刺的，虽然区块链的理念是去中心化，但稳定币这个加密世界货币，主流还是",
+          "note": "挺讽刺"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "顺带一提，这些发行稳定币的公司，利润率是很恐怖的。",
+          "note": "利润恐怖"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "美债正愁没人买呢！",
+          "note": "愁没人买"
+        },
+        {
+          "sentence_id": "s299",
+          "snippet": "再深入的，我猜各国政府八成也没怎么想明白。",
+          "note": "没想明白"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认美债逻辑顺但个人认为非主因；声明「纯粹个人观点你可以听听」。",
+      "patterns": [
+        "承认顺逻辑",
+        "个人观点打折",
+        "邀请倾听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s169",
+          "snippet": "大家提这点非常多，可能主要是因为它的逻辑链非常的顺理成章、很合理。",
+          "note": "逻辑顺理成章"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "不过我个人认为，这一点其实并不是推动美国加急推出稳定币法案的主要原因。",
+          "note": "我认为非主因"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "这纯粹是个人观点啊，你可以听听我是怎么想的。",
+          "note": "个人观点声明"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "证据堆叠加速→定义段中速→利润彩蛋顿挫→动机长链→脱媒收束放慢。",
+      "patterns": [
+        "证据加速",
+        "定义中速",
+        "利润顿挫",
+        "收束放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "包括欧盟、英国、新加坡、韩国等等，都在这一年里接二连三推出了针对稳定币的监管立法",
+          "note": "证据堆"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "稳定币，是一种加密货币，和比特币、以太坊一样，是建立在区块链上的。",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "利润彩蛋"
+        },
+        {
+          "sentence_id": "s320",
+          "snippet": "稳定币，真的非常有意思，我肯定没有能力一段视频给它聊透，但至少我希望让大家意识到",
+          "note": "收束"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇紧迫→拆阴谋清醒→机制踏实→利润震惊→动机辩论→脱媒警惕→革新兴奋。",
+      "patterns": [
+        "紧迫",
+        "清醒",
+        "踏实",
+        "震惊",
+        "辩论",
+        "警惕",
+        "兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们来说说这个最近给我私信最多的选题 ：稳定币。",
+          "note": "紧迫"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "可这么多国家地区的政府、这么多主流大公司全都冲进来了，不可能都是为了圈钱，或者明",
+          "note": "清醒"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "震惊"
+        },
+        {
+          "sentence_id": "s325",
+          "snippet": "这种革新虽然风险很大，但各国能这么积极去拥抱，其实我个人还是挺兴奋的，挺想看看这",
+          "note": "兴奋"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场为何都冲进来，收束四重冲撞并表达对Web3颠覆认知的兴奋。",
+      "patterns": [
+        "为何入场开",
+        "四重冲撞收",
+        "Web3兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "为什么突然间大家都冲进来了？",
+          "note": "为何开"
+        },
+        {
+          "sentence_id": "s321",
+          "snippet": "引发了不同国家、不同货币之间的冲撞；",
+          "note": "国家冲撞"
+        },
+        {
+          "sentence_id": "s325",
+          "snippet": "这种革新虽然风险很大，但各国能这么积极去拥抱，其实我个人还是挺兴奋的，挺想看看这",
+          "note": "兴奋收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬广；以「一口气了解」知识承诺和「挺想看看」开放式邀请留人。",
+      "patterns": [
+        "知识承诺",
+        "开放式展望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我们来一口气了解一下，稳定币这个混沌的战场。",
+          "note": "一口气了解"
+        },
+        {
+          "sentence_id": "s325",
+          "snippet": "这种革新虽然风险很大，但各国能这么积极去拥抱，其实我个人还是挺兴奋的，挺想看看这",
+          "note": "想看看形态"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "点名潘功胜/贝森特、Tether季报数字、交易员期限视角，专业口述痕迹强。",
+      "patterns": [
+        "官员点名",
+        "季报数字",
+        "交易员视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "连中国人民银行行长，潘功胜都在6月份首次公开讨论稳定币；",
+          "note": "潘功胜"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "比如观察泰达一季度的报告，它总共发行了1436.8亿的泰达币，而它的储备资产有1",
+          "note": "季报数字"
+        },
+        {
+          "sentence_id": "s181",
+          "snippet": "做过交易员的朋友都清楚，3个月的国债和10年期国债那可是有本质区别的。",
+          "note": "做过交易员"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED，基础与美国动机之间大段缺失；图片/视频截取占位句打断。",
+      "patterns": [
+        "中段截断",
+        "截取占位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "图片截取自: 小Lin说",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "第二： 增加美债需求；",
+          "note": "跳入第二点"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "视频截取自: 小Lin说",
+          "note": "视频截取"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示发行赎回套利锁定、储备利息测算、美债需求折扣与期限区别的推理。",
+      "patterns": [
+        "套利锁定推理",
+        "利息测算",
+        "需求折扣",
+        "期限区别"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "这样一来，一旦市场价高于1美元，你就可以找泰达买，然后在市场上抛售，低于1美元，",
+          "note": "套利锁定"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "比如泰达，它发行了1500亿美元的泰达币，咱就按4%的利息算，也有60亿美元了。",
+          "note": "利息测算"
+        },
+        {
+          "sentence_id": "s175",
+          "snippet": "所以贝森特说的这一万亿美债，并不是完全的新需求，要打不少折扣的。",
+          "note": "需求打折"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "对这种超短期利率，起到决定性作用的并不是市场的需求，而是美联储！",
+          "note": "超短期看美联储"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准把币圈当圈钱阴谋的朋友，用「朋友们」和政府巨头入场证据拉回理性。",
+      "patterns": [
+        "朋友们称呼",
+        "拆阴谋受众",
+        "理性拉回"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "朋友们，咱们来说说这个最近给我私信最多的选题 ：稳定币。",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "我相信很多人都会潜意识觉得，币圈的新概念就是炒作、就是圈钱，或者这就是美国的阴谋",
+          "note": "阴谋潜意识"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "可这么多国家地区的政府、这么多主流大公司全都冲进来了，不可能都是为了圈钱，或者明",
+          "note": "不可能都圈钱"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "5月20天才法案；Circle涨750%；USDT60%/USDC24%；储备1492.7亿；人均利润一亿。",
+      "patterns": [
+        "日期锚",
+        "涨幅锚",
+        "市占锚",
+        "储备锚",
+        "人均利润"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "5月20号，美国参议院通过了稳定币《天才法案》的关键性程序投票；",
+          "note": "5月20号"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "而市场这边，稳定币第一股Circle上市不到一个月，股价已经涨了750%；",
+          "note": "750%"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "泰达币，USDT，占60%；",
+          "note": "60%"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "人均一亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场证据高密→定义中密→利润高密彩蛋→动机辨析高密→脱媒中密→冲撞低密收。",
+      "patterns": [
+        "证据高密",
+        "定义中密",
+        "利润高密",
+        "动机高密",
+        "收束低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "包括欧盟、英国、新加坡、韩国等等，都在这一年里接二连三推出了针对稳定币的监管立法",
+          "note": "证据密"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "稳定币，是一种加密货币，和比特币、以太坊一样，是建立在区块链上的。",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "利润密"
+        },
+        {
+          "sentence_id": "s320",
+          "snippet": "稳定币，真的非常有意思，我肯定没有能力一段视频给它聊透，但至少我希望让大家意识到",
+          "note": "低密收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "新闻并列长句开场；定义短句切开；「岂不正好?!」感叹打断；冲撞排比收。",
+      "patterns": [
+        "并列长句",
+        "定义短句",
+        "感叹打断",
+        "排比收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "包括欧盟、英国、新加坡、韩国等等，都在这一年里接二连三推出了针对稳定币的监管立法",
+          "note": "并列长句"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但它最大的区别就是稳定，大部分是和美元1:1绑定。",
+          "note": "定义短"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "岂不正好?",
+          "note": "感叹"
+        },
+        {
+          "sentence_id": "s321",
+          "snippet": "引发了不同国家、不同货币之间的冲撞；",
+          "note": "排比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理性拆谣讲解员：敢说个人认为美债非主因，收束对监管「走一步看一步」的坦诚兴奋。",
+      "patterns": [
+        "拆谣讲解",
+        "个人观点敢言",
+        "坦诚兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "可这么多国家地区的政府、这么多主流大公司全都冲进来了，不可能都是为了圈钱，或者明",
+          "note": "拆谣"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "不过我个人认为，这一点其实并不是推动美国加急推出稳定币法案的主要原因。",
+          "note": "个人观点"
+        },
+        {
+          "sentence_id": "s325",
+          "snippet": "这种革新虽然风险很大，但各国能这么积极去拥抱，其实我个人还是挺兴奋的，挺想看看这",
+          "note": "兴奋"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "1:1绑定；人均利润一亿；维持美元主导；美债需求要打折；金融脱媒；四重冲撞。",
+      "patterns": [
+        "1:1",
+        "人均一亿",
+        "美元主导",
+        "需求打折",
+        "脱媒",
+        "四重冲撞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但它最大的区别就是稳定，大部分是和美元1:1绑定。",
+          "note": "1:1"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "Tether 去年利润130亿美元，而它的员工人数只有一百出头，也就是人均利润一",
+          "note": "人均一亿"
+        },
+        {
+          "sentence_id": "s306",
+          "snippet": "我们非常高概念的说，稳定币崛起，包括去中心化金融，本质上就是跳过了金融中介、跳过",
+          "note": "脱媒"
+        },
+        {
+          "sentence_id": "s320",
+          "snippet": "稳定币，真的非常有意思，我肯定没有能力一段视频给它聊透，但至少我希望让大家意识到",
+          "note": "冲撞"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "立法潮开场+机制拆解+动机辨析+脱媒冲击的硬核财经长文骨架可直接迁移观宇稳定币/支付专题。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我们来一口气了解一下，稳定币这个混沌的战场。",
+          "note": "一口气结构可复用"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "这样一来，一旦市场价高于1美元，你就可以找泰达买，然后在市场上抛售，低于1美元，",
+          "note": "锚定机制可复用"
+        },
+        {
+          "sentence_id": "s306",
+          "snippet": "我们非常高概念的说，稳定币崛起，包括去中心化金融，本质上就是跳过了金融中介、跳过",
+          "note": "脱媒框架可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s8",
+    "s13",
+    "s20",
+    "s46",
+    "s150",
+    "s170",
+    "s306",
+    "s320",
+    "s1",
+    "s17",
+    "s144",
+    "s297",
+    "s16",
+    "s42",
+    "s149",
+    "s161",
+    "s40",
+    "s175",
+    "s14",
+    "s25",
+    "s44",
+    "s28",
+    "s43",
+    "s156",
+    "s308",
+    "s32",
+    "s48",
+    "s37",
+    "s166",
+    "s299",
+    "s169",
+    "s171",
+    "s6",
+    "s19",
+    "s325",
+    "s321",
+    "s7",
+    "s181",
+    "s50",
+    "s11",
+    "s182",
+    "s12",
+    "s167"
+  ],
+  "fields_complete_25": true
+}

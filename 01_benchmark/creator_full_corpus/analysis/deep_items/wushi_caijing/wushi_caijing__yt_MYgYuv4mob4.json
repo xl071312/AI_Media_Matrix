@@ -1,0 +1,560 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_MYgYuv4mob4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=MYgYuv4mob4",
+  "source_sha256": "49fad644838f4c0e61106bfa6ab2e517e9a6caa21c8d02a3d373752407ef482a",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 19,
+  "fields": {
+    "opening_move": {
+      "summary": "残缺起句后直接抛核心：经济利益足够大就能推动创作者越过阻碍。",
+      "patterns": [
+        "利益驱动命题开门"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "而只有经济利益对于任何一个个体对我足够推动的并且可以让这个创造者解决大部分阻碍创",
+          "note": "经济利益推动"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "能解决大部分问题"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "利益够大则创作能坚持；完成商业闭环的网红成标杆示范；吸引在做与未做的人使行业繁荣；反之没钱则默默降优先级至断更。",
+      "patterns": [
+        "正向利益激励链",
+        "反向断更链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "利益大能坚持"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "那些能采取一条路完成双银化闭环的网红",
+          "note": "商业闭环标杆"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当然行为和思想上都会把创作的优先及默默往后移",
+          "note": "优先级后移"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "慢慢断更"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "function": "利益驱动创作坚持的命题",
+          "note": "短片核心公理"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "闭环网红标杆到示范到吸引供给到内容繁荣",
+          "note": "正向循环"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "反向：没钱到嘴上不说到行为降优先级到断更",
+          "note": "对照收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "对确认重述；这样那些推演；反正大家没钱了完成正反切换。",
+      "patterns": [
+        "对确认重述",
+        "这样推演",
+        "反正反向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "对确认"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "这样那些已经在做视频的就会一直做下去",
+          "note": "这样那些"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "反正大家没钱了",
+          "note": "反正没钱"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "正向有闭环标杆持续创作；反向没钱断更；嘴上不说对比行为后移。",
+      "patterns": [
+        "正反激励对照",
+        "口头对比行为"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这样那些已经在做视频的就会一直做下去",
+          "note": "会一直做"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "断更"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "大家嘴上不会说",
+          "note": "嘴上不会说"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当然行为和思想上都会把创作的优先及默默往后移",
+          "note": "行为后移"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "是怎么完成的回声问，强化机制好奇。",
+      "patterns": [
+        "回声机制问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "是怎么完成的",
+          "note": "是怎么完成的"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "未举具体网红名，以完成商业化闭环的网红作类型例。",
+      "patterns": [
+        "类型化例证非具名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那些能采取一条路完成双银化闭环的网红",
+          "note": "闭环网红类型"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "经济利益抽象推动力落到持续做视频或断更的行为结果。",
+      "patterns": [
+        "抽象利益到行为结果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "而只有经济利益对于任何一个个体对我足够推动的并且可以让这个创造者解决大部分阻碍创",
+          "note": "经济利益"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "这样那些已经在做视频的就会一直做下去",
+          "note": "一直做下去"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "断更"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言钱能解决大部分创作阻碍；标杆网红起到很好的标杆作用。",
+      "patterns": [
+        "钱解决大部分问题",
+        "标杆作用肯定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "解决大部分问题"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "就是起到了很好的标轻作用",
+          "note": "很好的标杆作用"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "s3对s2的口语重述确认，属微调强调而非翻案。",
+      "patterns": [
+        "重述确认微调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "对钱就是"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "超短片：长句命题，短确认，推演中速，反向短句加速收。",
+      "patterns": [
+        "长命题短确认",
+        "反向短句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "而只有经济利益对于任何一个个体对我足够推动的并且可以让这个创造者解决大部分阻碍创",
+          "note": "长命题"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "短确认"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "短收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "对前就是口误修正感",
+        "是怎么完成的回声",
+        "决定的决定的尾循环ASR"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "对确认或口误"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "是怎么完成的",
+          "note": "回声"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "在这些决定的决定的决定的决定的决定的决定的决定的",
+          "note": "尾循环"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "说理冷静，对繁荣略带鼓动，谈没钱断更时无奈低落。",
+      "patterns": [
+        "冷静到鼓动到低落"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "冷静说理"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "你们才能有那么多意思的东西 at",
+          "note": "有意思的东西鼓动"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "生活都支持不下去了",
+          "note": "生活支持不下去"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用断更后果回收利益推动创作命题，形成正反闭环；尾句ASR循环削弱收束。",
+      "patterns": [
+        "正反闭环",
+        "尾噪声伤收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "正向命题"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "反向断更"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "在这些决定的决定的决定的决定的决定的决定的决定的",
+          "note": "噪声尾"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式CTA；隐含鼓励理解商业化正当性。",
+      "patterns": [
+        "隐性观念CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "也就展示了创作可以让生活更好是怎么完成",
+          "note": "创作让生活更好"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "口误式确认、回声问、尾部决定循环，像未修剪口播。",
+      "patterns": [
+        "口误确认",
+        "回声",
+        "尾循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "对 前就是能解决大部分问题",
+          "note": "口误确认"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "是怎么完成的",
+          "note": "回声"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "在这些决定的决定的决定的决定的决定的决定的决定的",
+          "note": "循环"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "仅19句且开场残缺、无具名案例、结尾循环；论证偏口号。",
+      "patterns": [
+        "过短",
+        "无具名例",
+        "尾循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "对于那些反",
+          "note": "残缺起"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "在这些决定的决定的决定的决定的决定的决定的决定的",
+          "note": "循环"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "把钱解决阻碍当作显式公理推演行业供给，反向再推行为优先级。",
+      "patterns": [
+        "公理推演外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "而只有经济利益对于任何一个个体对我足够推动的并且可以让这个创造者解决大部分阻碍创",
+          "note": "公理"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当然行为和思想上都会把创作的优先及默默往后移",
+          "note": "优先级推理"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对反商业化听众暗辩：没有经济利益就没有你们爱看的内容。",
+      "patterns": [
+        "暗辩反商业听众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "你们才能有那么多意思的东西 at",
+          "note": "你们才能有意思的东西"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "对于那些反",
+          "note": "对于那些反"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "缺少数字与事件锚，几乎全是机制陈述。",
+      "patterns": [
+        "无硬数字锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "那些能采取一条路完成双银化闭环的网红",
+          "note": "闭环类型软锚"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "全片短：命题高密，推演中密，反向中密，尾噪声低密。",
+      "patterns": [
+        "命题峰",
+        "尾谷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "而只有经济利益对于任何一个个体对我足够推动的并且可以让这个创造者解决大部分阻碍创",
+          "note": "命题峰"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "在这些决定的决定的决定的决定的决定的决定的决定的",
+          "note": "尾谷"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "公理到标杆到示范吸引到繁荣到反向断更。",
+      "patterns": [
+        "单链正反"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "公理"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "就是起到了很好的标轻作用",
+          "note": "标杆"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "反向"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "为商业化辩护的实用主义者：不谈理想只谈激励相容。",
+      "patterns": [
+        "激励相容辩护"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "利益够大能坚持"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "也就展示了创作可以让生活更好是怎么完成",
+          "note": "生活更好"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "利益够大创作就能坚持；没钱就默默断更。",
+      "patterns": [
+        "利益坚持",
+        "默默断更"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "利益坚持"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "断更"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "正反激励链清晰可作观屿短评骨架，但必须补具名案例与数据，并去掉残缺与循环句。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "只要利益足够大大部分的创作就是能坚持下去",
+          "note": "正向链可迁"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "甚至慢慢断更",
+          "note": "反向链可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s17",
+    "s18",
+    "s1",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s19"
+  ],
+  "fields_complete_25": true
+}

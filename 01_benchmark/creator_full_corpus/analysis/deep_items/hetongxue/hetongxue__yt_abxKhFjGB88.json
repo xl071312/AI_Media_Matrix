@@ -1,0 +1,1417 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_abxKhFjGB88",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=abxKhFjGB88",
+  "source_sha256": "a489acc461280f85e0277339969b3bbc7d59f3b93c82a0f9bea54eb1162226ac",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "歡迎來到第一屆"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "何同學工作室RC遙控車大賽"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "我是一個新手司機"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "之前我考駕照的時候"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 11,
+      "snippet": "就特別想辦一個賽車比賽"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 14,
+      "snippet": "但是我們工作室並沒有這個能力"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "所以我們就辦了這個模擬賽車比賽"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "他們將使用模擬器"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "駕駛經過DIY的RC小車"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "挑戰四個不同的關卡"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "而獲勝的組"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "將獲得我們工作室至高無上的榮譽"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "車神的稱號"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "以及兩輛沃爾沃EX30的一年使用權"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "好的 讓我們開始比賽"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "第一關"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "小車需要飛躍15米到達對面"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "成功飛躍的選手將獲得5分的積分"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "有請我們第一組選手"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "定一和陽生"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "介紹下你們的車"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "我們的車叫做逮蝦戶"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "為了增加抓地力"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "我們在內部裝了一個航空模型上的涵道風扇"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "車頂裝有一個可拆卸的接口"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "它可以根據賽道環境換成其他道具"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "我們開始比賽"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 1,
+      "snippet": "三"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 1,
+      "snippet": "二"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 1,
+      "snippet": "一"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "開"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 12,
+      "snippet": "逮蝦戶的飛坡姿態非常優雅"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "落點也幾乎是正中靶心"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "給我們的比賽開了個好頭"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "恭喜他們"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "好的"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "一凡小五"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "你們的車叫什麼"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "我們的車叫做自曝卡車"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "曝是過曝的曝"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "因為我們打算在車尾"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "裝一個巨大的閃光燈"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 16,
+      "snippet": "一閃就可以使對手的圖傳攝像頭過曝"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "所以說你們的秘訣就是"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "反向打雙閃是嗎"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 1,
+      "snippet": "對"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "三"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 1,
+      "snippet": "二"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 1,
+      "snippet": "一"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": "開"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 9,
+      "snippet": "我們這配合太稀碎了"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 7,
+      "snippet": "我們繼續往前走"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 13,
+      "snippet": "好在攔截方還有第二道保障啊"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 11,
+      "snippet": "歡樂喜鋸人已經在出彎處"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 4,
+      "snippet": "虎視眈眈"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 4,
+      "snippet": "準備攔截"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 2,
+      "snippet": "漂亮"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 4,
+      "snippet": "成功命中"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 14,
+      "snippet": "逮蝦戶正面的第二顆氣球也爆了"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 8,
+      "snippet": "但他反應速度很快"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 7,
+      "snippet": "立刻脫離了現場"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 11,
+      "snippet": "保住了自己後面兩個氣球"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 12,
+      "snippet": "但是自曝卡車從正面過來了"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 2,
+      "snippet": "哎呦"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 10,
+      "snippet": "這一下狠狠的正面碰撞"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 8,
+      "snippet": "爆了一地的裝備啊"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 6,
+      "snippet": "雖然氣球沒破"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 15,
+      "snippet": "但是不知道會不會對性能有所影響"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 7,
+      "snippet": "第二次成功衝線"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 9,
+      "snippet": "逮蝦戶依舊全速前進"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 7,
+      "snippet": "看來沒什麼問題"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 10,
+      "snippet": "逮蝦戶的車殼翻起來了"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 9,
+      "snippet": "這下大大增加了風阻"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 11,
+      "snippet": "可能沒有之前那麼靈活了"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 5,
+      "snippet": "正面急急急"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 6,
+      "snippet": "第二次的攔截"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 10,
+      "snippet": "雙方有一個小小的刮擦"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 9,
+      "snippet": "急急急控制不了方向"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 9,
+      "snippet": "直接一頭撞在邊牆上"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 10,
+      "snippet": "而逮蝦戶控制住了身形"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 4,
+      "snippet": "繼續前進"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 6,
+      "snippet": "過了這個彎道"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 9,
+      "snippet": "是歡樂喜鋸人的攔截"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 4,
+      "snippet": "有機會嗎"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 2,
+      "snippet": "漂亮"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 14,
+      "snippet": "逮蝦戶再次一個凌波微步扭開了"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 14,
+      "snippet": "難道這揚起的像船帆一樣的車殼"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 11,
+      "snippet": "反而幫他增加了控制力嗎"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 4,
+      "snippet": "再次衝線"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 12,
+      "snippet": "逮蝦戶還有兩顆氣球在身上"
+    },
+    {
+      "sentence_id": "s536",
+      "char_len": 6,
+      "snippet": "一茬接著一茬"
+    },
+    {
+      "sentence_id": "s537",
+      "char_len": 6,
+      "snippet": "有的時候我想"
+    },
+    {
+      "sentence_id": "s538",
+      "char_len": 10,
+      "snippet": "如果當時不搞這麼複雜"
+    },
+    {
+      "sentence_id": "s539",
+      "char_len": 8,
+      "snippet": "會不會翻車少一些"
+    },
+    {
+      "sentence_id": "s540",
+      "char_len": 7,
+      "snippet": "讓拍攝更順利些"
+    },
+    {
+      "sentence_id": "s541",
+      "char_len": 5,
+      "snippet": "比賽結束後"
+    },
+    {
+      "sentence_id": "s542",
+      "char_len": 6,
+      "snippet": "我有點想通了"
+    },
+    {
+      "sentence_id": "s543",
+      "char_len": 11,
+      "snippet": "與我們過去的視頻計劃好"
+    },
+    {
+      "sentence_id": "s544",
+      "char_len": 5,
+      "snippet": "每一句文案"
+    },
+    {
+      "sentence_id": "s545",
+      "char_len": 7,
+      "snippet": "每一個鏡頭不同"
+    },
+    {
+      "sentence_id": "s546",
+      "char_len": 15,
+      "snippet": "比賽視頻的魅力就在於它的隨機性"
+    },
+    {
+      "sentence_id": "s547",
+      "char_len": 7,
+      "snippet": "很多翻車的畫面"
+    },
+    {
+      "sentence_id": "s548",
+      "char_len": 14,
+      "snippet": "也恰恰是這次比賽里有趣的地方"
+    },
+    {
+      "sentence_id": "s549",
+      "char_len": 11,
+      "snippet": "或許我們很長一段時間內"
+    },
+    {
+      "sentence_id": "s550",
+      "char_len": 10,
+      "snippet": "不會再辦更複雜的比賽"
+    },
+    {
+      "sentence_id": "s551",
+      "char_len": 3,
+      "snippet": "但當下"
+    },
+    {
+      "sentence_id": "s552",
+      "char_len": 8,
+      "snippet": "接受可控下的失控"
+    },
+    {
+      "sentence_id": "s553",
+      "char_len": 10,
+      "snippet": "把握好混沌衍生的結果"
+    },
+    {
+      "sentence_id": "s554",
+      "char_len": 8,
+      "snippet": "比抱怨翻車要更好"
+    },
+    {
+      "sentence_id": "s555",
+      "char_len": 8,
+      "snippet": "也許這就是生活吧"
+    },
+    {
+      "sentence_id": "s556",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s557",
+      "char_len": 13,
+      "snippet": "這就是本期視頻的全部內容了"
+    },
+    {
+      "sentence_id": "s558",
+      "char_len": 10,
+      "snippet": "非常感謝你能看到這裡"
+    },
+    {
+      "sentence_id": "s559",
+      "char_len": 9,
+      "snippet": "如果你看得開心的話"
+    },
+    {
+      "sentence_id": "s560",
+      "char_len": 10,
+      "snippet": "求贊 求收藏 求轉發"
+    },
+    {
+      "sentence_id": "s561",
+      "char_len": 12,
+      "snippet": "最重要的是點個大大的關注"
+    },
+    {
+      "sentence_id": "s562",
+      "char_len": 5,
+      "snippet": "各位的支持"
+    },
+    {
+      "sentence_id": "s563",
+      "char_len": 12,
+      "snippet": "就是我們做視頻的最大動力"
+    },
+    {
+      "sentence_id": "s564",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s565",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "宣布第一届RC遥控车大赛，自嘲新手司机+考驾照想办赛车却只能模拟。",
+      "patterns": [
+        "赛事宣布开场",
+        "能力不足自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "歡迎來到第一屆",
+          "note": "欢迎来到第一届"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "我是一個新手司機",
+          "note": "我是新手司机"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但是我們工作室並沒有這個能力",
+          "note": "没有这个能力"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "办模拟RC赛→四关挑战→车队改装展示→混战解说→反思随机性价值→关注CTA。",
+      "patterns": [
+        "办赛→关卡→改装→混战→反思→CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我們就辦了這個模擬賽車比賽",
+          "note": "模拟赛车比赛"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "挑戰四個不同的關卡",
+          "note": "四个不同关卡"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "我們在內部裝了一個航空模型上的涵道風扇",
+          "note": "涵道风扇"
+        },
+        {
+          "sentence_id": "s546",
+          "snippet": "比賽視頻的魅力就在於它的隨機性",
+          "note": "魅力在随机性"
+        },
+        {
+          "sentence_id": "s561",
+          "snippet": "最重要的是點個大大的關注",
+          "note": "点个关注"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "show_open",
+          "note": "大赛主持开场+奖品+第一关飞跃"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "team_intros",
+          "note": "逮虾户/自曝卡车等车队介绍开赛"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s263",
+            "s264",
+            "s265",
+            "s266",
+            "s267",
+            "s268",
+            "s269",
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279",
+            "s280",
+            "s281",
+            "s282",
+            "s283",
+            "s284"
+          ],
+          "function": "battle_mid",
+          "note": "拦截碰撞气球爆裂中段解说"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s285",
+            "s286",
+            "s287",
+            "s288",
+            "s289",
+            "s290",
+            "s291",
+            "s292",
+            "s293",
+            "s294",
+            "s295",
+            "s296",
+            "s297",
+            "s298",
+            "s299",
+            "s300",
+            "s301",
+            "s302",
+            "s536",
+            "s537",
+            "s538",
+            "s539",
+            "s540",
+            "s541"
+          ],
+          "function": "chaos_accept",
+          "note": "翻车反思：接受可控失控"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s542",
+            "s543",
+            "s544",
+            "s545",
+            "s546",
+            "s547",
+            "s548",
+            "s549",
+            "s550",
+            "s551",
+            "s552",
+            "s553",
+            "s554",
+            "s555",
+            "s556",
+            "s557",
+            "s558",
+            "s559",
+            "s560",
+            "s561",
+            "s562",
+            "s563",
+            "s564",
+            "s565"
+          ],
+          "function": "outro_cta",
+          "note": "标准求赞求关注下期见"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "好的让我们开始/第一关/有请/我们继续往前走/比赛结束后/OK各位。",
+      "patterns": [
+        "好的开始",
+        "第N关",
+        "继续往前",
+        "OK各位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "好的 讓我們開始比賽",
+          "note": "好的让我们开始"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "第一關",
+          "note": "第一关"
+        },
+        {
+          "sentence_id": "s264",
+          "snippet": "我們繼續往前走",
+          "note": "继续往前走"
+        },
+        {
+          "sentence_id": "s556",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "想办真赛车 vs 只能RC模拟；计划好文案镜头 vs 比赛随机翻车；抱怨翻车 vs 接受失控。",
+      "patterns": [
+        "真车vs模拟",
+        "计划vs随机",
+        "抱怨vs接受"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "就特別想辦一個賽車比賽",
+          "note": "想办赛车比赛"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "所以我們就辦了這個模擬賽車比賽",
+          "note": "模拟赛车"
+        },
+        {
+          "sentence_id": "s543",
+          "snippet": "與我們過去的視頻計劃好",
+          "note": "计划好文案"
+        },
+        {
+          "sentence_id": "s554",
+          "snippet": "比抱怨翻車要更好",
+          "note": "比抱怨更好"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "介绍下车？反向打双闪是吗？有机会吗？——主持采访式短问。",
+      "patterns": [
+        "介绍下车",
+        "反问确认改装",
+        "有机会吗解说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "介紹下你們的車",
+          "note": "介绍下你们的车"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "反向打雙閃是嗎",
+          "note": "反向打双闪是吗"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "有機會嗎",
+          "note": "有机会吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "逮虾户涵道风扇；自曝卡车闪光过曝；欢乐喜锯人拦截；翻车画面即趣味。",
+      "patterns": [
+        "涵道风扇例",
+        "闪光过曝例",
+        "喜锯拦截",
+        "翻车即趣味"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "我們在內部裝了一個航空模型上的涵道風扇",
+          "note": "涵道风扇"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "一閃就可以使對手的圖傳攝像頭過曝",
+          "note": "图传过曝"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "歡樂喜鋸人已經在出彎處",
+          "note": "欢乐喜锯人"
+        },
+        {
+          "sentence_id": "s548",
+          "snippet": "也恰恰是這次比賽里有趣的地方",
+          "note": "翻车有趣"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「至高荣誉」落到车神称号+沃尔沃一年使用权；「随机性」落到翻车画面。",
+      "patterns": [
+        "奖品具象",
+        "随机性具象翻车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "車神的稱號",
+          "note": "车神称号"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "以及兩輛沃爾沃EX30的一年使用權",
+          "note": "沃尔沃一年"
+        },
+        {
+          "sentence_id": "s547",
+          "snippet": "很多翻車的畫面",
+          "note": "翻车的画面"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "飞坡姿态非常优雅/漂亮/配合太稀碎/比抱怨翻车要更好。",
+      "patterns": [
+        "优雅漂亮褒",
+        "稀碎贬",
+        "接受更好价值判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "逮蝦戶的飛坡姿態非常優雅",
+          "note": "姿态非常优雅"
+        },
+        {
+          "sentence_id": "s263",
+          "snippet": "我們這配合太稀碎了",
+          "note": "配合太稀碎"
+        },
+        {
+          "sentence_id": "s554",
+          "snippet": "比抱怨翻車要更好",
+          "note": "比抱怨更好"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "赛后想通：若当初不搞复杂或少翻车，但随机性正是魅力；承认很长一段时间不办更复杂赛。",
+      "patterns": [
+        "想通随机性",
+        "承认减复杂度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s542",
+          "snippet": "我有點想通了",
+          "note": "有点想通了"
+        },
+        {
+          "sentence_id": "s538",
+          "snippet": "如果當時不搞這麼複雜",
+          "note": "不搞这么复杂"
+        },
+        {
+          "sentence_id": "s550",
+          "snippet": "不會再辦更複雜的比賽",
+          "note": "不会再办更复杂"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "主持宣告稳→倒计时短促→飞坡赞叹→混战急促解说→哲思降速→CTA标准收。",
+      "patterns": [
+        "宣告稳",
+        "倒计时促",
+        "混战急",
+        "哲思降",
+        "CTA收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "三",
+          "note": "三二一"
+        },
+        {
+          "sentence_id": "s277",
+          "snippet": "這一下狠狠的正面碰撞",
+          "note": "正面碰撞"
+        },
+        {
+          "sentence_id": "s552",
+          "snippet": "接受可控下的失控",
+          "note": "接受可控失控"
+        },
+        {
+          "sentence_id": "s560",
+          "snippet": "求贊 求收藏 求轉發",
+          "note": "求赞求藏"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "仪式兴奋→开赛紧张→碰撞爽感→配合稀碎无奈→想通释然→感谢温和。",
+      "patterns": [
+        "兴奋→紧张→爽→无奈→释然→感谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "何同學工作室RC遙控車大賽",
+          "note": "大赛兴奋"
+        },
+        {
+          "sentence_id": "s277",
+          "snippet": "這一下狠狠的正面碰撞",
+          "note": "狠狠碰撞"
+        },
+        {
+          "sentence_id": "s263",
+          "snippet": "我們這配合太稀碎了",
+          "note": "稀碎无奈"
+        },
+        {
+          "sentence_id": "s542",
+          "snippet": "我有點想通了",
+          "note": "想通释然"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从办赛初衷绕回「接受可控失控/生活」哲思，再标准求关注。",
+      "patterns": [
+        "失控哲思闭环",
+        "求关注收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s552",
+          "snippet": "接受可控下的失控",
+          "note": "接受可控失控"
+        },
+        {
+          "sentence_id": "s555",
+          "snippet": "也許這就是生活吧",
+          "note": "就是生活吧"
+        },
+        {
+          "sentence_id": "s561",
+          "snippet": "最重要的是點個大大的關注",
+          "note": "点个关注"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "求赞求收藏求转发+大大的关注+下期再见，标准三连。",
+      "patterns": [
+        "三连求赞",
+        "大大关注",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s560",
+          "snippet": "求贊 求收藏 求轉發",
+          "note": "求赞求藏求转"
+        },
+        {
+          "sentence_id": "s561",
+          "snippet": "最重要的是點個大大的關注",
+          "note": "大大的关注"
+        },
+        {
+          "sentence_id": "s565",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "车名梗（逮虾户/自曝卡车）、哎呦、凌波微步、稀碎，直播解说口语。",
+      "patterns": [
+        "车名梗",
+        "哎呦",
+        "凌波微步"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我們的車叫做逮蝦戶",
+          "note": "逮虾户"
+        },
+        {
+          "sentence_id": "s276",
+          "snippet": "哎呦",
+          "note": "哎呦"
+        },
+        {
+          "sentence_id": "s298",
+          "snippet": "逮蝦戶再次一個凌波微步扭開了",
+          "note": "凌波微步"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳过大段比赛；哲思与CTA模板感；赞助沃尔沃植入偏硬。",
+      "patterns": [
+        "截断跳戏",
+        "CTA模板",
+        "赞助硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "開",
+          "note": "开后跳切"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "以及兩輛沃爾沃EX30的一年使用權",
+          "note": "沃尔沃使用权"
+        },
+        {
+          "sentence_id": "s560",
+          "snippet": "求贊 求收藏 求轉發",
+          "note": "求赞模板"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示赛后自我对话：复杂是否导致翻车→转念随机性价值。",
+      "patterns": [
+        "赛后自我对话",
+        "转念随机性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s537",
+          "snippet": "有的時候我想",
+          "note": "有的时候我想"
+        },
+        {
+          "sentence_id": "s542",
+          "snippet": "我有點想通了",
+          "note": "有点想通了"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当赛场观众与长期粉丝，用「各位」主持称呼。",
+      "patterns": [
+        "赛场观众",
+        "各位称呼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "好的 讓我們開始比賽",
+          "note": "开始比赛"
+        },
+        {
+          "sentence_id": "s556",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "飞跃15米得5分；涵道风扇；沃尔沃EX30一年；车壳变船帆。",
+      "patterns": [
+        "15米5分",
+        "涵道风扇",
+        "沃尔沃EX30"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "小車需要飛躍15米到達對面",
+          "note": "飞跃15米"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "我們在內部裝了一個航空模型上的涵道風扇",
+          "note": "涵道风扇"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "以及兩輛沃爾沃EX30的一年使用權",
+          "note": "沃尔沃EX30"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "规则中密→改装介绍高密→混战解说中密画面密→哲思低密→CTA低密。",
+      "patterns": [
+        "规则中",
+        "改装高",
+        "混战中",
+        "哲思低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "小車需要飛躍15米到達對面",
+          "note": "规则"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "我們在內部裝了一個航空模型上的涵道風扇",
+          "note": "改装细节"
+        },
+        {
+          "sentence_id": "s277",
+          "snippet": "這一下狠狠的正面碰撞",
+          "note": "碰撞"
+        },
+        {
+          "sentence_id": "s555",
+          "snippet": "也許這就是生活吧",
+          "note": "生活吧"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "主持短句+倒计时单字；解说连珠短句；收尾哲思稍长句。",
+      "patterns": [
+        "倒计时单字",
+        "解说连珠",
+        "哲思稍长"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "三",
+          "note": "三"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "爆了一地的裝備啊",
+          "note": "爆了一地"
+        },
+        {
+          "sentence_id": "s546",
+          "snippet": "比賽視頻的魅力就在於它的隨機性",
+          "note": "魅力就在于"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学工程娱乐人：把DIY翻车做成节目，再升华为接受失控的生活观。",
+      "patterns": [
+        "DIY节目化",
+        "翻车升华生活观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "駕駛經過DIY的RC小車",
+          "note": "DIY的RC"
+        },
+        {
+          "sentence_id": "s552",
+          "snippet": "接受可控下的失控",
+          "note": "可控下的失控"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "逮虾户；反向打双闪；接受可控失控；求个大大的关注。",
+      "patterns": [
+        "逮虾户",
+        "反向双闪",
+        "可控失控"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "我們的車叫做逮蝦戶",
+          "note": "逮虾户"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "反向打雙閃是嗎",
+          "note": "反向打双闪"
+        },
+        {
+          "sentence_id": "s552",
+          "snippet": "接受可控下的失控",
+          "note": "可控失控"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "RC赛事娱乐解说与观宇财经/认知定位不符，仅「接受可控失控」金句可作态度点缀，整体不迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "何同學工作室RC遙控車大賽",
+          "note": "RC大赛主题不符"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "以及兩輛沃爾沃EX30的一年使用權",
+          "note": "车赞助硬广"
+        },
+        {
+          "sentence_id": "s552",
+          "snippet": "接受可控下的失控",
+          "note": "金句可点缀"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s6",
+    "s7",
+    "s10",
+    "s24",
+    "s546",
+    "s561",
+    "s15",
+    "s16",
+    "s264",
+    "s556",
+    "s5",
+    "s543",
+    "s554",
+    "s21",
+    "s45",
+    "s296",
+    "s43",
+    "s266",
+    "s548",
+    "s13",
+    "s14",
+    "s547",
+    "s32",
+    "s263",
+    "s542",
+    "s538",
+    "s550",
+    "s28",
+    "s277",
+    "s552",
+    "s560",
+    "s2",
+    "s555",
+    "s565",
+    "s22",
+    "s276",
+    "s298",
+    "s50",
+    "s537",
+    "s17",
+    "s278",
+    "s9"
+  ],
+  "fields_complete_25": true
+}

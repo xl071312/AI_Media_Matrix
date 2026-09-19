@@ -1,0 +1,2193 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7437574854028689959",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7437574854028689959/",
+  "source_sha256": "9b4f57799c9774d4e207b3785139c393119801fa210b2aed19b03bab1be55fb8",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 250,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "供应链"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "是怎么样一步一步进化的？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 18,
+      "snippet": "朋友们，我们接下来说个大事：供应链！"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 31,
+      "snippet": "现在整个世界，其实就是一个由无数供应链组成的庞大的供应链系统。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 60,
+      "snippet": "此时此刻，就这一秒钟，全球至少有 1.5 亿人、3000 万个工厂、1 亿吨货物正在这个供应体系上运转，就这么周而复始。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 30,
+      "snippet": "我说出来你可能都不信，供应链管理，是现在最好就业的专业之一。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 29,
+      "snippet": "纵观历史上能做到龙头的公司，无一例外都是供应链管理的高手。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 27,
+      "snippet": "比如库克，在担任苹果 CEO 之前，他就是主管供应链。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 24,
+      "snippet": "还有小米，那就更不用说了，杀手锏就是供应链管理。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 25,
+      "snippet": "我相信，不少人潜意识可能觉得，供应链有什么复杂的？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 22,
+      "snippet": "不就生产完了运输，然后卖掉，不就这么点事吗？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 23,
+      "snippet": "咱们今天就来聊聊，这个供应链，它到底复杂在哪？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 13,
+      "snippet": "是怎么样一步一步进化来的？"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 23,
+      "snippet": "在现在 AI 爆发的这个时代，它又会何去何从？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "生产端管理"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 2,
+      "snippet": "福特"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 20,
+      "snippet": "现代供应链的起源可以追溯至福特汽车公司。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 45,
+      "snippet": "在 19 世纪，当时造车，是把工人分成一组一组的，每一组都得把整个车的生产流程全部跟下来。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 30,
+      "snippet": "这不光对工人的素质要求特别高，而且还会产生大量的劳动力冗余。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 50,
+      "snippet": "在 1913 年，福特做出了一个几乎能\"载入史册\"的决定，为当时它那个 T 型车，构建了一个流水线。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 39,
+      "snippet": "它把整辆车的装配分成了 84 个独立的步骤，这样每个工人就只需要负责其中一步。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 59,
+      "snippet": "这个流水线的好处，我相信大家应该也都清楚，他直接让福特当时年产量从 1 万辆飙升到了 100 万辆，翻了 100 倍。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "要不叫它\"汽车大王\"呢？"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 26,
+      "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "这产量上来后，新的问题就出现了。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 28,
+      "snippet": "虽然生产效率是大大提高了，但是上游的原材料供应跟不上了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 37,
+      "snippet": "比如钢铁、轮胎这类经常断货，就导致如此精密的一个流水线，只能等着上游的货。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 17,
+      "snippet": "福特的解决方案，也是非常简单粗暴。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "上游不是跟不上吗？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 14,
+      "snippet": "那就自己造，反正有钱有地 。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 82,
+      "snippet": "福特就把原来分散在各地的零部件厂，比如玻璃厂、轮胎厂、橡胶厂、压缸机厂等，都整合在自己的一块地上，在密歇根建立一个巨大的综合工厂，来保证这些核心零部件可以随用随"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 50,
+      "snippet": "虽然\"供应链管理\"这个词，在那时候还没出现，但福特已经自己走出了第一步，就是 流水线加上垂直整合 。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "需求管理"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 2,
+      "snippet": "丰田"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 48,
+      "snippet": "后来，福特这个标志性的生产模式，引来了世界各地的老板都来学习，它的每个工厂几乎都变成了一个景点。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 59,
+      "snippet": "而这里头，就在 1929 年的一天，一个 35 岁的日本人，在参观了底特律工厂之后，大为震撼，坚定了自己要造车的想法。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "这个人就是丰田喜一郎。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 25,
+      "snippet": "丰田本来也想直接学福特，但是他发现一个很大的问题。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 47,
+      "snippet": "福特当时这个综合工厂 3.6 平方公里，玻璃有玻璃的库存，轮胎有轮胎的库存，整车这边还有库存。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 37,
+      "snippet": "日本本来就缺自然资源，一块钢板都恨不得掰两半用，那库存放着，就是暴殄天物。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 30,
+      "snippet": "所以对丰田来说，流水线可以学，但是这个垂直整合，就不太适合。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 43,
+      "snippet": "丰田就稍微改良了一下，搞了一套叫 JIT，Just In Time，即时生产的模式 。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "这模式核心追求是什么？"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "就是零库存。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 27,
+      "snippet": "你用的时候我再去产，尽量减少库存，去提高供应链的效率。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "但这可不是件容易的事。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 76,
+      "snippet": "毕竟一个汽车那么多零部件供应商，丰田想根据需求去灵活调动生产，比如\"今天我要 50 单这个，明天要 20 单那个\"，这种又小又急的单，根本没有人愿意接。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 14,
+      "snippet": "丰田就想到了一个折中的办法。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "它把这个零部件供应商分成两类。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 71,
+      "snippet": "对于那些核心零部件的供应商，就投资入股，要求供应商专门给丰田建一条新的生产线，毕竟都是大股东了，总得优先照顾一下，等有余力，再去接些其他的单。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 38,
+      "snippet": "对于那些没有那么核心的零部件供应商，它就采取一个\"海王战术\"，多找几个备胎。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 41,
+      "snippet": "A 没空就找 B，B 没空找 C，反正总有人有空，而且他们还能相互竞争，压低价格。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 19,
+      "snippet": "丰田这套打法，其实到现在都还挺常见的。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "苹果就采取的是这个战术。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "（下文会提到）"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 44,
+      "snippet": "总之，丰田这个 JIT 的模式，不一定是最优解，但是从供应链管理的思想上，它确实是进化。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 28,
+      "snippet": "原来福特，它注重的就是快，低头玩命造车，生产得越快越好。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 23,
+      "snippet": "但丰田，它就把供应链管理的需求端也考虑进来了。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 26,
+      "snippet": "不能光低着头造，还得把头抬起来，去看看市场需要什么。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 87,
+      "snippet": "直至今日，我们分析公司供应链管理的如何，其中一个非常重要的指标，就叫做 Inventory Turnover 库存周期 ，简单而言就是：生产出来的一个东西，平均"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 11,
+      "snippet": "它其实就是在考虑需求。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "小知识点：特价菜"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 34,
+      "snippet": "说到库存，我非常清楚记得，我们大一刚上的第一门必修课，叫经济学原理。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 38,
+      "snippet": "当时第一堂课，老师一上来就问我们一个问题：你们知道为什么餐厅它要搞特价菜吗？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 18,
+      "snippet": "大家可能觉得便宜，促进销量吸引顾客。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 37,
+      "snippet": "这些也都对，但我跟你说啊，这背后其实还有一个非常深入的思考，就是库存管理。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 40,
+      "snippet": "试想一下，餐厅备菜，从开始买菜、洗菜、切菜、端上桌，其实就是一个微型的供应链了。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 41,
+      "snippet": "而这个餐厅菜单上，可能几十道上百道菜，作为餐厅就得备着很多新鲜的食材，这就是库存。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 73,
+      "snippet": "可是，假设今天推出一道特价菜，比如宫保鸡丁半价，那就需要提前知道它肯定卖得好啊，餐厅就可以准备大量的鸡、花生米、葱，其他菜品的食材就可以少备一点。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 51,
+      "snippet": "所以大家发现了么，餐厅通过特价菜这一招，就可以把需求引导到宫保鸡丁，可以帮助它更好地去管理自己的库存。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 17,
+      "snippet": "那整个餐厅供应链的效率不就上来了。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 30,
+      "snippet": "所以， 供应链管理，它的本质其实就是要打通生产端跟需求端 。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 43,
+      "snippet": "不管之后技术方式、生产模式再怎么复杂，它归根结底解决的，都是生产到需求之间流转的问题。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "进阶一:自动化"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 37,
+      "snippet": "随着技术发展，供应链也就开始升级了，这里头很主要的，第一个进阶就是自动化。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 29,
+      "snippet": "机器干活比人快，这很好理解，但你知道它的一个难点是什么吗？"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 13,
+      "snippet": "就是一旦出错了，它怎么办？"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 19,
+      "snippet": "在早期，其实没有一个非常好的纠错机制。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 52,
+      "snippet": "比如罐装饮料的流水线，一系列传送带，上面一个瓶子每隔几秒过来一个，特定位置有一个喷头，可以往里注入饮料。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 14,
+      "snippet": "但它可能出现一个什么问题呢？"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 66,
+      "snippet": "比如万一这个瓶子的时间来错，还没到指定位置，但上面的喷头不知道，还是直接往外喷饮料，那可能弄得满地狼藉，还有可能会影响到后面的瓶子。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 46,
+      "snippet": "这个错误，你现在听着可能很弱智，但问题就是，你不知道这个流水线可能会发生什么千奇百怪的错误。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 33,
+      "snippet": "所以当时那些饮料厂商，就不得不找人在那盯着，一出现问题，赶紧拉闸。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 49,
+      "snippet": "终于在 1970 年代的时候，工业界率先出现了生产线的控制系统，叫做 可编程逻辑控制器，PLC 。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 34,
+      "snippet": "这个词大家可以稍微记一下哈，在工业供应链里边，是一个非常常见的缩写。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 42,
+      "snippet": "现在几乎所有自动化的流水线工厂，包括电梯写字楼、游乐场，都遍布着各种各样的 PLC。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 19,
+      "snippet": "相当于工厂里的一个大脑，堪称 CPU。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 57,
+      "snippet": "可以提前写好程序，比如要识别空瓶，对准瓶子再注入饮料，这样无论装多少装多快都可以控制，让流水线可以完全实现自动化。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 42,
+      "snippet": "原来这些机器可能只会闷着头干，但现在可以 If 怎么怎么样，Then 怎么怎么样了。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 66,
+      "snippet": "80 年代开始，包括 IBM、沃尔玛、丰田、通用、宝洁等等，但凡涉及到流水线的公司，都因为这个 PLC 的普及，自动化效率大大提升。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 25,
+      "snippet": "能够称得上是继福特流水线之后，对供应链的一次重塑。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 28,
+      "snippet": "现在罐装饮料的产线，已经能做到每秒 10 - 20 瓶。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 28,
+      "snippet": "而这个 PLC 领域的大哥——西门子的 SIMATIC。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 33,
+      "snippet": "到现在全球大概有 1/3 的工厂，用的都是西门子的控制器，PLC。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 3,
+      "snippet": "机器人"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 20,
+      "snippet": "工业自动化进化到现在，玩法已经非常花了。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 35,
+      "snippet": "有那种工厂里巨型的机械臂，也有那种帮助运输、厂内物流的 AGV 小车。"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 70,
+      "snippet": "这么说吧，你现在要是走进一家那种数字化和自动化程度比较高的工厂，其实你在生产车间都看不到什么人的，都是那些机器和设备在那井然有序的自动运转。"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 17,
+      "snippet": "人是越来越少，但是工厂却越来越忙。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 58,
+      "snippet": "比如西门子在成都生产工业品的数字化工厂，之前被世界经济论坛评为全球首批的\"灯塔工厂\"之一，这个智能制造水平相当先进。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 62,
+      "snippet": "它有着 18 米高的无人仓库，五六层楼高，就用机械臂代替人工叉车，通过数据指令，可以把原料盒子精确到厘米放进那些仓储格子里。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "是不是还挺科幻？"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 42,
+      "snippet": "像小米、格力现在都在搞所谓的\"黑灯工厂\"，就不需要开灯，里边全都是各种机器人在忙活。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 9,
+      "snippet": "进阶二 : 信息化"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 27,
+      "snippet": "在自动化的基础之上，这个供应链的可能性一下就被打开了。"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 19,
+      "snippet": "我就给大家举个最典型的例子，就是苹果。"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 2,
+      "snippet": "苹果"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 55,
+      "snippet": "90 年代乔布斯离开的那几年，其实苹果一度陷入危机，产品线特别臃肿，卖的好的产能跟不上，卖的不好的又库存积压。"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 36,
+      "snippet": "所以在 1997 年乔布斯回来之前，苹果的亏损一度超过了 10 亿美元。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 33,
+      "snippet": "回来之后乔布斯立刻意识到了苹果当时的一个核心问题，就是供应链管理。"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 35,
+      "snippet": "于是他就挖来了供应链管理领域的一员大将，没错，就是 Tim Cook。"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 19,
+      "snippet": "库克有一句名言：库存是最根本性的邪恶。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 74,
+      "snippet": "他来苹果，第一件事就是跟乔布斯一起落地了丰田提出的 JIT 模式，削减库存产品线，减少 SKU，走轻资产的模式，能外包的这些零部件全都外包给供应商。"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 21,
+      "snippet": "他也学着丰田那套谈判模式，来跟供应商绑定。"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 16,
+      "snippet": "但是，苹果又遇到了自己新的问题。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 21,
+      "snippet": "电子产品，它的更新迭代周期比汽车要快很多。"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 34,
+      "snippet": "苹果有这么多的供应商，这个信息传递的链路就越来越长，也就越来越失真。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 42,
+      "snippet": "比如产线上有个工人发现原料短缺，他就跟主管汇报原料短缺的问题，表示可能得晚两天交付。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 46,
+      "snippet": "这主管在上报给他的老板的时候，他可能想着留出点富余时间对吧，就汇报给老板说可能得晚 5 天。"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 35,
+      "snippet": "老板可能通知下游组装厂的时候，再 留出点 富余时间 ，说得晚一个礼拜。"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 25,
+      "snippet": "轮到下游组装厂告诉苹果，他就说他们得晚 10 天。"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 28,
+      "snippet": "于是本来就两天的一个小耽误，这个信息传着传着就离了大谱。"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 33,
+      "snippet": "这种有序信息因为链路太长，在供应链里导致的各种问题，其实相当常见。"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 17,
+      "snippet": "它还有个专业名词叫做\"牛鞭效应\"。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 69,
+      "snippet": "（哎，你别想歪了）它就好像你手里拿了个鞭子，你手腕这么一抖，那个鞭子那头可能产生巨量的波动，就用这个来形容信息误差的大，是不是还挺形象的？"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 80,
+      "snippet": "为了解决这个牛鞭效应的问题，苹果就投资了一套软件系统，来统筹管理整个供应链上的信息，包含销售预测、渠道库存、包括给供应商发货的信息等等，在这里边全都可以透明化。"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 29,
+      "snippet": "这套系统，就被称作为 企业资源规划系统，简称叫 ERP 。"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 53,
+      "snippet": "试想一下，有了这套 ERP，那顾客每天早上一打开电脑，全球所有供应商当天的产量、良品率，全都可以一目了然。"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 24,
+      "snippet": "看看那鼠标，就点一点，就可以调整库存、资金回笼。"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 69,
+      "snippet": "就在这个系统的帮助下，到 1999 年的时候，苹果的库存周期从原来超过 30 天，缩短到了只有两天，有时候快的话，甚至只要 15 个小时。"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 18,
+      "snippet": "难怪库克之后能当上苹果 CEO 呢。"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 31,
+      "snippet": "就这个信息化，你现在可能听着感觉，好空的一个词，不就一堆表吗？"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 11,
+      "snippet": "听着感觉没什么特别的。"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 16,
+      "snippet": "其实，它的推进是非常非常缓慢的。"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 31,
+      "snippet": "尤其是对于一些庞大的企业，有些甚至在推进过程当中碰了一鼻子灰。"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 4,
+      "snippet": "Nike"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 18,
+      "snippet": "我给你来个非常有名的例子，就是耐克。"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 41,
+      "snippet": "90 年代的时候，耐克的销量上涨非常厉害，甩开了它的竞争对手阿迪达斯、锐步一大截。"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 36,
+      "snippet": "于是到 1999 年的时候，它就下定决心要投重金，来升级供应链管理系统。"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 53,
+      "snippet": "它就找了一个叫做 I2 的供应链管理公司，花了 4 亿美元重金打造了 ERP 系统，就类似上文的苹果系统。"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 53,
+      "snippet": "号称之后可以非常准确地预测到订单的需求，制造周期也可以从 9 个月缩短到 6 个月，反正就是吹得非常厉害。"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 31,
+      "snippet": "结果没想到，这个 ERP 系统的复杂程度，远远超过他们的预期。"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 31,
+      "snippet": "毕竟耐克的货那么多，这个需求预测出来，简直是\"驴唇不对马嘴\"。"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 84,
+      "snippet": "比如，当时它有一款鞋叫做 Air Garnett III，系统就严重高估了这个鞋的销量，导致耐克囤了一大堆，最后不得不从原来的 140 美元降价到 90 美元清"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 55,
+      "snippet": "而当时耐克另一款鞋叫 Air Jordan（大家都很熟悉了），这款鞋系统就预测销量特别低，最后导致产能跟不上。"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 48,
+      "snippet": "打个不恰当的比喻：这就好像餐馆里，宫保鸡丁一大盆都做出来了，结果大家全去点麻婆豆腐，那我怎么办？"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 9,
+      "snippet": "只能被迫特价菜了。"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 33,
+      "snippet": "总之就是本来是企业内部的一个更新，结果却导致了耐克严重的内部瘫痪。"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 29,
+      "snippet": "据估计， 损失至少有 1 亿美元，股价也暴跌了 20% 。"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 44,
+      "snippet": "最后，耐克愣是花了 7 年，整整 7 年，才把这个新的 ERP 系统又修修补补完成上线。"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 33,
+      "snippet": "举出耐克这个例子，其实就是想告诉大家，这种系统更新不是一蹴而就的。"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 37,
+      "snippet": "不过，像 ERP 这种的信息管理系统，在供应链里确实起到了至关重要的作用。"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 19,
+      "snippet": "它大大削弱了那种复杂供应链的牛鞭效应。"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 49,
+      "snippet": "它强调的不光是生产本身的快，而是信息传递的速度，怎么在生产端和需求端之间可以更快速、更通畅地沟通。"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 35,
+      "snippet": "不过最近可能又有很多人觉得这个 ERP 系统有点过时了，但那都是后话。"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 5,
+      "snippet": "电商快时尚"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 44,
+      "snippet": "说到这个信息的反馈跟流转，有一个行业，简直是把供应链的反馈速度发挥到了极致，就是快时尚。"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 25,
+      "snippet": "像苹果这种电子产品，它更新迭代再快也就一年一更新。"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 26,
+      "snippet": "但是像 ZARA、H&M 这种快时尚，它就不一样了。"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 9,
+      "snippet": "他们为什么能崛起？"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 29,
+      "snippet": "就是因为它在持续不断地飞速上新品，恨不得几天就上百个新品。"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 32,
+      "snippet": "所以对他们的供应链来说，至关重要的就是，得提前知道哪些品受欢迎。"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 12,
+      "snippet": "然后最快速地去量产跟上。"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 118,
+      "snippet": "就比如 ZARA，它在 2010 年代物联网兴起的时候，它就用了 RFID 的技术，每个品他都做好记录，这样就可以实时地追踪它从生产到库存，到流转到消费者的购买"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 19,
+      "snippet": "它就能知道哪款卖得好，然后再量产铺货。"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 36,
+      "snippet": "现如今，好像 SHEIN 这种就更夸张了，它一天就可能要上新上千个新品。"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 31,
+      "snippet": "它就在 ZARA 的基础之上，又搞出来一套叫做小单快反的模式。"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 48,
+      "snippet": "他会先在社交媒体上，通过内容去判断，分析现在流行什么趋势，然后找设计师设计巨多新款，真的是巨多。"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 29,
+      "snippet": "但是每一个新款他就找供应商，先就做那么一两百件，就是小单。"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 51,
+      "snippet": "同时它会把这些新款，全都上架到电商平台上，快速测试用户喜欢什么，达到用户反馈，然后再去量产，就是快反。"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 43,
+      "snippet": "这种极致的信息反馈，让 SHEIN 可以一天就能有上千个新款，也帮助他快速地席卷全球。"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 54,
+      "snippet": "当然，咱们现在只是从供应链效率的角度去看快时尚，它极致的快呢，肯定也会带来像环保、质量把控等等的一系列问题。"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 29,
+      "snippet": "SHEIN 现在为了上市，也在紧锣密鼓地想去解决这些问题。"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 20,
+      "snippet": "有机会我们也可以再单独聊聊 SHEIN。"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 9,
+      "snippet": "进阶三 : 数字化"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 60,
+      "snippet": "咱们刚才说了生产端跟需求端之间的各种进阶，生产力越来越突破，它的反馈速度越来越快，越来越精准，是不是就感觉已经挺厉害了。"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 44,
+      "snippet": "我跟你说，随着现在的市场环境越来越复杂，越来越不确定，这个供应链再往后进阶都有点科幻了。"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 4,
+      "snippet": "数字孪生"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 19,
+      "snippet": "我就举一个现在非常热门的行业，锂电池。"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 49,
+      "snippet": "新能源行业爆发，大家肯定都肉眼可见，从 2019 年开始已经有超过 3000 亿美元投到电池行业。"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 43,
+      "snippet": "在电动交通和储能行业的推动下，预计电池到 2030 年，每年的生产会达到百亿这个量级。"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 35,
+      "snippet": "在全球范围内，要建 200 个电池的巨型工厂，Gigafactory。"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 39,
+      "snippet": "而对于锂电池行业，它不仅仅只是数量的增加，关键是它的技术和迭代的速度还特别快。"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 50,
+      "snippet": "就比如宁德时代的神行系列，它可能一年之内就要迭代四个版本，它对产品迭代效率的要求可以说是达到了极致。"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 21,
+      "snippet": "所以现在一些电池厂商，会用一个什么办法呢？"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 47,
+      "snippet": "就是模拟仿真，把整个研发和制造的过程全都可视化出来，其实有一点那种 \"工业界元宇宙\" 的意思。"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 68,
+      "snippet": "这个数字世界呢，就相当于是现实世界的一个映射，一个双胞胎，所以它也有一个非常有意思的名字啊，叫做 数字孪生 Digital Twin 。"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 26,
+      "snippet": "这个数字孪生听着倒是挺酷炫，可它实际的用途是什么呢？"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 30,
+      "snippet": "供应链最讲究的就是实际的结果，讲效率，它才不在乎你酷不酷炫。"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 41,
+      "snippet": "我们刚刚其实也说到了，电池行业，它追求的就是一种极致的快，研发也得快，生产也得快。"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 48,
+      "snippet": "而数字孪生呢，就可以通过它的模拟仿真的可视化，同时帮助它在研发端和生产端都能做到这种极致的效率。"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 33,
+      "snippet": "他就可以提前模拟好几乎所有的可能，找到一个效率最高最安全的最优解。"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 31,
+      "snippet": "比如研发这边，要每次都把材料准备好了，再去组装好，再测试对吧？"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 12,
+      "snippet": "那可能好几个月都过去了。"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 46,
+      "snippet": "电池厂商，它就会用数字孪生的方式，把研发生产的过程在数字世界里全都 1:1 的模拟给可视化。"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 71,
+      "snippet": "因为像材料的物理，包括一些化学性质，它其实都是可以仿真出来的，就可以直观地看到不同材料配比，它这个电解质是怎么流动的，不同步骤之间是怎么优化。"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 59,
+      "snippet": "工程师就可以评估各种配方对电池的性能、老化、安全性等等方面的影响，然后再去优化迭代，这样研发测试的周期就可以大大加快。"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 51,
+      "snippet": "其实不光是锂电池，像是汽车、船这种特别复杂，性能要求又高的产品设计，现在很多都在用数字孪生的方式辅助。"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 38,
+      "snippet": "比如设计新车的时候，要给它做风阻测试、碰撞测试，都可以先在数字世界测个大概。"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 98,
+      "snippet": "前一阵子西门子就跟英伟达合作，利用生成式 AI，做了一个造船的数字孪生体，帮一个造船公司去实时模拟一个有 700 万个离散零部件的船，去做设计和实验，就这个精度"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 43,
+      "snippet": "生产端其实也类似，它就可以先在数字世界里模拟出来这个巨型工厂，甚至一整个供应链的流程。"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 122,
+      "snippet": "我前两天还听了一个 TED Talk，他就讲的是西门子怎么帮这些锂电池公司去建 Gigafactory，他们就会先在数字世界里模拟好，比如机器摆多少、摆在哪，产"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 38,
+      "snippet": "这样不光是建得效率可以更高，关键是在测试阶段就可以发现很多风险，把它规避掉。"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 37,
+      "snippet": "不然整个 Gigafactory 都建好了，然后发现一堆漏洞，你尴不尴尬。"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 3,
+      "snippet": "区块链"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 28,
+      "snippet": "除了数字孪生，我再举一个比较前沿的发展方向，就是区块链。"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 36,
+      "snippet": "你别一听区块链就往比特币上讲，区块链的技术，其实可以很好地被供应链应用。"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 40,
+      "snippet": "它又可以完整地储存信息链，又完全不能被篡改，其实是非常适合储存供应链上的信息的。"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 63,
+      "snippet": "比如食品，你要是把那包装袋背后所有的食材信息全都放在区块链上，那一旦食品安全出问题，就很容易一层一层地去溯源，找到问题的源头。"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 39,
+      "snippet": "比如雀巢、联合利华、家乐福，现在其实都在尝试用区块链的方式去追踪食品的供应链。"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 61,
+      "snippet": "刚才我们说到的数字孪生、区块链、人工智能等等的这些数字化技术，它其实构成了一个虚拟的数字世界，也就是一个所谓的工业元宇宙。"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 87,
+      "snippet": "大家发现没有，不管是机器人、区块链，还是元宇宙，这些这两年很热的词，你在 C 端可能感觉有一些炒作的嫌疑，但是在 B 端，从生产端到供应链，是真的实打实地能看到"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 29,
+      "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 5,
+      "snippet": "（怎么样？"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 10,
+      "snippet": "我这话应该放在开头）"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 4,
+      "snippet": "写在最后"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 98,
+      "snippet": "你看供应链这 100 多年，一步一步走来，从流水线加速生产，到开始考虑库存、需求，从自动化到数字化、智能化，追求的其实就是越来越极致的效率，工人工作的效率、原料"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 26,
+      "snippet": "而最近，又在效率的基础之上，越来越重视安全、可持续。"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 51,
+      "snippet": "总之，希望这篇文章能够帮助大家，对供应链这个你可能经常听说，但又感觉有点陌生的词，有一个更形象的概念。"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 11,
+      "snippet": "—— E N D ——"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 24,
+      "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题问句后「朋友们说个大事：供应链」宏观数字砸场，再反问「有什么复杂」立靶。",
+      "patterns": [
+        "大事定题",
+        "全球运转数字砸场",
+        "反问立靶"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "朋友们，我们接下来说个大事：供应链！",
+          "note": "说个大事供应链"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "此时此刻，就这一秒钟，全球至少有 1.5 亿人、3000 万个工厂、1 亿吨货物",
+          "note": "1.5亿人运转"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "我相信，不少人潜意识可能觉得，供应链有什么复杂的？",
+          "note": "有什么复杂"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "供应链是世界底层→龙头皆高手→福特流水线+垂直整合→丰田JIT→自动化机器人→苹果信息化ERP破牛鞭→数字孪生/区块链前沿→效率到安全可持续收。",
+      "patterns": [
+        "历史演进链",
+        "福特到丰田",
+        "苹果ERP",
+        "数字孪生前沿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "纵观历史上能做到龙头的公司，无一例外都是供应链管理的高手。",
+          "note": "龙头皆供应链高手"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "在 1913 年，福特做出了一个几乎能\"载入史册\"的决定，为当时它那个 T 型车",
+          "note": "福特流水线"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "丰田就稍微改良了一下，搞了一套叫 JIT，Just In Time，即时生产的模",
+          "note": "JIT模式"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "它还有个专业名词叫做\"牛鞭效应\"。",
+          "note": "牛鞭效应"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。",
+          "note": "科技先行者"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "hook_stakes",
+          "note": "大事定题与复杂性设问"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "ford_origin",
+          "note": "福特流水线与垂直整合"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119"
+          ],
+          "function": "toyota_to_robot",
+          "note": "丰田JIT切入与机器人自动化窗"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145"
+          ],
+          "function": "apple_erp",
+          "note": "苹果信息化与牛鞭效应ERP"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250"
+          ],
+          "function": "digital_close",
+          "note": "数字孪生区块链与写在最后"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「不过要我说哈」「上游不是跟不上吗」「所以对丰田来说」「于是」「大家发现没有」推进演进。",
+      "patterns": [
+        "不过要我说评价转",
+        "反问自答转",
+        "大家发现没有收束转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "不过要我说哈"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "上游不是跟不上吗？",
+          "note": "上游不是跟不上吗"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以对丰田来说，流水线可以学，但是这个垂直整合，就不太适合。",
+          "note": "所以对丰田来说"
+        },
+        {
+          "sentence_id": "s237",
+          "snippet": "大家发现没有，不管是机器人、区块链，还是元宇宙，这些这两年很热的词，你在 C 端",
+          "note": "大家发现没有"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "整组跟流程 vs 84步流水线；福特垂直整合 vs 丰田JIT库存；信息层层加码 vs ERP透明；C端炒作 vs B端落地。",
+      "patterns": [
+        "手工作业/流水线",
+        "垂直整合/JIT",
+        "牛鞭/ERP",
+        "C端炒作/B端落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "在 19 世纪，当时造车，是把工人分成一组一组的，每一组都得把整个车的生产流程全",
+          "note": "一组跟完全程"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以对丰田来说，流水线可以学，但是这个垂直整合，就不太适合。",
+          "note": "垂直整合不适合"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "它还有个专业名词叫做\"牛鞭效应\"。",
+          "note": "牛鞭效应"
+        },
+        {
+          "sentence_id": "s237",
+          "snippet": "大家发现没有，不管是机器人、区块链，还是元宇宙，这些这两年很热的词，你在 C 端",
+          "note": "C端炒作B端落地"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「复杂在哪」「何去何从」「上游不是跟不上吗」「是不是还挺科幻」「怎么样？我这话应该放开头」元提问。",
+      "patterns": [
+        "复杂性驱动问",
+        "自问自答",
+        "元评论问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "咱们今天就来聊聊，这个供应链，它到底复杂在哪？",
+          "note": "复杂在哪"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "在现在 AI 爆发的这个时代，它又会何去何从？",
+          "note": "何去何从"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "上游不是跟不上吗？",
+          "note": "上游跟不上吗"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "是不是还挺科幻？",
+          "note": "挺科幻吗"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "（怎么样？",
+          "note": "怎么样"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "福特T型车84步；丰田喜一郎参观底特律；西门子灯塔工厂；苹果挖库克；牛鞭层层延误；造船700万零件数字孪生。",
+      "patterns": [
+        "福特84步例",
+        "丰田参观例",
+        "灯塔工厂例",
+        "牛鞭延误例",
+        "造船孪生例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "它把整辆车的装配分成了 84 个独立的步骤，这样每个工人就只需要负责其中一步。",
+          "note": "84个独立步骤"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这个人就是丰田喜一郎。",
+          "note": "丰田喜一郎"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "比如西门子在成都生产工业品的数字化工厂，之前被世界经济论坛评为全球首批的\"灯塔工",
+          "note": "灯塔工厂"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "这主管在上报给他的老板的时候，他可能想着留出点富余时间对吧，就汇报给老板说可能得",
+          "note": "晚5天加码"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "前一阵子西门子就跟英伟达合作，利用生成式 AI，做了一个造船的数字孪生体，帮一个",
+          "note": "700万零部件船"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「供应链进化」落到流水线/JIT/PLC/ERP/数字孪生具体技术与工厂场景。",
+      "patterns": [
+        "进化→技术物件",
+        "牛鞭→层层汇报分钟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "虽然\"供应链管理\"这个词，在那时候还没出现，但福特已经自己走出了第一步，就是 流",
+          "note": "流水线加垂直整合"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "丰田就稍微改良了一下，搞了一套叫 JIT，Just In Time，即时生产的模",
+          "note": "JIT即时生产"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "这套系统，就被称作为 企业资源规划系统，简称叫 ERP 。",
+          "note": "ERP系统"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "（哎，你别想歪了）它就好像你手里拿了个鞭子，你手腕这么一抖，那个鞭子那头可能产生",
+          "note": "鞭子抖波动形象"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言最好就业专业之一；应叫流水线大王；库存是最根本性的邪恶；供应链是科技先行者。",
+      "patterns": [
+        "就业断语",
+        "流水线大王戏称",
+        "库存邪恶名言",
+        "先行者断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我说出来你可能都不信，供应链管理，是现在最好就业的专业之一。",
+          "note": "最好就业之一"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "流水线大王"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "库克有一句名言：库存是最根本性的邪恶。",
+          "note": "库存最根本性邪恶"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。",
+          "note": "科技先行者"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「要不叫汽车大王呢？不过要我说该叫流水线大王」；结尾元评论「这话应该放开头」自我调侃。",
+      "patterns": [
+        "称号自改",
+        "元评论应放开头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "要不叫它\"汽车大王\"呢？",
+          "note": "汽车大王"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "该叫流水线大王"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我这话应该放在开头）",
+          "note": "应该放在开头"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "宏观数字加速→历史案例中密分章→牛鞭故事加速→数字孪生高密→写在最后降速总结。",
+      "patterns": [
+        "数字加速",
+        "分章中密",
+        "总结降速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "此时此刻，就这一秒钟，全球至少有 1.5 亿人、3000 万个工厂、1 亿吨货物",
+          "note": "数字加速"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "它还有个专业名词叫做\"牛鞭效应\"。",
+          "note": "牛鞭加速"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "你看供应链这 100 多年，一步一步走来，从流水线加速生产，到开始考虑库存、需求",
+          "note": "写在最后降速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "大事兴奋→历史敬意→库存焦虑共情→科幻惊叹→先行者自豪→温和收束。",
+      "patterns": [
+        "大事兴奋",
+        "科幻惊叹",
+        "温和收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "朋友们，我们接下来说个大事：供应链！",
+          "note": "大事兴奋"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "是不是还挺科幻？",
+          "note": "挺科幻"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。",
+          "note": "先行者自豪"
+        },
+        {
+          "sentence_id": "s247",
+          "snippet": "总之，希望这篇文章能够帮助大家，对供应链这个你可能经常听说，但又感觉有点陌生的词",
+          "note": "帮助大家温和"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇「进化/复杂在哪」在「写在最后」汇总为效率极致再到安全可持续，并调侃金句本该放开头。",
+      "patterns": [
+        "进化问→效率汇总",
+        "金句应放开头元闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "是怎么样一步一步进化来的？",
+          "note": "一步一步进化"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "你看供应链这 100 多年，一步一步走来，从流水线加速生产，到开始考虑库存、需求",
+          "note": "极致效率汇总"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我这话应该放在开头）",
+          "note": "应放开头"
+        },
+        {
+          "sentence_id": "s247",
+          "snippet": "总之，希望这篇文章能够帮助大家，对供应链这个你可能经常听说，但又感觉有点陌生的词",
+          "note": "更形象的概念"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性知识CTA「希望帮助大家有更形象概念」，无强关注引导。",
+      "patterns": [
+        "软性认知CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s247",
+          "snippet": "总之，希望这篇文章能够帮助大家，对供应链这个你可能经常听说，但又感觉有点陌生的词",
+          "note": "希望帮助大家"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "—— E N D ——",
+          "note": "END标记"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「朋友们」「不过要我说哈」「哎你别想歪了」「尴不尴尬」口语与配图占位，小Lin说口播转文风。",
+      "patterns": [
+        "不过要我说哈",
+        "别想歪了",
+        "尴不尴尬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "朋友们，我们接下来说个大事：供应链！",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "不过要我说哈"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "（哎，你别想歪了）它就好像你手里拿了个鞭子，你手腕这么一抖，那个鞭子那头可能产生",
+          "note": "别想歪了"
+        },
+        {
+          "sentence_id": "s229",
+          "snippet": "不然整个 Gigafactory 都建好了，然后发现一堆漏洞，你尴不尴尬。",
+          "note": "尴不尴尬"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "包体截断致丰田JIT与信息化中段缺口；配图占位多；前沿段举例偏清单；区块链段落较短。",
+      "patterns": [
+        "窗截中段缺口",
+        "配图噪音",
+        "前沿清单化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 百年供应链，是如何一步一步进化的？",
+          "note": "配图截取"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "丰田就稍微改良了一下，搞了一套叫 JIT，Just In Time，即时生产的模",
+          "note": "JIT后跳窗"
+        },
+        {
+          "sentence_id": "s231",
+          "snippet": "除了数字孪生，我再举一个比较前沿的发展方向，就是区块链。",
+          "note": "区块链短述"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「误解简单→历史阶段拆解→问题引出下一解法」的教学思维链。",
+      "patterns": [
+        "误解到拆解",
+        "问题引出下一解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "我相信，不少人潜意识可能觉得，供应链有什么复杂的？",
+          "note": "潜意识觉得简单"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这产量上来后，新的问题就出现了。",
+          "note": "产量上来新问题"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "但是，苹果又遇到了自己新的问题。",
+          "note": "苹果又遇到新问题"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当「听说过但陌生」的外行学习者，用朋友们口吻降维讲解。",
+      "patterns": [
+        "外行学习者位",
+        "朋友们降维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "朋友们，我们接下来说个大事：供应链！",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s247",
+          "snippet": "总之，希望这篇文章能够帮助大家，对供应链这个你可能经常听说，但又感觉有点陌生的词",
+          "note": "经常听说又陌生"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1.5亿人/3000万工厂、84步、3.6平方公里、牛鞭、ERP、灯塔工厂18米仓、700万零件船。",
+      "patterns": [
+        "全球运转锚",
+        "84步锚",
+        "牛鞭锚",
+        "灯塔工厂锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "此时此刻，就这一秒钟，全球至少有 1.5 亿人、3000 万个工厂、1 亿吨货物",
+          "note": "1.5亿人"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "它把整辆车的装配分成了 84 个独立的步骤，这样每个工人就只需要负责其中一步。",
+          "note": "84步骤"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "它还有个专业名词叫做\"牛鞭效应\"。",
+          "note": "牛鞭效应"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "它有着 18 米高的无人仓库，五六层楼高，就用机械臂代替人工叉车，通过数据指令，",
+          "note": "18米无人仓库"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数字高密→历史叙事中密→牛鞭故事中密→数字孪生高密→结尾总结中低密。",
+      "patterns": [
+        "开场高密",
+        "孪生高密",
+        "结尾降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "此时此刻，就这一秒钟，全球至少有 1.5 亿人、3000 万个工厂、1 亿吨货物",
+          "note": "开场高密"
+        },
+        {
+          "sentence_id": "s225",
+          "snippet": "前一阵子西门子就跟英伟达合作，利用生成式 AI，做了一个造船的数字孪生体，帮一个",
+          "note": "孪生高密"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "你看供应链这 100 多年，一步一步走来，从流水线加速生产，到开始考虑库存、需求",
+          "note": "总结中密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短设问与长史例交替；小标题分章；括号元评论插入。",
+      "patterns": [
+        "短问长例交替",
+        "小标题分章",
+        "括号元评论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "咱们今天就来聊聊，这个供应链，它到底复杂在哪？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "福特就把原来分散在各地的零部件厂，比如玻璃厂、轮胎厂、橡胶厂、压缸机厂等，都整合",
+          "note": "长整合例"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "生产端管理",
+          "note": "生产端管理小标题"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "（哎，你别想歪了）它就好像你手里拿了个鞭子，你手腕这么一抖，那个鞭子那头可能产生",
+          "note": "括号别想歪"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科普型商业讲解员：敢戏称流水线大王，又爱用「大家发现没有」拉齐认知。",
+      "patterns": [
+        "戏称讲解员",
+        "拉齐认知"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "流水线大王"
+        },
+        {
+          "sentence_id": "s237",
+          "snippet": "大家发现没有，不管是机器人、区块链，还是元宇宙，这些这两年很热的词，你在 C 端",
+          "note": "大家发现没有"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。",
+          "note": "先行者断言"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "供应链大事、流水线大王、JIT、牛鞭效应、库存是邪恶、工业元宇宙先行者。",
+      "patterns": [
+        "流水线大王",
+        "牛鞭效应",
+        "库存邪恶",
+        "科技先行者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "不过要我说哈，它就应该叫流水线大王，或者供应链大王。",
+          "note": "流水线大王"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "它还有个专业名词叫做\"牛鞭效应\"。",
+          "note": "牛鞭效应"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "库克有一句名言：库存是最根本性的邪恶。",
+          "note": "库存邪恶"
+        },
+        {
+          "sentence_id": "s238",
+          "snippet": "所以从这个角度来说， 供应链堪称是人类科技发展的先行者 。",
+          "note": "科技先行者"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「误解立靶→阶段演进→每阶段问题引出下一解法」是高质量商业史讲解骨架，可直接改编供应链/产业口播。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "我相信，不少人潜意识可能觉得，供应链有什么复杂的？",
+          "note": "误解立靶"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这产量上来后，新的问题就出现了。",
+          "note": "问题引出下一解"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "你看供应链这 100 多年，一步一步走来，从流水线加速生产，到开始考虑库存、需求",
+          "note": "效率演进汇总"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s5",
+    "s7",
+    "s12",
+    "s9",
+    "s25",
+    "s50",
+    "s140",
+    "s238",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250"
+  ],
+  "fields_complete_25": true
+}

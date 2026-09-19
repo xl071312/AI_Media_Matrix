@@ -1,0 +1,1520 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_fIY9bid-WNQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=fIY9bid-WNQ",
+  "source_sha256": "3c32b29ae116409da6730c1a4e0892c19f6d5ad70462571630984d7654ec9e45",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 118,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "为了让大家多喝水"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "我们把茶水吧"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "爆改成了游戏厅"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "我们工作室里"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "有一个小冰箱"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "同事们每周"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "喝矿泉水166瓶"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "饮料285瓶"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 1,
+      "snippet": "这"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "饮料喝得也太多了吧"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "为了保护大家的健康"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "我开始了秘密行动"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "首先我想把所有饮料全撤了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "一劳永逸"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "但受到了大家的强烈反对"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 2,
+      "snippet": "此时"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "我又想到了第二种办法"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 3,
+      "snippet": "拉横幅"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "我连夜定制了12条横幅"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "挂在了工作室"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "每一条都是我的心声"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 11,
+      "snippet": "相信大家一定能大受鼓舞"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "一周后"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "饮料的日均消耗量"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "有了惊人的变化"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "少了整整两瓶"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "有一天"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "我刷微信运动步数的时候"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "受到了启发"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "如果给喝水也加一个排行榜"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "是不是就能让大家卷起来"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 7,
+      "snippet": "于是我们把冰箱"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 5,
+      "snippet": "改成了这套"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "喝水大作战系统"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "当你拿了一瓶水"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "当你拿了一瓶饮料"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "加减分之后"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 3,
+      "snippet": "屏幕上"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "会显示你在整个工作室的排名"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "这里的摄像头"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "可以识别人脸"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "而冰箱的每一层"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "都装了压力传感器"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "识别不同水的重量"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "有了这套系统后"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "大家拿水是更积极了"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "但是老把空瓶子"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "在工作室里到处扔"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "我们又做了这个"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "偷懒大作战"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 12,
+      "snippet": "这是一个仿照投篮机的装置"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "唯一的区别"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 10,
+      "snippet": "就是把篮球换成了空瓶"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 6,
+      "snippet": "大家喝完水后"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "可以把瓶子扔进去"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "方便统一处理"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 11,
+      "snippet": "本来应该叫投篮大作战的"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 11,
+      "snippet": "但是我们负责设计的同事"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 3,
+      "snippet": "听错了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "每投进一个空瓶"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 10,
+      "snippet": "机器就会吐出十张彩票"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 8,
+      "snippet": "大家可以根据自己"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "收到的彩票数量"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "领取不同的礼物"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 4,
+      "snippet": "十张彩票"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "就能获得一份神秘红包"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "这个小屏幕"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 13,
+      "snippet": "会显示本周机器回收的总瓶数"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "我们会定期打开机器"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 4,
+      "snippet": "卖掉空瓶"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "自从部署了这套系统"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 8,
+      "snippet": "每天都能看到大家"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "带几个空瓶子来上班"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 5,
+      "snippet": "为了进一步"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 7,
+      "snippet": "鼓励大家多喝水"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "我们还改装了"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 6,
+      "snippet": "这个抓娃娃机"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "你可以投矿泉水瓶盖进去"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 3,
+      "snippet": "抓娃娃"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "深受大家的欢迎"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 2,
+      "snippet": "当然"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "为了控制预算"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 13,
+      "snippet": "我偷偷把爪力改成了百分之零"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "但大家还是想办法"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "把东西钓了出来"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 10,
+      "snippet": "如果你想多抓几次娃娃"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 12,
+      "snippet": "还可以来到旁边这个推盖机"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 4,
+      "snippet": "这是一个"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "仿造推币机建造的机器"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "只是硬币换成了瓶盖"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "投一个瓶盖进去"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 11,
+      "snippet": "就有机会掉出更多的瓶盖"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 6,
+      "snippet": "系统会识别你"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 12,
+      "snippet": "投进的是不是矿泉水的盖子"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 11,
+      "snippet": "如果你丢了饮料瓶盖进去"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 5,
+      "snippet": "想蒙混过关"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "就会被机器迅速弹出来"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 6,
+      "snippet": "假如你把瓶盖"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 9,
+      "snippet": "弹进了这个惊喜模块"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 11,
+      "snippet": "机器会再奖励你十个瓶盖"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 6,
+      "snippet": "唯一的问题是"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 8,
+      "snippet": "在放置了推盖机后"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 10,
+      "snippet": "经常能看到同事在这里"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 5,
+      "snippet": "一坐坐一天"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 9,
+      "snippet": "部署这套系统一周后"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 7,
+      "snippet": "工作室的喝水量"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 7,
+      "snippet": "首次超过了饮料"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 13,
+      "snippet": "从166瓶上升到了577瓶"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 10,
+      "snippet": "增长了惊人的247%"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 7,
+      "snippet": "而饮料的消耗量"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 13,
+      "snippet": "从285瓶下降到了143瓶"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 6,
+      "snippet": "下降了49%"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 13,
+      "snippet": "我们为第一名水王同事准备了"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "什么奖励都没有"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 4,
+      "snippet": "毕竟健康"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 7,
+      "snippet": "就是最好的奖励"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 5,
+      "snippet": "而最后一名"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「为了让大家多喝水，茶水吧爆改游戏厅」反差目标+冰箱消耗数据惊吓开场。",
+      "patterns": [
+        "爆改反差钩子",
+        "消耗数据惊吓"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了让大家多喝水",
+          "note": "为了让大家多喝水"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "爆改成了游戏厅",
+          "note": "爆改成了游戏厅"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "喝矿泉水166瓶",
+          "note": "矿泉水166瓶"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "饮料喝得也太多了吧",
+          "note": "饮料喝得太多了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "饮料过多→硬撤失败→横幅微效→排行榜系统→空瓶乱扔→投瓶机→抓娃娃/推盖机→水量反超饮料→健康即奖励。",
+      "patterns": [
+        "手段迭代升级",
+        "副作用再补丁",
+        "数据反转收官"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "首先我想把所有饮料全撤了",
+          "note": "想全撤饮料"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "横幅少了两瓶"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "喝水大作战系统",
+          "note": "喝水大作战系统"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "偷懒大作战",
+          "note": "偷懒大作战"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "首次超过了饮料",
+          "note": "喝水首次超过饮料"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "就是最好的奖励",
+          "note": "健康就是最好奖励"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "problem_setup",
+          "note": "喝水目标与饮料过量问题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "failed_attempts",
+          "note": "硬撤与横幅两次失败/微效"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "ranking_system",
+          "note": "人脸+压力传感喝水排行"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106"
+          ],
+          "function": "arcade_loop",
+          "note": "投瓶/抓娃娃/推盖游戏化"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118"
+          ],
+          "function": "result_gag",
+          "note": "数据反转与水王无奖梗"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先」「此时又想到」「于是」「所以我们又做了」「自从」「为了进一步」迭代叙事转场。",
+      "patterns": [
+        "首先/此时迭代",
+        "所以又做补丁转",
+        "自从结果转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "首先我想把所有饮料全撤了",
+          "note": "首先我想"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我又想到了第二种办法",
+          "note": "又想到第二种"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "所以",
+          "note": "所以我们又做了"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "自从部署了这套系统",
+          "note": "自从部署了"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "矿泉水166 vs 饮料285；横幅「少两瓶」微效 vs 系统后577/143大反转；爪力0% vs 仍被钓出。",
+      "patterns": [
+        "水饮基数对照",
+        "微效/大反转",
+        "零爪力仍通关"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "喝矿泉水166瓶",
+          "note": "水166"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "饮料285瓶",
+          "note": "饮料285"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "少了整整两瓶"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "爪力百分之零"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "增长了惊人的247%",
+          "note": "增长247%"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「是不是就能让大家卷起来」假设问推动排行榜方案；其余以叙事为主少设问。",
+      "patterns": [
+        "假设卷起来问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "是不是就能让大家卷起来",
+          "note": "是不是就能让大家卷起来"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "12条横幅、人脸识别+压力传感、投篮改投瓶吐彩票、爪力0%娃娃机、推盖机弹饮料盖。",
+      "patterns": [
+        "横幅失败例",
+        "传感系统例",
+        "游戏机改造例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我连夜定制了12条横幅",
+          "note": "定制了12条横幅"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "可以识别人脸",
+          "note": "可以识别人脸"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这是一个仿照投篮机的装置",
+          "note": "仿照投篮机"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "仿造推币机建造的机器",
+          "note": "仿造推币机"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「让大家多喝水」落到加减分排名、投瓶吐票、瓶盖当币的可玩装置。",
+      "patterns": [
+        "健康目标→积分装置",
+        "回收→投瓶机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "喝水大作战系统",
+          "note": "喝水大作战系统"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "会显示你在整个工作室的排名",
+          "note": "显示工作室排名"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "机器就会吐出十张彩票",
+          "note": "吐出十张彩票"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「饮料喝得太多了吧」价值判断；宣称健康就是最好奖励；水王「什么奖励都没有」反转断语。",
+      "patterns": [
+        "喝太多判断",
+        "健康即奖励断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "饮料喝得也太多了吧",
+          "note": "饮料喝得太多了吧"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "什么奖励都没有",
+          "note": "什么奖励都没有"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "就是最好的奖励",
+          "note": "健康就是最好的奖励"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "硬撤遭反对改横幅；横幅微效改系统；空瓶乱扔再做投瓶；听错命名「偷懒大作战」；爪力0%仍被破解。",
+      "patterns": [
+        "方案遭反对改道",
+        "副作用补丁",
+        "听错命名自曝"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "但受到了大家的强烈反对",
+          "note": "强烈反对"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但是老把空瓶子",
+          "note": "空瓶子到处扔"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "本来应该叫投篮大作战的",
+          "note": "本来应该叫投篮"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "听错了",
+          "note": "听错了"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "但大家还是想办法",
+          "note": "还是想办法钓出来"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "数据惊吓短句→失败尝试喜剧节拍→装置说明中密→结果百分比加速→无奖冷幽默收。",
+      "patterns": [
+        "失败喜剧节拍",
+        "装置中密",
+        "百分比加速",
+        "冷幽默收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "少了两瓶冷梗"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这里的摄像头",
+          "note": "摄像头说明"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "增长了惊人的247%",
+          "note": "247%加速"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "什么奖励都没有",
+          "note": "什么奖励都没有"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "关切→受挫→假鼓舞→无语微效→灵感兴奋→游戏欢闹→预算狡黠→数据狂喜→冷幽默。",
+      "patterns": [
+        "关切入",
+        "微效无语",
+        "欢闹狡黠",
+        "冷幽默收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "为了保护大家的健康",
+          "note": "保护大家健康"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "少了两瓶"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "偷偷改爪力"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "什么奖励都没有",
+          "note": "什么奖励都没有"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场多喝水目标用「喝水超饮料+247%」兑现，再以「健康即奖励」回收动机；片断止于最后一名悬置。",
+      "patterns": [
+        "目标→数据兑现",
+        "健康奖励回收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了让大家多喝水",
+          "note": "多喝水开题"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "首次超过了饮料",
+          "note": "喝水超过饮料"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "就是最好的奖励",
+          "note": "健康最好奖励"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "而最后一名",
+          "note": "而最后一名悬置"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱外向CTA，以内向系统说明与结果展示为主；结尾奖励梗代替关注号召。",
+      "patterns": [
+        "结果展示代CTA",
+        "奖励梗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s106",
+          "snippet": "部署这套系统一周后",
+          "note": "部署一周后"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "我们为第一名水王同事准备了",
+          "note": "为第一名准备了"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "就是最好的奖励",
+          "note": "健康就是最好奖励"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「少了整整两瓶」冷幽默、听错命名、爪力0%、带空瓶上班等工作室现场细节。",
+      "patterns": [
+        "少两瓶冷幽默",
+        "听错命名",
+        "爪力零"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "少了整整两瓶"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "听错了",
+          "note": "听错了"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "爪力百分之零"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "带几个空瓶子来上班",
+          "note": "带几个空瓶子来上班"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "片断在「最后一名」截断；游戏化可能激励刷分非真喝水；健康效果缺生理指标。",
+      "patterns": [
+        "结尾截断",
+        "刷分动机风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "而最后一名",
+          "note": "最后一名截断"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "每天都能看到大家",
+          "note": "拿水更积极"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "一坐坐一天",
+          "note": "一坐坐一天"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "完整暴露「问题→方案1失败→方案2微效→灵感→系统→副作用→再补丁→结果」工程迭代思维。",
+      "patterns": [
+        "工程迭代外露",
+        "副作用驱动补丁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "首先我想把所有饮料全撤了",
+          "note": "首先全撤"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "受到了启发",
+          "note": "刷微信运动受启发"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但是老把空瓶子",
+          "note": "副作用空瓶"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "观众=围观工作室实验的外人；同事=被治理对象；结尾水王/最后一名制造内部观众。",
+      "patterns": [
+        "围观实验位",
+        "同事被治理位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我们工作室里",
+          "note": "我们工作室里"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "同事们每周",
+          "note": "同事们每周"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "我们为第一名水王同事准备了",
+          "note": "水王同事"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "166/285瓶、少两瓶、577/143、+247%/-49%、十二横幅、爪力0%。",
+      "patterns": [
+        "周消耗锚",
+        "反转百分比锚",
+        "爪力零锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "喝矿泉水166瓶",
+          "note": "166瓶"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "增长了惊人的247%",
+          "note": "增长247%"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "下降了49%",
+          "note": "下降了49%"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "百分之零"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数据中密→失败尝试低密喜剧→装置说明高密→结果数据高密→奖励梗降密。",
+      "patterns": [
+        "装置高密",
+        "结果高密",
+        "梗降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "这里的摄像头",
+          "note": "装置说明高密"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "从166瓶上升到了577瓶",
+          "note": "结果数据"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "什么奖励都没有",
+          "note": "梗降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短叙事句串联；装置段说明句加长；结果段数字短句打击。",
+      "patterns": [
+        "短叙事串",
+        "数字短句打击"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了让大家多喝水",
+          "note": "短叙事"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "都装了压力传感器",
+          "note": "压力传感器说明"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "增长了惊人的247%",
+          "note": "数字短句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "狡黠产品经理+冷幽默老板：偷偷改爪力、奖励是没有、听错也上线。",
+      "patterns": [
+        "狡黠产品经理",
+        "冷幽默老板"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "我开始了秘密行动",
+          "note": "秘密行动"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "偷偷把爪力"
+        },
+        {
+          "sentence_id": "s115",
+          "snippet": "什么奖励都没有",
+          "note": "什么奖励都没有"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "茶水吧改游戏厅、少了整整两瓶、喝水大作战、爪力百分之零、健康最好奖励。",
+      "patterns": [
+        "爆改游戏厅",
+        "少两瓶",
+        "爪力零"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "爆改成了游戏厅",
+          "note": "爆改成了游戏厅"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "少了整整两瓶",
+          "note": "少了整整两瓶"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我偷偷把爪力改成了百分之零",
+          "note": "爪力百分之零"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "就是最好的奖励",
+          "note": "健康最好奖励"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "健康目标游戏化「失败迭代→系统→副作用补丁→数据打脸」叙事极适合观宇产品/实验口播直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "爆改成了游戏厅",
+          "note": "爆改钩子"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "喝水大作战系统",
+          "note": "系统化"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "首次超过了饮料",
+          "note": "数据反转"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s7",
+    "s10",
+    "s13",
+    "s26",
+    "s34",
+    "s51",
+    "s108",
+    "s117",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s118"
+  ],
+  "fields_complete_25": true
+}

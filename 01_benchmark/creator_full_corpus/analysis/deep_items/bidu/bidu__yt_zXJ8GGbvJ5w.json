@@ -1,0 +1,864 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_zXJ8GGbvJ5w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=zXJ8GGbvJ5w",
+  "source_sha256": "0bf98792fde2a2f2788d421bc78f83c21252725cde5be665b41475ad8bd6e11b",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 28,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 14,
+      "snippet": "全网友上千万人看了我这个视频"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "讲蓝莓为什么是蓝色"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "说蓝莓里没有蓝色的东西"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 14,
+      "snippet": "这就是蓝莓里的色素原本的颜色"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "而这分别是白醋 水和肥皂"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "把提取液滴入三种不同的液体"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "大家猜会怎么样呢"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "接种非常Amazing啊"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "滴到醋里面就变成了粉色"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 12,
+      "snippet": "但是滴到水里面就还是紫色"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "但滴到肥皂水里就变成了蓝色"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "为什么会有颜色的变化呢"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "其实是因为蓝莓里的花青素"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "它就跟我们初中学过的紫色水世纪一样"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "它是一种酸酱指示剂"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 15,
+      "snippet": "蓝莓的变化也和紫色水很 也很像"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "在中性条件下是紫色的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "变红 变纽 变蓝"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "蓝莓当然是酸性的"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "一级点蓝莓汁"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "是H and H"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "哇 好酸"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "蓝"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "蓝莓的H在3左右"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "因此在蓝莓中花青素"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "主要是红色和紫色"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "绝不会是蓝色"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "蓝莓里确实没有蓝色的物质"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "全网上千万人看过钩子：蓝莓为何蓝，先抛色素本色再滴醋水皂猜结果。",
+      "patterns": [
+        "千万播放钩",
+        "为何蓝色",
+        "实验预告猜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "全网友上千万人看了我这个视频",
+          "note": "千万钩"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "讲蓝莓为什么是蓝色",
+          "note": "为何蓝"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "大家猜会怎么样呢",
+          "note": "猜结果"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "色素非蓝→滴醋粉/水紫/皂蓝→花青素酸碱指示剂→蓝莓酸性故内部红紫绝非蓝。",
+      "patterns": [
+        "非蓝→三液变色→指示剂→酸性结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说蓝莓里没有蓝色的东西",
+          "note": "无蓝物"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "醋粉"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但是滴到水里面就还是紫色",
+          "note": "水紫"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但滴到肥皂水里就变成了蓝色",
+          "note": "皂蓝"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "指示剂"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "绝不会是蓝色",
+          "note": "绝非蓝"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "收结论"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "function": "hook_setup",
+          "note": "播放钩与实验台"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "demo_color",
+          "note": "三液变色演示"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "anthocyanin_acid",
+          "note": "花青素与酸性结论"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "而这分别是/把提取液滴入/为什么会有/其实是因为/因此推进。",
+      "patterns": [
+        "而这分别是",
+        "为什么会有",
+        "其实因为",
+        "因此"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "而这分别是白醋 水和肥皂",
+          "note": "而这分别"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为什么会有颜色的变化呢",
+          "note": "为什么会有"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "其实是因为蓝莓里的花青素",
+          "note": "其实因为"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "因此在蓝莓中花青素",
+          "note": "因此"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "外观看蓝vs内部无蓝物质；醋/水/皂三液三色对照。",
+      "patterns": [
+        "外观vs实质",
+        "三液三色"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说蓝莓里没有蓝色的东西",
+          "note": "无蓝"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "醋"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但是滴到水里面就还是紫色",
+          "note": "水"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但滴到肥皂水里就变成了蓝色",
+          "note": "皂"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "绝不会是蓝色",
+          "note": "结论对照"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "大家猜会怎么样/为什么会有颜色变化，实验课双问驱动。",
+      "patterns": [
+        "猜结果问",
+        "为何变色问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "大家猜会怎么样呢",
+          "note": "猜"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为什么会有颜色的变化呢",
+          "note": "为何变"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "白醋水肥皂三液点滴；类比初中紫色石蕊；当场尝酸。",
+      "patterns": [
+        "三液实验",
+        "石蕊类比",
+        "尝酸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "把提取液滴入三种不同的液体",
+          "note": "三液"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它就跟我们初中学过的紫色水世纪一样",
+          "note": "石蕊类比"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "哇 好酸",
+          "note": "尝酸"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "指示剂抽象→粉紫蓝三色；酸性抽象→H约3、哇好酸。",
+      "patterns": [
+        "三色落地",
+        "pH约3",
+        "尝酸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "粉色"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "蓝莓的H在3左右",
+          "note": "H约3"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "哇 好酸",
+          "note": "好酸"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "非常Amazing、绝不会是蓝色、确实没有蓝色物质，口语笃定。",
+      "patterns": [
+        "Amazing",
+        "绝不会",
+        "确实没有"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "接种非常Amazing啊",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "绝不会是蓝色",
+          "note": "绝不会"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "确实没有"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "蓝莓变化也和紫色水很也很像的口头修补重复。",
+      "patterns": [
+        "也很像修补"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "蓝莓的变化也和紫色水很 也很像",
+          "note": "也很像修补"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "钩子中速→滴液短句三连加速→原理解释放慢→尝酸感叹→短句结论锤。",
+      "patterns": [
+        "短句三连",
+        "解释放慢",
+        "结论短锤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "短1"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "但是滴到水里面就还是紫色",
+          "note": "短2"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但滴到肥皂水里就变成了蓝色",
+          "note": "短3"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "短锤"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_exclaim",
+          "form": "哇"
+        },
+        {
+          "type": "discourse",
+          "form": "其实是因为"
+        },
+        {
+          "type": "repair_like",
+          "form": "很 也很像"
+        },
+        {
+          "type": "filler_en",
+          "form": "Amazing"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "哇 好酸",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "其实是因为蓝莓里的花青素",
+          "note": "其实是因为"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "蓝莓的变化也和紫色水很 也很像",
+          "note": "很也很像"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "接种非常Amazing啊",
+          "note": "Amazing"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "自信钩→猜谜期待→Amazing惊喜→原理冷静→尝酸逗趣→笃定收。",
+      "patterns": [
+        "自信→期待→惊喜→冷静→笃定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "全网友上千万人看了我这个视频",
+          "note": "自信"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "接种非常Amazing啊",
+          "note": "惊喜"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "哇 好酸",
+          "note": "逗趣"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "笃定"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头无蓝色东西→结尾确实没有蓝色物质，实验证明闭环。",
+      "patterns": [
+        "无蓝首尾闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说蓝莓里没有蓝色的东西",
+          "note": "开头无蓝"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "结尾证实"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注CTA；靠大家猜互动代替硬转化。",
+      "patterns": [
+        "猜谜互动",
+        "无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "大家猜会怎么样呢",
+          "note": "猜互动"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR酸酱指示剂/紫色水世纪/接种Amazing/H and H错词，口播实验毛边强。",
+      "patterns": [
+        "ASR错词",
+        "中英杂",
+        "口播毛边"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "酸酱=酸碱"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它就跟我们初中学过的紫色水世纪一样",
+          "note": "水世纪=石蕊"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "接种非常Amazing啊",
+          "note": "Amazing"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "PENDING_QA且ASR错（指示剂/石蕊）；结构表面光学未讲清为何看起来蓝；播放数据口头难核。",
+      "patterns": [
+        "ASR错",
+        "光学机制缺",
+        "数据口头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "ASR错"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "全网友上千万人看了我这个视频",
+          "note": "数据口头"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "绝不会是蓝色",
+          "note": "未解释外观蓝机制"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先演示现象再问为什么，再锚定花青素+初中知识，最后用pH推理排除蓝色。",
+      "patterns": [
+        "现象→为何→知识锚→pH推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "为什么会有颜色的变化呢",
+          "note": "为何"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "其实是因为蓝莓里的花青素",
+          "note": "锚定"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "蓝莓的H在3左右",
+          "note": "pH推理"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "绝不会是蓝色",
+          "note": "排除"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当上过初中化学的路人，用大家猜/初中学过拉课堂同盟。",
+      "patterns": [
+        "课堂同盟",
+        "大家猜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "大家猜会怎么样呢",
+          "note": "大家猜"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它就跟我们初中学过的紫色水世纪一样",
+          "note": "初中学过"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "白醋水肥皂、粉紫蓝三色、花青素、pH约3、哇好酸。",
+      "patterns": [
+        "三液",
+        "三色",
+        "花青素",
+        "pH3"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "而这分别是白醋 水和肥皂",
+          "note": "三液"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "其实是因为蓝莓里的花青素",
+          "note": "花青素"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "蓝莓的H在3左右",
+          "note": "pH3"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低密→演示中密→原理高密→尝酸低密调节→结论中密锤。",
+      "patterns": [
+        "演示中",
+        "原理高",
+        "结论锤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "演示"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "结论"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "播放钩→命题→材料陈列→猜→演示三连→为何→类比→pH→结论。",
+      "patterns": [
+        "钩命题",
+        "演示三连",
+        "类比pH结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "讲蓝莓为什么是蓝色",
+          "note": "命题"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "演示"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它就跟我们初中学过的紫色水世纪一样",
+          "note": "类比"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "结论"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科普毕导：实验现象优先，口语Amazing+尝酸，把反常识结论说死。",
+      "patterns": [
+        "现象优先",
+        "反常识说死"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "接种非常Amazing啊",
+          "note": "Amazing人设"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "哇 好酸",
+          "note": "尝酸"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "说死"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "蓝莓没有蓝色物质、醋粉水紫皂蓝、花青素指示剂、pH约3。",
+      "patterns": [
+        "无蓝物质",
+        "三色",
+        "花青素",
+        "pH3"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说蓝莓里没有蓝色的东西",
+          "note": "无蓝"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但滴到肥皂水里就变成了蓝色",
+          "note": "皂蓝"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "指示剂"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "蓝莓的H在3左右",
+          "note": "pH"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反常识钩→三液演示→指示剂原理解释→结论闭环的科普骨架可直接改编观宇实验口播。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "讲蓝莓为什么是蓝色",
+          "note": "反常识钩"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "滴到醋里面就变成了粉色",
+          "note": "演示"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "它是一种酸酱指示剂",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蓝莓里确实没有蓝色的物质",
+          "note": "闭环"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s22",
+    "s24",
+    "s25",
+    "s27",
+    "s28"
+  ],
+  "fields_complete_25": true
+}

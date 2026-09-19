@@ -1,0 +1,923 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_2Y8fCRSZwY4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=2Y8fCRSZwY4",
+  "source_sha256": "a9f27f6203060cad929acd16b23f5f3dc1719571cc70f492891f9e9821d61615",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 97,
+  "fields": {
+    "opening_move": {
+      "summary": "从资本市场财富即肌肉切入，指出公开巨富常被转成祸水，再落到papi捐赠转化PR。",
+      "patterns": [
+        "财富肌肉起",
+        "蜜糖转祸水",
+        "捐赠PR落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "财富代表你的实力",
+          "note": "财富=实力"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "很多时候会被转号为祸水",
+          "note": "转祸水"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "捐赠落地"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "展示财富有舆论风险→papi捐赠转化支持→团队广告扩面→估值因双主体易分叉不乐观→郑格/罗帕份额内幕→日食记路径对照。",
+      "patterns": [
+        "财富舆论风险",
+        "捐赠转化",
+        "广告扩面",
+        "双主体估值风险",
+        "投资内幕",
+        "赛道对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "将财富转号为了PR资源和语论支持",
+          "note": "捐赠转化"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "共接力151个广告",
+          "note": "广告量"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "估值不乐观"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "内幕"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这算是每次锤类资本化路径走的表顺",
+          "note": "路径顺"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "财富展示风险与papi捐赠转PR",
+          "note": "开篇论点"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "影响力扩张与广告数据",
+          "note": "商业化"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43"
+          ],
+          "function": "网红双口气估值分叉判断",
+          "note": "估值谨慎"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71"
+          ],
+          "function": "郑格罗帕投资份额与转股内幕",
+          "note": "资本细节"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86"
+          ],
+          "function": "16-20估值难讲但现金流支撑身价",
+          "note": "综合估值"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97"
+          ],
+          "function": "日食记等锤类资本化路径对照",
+          "note": "赛道对照"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "这点还要提到；之后；如果要算；综合以上考虑；而从资本上的动作也可以看出。",
+      "patterns": [
+        "还要提到承接",
+        "之后时间推进",
+        "如果要算推演",
+        "综合以上收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这点还要提到另外一个功力",
+          "note": "还要提到"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "之后帕皮的影响力继续发脚",
+          "note": "之后"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "如果要算一个固执的话",
+          "note": "如果要算"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "综合以上考虑",
+          "note": "综合以上"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "蜜糖对祸水；佛系人生对战斗成年人；别人估值泡沫对papi现金流；日食记顺路径对疏离资本IP。",
+      "patterns": [
+        "蜜糖祸水",
+        "佛系战斗",
+        "泡沫现金流",
+        "顺路径对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "不一定是蜜糖",
+          "note": "蜜糖"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "很多时候会被转号为祸水",
+          "note": "祸水"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "帕皮从一个佛系的人生",
+          "note": "佛系"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "被迫要成为一个战斗的成绵人",
+          "note": "战斗"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "显性问句少，多以如果要算一个估值的话、那固执肯定是搜搜的半自问推进。",
+      "patterns": [
+        "估值自问",
+        "半反诘推进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "如果要算一个固执的话",
+          "note": "估值自问"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "无论是语论引导",
+          "note": "条件枚举近问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "2200万捐母校；151条广告；郑格陆地三七投；日食记天使到A轮并购时间线。",
+      "patterns": [
+        "捐赠数额例",
+        "广告条数例",
+        "份额比例例",
+        "融资时间线例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "捐赠例"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "共接力151个广告",
+          "note": "广告例"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "总共有10%的份额",
+          "note": "份额例"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "15年A轮",
+          "note": "轮次例"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "财富肌肉落到捐赠数字；估值抽象落到单条广告200万与10%份额；路径抽象落到14-17年轮次。",
+      "patterns": [
+        "肌肉→捐赠额",
+        "估值→广告单价",
+        "路径→年份轮次"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "捐赠额"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "至200万的预论削软下",
+          "note": "单价"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "14年日级背后的官僚场文化能到天使了",
+          "note": "轮次"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "处理方式很好；并不乐观；估值肯定缩水；路径走得表顺。",
+      "patterns": [
+        "肯定很好",
+        "谨慎不乐观",
+        "缩水判断",
+        "表顺评价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "帕皮的处理方式就很好",
+          "note": "很好"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "不乐观"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "那固执肯定是搜搜的",
+          "note": "缩水"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这算是每次锤类资本化路径走的表顺",
+          "note": "表顺"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认流量仍远超同道大叔；同时强调马后炮早期决定与估值难讲，修正一边倒吹捧。",
+      "patterns": [
+        "承认优势",
+        "难讲留白",
+        "马后炮自省"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "我承认PAPY目前的升量",
+          "note": "承认"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "几位其实很难讲",
+          "note": "难讲"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "而是其马后炮早期的决定",
+          "note": "马后炮"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "理论短句起速，捐赠与广告数据加速，投资内幕叙述放慢，赛道对照再提速收束。",
+      "patterns": [
+        "理论起速",
+        "数据加速",
+        "内幕放慢",
+        "对照提速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "财富代表你的实力",
+          "note": "短起"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "共接力151个广告",
+          "note": "数据加速"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "内幕"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这算是每次锤类资本化路径走的表顺",
+          "note": "对照"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "当然"
+        },
+        {
+          "type": "discourse",
+          "form": "之后"
+        },
+        {
+          "type": "filler_hedge",
+          "form": "其实我觉得"
+        },
+        {
+          "type": "discourse",
+          "form": "综合以上考虑"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "当然在语论场上作用巨大财富",
+          "note": "当然"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "之后帕皮的影响力继续发脚",
+          "note": "之后"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "其实我觉得"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "综合以上考虑",
+          "note": "综合以上考虑"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "警示财富风险→赞赏捐赠聪明→扩张数据兴奋→估值谨慎降温→内幕八卦兴趣→赛道对照收束。",
+      "patterns": [
+        "警示",
+        "赞赏",
+        "兴奋",
+        "谨慎降温",
+        "八卦兴趣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "很多时候会被转号为祸水",
+          "note": "警示"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "帕皮的处理方式就很好",
+          "note": "赞赏"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "降温"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "八卦"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从财富展示肌肉开场，收束到锤类资本化路径与疏离资本市场的IP对照，系列未完待续感。",
+      "patterns": [
+        "财富主题回扣",
+        "路径对照收束",
+        "系列钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "会用展示财富的方式展现肌肉",
+          "note": "开场肌肉"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这算是每次锤类资本化路径走的表顺",
+          "note": "路径收"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "比如广告",
+          "note": "下钩广告"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无显式关注求赞，以系列叙事钩子暗示续集。",
+      "patterns": [
+        "弱CTA",
+        "系列续集钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s97",
+          "snippet": "比如广告",
+          "note": "续集钩"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR专名错字保留现场感；两千两百万、151广告、10%份额等硬数字；内幕口述腔。",
+      "patterns": [
+        "硬数字",
+        "内幕口述",
+        "专名口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "硬数字"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "共接力151个广告",
+          "note": "广告数"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "内幕腔"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字严重致专名难辨；估值段论证跳跃；日食记对照过短。",
+      "patterns": [
+        "ASR损坏",
+        "估值跳跃",
+        "对照过短"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "也代表你的充满",
+          "note": "错字"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "PAPYTO的护制从1.2亿能放个",
+          "note": "断裂"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "而这个赛带有右弯强不离资本市场的投资IP",
+          "note": "对照含混"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先给舆论处理分，再算估值为何不乐观，再揭投资份额内幕，展示评价→计算→内幕链。",
+      "patterns": [
+        "评价先行",
+        "再算估值",
+        "再揭内幕"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "帕皮的处理方式就很好",
+          "note": "先评"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "如果要算一个固执的话",
+          "note": "再算"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "再揭"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众当跟系列的资本观察者，用所谓的内幕、我承认拉近知情同盟。",
+      "patterns": [
+        "系列观众",
+        "知情同盟",
+        "我承认共谋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "知情"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "我承认PAPY目前的升量",
+          "note": "共谋承认"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2200万捐赠、151广告、10%份额、三七比例、2017并入、1.2亿估值起点。",
+      "patterns": [
+        "捐赠额",
+        "广告条数",
+        "份额比例",
+        "年份并购"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "2200万"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "总共有10%的份额",
+          "note": "10%"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "2017年PAPYTO并陆太阳双合",
+          "note": "2017"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "PAPYTO的护制从1.2亿能放个",
+          "note": "1.2亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场概念中密→广告数据高密→内幕叙述高密→估值综合中密→赛道对照低密收。",
+      "patterns": [
+        "概念中密",
+        "数据高密",
+        "内幕高密",
+        "对照低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "财富代表你的实力",
+          "note": "概念"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "共接力151个广告",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "按照三期比例来投",
+          "note": "内幕密"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这算是每次锤类资本化路径走的表顺",
+          "note": "低密收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短判断句与长内幕叙述交替，列举广告品类并列，时间线名词堆叠。",
+      "patterns": [
+        "短判+长述",
+        "品类并列",
+        "时间线堆叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "帕皮的处理方式就很好",
+          "note": "短判"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "生活加电运动健康都有涉及",
+          "note": "并列"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从16到20年这几年间",
+          "note": "时间线"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "我认为没有罗帕的红大策划",
+          "note": "长述入口"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷峻资本评论者：既夸捐赠聪明，又泼估值冷水，爱揭所谓内幕。",
+      "patterns": [
+        "冷峻点评",
+        "夸后泼冷水",
+        "内幕癖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "帕皮的处理方式就很好",
+          "note": "夸"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "泼冷水"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "内幕癖"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "蜜糖转祸水；2200万捐赠；151广告；网红双口气；所谓的内幕。",
+      "patterns": [
+        "蜜糖祸水",
+        "捐赠数",
+        "广告数",
+        "双口气",
+        "内幕标签"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "很多时候会被转号为祸水",
+          "note": "祸水"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "最终两千两百万捐给了母小中心",
+          "note": "捐赠"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "因为这也要提到我之前说的网空双口气",
+          "note": "双口气"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "这个就是当时投资的所谓的内幕了",
+          "note": "内幕"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "财富舆论管理+捐赠转化+双主体估值风险的框架可迁，但需清洗ASR专名并补财务表。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "将财富转号为了PR资源和语论支持",
+          "note": "捐赠转化可迁"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "网红双口气其实本人和所在公司",
+          "note": "双主体可迁"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "其实我觉得并不乐观",
+          "note": "谨慎估值可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97"
+  ],
+  "fields_complete_25": true
+}

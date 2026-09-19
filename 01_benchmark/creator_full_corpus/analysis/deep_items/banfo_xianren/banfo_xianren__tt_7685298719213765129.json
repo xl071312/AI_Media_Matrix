@@ -1,0 +1,1030 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7685298719213765129",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7685298719213765129/",
+  "source_sha256": "4cea3220a5e94b7f0c77f1fba182510be3e8603a518b50c6b6680940c397d5d2",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 47,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 55,
+      "snippet": "一个很有趣的新闻，霸王茶姬开始要尝试卖茶叶蛋了，单点5元一颗，目前搞活动配着奶茶可以半价，也就是2."
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "（新闻来自九派新闻）"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 21,
+      "snippet": "很多人网友讨论觉得这种5元茶叶蛋，太贵了。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 5,
+      "snippet": "恰恰相反。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 16,
+      "snippet": "这东西最大的问题是卖的太便宜了。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "这个东西应该定价10元。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 18,
+      "snippet": "更高也不行，更低也不行，十元刚刚好。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 17,
+      "snippet": "不需要考虑这东西的销量，这不重要。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 32,
+      "snippet": "当设计为10元定位的时候，它的用处就不是拿来卖的，而是拿来衬的。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 4,
+      "snippet": "衬什么？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "衬自家核心产品特别超值。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 3,
+      "snippet": "不信？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "就像星巴克的矿泉水，为什么卖那么贵？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 13,
+      "snippet": "目的是为了衬自家咖啡便宜。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 35,
+      "snippet": "而霸王的茶叶蛋不仅可以起到衬托自家奶茶价格的效果，还有衬托品质的效果。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "别忘了，这东西叫【茶叶】蛋。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "用的是【霸王茶姬】同款的茶叶。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 36,
+      "snippet": "这一衬，就显得自家的奶茶，用的是很好的茶叶，你看做出来的茶叶蛋都这么贵。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "你喝着还能不爽吗？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 3,
+      "snippet": "不信？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 84,
+      "snippet": "就像茶饮料市场，为什么东方树叶卖的比其他家加起来都要好，因为无论如何，东方树叶是用农夫山泉泡出来的，"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 60,
+      "snippet": "这是已经反复被消费者验证的，因为很多火锅店汤锅店最重要的操作就是当着客人的面拆开一桶农夫山泉倒进去，"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 25,
+      "snippet": "所以，这时候再看这个茶叶蛋，5块钱的定价就有问题。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "不管是为了衬价格，星巴克玩法。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "还是为了衬品质，东方树叶玩法。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "霸王茶叶蛋都应该更贵一点点。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 36,
+      "snippet": "10元就是一个不错的价格，再贵成行为艺术了，要的是有些贵，但可以衬托好。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 54,
+      "snippet": "至于走不走量，根本就无所谓，这东西存在的最大意义根本就不是卖出去几个，而是作为主力产品的质量以及价格"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 15,
+      "snippet": "是垫子，是+13生锈的武士刀。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 37,
+      "snippet": "关键是也没什么成本，就是昨天晚上卖不出去的，剩下的茶汤拿来煮茶叶蛋就好了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 17,
+      "snippet": "所以不需要走量，但很需要显得品质。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 20,
+      "snippet": "【存在】本身，就是这锅茶叶蛋最大的价值。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 20,
+      "snippet": "所以嘛，显得品质的基础，是价格上不能松。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 76,
+      "snippet": "搞活动现在可以2块5买到，那便利店和早餐铺的茶叶蛋就是这个价格，这时候你跟他们同价格，反衬出其实你的"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 13,
+      "snippet": "这对品牌形象的影响是负面。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "拉不开价格区间，反而很傻。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "定价本身，就是一种对自身定位的回答。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 36,
+      "snippet": "当你也开始卖茶叶蛋的时候，你的价格就一定不能和便利店早餐店在同一个区间。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "那会让你破功。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 54,
+      "snippet": "就像奢侈品牌要么不出日用品，一旦出了日用品，那哪怕是成本再低、看起来再简单的东西，也一定要卖一个巨高"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 17,
+      "snippet": "一个丑丑的购物袋为什么敢卖几千块？"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 14,
+      "snippet": "一个曲别针为什么敢卖几百块？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 36,
+      "snippet": "其实有钱人也不一定会花这个价去买这些东西，毕竟有钱人只是有钱，不是有病。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 39,
+      "snippet": "但它们必须得定这个价，卖不卖得出去无所谓，关键是不能和常规日用品在同一个区间。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 52,
+      "snippet": "在同一个区间就有了可比性，你的曲别针和小超市一个价，但你的包可以买普通包一百个，你的价格体系就不自洽"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 23,
+      "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "新闻引入霸王茶姬卖茶叶蛋5元/活动2.5元，先摆「网友觉得贵」再反手「其实太便宜」。",
+      "patterns": [
+        "新闻引入",
+        "网友贵",
+        "反手太便宜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个很有趣的新闻，霸王茶姬开始要尝试卖茶叶蛋了，单点5元一颗，目前搞活动配着奶茶",
+          "note": "茶叶蛋新闻"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人网友讨论觉得这种5元茶叶蛋，太贵了。",
+          "note": "网友觉得贵"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "卖太便宜"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "应定10元作衬托非走量→星巴克水衬咖啡→茶叶蛋衬奶茶价格与茶叶品质→东方树叶/农夫山泉品质锚→2.5活动价掉便利店区间破功→奢侈品日用品必须贵→定价即定位自洽。",
+      "patterns": [
+        "10元衬托",
+        "星巴克锚",
+        "品质锚",
+        "破功",
+        "奢侈品逻辑",
+        "定价自洽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "这个东西应该定价10元。",
+          "note": "定价10元"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "就像星巴克的矿泉水，为什么卖那么贵？",
+          "note": "星巴克水"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这一衬，就显得自家的奶茶，用的是很好的茶叶，你看做出来的茶叶蛋都这么贵。",
+          "note": "衬品质"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "搞活动现在可以2块5买到，那便利店和早餐铺的茶叶蛋就是这个价格，这时候你跟他们同",
+          "note": "2.5破功"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就像奢侈品牌要么不出日用品，一旦出了日用品，那哪怕是成本再低、看起来再简单的东西",
+          "note": "奢侈品"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "不自洽"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "price_thesis",
+          "note": "太便宜与10元衬托命题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "starbucks_tea",
+          "note": "星巴克与茶叶同款衬品质"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "nongfu_pad",
+          "note": "东方树叶锚与垫子隐喻"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "brand_consistency",
+          "note": "破功与奢侈品自洽收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「恰恰相反」「不信？」「所以这时候再看」「就像」在反常识与类比间切换。",
+      "patterns": [
+        "恰恰相反",
+        "不信追问",
+        "所以再看",
+        "就像类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "恰恰相反。",
+          "note": "恰恰相反"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "所以，这时候再看这个茶叶蛋，5块钱的定价就有问题。",
+          "note": "所以再看"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "就像星巴克的矿泉水，为什么卖那么贵？",
+          "note": "就像星巴克"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "网友贵vs作者太便宜；5元/2.5元vs应10元；星巴克水vs咖啡；便利店茶叶蛋vs品牌价位；奢侈品曲别针vs超市价。",
+      "patterns": [
+        "贵贱反转",
+        "价位三档",
+        "水衬咖啡",
+        "区间可比性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人网友讨论觉得这种5元茶叶蛋，太贵了。",
+          "note": "网友贵"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "太便宜"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "目的是为了衬自家咖啡便宜。",
+          "note": "衬咖啡"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "搞活动现在可以2块5买到，那便利店和早餐铺的茶叶蛋就是这个价格，这时候你跟他们同",
+          "note": "便利店同价"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "在同一个区间就有了可比性，你的曲别针和小超市一个价，但你的包可以买普通包一百个，",
+          "note": "曲别针同价"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "衬什么；不信；星巴克水为什么贵；你喝着还能不爽吗；购物袋/曲别针为什么敢卖天价。",
+      "patterns": [
+        "衬什么",
+        "不信逼视",
+        "为什么贵",
+        "天价日用品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "衬什么？",
+          "note": "衬什么"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "就像星巴克的矿泉水，为什么卖那么贵？",
+          "note": "水为什么贵"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "一个丑丑的购物袋为什么敢卖几千块？",
+          "note": "购物袋"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "星巴克矿泉水；东方树叶+农夫山泉；火锅店当面拆农夫；奢侈购物袋与曲别针。",
+      "patterns": [
+        "星巴克水",
+        "东方树叶",
+        "当面拆水",
+        "购物袋曲别针"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "就像星巴克的矿泉水，为什么卖那么贵？",
+          "note": "星巴克"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "就像茶饮料市场，为什么东方树叶卖的比其他家加起来都要好，因为无论如何，东方树叶是",
+          "note": "东方树叶"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "这是已经反复被消费者验证的，因为很多火锅店汤锅店最重要的操作就是当着客人的面拆开",
+          "note": "拆农夫"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "一个丑丑的购物袋为什么敢卖几千块？",
+          "note": "购物袋"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "衬托战略落到10元价签；品质叙事落到同款茶叶与农夫山泉；品牌自洽落到不能与便利店同区间。",
+      "patterns": [
+        "衬托→10元",
+        "品质→同款茶",
+        "自洽→价格区间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "当设计为10元定位的时候，它的用处就不是拿来卖的，而是拿来衬的。",
+          "note": "拿来衬"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "用的是【霸王茶姬】同款的茶叶。",
+          "note": "同款茶叶"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "当你也开始卖茶叶蛋的时候，你的价格就一定不能和便利店早餐店在同一个区间。",
+          "note": "不能同区间"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "恰恰相反；太便宜；十元刚刚好；存在本身就是价值；拉不开区间很傻；绝对不能不自洽。",
+      "patterns": [
+        "反转判",
+        "刚刚好",
+        "存在即价值",
+        "不自洽禁令"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "恰恰相反。",
+          "note": "恰恰相反"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "更高也不行，更低也不行，十元刚刚好。",
+          "note": "刚刚好"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "【存在】本身，就是这锅茶叶蛋最大的价值。",
+          "note": "存在价值"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "不自洽"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承接「太贵」舆论再彻底翻转；承认再贵就成行为艺术，把10元收在「有些贵但可衬」。",
+      "patterns": [
+        "舆论翻转",
+        "行为艺术边界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人网友讨论觉得这种5元茶叶蛋，太贵了。",
+          "note": "太贵舆论"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "翻转"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "10元就是一个不错的价格，再贵成行为艺术了，要的是有些贵，但可以衬托好。",
+          "note": "行为艺术"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻中句→短句反转连打→类比加长→破功加速→奢侈品排比→金句刹停。",
+      "patterns": [
+        "短反转",
+        "类比加长",
+        "排比",
+        "金句刹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "恰恰相反。",
+          "note": "短反"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "短反"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "就像茶饮料市场，为什么东方树叶卖的比其他家加起来都要好，因为无论如何，东方树叶是",
+          "note": "长类比"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "金句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "看热闹→被打脸的爽→恍然大悟→对2.5活动价的嫌弃→品牌洁癖式坚定。",
+      "patterns": [
+        "热闹",
+        "打脸爽",
+        "恍然",
+        "嫌弃",
+        "坚定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个很有趣的新闻，霸王茶姬开始要尝试卖茶叶蛋了，单点5元一颗，目前搞活动配着奶茶",
+          "note": "有趣新闻"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "打脸"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这一衬，就显得自家的奶茶，用的是很好的茶叶，你看做出来的茶叶蛋都这么贵。",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "搞活动现在可以2块5买到，那便利店和早餐铺的茶叶蛋就是这个价格，这时候你跟他们同",
+          "note": "嫌弃2.5"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "坚定"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从茶叶蛋贵贱回到品牌定价哲学：可便宜可贵，绝不能不自洽。",
+      "patterns": [
+        "回扣定价",
+        "自洽金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "定价本身，就是一种对自身定位的回答。",
+          "note": "定价即回答"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "不自洽"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注口令；以论断收束代替行动号召。",
+      "patterns": [
+        "论断收束无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "不自洽金句"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "+13生锈武士刀游戏梗；「有钱人不是有病」毒舌；曲别针卖几百的夸张。",
+      "patterns": [
+        "游戏梗",
+        "毒舌",
+        "夸张日用品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "是垫子，是+13生锈的武士刀。",
+          "note": "+13武士刀"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "其实有钱人也不一定会花这个价去买这些东西，毕竟有钱人只是有钱，不是有病。",
+          "note": "不是有病"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "一个曲别针为什么敢卖几百块？",
+          "note": "曲别针"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "10元精确值缺调研支撑；把活动半价直接等同品牌降维；奢侈品类比跨度大。",
+      "patterns": [
+        "10元缺支撑",
+        "半价=降维",
+        "类比跨度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "这个东西应该定价10元。",
+          "note": "应定10"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "搞活动现在可以2块5买到，那便利店和早餐铺的茶叶蛋就是这个价格，这时候你跟他们同",
+          "note": "2.5同便利店"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就像奢侈品牌要么不出日用品，一旦出了日用品，那哪怕是成本再低、看起来再简单的东西",
+          "note": "奢侈品"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「大众嫌贵→我嫌便宜→因为衬托逻辑」的逆向解题。",
+      "patterns": [
+        "逆向解题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人网友讨论觉得这种5元茶叶蛋，太贵了。",
+          "note": "大众贵"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "我嫌便宜"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "当设计为10元定位的时候，它的用处就不是拿来卖的，而是拿来衬的。",
+          "note": "衬的逻辑"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当能懂品牌战略的同谋；用「不信？」挑衅拉入。",
+      "patterns": [
+        "战略同谋",
+        "不信挑衅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "定价本身，就是一种对自身定位的回答。",
+          "note": "定位回答"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "5元/2.5元/10元；星巴克水；东方树叶；+13武士刀；购物袋曲别针。",
+      "patterns": [
+        "三档价",
+        "星巴克水",
+        "东方树叶",
+        "武士刀",
+        "曲别针"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个很有趣的新闻，霸王茶姬开始要尝试卖茶叶蛋了，单点5元一颗，目前搞活动配着奶茶",
+          "note": "5元2.5"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "这个东西应该定价10元。",
+          "note": "10元"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "就像茶饮料市场，为什么东方树叶卖的比其他家加起来都要好，因为无论如何，东方树叶是",
+          "note": "东方树叶"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "是垫子，是+13生锈的武士刀。",
+          "note": "武士刀"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "新闻中密→反转尖刺→双类比高峰→破功段密→哲学句降噪收束。",
+      "patterns": [
+        "新闻中",
+        "反转刺",
+        "类比峰",
+        "哲学降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "一个很有趣的新闻，霸王茶姬开始要尝试卖茶叶蛋了，单点5元一颗，目前搞活动配着奶茶",
+          "note": "新闻"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "反转"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "就像茶饮料市场，为什么东方树叶卖的比其他家加起来都要好，因为无论如何，东方树叶是",
+          "note": "类比"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "哲学"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "超短判断句连发；「不信？」独立成句；类比长句后短句钉死结论。",
+      "patterns": [
+        "超短连发",
+        "独立不信",
+        "长短钉死"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "恰恰相反。",
+          "note": "恰恰相反"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "【存在】本身，就是这锅茶叶蛋最大的价值。",
+          "note": "存在价值"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式商业毒舌：专唱反调，用衬托经济学嘲「显得便宜」的品牌自杀。",
+      "patterns": [
+        "唱反调",
+        "衬托经济学",
+        "嘲品牌自杀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "反调"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "当设计为10元定位的时候，它的用处就不是拿来卖的，而是拿来衬的。",
+          "note": "衬"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "拉不开价格区间，反而很傻。",
+          "note": "很傻"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "其实太便宜；应卖10元；星巴克矿泉水；存在本身是价值；绝不能不自洽。",
+      "patterns": [
+        "太便宜",
+        "10元",
+        "星巴克水",
+        "存在价值",
+        "不自洽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "太便宜"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "这个东西应该定价10元。",
+          "note": "10元"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "就像星巴克的矿泉水，为什么卖那么贵？",
+          "note": "星巴克"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "【存在】本身，就是这锅茶叶蛋最大的价值。",
+          "note": "存在"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "不自洽"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反常识定价→衬托战略→跨行业锚→品牌自洽金句，商业口播骨架完整可直接改编观宇品牌/消费解读。",
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这东西最大的问题是卖的太便宜了。",
+          "note": "反常识"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "当设计为10元定位的时候，它的用处就不是拿来卖的，而是拿来衬的。",
+          "note": "衬托"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "一个品牌可以便宜，也可以贵，但绝对不能不自洽。",
+          "note": "自洽"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47"
+  ],
+  "fields_complete_25": true
+}

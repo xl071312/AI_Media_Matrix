@@ -1,0 +1,1092 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_7AgJ6UrZtnY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=7AgJ6UrZtnY",
+  "source_sha256": "1122636b3952dce3c94597d1971ec620bbe8cd22eec8de0710a81c5a730e72b1",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 56,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "生活中有许多代气而的营品"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "遥晃后拆尬腿胖射"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 16,
+      "snippet": "有朋友认为这是因为遥晃让气压声高"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "所以喷射"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "真的是这样吗"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "我们来实验砍丘一下"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 13,
+      "snippet": "我们给一匹人汽水接上汽压表"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "放置到平衡照片"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "这一匹表读出0.32兆胖"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "大约是3个大气压"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "看清楚的话我们开遥"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "我们谈一下"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "毒素还是0.32兆胖基本没变"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "说明遥晃汽水"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "并不会让里面的气压增大"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "我说的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 4,
+      "snippet": "这样一样"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "也很许可"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "这次有多好"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "让一样适应"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "所以让我们谈邪"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 2,
+      "snippet": "底下"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 4,
+      "snippet": "终让美国"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "可以"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "能移动"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "有多好"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "已经有很多谈"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "我们已经很 ст忌"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "来自这次"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 2,
+      "snippet": "这个"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "这个"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 2,
+      "snippet": "这次"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 3,
+      "snippet": "是因为"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "这次"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "离开了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 2,
+      "snippet": "这次"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 3,
+      "snippet": "那这样"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 2,
+      "snippet": "其实"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "不过要看"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "你感觉便宴 那是因为你游的是"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "喝了一一 但是"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "平台还没有平衡"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "游泳 游泓 游泳 游泳"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 18,
+      "snippet": "我看我看我看我看我看我看我看我看我看"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 26,
+      "snippet": "大量形成小气泡 气泡长大 带着液体往上冲就喷射了出来"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 23,
+      "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 5,
+      "snippet": "也就是成河"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 16,
+      "snippet": "游泳会在液体中引入大量预制小气泡"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 13,
+      "snippet": "汪气水越过了最难的成河步骤"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 13,
+      "snippet": "这才是游气水会喷的真正原因"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 11,
+      "snippet": "记得给我们三连支持一下"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "希望下次你喝可乐的时候"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "还能想起这期视频"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 6,
+      "snippet": "我们下期再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "摇晃碳酸会喷的常识入题，抛出「气压升高」迷思并反问「真的是这样吗」。",
+      "patterns": [
+        "会喷常识钩",
+        "气压迷思反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "遥晃后拆尬腿胖射",
+          "note": "遥晃后喷射"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "有朋友认为这是因为遥晃让气压声高",
+          "note": "认为气压升高"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "真的是这样吗"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "气压迷思→接表实验读数不变→否定增压→（中段ASR噪声）→成核难→摇晃引入预制气泡越过成核→才是真因→三连+记忆CTA。",
+      "patterns": [
+        "实验证伪增压",
+        "成核机制真因",
+        "记忆CTA收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "真的是这样吗"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "并不会让气压增大"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡",
+          "note": "最难是形成小气泡"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真正原因"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连支持"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "function": "myth_hook",
+          "note": "会喷迷思与实验预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "pressure_test",
+          "note": "气压表实验证伪增压"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "asr_mid",
+          "note": "中段ASR噪声过渡"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "nucleation_close",
+          "note": "成核机制真因与CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「真的是这样吗」「我们来实验」「说明…」「所以」「这才是」因果链。",
+      "patterns": [
+        "真的是这样吗转实验",
+        "说明结论转",
+        "这才是真因转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "真的是这样吗"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我们来实验砍丘一下",
+          "note": "我们来实验"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "说明遥晃汽水",
+          "note": "说明遥晃"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "这才是真正原因"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "常识气压升高 vs 表读数不变；成核最难 vs 摇晃预制气泡越过难关。",
+      "patterns": [
+        "常识/实验对打",
+        "成核难/预制气泡对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "有朋友认为这是因为遥晃让气压声高",
+          "note": "气压升高常识"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "毒素还是0.32兆胖基本没变",
+          "note": "读数基本没变"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡",
+          "note": "最难成核"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "游泳会在液体中引入大量预制小气泡",
+          "note": "引入预制小气泡"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「真的是这样吗」驱动全程实验证伪。",
+      "patterns": [
+        "迷思反问驱动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "真的是这样吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "汽水接气压表静置0.32兆帕约3大气压；摇后读数不变；气泡长大带液上冲喷射。",
+      "patterns": [
+        "气压表实验",
+        "气泡上冲喷射描述"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们给一匹人汽水接上汽压表",
+          "note": "接上汽压表"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "这一匹表读出0.32兆胖",
+          "note": "0.32兆胖"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "毒素还是0.32兆胖基本没变",
+          "note": "读数没变"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "大量形成小气泡 气泡长大 带着液体往上冲就喷射了出来",
+          "note": "气泡带着液体往上冲"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「真正原因」落到成核步骤与预制小气泡；「万事开头难」类比成核。",
+      "patterns": [
+        "真因→成核步骤",
+        "开头难→成核"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡",
+          "note": "万事开头难成核"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "也就是成河",
+          "note": "也就是成河"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "游泳会在液体中引入大量预制小气泡",
+          "note": "预制小气泡"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真正原因"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言摇晃不会增大气压；断言成核才是真因。",
+      "patterns": [
+        "不增压断",
+        "成核真因断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "并不会让气压增大"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真正原因"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "以观众迷思开场再实验纠正；中段噪声后回到清晰机制句完成纠偏。",
+      "patterns": [
+        "迷思实验纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "有朋友认为这是因为遥晃让气压声高",
+          "note": "朋友认为气压"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "实验纠正"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真因落地"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问开场→实验指令中速→中段噪声拖沓→机制金句加速→三连收束。",
+      "patterns": [
+        "短问开",
+        "实验中速",
+        "机制加速",
+        "三连收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我们给一匹人汽水接上汽压表",
+          "note": "实验"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "大量形成小气泡 气泡长大 带着液体往上冲就喷射了出来",
+          "note": "机制加速"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "discourse",
+          "form": "说明"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "我看×多"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "这次/这个×多"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "所以",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "说明遥晃汽水",
+          "note": "说明遥晃"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "我看我看我看我看我看我看我看我看我看",
+          "note": "我看循环"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "这个",
+          "note": "这个复沓"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇挑衅→实验冷静→噪声迷茫→机制顿悟→嘱咐记忆温情。",
+      "patterns": [
+        "好奇挑衅",
+        "实验冷静",
+        "机制顿悟",
+        "记忆温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "挑衅问"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "毒素还是0.32兆胖基本没变",
+          "note": "读数冷静"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真因顿悟"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "还能想起这期视频",
+          "note": "想起这期"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇迷思在「这才是会喷的真正原因」闭环，并以喝可乐时想起视频回扣生活场景。",
+      "patterns": [
+        "迷思→真因闭环",
+        "喝可乐记忆回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "有朋友认为这是因为遥晃让气压声高",
+          "note": "气压迷思开"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真正原因"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "希望下次你喝可乐的时候",
+          "note": "下次喝可乐想起"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「记得三连支持」硬CTA + 「希望下次喝可乐想起」记忆软CTA + 下期再见。",
+      "patterns": [
+        "三连硬CTA",
+        "记忆软CTA",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "记得给我们三连支持一下",
+          "note": "三连支持一下"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "还能想起这期视频",
+          "note": "想起这期视频"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "我们下期再见",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "中段严重ASR复沓「游泳/我看/这次」、单位「兆胖」音误，真人口播转写特征。",
+      "patterns": [
+        "兆胖音误",
+        "我看循环",
+        "游泳错译"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这一匹表读出0.32兆胖",
+          "note": "兆胖"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "我看我看我看我看我看我看我看我看我看",
+          "note": "我看循环"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "游泳 游泓 游泳 游泳",
+          "note": "游泳错译"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段约30句ASR近乎不可读；成核术语「成河」音误；机制推导跳跃依赖观众脑补。",
+      "patterns": [
+        "中段ASR崩",
+        "术语音误",
+        "机制跳跃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "我们已经很 ст忌",
+          "note": "中段噪声"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "也就是成河",
+          "note": "成河音误"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你感觉便宴 那是因为你游的是",
+          "note": "感觉便宴残句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「流行解释→实验证伪→给出成核替代解释」标准科普证伪思维。",
+      "patterns": [
+        "证伪再给真因"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "质疑流行解释"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "实验证伪"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "给真因"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当持有错误常识的生活观察者，用「你可能错了十几年」标题位共谋纠错。",
+      "patterns": [
+        "持错常识的生活观察者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "有朋友认为这是因为遥晃让气压声高",
+          "note": "有朋友认为"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "希望下次你喝可乐的时候",
+          "note": "你喝可乐的时候"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "0.32兆帕≈3大气压、读数不变、预制小气泡、三连、喝可乐想起。",
+      "patterns": [
+        "0.32兆帕锚",
+        "读数不变锚",
+        "预制气泡锚",
+        "喝可乐想起锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这一匹表读出0.32兆胖",
+          "note": "0.32兆胖"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "毒素还是0.32兆胖基本没变",
+          "note": "基本没变"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "游泳会在液体中引入大量预制小气泡",
+          "note": "预制小气泡"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "希望下次你喝可乐的时候",
+          "note": "喝可乐想起"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密问→实验数据高密→中段近零密→机制段高密→CTA降密。",
+      "patterns": [
+        "实验高密",
+        "中段零密",
+        "机制高密",
+        "CTA降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这一匹表读出0.32兆胖",
+          "note": "实验高密"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这个",
+          "note": "零密"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡",
+          "note": "机制高密"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "记得给我们三连支持一下",
+          "note": "CTA降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问+实验短句；中段碎重复；机制段出现完整长句；CTA短句收。",
+      "patterns": [
+        "短问实验句",
+        "碎重复中段",
+        "机制长句",
+        "CTA短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "毒素还是0.32兆胖基本没变",
+          "note": "实验短句"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "大量形成小气泡 气泡长大 带着液体往上冲就喷射了出来",
+          "note": "机制长句"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "我们下期再见",
+          "note": "下期再见短"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "实验证伪型科普主播：先打迷思再给机制，收尾强调生活记忆点。",
+      "patterns": [
+        "实验证伪科普"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我们来实验砍丘一下",
+          "note": "我们来实验"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "证伪增压"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真因收束"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "真的是这样吗、气压没变、成核最难、预制小气泡、喝可乐想起。",
+      "patterns": [
+        "气压没变",
+        "成核最难",
+        "预制小气泡",
+        "喝可乐想起"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "气压不增大"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "万事开头难 这个过程中最难的步骤就是形成小气泡",
+          "note": "最难形成小气泡"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "游泳会在液体中引入大量预制小气泡",
+          "note": "预制小气泡"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "希望下次你喝可乐的时候",
+          "note": "喝可乐想起"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「迷思反问→家用实验证伪→替代机制→生活记忆CTA」是强科普模板，需重录中段并校正成核术语。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的是这样吗",
+          "note": "迷思反问"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "并不会让里面的气压增大",
+          "note": "实验证伪"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "这才是游气水会喷的真正原因",
+          "note": "真因"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "希望下次你喝可乐的时候",
+          "note": "记忆CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s5",
+    "s16",
+    "s48",
+    "s52",
+    "s53",
+    "s1",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s49",
+    "s50",
+    "s51",
+    "s54",
+    "s55",
+    "s56"
+  ],
+  "fields_complete_25": true
+}

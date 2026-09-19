@@ -1,0 +1,1521 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_h_NnHgmB530",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
+  "source_sha256": "1f0ecf2dca166de93f298c8177bf1064b2f5e8522a4215bf4a2ed8624f8c600b",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 15,
+      "snippet": "为了帮助我们的粉丝放牛<"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "我们做了这个<"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "来信者的父亲<"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "是广西山村里的一位农民<"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "我们电话一问 <"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 16,
+      "snippet": "发现他们的定位器误差很大<"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 21,
+      "snippet": "真实位置和软件上的位置可以隔一座山<"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "于是我们想 <"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 21,
+      "snippet": "能不能做一套更好用的装置帮助他们呢<"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "我们先调研了市场上的定位器<"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "AirTag<"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "虽然续航和交互很好<"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 8,
+      "snippet": "非常合适<"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 23,
+      "snippet": "LoRa 是一种远距离低功耗的通讯方式<"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 21,
+      "snippet": "虽然传输速率只有 4G 的千分之一<"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 16,
+      "snippet": "但用来传输位置信息也够了<"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 10,
+      "snippet": "上回去的时候<"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 13,
+      "snippet": "我们就在叔叔的牛棚<"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 11,
+      "snippet": "和他家的山头上<"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 19,
+      "snippet": "测试了 LoRa 的基站和网关<"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 10,
+      "snippet": "我们的定位器<"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 17,
+      "snippet": "会先把位置信息发给中继基站<"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s623",
+      "char_len": 14,
+      "snippet": "这样就可以开始找牛了<"
+    },
+    {
+      "sentence_id": "s624",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s625",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s626",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s627",
+      "char_len": 10,
+      "snippet": "测试好装置后<"
+    },
+    {
+      "sentence_id": "s628",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s629",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s630",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s631",
+      "char_len": 17,
+      "snippet": "我们跟叔叔标记了山里的位置<"
+    },
+    {
+      "sentence_id": "s632",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s633",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s634",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s635",
+      "char_len": 10,
+      "snippet": "就准备离开了<"
+    },
+    {
+      "sentence_id": "s636",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s637",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s638",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s639",
+      "char_len": 16,
+      "snippet": "非常开心能有这么一次经历<"
+    },
+    {
+      "sentence_id": "s640",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s641",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s642",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s643",
+      "char_len": 19,
+      "snippet": "如果你也有什么想让我们做的东西<"
+    },
+    {
+      "sentence_id": "s644",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s645",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s646",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s647",
+      "char_len": 13,
+      "snippet": "欢迎投稿到这个邮箱<"
+    },
+    {
+      "sentence_id": "s648",
+      "char_len": 6,
+      "snippet": "/b>"
+    },
+    {
+      "sentence_id": "s649",
+      "char_len": 4,
+      "snippet": "<"
+    },
+    {
+      "sentence_id": "s650",
+      "char_len": 5,
+      "snippet": "b>"
+    },
+    {
+      "sentence_id": "s651",
+      "char_len": 10,
+      "snippet": "我们下期再见<"
+    },
+    {
+      "sentence_id": "s652",
+      "char_len": 6,
+      "snippet": "/b>"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题式「为了帮粉丝放牛我们做了这个」使命钩子，切入广西农民定位误差。",
+      "patterns": [
+        "使命钩子",
+        "定位误差痛点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "为了帮助我们的粉丝放牛<",
+          "note": "帮粉丝放牛"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我们做了这个<",
+          "note": "我们做了这个"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "发现他们的定位器误差很大<",
+          "note": "定位器误差大"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "粉丝父定位不准→想做更好装置→调研AirTag等→选LoRa低功耗→牛棚山头测试→标记离开+征稿。",
+      "patterns": [
+        "痛点",
+        "立项",
+        "竞品调研",
+        "LoRa方案",
+        "实地测试",
+        "征稿收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "真实位置和软件上的位置可以隔一座山<",
+          "note": "隔一座山"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "能不能做一套更好用的装置帮助他们呢<",
+          "note": "更好用装置"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我们先调研了市场上的定位器<",
+          "note": "调研定位器"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "LoRa通讯"
+        },
+        {
+          "sentence_id": "s335",
+          "snippet": "测试了 LoRa 的基站和网关<",
+          "note": "测试基站"
+        },
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "欢迎投稿"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "mission_intro",
+          "note": "放牛使命与来信者父亲"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "problem_brief",
+          "note": "误差隔山→做装置"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "market_research",
+          "note": "调研AirTag续航交互"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s307",
+            "s308",
+            "s309",
+            "s310",
+            "s311",
+            "s312",
+            "s313",
+            "s314",
+            "s315",
+            "s316",
+            "s317",
+            "s318",
+            "s319",
+            "s320"
+          ],
+          "function": "lora_choice",
+          "note": "LoRa远距离低功耗够用"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s321",
+            "s322",
+            "s323",
+            "s324",
+            "s325",
+            "s326",
+            "s327",
+            "s328",
+            "s329",
+            "s330",
+            "s331",
+            "s332",
+            "s333",
+            "s334",
+            "s335",
+            "s336",
+            "s337",
+            "s338",
+            "s339",
+            "s340",
+            "s341",
+            "s342",
+            "s343",
+            "s344",
+            "s345",
+            "s346"
+          ],
+          "function": "field_test",
+          "note": "牛棚山头测试与中继"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s623",
+            "s624",
+            "s625",
+            "s626",
+            "s627",
+            "s628",
+            "s629",
+            "s630",
+            "s631",
+            "s632",
+            "s633",
+            "s634",
+            "s635",
+            "s636",
+            "s637",
+            "s638",
+            "s639",
+            "s640",
+            "s641",
+            "s642",
+            "s643",
+            "s644",
+            "s645",
+            "s646",
+            "s647",
+            "s648",
+            "s649",
+            "s650",
+            "s651",
+            "s652"
+          ],
+          "function": "wrap_cta",
+          "note": "标记离开+征稿再见"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「于是我们想」「我们先调研了」「上回去的时候」「测试好装置后」推进工程叙事。",
+      "patterns": [
+        "于是想",
+        "先调研",
+        "上回去",
+        "测试后"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "于是我们想 <",
+          "note": "于是我们想"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我们先调研了市场上的定位器<",
+          "note": "先调研"
+        },
+        {
+          "sentence_id": "s323",
+          "snippet": "上回去的时候<",
+          "note": "上回去"
+        },
+        {
+          "sentence_id": "s627",
+          "snippet": "测试好装置后<",
+          "note": "测试好后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "真实位置 vs 软件隔一座山；AirTag续航好 vs 场景不够；LoRa速率低但位置够用。",
+      "patterns": [
+        "实位/软件",
+        "AirTag利弊",
+        "速率/够用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "真实位置和软件上的位置可以隔一座山<",
+          "note": "隔一座山"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "虽然续航和交互很好<",
+          "note": "续航交互好"
+        },
+        {
+          "sentence_id": "s315",
+          "snippet": "虽然传输速率只有 4G 的千分之一<",
+          "note": "速率千分之一"
+        },
+        {
+          "sentence_id": "s319",
+          "snippet": "但用来传输位置信息也够了<",
+          "note": "位置够了"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「能不能做一套更好用的装置帮助他们呢」立项式设问。",
+      "patterns": [
+        "立项设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "能不能做一套更好用的装置帮助他们呢<",
+          "note": "能不能做装置"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "广西山村农民；AirTag；LoRa基站网关；牛棚与山头测试点。",
+      "patterns": [
+        "广西农民",
+        "AirTag",
+        "LoRa",
+        "牛棚山头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "是广西山村里的一位农民<",
+          "note": "广西农民"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "AirTag<",
+          "note": "AirTag"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "LoRa"
+        },
+        {
+          "sentence_id": "s327",
+          "snippet": "我们就在叔叔的牛棚<",
+          "note": "牛棚"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「更好用」落到LoRa传位置、中继基站、山里标记坐标再找牛。",
+      "patterns": [
+        "LoRa落地",
+        "中继落地",
+        "标记找牛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s319",
+          "snippet": "但用来传输位置信息也够了<",
+          "note": "传位置够"
+        },
+        {
+          "sentence_id": "s343",
+          "snippet": "会先把位置信息发给中继基站<",
+          "note": "发给中继"
+        },
+        {
+          "sentence_id": "s623",
+          "snippet": "这样就可以开始找牛了<",
+          "note": "开始找牛"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「非常合适」「也够了」「非常开心」温和工程判断。",
+      "patterns": [
+        "非常合适",
+        "够了",
+        "非常开心"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s307",
+          "snippet": "非常合适<",
+          "note": "非常合适"
+        },
+        {
+          "sentence_id": "s319",
+          "snippet": "但用来传输位置信息也够了<",
+          "note": "也够了"
+        },
+        {
+          "sentence_id": "s639",
+          "snippet": "非常开心能有这么一次经历<",
+          "note": "非常开心"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先贬LoRa速率只有4G千分之一，随即补「传位置信息也够了」。",
+      "patterns": [
+        "速率低→够用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s315",
+          "snippet": "虽然传输速率只有 4G 的千分之一<",
+          "note": "速率低"
+        },
+        {
+          "sentence_id": "s319",
+          "snippet": "但用来传输位置信息也够了<",
+          "note": "够了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "使命短句开→痛点中速→调研跳跃（窗口截断）→LoRa讲解稳→实地测试→温情征稿收。",
+      "patterns": [
+        "短开",
+        "中速痛点",
+        "截断跳",
+        "稳讲",
+        "温情收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们做了这个<",
+          "note": "短开"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "真实位置和软件上的位置可以隔一座山<",
+          "note": "痛点"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "稳讲"
+        },
+        {
+          "sentence_id": "s651",
+          "snippet": "我们下期再见<",
+          "note": "再见"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "使命感→发现问题焦虑→方案兴奋→实地踏实→离别开心感恩。",
+      "patterns": [
+        "使命",
+        "焦虑",
+        "兴奋",
+        "踏实",
+        "感恩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "为了帮助我们的粉丝放牛<",
+          "note": "使命"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "发现他们的定位器误差很大<",
+          "note": "误差焦虑"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "能不能做一套更好用的装置帮助他们呢<",
+          "note": "想做"
+        },
+        {
+          "sentence_id": "s639",
+          "snippet": "非常开心能有这么一次经历<",
+          "note": "开心"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场为粉丝放牛而做，收束欢迎投稿邮箱+下期再见，产品征集闭环。",
+      "patterns": [
+        "使命开",
+        "征稿收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "为了帮助我们的粉丝放牛<",
+          "note": "帮放牛"
+        },
+        {
+          "sentence_id": "s643",
+          "snippet": "如果你也有什么想让我们做的东西<",
+          "note": "想让我们做"
+        },
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "投稿邮箱"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「欢迎投稿到这个邮箱」「我们下期再见」明确征稿+订阅式CTA。",
+      "patterns": [
+        "邮箱征稿",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "投稿邮箱"
+        },
+        {
+          "sentence_id": "s651",
+          "snippet": "我们下期再见<",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "广西山村具体地理；牛棚山头测试；字幕HTML残留显出制作痕迹。",
+      "patterns": [
+        "地理具体",
+        "牛棚测试",
+        "字幕残留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "是广西山村里的一位农民<",
+          "note": "广西山村"
+        },
+        {
+          "sentence_id": "s327",
+          "snippet": "我们就在叔叔的牛棚<",
+          "note": "牛棚"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "<",
+          "note": "HTML残"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED严重跳号；大量b标签污染；中间竞品结论残缺难评完整论证。",
+      "patterns": [
+        "截断跳号",
+        "标签污染",
+        "中段残缺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "b>",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s307",
+          "snippet": "非常合适<",
+          "note": "跳号后"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "b>",
+          "note": "标签"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "暴露「误差太大→调研市面→选LoRa→实地测中继」工程决策链。",
+      "patterns": [
+        "误差驱动",
+        "技术选型链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "发现他们的定位器误差很大<",
+          "note": "误差大"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我们先调研了市场上的定位器<",
+          "note": "调研"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "选LoRa"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "粉丝共创定位：帮「来信者的父亲」做事，并邀请观众投稿下一个题目。",
+      "patterns": [
+        "粉丝共创",
+        "投稿邀请"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "来信者的父亲<",
+          "note": "来信者父亲"
+        },
+        {
+          "sentence_id": "s643",
+          "snippet": "如果你也有什么想让我们做的东西<",
+          "note": "你也有想做的"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "隔一座山误差；AirTag；LoRa速率4G千分之一；牛棚与山头基站。",
+      "patterns": [
+        "隔山",
+        "AirTag",
+        "千分之一",
+        "牛棚基站"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "真实位置和软件上的位置可以隔一座山<",
+          "note": "隔一座山"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "AirTag<",
+          "note": "AirTag"
+        },
+        {
+          "sentence_id": "s315",
+          "snippet": "虽然传输速率只有 4G 的千分之一<",
+          "note": "千分之一"
+        },
+        {
+          "sentence_id": "s335",
+          "snippet": "测试了 LoRa 的基站和网关<",
+          "note": "基站网关"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密使命→痛点中密→调研残段→LoRa技术高密→测试中密→征稿低密。",
+      "patterns": [
+        "低",
+        "中",
+        "残",
+        "高",
+        "中",
+        "低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我们做了这个<",
+          "note": "低"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "高"
+        },
+        {
+          "sentence_id": "s343",
+          "snippet": "会先把位置信息发给中继基站<",
+          "note": "中"
+        },
+        {
+          "sentence_id": "s651",
+          "snippet": "我们下期再见<",
+          "note": "低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "字幕短句切片为主；因果「虽然…但」；征稿祈使收。",
+      "patterns": [
+        "字幕短句",
+        "虽然但",
+        "祈使收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "是广西山村里的一位农民<",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s315",
+          "snippet": "虽然传输速率只有 4G 的千分之一<",
+          "note": "虽然"
+        },
+        {
+          "sentence_id": "s319",
+          "snippet": "但用来传输位置信息也够了<",
+          "note": "但够了"
+        },
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "祈使"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "极客助农者：把粉丝家事做成LoRa工程题，温和收在征稿。",
+      "patterns": [
+        "极客助农",
+        "征稿温和"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "能不能做一套更好用的装置帮助他们呢<",
+          "note": "做装置帮助"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "LoRa讲解"
+        },
+        {
+          "sentence_id": "s639",
+          "snippet": "非常开心能有这么一次经历<",
+          "note": "开心经历"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "为了帮粉丝放牛；定位隔一座山；LoRa传位置；牛棚山头测试；欢迎投稿。",
+      "patterns": [
+        "帮放牛",
+        "隔山",
+        "LoRa",
+        "牛棚测",
+        "投稿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "为了帮助我们的粉丝放牛<",
+          "note": "帮放牛"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "真实位置和软件上的位置可以隔一座山<",
+          "note": "隔山"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "LoRa"
+        },
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "投稿"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "粉丝痛点→选型→实地测试→征稿的助农工程叙事可直接用于观宇做产品视频。",
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "能不能做一套更好用的装置帮助他们呢<",
+          "note": "立项"
+        },
+        {
+          "sentence_id": "s311",
+          "snippet": "LoRa 是一种远距离低功耗的通讯方式<",
+          "note": "选型"
+        },
+        {
+          "sentence_id": "s647",
+          "snippet": "欢迎投稿到这个邮箱<",
+          "note": "征稿CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s7",
+    "s23",
+    "s27",
+    "s35",
+    "s39",
+    "s311",
+    "s335",
+    "s647",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s307",
+    "s308",
+    "s309",
+    "s310",
+    "s312",
+    "s313",
+    "s314",
+    "s315",
+    "s316",
+    "s317",
+    "s318",
+    "s319",
+    "s320",
+    "s321",
+    "s322",
+    "s323",
+    "s324",
+    "s325",
+    "s326",
+    "s327",
+    "s328",
+    "s329",
+    "s330",
+    "s331",
+    "s332",
+    "s333",
+    "s334",
+    "s336",
+    "s337",
+    "s338",
+    "s339",
+    "s340",
+    "s341",
+    "s342",
+    "s343",
+    "s344",
+    "s345",
+    "s346",
+    "s623",
+    "s624",
+    "s625",
+    "s626",
+    "s627",
+    "s628",
+    "s629",
+    "s630",
+    "s631",
+    "s632",
+    "s633",
+    "s634",
+    "s635",
+    "s636",
+    "s637",
+    "s638",
+    "s639",
+    "s640",
+    "s641",
+    "s642",
+    "s643",
+    "s644",
+    "s645",
+    "s646",
+    "s648",
+    "s649",
+    "s650",
+    "s651",
+    "s652"
+  ],
+  "fields_complete_25": true
+}

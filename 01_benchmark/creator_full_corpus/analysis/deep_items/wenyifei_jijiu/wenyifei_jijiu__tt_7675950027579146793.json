@@ -1,0 +1,1363 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7675950027579146793",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7675950027579146793/",
+  "source_sha256": "c1fe2556f02c4f7591b74873fa8fb59339ff4d4dc2f285578a905d4d8e55559f",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 90,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 14,
+      "snippet": "现在这世道，是不是有点邪门？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 41,
+      "snippet": "想学炒股理财，网上连巴菲特的底裤颜色都快给你扒出来了，股东信、持仓明细，一搜就有。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 31,
+      "snippet": "想琢磨干点啥买卖，各种成功案例拆解，恨不得掰开揉碎喂到你嘴里。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 28,
+      "snippet": "甚至想做短视频、用AI搞钱，都有一堆人开直播手把手地教。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 43,
+      "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起飞啊？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "活得轻松点，那不是分分钟的事？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "可现实呢？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "大嘴巴子抽得脸疼。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 25,
+      "snippet": "股市里照样是“七亏二平一赚”，做生意倒闭的排着队。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 25,
+      "snippet": "真正能成功转型，收入翻倍，改变命运的人，凤毛麟角。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 35,
+      "snippet": "更多的人是，视频刷了上万条，课程买了几十门，网盘存了几个T的“干货”。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 18,
+      "snippet": "几年下来，生活没变样，反而更焦虑了。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "问题到底出在哪？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 44,
+      "snippet": "因为互联网这玩意儿，它只把“看见”信息的门槛给你砸了，但没把你“使用”信息的能力提上去。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 32,
+      "snippet": "这年头，真正稀缺的早不是信息本身，而是把信息变成真金白银的能力。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 13,
+      "snippet": "这中间，至少隔着三道天堑。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 22,
+      "snippet": "信息论他爹香农说过，信息要管用，信噪比得高。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "信号，是能帮你做决策的玩意儿；"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 22,
+      "snippet": "噪音，就是听着热闹，对你行动屁用没有的废话。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 15,
+      "snippet": "比如说，你想知道房子能不能买。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 32,
+      "snippet": "真正的信号是当地人口流入、二手房挂牌量、租售比这些硬邦邦的数据。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 22,
+      "snippet": "但你一打开手机，推给你的全是“房价马上暴涨！"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "”或者“楼市彻底完蛋！"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "”这种让人上头的情绪垃圾。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 3,
+      "snippet": "为啥？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 29,
+      "snippet": "因为这种情绪激烈的口水视频，几分钟搞一个，点赞评论嗷嗷高。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 31,
+      "snippet": "而一篇有价值的行业分析，查几十份报告，核实数据，发出来没人看。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "这就叫劣币驱逐良币。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 31,
+      "snippet": "加上人都有“确认偏误”，专爱看符合自己口味的，反对的一律划走。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 36,
+      "snippet": "刷了两小时，深度内容全划过，光顾着给情绪主播捧场了，该看的数据一个没瞧。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 15,
+      "snippet": "算法就把你关进了“信息茧房”。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 18,
+      "snippet": "你以为在获取信息，实则在找心理安慰。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 34,
+      "snippet": "所以，互联网降低了获取信息的门槛，却竖起了一道更高的墙——鉴别能力。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "谁的收藏夹里没几吨“干货”啊？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "看着好文章，先收藏；"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "看见好课程，存网盘；"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "学个妙招，转发文件传输助手。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 35,
+      "snippet": "就在点下“收藏”那一瞬间，大脑会给你来点快感，好像这知识已经是你的了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 16,
+      "snippet": "心理学管这叫“认知流畅性错觉”。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 19,
+      "snippet": "都知道投资要“长期主义”，别追涨杀跌。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 13,
+      "snippet": "可市场一跌，比谁跑得都快；"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 14,
+      "snippet": "看别人赚钱，又忍不住冲进去。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "这说明啥？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 20,
+      "snippet": "你记住的只是一句话，压根没拿到那个能力。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 26,
+      "snippet": "费曼说过，知道一个东西的名字和理解一个东西是两码事。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 32,
+      "snippet": "你两秒能查出啥是复利，但真正的理解是，为什么高收益背后是高风险？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 15,
+      "snippet": "为什么连续亏损后回本难如登天？"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 49,
+      "snippet": "高手十年踩坑总结成一句话，你三分钟听完了，觉得自己全懂了，却不知道自己只拿了个压缩包，根本没解压。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 24,
+      "snippet": "互联网抹平的是信息差，不是知识差，更不是能力差。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "减肥的道理复杂吗？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 15,
+      "snippet": "不就“管住嘴、迈开腿”六个字。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "学习的道理复杂吗？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 12,
+      "snippet": "无非是专注、反馈、纠错。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 12,
+      "snippet": "可为啥做到的人寥寥无几？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 19,
+      "snippet": "因为人脑天生就为了省劲，不是为了成长。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 25,
+      "snippet": "卡尼曼说过，大脑有俩系统：系统一，快思考，不费劲；"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 12,
+      "snippet": "系统二，慢思考，累死人。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 26,
+      "snippet": "刷短视频用的是系统一，分析财报、学新东西得用系统二。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "问题是你大脑就爱系统一。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 19,
+      "snippet": "说好下班学一小时，结果刷了俩小时手机。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 34,
+      "snippet": "这不全赖你意志力，是你脑子里住了个“认知吝啬鬼”，能不思考就不思考。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 22,
+      "snippet": "更要命的是，真正有价值的事，反馈都来得贼慢。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 19,
+      "snippet": "刷视频几秒就高潮，打游戏十分钟见输赢。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 30,
+      "snippet": "但你学写作、做账号、研究投资，可能忙活好几个月，屁响动没有。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 35,
+      "snippet": "这时候“损失厌恶”就来了，亏100块钱的痛苦，远大于赚100块的快乐。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 20,
+      "snippet": "发十条视频没人看，就怀疑自己不是这块料；"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 15,
+      "snippet": "副业亏了几百，就觉得路走绝了。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 31,
+      "snippet": "大部分人不是输在不懂，是输在正反馈到来之前，自己先撒丫子跑了。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 23,
+      "snippet": "互联网能告诉你游泳的动作要领，但没法替你下水；"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 26,
+      "snippet": "能告诉你投资的纪律，但没法替你扛住账户下跌时的恐惧。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 30,
+      "snippet": "真正有价值的能力，全是在现实世界的一堆“脏数据”里练出来的。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 35,
+      "snippet": "这些“脏数据”就是教程里没有的意外，比如客户反悔、计划突变、情绪失控。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 23,
+      "snippet": "只有经过这些，你才真有了本事，而不是光有理论。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 23,
+      "snippet": "第一，别再“为了学而学”，改成“为了干而学”。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 45,
+      "snippet": "别老想着“提升认知”这种虚头巴脑的，直接问自己：“我怎么用AI，把每天2小时的破事给省了？"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 18,
+      "snippet": "”目标越具体，你自动就把噪音屏蔽了。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 13,
+      "snippet": "第二，主动清洗“信噪比”。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 26,
+      "snippet": "看到一个结论，别光找支持它的证据，专门去找反对它的。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 28,
+      "snippet": "有人说某行业要火，你别光听，自己去搜搜，有没有真实订单？"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 5,
+      "snippet": "谁在亏钱？"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "政策到底落没落地？"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 12,
+      "snippet": "这就是个笨办法，但管用。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 10,
+      "snippet": "第三，先干起来再说。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "别等完全准备好了。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 11,
+      "snippet": "想搞副业，先接个小单；"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 12,
+      "snippet": "想做短视频，先发它十条；"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 19,
+      "snippet": "想投资，拿点小钱或者开个模拟盘先记着。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 25,
+      "snippet": "现实世界给你的反馈，才是把信息变成能力的唯一通道。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 19,
+      "snippet": "互联网和AI，只能把你领到知识的门口。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 38,
+      "snippet": "至于进不进得去，能走多远，还得看你自己的鉴别力、理解力和那股子不认怂的劲头。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「世道邪门」起手：干货随处可得却难赚钱，连问按理该起飞，再用现实大嘴巴子打脸开局。",
+      "patterns": [
+        "邪门反差钩",
+        "按理起飞打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "有点邪门"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起",
+          "note": "普通人还不得起飞"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "大嘴巴子抽得脸疼"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "信息差抹平幻觉→现实惨淡→三道天堑：信噪比/收藏错觉/行动反馈慢→脏数据真本事→三招行动收束。",
+      "patterns": [
+        "幻觉打脸",
+        "三道天堑",
+        "三招行动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "因为互联网这玩意儿，它只把“看见”信息的门槛给你砸了，但没把你“使用”信息的能力",
+          "note": "只砸看见门槛"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "这中间，至少隔着三道天堑。",
+          "note": "三道天堑"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以，互联网降低了获取信息的门槛，却竖起了一道更高的墙——鉴别能力。",
+          "note": "鉴别能力墙"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "心理学管这叫“认知流畅性错觉”。",
+          "note": "认知流畅性错觉"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "大部分人不是输在不懂，是输在正反馈到来之前，自己先撒丫子跑了。",
+          "note": "正反馈前跑了"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "为了干而学"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "paradox_hook",
+          "note": "干货易得却难赚悖论"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "noise_wall",
+          "note": "信噪比与茧房第一堑"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "collect_illusion",
+          "note": "收藏错觉与知识差第二堑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74"
+          ],
+          "function": "action_feedback",
+          "note": "系统一二与反馈慢第三堑"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90"
+          ],
+          "function": "three_moves",
+          "note": "三招行动与门口收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「可现实呢」急转；「因为」归因；「比如说」例；「所以」墙总结；「第一/第二/第三」行动分条。",
+      "patterns": [
+        "可现实急转",
+        "因为归因",
+        "分条行动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "可现实呢？",
+          "note": "可现实呢"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "因为互联网这玩意儿，它只把“看见”信息的门槛给你砸了，但没把你“使用”信息的能力",
+          "note": "因为互联网"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "比如说，你想知道房子能不能买。",
+          "note": "比如说"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以，互联网降低了获取信息的门槛，却竖起了一道更高的墙——鉴别能力。",
+          "note": "所以竖起墙"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "第一"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "干货易得vs赚不到钱；信号硬数据vs情绪垃圾；收藏快感vs未解压；系统一刷视频vs系统二学财报；快反馈娱乐vs慢反馈正事。",
+      "patterns": [
+        "易得/难赚",
+        "信号/噪音",
+        "收藏/未解压",
+        "快/慢反馈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起",
+          "note": "起飞幻觉"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "真正的信号是当地人口流入、二手房挂牌量、租售比这些硬邦邦的数据。",
+          "note": "硬邦邦数据"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "”这种让人上头的情绪垃圾。",
+          "note": "情绪垃圾"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "高手十年踩坑总结成一句话，你三分钟听完了，觉得自己全懂了，却不知道自己只拿了个压",
+          "note": "只拿了压缩包"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "刷视频几秒就高潮，打游戏十分钟见输赢。",
+          "note": "刷视频高潮"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连珠反问「是不是邪门」「还不得起飞」「可现实呢」「问题出在哪」「这说明啥」「为啥做到的人寥寥」。",
+      "patterns": [
+        "连珠反问",
+        "问题出在哪总问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "邪门"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起",
+          "note": "起飞啊"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "问题到底出在哪？",
+          "note": "问题到底出在哪"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这说明啥？",
+          "note": "这说明啥"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "可为啥做到的人寥寥无几？",
+          "note": "寥寥无几"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "巴菲特底裤/股东信；炒股七亏；买房信号vs暴涨暴跌口水；减肥六字；卡尼曼双系统；发十条视频没人看。",
+      "patterns": [
+        "巴菲特例",
+        "买房信号噪音例",
+        "减肥六字",
+        "双系统例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "想学炒股理财，网上连巴菲特的底裤颜色都快给你扒出来了，股东信、持仓明细，一搜就有",
+          "note": "巴菲特底裤"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "股市里照样是“七亏二平一赚”，做生意倒闭的排着队。",
+          "note": "七亏二平一赚"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "真正的信号是当地人口流入、二手房挂牌量、租售比这些硬邦邦的数据。",
+          "note": "租售比"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "不就“管住嘴、迈开腿”六个字。",
+          "note": "管住嘴迈开腿"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "卡尼曼说过，大脑有俩系统：系统一，快思考，不费劲；",
+          "note": "系统一系统二"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「信噪比」落到人口流入/挂牌量；「认知流畅性」落到收藏快感；「脏数据」落到客户反悔情绪失控。",
+      "patterns": [
+        "信噪→买房数据",
+        "流畅→收藏",
+        "脏数据→意外"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "信息论他爹香农说过，信息要管用，信噪比得高。",
+          "note": "信噪比"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "真正的信号是当地人口流入、二手房挂牌量、租售比这些硬邦邦的数据。",
+          "note": "挂牌量"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "就在点下“收藏”那一瞬间，大脑会给你来点快感，好像这知识已经是你的了。",
+          "note": "收藏快感"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这些“脏数据”就是教程里没有的意外，比如客户反悔、计划突变、情绪失控。",
+          "note": "客户反悔"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定稀缺的是变现能力、劣币驱逐良币、互联网抹平信息差非能力差、大部分人输在正反馈前跑掉。",
+      "patterns": [
+        "稀缺能力断定",
+        "劣币判断",
+        "信息差非能力差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "这年头，真正稀缺的早不是信息本身，而是把信息变成真金白银的能力。",
+          "note": "稀缺是变现能力"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "这就叫劣币驱逐良币。",
+          "note": "劣币驱逐良币"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "互联网抹平的是信息差，不是知识差，更不是能力差。",
+          "note": "不是知识差"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "大部分人不是输在不懂，是输在正反馈到来之前，自己先撒丫子跑了。",
+          "note": "先撒丫子跑了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先铺「知识比外卖方便该起飞」，随即自打脸；承认不全赖意志力而是认知吝啬鬼。",
+      "patterns": [
+        "起飞自打脸",
+        "意志力归因修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起",
+          "note": "该起飞"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "大嘴巴子"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "这不全赖你意志力，是你脑子里住了个“认知吝啬鬼”，能不思考就不思考。",
+          "note": "不全赖你意志力"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问连珠→惨淡现实短句→天堑长论述→权威名言点睛→三招分条加速收。",
+      "patterns": [
+        "短问连珠",
+        "长论述",
+        "分条加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "因为互联网这玩意儿，它只把“看见”信息的门槛给你砸了，但没把你“使用”信息的能力",
+          "note": "长论述"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "费曼说过，知道一个东西的名字和理解一个东西是两码事。",
+          "note": "费曼点睛"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "分条"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "戏谑开场→打脸刺痛→剖析冷静→对刷学者同情讽刺→三招鼓劲收。",
+      "patterns": [
+        "戏谑",
+        "刺痛",
+        "冷静剖析",
+        "鼓劲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "邪门"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "脸疼"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "你以为在获取信息，实则在找心理安慰。",
+          "note": "心理安慰"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "现实世界给你的反馈，才是把信息变成能力的唯一通道。",
+          "note": "唯一通道"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到互联网/AI只能领到门口，进不进得去看鉴别力理解力与不认怂，闭环开场悖论。",
+      "patterns": [
+        "门口闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s89",
+          "snippet": "互联网和AI，只能把你领到知识的门口。",
+          "note": "领到知识的门口"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "至于进不进得去，能走多远，还得看你自己的鉴别力、理解力和那股子不认怂的劲头。",
+          "note": "鉴别力理解力"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "回扣邪门"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "三招硬方法论CTA：为干而学、清洗信噪比、先干起来；目标具体到AI省2小时。",
+      "patterns": [
+        "三招行动CTA",
+        "具体目标问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "为了干而学"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "别老想着“提升认知”这种虚头巴脑的，直接问自己：“我怎么用AI，把每天2小时的破",
+          "note": "AI省2小时"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "第三，先干起来再说。",
+          "note": "先干起来"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「扒底裤」「大嘴巴子」「撒丫子跑了」口语；香农/费曼/卡尼曼具名；压缩包隐喻，非空泛鸡汤。",
+      "patterns": [
+        "粗口感口语",
+        "具名权威",
+        "压缩包隐喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "想学炒股理财，网上连巴菲特的底裤颜色都快给你扒出来了，股东信、持仓明细，一搜就有",
+          "note": "底裤颜色"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "大嘴巴子"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "高手十年踩坑总结成一句话，你三分钟听完了，觉得自己全懂了，却不知道自己只拿了个压",
+          "note": "压缩包"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "大部分人不是输在不懂，是输在正反馈到来之前，自己先撒丫子跑了。",
+          "note": "撒丫子"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "三堑与三招略程式化；权威引用偏口号；缺个人成败个案数据。",
+      "patterns": [
+        "程式化",
+        "口号引用",
+        "缺个案"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "这中间，至少隔着三道天堑。",
+          "note": "三道天堑"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "信息论他爹香农说过，信息要管用，信噪比得高。",
+          "note": "香农"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式拆三天堑并各给机制名（确认偏误/认知流畅/损失厌恶），再导出三招，推理外露完整。",
+      "patterns": [
+        "三堑机制外露",
+        "导出三招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "加上人都有“确认偏误”，专爱看符合自己口味的，反对的一律划走。",
+          "note": "确认偏误"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "心理学管这叫“认知流畅性错觉”。",
+          "note": "认知流畅性"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这时候“损失厌恶”就来了，亏100块钱的痛苦，远大于赚100块的快乐。",
+          "note": "损失厌恶"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "第一"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "定位收藏夹吨位干货却焦虑的普通人「咱」，用共同惨状共谋，再给可执行三招。",
+      "patterns": [
+        "咱普通人共谋",
+        "收藏夹党"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "按理说，这知识来得比外卖还方便，把穷人和富人的信息差都给抹平了，咱普通人还不得起",
+          "note": "咱普通人"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "谁的收藏夹里没几吨“干货”啊？",
+          "note": "谁的收藏夹"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "更多的人是，视频刷了上万条，课程买了几十门，网盘存了几个T的“干货”。",
+          "note": "网盘几个T"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "巴菲特股东信；七亏二平一赚；租售比；收藏/网盘；系统一系统二；发十条视频；AI省2小时。",
+      "patterns": [
+        "股市锚",
+        "买房数据锚",
+        "双系统",
+        "发视频"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "股市里照样是“七亏二平一赚”，做生意倒闭的排着队。",
+          "note": "七亏二平一赚"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "真正的信号是当地人口流入、二手房挂牌量、租售比这些硬邦邦的数据。",
+          "note": "租售比"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "卡尼曼说过，大脑有俩系统：系统一，快思考，不费劲；",
+          "note": "系统一"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "想做短视频，先发它十条；",
+          "note": "先发十条"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场问句中密→现实短句→机制段持续高密→名言点睛→三招中高密清单→门口金句降密。",
+      "patterns": [
+        "机制高密",
+        "三招清单密",
+        "金句降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "信息论他爹香农说过，信息要管用，信噪比得高。",
+          "note": "香农高密"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "卡尼曼说过，大脑有俩系统：系统一，快思考，不费劲；",
+          "note": "卡尼曼密"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "三招密"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "互联网和AI，只能把你领到知识的门口。",
+          "note": "门口降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "悖论问→现实打脸→总因→三堑分述→脏数据→三招→门口收。",
+      "patterns": [
+        "问-打脸-三堑-三招-收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "现在这世道，是不是有点邪门？",
+          "note": "问"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "打脸"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "这中间，至少隔着三道天堑。",
+          "note": "三堑"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "三招"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "互联网和AI，只能把你领到知识的门口。",
+          "note": "收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "犀利鸡汤反鸡汤教练：嘲刷学者又给笨办法，口语狠、结构稳。",
+      "patterns": [
+        "反鸡汤教练",
+        "口语狠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "你以为在获取信息，实则在找心理安慰。",
+          "note": "找心理安慰"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "这就是个笨办法，但管用。",
+          "note": "笨办法但管用"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "至于进不进得去，能走多远，还得看你自己的鉴别力、理解力和那股子不认怂的劲头。",
+          "note": "不认怂"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「大嘴巴子抽得脸疼」；「三道天堑」；「只拿了个压缩包」；「领到知识的门口」。",
+      "patterns": [
+        "大嘴巴子",
+        "三道天堑",
+        "压缩包",
+        "门口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "大嘴巴子抽得脸疼。",
+          "note": "大嘴巴子"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "这中间，至少隔着三道天堑。",
+          "note": "三道天堑"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "高手十年踩坑总结成一句话，你三分钟听完了，觉得自己全懂了，却不知道自己只拿了个压",
+          "note": "压缩包"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "互联网和AI，只能把你领到知识的门口。",
+          "note": "门口"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「干货悖论→三天堑机制→三招行动→门口收束」完整可直接迁移认知/搞钱口播骨架。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "这中间，至少隔着三道天堑。",
+          "note": "三道天堑"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "第一，别再“为了学而学”，改成“为了干而学”。",
+          "note": "三招"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "互联网和AI，只能把你领到知识的门口。",
+          "note": "门口"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s8",
+    "s14",
+    "s16",
+    "s33",
+    "s39",
+    "s68",
+    "s74",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90"
+  ],
+  "fields_complete_25": true
+}

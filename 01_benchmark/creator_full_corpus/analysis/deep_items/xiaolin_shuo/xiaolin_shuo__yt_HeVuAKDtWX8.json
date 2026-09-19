@@ -1,0 +1,1547 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_HeVuAKDtWX8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=HeVuAKDtWX8",
+  "source_sha256": "8f7d28ae67d8ca79af172e3fe38d4ee41976d58fac01db3cf27d4444df77137e",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "朋友们"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "咱们今天来聊聊这个"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "全球的能源市场"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 5,
+      "snippet": "你看这个是"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "伊朗战争开打之前"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "原油价格的走势"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "而这个是开战之后的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "从65美元"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 13,
+      "snippet": "一路暴涨到了超过110美元"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "这个震荡的程度"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 15,
+      "snippet": "甚至超过了2022年的俄乌战争"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 13,
+      "snippet": "今年年初的那个委内瑞拉事件"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "相比之下"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "就可以说市场那是毫无波澜了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "你要知道这可是油价"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "跟什么黄金"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "甚至股票都不一样"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "它不只是个资产价格"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "而真的是"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "那背后的原因"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "我相信大家在新闻里"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "应该都看了很多了"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "就是这个"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "霍尔木兹海峡"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "伊朗直接封锁了这个海峡"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 13,
+      "snippet": "使得整个中东的那一片的石油"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "几乎全被封死了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "堵死了运不出来"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "逼得特朗普真的是"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "连出了四五招"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "好招赖招全用上了"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "来应对"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "我也不知道这段视频"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "Po出来的时候"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "这个仗打到什么程度了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 4,
+      "snippet": "打没打完"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "但我更感兴趣的"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "是这背后反映出来的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "这个脆弱的全球能源市场"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "所以咱们今天呢"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "一方面聊聊这个海峡"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "聊聊这次战争"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "然后呢我想再深入一点"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "咱们一起来看看"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "这个后俄乌战争时期"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "全球整体"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "是一个什么样的能源格局"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "未来又将会如何发展"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 3,
+      "snippet": "怎么样"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "够不够刺激"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 6,
+      "snippet": "还有加大力度"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 10,
+      "snippet": "守护霍尔木兹海峡等等"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 4,
+      "snippet": "这些措施"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 9,
+      "snippet": "甭管它有没有真实的"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 5,
+      "snippet": "控制住油价"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 12,
+      "snippet": "但美国这个意图是非常明显"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 9,
+      "snippet": "它是不太能承受得住"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 9,
+      "snippet": "油价这么居高不下的"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 7,
+      "snippet": "说到这个通胀哈"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 8,
+      "snippet": "我再跟大家聊一个"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 7,
+      "snippet": "我注意到的一个"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 8,
+      "snippet": "有点反直觉的现象"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 10,
+      "snippet": "就是这次战争开打之后"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 2,
+      "snippet": "黄金"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 7,
+      "snippet": "它开始涨了两天"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 10,
+      "snippet": "之后怎么突然就跌下来"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 6,
+      "snippet": "是不是很反常"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 5,
+      "snippet": "而美元指数"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 6,
+      "snippet": "倒是持续上涨"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 7,
+      "snippet": "这又是为什么呢"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 10,
+      "snippet": "这跟通胀有什么关系呢"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 4,
+      "snippet": "晕了吧哎"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 4,
+      "snippet": "咱来盘盘"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 9,
+      "snippet": "首先最开始打仗了嘛"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 7,
+      "snippet": "大家就都去避险"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 8,
+      "snippet": "所以那些避险资产"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 6,
+      "snippet": "黄金美债都涨"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 8,
+      "snippet": "但随着事态的发展"
+    },
+    {
+      "sentence_id": "s486",
+      "char_len": 10,
+      "snippet": "伊朗封锁霍尔木兹海峡"
+    },
+    {
+      "sentence_id": "s487",
+      "char_len": 6,
+      "snippet": "大家就发现哎"
+    },
+    {
+      "sentence_id": "s488",
+      "char_len": 12,
+      "snippet": "美国好像也拿它没什么办法"
+    },
+    {
+      "sentence_id": "s489",
+      "char_len": 11,
+      "snippet": "如果油价这么持续涨上去"
+    },
+    {
+      "sentence_id": "s490",
+      "char_len": 14,
+      "snippet": "很有可能会引发全球的通货膨胀"
+    },
+    {
+      "sentence_id": "s491",
+      "char_len": 10,
+      "snippet": "哎如果你考虑到这一层"
+    },
+    {
+      "sentence_id": "s492",
+      "char_len": 9,
+      "snippet": "资产价格会怎么变呢"
+    },
+    {
+      "sentence_id": "s493",
+      "char_len": 6,
+      "snippet": "你就会想了呀"
+    },
+    {
+      "sentence_id": "s494",
+      "char_len": 6,
+      "snippet": "通货膨胀了呀"
+    },
+    {
+      "sentence_id": "s495",
+      "char_len": 9,
+      "snippet": "美元就更不值钱了呀"
+    },
+    {
+      "sentence_id": "s496",
+      "char_len": 10,
+      "snippet": "难道不应该是黄金更涨"
+    },
+    {
+      "sentence_id": "s497",
+      "char_len": 9,
+      "snippet": "美元指数下跌吗对吧"
+    },
+    {
+      "sentence_id": "s925",
+      "char_len": 10,
+      "snippet": "除此之外就是新能源了"
+    },
+    {
+      "sentence_id": "s926",
+      "char_len": 12,
+      "snippet": "这个大趋势肯定是不会变的"
+    },
+    {
+      "sentence_id": "s927",
+      "char_len": 11,
+      "snippet": "它未来肯定会越来越重要"
+    },
+    {
+      "sentence_id": "s928",
+      "char_len": 13,
+      "snippet": "但不是说可再生就没有竞争了"
+    },
+    {
+      "sentence_id": "s929",
+      "char_len": 6,
+      "snippet": "围绕着新能源"
+    },
+    {
+      "sentence_id": "s930",
+      "char_len": 5,
+      "snippet": "主要的争夺"
+    },
+    {
+      "sentence_id": "s931",
+      "char_len": 11,
+      "snippet": "并不是在什么发电板电池"
+    },
+    {
+      "sentence_id": "s932",
+      "char_len": 12,
+      "snippet": "而是矿石的开采冶炼和加工"
+    },
+    {
+      "sentence_id": "s933",
+      "char_len": 10,
+      "snippet": "什么铜锂镍钴稀土等等"
+    },
+    {
+      "sentence_id": "s934",
+      "char_len": 4,
+      "snippet": "有原产地"
+    },
+    {
+      "sentence_id": "s935",
+      "char_len": 7,
+      "snippet": "钴主要是刚果金"
+    },
+    {
+      "sentence_id": "s936",
+      "char_len": 10,
+      "snippet": "锂呢是澳大利亚和南美"
+    },
+    {
+      "sentence_id": "s937",
+      "char_len": 4,
+      "snippet": "镍是印尼"
+    },
+    {
+      "sentence_id": "s938",
+      "char_len": 8,
+      "snippet": "铜是智利秘鲁等等"
+    },
+    {
+      "sentence_id": "s939",
+      "char_len": 10,
+      "snippet": "这块我就先一笔带过了"
+    },
+    {
+      "sentence_id": "s940",
+      "char_len": 11,
+      "snippet": "这也是一个巨大的话题啊"
+    },
+    {
+      "sentence_id": "s941",
+      "char_len": 6,
+      "snippet": "什么矿石资源"
+    },
+    {
+      "sentence_id": "s942",
+      "char_len": 10,
+      "snippet": "之后我们有机会再单开"
+    },
+    {
+      "sentence_id": "s943",
+      "char_len": 6,
+      "snippet": "你看咱们今天"
+    },
+    {
+      "sentence_id": "s944",
+      "char_len": 9,
+      "snippet": "从霍尔木兹海峡展开"
+    },
+    {
+      "sentence_id": "s945",
+      "char_len": 9,
+      "snippet": "聊了全球能源的格局"
+    },
+    {
+      "sentence_id": "s946",
+      "char_len": 12,
+      "snippet": "和未来一个大致发展的路径"
+    },
+    {
+      "sentence_id": "s947",
+      "char_len": 13,
+      "snippet": "倒不是说我有什么惊天发现哈"
+    },
+    {
+      "sentence_id": "s948",
+      "char_len": 11,
+      "snippet": "反正就是帮大家整理一下"
+    },
+    {
+      "sentence_id": "s949",
+      "char_len": 7,
+      "snippet": "这个框架和概念"
+    },
+    {
+      "sentence_id": "s950",
+      "char_len": 10,
+      "snippet": "不知道你感觉怎么样啊"
+    },
+    {
+      "sentence_id": "s951",
+      "char_len": 9,
+      "snippet": "反正我当时查的时候"
+    },
+    {
+      "sentence_id": "s952",
+      "char_len": 7,
+      "snippet": "感觉还挺有帮助"
+    },
+    {
+      "sentence_id": "s953",
+      "char_len": 7,
+      "snippet": "那今天先这样了"
+    },
+    {
+      "sentence_id": "s954",
+      "char_len": 4,
+      "snippet": "Bye～"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "朋友们招呼后用战前战后油价图对比：65飙到110，称震荡超俄乌。",
+      "patterns": [
+        "朋友们招呼",
+        "战前战后图对比",
+        "超俄乌震幅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友们",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "从65美元",
+          "note": "65美元"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "一路暴涨到了超过110美元",
+          "note": "超110"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "甚至超过了2022年的俄乌战争",
+          "note": "超俄乌"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "霍尔木兹封锁致油价暴涨→美国连出招因扛不住高油价→黄金先涨后跌/美元涨的通胀链推理→新能源竞争在矿产冶炼。",
+      "patterns": [
+        "封锁致涨价",
+        "美国油价痛点",
+        "金银美元反直觉",
+        "矿产争夺收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "伊朗直接封锁了这个海峡",
+          "note": "封锁海峡"
+        },
+        {
+          "sentence_id": "s464",
+          "snippet": "它是不太能承受得住",
+          "note": "扛不住油价"
+        },
+        {
+          "sentence_id": "s473",
+          "snippet": "之后怎么突然就跌下来",
+          "note": "黄金突跌"
+        },
+        {
+          "sentence_id": "s932",
+          "snippet": "而是矿石的开采冶炼和加工",
+          "note": "矿石争夺"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "oil_spike_hook",
+          "note": "油价65→110钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "hormuz_roadmap",
+          "note": "霍尔木兹+能源格局预告"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s458",
+            "s459",
+            "s460",
+            "s461",
+            "s462",
+            "s463",
+            "s464",
+            "s465",
+            "s466",
+            "s467",
+            "s468",
+            "s469",
+            "s470",
+            "s471",
+            "s472",
+            "s473",
+            "s474",
+            "s475",
+            "s476",
+            "s477",
+            "s478",
+            "s479"
+          ],
+          "function": "us_oil_pain_gold_puzzle",
+          "note": "美国扛不住油价"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s480",
+            "s481",
+            "s482",
+            "s483",
+            "s484",
+            "s485",
+            "s486",
+            "s487",
+            "s488",
+            "s489",
+            "s490",
+            "s491",
+            "s492",
+            "s493",
+            "s494",
+            "s495",
+            "s496",
+            "s497",
+            "s925",
+            "s926",
+            "s927",
+            "s928",
+            "s929",
+            "s930"
+          ],
+          "function": "gold_dollar_reasoning",
+          "note": "黄金跌美元涨反直觉盘"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s931",
+            "s932",
+            "s933",
+            "s934",
+            "s935",
+            "s936",
+            "s937",
+            "s938",
+            "s939",
+            "s940",
+            "s941",
+            "s942",
+            "s943",
+            "s944",
+            "s945",
+            "s946",
+            "s947",
+            "s948",
+            "s949",
+            "s950",
+            "s951",
+            "s952",
+            "s953",
+            "s954"
+          ],
+          "function": "energy_future_close",
+          "note": "新能源矿收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「所以咱们今天呢一方面…然后深入」「说到通胀哈我再聊」「晕了吧哎咱来盘盘」「除此之外」分层。",
+      "patterns": [
+        "一方面然后路线图",
+        "说到通胀旁支",
+        "晕了吧盘盘",
+        "除此之外转新能源"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "所以咱们今天呢",
+          "note": "所以今天"
+        },
+        {
+          "sentence_id": "s466",
+          "snippet": "说到这个通胀哈",
+          "note": "说到通胀"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "咱来盘盘",
+          "note": "咱来盘盘"
+        },
+        {
+          "sentence_id": "s925",
+          "snippet": "除此之外就是新能源了",
+          "note": "除此之外"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "战前vs战后油价；油价vs黄金股票资产属性；黄金涨跌预期vs美元指数现实；发电板vs矿石争夺。",
+      "patterns": [
+        "战前战后对照",
+        "资产属性对照",
+        "金银预期/现实对照",
+        "板子/矿产对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "伊朗战争开打之前",
+          "note": "战前"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "而这个是开战之后的",
+          "note": "战后"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "它不只是个资产价格",
+          "note": "不只资产价格"
+        },
+        {
+          "sentence_id": "s496",
+          "snippet": "难道不应该是黄金更涨",
+          "note": "黄金应更涨"
+        },
+        {
+          "sentence_id": "s931",
+          "snippet": "并不是在什么发电板电池",
+          "note": "不是发电板"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「够不够刺激」「是不是很反常」「这又是为什么」「难道不应该黄金更涨」带听众推理。",
+      "patterns": [
+        "刺激邀问",
+        "反常确认问",
+        "为什么追问",
+        "难道应该反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "够不够刺激",
+          "note": "够不够刺激"
+        },
+        {
+          "sentence_id": "s474",
+          "snippet": "是不是很反常",
+          "note": "很反常"
+        },
+        {
+          "sentence_id": "s477",
+          "snippet": "这又是为什么呢",
+          "note": "为什么"
+        },
+        {
+          "sentence_id": "s496",
+          "snippet": "难道不应该是黄金更涨",
+          "note": "难道黄金涨"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "俄乌/委内瑞拉对照震幅；特朗普四五招；钴刚果金锂澳南美镍印尼铜智利秘鲁产地例。",
+      "patterns": [
+        "战争震幅对照例",
+        "特朗普出招例",
+        "矿产产地例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "甚至超过了2022年的俄乌战争",
+          "note": "俄乌对照"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "连出了四五招",
+          "note": "四五招"
+        },
+        {
+          "sentence_id": "s935",
+          "snippet": "钴主要是刚果金",
+          "note": "钴刚果金"
+        },
+        {
+          "sentence_id": "s937",
+          "snippet": "镍是印尼",
+          "note": "镍印尼"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「脆弱能源市场」落到霍尔木兹封运；「反直觉」落到黄金跌美元涨推理步骤；「新能源争夺」落到具体矿产国。",
+      "patterns": [
+        "脆弱→海峡封运",
+        "反直觉→金银步骤",
+        "新能源→矿产国"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "伊朗直接封锁了这个海峡",
+          "note": "封锁"
+        },
+        {
+          "sentence_id": "s481",
+          "snippet": "首先最开始打仗了嘛",
+          "note": "打仗避险"
+        },
+        {
+          "sentence_id": "s935",
+          "snippet": "钴主要是刚果金",
+          "note": "产地"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言震幅超俄乌、油价不只是资产价、美国意图明显扛不住、可再生趋势不变。",
+      "patterns": [
+        "超俄乌断言",
+        "油价特殊断言",
+        "美国扛不住断言",
+        "趋势不变断言"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "甚至超过了2022年的俄乌战争",
+          "note": "超俄乌"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "它不只是个资产价格",
+          "note": "不只资产"
+        },
+        {
+          "sentence_id": "s464",
+          "snippet": "它是不太能承受得住",
+          "note": "扛不住"
+        },
+        {
+          "sentence_id": "s926",
+          "snippet": "这个大趋势肯定是不会变的",
+          "note": "趋势不变"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认不知视频发布时仗打到哪，把兴趣从战况扭到能源脆弱性；用「倒不是惊天发现」降调收束。",
+      "patterns": [
+        "战况不确定自陈",
+        "兴趣扭向结构",
+        "降调非惊天发现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "我也不知道这段视频",
+          "note": "不知打到哪"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "但我更感兴趣的",
+          "note": "更感兴趣结构"
+        },
+        {
+          "sentence_id": "s947",
+          "snippet": "倒不是说我有什么惊天发现哈",
+          "note": "非惊天发现"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "图表数字短打开场→海峡叙事中速→通胀盘逻辑密问密答→矿产列表快扫→温柔收束。",
+      "patterns": [
+        "数字短打",
+        "海峡中速",
+        "密问密答",
+        "列表快扫",
+        "温柔收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一路暴涨到了超过110美元",
+          "note": "数字短打"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "伊朗直接封锁了这个海峡",
+          "note": "海峡叙事"
+        },
+        {
+          "sentence_id": "s493",
+          "snippet": "你就会想了呀",
+          "note": "密问"
+        },
+        {
+          "sentence_id": "s953",
+          "snippet": "那今天先这样了",
+          "note": "先这样"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "开场刺激→封锁紧张→美国出招焦灼→反直觉晕眩→盘清释然→框架整理平静。",
+      "patterns": [
+        "刺激→紧张→焦灼→晕眩→释然→平静"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "够不够刺激",
+          "note": "刺激"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "堵死了运不出来",
+          "note": "封死紧张"
+        },
+        {
+          "sentence_id": "s479",
+          "snippet": "晕了吧哎",
+          "note": "晕了吧"
+        },
+        {
+          "sentence_id": "s949",
+          "snippet": "这个框架和概念",
+          "note": "框架平静"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣「从霍尔木兹展开→格局与路径」，自谦整理框架，Bye收束。",
+      "patterns": [
+        "霍尔木兹回扣",
+        "框架自谦",
+        "Bye收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s944",
+          "snippet": "从霍尔木兹海峡展开",
+          "note": "海峡展开回扣"
+        },
+        {
+          "sentence_id": "s949",
+          "snippet": "这个框架和概念",
+          "note": "框架概念"
+        },
+        {
+          "sentence_id": "s954",
+          "snippet": "Bye～",
+          "note": "Bye"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「之后有机会再单开」矿产预告+「不知道你感觉怎么样」软互动，无硬关注口令。",
+      "patterns": [
+        "单开预告",
+        "感觉怎么样软互动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s942",
+          "snippet": "之后我们有机会再单开",
+          "note": "再单开"
+        },
+        {
+          "sentence_id": "s950",
+          "snippet": "不知道你感觉怎么样啊",
+          "note": "感觉怎么样"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「好招赖招全用上」「晕了吧哎」「倒不是说我有什么惊天发现哈」强口播闲聊感。",
+      "patterns": [
+        "好招赖招",
+        "晕了吧哎",
+        "惊天发现哈降调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "好招赖招全用上了",
+          "note": "好招赖招"
+        },
+        {
+          "sentence_id": "s479",
+          "snippet": "晕了吧哎",
+          "note": "晕了吧"
+        },
+        {
+          "sentence_id": "s947",
+          "snippet": "倒不是说我有什么惊天发现哈",
+          "note": "惊天发现哈"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "954句截到120且三段远距拼接，中间能源格局主体缺失；油价「真的是」句子被截断。",
+      "patterns": [
+        "远距三段拼接",
+        "中间主体缺失",
+        "句子截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "够不够刺激",
+          "note": "首段断"
+        },
+        {
+          "sentence_id": "s458",
+          "snippet": "还有加大力度",
+          "note": "中段跳入"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "而真的是",
+          "note": "真的是截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "完整暴露「打仗避险→封海峡→通胀预期→本应黄金涨美元跌」却与现实相反的推理冲突。",
+      "patterns": [
+        "避险链暴露",
+        "通胀预期链",
+        "与现实冲突展示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s482",
+          "snippet": "大家就都去避险",
+          "note": "避险"
+        },
+        {
+          "sentence_id": "s490",
+          "snippet": "很有可能会引发全球的通货膨胀",
+          "note": "通胀"
+        },
+        {
+          "sentence_id": "s496",
+          "snippet": "难道不应该是黄金更涨",
+          "note": "应黄金涨"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "朋友们共同看图+「我相信大家新闻里看了很多」承认已知，再升级到结构兴趣。",
+      "patterns": [
+        "共同看图",
+        "承认新闻已知",
+        "升级结构听众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你看这个是",
+          "note": "你看这个"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我相信大家在新闻里",
+          "note": "新闻看很多"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "咱们一起来看看",
+          "note": "一起来看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "65→110美元、霍尔木兹、特朗普四五招、钴锂镍铜产地名单。",
+      "patterns": [
+        "油价数字锚",
+        "海峡锚",
+        "出招锚",
+        "产地名单锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "从65美元",
+          "note": "65"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "霍尔木兹海峡",
+          "note": "霍尔木兹"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "连出了四五招",
+          "note": "四五招"
+        },
+        {
+          "sentence_id": "s933",
+          "snippet": "什么铜锂镍钴稀土等等",
+          "note": "铜锂镍钴"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场价格高密→海峡叙事中密→通胀推理问句高密→矿产列表高密→收束低密。",
+      "patterns": [
+        "价格高",
+        "叙事中",
+        "推理高",
+        "矿产高",
+        "收束低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一路暴涨到了超过110美元",
+          "note": "价格密"
+        },
+        {
+          "sentence_id": "s490",
+          "snippet": "很有可能会引发全球的通货膨胀",
+          "note": "推理密"
+        },
+        {
+          "sentence_id": "s933",
+          "snippet": "什么铜锂镍钴稀土等等",
+          "note": "矿产密"
+        },
+        {
+          "sentence_id": "s953",
+          "snippet": "那今天先这样了",
+          "note": "收低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "战前战后对仗短句；「晕了吧」打断后改盘问；产地名词短扫切断长趋势句。",
+      "patterns": [
+        "战前战后对仗",
+        "晕了吧打断",
+        "产地短扫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "伊朗战争开打之前",
+          "note": "战前"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "而这个是开战之后的",
+          "note": "战后"
+        },
+        {
+          "sentence_id": "s479",
+          "snippet": "晕了吧哎",
+          "note": "打断"
+        },
+        {
+          "sentence_id": "s935",
+          "snippet": "钴主要是刚果金",
+          "note": "产地短"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说能源课设老师：图表钩子+反直觉盘逻辑+自谦框架整理。",
+      "patterns": [
+        "图表钩子老师",
+        "反直觉盘手",
+        "自谦整理者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你看这个是",
+          "note": "看图"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "咱来盘盘",
+          "note": "盘盘"
+        },
+        {
+          "sentence_id": "s948",
+          "snippet": "反正就是帮大家整理一下",
+          "note": "整理框架"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「65到110」「霍尔木兹封死」「晕了吧咱来盘盘」「争夺在矿不是板」。",
+      "patterns": [
+        "65到110",
+        "霍尔木兹",
+        "晕了吧盘盘",
+        "矿不是板"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一路暴涨到了超过110美元",
+          "note": "110"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "伊朗直接封锁了这个海峡",
+          "note": "封锁"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "咱来盘盘",
+          "note": "盘盘"
+        },
+        {
+          "sentence_id": "s931",
+          "snippet": "并不是在什么发电板电池",
+          "note": "不是板"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "价格钩子→咽喉地理→反直觉资产推理→未来矿产的结构可直接迁移观宇国际能源口播。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一路暴涨到了超过110美元",
+          "note": "价格钩"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "霍尔木兹海峡",
+          "note": "海峡"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "咱来盘盘",
+          "note": "反直觉盘"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s8",
+    "s9",
+    "s11",
+    "s25",
+    "s464",
+    "s473",
+    "s932",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s458",
+    "s459",
+    "s460",
+    "s461",
+    "s462",
+    "s463",
+    "s465",
+    "s466",
+    "s467",
+    "s468",
+    "s469",
+    "s470",
+    "s471",
+    "s472",
+    "s474",
+    "s475",
+    "s476",
+    "s477",
+    "s478",
+    "s479",
+    "s480",
+    "s481",
+    "s482",
+    "s483",
+    "s484",
+    "s485",
+    "s486",
+    "s487",
+    "s488",
+    "s489",
+    "s490",
+    "s491",
+    "s492",
+    "s493",
+    "s494",
+    "s495",
+    "s496",
+    "s497",
+    "s925",
+    "s926",
+    "s927",
+    "s928",
+    "s929",
+    "s930",
+    "s931",
+    "s933",
+    "s934",
+    "s935",
+    "s936",
+    "s937",
+    "s938",
+    "s939",
+    "s940",
+    "s941",
+    "s942",
+    "s943",
+    "s944",
+    "s945",
+    "s946",
+    "s947",
+    "s948",
+    "s949",
+    "s950",
+    "s951",
+    "s952",
+    "s953",
+    "s954"
+  ],
+  "fields_complete_25": true
+}

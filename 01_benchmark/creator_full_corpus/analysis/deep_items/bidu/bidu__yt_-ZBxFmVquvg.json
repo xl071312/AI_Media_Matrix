@@ -1,0 +1,914 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_-ZBxFmVquvg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=-ZBxFmVquvg",
+  "source_sha256": "a1342d936ece7a848f53553f614b96d984f7a6188fd877a5c5551a07a3e2dcd7",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 51,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "我正在吃的版力"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "我就能"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "精穴计算,"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "他怎么飞行,"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "他不砸头"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "你就是"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "在你,"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "你出手的那一,"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "你,"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 2,
+      "snippet": "耍,"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "senator,"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 2,
+      "snippet": "你,"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 5,
+      "snippet": "你你出手,"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "你出"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "你出手的,"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "등,"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "你出手了,"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "但现在你对想想"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "小球给轰到"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "你相信哪一种的"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "对于我们大分来说"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "我们大头当任本人的"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "消息对自己日常生活"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "冲击最小销的选择"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "所以我们的第一反应"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "当然是自信寻找"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "落队球底中的漏 at"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "怎么会小呢"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "加加加加加速"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "也不错"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 7,
+      "snippet": "一次优秀的停车"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "抛体可精确计算不砸头的决定论口吻开场，旋即陷入「你出手的」ASR复读灾区。",
+      "patterns": [
+        "决定论计算钩",
+        "复读打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精穴计算"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "他怎么飞行,",
+          "note": "他怎么飞行"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "他不砸头",
+          "note": "他不砸头"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你出手的,",
+          "note": "你出手的复读起"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "可计算抛体→（复读崩坏）→小球选择信念→选对日常生活冲击最小→第一反应自信寻找漏点→加速停车残句。",
+      "patterns": [
+        "可计算前提",
+        "冲击最小选择",
+        "残句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精穴计算"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "小球给轰到",
+          "note": "小球给轰到"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "冲击最小销的选择",
+          "note": "冲击最小销的选择"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "当然是自信寻找",
+          "note": "当然是自信寻找"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "一次优秀的停车"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "determinism_hook",
+          "note": "抛体可计算决定论钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "asr_collapse",
+          "note": "你出手的长复读崩溃区"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "choice_minimize",
+          "note": "冲击最小选择与寻找漏点"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "可见「但现在你对想想」「所以我们的第一反应」；中段复读无有效过渡。",
+      "patterns": [
+        "但现在转",
+        "所以第一反应"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "但现在你对想想",
+          "note": "但现在你对想想"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "所以我们的第一反应",
+          "note": "所以我们的第一反应"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "精算可知 vs 复读不可读；信念选择 vs 冲击最小实用主义（残段可辨）。",
+      "patterns": [
+        "精算/崩坏对照",
+        "信念/冲击最小"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精穴计算"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "你出手的,",
+          "note": "复读崩坏"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "冲击最小销的选择",
+          "note": "冲击最小"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你相信哪一种」「怎么会小呢」残存设问。",
+      "patterns": [
+        "相信哪一种问",
+        "怎么会小呢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "你相信哪一种的",
+          "note": "你相信哪一种的"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "怎么会小呢",
+          "note": "怎么会小呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "抛体/砸头思想实验；小球；优秀停车（残）。例证被噪声淹没。",
+      "patterns": [
+        "抛体思想实验",
+        "停车残例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "他不砸头",
+          "note": "不砸头"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "小球给轰到",
+          "note": "小球"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "优秀的停车"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "决定论抽象试图落到出手瞬间与小球轨迹，但ASR使落点模糊。",
+      "patterns": [
+        "决定论→出手瞬间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你出手的那一,",
+          "note": "出手的那一"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "小球给轰到",
+          "note": "小球给轰到"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「当然是自信寻找」给出默认反应判断；「也不错」评价残句。",
+      "patterns": [
+        "当然是默认判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "当然是自信寻找",
+          "note": "当然是自信寻找"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "也不错",
+          "note": "也不错"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "窗口内无清晰自修；复读更像ASR故障而非修辞重说。",
+      "patterns": [
+        "未见有效自修"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "你你出手,",
+          "note": "你你出手叠音更像故障"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短钩→超长复读停滞→后段短暂恢复→停车句切断。",
+      "patterns": [
+        "复读停滞",
+        "短暂恢复切断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "他怎么飞行,",
+          "note": "短钩"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你出手的,",
+          "note": "复读停滞"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "停车切断"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repeat_loop",
+          "form": "你出手的×多"
+        },
+        {
+          "type": "code_switch",
+          "form": "senator/등"
+        },
+        {
+          "type": "discourse",
+          "form": "但现在"
+        },
+        {
+          "type": "repair_like",
+          "form": "你你出手"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你出手的,",
+          "note": "你出手的循环"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "senator,",
+          "note": "senator插入"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "但现在你对想想",
+          "note": "但现在"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "你你出手,",
+          "note": "你你出手"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "自信精算→复读焦虑空白→残段选择压迫→停车莫名收。",
+      "patterns": [
+        "精算自信",
+        "复读空白",
+        "莫名收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精算自信"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "你出手的,",
+          "note": "复读空白"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "停车收"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "闭环失败：开场决定论未回到完整结论，以「优秀的停车」残句中断。",
+      "patterns": [
+        "闭环失败残句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精算开"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "停车残收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无有效CTA；提问「相信哪一种」未引出行动号召。",
+      "patterns": [
+        "无行动CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "你相信哪一种的",
+          "note": "相信哪一种仅提问"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "本应有口语现场感，但标记多为ASR灾难而非有意风格；「加加加加速」残片。",
+      "patterns": [
+        "ASR灾难主导",
+        "加速残片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你出手的,",
+          "note": "出手复读"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "加加加加加速",
+          "note": "加加加加加速"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "过半句子为同一复读；主题「决定论/牛顿」几乎不可读；无法支撑可靠分析。",
+      "patterns": [
+        "复读过半",
+        "主题不可读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你出手的,",
+          "note": "复读起"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "senator,",
+          "note": "senator噪声"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "등,",
+          "note": "등噪声"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "隐约可见「计算→选择信念→取冲击最小」推理骨架，细节丢失。",
+      "patterns": [
+        "冲击最小推理残骨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "冲击最小销的选择",
+          "note": "冲击最小选择"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "所以我们的第一反应",
+          "note": "第一反应"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「对于我们大分来说」试图拉集体；其余被复读淹没。",
+      "patterns": [
+        "集体我们残位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "对于我们大分来说",
+          "note": "对于我们大分来说"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "抛体不砸头、小球、优秀停车；锚点稀薄。",
+      "patterns": [
+        "不砸头锚",
+        "停车锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "他不砸头",
+          "note": "不砸头"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "小球给轰到",
+          "note": "小球"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "优秀的停车"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场微密→长谷零信息→末段微密。",
+      "patterns": [
+        "长谷零信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "开微密"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你出手的,",
+          "note": "零信息谷"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "冲击最小销的选择",
+          "note": "末微密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "有效句极少，循环句主导，流畅性崩溃。",
+      "patterns": [
+        "循环主导崩溃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "他怎么飞行,",
+          "note": "有效短句"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你出手的,",
+          "note": "循环句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "原应是思辨科普人设，本条几乎被噪声抹平。",
+      "patterns": [
+        "人设被噪声抹平"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "精穴计算,",
+          "note": "精算口吻残留"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "当然是自信寻找",
+          "note": "自信寻找残留"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "可迁移记忆点缺失；仅「冲击最小的选择」残句勉强可记。",
+      "patterns": [
+        "冲击最小残句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "冲击最小销的选择",
+          "note": "冲击最小销的选择"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR复读摧毁论证，决定论主题不可用，不能作为观宇迁移母本。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你出手的,",
+          "note": "出手循环灾"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "senator,",
+          "note": "senator噪声"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一次优秀的停车",
+          "note": "残句无收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s5",
+    "s9",
+    "s39",
+    "s44",
+    "s46",
+    "s51",
+    "s1",
+    "s2",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s45",
+    "s47",
+    "s48",
+    "s49",
+    "s50"
+  ],
+  "fields_complete_25": true
+}

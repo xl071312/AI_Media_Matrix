@@ -1,0 +1,1511 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_l9RMphp8ybA",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=l9RMphp8ybA",
+  "source_sha256": "32139fb78b76237d2dfbbab681f9586e09506eb4f4ccd29ba60463d7a66d77a9",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 107,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 14,
+      "snippet": "李清紅就更能變色的王者出現了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "這福尼究竟是黃色才是綠色呀"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 16,
+      "snippet": "前段時間我做了七千萬國防的視頻呀"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "說福尼有種清紅就"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "彈子裡看著是綠色"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "要出來會瞬間變紅"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 17,
+      "snippet": "這部頻度區風中小江曬出了正式的東西"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "叫五倍子录"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "它在風潮裡時綠色"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "取到瓶子裡就變黃色了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "裝到黑色斷子裡用變成綠色了"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "五倍子密聽著就霸氣"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "五子細瓜是三倍體"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "出道有四倍體"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "而五倍子密呢"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "可是霸王情怪是也沒有"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "它是春五倍子樹"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "學名叫清富陽所產的密"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "是一種陽力"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "小江說呢"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "五倍子密的黃綠變色還是未解知密呀"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "氣好滑"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "一個封密我的真不明白"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "我還背心故意嗎"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "做實驗呀"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "我們先看一下"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "它是怎麼變色的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "它就是熟悉的黃色而已"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "但黑冠子裡的密就有點黃綠"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "照一個白光"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "這綠油有看得我心發慌"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "放下白光將藍光舉起"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "這銀光綠都會看得都像超底"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "一種大三"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 18,
+      "snippet": "這麼看來五倍子密和清紅酒變色原理一樣"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "它裡面還有銀光物質"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 11,
+      "snippet": "會吸收白光中的藍光成色"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "發出綠色銀光"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 4,
+      "snippet": "白彎裡呢"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "碗幣反射比較強"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "看得到更多是本色的黃"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "黑冠子幾乎不反射"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "本色的黃色被削弱"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "銀光的綠色就更清澈"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "有的關註要說了"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "這封密裡貼這樣的銀光物質"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "還能喝嗎"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 4,
+      "snippet": "不要 黃"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 10,
+      "snippet": "發綠光的東西在生活中"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "還是挺多的對吧"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "最常見的是維生素B2"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "探望學歷加一點"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 13,
+      "snippet": "光照就能看到明顯的綠色銀光"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "五倍子密裡會不會就是有類似"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 9,
+      "snippet": "維生素B2的物質呢"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 16,
+      "snippet": "誒 檢驗維生素B有一個冷門圖方法"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "我們湊盡自信關場"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "你會發現"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 8,
+      "snippet": "維生素B2分子上"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 15,
+      "snippet": "有著藝衲樂情三環顧合大派建體系"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "在發出銀光"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "而連二亞流孫納俗稱保險粉"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "可以將藝衛情三環加期"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 14,
+      "snippet": "還原不懷共和體系零光就會消失"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "最神奇的是"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "還要被氧氣氧化回來"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "銀光重新出現"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "歡迎大師彈幕上"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 8,
+      "snippet": "大出這個流氏幾架"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "我們給大家演示一下"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "這是維生素B2水"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "有綠色的銀光"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "往裡面低兩滴"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 8,
+      "snippet": "連二亞流孫納俗稱"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "阿妹子銀光瞬間消失了"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 8,
+      "snippet": "這保險粉相當保險"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "在氧化 氧化"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 9,
+      "snippet": "阿妹子銀光又出現了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 13,
+      "snippet": "如果五倍子密也有同樣的現象"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "那成分可能差不多差不多"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 9,
+      "snippet": "這是一杯五倍子密水"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "打上排光綠到右下"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 9,
+      "snippet": "如果加入保險粉容液"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "後綠色消失"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "各位我的要求不多"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "點亮這顆小紅心"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 11,
+      "snippet": "接下來就是見證習計時刻"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 11,
+      "snippet": "哇 綠色的銀光真的消失"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 10,
+      "snippet": "風力水好像會色了一樣"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "接下來我們優雅的搖晃杯子"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 10,
+      "snippet": "讓容易也充分接觸氧氣"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 8,
+      "snippet": "哎 銀光又復活了"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 7,
+      "snippet": "等下的秘密飯期"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 6,
+      "snippet": "必要五指銀光"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 7,
+      "snippet": "有的同學要問了"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 6,
+      "snippet": "那清空就有呢"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 14,
+      "snippet": "我給清空就加入了連二亞流孫納"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 9,
+      "snippet": "綠色並沒有完成消失"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 11,
+      "snippet": "說明清空球的銀光夠複雜"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 14,
+      "snippet": "我去西部大學打過智庫和銀光圖"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "具體有哪些銀光車份"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 6,
+      "snippet": "我還是不知道"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 8,
+      "snippet": "銀光的世界很慢了"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 10,
+      "snippet": "就留點一趕進去的朋友"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 4,
+      "snippet": "繼續探索"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "記得給我們三連支持一下"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "叶绿素变色王者登场，追问蜂蜜黄还是绿，接上期叶绿素视频评论区「五倍子蜜」挑战。",
+      "patterns": [
+        "变色王者",
+        "黄绿追问",
+        "评论区挑战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "李清紅就更能變色的王者出現了",
+          "note": "变色王者"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "這福尼究竟是黃色才是綠色呀",
+          "note": "黄还是绿"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "叫五倍子录",
+          "note": "五倍子录"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "五倍子蜜容器变色→荧光物质吸蓝发绿→白碗反射显黄黑罐显绿→像维生素B2→保险粉还原熄光再氧化复活→蜜同样现象→青红酒更复杂未解→留探索+三连。",
+      "patterns": [
+        "容器变色",
+        "荧光机制",
+        "B2类比",
+        "保险粉检验",
+        "青红酒更复杂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "它在風潮裡時綠色",
+          "note": "瓶里绿"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "會吸收白光中的藍光成色",
+          "note": "吸蓝发绿"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "最常見的是維生素B2",
+          "note": "维B2"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "银光消失"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "說明清空球的銀光夠複雜",
+          "note": "更复杂"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "hook_demo",
+          "note": "挑战引入与变色演示"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "optics_explain",
+          "note": "荧光与碗罐反射差"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "b2_assay",
+          "note": "维B2与保险粉方法"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107"
+          ],
+          "function": "honey_test_close",
+          "note": "蜜验证与青酒未解收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我们先看一下」「这么看来」「有的关注要说了」「如果…那成分可能」「有的同学要问了」对话推进。",
+      "patterns": [
+        "先看一下",
+        "这么看来",
+        "有人要说",
+        "有同学问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "我們先看一下",
+          "note": "先看"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "這麼看來五倍子密和清紅酒變色原理一樣",
+          "note": "这么看来"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "有的關註要說了",
+          "note": "关注要说"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "有的同學要問了",
+          "note": "同学要问"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "白碗黄vs黑罐绿；白光vs蓝光；维B2可逆熄光vs青红酒不完全消失；可喝焦虑vs日常荧光物。",
+      "patterns": [
+        "碗罐色差",
+        "光源差",
+        "可逆vs复杂",
+        "安全焦虑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "看得到更多是本色的黃",
+          "note": "本色黄"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "銀光的綠色就更清澈",
+          "note": "绿更清"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "綠色並沒有完成消失",
+          "note": "没完全消失"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "發綠光的東西在生活中",
+          "note": "发绿光日常"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "黄还是绿；还能喝吗；会不会就是维B2；那青红酒呢。",
+      "patterns": [
+        "颜色问",
+        "还能喝吗",
+        "成分假说问",
+        "青酒追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "這福尼究竟是黃色才是綠色呀",
+          "note": "黄绿"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "還能喝嗎",
+          "note": "还能喝吗"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "維生素B2的物質呢",
+          "note": "维B2吗"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "那清空就有呢",
+          "note": "青红酒呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "白光/蓝光照射演示；维B2水滴保险粉；五倍子蜜水同样操作；西农测荧光图经历。",
+      "patterns": [
+        "光照演示",
+        "B2对照实验",
+        "蜜平行实验",
+        "西农图谱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "照一個白光",
+          "note": "白光"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "這是維生素B2水",
+          "note": "维B2水"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "這是一杯五倍子密水",
+          "note": "蜜水"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "我去西部大學打過智庫和銀光圖",
+          "note": "西农"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "荧光原理落到吸蓝发绿；反射差落到白碗/黑罐；成分假说落到保险粉可逆实验。",
+      "patterns": [
+        "荧光→吸蓝发绿",
+        "反射→碗罐",
+        "假说→保险粉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "會吸收白光中的藍光成色",
+          "note": "吸蓝"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "碗幣反射比較強",
+          "note": "碗反射"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "如果加入保險粉容液",
+          "note": "加保险粉"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "变色王者；霸气；绿到心发慌；保险粉相当保险；银光世界很慢了（留白）。",
+      "patterns": [
+        "王者霸气",
+        "心发慌",
+        "相当保险",
+        "留白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "李清紅就更能變色的王者出現了",
+          "note": "王者"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "五倍子密聽著就霸氣",
+          "note": "霸气"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "這綠油有看得我心發慌",
+          "note": "心发慌"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "這保險粉相當保險",
+          "note": "相当保险"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说未解之谜再坚持做实验；对青红酒承认加保险粉未完全消失、自己仍不知道成分。",
+      "patterns": [
+        "未解仍实验",
+        "承认不知"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "五倍子密的黃綠變色還是未解知密呀",
+          "note": "未解"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "做實驗呀",
+          "note": "做实验"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "綠色並沒有完成消失",
+          "note": "没消失"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "还不知道"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "悬念短开→演示加速→原理解释中速→实验操作鼓点→见证时刻爆发→诚实留白收。",
+      "patterns": [
+        "悬念短",
+        "演示快",
+        "鼓点实验",
+        "见证爆发",
+        "留白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "這福尼究竟是黃色才是綠色呀",
+          "note": "悬念"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "照一個白光",
+          "note": "演示"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "往裡面低兩滴",
+          "note": "滴两滴"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "真的消失"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "不知"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "exclaim",
+          "form": "哇"
+        },
+        {
+          "type": "discourse",
+          "form": "诒"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "差不多差不多"
+        },
+        {
+          "type": "discourse",
+          "form": "不要慌"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "誒 檢驗維生素B有一個冷門圖方法",
+          "note": "诒"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "那成分可能差不多差不多",
+          "note": "差不多差不多"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "不要 黃",
+          "note": "不要 黄/慌"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "猎奇→绿光心慌→科普安心→实验紧张→消失惊喜→摇晃复活→诚实未解。",
+      "patterns": [
+        "猎奇",
+        "心慌",
+        "安心",
+        "惊喜",
+        "未解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "這福尼究竟是黃色才是綠色呀",
+          "note": "猎奇"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "這綠油有看得我心發慌",
+          "note": "心慌"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "發綠光的東西在生活中",
+          "note": "日常多"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "消失"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "哎 銀光又復活了",
+          "note": "复活"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "不知"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从五倍子蜜谜题回到荧光世界很大：已知类B2机制，青酒更复杂留给后来者+三连。",
+      "patterns": [
+        "回扣谜题",
+        "留给后来者",
+        "三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "五倍子密的黃綠變色還是未解知密呀",
+          "note": "未解"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "繼續探索",
+          "note": "继续探索"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "記得給我們三連支持一下",
+          "note": "三连"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "点亮小红心作为实验见证门槛；结尾三连支持。",
+      "patterns": [
+        "小红心门槛",
+        "三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "點亮這顆小紅心",
+          "note": "小红心"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "記得給我們三連支持一下",
+          "note": "三连"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "保险粉俗称现场口播；「阿妹子银光」口误感；西农打谱个人经历。",
+      "patterns": [
+        "俗称口播",
+        "口误感",
+        "个人打谱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "而連二亞流孫納俗稱保險粉",
+          "note": "保险粉俗称"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "阿妹子銀光瞬間消失了",
+          "note": "阿妹子"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "我去西部大學打過智庫和銀光圖",
+          "note": "西农"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR乱码重；「成分差不多」推理偏快；安全结论口语化缺引用。",
+      "patterns": [
+        "ASR乱码",
+        "推理偏快",
+        "安全缺引"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "說福尼有種清紅就",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "那成分可能差不多差不多",
+          "note": "差不多"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "不要 黃",
+          "note": "不要慌"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示假说→对照实验→平行验证→边界失败（青酒）的完整探究链。",
+      "patterns": [
+        "假说实验链",
+        "边界失败"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "維生素B2的物質呢",
+          "note": "假说"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "如果五倍子密也有同樣的現象",
+          "note": "如果同样"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "綠色並沒有完成消失",
+          "note": "青酒失败"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把弹幕当实验室同事；「各位我的要求不多」交换点赞看见证。",
+      "patterns": [
+        "弹幕同事",
+        "交换点赞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "歡迎大師彈幕上",
+          "note": "大师弹幕"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "各位我的要求不多",
+          "note": "要求不多"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "有的同學要問了",
+          "note": "有的同学"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "五倍子蜜；黑罐子；维B2；保险粉；银光消失又复活。",
+      "patterns": [
+        "五倍子蜜",
+        "黑罐",
+        "B2",
+        "保险粉",
+        "复活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而五倍子密呢",
+          "note": "五倍子密"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "但黑冠子裡的密就有點黃綠",
+          "note": "黑冠子"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "最常見的是維生素B2",
+          "note": "维B2"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "消失"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "哎 銀光又復活了",
+          "note": "复活"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场故事中密→光学解释升高→化学检验高峰→青酒未解降密。",
+      "patterns": [
+        "故事中",
+        "光学升",
+        "化学峰",
+        "未解降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫五倍子录",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "會吸收白光中的藍光成色",
+          "note": "光学"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "可以將藝衛情三環加期",
+          "note": "还原"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "不知"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "演示短句；原理因果长句；「往里面滴两滴」操作指令句。",
+      "patterns": [
+        "演示短",
+        "原理长",
+        "操作指令"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "它就是熟悉的黃色而已",
+          "note": "黄色"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "會吸收白光中的藍光成色",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "往裡面低兩滴",
+          "note": "滴两滴"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导「敢在镜头做实验的理科男」：未解也上桌，失败也播，用哇和复活制造剧场。",
+      "patterns": [
+        "镜头实验",
+        "失败也播",
+        "剧场哇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "做實驗呀",
+          "note": "做实验"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "不知"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "哇"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "黄蜜变绿；黑罐显荧光；保险粉熄光；摇晃又复活；青红酒更复杂。",
+      "patterns": [
+        "黄变绿",
+        "黑罐荧光",
+        "熄光",
+        "复活",
+        "青酒复杂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "取到瓶子裡就變黃色了",
+          "note": "变黄"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "銀光的綠色就更清澈",
+          "note": "绿清澈"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "哇 綠色的銀光真的消失",
+          "note": "消失"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "哎 銀光又復活了",
+          "note": "复活"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "說明清空球的銀光夠複雜",
+          "note": "复杂"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "评论区挑战→光学假说→对照试剂实验→承认边界的科普剧场可改编观宇实验口播，需清晰口播稿并补安全说明。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫五倍子录",
+          "note": "评论挑战"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "如果五倍子密也有同樣的現象",
+          "note": "平行验证"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "我還是不知道",
+          "note": "承认不知"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107"
+  ],
+  "fields_complete_25": true
+}

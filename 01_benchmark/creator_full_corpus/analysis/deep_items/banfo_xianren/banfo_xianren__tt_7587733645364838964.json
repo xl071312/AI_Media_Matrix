@@ -1,0 +1,1598 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7587733645364838964",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7587733645364838964/",
+  "source_sha256": "6582d84ff4751cd996a08272aa76632d26ee1b9000b6683edf9b4a0129f61222",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 110,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 45,
+      "snippet": "最近去了趟海南，发现免税商城里始祖鸟门店排队的茫茫多，和隔壁几个品牌比，真就是冰火两重天。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 16,
+      "snippet": "哪怕它们没有鸟贵，但大家只买鸟。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 28,
+      "snippet": "看到队伍的长度，让我不禁感慨，这是消费者真金白银的选择。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "毕竟比这东西太有性价比了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 19,
+      "snippet": "是，对，你没看错，我用的词是，性价比。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "始祖鸟，充满了性价比。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 22,
+      "snippet": "或许你会觉得非常离谱，始祖鸟这东西还便宜啊？"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "还性价比啊？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 15,
+      "snippet": "这里得说，贵不贵，是比出来的。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 31,
+      "snippet": "不然为啥免税商城里面别的更便宜的牌子没人排队排的比始祖鸟厉害？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "因为，始祖鸟就是比他们有性价比。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 3,
+      "snippet": "不信？"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 19,
+      "snippet": "你看加拿大鹅哦不对，加拿大鸭，什么价？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 62,
+      "snippet": "始祖鸟作为户外公认的天花板，这个领域的品牌赛亚人，卖到现在的价格，大部分产品还没加拿大鹅贵，就问你，你觉得，哪个更有性价比。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 26,
+      "snippet": "为什么大家愿意买始祖鸟，既是因为顶级，更因为它便宜。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "它能【 花小钱装大的 】。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 27,
+      "snippet": "这个价格买一身户外装备的确太贵了，但买一身标签，还行。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 19,
+      "snippet": "就像阿凡达3你理解为是电影，票有点贵。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 20,
+      "snippet": "你理解为是膀胱检查，那还是很有性价比的。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "有更便宜的么？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "有的是。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "有更专业的的么？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "也有。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 21,
+      "snippet": "但同时比始祖鸟更有知名度且更专业的，没有。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 33,
+      "snippet": "更有性价比的小众牌子，你穿了别人也不认识，还不如迪卡侬有辨识度呢。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 14,
+      "snippet": "没人认识，那不是装了个寂寞？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 26,
+      "snippet": "关键是，始祖鸟所在的赛道本身就有光环，本身就有滤镜。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 23,
+      "snippet": "户外运动，往小了说，是吃饱了撑的，去野外受罪。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 41,
+      "snippet": "往大了说，是人类在探索自然，是探索自己的身体极限，去感受大自然最残酷和美妙的一面。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 26,
+      "snippet": "这是世界上最浪漫的事，因为人类的赞歌就是勇气的赞歌。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 22,
+      "snippet": "就跟宝珀五十噚为什么受到追捧，是因为精准吗？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "是因为复杂吗？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "是因为贵吗？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 4,
+      "snippet": "都不是。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 21,
+      "snippet": "是因为它在讲一个人类探索海底的极限的故事。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "这个故事，没有价格。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "故事的意义，在于共识。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 18,
+      "snippet": "巧了，比始祖鸟更有共识的牌子，没了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 17,
+      "snippet": "它的细节做得很好，在技术上也很卷。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 21,
+      "snippet": "户外圈子认，攀登大牛认，明星认，大众也认。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 38,
+      "snippet": "它已经形成了一个共识：你衣服上有这个logo，别人就知道你也是极限的爱好者。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 31,
+      "snippet": "甚至这两年很多小众品牌开始瞎涨价之后，始祖鸟居然被反衬的还行。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 16,
+      "snippet": "就像你敢相信有一天你会共情西贝？"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 14,
+      "snippet": "直到你看到了华与华的神操作。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "只能说，凡事还是怕衬托。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 23,
+      "snippet": "关键是，它的品牌形象1/3像苹果，有大众共识。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 19,
+      "snippet": "1/3像特斯拉，是代表了酷，追求极限。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 15,
+      "snippet": "1/3像保时捷，是代表了有钱。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 19,
+      "snippet": "所以认真算起来，它的逼格不比爱马仕差。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 24,
+      "snippet": "爱马仕卖的故事是六代传承、接近两百年的手工工艺。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 21,
+      "snippet": "但再怎么讲手工，也比不上人类对极限的攀登。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 39,
+      "snippet": "至少当两个logo出现的时候，始祖鸟不输气场，而且始祖鸟的技术是实打实的硬核。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 17,
+      "snippet": "跟任何品牌放在一起，始祖鸟都不输。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 17,
+      "snippet": "因为，人类的赞歌，就是勇气的赞歌。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 12,
+      "snippet": "同样的逼格，再比比价格。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 35,
+      "snippet": "爱马仕随便一件男士运动衫，就很普通很普通的那种，价格看了都得让你挠头。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 15,
+      "snippet": "而始祖鸟需要多少呢，要三千多。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "三千多贵吗？"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 2,
+      "snippet": "贵！"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "当然贵啊。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 31,
+      "snippet": "但如果考虑上装X这个人类最大的刚需，那始祖鸟就是太有性价比了。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 17,
+      "snippet": "你买一件只在城市里穿的冲锋衣，贵。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 14,
+      "snippet": "你买一个能装X的物件，便宜。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "更何况，再强调一遍。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 18,
+      "snippet": "始祖鸟和任何一个品牌比逼格，都不差。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 38,
+      "snippet": "而且人家不仅有面子，里子也是拉满的，极限运动员们穿的衣服，那是真的技术够硬。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 21,
+      "snippet": "面子里子都有，还不像别的顶流要那么多票子。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "免税店排队的人都想得很清楚。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 17,
+      "snippet": "看到这，能理解始祖鸟的性价比了么。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 38,
+      "snippet": "衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 50,
+      "snippet": "要么你是那种只追求实用主义，完全不在意附加值的，迪卡侬够用了真的，甚至你去买一堆外贸白牌也没有问题。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "真的，够用了。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 37,
+      "snippet": "你但凡考虑点附加值，你会意识到始祖鸟附加值拉满的情况下，价格还没那么离谱。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 35,
+      "snippet": "我之前写过卖二手书起家的多抓鱼卖二手服装挑战很大对吧，很多用户抱怨贵。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "但始祖鸟例外。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 34,
+      "snippet": "多抓鱼上，始祖鸟的衣服，无论是冲锋衣还是羽绒服，只要上一件就卖一件。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 29,
+      "snippet": "为数不多还留在上面卖不掉的是一件始祖鸟连衣裙和女长袖衬衫。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 11,
+      "snippet": "卖不出的原因也很简单。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 13,
+      "snippet": "logo露出得不是很明显。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 11,
+      "snippet": "发现没，大家都很诚实。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 13,
+      "snippet": "买的就真的是那个logo。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 6,
+      "snippet": "明显的，买。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 19,
+      "snippet": "甭管是夹克还是卫衣，都给你买秃噜皮了。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 27,
+      "snippet": "但如果logo露出没那么明显的，就不买了，就觉得贵了。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 43,
+      "snippet": "再说一遍，衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 31,
+      "snippet": "为什么大家都知道奢侈品是一场纯粹的骗局，但还是愿意去买奢侈品。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 42,
+      "snippet": "为什么有人即使已经身体力行在对抗消费主义，仍然会买一个名牌包包，仍然要购置顶级服饰。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 12,
+      "snippet": "因为能够节省解释的成本。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 23,
+      "snippet": "就连物业保安看到你是BBA都会抬杆的更加果断。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 33,
+      "snippet": "一个logo其实真的没有啥意义，但现在大家共识就是认这个，咋办呢。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 16,
+      "snippet": "这时候再看，这就是始祖鸟的优势。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 46,
+      "snippet": "在贩卖顶级标签的同时，又真的从技术上是同品类最硬核的产品，最妙的是又不如其他顶级标签那么贵。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 15,
+      "snippet": "贵和性价比，很多时候并不冲突。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 8,
+      "snippet": "甚至融洽在一起。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 10,
+      "snippet": "这就是，魔幻的世界。"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 17,
+      "snippet": "图片截取自: 始祖鸟简直便宜过头了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "海南免税店始祖鸟排队冰火两重天切入，立刻抛出反常识判断：我说的是性价比。",
+      "patterns": [
+        "排队冰火现场",
+        "反常识性价比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近去了趟海南，发现免税商城里始祖鸟门店排队的茫茫多，和隔壁几个品牌比，真就是冰",
+          "note": "排队茫茫多"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "是，对，你没看错，我用的词是，性价比。",
+          "note": "你没看错"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "充满了性价比"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "贵是比出来的→比鹅更顶却更便宜→花小钱装大的→无可替代共识→赛道浪漫光环→1/3苹果特斯拉保时捷→比爱马仕逼格不输价更低→logo即附加值→贵与性价比融洽。",
+      "patterns": [
+        "比较定价",
+        "装大的",
+        "共识光环",
+        "三分品牌喻",
+        "logo附加值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这里得说，贵不贵，是比出来的。",
+          "note": "贵不贵是比出来的"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "始祖鸟作为户外公认的天花板，这个领域的品牌赛亚人，卖到现在的价格，大部分产品还没",
+          "note": "没加拿大鹅贵"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "花小钱装大的"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "巧了，比始祖鸟更有共识的牌子，没了。",
+          "note": "更有共识没了"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "关键是，它的品牌形象1/3像苹果，有大众共识。",
+          "note": "1/3像苹果"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "在贩卖顶级标签的同时，又真的从技术上是同品类最硬核的产品，最妙的是又不如其他顶级",
+          "note": "不如其他顶级那么贵"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "hook_paradox",
+          "note": "排队现场与性价比反常识"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "compare_goose",
+          "note": "对比鹅与装大的逻辑"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "romance_consensus",
+          "note": "户外浪漫与共识光环"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78"
+          ],
+          "function": "brand_trinity",
+          "note": "苹果特斯拉保时捷三分喻与爱马仕比价"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110"
+          ],
+          "function": "logo_value",
+          "note": "工业品附加值与logo诚实收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "是对你没看错；不信；关键是；再说一遍；这时候再看。",
+      "patterns": [
+        "你没看错",
+        "不信",
+        "关键是",
+        "再说一遍",
+        "这时候再看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "是，对，你没看错，我用的词是，性价比。",
+          "note": "你没看错"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "不信？",
+          "note": "不信"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "关键是，始祖鸟所在的赛道本身就有光环，本身就有滤镜。",
+          "note": "关键是"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "再说一遍，衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "这时候再看，这就是始祖鸟的优势。",
+          "note": "这时候再看"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "隔壁更便宜无人排vs鸟队爆满；装备贵vs标签便宜；有更便宜/更专业但无共识；爱马仕故事vs勇气赞歌；logo明显卖爆vs不明显卖不动。",
+      "patterns": [
+        "排队对照",
+        "装备/标签",
+        "便宜专业无共识",
+        "爱马仕/勇气",
+        "logo显隐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "哪怕它们没有鸟贵，但大家只买鸟。",
+          "note": "只买鸟"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "这个价格买一身户外装备的确太贵了，但买一身标签，还行。",
+          "note": "装备贵标签行"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "但同时比始祖鸟更有知名度且更专业的，没有。",
+          "note": "更有知名度且专业没有"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "但再怎么讲手工，也比不上人类对极限的攀登。",
+          "note": "比不上攀登"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "明显的，买。",
+          "note": "明显的买"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "但如果logo露出没那么明显的，就不买了，就觉得贵了。",
+          "note": "不明显就不买"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "始祖鸟还便宜啊还性价比啊；哪个更有性价比；宝珀五十噚是因为准吗复杂吗贵吗；能理解性价比了么；为什么还买奢侈品。",
+      "patterns": [
+        "反问便宜吗",
+        "哪个更性价比",
+        "宝珀三连问",
+        "能理解么",
+        "为何买奢侈品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "或许你会觉得非常离谱，始祖鸟这东西还便宜啊？",
+          "note": "还便宜啊"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "始祖鸟作为户外公认的天花板，这个领域的品牌赛亚人，卖到现在的价格，大部分产品还没",
+          "note": "哪个更有性价比"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "就跟宝珀五十噚为什么受到追捧，是因为精准吗？",
+          "note": "因为精准吗"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "看到这，能理解始祖鸟的性价比了么。",
+          "note": "能理解了么"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "为什么大家都知道奢侈品是一场纯粹的骗局，但还是愿意去买奢侈品。",
+          "note": "为什么还愿意买"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "加拿大鹅错称鸭；阿凡达3膀胱检查；宝珀五十噚；西贝华与华；多抓鱼二手鸟；BBA抬杆；爱马仕普通运动衫。",
+      "patterns": [
+        "鹅/鸭例",
+        "阿凡达例",
+        "宝珀例",
+        "西贝例",
+        "多抓鱼例",
+        "BBA例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "你看加拿大鹅哦不对，加拿大鸭，什么价？",
+          "note": "加拿大鸭"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你理解为是膀胱检查，那还是很有性价比的。",
+          "note": "膀胱检查"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "是因为它在讲一个人类探索海底的极限的故事。",
+          "note": "探索海底"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "直到你看到了华与华的神操作。",
+          "note": "华与华"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "多抓鱼上，始祖鸟的衣服，无论是冲锋衣还是羽绒服，只要上一件就卖一件。",
+          "note": "多抓鱼上一件卖一件"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "就连物业保安看到你是BBA都会抬杆的更加果断。",
+          "note": "BBA抬杆"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "性价比落到比鹅更顶更便宜；共识落到logo认出极限爱好者；附加值落到超500块买的是附加值。",
+      "patterns": [
+        "性价比→比鹅",
+        "共识→logo",
+        "附加值→超500"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "始祖鸟作为户外公认的天花板，这个领域的品牌赛亚人，卖到现在的价格，大部分产品还没",
+          "note": "没鹅贵"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "它已经形成了一个共识：你衣服上有这个logo，别人就知道你也是极限的爱好者。",
+          "note": "有这个logo"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。",
+          "note": "超过500块"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "真金白银的选择；简直便宜过头；装了个寂寞；面子里子都有；魔幻的世界。",
+      "patterns": [
+        "真金白银",
+        "便宜过头",
+        "装寂寞",
+        "面子里子",
+        "魔幻世界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "看到队伍的长度，让我不禁感慨，这是消费者真金白银的选择。",
+          "note": "真金白银"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "毕竟比这东西太有性价比了。",
+          "note": "太有性价比"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "没人认识，那不是装了个寂寞？",
+          "note": "装了个寂寞"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "面子里子都有，还不像别的顶流要那么多票子。",
+          "note": "面子里子"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "这就是，魔幻的世界。",
+          "note": "魔幻的世界"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "加拿大鹅→哦不对→加拿大鸭即时口误修正；贵！当然贵→但装X就便宜的转折自纠。",
+      "patterns": [
+        "鹅改鸭",
+        "贵但装X便宜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "你看加拿大鹅哦不对，加拿大鸭，什么价？",
+          "note": "哦不对加拿大鸭"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "贵！",
+          "note": "贵"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "当然贵啊。",
+          "note": "当然贵"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "你买一个能装X的物件，便宜。",
+          "note": "装X便宜"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句反问连珠→段内金句顿挫→图片截取节奏分隔→再说一遍回环加重。",
+      "patterns": [
+        "反问连珠",
+        "金句顿挫",
+        "再说一遍回环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "或许你会觉得非常离谱，始祖鸟这东西还便宜啊？",
+          "note": "还便宜啊"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "花小钱装大的"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "更何况，再强调一遍。",
+          "note": "再强调一遍"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "再说一遍，衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加",
+          "note": "再说一遍"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "现场吐槽好奇→反常识刺激→嘲讽共鸣→浪漫拔高→比价痛快→logo诚实冷笑收。",
+      "patterns": [
+        "好奇",
+        "刺激",
+        "嘲讽",
+        "浪漫",
+        "痛快",
+        "冷笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近去了趟海南，发现免税商城里始祖鸟门店排队的茫茫多，和隔壁几个品牌比，真就是冰",
+          "note": "排队"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "性价比"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "没人认识，那不是装了个寂寞？",
+          "note": "装寂寞"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这是世界上最浪漫的事，因为人类的赞歌就是勇气的赞歌。",
+          "note": "勇气赞歌"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "而始祖鸟需要多少呢，要三千多。",
+          "note": "三千多"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "买的就真的是那个logo。",
+          "note": "买的是logo"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头性价比宣言收束到贵与性价比并不冲突的魔幻世界，logo诚实观察闭环。",
+      "patterns": [
+        "性价比开场",
+        "冲突消解",
+        "logo闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "充满性价比"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "贵和性价比，很多时候并不冲突。",
+          "note": "并不冲突"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "买的就真的是那个logo。",
+          "note": "买的是logo"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "这就是，魔幻的世界。",
+          "note": "魔幻的世界"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "理解了么反问式软CTA；无强关注，靠金句与场景刺激转发。",
+      "patterns": [
+        "理解了么软CTA",
+        "金句刺激"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "看到这，能理解始祖鸟的性价比了么。",
+          "note": "能理解了么"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "花小钱装大的"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "鹅改鸭口误；阿凡达膀胱检查；共情西贝；人类赞歌勇气赞歌复读；多抓鱼logo露出。",
+      "patterns": [
+        "鹅改鸭",
+        "膀胱检查",
+        "西贝",
+        "勇气赞歌",
+        "logo露出"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "你看加拿大鹅哦不对，加拿大鸭，什么价？",
+          "note": "加拿大鸭"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你理解为是膀胱检查，那还是很有性价比的。",
+          "note": "膀胱检查"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "就像你敢相信有一天你会共情西贝？",
+          "note": "共情西贝"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "因为，人类的赞歌，就是勇气的赞歌。",
+          "note": "勇气的赞歌"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "logo露出得不是很明显。",
+          "note": "logo露出"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "论证偏感受金句，缺系统价位表；户外专业性论证少于品牌符号；重复再说一遍略拖。",
+      "patterns": [
+        "缺价位表",
+        "符号多于专业",
+        "重复略拖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "它的细节做得很好，在技术上也很卷。",
+          "note": "技术上也很卷"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "再说一遍，衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。",
+          "note": "超过500"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "贵不贵是比出来的显式比较框架；先承认贵再翻转到装X便宜；发现没大家很诚实揭底。",
+      "patterns": [
+        "比较框架",
+        "先贵再翻转",
+        "诚实揭底"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这里得说，贵不贵，是比出来的。",
+          "note": "是比出来的"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "贵！",
+          "note": "贵"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "你买一个能装X的物件，便宜。",
+          "note": "便宜"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "发现没，大家都很诚实。",
+          "note": "发现没"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当识货又爱装的消费观察者：你没看错；免税店人都想清楚了；物业保安抬杆共鸣。",
+      "patterns": [
+        "识货观察者",
+        "免税店共同体",
+        "保安抬杆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "是，对，你没看错，我用的词是，性价比。",
+          "note": "你没看错"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "免税店排队的人都想得很清楚。",
+          "note": "想得很清楚"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "就连物业保安看到你是BBA都会抬杆的更加果断。",
+          "note": "抬杆更果断"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "海南免税排队；加拿大鹅；阿凡达3；宝珀五十噚；三千多；多抓鱼连衣裙；BBA。",
+      "patterns": [
+        "海南排队",
+        "鹅",
+        "阿凡达",
+        "宝珀",
+        "三千多",
+        "多抓鱼",
+        "BBA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近去了趟海南，发现免税商城里始祖鸟门店排队的茫茫多，和隔壁几个品牌比，真就是冰",
+          "note": "海南"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你看加拿大鹅哦不对，加拿大鸭，什么价？",
+          "note": "加拿大鸭"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "就像阿凡达3你理解为是电影，票有点贵。",
+          "note": "阿凡达3"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "就跟宝珀五十噚为什么受到追捧，是因为精准吗？",
+          "note": "五十噚"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "而始祖鸟需要多少呢，要三千多。",
+          "note": "三千多"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "为数不多还留在上面卖不掉的是一件始祖鸟连衣裙和女长袖衬衫。",
+          "note": "连衣裙"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "就连物业保安看到你是BBA都会抬杆的更加果断。",
+          "note": "BBA"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "现场低密→反常识中密→浪漫拔高中密→三分喻与比价高密→logo机制高密→魔幻低密收。",
+      "patterns": [
+        "现场低",
+        "浪漫中",
+        "比价高",
+        "logo高",
+        "魔幻低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "最近去了趟海南，发现免税商城里始祖鸟门店排队的茫茫多，和隔壁几个品牌比，真就是冰",
+          "note": "排队"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这是世界上最浪漫的事，因为人类的赞歌就是勇气的赞歌。",
+          "note": "赞歌"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "爱马仕随便一件男士运动衫，就很普通很普通的那种，价格看了都得让你挠头。",
+          "note": "爱马仕价格"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。",
+          "note": "500块"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "这就是，魔幻的世界。",
+          "note": "魔幻"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现场→性价比悖论→对比鹅→装大的→共识→浪漫→三分品牌→比爱马仕→附加值→logo诚实。",
+      "patterns": [
+        "悖论对比",
+        "共识浪漫",
+        "比价logo"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "性价比"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "始祖鸟作为户外公认的天花板，这个领域的品牌赛亚人，卖到现在的价格，大部分产品还没",
+          "note": "比鹅"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "它已经形成了一个共识：你衣服上有这个logo，别人就知道你也是极限的爱好者。",
+          "note": "logo"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "买的就真的是那个logo。",
+          "note": "买logo"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毒舌消费评论员：敢说性价比与装X，又拔高到勇气赞歌，冷热切换利落。",
+      "patterns": [
+        "毒舌评论",
+        "冷热切换"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "装大的"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这是世界上最浪漫的事，因为人类的赞歌就是勇气的赞歌。",
+          "note": "勇气赞歌"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "买的就真的是那个logo。",
+          "note": "买的是logo"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "性价比；花小钱装大的；装了个寂寞；勇气赞歌；1/3苹果特斯拉保时捷；超过500买附加值；魔幻世界。",
+      "patterns": [
+        "性价比",
+        "装大的",
+        "装寂寞",
+        "勇气赞歌",
+        "三分喻",
+        "500附加值",
+        "魔幻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "性价比"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "装大的"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "没人认识，那不是装了个寂寞？",
+          "note": "装寂寞"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "因为，人类的赞歌，就是勇气的赞歌。",
+          "note": "勇气赞歌"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "关键是，它的品牌形象1/3像苹果，有大众共识。",
+          "note": "1/3苹果"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "衣服这种工业品，除了特定场景的特需订制品，单价超过500块买的就是附加值了。",
+          "note": "500块"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "这就是，魔幻的世界。",
+          "note": "魔幻"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反常识定价→对比→共识/浪漫→符号附加值的消费口播骨架锋利，观宇可直接改编品牌性价比选题。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "始祖鸟，充满了性价比。",
+          "note": "性价比"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "它能【 花小钱装大的 】。",
+          "note": "装大的"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "在贩卖顶级标签的同时，又真的从技术上是同品类最硬核的产品，最妙的是又不如其他顶级",
+          "note": "标签+硬核+没那么贵"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s7",
+    "s8",
+    "s11",
+    "s17",
+    "s19",
+    "s44",
+    "s53",
+    "s106",
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s107",
+    "s108",
+    "s109",
+    "s110"
+  ],
+  "fields_complete_25": true
+}

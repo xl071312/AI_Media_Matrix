@@ -1,0 +1,1787 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_Zw5teGECnKQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Zw5teGECnKQ",
+  "source_sha256": "f806af5ecba158c1f4a07805572696ba2cb14f61ebf2bfb16dd196a6499895e8",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 170,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "鼠片掉他能不能吃呢"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "你可能听说过一个非常荒谬"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 20,
+      "snippet": "他是在2017年一个人的演讲视频中活起来"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 18,
+      "snippet": "在我看来他的物理只有小学二年级的视频"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 11,
+      "snippet": "这次的脸主要有两种形状"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "乐视的元狐狸行还有屏"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "客的双曲泡面型"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "很容易就可以写出他们的方程"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "从历绝的角度讲"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "乐视的元狐狸行手段手"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "可能演等音力性列"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "列成两半"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "屏幕的手段就十分优秀"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "这是因为它在两个垂直方向上都更加难压"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "所以满行的结果在受到拉"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "都很迫痕"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 14,
+      "snippet": "下面我们来模拟手片掉掉的情况"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "夹射手片是无比建议的理想手片"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "其中一是属片的彈性模量"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "我还真查到的文显"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "有人测了不同产地的土豆"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "扎着的属片的口感"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "配合的影响音字之间有2"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "人家吃属片都能吃成博士"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "你都不就只学会的吃属片"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "单路参数输"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "很快我算出了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "属片和地面的接触面积"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "大概是2.2平方好米"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "最大压强只1.2万怕"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "再表面的帮助下"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "我用游戏温馨模拟出了"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "用混凝土豆的属片"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "在地上的硬力分布"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "可以看到在中心线上的压强"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "还是很大建议大家以后"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "还是要少吃混凝土做的属片"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 10,
+      "snippet": "现在我们已经算清楚的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "属片和地面的接触面体"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 12,
+      "snippet": "但还是没有解答我们的问题"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "属片掉地上究竟能不能吃呢"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "我们需要仔细观察"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "在微关世界里"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 14,
+      "snippet": "属片和地面之间究竟发生了什么"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "你可能会说"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "地板上的章东西怕它属片上面去了"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "地板上的章东西究竟是什么呢"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 7,
+      "snippet": "主要是你的皮皮"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "你的毛毛"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "你吃分的执展"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "你家里最脏的东西"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "其实就是你自己"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 7,
+      "snippet": "还有什么杀力啊"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 2,
+      "snippet": "花粉"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 2,
+      "snippet": "沉满"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 4,
+      "snippet": "细均等等"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "有时候地板上的章"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "远远不是一次"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 5,
+      "snippet": "有研究指出"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "只要你走进厕所"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "又走回到房间里"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "你的地板上就已经有史了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "那属片表面又是什么呢"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "在显微镜下"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 10,
+      "snippet": "它的表面有很多的骨泡"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "是一层多统书松结构"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 9,
+      "snippet": "那最外面是一层油脂"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 13,
+      "snippet": "非常容易吸附地板上的章东西"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 6,
+      "snippet": "奴隅先生说过"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "吃的掉到地上"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 11,
+      "snippet": "无缘以内减起来就还能吃"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 10,
+      "snippet": "这就是著名的无缘定律"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "甚至在动画预长当中"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "他们将这个定律修正为了三秒定律"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 3,
+      "snippet": "一刀子"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 2,
+      "snippet": "刷他"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 2,
+      "snippet": "一刺"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 10,
+      "snippet": "长丢路路的又脏丢路路"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "那么无秒定律对不对呢"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "我们来做一个实验"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 15,
+      "snippet": "我们用银光粉来磨你地上的章东西"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 13,
+      "snippet": "将三块署片分别掉在银光粉上"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 7,
+      "snippet": "第一块顺监拿起"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "第二块5秒后拿起"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 9,
+      "snippet": "第三块30秒后拿起"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 11,
+      "snippet": "观察署片变章发光的程度"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 13,
+      "snippet": "哇结果非常的Amazing"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 12,
+      "snippet": "三块署片都投定冒着的预光"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 17,
+      "snippet": "你以为这个银光最少的是顺监减起来的"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 9,
+      "snippet": "但它其实是30秒的"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 15,
+      "snippet": "你以为这个滚满银光的是30秒的"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 11,
+      "snippet": "但其实是我顺监捞起来的"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "所以不要再相信无秒定律了"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 11,
+      "snippet": "署片掉在地上变章的程度"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "和它掉下去的滋事"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "角度有赚"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "结束时间比例不重要"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "事实上分没有无秒定律"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 6,
+      "snippet": "贪吃的人多了"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 8,
+      "snippet": "也就有了无秒定律"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 17,
+      "snippet": "美国Tlamson大学做过一个实验"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 7,
+      "snippet": "把相长认在此专"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 7,
+      "snippet": "不同和地坦上面"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "看署伤寒沙梅市均"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 8,
+      "snippet": "爬到相长上的数量"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 4,
+      "snippet": "结束表明"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 7,
+      "snippet": "不管是哪种地面"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 11,
+      "snippet": "都不会均训无秒定律来爬"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 6,
+      "snippet": "几乎是一顺监"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 13,
+      "snippet": "你的相长就变成了一个相长军"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 12,
+      "snippet": "所以从视频安全的角度来讲"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 7,
+      "snippet": "掉在地上的食物"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 5,
+      "snippet": "咱就变迟了"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 14,
+      "snippet": "那如果我就硬吃下去会怎么样呢"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "其实不会怎么样"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 8,
+      "snippet": "信军没有那么可怕"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 7,
+      "snippet": "你说地板上有军"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 18,
+      "snippet": "但其实你的手机上现在就有100万的军"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 16,
+      "snippet": "你家的马桶托地上面也才10万的军"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 5,
+      "snippet": "有些小清流"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 9,
+      "snippet": "喜欢在打电话的时候"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 8,
+      "snippet": "对着手机深情一稳"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 9,
+      "snippet": "但简单算一下就知道"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "你清你对象一下"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 11,
+      "snippet": "就相当于清了10次马桶"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 9,
+      "snippet": "那为什么有这么多军"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 8,
+      "snippet": "你还活得好好的呢"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 10,
+      "snippet": "因为世界上大部分的军"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "都是有军"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 8,
+      "snippet": "而且你也有免疫力"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 7,
+      "snippet": "所以吃了也没事"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 7,
+      "snippet": "极其不走运的话"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 12,
+      "snippet": "你可能会一口咬掉半只满虫"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 7,
+      "snippet": "或者吃到炼球军"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 7,
+      "snippet": "金黄色撲到球军"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 2,
+      "snippet": "请玩"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 4,
+      "snippet": "不是个人"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 7,
+      "snippet": "然后就会拉肚子"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 10,
+      "snippet": "所以吃掉在地上的署片"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 11,
+      "snippet": "就像是背着女郭残私房前"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 11,
+      "snippet": "大管手不被发现的就没事"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 9,
+      "snippet": "但万一你其差别发现"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 8,
+      "snippet": "不过这也是夜好事"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 8,
+      "snippet": "因为人体的免疫力"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 10,
+      "snippet": "可以通过后天训练增强"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 13,
+      "snippet": "长期生活在干净还进中的儿童"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 6,
+      "snippet": "有更大的概率"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 7,
+      "snippet": "过敏或者得效传"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 14,
+      "snippet": "我家的狗子从小就在吐力跑去的"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 4,
+      "snippet": "啥事没有"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 12,
+      "snippet": "如果你吃了带军的署片之后"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 9,
+      "snippet": "拉肚子并且活了下来"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 5,
+      "snippet": "那你会变强"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 9,
+      "snippet": "年轻大学的研究发现"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 6,
+      "snippet": "例如5秒定律"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 17,
+      "snippet": "让孩子们把掉在地上的15点起来撤了"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 9,
+      "snippet": "既可以减少15老费"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 11,
+      "snippet": "也可以提升孩子的免疫力"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 10,
+      "snippet": "所以如果你有兴趣的话"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 11,
+      "snippet": "其实这些把署片认在地上"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 9,
+      "snippet": "吃掉拉肚子再扔再吃"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 8,
+      "snippet": "反复自我训练几次"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 9,
+      "snippet": "以后掉在地上的署片"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 8,
+      "snippet": "你就可以随便吃了"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 8,
+      "snippet": "不敢不进吃了美币"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 8,
+      "snippet": "我我能呢万手无奖"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 9,
+      "snippet": "总之杀不死你的署片"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 8,
+      "snippet": "只会失你变得更强"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 12,
+      "snippet": "而人生有何 何强不是这样"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 13,
+      "snippet": "每次错觉就像掉在地上的署片"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "直问薯片掉地能不能吃，嘲「五秒定律」小学物理级荒谬，转入曲面力学建模。",
+      "patterns": [
+        "生活问题直问",
+        "嘲谣言开场",
+        "切力学模型"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "鼠片掉他能不能吃呢",
+          "note": "掉地能不能吃"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "你可能听说过一个非常荒谬",
+          "note": "非常荒谬"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "在我看来他的物理只有小学二年级的视频",
+          "note": "小学二年级"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "薯片几何受力→接触面积压强→微观脏东西油脂吸附→荧光粉实验否五秒→脏度看姿势角度→免疫训练反转收束。",
+      "patterns": [
+        "力学接触",
+        "微观吸附",
+        "实验打脸五秒",
+        "姿势>时间",
+        "免疫反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "属片和地面的接触面积",
+          "note": "接触面积"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "非常容易吸附地板上的章东西",
+          "note": "油脂吸附"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "所以不要再相信无秒定律了",
+          "note": "不要相信五秒"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "结束时间比例不重要",
+          "note": "时间不重要"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "杀不死你的薯片"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "geo_mechanics",
+          "note": "问题+薯片曲面形状力学"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "contact_calc",
+          "note": "理想薯片模拟接触面积压强仍未回答能不能吃"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "micro_dirt_myth",
+          "note": "微观脏东西+五秒定律出处"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105"
+          ],
+          "function": "glow_experiment",
+          "note": "荧光粉实验打脸+姿势角度结论"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168",
+            "s169",
+            "s170"
+          ],
+          "function": "immune_twist_close",
+          "note": "免疫训练黑色幽默收束人生隐喻"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「下面我们来模拟」「但还是没有解答」「我们来做一个实验」「所以不要再相信」推进。",
+      "patterns": [
+        "模拟转段",
+        "未解答再挖",
+        "实验转段",
+        "所以否决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "下面我们来模拟手片掉掉的情况",
+          "note": "下面模拟"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但还是没有解答我们的问题",
+          "note": "还没有解答"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "我们来做一个实验",
+          "note": "做一个实验"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "所以不要再相信无秒定律了",
+          "note": "不要再相信"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "元弧形vs双曲泡面抗压；以为荧光少=捡得快其实是30秒；五秒神话vs姿势决定论。",
+      "patterns": [
+        "形状抗压对照",
+        "预期/结果对调",
+        "时间神话/姿势现实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "屏幕的手段就十分优秀",
+          "note": "双曲更优秀"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "你以为这个银光最少的是顺监减起来的",
+          "note": "以为最少是瞬间"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "但它其实是30秒的",
+          "note": "其实是30秒"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "结束时间比例不重要",
+          "note": "时间不重要"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题式「能不能吃」贯穿；「地板脏东西是什么」微观追问；「五秒对不对」实验设问。",
+      "patterns": [
+        "核心反复问",
+        "微观追问",
+        "定律检验问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "属片掉地上究竟能不能吃呢",
+          "note": "究竟能不能吃"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "地板上的章东西究竟是什么呢",
+          "note": "脏东西是什么"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "那么无秒定律对不对呢",
+          "note": "五秒对不对"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "土豆薯片口感论文、混凝土薯片模拟、荧光粉三块对照、狗子土里跑、大学细菌实验。",
+      "patterns": [
+        "论文彩蛋",
+        "夸张模拟",
+        "三块对照实验",
+        "生活宠物例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "人家吃属片都能吃成博士",
+          "note": "吃成博士"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "还是要少吃混凝土做的属片",
+          "note": "少吃混凝土薯片"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "将三块署片分别掉在银光粉上",
+          "note": "三块分别掉"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "我家的狗子从小就在吐力跑去的",
+          "note": "狗子土里跑"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象「能不能吃」→2.2平方毫米接触与1.2万帕；定律→银光粉发光程度可视化。",
+      "patterns": [
+        "问题→接触面积数字",
+        "定律→荧光可视化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "大概是2.2平方好米",
+          "note": "2.2平方毫米"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "最大压强只1.2万怕",
+          "note": "1.2万帕"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "观察署片变章发光的程度",
+          "note": "变脏发光程度"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言物理小学级荒谬、不要再信五秒、事实上没有五秒定律、杀不死你的薯片使你更强。",
+      "patterns": [
+        "荒谬断语",
+        "否定律",
+        "尼采式收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "在我看来他的物理只有小学二年级的视频",
+          "note": "小学二年级"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "所以不要再相信无秒定律了",
+          "note": "不要再相信"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "事实上分没有无秒定律",
+          "note": "并没有五秒定律"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "变得更强"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "标题自称打脸；算清接触仍说没解答核心问题；实验后对调「以为/其实」预期。",
+      "patterns": [
+        "自称打脸",
+        "计算未完再挖",
+        "预期对调纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "但还是没有解答我们的问题",
+          "note": "还没有解答"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "你以为这个银光最少的是顺监减起来的",
+          "note": "你以为"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "但它其实是30秒的",
+          "note": "但它其实是"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "问题短问→公式参数连打→实验三段加速→免疫反转长句→人生金句顿住。",
+      "patterns": [
+        "短问",
+        "参数连打",
+        "实验加速",
+        "反转长句",
+        "金句顿住"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "鼠片掉他能不能吃呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "属片和地面的接触面积",
+          "note": "接触面积"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "哇结果非常的Amazing",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "每次错觉就像掉在地上的署片",
+          "note": "人生隐喻"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "你可能会说"
+        },
+        {
+          "type": "discourse",
+          "form": "哇"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "我我能呢"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "你可能会说",
+          "note": "你可能会说"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "哇结果非常的Amazing",
+          "note": "哇结果Amazing"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "我我能呢万手无奖",
+          "note": "我我能呢口误"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽谣言→极客认真算→实验惊喜反转→黑色幽默免疫→励志冷幽默收。",
+      "patterns": [
+        "嘲讽→认真→惊喜→黑幽→励志"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "在我看来他的物理只有小学二年级的视频",
+          "note": "嘲小学物理"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "很快我算出了",
+          "note": "很快算出"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "哇结果非常的Amazing",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "更强"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从能不能吃绕回「人生每次挫折像掉地薯片」，把科学结论升格人生隐喻。",
+      "patterns": [
+        "科学→人生闭环",
+        "挫折薯片喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "属片掉地上究竟能不能吃呢",
+          "note": "能不能吃"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "而人生有何 何强不是这样",
+          "note": "人生何尝不是"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "每次错觉就像掉在地上的署片",
+          "note": "错觉像薯片"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「如果你有兴趣」邀请自我训练玩笑，无硬关注；偏分享实验精神。",
+      "patterns": [
+        "兴趣邀请",
+        "玩笑训练CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s159",
+          "snippet": "所以如果你有兴趣的话",
+          "note": "如果你有兴趣"
+        },
+        {
+          "sentence_id": "s162",
+          "snippet": "反复自我训练几次",
+          "note": "反复自我训练"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "混凝土薯片玩笑、皮皮毛毛、Amazing中英混、杀不死你尼采梗，ASR错字本身也显人声。",
+      "patterns": [
+        "混凝土玩笑",
+        "皮皮毛毛",
+        "中英Amazing",
+        "尼采改写"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "还是要少吃混凝土做的属片",
+          "note": "混凝土薯片"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "主要是你的皮皮",
+          "note": "皮皮"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "哇结果非常的Amazing",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "杀不死你"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重错字（属片/鼠片/章东西）；中段句子窗口跳跃；免疫训练建议易被误读为鼓励吃脏。",
+      "patterns": [
+        "ASR噪声",
+        "窗口跳跃",
+        "黑幽误读风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "鼠片掉他能不能吃呢",
+          "note": "鼠片错识"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "是一层多统书松结构",
+          "note": "窗口跳号"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "吃掉拉肚子再扔再吃",
+          "note": "拉肚子再吃"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开「先算接触仍不够→再看微观→做荧光实验→改判时间无关」的完整解题路径。",
+      "patterns": [
+        "分层求解",
+        "实验改判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "但还是没有解答我们的问题",
+          "note": "还没解答"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "属片和地面之间究竟发生了什么",
+          "note": "究竟发生了什么"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "结束时间比例不重要",
+          "note": "时间比例不重要"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当既想听八卦又跟得上公式的理科同事，用「人家吃成博士你呢」轻度损友。",
+      "patterns": [
+        "理科同事",
+        "损友对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "人家吃属片都能吃成博士",
+          "note": "吃成博士"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "你都不就只学会的吃属片",
+          "note": "你都只学会吃"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2.2mm²、1.2万Pa、0/5/30秒三块荧光、克莱姆森大学实验（ASR作Tlamson）。",
+      "patterns": [
+        "面积压强数字",
+        "三时点实验",
+        "大学实验名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "大概是2.2平方好米",
+          "note": "2.2平方"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "第二块5秒后拿起",
+          "note": "5秒后"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "美国Tlamson大学做过一个实验",
+          "note": "大学实验"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密问题→力学参数高密→微观中密→实验叙事峰→免疫段降密金句。",
+      "patterns": [
+        "问题低",
+        "力学高",
+        "实验峰",
+        "金句降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "鼠片掉他能不能吃呢",
+          "note": "问题"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "最大压强只1.2万怕",
+          "note": "压强"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "三块署片都投定冒着的预光",
+          "note": "三块都发光"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "只会失你变得更强",
+          "note": "变得更强"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问与算式短句交错，「你以为…但其实…」对仗句推进反转。",
+      "patterns": [
+        "设问/算式交错",
+        "以为/其实对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "属片掉地上究竟能不能吃呢",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "你以为这个银光最少的是顺监减起来的",
+          "note": "你以为"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "但其实是我顺监捞起来的",
+          "note": "但其实是瞬间"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式科学打假：公式认真、结论敢浪，标题自嘲打脸。",
+      "patterns": [
+        "认真浪",
+        "自嘲打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我还真查到的文显",
+          "note": "真查到文献"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "尼采式浪收"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「混凝土薯片」「不要再信五秒」「杀不死你的薯片只会让你更强」。",
+      "patterns": [
+        "混凝土薯片",
+        "否五秒",
+        "尼采薯片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "还是要少吃混凝土做的属片",
+          "note": "混凝土"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "所以不要再相信无秒定律了",
+          "note": "不要相信"
+        },
+        {
+          "sentence_id": "s167",
+          "snippet": "总之杀不死你的署片",
+          "note": "更强"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "生活谣言→分层建模→实验打脸→人生升格的结构可迁移，但ASR与「吃脏变强」话术需观宇重写安全边界。",
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "但还是没有解答我们的问题",
+          "note": "分层未完再挖"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "所以不要再相信无秒定律了",
+          "note": "实验否定律"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "每次错觉就像掉在地上的署片",
+          "note": "人生升格"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s28",
+    "s68",
+    "s93",
+    "s97",
+    "s167",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s66",
+    "s67",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s94",
+    "s95",
+    "s96",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s160",
+    "s161",
+    "s162",
+    "s163",
+    "s164",
+    "s165",
+    "s166",
+    "s168",
+    "s169",
+    "s170"
+  ],
+  "fields_complete_25": true
+}

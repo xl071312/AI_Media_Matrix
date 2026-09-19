@@ -1,0 +1,894 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_hZJrS7HNPaI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=hZJrS7HNPaI",
+  "source_sha256": "ecefe0e2b97d8fd6f0a5fa9caa272694bac7424ea3c6cb1a12af2bf2d4a0058b",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 35,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 6,
+      "snippet": "下面四个声音"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "三个是乐器"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "一个是放屁"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "你能分出哪个是放屁吗"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "天下乐器千百种"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "你绝对猜不到什么乐器"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "听起来最像人们排放费器的声音"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "市民结尾科"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 4,
+      "snippet": "节小答案"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 13,
+      "snippet": "有人说是有屁滴之稱的卡组笔"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 12,
+      "snippet": "有人说是优务完屁的巴松管"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "甚至还有硬和读书打屁股"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "是真的屁股"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "1000个读者有一千种屁声"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "但研究人员分析了大量屁的屁股发现"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 14,
+      "snippet": "屁屏集中在200秒400Hz"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "在20060Hz幅进入图处的风格"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "比如这两个屁听着大不相同"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "但主屁是相似的"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "从节奏上讲"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "人体的支撑很像一根吹广乐器"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "而我们小时按钮学过"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "一端封闭的吹广乐器"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 18,
+      "snippet": "动证频率满足F的NV-4个L的免私地"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "正式这个方程"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 17,
+      "snippet": "决定了人类的屁临高通常接进行UAC"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "当N取击股时"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "屁的击死屁股频率的泛音"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "也专屁的音色更加丰富后重"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 17,
+      "snippet": "比如这是一个屁和它的两根美丘的泛音"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "把屁的频率对照吹幼乐器的屁股"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "可以分析出"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "所以像屁的乐器"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "应该是自中音长号"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "现在你知道该学什么乐器了吗"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "四选一听力挑战：三乐器一放屁，问你能否分出哪个是放屁。",
+      "patterns": [
+        "听力挑战钩",
+        "三真一假"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "下面四个声音",
+          "note": "四个声音"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "一个是放屁",
+          "note": "一个是放屁"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "分出哪个"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "众猜卡祖笛/巴松/真屁股→研究频谱200-400Hz→人体似闭管吹奏→f=nV/4L决定音高→奇次泛音丰音色→对照结论中音长号最像→该学什么乐器收。",
+      "patterns": [
+        "众猜",
+        "频谱区间",
+        "闭管模型",
+        "方程",
+        "长号结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "卡组笔/卡祖笛"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "200到400Hz"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "人体的支撑很像一根吹广乐器",
+          "note": "吹管乐器"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "F=nV/4L"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "中音长号"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "quiz_guesses",
+          "note": "挑战与众猜"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "spectrum_model",
+          "note": "频谱与闭管泛音"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "conclude_cta",
+          "note": "长号结论与学乐器暗示"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但研究人员」「从节奏上讲」「正式这个方程」「所以」推进。",
+      "patterns": [
+        "但研究人员",
+        "从节奏上",
+        "所以"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "但研究人员分析了大量屁的屁股发现",
+          "note": "但研究人员"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "从节奏上讲",
+          "note": "从节奏上"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "正式这个方程",
+          "note": "正式这个方程"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "可以分析出",
+          "note": "可以分析出"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "听感大不相同 vs 主频相似；千人千屁 vs 频谱集中带；常识乐器候选 vs 物理推导长号。",
+      "patterns": [
+        "听感vs主频",
+        "众猜vs推导"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "比如这两个屁听着大不相同",
+          "note": "大不相同"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但主屁是相似的",
+          "note": "主屁相似"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "1000个读者有一千种屁声",
+          "note": "一千种屁声"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "中音长号"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开篇挑战问；收尾「现在你知道该学什么乐器了吗」反转CTA问。",
+      "patterns": [
+        "挑战问",
+        "学乐器反转问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "分出哪个"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "该学什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "列举卡祖笛/巴松/打屁股候选；「这两个屁」听感对比；「一个屁和两根泛音」演示。",
+      "patterns": [
+        "候选列举",
+        "双屁对比",
+        "泛音演示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "卡祖笛"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "有人说是优务完屁的巴松管",
+          "note": "巴松"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "比如这两个屁听着大不相同",
+          "note": "两个屁"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "比如这是一个屁和它的两根美丘的泛音",
+          "note": "泛音"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "闭管理论落到具体频率公式与200-400Hz；结论落到中音长号。",
+      "patterns": [
+        "Hz区间",
+        "公式",
+        "长号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "200400Hz"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「你绝对猜不到」；「所以像屁的乐器应该是中音长号」斩钉结论。",
+      "patterns": [
+        "绝对猜不到",
+        "应该是长号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你绝对猜不到什么乐器",
+          "note": "绝对猜不到"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "应该是长号"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "铺陈错误候选后用研究数据纠偏；ASR混乱下仍保留「是真的屁股」澄清。",
+      "patterns": [
+        "候选纠偏",
+        "真屁股澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "是真的屁股",
+          "note": "是真的屁股"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "但研究人员分析了大量屁的屁股发现",
+          "note": "研究人员分析"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "挑战短句→候选列举中速→频谱公式加密→结论短刺→反问收。",
+      "patterns": [
+        "挑战短",
+        "公式密",
+        "结论刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "挑战短"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式密"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "结论刺"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "下面"
+        },
+        {
+          "type": "discourse",
+          "form": "但"
+        },
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "repair_like",
+          "form": "是真的屁股"
+        },
+        {
+          "type": "list_marker",
+          "form": "有人说"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "下面四个声音",
+          "note": "下面"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "但研究人员分析了大量屁的屁股发现",
+          "note": "但研究"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以像屁的乐器",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "是真的屁股",
+          "note": "是真的屁股"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "有人说"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "戏谑好奇→候选哄笑→研究认真→公式炫技→长号顿悟→轻挑衅收。",
+      "patterns": [
+        "哄笑",
+        "顿悟",
+        "轻挑衅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "甚至还有硬和读书打屁股",
+          "note": "打屁股哄"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号顿悟"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "该学什么"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇分不清放屁与乐器，收于知道最像的是中音长号并反问该学什么。",
+      "patterns": [
+        "辨声到选型"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "分出放屁"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "学什么"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "反问式软CTA「该学什么乐器了吗」，暗示订阅/思考非显式关注。",
+      "patterns": [
+        "反问软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "该学什么"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "三真一假游戏、卡祖笛外号、一千种屁声、闭管公式与长号冷门结论。",
+      "patterns": [
+        "听力游戏",
+        "外号",
+        "冷门长号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "游戏"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "卡祖笛称"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重（费器/市民结尾科等）；频谱表述含混；样本量与文献未给。",
+      "patterns": [
+        "ASR失真",
+        "文献缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "听起来最像人们排放费器的声音",
+          "note": "费器讹"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "秒/Hz含混"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "但研究人员分析了大量屁的屁股发现",
+          "note": "研究人员无出处"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从听感众猜→频谱测量→物理建模→乐器对照的推导链。",
+      "patterns": [
+        "猜到测到建模"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "众猜"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "频谱"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "方程"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "可以分析出",
+          "note": "对照分析"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当答题者与潜在学乐器的人，用「你能分出」「你知道」直呼。",
+      "patterns": [
+        "答题者",
+        "潜在学习者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "你能分出"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "你知道该学"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "200-400Hz、闭管F=nV/4L、奇次泛音、中音长号、卡祖笛/巴松候选。",
+      "patterns": [
+        "Hz",
+        "公式",
+        "长号",
+        "候选"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "Hz"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "游戏低密→候选中密→频谱公式高密→结论低密。",
+      "patterns": [
+        "公式峰值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "峰值"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "现在你知道该学什么乐器了吗",
+          "note": "低密收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "祈使挑战→列举→转折研究→公式插入→所以结论→反问。",
+      "patterns": [
+        "列举到公式",
+        "所以结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "有人说是有屁滴之稱的卡组笔",
+          "note": "列举"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以像屁的乐器",
+          "note": "所以像屁"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "恶趣味理工科普：用屁做声学入口，结论一本正经。",
+      "patterns": [
+        "恶趣味入口",
+        "一本正经结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "一个是放屁",
+          "note": "放屁"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号正经"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "三乐器一屁、200-400Hz、闭管公式、中音长号。",
+      "patterns": [
+        "三加一",
+        "Hz带",
+        "公式",
+        "长号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "三加一"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "屁屏集中在200秒400Hz",
+          "note": "Hz"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "挑战听音→数据→模型→反直觉结论骨架适合观宇趣味理科，需清洁转写并补文献。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "你能分出哪个是放屁吗",
+          "note": "挑战"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "动证频率满足F的NV-4个L的免私地",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "应该是自中音长号",
+          "note": "长号"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s4",
+    "s10",
+    "s16",
+    "s21",
+    "s24",
+    "s34",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35"
+  ],
+  "fields_complete_25": true
+}

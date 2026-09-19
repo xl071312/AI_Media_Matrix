@@ -1,0 +1,1326 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_AzmfXWA6Eqg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=AzmfXWA6Eqg",
+  "source_sha256": "bb21c00485c20b2f482834c671684442d4fc8fd6c5f5d450fa1034fc319a6a52",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 90,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 11,
+      "snippet": "哎呀 看都快要發脾氣啊"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "不然又會選啊"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "就在剛剛二年二歲那邊"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "化學校頒舉了這三位"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "不要讓他們在計算"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "蛋白質設計和蛋白質結構預設"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "方的那種顯"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "你可能想問"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "這和AI有啥關係"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "看完這期視頻你就懂了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "我們小學二年紀有知道"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "蛋白質是有安計算構成的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "但不是安計算串一串就能蛋白質"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "它還得折疊成這種外氣有關的三位結構"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "一個沒著對共同權作廢"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 15,
+      "snippet": "所以搞清楚蛋白質決定結構很重要"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "之前的學術界一般用什麼"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 17,
+      "snippet": "X 洗淨清液、顏色、冷漠電機、核子"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "共自然這些方法"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "但這些東西又賣給對"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "想用意還得排隊"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "而這次弄講對的一個關鍵的不果"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "叫做R4 Fold"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "一種用AI預測"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "蛋白質決定結構的技術"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "未來的方向"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "果然是舉個疊呀"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "搖搖力淺"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "沒聽過R4 Fold"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 13,
+      "snippet": "但是R4 Go你肯定聽說過"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "這兩R4是一家的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "都是一一賣的公司"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 17,
+      "snippet": "剛德諾講這位Jone Jumper"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "是這家公司的高級客戶家"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "也是R4的一座"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 18,
+      "snippet": "而這位Demis Hassabies"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "是這家公司的創始人家C.O"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 14,
+      "snippet": "算是R4 Fold的通訊作成"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "一家公司出了的亞諾獎"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "這下員工不得卡卡掌心"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "在2018年的第13節"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 11,
+      "snippet": "蛋白質決定預測競賽裡面"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 16,
+      "snippet": "R4 Fold的基金次左逆跑而火"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "而且這開始是最初的初單元"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "到了這次德諾獎的二代目"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "已經預測出的地球上"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 12,
+      "snippet": "超過了兩億種的蛋白質決定"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "想知道什麼蛋白質"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "直接就能查出來"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "簡直是生化客人狗的福音"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "不一定也只能是天堂"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 13,
+      "snippet": "不過知道蛋白質決定能幹啥呢"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "可以坐沒坐要坐一秒"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "弄出很多了"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 11,
+      "snippet": "加碎了你是個要學研究生"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "你小研究一個短太坐要"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 11,
+      "snippet": "需要這受提蛋白結合起效"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 9,
+      "snippet": "十幾個未點急事實上"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "即算任你改造"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 10,
+      "snippet": "你這不是就等著嚴密吧"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "但現在有了AI"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 14,
+      "snippet": "直接預測蛋白質決定和消護作用"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 9,
+      "snippet": "大大接受你的工作料"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "而且創新點就不就來了"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 9,
+      "snippet": "這次化學獎的另一半"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 13,
+      "snippet": "卻了David Baker"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 11,
+      "snippet": "他在1998年市的算法"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "Rosetta"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 13,
+      "snippet": "不僅能預測蛋白質的三位結合"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 4,
+      "snippet": "經過改進"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 12,
+      "snippet": "還能用來設計全新的蛋白質"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 5,
+      "snippet": "2003年"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 11,
+      "snippet": "他從頭設計造出了世界上"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "第一個全新的蛋白質套,機"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 11,
+      "snippet": "別人是預測以有的蛋白質"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 7,
+      "snippet": "他直接造全新的"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "相當於大家都在對著鳥"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "學怎麼飛的年代"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "他學會的空氣度的學"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "然後直接手措了低下飛機"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "這個諾威爾獎法的不虧"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 6,
+      "snippet": "昨天的物理獎"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 10,
+      "snippet": "搬著AI我還有點東西"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "看完了今天的化學獎"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 3,
+      "snippet": "我誤了"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 4,
+      "snippet": "中昌AI"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 13,
+      "snippet": "諾威爾又一次脫完了他的定義"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 3,
+      "snippet": "試試後"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 14,
+      "snippet": "由AI把所有的影片都重做一次"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "說不定明年諾威爾就是你呢"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "刚怒物理奖又是AI的情绪残留开场，化学奖三人揭晓并预告和AI关系。",
+      "patterns": [
+        "怒气残留钩",
+        "这和AI有啥关系"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "看都快要發脾氣啊"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "這和AI有啥關係"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "蛋白要折叠→传统实验贵慢→AlphaFold预测→DeepMind同源→Baker设计新蛋白→诺奖重定义AI收。",
+      "patterns": [
+        "折叠必要",
+        "传统瓶颈",
+        "AlphaFold",
+        "DeepMind同源",
+        "Baker造新蛋白",
+        "诺奖重定义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "它還得折疊成這種外氣有關的三位結構",
+          "note": "折疊成三維結構"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但這些東西又賣給對",
+          "note": "又慢又貴"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "一種用AI預測",
+          "note": "用AI預測"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "這兩R4是一家的",
+          "note": "這兩R4是一家的"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "還能用來設計全新的蛋白質",
+          "note": "設計全新的蛋白質"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "諾威爾又一次脫完了他的定義",
+          "note": "脫完了他的定義"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "hook_ai_anger",
+          "note": "怒气+预告AI关系"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "why_structure",
+          "note": "折叠重要与传统方法瓶颈"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "alphafold_story",
+          "note": "AlphaFold/Go/DeepMind与两亿结构"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80"
+          ],
+          "function": "baker_design",
+          "note": "药研场景+Baker造新蛋白比喻"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90"
+          ],
+          "function": "meta_close",
+          "note": "诺奖被AI重定义+转码玩笑"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "你可能想问/看完就懂/不过能干啥/别人预测他造新的推进。",
+      "patterns": [
+        "你可能想问",
+        "看完就懂",
+        "不过能干啥",
+        "别人vs他"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你可能想問",
+          "note": "你可能想問"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "看完這期視頻你就懂了",
+          "note": "看完這期視頻你就懂了"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "不過知道蛋白質決定能幹啥呢",
+          "note": "不過知道蛋白質決定能幹啥呢"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "別人是預測以有的蛋白質",
+          "note": "別人是預測已有的"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "传统实验排队 vs AI秒查；预测已有 vs 从头设计；学鸟飞 vs 造飞机。",
+      "patterns": [
+        "实验vsAI",
+        "预测vs设计",
+        "学鸟vs造飞机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "想用意還得排隊",
+          "note": "想用意還得排隊"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "直接就能查出來",
+          "note": "直接就能查出來"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "他直接造全新的",
+          "note": "他直接造全新的"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "直接手搓了架飛機"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "和AI有啥关系/之前用什么/能干啥/药学研究生场景设问。",
+      "patterns": [
+        "AI关系问",
+        "之前方法问",
+        "能干啥",
+        "研究生场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "這和AI有啥關係"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "之前的學術界一般用什麼",
+          "note": "之前的學術界一般用什麼"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "不過知道蛋白質決定能幹啥呢",
+          "note": "能幹啥呢"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "加碎了你是個要學研究生",
+          "note": "你是個藥學研究生"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "AlphaGo亲属、CASP竞赛、两亿结构库、药靶结合、Rosetta与Top7。",
+      "patterns": [
+        "AlphaGo亲属",
+        "CASP跑赢",
+        "两亿库",
+        "药研场景",
+        "造飞机喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "但是R4 Go你肯定聽說過",
+          "note": "R4 Go你肯定聽說過"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "R4 Fold的基金次左逆跑而火",
+          "note": "基金次左逆跑而火"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "超過了兩億種的蛋白質決定",
+          "note": "超過了兩億種"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "需要這受提蛋白結合起效",
+          "note": "需要這受提蛋白結合起效"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "手搓了架飛機"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "结构重要→氨基酸折叠；AI预测→两亿可查；设计能力→空气动力学造飞机。",
+      "patterns": [
+        "重要→折叠",
+        "预测→两亿库",
+        "设计→造飞机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "它還得折疊成這種外氣有關的三位結構",
+          "note": "折疊成三維結構"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "超過了兩億種的蛋白質決定",
+          "note": "兩億種蛋白質"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "他學會的空氣度的學",
+          "note": "空氣動力學"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "果然卷啊、员工咔咔涨薪、生化狗福音、诺奖不亏、我悟了。",
+      "patterns": [
+        "卷啊",
+        "涨薪玩笑",
+        "福音天堂",
+        "诺奖不亏",
+        "我悟了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "果然是舉個疊呀",
+          "note": "果然是卷疊呀"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這下員工不得卡卡掌心",
+          "note": "員工不得卡卡掌心"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "簡直是生化客人狗的福音",
+          "note": "生化客人狗的福音"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我誤了",
+          "note": "我誤了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "昨天物理奖对AI还有保留，今天化学奖后改口我悟了中场AI。",
+      "patterns": [
+        "物理保留→化学悟了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s83",
+          "snippet": "搬著AI我還有點東西",
+          "note": "搬著AI我還有點東西"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我誤了",
+          "note": "我誤了"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "中昌AI",
+          "note": "中昌AI"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "怒气短句→科普中速→人名机构列举→比喻加速→元评论收束。",
+      "patterns": [
+        "怒气短",
+        "科普中",
+        "列举",
+        "比喻加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "快發脾氣"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它還得折疊成這種外氣有關的三位結構",
+          "note": "折疊結構"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "剛德諾講這位Jone Jumper",
+          "note": "Jone Jumper"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "手搓飛機"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "interjection",
+          "form": "哎呀"
+        },
+        {
+          "type": "discourse",
+          "form": "你可能想问"
+        },
+        {
+          "type": "filler_like",
+          "form": "不过"
+        },
+        {
+          "type": "self_repair_tone",
+          "form": "我悟了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "哎呀看都快要"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "你可能想問",
+          "note": "你可能想問"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "不過知道蛋白質決定能幹啥呢",
+          "note": "不過知道"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我誤了",
+          "note": "我誤了"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "怒→好奇解惑→崇敬技术→药研共情→顿悟玩笑收。",
+      "patterns": [
+        "怒",
+        "解惑",
+        "崇敬",
+        "共情",
+        "顿悟玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "發脾氣"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "看完這期視頻你就懂了",
+          "note": "你就懂了"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "超過了兩億種的蛋白質決定",
+          "note": "兩億種"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "你這不是就等著嚴密吧",
+          "note": "等著嚴密吧"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我誤了",
+          "note": "我誤了"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣AI占领诺奖，用转码/明年诺奖是你玩笑闭环。",
+      "patterns": [
+        "AI重定义回扣",
+        "转码玩笑闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s87",
+          "snippet": "諾威爾又一次脫完了他的定義",
+          "note": "脫完了他的定義"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "說不定明年諾威爾就是你呢",
+          "note": "明年諾威爾就是你呢"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：看完就懂预告+转码自嘲邀请，无硬关注口令。",
+      "patterns": [
+        "预告型弱CTA",
+        "转码玩笑邀请"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "看完這期視頻你就懂了",
+          "note": "看完這期視頻你就懂了"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "說不定明年諾威爾就是你呢",
+          "note": "明年諾威爾就是你呢"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR严重乱码中仍保留毕导口语节奏；药学研究生吐槽场景私密。",
+      "patterns": [
+        "研究生吐槽场景",
+        "AlphaGo亲属梗",
+        "手搓飞机喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "加碎了你是個要學研究生",
+          "note": "藥學研究生"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但是R4 Go你肯定聽說過",
+          "note": "R4 Go你肯定聽說過"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "手搓了架飛機"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真（R4Fold/安计算等），专名几乎不可读，削弱科普精度。",
+      "patterns": [
+        "ASR专名崩坏",
+        "部分句子不可读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "叫做R4 Fold",
+          "note": "叫做R4 Fold"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "蛋白質是有安計算構成的",
+          "note": "安計算構成"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "X 洗淨清液、顏色、冷漠電機、核子",
+          "note": "X洗淨清液乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先怒再问AI关系，补折叠课，再讲公司人物，再给药研痛点，最后升维评论诺奖。",
+      "patterns": [
+        "怒→问→补课→人物→痛点→升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "和AI有啥關係"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "所以搞清楚蛋白質決定結構很重要",
+          "note": "搞清楚結構很重要"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "不過知道蛋白質決定能幹啥呢",
+          "note": "能幹啥呢"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当怕错过热点的普通人，用小学就知道/你肯定听过降门槛。",
+      "patterns": [
+        "降门槛同学",
+        "研究生代入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我們小學二年紀有知道",
+          "note": "小學二年紀有知道"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但是R4 Go你肯定聽說過",
+          "note": "你肯定聽說過"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "加碎了你是個要學研究生",
+          "note": "你是個藥學研究生"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "AlphaFold、DeepMind、两亿结构、Rosetta、1998/2003、Jumper Hassabis Baker。",
+      "patterns": [
+        "AlphaFold",
+        "两亿",
+        "Rosetta",
+        "2003首个新蛋白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "叫做R4 Fold",
+          "note": "R4 Fold"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "超過了兩億種的蛋白質決定",
+          "note": "兩億種"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "Rosetta",
+          "note": "Rosetta"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "2003年",
+          "note": "2003年"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "情绪钩低→折叠课中→公司竞赛高峰→比喻降密→元评论低。",
+      "patterns": [
+        "钩低",
+        "课中",
+        "竞赛峰",
+        "比喻降",
+        "元评低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "發脾氣"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "它還得折疊成這種外氣有關的三位結構",
+          "note": "折疊"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "R4 Fold的基金次左逆跑而火",
+          "note": "競賽跑贏"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "飛機喻"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "說不定明年諾威爾就是你呢",
+          "note": "明年是你"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问短叹与专名长句交替，比喻段节奏突然变爽。",
+      "patterns": [
+        "短问",
+        "专名长句",
+        "比喻加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "有啥關係"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "剛德諾講這位Jone Jumper",
+          "note": "Jone Jumper長"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "相當於大家都在對著鳥",
+          "note": "對著鳥學怎麼飛"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科学时事吐槽毕导：怒诺奖被AI占领，又不得不服技术革命。",
+      "patterns": [
+        "怒又服",
+        "降维科普",
+        "转码自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "哎呀 看都快要發脾氣啊",
+          "note": "發脾氣"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "這個諾威爾獎法的不虧",
+          "note": "諾獎發的不虧"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "中昌AI",
+          "note": "中昌AI"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "又是AI、AlphaGo一家的、手搓飞机、诺奖重定义、转码。",
+      "patterns": [
+        "又是AI",
+        "一家的",
+        "手搓飞机",
+        "重定义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "和AI有啥關係"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "這兩R4是一家的",
+          "note": "是一家的"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "手搓飛機"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "諾威爾又一次脫完了他的定義",
+          "note": "脫完定義"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "情绪钩→门槛科普→公司叙事→应用痛点→升维金句，科技热点口播骨架完整可直接改编观宇。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這和AI有啥關係",
+          "note": "AI关系钩"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "一種用AI預測",
+          "note": "AI预测核心"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然後直接手措了低下飛機",
+          "note": "造飞机金句"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s9",
+    "s14",
+    "s20",
+    "s24",
+    "s31",
+    "s71",
+    "s87",
+    "s11",
+    "s26",
+    "s52",
+    "s81",
+    "s8",
+    "s10",
+    "s75",
+    "s21",
+    "s49",
+    "s76",
+    "s80",
+    "s17",
+    "s55",
+    "s30",
+    "s43",
+    "s47",
+    "s57",
+    "s79",
+    "s27",
+    "s40",
+    "s50",
+    "s85",
+    "s83",
+    "s86",
+    "s33",
+    "s60",
+    "s90",
+    "s23",
+    "s12",
+    "s18",
+    "s16",
+    "s68",
+    "s72",
+    "s77"
+  ],
+  "fields_complete_25": true
+}

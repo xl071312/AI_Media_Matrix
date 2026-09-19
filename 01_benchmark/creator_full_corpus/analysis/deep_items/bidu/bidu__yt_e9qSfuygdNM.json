@@ -1,0 +1,1112 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_e9qSfuygdNM",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=e9qSfuygdNM",
+  "source_sha256": "3db7b1e069c030109dccfb02fecbe35d125cfeefd9b77cdf8a1f1c3738fab1ef",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 65,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "别以为科学家很厉害"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "發個問題去非常簡單"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "找問一下這三個"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "就是發個問題"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "你怎麼"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "別給他"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "他也沒"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "為什麼還能不下"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "在這裡"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 20,
+      "snippet": "你們每天都通過局,局部向外界釋放大量氣體"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "但你知道他還可以新生氣體嗎"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "來自日本的無部位則教授"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "決定給大家的小刀、拉皮、開啟片點"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "他讓老鼠和豬都處在了缺點了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 18,
+      "snippet": "我們文榮姐大量�,氣和二氧化身的液體"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "注入豬和老鼠的職場中"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "發現他們不僅能一直快的生活"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "拆除了任何負責用"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "所以對很多呼吸衰竭的病例來說"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 13,
+      "snippet": "這種技術比大家熟悄的人工費"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "在亞克姆更能救命"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 2,
+      "snippet": "教授"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "最後教訓"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "恨將這項技術運用為了"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "而一招A4的後面也差不多"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "只能跟賽刀一樣"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "但最適合做到"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 15,
+      "snippet": "一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 15,
+      "snippet": "一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 29,
+      "snippet": "一開始,一開始,一開始-一開始 the next step"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 19,
+      "snippet": "一開始,一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 13,
+      "snippet": "現在是中心,最接近去的最佳"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 19,
+      "snippet": "一開始,一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 20,
+      "snippet": "-一開始,一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 15,
+      "snippet": "一開始,一開始,一開始,一開始"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 1,
+      "snippet": "一"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 25,
+      "snippet": "一開始, all over again,一開始,一"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "一開始,一開始,ist"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "一開始,一開始"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "也可能是"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 1,
+      "snippet": "在"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "把他壓緊"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "分個奶油"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 3,
+      "snippet": "all"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "要怎麼麻煩嗎"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 2,
+      "snippet": "不然"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 2,
+      "snippet": "不然"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "不然"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "還造一個牛"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 2,
+      "snippet": "熬魚"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "熬雞"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 4,
+      "snippet": "方便大家"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 8,
+      "snippet": "自己在家裡的測量"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 4,
+      "snippet": "自己買到"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 2,
+      "snippet": "料理"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "能頂住多手的意味"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 2,
+      "snippet": "為-"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 14,
+      "snippet": "為All Relic 的新手"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 3,
+      "snippet": "天分家"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 12,
+      "snippet": "不是真的會有人想測這個嗎"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "這邊文章"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 2,
+      "snippet": "文章"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "- 文章"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 10,
+      "snippet": "- 這邊文章- 文章"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用「别以为科学家很厉害」贬低开场，抛出肛门呼吸问题钩。",
+      "patterns": [
+        "贬低科学家钩",
+        "问题抛出"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "别以为科学家很厉害"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "就是發個問題",
+          "note": "就是发个问题"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "还可以吸入气体吗"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "局部可释放气体→也可吸入→日本教授猪鼠实验→缺氧下灌注含氧液体→比呼吸机更能救命→希望转临床→家用测量吐槽收。",
+      "patterns": [
+        "双向气体",
+        "动物实验",
+        "临床潜力",
+        "家用吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "你們每天都通過局,局部向外界釋放大量氣體",
+          "note": "通过局部释放大量气体"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "还可以吸入气体吗"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "來自日本的無部位則教授",
+          "note": "日本教授"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "他讓老鼠和豬都處在了缺點了",
+          "note": "老鼠和猪缺氧"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這種技術比大家熟悄的人工費",
+          "note": "比人工肺更能救命"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "不是真的会有人想测这个吗"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "hook_question",
+          "note": "贬低开场与肛门呼吸设问"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "animal_trial",
+          "note": "猪鼠实验与救命潜力"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "asr_noise_close",
+          "note": "ASR崩坏与家用吐槽残余"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "但你知道/所以对很多/最后/不然。",
+      "patterns": [
+        "但你知道转",
+        "所以对病例转",
+        "不然反复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "但你知道"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "所以對很多呼吸衰竭的病例來說",
+          "note": "所以对很多呼吸衰竭"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不然",
+          "note": "不然"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "只出气vs能进气；人工肺vs肛门灌注技术；严肃实验vs家用测量荒诞。",
+      "patterns": [
+        "出气/进气",
+        "人工肺/肛门技术",
+        "严肃/荒诞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "你們每天都通過局,局部向外界釋放大量氣體",
+          "note": "释放气体"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "吸入气体"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這種技術比大家熟悄的人工費",
+          "note": "比人工肺"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "自己在家裡的測量",
+          "note": "自己在家里测量"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题式「用肛门呼吸吗」；「不是真的会有人想测这个吗」吐槽问。",
+      "patterns": [
+        "标题钩问",
+        "吐槽反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "还可以吸入气体吗"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "不是真的会有人想测这个吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "老鼠和猪缺氧实验；灌注含氧液体维持生命。",
+      "patterns": [
+        "猪鼠实验例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "他讓老鼠和豬都處在了缺點了",
+          "note": "老鼠和猪"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "發現他們不僅能一直快的生活",
+          "note": "能继续活"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "救命技术落到猪鼠直肠灌注；家用落到买料理测。",
+      "patterns": [
+        "技术→灌注实验",
+        "家用→料理测量荒诞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "自己在家裡的測量",
+          "note": "自己在家里测量"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "料理",
+          "note": "料理"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "别以为科学家很厉害；比人工肺更能救命；不是真的会有人想测。",
+      "patterns": [
+        "贬低科学家",
+        "更能救命断",
+        "吐槽断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "别以为科学家很厉害"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "在亞克姆更能救命",
+          "note": "更能救命"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "不是真的会有人想测"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "ASR层大量「一开始」复读，难辨有意自我修正；可见「不然」重复修补意图。",
+      "patterns": [
+        "ASR复读掩盖修正",
+        "不然重复修补"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "一开始复读"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不然",
+          "note": "不然"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "不然",
+          "note": "不然"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前半科普短句尚清→后半ASR崩坏复读失控→吐槽问短暂回神。",
+      "patterns": [
+        "前清后崩",
+        "复读失控",
+        "吐槽回神"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "清晰设问"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "复读崩"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "吐槽回神"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "一开始"
+        },
+        {
+          "type": "repair_repeat",
+          "form": "不然"
+        },
+        {
+          "type": "discourse",
+          "form": "别以为"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "一开始复读"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "不然",
+          "note": "不然"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "别以为"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽→猎奇科学→救命严肃→ASR混乱烦躁→家用荒诞吐槽。",
+      "patterns": [
+        "嘲讽",
+        "猎奇",
+        "严肃",
+        "混乱",
+        "荒诞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "嘲讽"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "猎奇"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "在亞克姆更能救命",
+          "note": "严肃救命"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "混乱"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "荒诞吐槽"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场发问题/科学家到结尾「有人想测吗」把严肃题折成荒诞自测，弱闭环。",
+      "patterns": [
+        "问题开→自测吐槽收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "就是發個問題",
+          "note": "发个问题"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "有人想测这个吗"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无订阅CTA；以「有人想测吗」戏谑收。",
+      "patterns": [
+        "戏谑问代CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "不是真的会有人想测这个吗"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "贬低开场、肛门梗硬核、大量ASR复读与中英夹杂，非平滑AI腔。",
+      "patterns": [
+        "贬低开场",
+        "硬核梗",
+        "ASR复读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "别以为科学家很厉害"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一開始,一開始,一開始-一開始 the next step",
+          "note": "the next step"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "转录严重损坏后半；科学细节含混；家用段几乎不可读；证据链弱。",
+      "patterns": [
+        "ASR后半崩",
+        "细节含混",
+        "家用不可读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "一开始复读灾"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我們文榮姐大量�,氣和二氧化身的液體",
+          "note": "听写乱"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "- 這邊文章- 文章",
+          "note": "文章残片"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "露出「提问→动物实验→临床意义→荒诞应用」梗科普路径，后半被ASR切断。",
+      "patterns": [
+        "提问→实验→临床"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "他讓老鼠和豬都處在了缺點了",
+          "note": "动物实验"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "所以對很多呼吸衰竭的病例來說",
+          "note": "呼吸衰竭病例"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当看猎奇科学短视频的人，用贬低科学家拉近。",
+      "patterns": [
+        "猎奇短视频受众",
+        "贬低拉近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "别以为科学家很厉害"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "決定給大家的小刀、拉皮、開啟片點",
+          "note": "给大家开个脑洞"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "日本教授、老鼠和猪、直肠灌注、呼吸衰竭/人工肺对照。",
+      "patterns": [
+        "猪鼠锚",
+        "直肠灌注锚",
+        "人工肺对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "來自日本的無部位則教授",
+          "note": "日本教授"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "他讓老鼠和豬都處在了缺點了",
+          "note": "老鼠和猪"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這種技術比大家熟悄的人工費",
+          "note": "人工肺"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密嘲讽→实验中密→临床点高密→ASR噪声低信息→吐槽低密。",
+      "patterns": [
+        "实验中密",
+        "临床点高密",
+        "噪声低信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "实验中密"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "這種技術比大家熟悄的人工費",
+          "note": "临床高密"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "噪声低信息"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "前半短句连贯；后半复读碎片与英文插入打断。",
+      "patterns": [
+        "前短句",
+        "后复读碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "短句开"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "复读碎片"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一開始,一開始,一開始-一開始 the next step",
+          "note": "英文插入"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式猎奇科普：敢开肛门梗，前半清楚后半被坏字幕淹没。",
+      "patterns": [
+        "猎奇科普",
+        "坏字幕淹没"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "别以为科学家很厉害",
+          "note": "贬低科学家"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "吸入气体吗"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "想测吗吐槽"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "肛门呼吸、猪鼠灌注、比人工肺更能救命、有人想测吗。",
+      "patterns": [
+        "肛门呼吸",
+        "猪鼠灌注",
+        "想测吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "但你知道他還可以新生氣體嗎",
+          "note": "吸入气体"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "注入豬和老鼠的職場中",
+          "note": "注入直肠"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "在亞克姆更能救命",
+          "note": "更能救命"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "不是真的會有人想測這個嗎",
+          "note": "想测吗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "选题猎奇可用，但本窗口后半ASR崩坏、证据链不可靠，无法安全迁移观宇脚本。",
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "一開始,一開始,一開始,一開始",
+          "note": "复读灾"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我們文榮姐大量�,氣和二氧化身的液體",
+          "note": "听写乱"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "- 這邊文章- 文章",
+          "note": "残片收"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s11",
+    "s10",
+    "s12",
+    "s14",
+    "s16",
+    "s20",
+    "s61",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s13",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s62",
+    "s63",
+    "s64",
+    "s65"
+  ],
+  "fields_complete_25": true
+}

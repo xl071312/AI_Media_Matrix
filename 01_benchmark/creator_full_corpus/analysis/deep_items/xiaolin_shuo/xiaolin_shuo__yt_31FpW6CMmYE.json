@@ -1,0 +1,1479 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_31FpW6CMmYE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=31FpW6CMmYE",
+  "source_sha256": "02a91a78c1ad7c01462dc7187ffca8ad4a9709349b728fecdf787db0438365bb",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "嗨"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "朋友們"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "咱們今天來深度地剖析一下"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "全世界最有錢的這些政府"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "他們是怎麼管理自己的錢袋子"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "這些官方機構"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "他們哪來那麼多錢"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "各自是如何管理這動輒幾千億"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "甚至上萬億美元的財富"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "順便咱們來展開聊一聊"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "這裡邊有什麼投資邏輯"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "利益勾結"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "政府之間的關係等等"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "這個主權基金"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "簡單粗暴的理解"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "就是一些非常有錢的政府"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 9,
+      "snippet": "他們把閒錢湊在一起"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "設立的一個投資基金"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "我先聲明一下啊"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 16,
+      "snippet": "咱們今天聊到的所有基金的投資體量"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "排名基本上都是市場的預測"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "很多基金"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "它其實都是非常隱密"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "完全不透明的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "再加上這個基金的體量"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "也會隨著市場去波動"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "所以具體它是一萬億還是八千億"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "還是第三還是第四"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "大家也不用太較真"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 4,
+      "snippet": "廢話少說"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "咱們直接開始"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "第十名迪拜投資公司"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "管理資產約3,600億美元"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "不出所料"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "上來就來了個中東的基金"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 12,
+      "snippet": "迪拜這個我們之前聊過一期"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "他其實不是個國家"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "而是阿聯酋裡頭的一個酋長國"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "阿聯酋的政治結構"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "和中東其他國家不太一樣"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "是由7個酋長國組成"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "他們在財政上"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "幾乎可以說是完全獨立的"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "各自的石油收入呢"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "也都歸自己"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "而這7個酋長國裡頭"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 18,
+      "snippet": "最大的兩個就是阿布達比跟迪拜阿布達比"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "石油非常多非常有錢"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "這我們一會會聊到這"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 13,
+      "snippet": "迪拜呢石油資源就沒有那麼多"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 8,
+      "snippet": "這可能也是為什麼"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 2,
+      "snippet": "中東"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 58,
+      "snippet": "AIpenEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEO山姆·奧特曼"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 15,
+      "snippet": "當時有傳言說他要建一個芯片公司"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 10,
+      "snippet": "要融資5-7萬億美元"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 3,
+      "snippet": "注意啊"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 17,
+      "snippet": "這塊不是說這個公司估值是5-7萬億"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 10,
+      "snippet": "而是要融資5-7萬億"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 5,
+      "snippet": "我當時一聽"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 7,
+      "snippet": "這也太扯了對吧"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 15,
+      "snippet": "你把當時最值錢的公司蘋果給賣了"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 12,
+      "snippet": "都不夠這公司第一輪融資的"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 9,
+      "snippet": "但我又仔細往下一看"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 17,
+      "snippet": "說這個奧特曼正在尋求和中東各大基金"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 12,
+      "snippet": "尤其是阿布扎比投資局合作"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 6,
+      "snippet": "我一下就感覺"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 7,
+      "snippet": "沒準還真有可能"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 16,
+      "snippet": "咱們來具體看一看這些基金的特點啊"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 6,
+      "snippet": "卡塔爾投資局"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 5,
+      "snippet": "簡稱QIA"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 13,
+      "snippet": "管理資產約5,260億美元"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 9,
+      "snippet": "它成立於2005年"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 15,
+      "snippet": "是這些中東基金裡面最年輕的一個"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 6,
+      "snippet": "咱以前聊過啊"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 10,
+      "snippet": "這個卡塔爾它是真有錢"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 11,
+      "snippet": "就靠著自己的天然氣資源"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 20,
+      "snippet": "積累了這5,000多億美元的主權財富基金"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 7,
+      "snippet": "雖然規模來看啊"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 5,
+      "snippet": "他排名第九"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 9,
+      "snippet": "但卡塔爾人口特別少"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 10,
+      "snippet": "總共才不到300萬人"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 11,
+      "snippet": "而實際的公民只有31萬"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 6,
+      "snippet": "要是折合下來"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 13,
+      "snippet": "給每個公民能分170萬美元"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 9,
+      "snippet": "你就按3%的利息算"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 7,
+      "snippet": "每人每年光利息"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 7,
+      "snippet": "就能分5萬美元"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 3,
+      "snippet": "怎麼樣"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 5,
+      "snippet": "他的目標呢"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 12,
+      "snippet": "就是為了卡塔爾的長期發展"
+    },
+    {
+      "sentence_id": "s822",
+      "char_len": 9,
+      "snippet": "去應對這些短期性的"
+    },
+    {
+      "sentence_id": "s823",
+      "char_len": 9,
+      "snippet": "常規性的支出和開銷"
+    },
+    {
+      "sentence_id": "s824",
+      "char_len": 6,
+      "snippet": "哎這樣一來呢"
+    },
+    {
+      "sentence_id": "s825",
+      "char_len": 13,
+      "snippet": "他們就可以撬動更大的資金池"
+    },
+    {
+      "sentence_id": "s826",
+      "char_len": 5,
+      "snippet": "更大的槓桿"
+    },
+    {
+      "sentence_id": "s827",
+      "char_len": 8,
+      "snippet": "讓自己越來越有錢"
+    },
+    {
+      "sentence_id": "s828",
+      "char_len": 15,
+      "snippet": "你看很多有錢人不就是這麼做的嗎"
+    },
+    {
+      "sentence_id": "s829",
+      "char_len": 9,
+      "snippet": "用自己的股票做抵押"
+    },
+    {
+      "sentence_id": "s830",
+      "char_len": 7,
+      "snippet": "然後去借錢消費"
+    },
+    {
+      "sentence_id": "s831",
+      "char_len": 9,
+      "snippet": "這其實也算是有錢人"
+    },
+    {
+      "sentence_id": "s832",
+      "char_len": 13,
+      "snippet": "有錢國家的一個金融槓桿原理"
+    },
+    {
+      "sentence_id": "s833",
+      "char_len": 12,
+      "snippet": "不過這裡頭科威特是個特例"
+    },
+    {
+      "sentence_id": "s834",
+      "char_len": 10,
+      "snippet": "你會發現他幾乎不借錢"
+    },
+    {
+      "sentence_id": "s835",
+      "char_len": 10,
+      "snippet": "債務/GDP只有3%"
+    },
+    {
+      "sentence_id": "s836",
+      "char_len": 9,
+      "snippet": "他所有的開支和投資"
+    },
+    {
+      "sentence_id": "s837",
+      "char_len": 10,
+      "snippet": "幾乎都是從投資局裡出"
+    },
+    {
+      "sentence_id": "s838",
+      "char_len": 14,
+      "snippet": "這種呢就屬於比較佛系的土豪了"
+    },
+    {
+      "sentence_id": "s839",
+      "char_len": 13,
+      "snippet": "好咱們繼續聊榜單上的選手啊"
+    },
+    {
+      "sentence_id": "s840",
+      "char_len": 4,
+      "snippet": "哎呀糟糕"
+    },
+    {
+      "sentence_id": "s841",
+      "char_len": 7,
+      "snippet": "我一會還有點事"
+    },
+    {
+      "sentence_id": "s842",
+      "char_len": 16,
+      "snippet": "但是還有這麼多精彩的內容沒有錄呢"
+    },
+    {
+      "sentence_id": "s843",
+      "char_len": 1,
+      "snippet": "嗯"
+    },
+    {
+      "sentence_id": "s844",
+      "char_len": 2,
+      "snippet": "要不"
+    },
+    {
+      "sentence_id": "s845",
+      "char_len": 5,
+      "snippet": "我們下一期"
+    },
+    {
+      "sentence_id": "s846",
+      "char_len": 2,
+      "snippet": "除了"
+    },
+    {
+      "sentence_id": "s847",
+      "char_len": 2,
+      "snippet": "中東"
+    },
+    {
+      "sentence_id": "s848",
+      "char_len": 4,
+      "snippet": "這些國家"
+    },
+    {
+      "sentence_id": "s849",
+      "char_len": 6,
+      "snippet": "除了香港美國"
+    },
+    {
+      "sentence_id": "s850",
+      "char_len": 2,
+      "snippet": "金融"
+    },
+    {
+      "sentence_id": "s851",
+      "char_len": 2,
+      "snippet": "市場"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "嗨朋友们，预告剖析全球最有钱政府如何管钱袋子，并声明排名别较真。",
+      "patterns": [
+        "嗨朋友们招呼",
+        "管钱袋子设问",
+        "排名免责声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "嗨",
+          "note": "嗨"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "他們是怎麼管理自己的錢袋子",
+          "note": "管理自己的钱袋子"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我先聲明一下啊",
+          "note": "我先声明一下啊"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "大家也不用太較真",
+          "note": "不用太较真"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主权基金=政府闲钱投资基金→中东上榜→迪拜非国家是酋长国→旁及奥特曼找中东金主→卡塔尔人均夸张→有钱国家杠杆/佛系对照→下期续。",
+      "patterns": [
+        "定义→中东榜→酋长国结构→金主旁白→人均算账→杠杆对照→下期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "設立的一個投資基金",
+          "note": "设立的一个投资基金"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "上來就來了個中東的基金",
+          "note": "中东的基金"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "他其實不是個國家",
+          "note": "不是个国家"
+        },
+        {
+          "sentence_id": "s420",
+          "snippet": "尤其是阿布扎比投資局合作",
+          "note": "阿布扎比合作"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "給每個公民能分170萬美元",
+          "note": "每人分170万"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "有錢國家的一個金融槓桿原理",
+          "note": "金融杠杆原理"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "define_rank_open",
+          "note": "主权基金定义+免责+迪拜第十开榜"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "uae_structure",
+          "note": "阿联酋酋长国财政独立与迪拜定位"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423",
+            "s424",
+            "s425",
+            "s426",
+            "s427"
+          ],
+          "function": "altman_aside",
+          "note": "奥特曼万亿融资旁白转卡塔尔基金"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s428",
+            "s429",
+            "s430",
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440",
+            "s441",
+            "s442",
+            "s443",
+            "s444",
+            "s445",
+            "s822",
+            "s823",
+            "s824",
+            "s825",
+            "s826",
+            "s827"
+          ],
+          "function": "qatar_per_capita",
+          "note": "QIA规模与人均财富冲击算账"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s828",
+            "s829",
+            "s830",
+            "s831",
+            "s832",
+            "s833",
+            "s834",
+            "s835",
+            "s836",
+            "s837",
+            "s838",
+            "s839",
+            "s840",
+            "s841",
+            "s842",
+            "s843",
+            "s844",
+            "s845",
+            "s846",
+            "s847",
+            "s848",
+            "s849",
+            "s850",
+            "s851"
+          ],
+          "function": "leverage_cliffhanger",
+          "note": "有钱人杠杆原理+科威特佛系+下期卡断"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "废话少说直接开始/不出所料/咱们来具体看/好咱们继续聊/要不我们下一期。",
+      "patterns": [
+        "废话少说开榜",
+        "不出所料",
+        "具体看一看",
+        "下一期卡点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "廢話少說",
+          "note": "废话少说"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "不出所料",
+          "note": "不出所料"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "咱們來具體看一看這些基金的特點啊",
+          "note": "具体看一看"
+        },
+        {
+          "sentence_id": "s845",
+          "snippet": "我們下一期",
+          "note": "我们下一期"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "阿联酋七酋长国财政独立 vs 一般中东国家；融资额夸张 vs 卖苹果都不够；科威特几乎不借钱 vs 杠杆土豪。",
+      "patterns": [
+        "酋长国独立vs他国",
+        "融资夸张vs苹果市值",
+        "佛系不借vs杠杆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "幾乎可以說是完全獨立的",
+          "note": "财政上完全独立"
+        },
+        {
+          "sentence_id": "s416",
+          "snippet": "你把當時最值錢的公司蘋果給賣了",
+          "note": "卖了苹果都不够"
+        },
+        {
+          "sentence_id": "s834",
+          "snippet": "你會發現他幾乎不借錢",
+          "note": "几乎不借钱"
+        },
+        {
+          "sentence_id": "s838",
+          "snippet": "這種呢就屬於比較佛系的土豪了",
+          "note": "佛系的土豪"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "哪来那么多钱？如何管理几千上万亿？怎么样（人均利息）？——串起好奇。",
+      "patterns": [
+        "哪来那么多钱",
+        "如何管理",
+        "怎么样反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "他們哪來那麼多錢",
+          "note": "哪来那么多钱"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "甚至上萬億美元的財富",
+          "note": "如何管理上万亿"
+        },
+        {
+          "sentence_id": "s443",
+          "snippet": "怎麼樣",
+          "note": "怎么样"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "迪拜投资公司3600亿；奥特曼芯片融资5-7万亿传闻；卡塔尔公民31万人均170万；用股票抵押借钱消费类比。",
+      "patterns": [
+        "迪拜3600亿",
+        "奥特曼万亿融资",
+        "卡塔尔人均",
+        "抵押借钱类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "管理資產約3,600億美元",
+          "note": "约3,600亿美元"
+        },
+        {
+          "sentence_id": "s410",
+          "snippet": "要融資5-7萬億美元",
+          "note": "融资5-7万亿"
+        },
+        {
+          "sentence_id": "s437",
+          "snippet": "而實際的公民只有31萬",
+          "note": "公民只有31万"
+        },
+        {
+          "sentence_id": "s829",
+          "snippet": "用自己的股票做抵押",
+          "note": "股票做抵押"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「闲钱凑一起」定义落地；人均财富用3%利息年分5万美元算给人听。",
+      "patterns": [
+        "闲钱定义落地",
+        "利息年分具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "他們把閒錢湊在一起",
+          "note": "把闲钱凑在一起"
+        },
+        {
+          "sentence_id": "s440",
+          "snippet": "你就按3%的利息算",
+          "note": "按3%的利息算"
+        },
+        {
+          "sentence_id": "s442",
+          "snippet": "就能分5萬美元",
+          "note": "分5万美元"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "简单粗暴的理解/不出所料/这也太扯了/没准还真有可能/佛系的土豪。",
+      "patterns": [
+        "简单粗暴",
+        "太扯了",
+        "没准有可能",
+        "佛系土豪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "簡單粗暴的理解",
+          "note": "简单粗暴的理解"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "這也太扯了對吧",
+          "note": "这也太扯了"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "沒準還真有可能",
+          "note": "没准还真有可能"
+        },
+        {
+          "sentence_id": "s838",
+          "snippet": "這種呢就屬於比較佛系的土豪了",
+          "note": "佛系的土豪"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "声明体量排名是预测别较真；先觉奥特曼融资太扯，一看中东金主又改口「没准可能」。",
+      "patterns": [
+        "排名免责",
+        "太扯改口没准可能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "排名基本上都是市場的預測",
+          "note": "市场的预测"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "這也太扯了對吧",
+          "note": "太扯了"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "但我又仔細往下一看",
+          "note": "仔细往下一看"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "沒準還真有可能",
+          "note": "没准还真有可能"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "招呼定义稳→免责后加速开榜→结构说明匀速→奥特曼插曲起伏→人均算账冲击→杠杆总结→突然卡档下期。",
+      "patterns": [
+        "稳开",
+        "开榜加速",
+        "插曲起伏",
+        "算账冲击",
+        "卡档下期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "這個主權基金",
+          "note": "主权基金定义"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "第十名迪拜投資公司",
+          "note": "第十名开榜"
+        },
+        {
+          "sentence_id": "s414",
+          "snippet": "我當時一聽",
+          "note": "我当时一听"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "給每個公民能分170萬美元",
+          "note": "170万冲击"
+        },
+        {
+          "sentence_id": "s840",
+          "snippet": "哎呀糟糕",
+          "note": "哎呀糟糕"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "亲切好奇→免责放心→中东开榜预期感→融资传闻震惊→改口恍然→人均艳羡→佛系好笑→突然有事懊恼留钩。",
+      "patterns": [
+        "好奇→放心→预期→震惊→恍然→艳羡→好笑→懊恼钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "咱們今天來深度地剖析一下",
+          "note": "深度剖析"
+        },
+        {
+          "sentence_id": "s415",
+          "snippet": "這也太扯了對吧",
+          "note": "太扯震惊"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "沒準還真有可能",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s838",
+          "snippet": "這種呢就屬於比較佛系的土豪了",
+          "note": "佛系好笑"
+        },
+        {
+          "sentence_id": "s840",
+          "snippet": "哎呀糟糕",
+          "note": "哎呀糟糕"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用「一会有事内容没录完」故意卡断，预告下期非中东/港美金融，形成续集钩子而非论点闭环。",
+      "patterns": [
+        "故意卡断续集钩",
+        "非论点闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s841",
+          "snippet": "我一會還有點事",
+          "note": "一会还有点事"
+        },
+        {
+          "sentence_id": "s842",
+          "snippet": "但是還有這麼多精彩的內容沒有錄呢",
+          "note": "精彩内容没录"
+        },
+        {
+          "sentence_id": "s845",
+          "snippet": "我們下一期",
+          "note": "下一期"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性下期续看，无点赞关注口令；以悬念代替硬CTA。",
+      "patterns": [
+        "下期悬念CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s845",
+          "snippet": "我們下一期",
+          "note": "我们下一期"
+        },
+        {
+          "sentence_id": "s849",
+          "snippet": "除了香港美國",
+          "note": "除了香港美国"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "嗨朋友们、废话少说、哎呀糟糕、嗯要不，口播临场感；中段ASR重复CEO噪声暴露转写痕迹。",
+      "patterns": [
+        "废话少说",
+        "哎呀糟糕临场",
+        "ASR噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "廢話少說",
+          "note": "废话少说"
+        },
+        {
+          "sentence_id": "s840",
+          "snippet": "哎呀糟糕",
+          "note": "哎呀糟糕"
+        },
+        {
+          "sentence_id": "s408",
+          "snippet": "AIpenEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEO",
+          "note": "CEO重复噪声"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断严重，榜单只展开迪拜/卡塔尔片段；s408 ASR崩坏；卡断收尾缺总结。",
+      "patterns": [
+        "榜单展开不全",
+        "ASR崩坏",
+        "卡断无总结"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s408",
+          "snippet": "AIpenEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEOCEO",
+          "note": "CEO乱码"
+        },
+        {
+          "sentence_id": "s845",
+          "snippet": "我們下一期",
+          "note": "下期卡断"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "第十名迪拜投資公司",
+          "note": "仅第十名展开"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「一听太扯→细看中东金主→改口可能」的实时判断修正。",
+      "patterns": [
+        "实时改口判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s414",
+          "snippet": "我當時一聽",
+          "note": "我当时一听"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "但我又仔細往下一看",
+          "note": "仔细往下看"
+        },
+        {
+          "sentence_id": "s421",
+          "snippet": "我一下就感覺",
+          "note": "一下就感觉"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「朋友们/大家」科普听众，用别较真降低数字焦虑，用生活抵押类比贴有钱人逻辑。",
+      "patterns": [
+        "朋友们科普",
+        "别较真减负",
+        "生活类比有钱人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "朋友們",
+          "note": "朋友們"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "大家也不用太較真",
+          "note": "不用太较真"
+        },
+        {
+          "sentence_id": "s828",
+          "snippet": "你看很多有錢人不就是這麼做的嗎",
+          "note": "有钱人这么做"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "3600亿美元；7个酋长国；融资5-7万亿；公民31万/人均170万；债务GDP 3%。",
+      "patterns": [
+        "3600亿",
+        "5-7万亿融资",
+        "31万公民",
+        "债务3%"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "管理資產約3,600億美元",
+          "note": "3,600亿美元"
+        },
+        {
+          "sentence_id": "s410",
+          "snippet": "要融資5-7萬億美元",
+          "note": "5-7万亿"
+        },
+        {
+          "sentence_id": "s437",
+          "snippet": "而實際的公民只有31萬",
+          "note": "31万"
+        },
+        {
+          "sentence_id": "s835",
+          "snippet": "債務/GDP只有3%",
+          "note": "只有3%"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "定义中密→免责低密→迪拜结构高密→奥特曼插曲中密→卡塔尔数字高密→杠杆中密→卡断低密。",
+      "patterns": [
+        "结构高密",
+        "数字高密",
+        "卡断低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "阿聯酋的政治結構",
+          "note": "政治结构"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "給每個公民能分170萬美元",
+          "note": "人均数字"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "有錢國家的一個金融槓桿原理",
+          "note": "杠杆原理"
+        },
+        {
+          "sentence_id": "s843",
+          "snippet": "嗯",
+          "note": "嗯低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短口语句推进榜单；数字独立成句；卡断段单字残片（中东/金融/市场）。",
+      "patterns": [
+        "短口语榜单",
+        "数字独立句",
+        "残片卡断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "第十名迪拜投資公司",
+          "note": "第十名"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "管理資產約3,600億美元",
+          "note": "3600亿句"
+        },
+        {
+          "sentence_id": "s850",
+          "snippet": "金融",
+          "note": "金融残片"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说榜单解说员：免责+结构科普+当场改口+故意录不完钩子，亲切土豪观察者。",
+      "patterns": [
+        "榜单解说",
+        "当场改口",
+        "录不完钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "簡單粗暴的理解",
+          "note": "简单粗暴理解"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "沒準還真有可能",
+          "note": "没准可能"
+        },
+        {
+          "sentence_id": "s840",
+          "snippet": "哎呀糟糕",
+          "note": "哎呀糟糕"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "主权基金=政府闲钱；迪拜是酋长国不是国家；人均年利息5万刀；佛系土豪科威特。",
+      "patterns": [
+        "闲钱基金",
+        "酋长国",
+        "年息5万",
+        "佛系土豪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "他們把閒錢湊在一起",
+          "note": "闲钱凑一起"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "他其實不是個國家",
+          "note": "不是个国家"
+        },
+        {
+          "sentence_id": "s442",
+          "snippet": "就能分5萬美元",
+          "note": "分5万美元"
+        },
+        {
+          "sentence_id": "s838",
+          "snippet": "這種呢就屬於比較佛系的土豪了",
+          "note": "佛系土豪"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "主权基金榜单+政治结构解释+人均换算+杠杆对照的财经科普骨架可直接用于观宇「国家金主」专题，保留免责声明与下期钩子节奏。",
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "設立的一個投資基金",
+          "note": "基金定义可迁"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "他其實不是個國家",
+          "note": "酋长国结构"
+        },
+        {
+          "sentence_id": "s440",
+          "snippet": "你就按3%的利息算",
+          "note": "利息换算"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "有錢國家的一個金融槓桿原理",
+          "note": "杠杆原理"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s19",
+    "s29",
+    "s18",
+    "s35",
+    "s37",
+    "s420",
+    "s439",
+    "s832",
+    "s30",
+    "s34",
+    "s423",
+    "s845",
+    "s43",
+    "s416",
+    "s834",
+    "s838",
+    "s7",
+    "s9",
+    "s443",
+    "s33",
+    "s410",
+    "s437",
+    "s829",
+    "s17",
+    "s440",
+    "s442",
+    "s15",
+    "s415",
+    "s422",
+    "s21",
+    "s418",
+    "s14",
+    "s32",
+    "s414",
+    "s840",
+    "s3",
+    "s841",
+    "s842",
+    "s849",
+    "s408",
+    "s421",
+    "s2",
+    "s828",
+    "s835",
+    "s39",
+    "s843",
+    "s850"
+  ],
+  "fields_complete_25": true
+}

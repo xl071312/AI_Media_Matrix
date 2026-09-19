@@ -1,0 +1,1327 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7440187654810976780",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7440187654810976780/",
+  "source_sha256": "56c6a52f8c05950dcef913971f4ba01c9c63a8b1efd9babfe65f7e21d5869256",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 4,
+      "snippet": "亚洲首富"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "凭什么是这两位印度大佬？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 19,
+      "snippet": "*内容来自小Lin说2023年5月视频"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 34,
+      "snippet": "亚洲首富从2019年起就被两位印度大佬给包了，那就是阿达尼和安巴尼。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 30,
+      "snippet": "他们背后的集团：阿达尼集团和信实工业更是笼罩了整个印度经济。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "你要是生活在印度，你可能："
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 21,
+      "snippet": "用着安巴尼提供的无线网，和阿达尼提供的电；"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 20,
+      "snippet": "在安巴尼的网店上，买着阿达尼进口的商品；"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 20,
+      "snippet": "用着安巴尼炼的汽油，开在阿达尼建的路上；"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 21,
+      "snippet": "放着安巴尼出品的节目，去阿达尼运营的机场。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 23,
+      "snippet": "反正你的生活，几乎不可能离开这两位的商业帝国。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 30,
+      "snippet": "安巴尼被媒体称为是\"印度的洛克菲勒\"，达到了富可敌国的程度；"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 59,
+      "snippet": "而阿达尼从2020年开始突然半路杀了出来，2022年成为全世界身价飙升最多的人，"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 34,
+      "snippet": "可2023年的年初又被华尔街的做空机构给干倒，成了身价下跌最多的人。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "这两位大佬："
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 16,
+      "snippet": "一个拼的是爹，一个拼的是哥们儿；"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "一个是真有实力，一个是虚胖；"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 22,
+      "snippet": "一个擅长搞排面，一个整天把国家利益挂在嘴边；"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "一个叫安巴尼，一个叫阿达尼。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "咱们就来看看这两位叱咤印度的顶级富豪！"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "安巴尼崛起"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 2,
+      "snippet": "起家"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 27,
+      "snippet": "有个好老爹的安巴尼出生在1957年，比阿达尼大了5岁。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 68,
+      "snippet": "而他爹老安巴尼在1958年，也就是安巴尼出生的第一年就建立了这个未来横扫印度的公"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 65,
+      "snippet": "之后一步一个脚印拓展到了纺织业，当时，印度经济普遍实行许可证制度，几乎所有事务均"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 30,
+      "snippet": "老安巴尼因为搞定了政府关系拿到了许可，一路势如破竹越做越大。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "在1977年上市。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 33,
+      "snippet": "这时候的小安巴尼19岁，他老爸的公司刚上市，他也赶着好时候成年了。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 83,
+      "snippet": "1980年，安巴尼在斯坦福大学读MBA读到一半，就被老爸拉回来培养经商了，也拉上"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 47,
+      "snippet": "到2000年初，信实工业已经成为印度最大的公司 ，而且远远甩开第二名，成为印度家"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 16,
+      "snippet": "被大家戏称是\"印度的洛克菲勒\"。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 4,
+      "snippet": "兄弟争斗"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 52,
+      "snippet": "2002年，老安巴尼因中风突然去世，遗憾的是，他未能留下遗嘱或建立信托，来指导其"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 17,
+      "snippet": "这导致了两兄弟之间激烈的遗产争夺。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 47,
+      "snippet": "这场家族纷争最终由他们的母亲出面调解，于2005年达成了分割协议，将信实工业集团"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 24,
+      "snippet": "安巴尼拿到了：石油、天然气、化工、炼油和制造业；"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 18,
+      "snippet": "而弟弟阿尼尔拿到了电力、电信和金融。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 22,
+      "snippet": "这才结束了这么一场牵动整个印度的管理层斗争。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 32,
+      "snippet": "看起来好像是平分，其实 核心的赚钱业务基本上都给了哥哥安巴尼 。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 40,
+      "snippet": "而这场斗争当时影响非常广，毕竟这个印度最大的集团，可是覆盖了印度四分之一的股民。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "继续扩张"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 22,
+      "snippet": "信实工业在安巴尼的带领下市值又翻了40倍 。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 48,
+      "snippet": "安巴尼本人从2019年开始就持续稳坐亚洲首富的宝座，在2022年被阿达尼赶超之前"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 50,
+      "snippet": "安巴尼也很高调，干得最出名的一件事儿就是专门给自己的家族在孟买精心设计并且建了一"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 70,
+      "snippet": "共37000平米，600个员工常驻在里面，有三个停机坪，6层楼的停车场，停了16"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 52,
+      "snippet": "信实工业整个集团也很符合安巴尼这种张扬的个性，特别高调，公司的一些发言、发布会搞"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 5,
+      "snippet": "阿达尼崛起"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "早期发展"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 30,
+      "snippet": "1962年，阿达尼出生在印度古吉拉特邦的一个普通中产家庭中。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 62,
+      "snippet": "父亲是个小纺织商，在父亲的耳濡目染之下，他从小对经商也产生了浓厚的兴趣，大学读到"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 63,
+      "snippet": "1988年，26岁的阿达尼成立了阿达尼出口，也就是现在阿达尼集团的前身，主要就是"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 51,
+      "snippet": "1991年，对印度来说是关键的转折点，开始全面经济改革，走向市场化，也开始将很多"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 15,
+      "snippet": "阿达尼就借着这波大势迅速崛起；"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 39,
+      "snippet": "1995年，阿达尼又走出了关键一步，成功从政府那包下了他老家古吉拉特邦的港口；"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 58,
+      "snippet": "阿达尼是搞贸易的，又赶上了经济全面市场化，又包下了港口，不出所料他的业务做得风生"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 31,
+      "snippet": "到了2000年，阿达尼已经成为了古吉拉特邦富甲一方的商业大佬。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 33,
+      "snippet": "虽然这时候他已经很厉害了，但在印度全国范围内，肯定还是排不上号的。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 22,
+      "snippet": "他的下一步腾飞，就要仰仗一位他的贵人了..."
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 7,
+      "snippet": "印度总理：莫迪"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 30,
+      "snippet": "就在2001年，古吉拉特邦上任了一个\"第一部长\"，叫做莫迪。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 10,
+      "snippet": "是不是听着有点耳熟?"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 13,
+      "snippet": "没错，他就是现任印度总理。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 16,
+      "snippet": "阿达尼跟莫迪俩人关系非常不一般。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 52,
+      "snippet": "在莫迪还在管古吉拉特邦的时候，俩人就 商政合并 ，你帮我选举、发展、搞政绩，我帮"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 37,
+      "snippet": "当时政府拍卖一些土地，卖给各种私企的价格是470 - 1110卢比/平米；"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 46,
+      "snippet": "而最后阿达尼不知道怎么的，到手价最高也只有32卢比/平米，而有些地甚至 低到1卢"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 32,
+      "snippet": "这就是其中的一个例子，你就能想象阿达尼集团从政府那拿了多少好处。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 47,
+      "snippet": "2014年莫迪参选印度总理，经常要全国范围飞来飞去，一直坐的都是阿达尼集团特供的"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "这大家都已经见怪不怪了。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 51,
+      "snippet": "一个挺有意思的现象是什么呢，就是那年大选随着莫迪当选的胜率越来越高，阿达尼集团的"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 20,
+      "snippet": "最后 莫迪当选，阿达尼的股票翻了三倍 ！"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 47,
+      "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 65,
+      "snippet": "后来到了2018年，印度要拍卖6个机场，结果没有任何航空业务经验的阿达尼集团居然"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 60,
+      "snippet": "2023年， 阿达尼集团就有七家上市公司 ，业务涵盖了发电、矿业、电网、机场、天"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 71,
+      "snippet": "而阿达尼为数不多的公开言论中，总是会强调阿达尼集团和印度这个国家的利益那是深深绑"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 46,
+      "snippet": "几个小时之后，它们发布了一个长达一百多页的做空报告—— 指控阿达尼集团操纵股票、"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 51,
+      "snippet": "报告列了海量的证据，主要内容就是：阿达尼集团虽然是个上市公司，但阿达尼本人和他的"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 20,
+      "snippet": "这个比例压根就不像个上市公司该有的比例。"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 45,
+      "snippet": "试想一下，阿达尼一个人攥着那么多股份，市场上真正流通的股票就很少了，这就非常容易"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 39,
+      "snippet": "他稍微花点钱买入，股票就往上猛涨，然后他手上那75%的股票全都跟着水涨船高了。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 56,
+      "snippet": "这就是报告里分析的阿达尼的套路，他哥在毛里求斯和开曼群岛偷偷建了至少38家空壳公"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 34,
+      "snippet": "这样一方面自己可以控制更多阿达尼集团的股票，同时也可以操控它的股价。"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 55,
+      "snippet": "这些空壳公司的股票交易就占到了阿达尼集团全部股票交易的30%-50%，这才导致这"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 9,
+      "snippet": "股票涨完了之后呢？"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 50,
+      "snippet": "阿达尼就可以拿这些股票去找银行抵押贷款，贷出大量的钱去玩下一轮，也导致了阿达尼集"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 29,
+      "snippet": "报告一经曝出，整个证据链完整， 阿达尼股票立刻全线暴跌 。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 2,
+      "snippet": "反击"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 74,
+      "snippet": "阿达尼集团赶紧在五天之后就出了一份四百多页的报告，也不管是不是相关数据，反正全堆"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 44,
+      "snippet": "阿达尼自己也拍视频，站出来回应：我的公司没问题，我们的资产负债表很健康，投资人要"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 55,
+      "snippet": "而且，还拿出了阿达尼的杀手锏：公司都是为了印度的国家建设，攻击我就是攻击印度，这"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 73,
+      "snippet": "但最后市场好像不太吃这套，股价接着一路下跌，一个月内，阿达尼集团整体市值和阿达尼"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 51,
+      "snippet": "不过在2023年， 阿达尼的身价 即使跌了一半也是 全球排名第21的富豪 ，和中"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 56,
+      "snippet": "而且2023年莫迪要竞选他印度总理的第三个任期了，如果他又能成功当选的话，那阿达"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 21,
+      "snippet": "（大家可以自行搜索一下莫迪是否连任成功~）"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 4,
+      "snippet": "写在最后"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 71,
+      "snippet": "在印度这个人均GDP只有美国1/30的国家，出现了两位如此巨富：总财富大概相当于"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 25,
+      "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 11,
+      "snippet": "—— E N D ——"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 25,
+      "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "亚洲首富为何是两位印度大佬，用生活全覆盖清单展示双寡头笼罩感。",
+      "patterns": [
+        "身份设问",
+        "生活全覆盖清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "凭什么是这两位印度大佬？",
+          "note": "凭什么是这两位"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "用着安巴尼提供的无线网，和阿达尼提供的电；",
+          "note": "安巴尼网阿达尼电"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "反正你的生活，几乎不可能离开这两位的商业帝国。",
+          "note": "生活离不开商业帝国"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "安巴尼拼爹真有实力→兄弟分家拿核心→阿达尼拼哥们儿靠莫迪腾飞→做空指控操纵→市值腰斩首富易主。",
+      "patterns": [
+        "拼爹vs拼哥们儿",
+        "分家核心业务",
+        "政商绑定",
+        "做空证据链",
+        "身价腰斩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "一个拼爹一个拼哥们儿"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "看起来好像是平分，其实 核心的赚钱业务基本上都给了哥哥安巴尼 。",
+          "note": "核心赚钱给哥哥"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "在莫迪还在管古吉拉特邦的时候，俩人就 商政合并 ，你帮我选举、发展、搞政绩，我帮",
+          "note": "商政合并"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "几个小时之后，它们发布了一个长达一百多页的做空报告—— 指控阿达尼集团操纵股票、",
+          "note": "做空报告财务造假"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但最后市场好像不太吃这套，股价接着一路下跌，一个月内，阿达尼集团整体市值和阿达尼",
+          "note": "身价跌一半安巴尼回位"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s6",
+            "s9",
+            "s13",
+            "s20",
+            "s23"
+          ],
+          "function": "duopoly_frame",
+          "note": "双寡头对照框架"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s28",
+            "s31",
+            "s34",
+            "s40",
+            "s46"
+          ],
+          "function": "ambani_rise",
+          "note": "安巴尼起家与兄弟争产"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s68",
+            "s73",
+            "s81",
+            "s85",
+            "s92"
+          ],
+          "function": "adani_modi",
+          "note": "阿达尼港口与莫迪绑定起飞"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s130",
+            "s133",
+            "s135",
+            "s139",
+            "s140"
+          ],
+          "function": "short_report",
+          "note": "做空报告控股权与壳公司套路"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s144",
+            "s146",
+            "s147",
+            "s155",
+            "s156"
+          ],
+          "function": "aftermath_question",
+          "note": "反击失败与国家之幸不幸追问"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "咱们就来看看/起家/兄弟争斗/他的下一步腾飞就要仰仗贵人/写在最后。",
+      "patterns": [
+        "章节导视",
+        "贵人悬念转",
+        "写在最后"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "咱们就来看看这两位叱咤印度的顶级富豪！",
+          "note": "咱们就来看看"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "他的下一步腾飞，就要仰仗一位他的贵人了...",
+          "note": "仰仗一位贵人"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "印度总理：莫迪",
+          "note": "印度总理莫迪"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "写在最后",
+          "note": "写在最后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "拼爹/拼哥们儿；真有实力/虚胖；排面/国家利益口头禅；拍卖地价470 vs 1卢比。",
+      "patterns": [
+        "人物对仗清单",
+        "地价极端反差",
+        "真假实力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "拼爹vs哥们儿"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "一个是真有实力，一个是虚胖；",
+          "note": "真有实力vs虚胖"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "当时政府拍卖一些土地，卖给各种私企的价格是470 - 1110卢比/平米；",
+          "note": "拍卖470-1110"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "而最后阿达尼不知道怎么的，到手价最高也只有32卢比/平米，而有些地甚至 低到1卢",
+          "note": "到手低到1卢比"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "凭什么是这两位、是不是耳熟、股票涨得不合理吗、国家之幸还是不幸。",
+      "patterns": [
+        "凭什么设问",
+        "耳熟确认",
+        "幸与不幸开放问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "凭什么是这两位印度大佬？",
+          "note": "凭什么是这两位"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "是不是听着有点耳熟?",
+          "note": "是不是听着耳熟"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "国家之幸还是不幸"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "27层大楼停机坪、莫迪坐阿达尼飞机、六机场全中标、38家壳公司、四百页反击报告。",
+      "patterns": [
+        "排面建筑",
+        "政商细节",
+        "做空/反击文本"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s63",
+          "snippet": "共37000平米，600个员工常驻在里面，有三个停机坪，6层楼的停车场，停了16",
+          "note": "27层37000平米"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "2014年莫迪参选印度总理，经常要全国范围飞来飞去，一直坐的都是阿达尼集团特供的",
+          "note": "莫迪坐阿达尼飞机"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "后来到了2018年，印度要拍卖6个机场，结果没有任何航空业务经验的阿达尼集团居然",
+          "note": "六个机场全中标"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "这就是报告里分析的阿达尼的套路，他哥在毛里求斯和开曼群岛偷偷建了至少38家空壳公",
+          "note": "至少38家空壳公司"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把垄断抽象成网电汽油机场日常清单，把做空抽象成75%控股+壳公司买量路径。",
+      "patterns": [
+        "垄断日常化",
+        "做空路径拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "用着安巴尼炼的汽油，开在阿达尼建的路上；",
+          "note": "汽油开在阿达尼路上"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "报告列了海量的证据，主要内容就是：阿达尼集团虽然是个上市公司，但阿达尼本人和他的",
+          "note": "控股将近75%"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "这些空壳公司的股票交易就占到了阿达尼集团全部股票交易的30%-50%，这才导致这",
+          "note": "壳公司交易占30%-50%"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言穿一条裤子、资本市场诚实、核心业务其实都给了哥哥。",
+      "patterns": [
+        "穿一条裤子",
+        "市场诚实",
+        "分家不公断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "看起来好像是平分，其实 核心的赚钱业务基本上都给了哥哥安巴尼 。",
+          "note": "核心都给了哥哥"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是",
+          "note": "穿一条裤子的"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是",
+          "note": "资本市场还是诚实的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先写阿达尼已很厉害再补全国排不上；先写反击报告再承认市场不吃这套。",
+      "patterns": [
+        "厉害后降级",
+        "反击后市场否定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "到了2000年，阿达尼已经成为了古吉拉特邦富甲一方的商业大佬。",
+          "note": "古吉拉特富甲一方"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "虽然这时候他已经很厉害了，但在印度全国范围内，肯定还是排不上号的。",
+          "note": "全国还排不上号"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但最后市场好像不太吃这套，股价接着一路下跌，一个月内，阿达尼集团整体市值和阿达尼",
+          "note": "市场不太吃这套"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "对仗短句开场→双传记中长叙事→做空证据加速→开放问收束。",
+      "patterns": [
+        "对仗短开",
+        "双传记长板",
+        "证据加速",
+        "开放问收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "对仗短句"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "1980年，安巴尼在斯坦福大学读MBA读到一半，就被老爸拉回来培养经商了，也拉上",
+          "note": "斯坦福被拉回长叙事"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "几个小时之后，它们发布了一个长达一百多页的做空报告—— 指控阿达尼集团操纵股票、",
+          "note": "做空报告加速"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "幸不幸开放问"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "震惊笼罩→爽感对照→政商暧昧不适→做空爽感→贫富结构沉重收。",
+      "patterns": [
+        "震惊→对照爽→不适→做空爽→沉重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "反正你的生活，几乎不可能离开这两位的商业帝国。",
+          "note": "离不开帝国震惊"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "而最后阿达尼不知道怎么的，到手价最高也只有32卢比/平米，而有些地甚至 低到1卢",
+          "note": "1卢比不适"
+        },
+        {
+          "sentence_id": "s140",
+          "snippet": "报告一经曝出，整个证据链完整， 阿达尼股票立刻全线暴跌 。",
+          "note": "全线暴跌爽感"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "在印度这个人均GDP只有美国1/30的国家，出现了两位如此巨富：总财富大概相当于",
+          "note": "两人拥有3.5亿人财富沉重"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从亚洲首富双人包场回到两人财富等于底层1/4人口，以幸与不幸作结。",
+      "patterns": [
+        "首富→贫富结构回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "亚洲首富从2019年起就被两位印度大佬给包了，那就是阿达尼和安巴尼。",
+          "note": "亚洲首富被两位包了"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "在印度这个人均GDP只有美国1/30的国家，出现了两位如此巨富：总财富大概相当于",
+          "note": "等于底层1/4财富"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "幸或不幸"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "括号提示自行搜索莫迪是否连任，轻互动无硬关注。",
+      "patterns": [
+        "搜索提示轻互动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s150",
+          "snippet": "（大家可以自行搜索一下莫迪是否连任成功~）",
+          "note": "自行搜索莫迪是否连任"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "一个拼爹一个拼哥们儿对仗、穿一条裤子、括号彩蛋，口播转写口语感强。",
+      "patterns": [
+        "人物对仗口头禅",
+        "穿一条裤子",
+        "括号彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "拼爹拼哥们儿"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是",
+          "note": "穿一条裤子"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "（大家可以自行搜索一下莫迪是否连任成功~）",
+          "note": "括号自行搜索"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "视频转文字图片占位多；中段截断导致扩张细节跳跃；部分判断偏口语绝对化。",
+      "patterns": [
+        "图片占位",
+        "截断跳跃",
+        "绝对化口吻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 亚洲首富垄断印度经济，竟然被做空了？",
+          "note": "图片截取占位"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "继续扩张",
+          "note": "继续扩张后跳到s60"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是",
+          "note": "穿一条裤子绝对化"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先给对照框架再分传记，做空段逐步拆75%控股→壳公司→抵押贷闭环。",
+      "patterns": [
+        "框架先立",
+        "证据链逐步拆"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "对照框架先立"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "试想一下，阿达尼一个人攥着那么多股份，市场上真正流通的股票就很少了，这就非常容易",
+          "note": "流通少易操控"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "阿达尼就可以拿这些股票去找银行抵押贷款，贷出大量的钱去玩下一轮，也导致了阿达尼集",
+          "note": "股票抵押贷下一轮"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当想搞懂印度首富恩怨的财经看客，用生活类比降低门槛。",
+      "patterns": [
+        "财经看客",
+        "生活类比降门槛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你要是生活在印度，你可能：",
+          "note": "你要是生活在印度"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "咱们就来看看这两位叱咤印度的顶级富豪！",
+          "note": "咱们就来看看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "27层10亿美元大楼、地价1卢比、六机场、控股75%、38壳公司、身价跌一半。",
+      "patterns": [
+        "地标建筑",
+        "地价",
+        "机场",
+        "股权结构"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s63",
+          "snippet": "共37000平米，600个员工常驻在里面，有三个停机坪，6层楼的停车场，停了16",
+          "note": "花了10亿美元"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "而最后阿达尼不知道怎么的，到手价最高也只有32卢比/平米，而有些地甚至 低到1卢",
+          "note": "1卢比每平米"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "报告列了海量的证据，主要内容就是：阿达尼集团虽然是个上市公司，但阿达尼本人和他的",
+          "note": "控股将近75%"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但最后市场好像不太吃这套，股价接着一路下跌，一个月内，阿达尼集团整体市值和阿达尼",
+          "note": "跌去一半多"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场清单中密→传记叙事中→政商细节升密→做空机制峰值→开放问降密。",
+      "patterns": [
+        "清单中",
+        "传记中",
+        "政商升",
+        "做空峰",
+        "开放降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "用着安巴尼提供的无线网，和阿达尼提供的电；",
+          "note": "生活清单中密"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "在莫迪还在管古吉拉特邦的时候，俩人就 商政合并 ，你帮我选举、发展、搞政绩，我帮",
+          "note": "商政合并升密"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "这就是报告里分析的阿达尼的套路，他哥在毛里求斯和开曼群岛偷偷建了至少38家空壳公",
+          "note": "壳公司机制峰"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "开放问降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "对仗排比与章节小标题推进，做空段因果长句变密。",
+      "patterns": [
+        "对仗排比",
+        "小标题推进",
+        "因果长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "对仗"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "兄弟争斗",
+          "note": "兄弟争斗小标题"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "试想一下，阿达尼一个人攥着那么多股份，市场上真正流通的股票就很少了，这就非常容易",
+          "note": "因果长句操控"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷静拆解型财经讲述者：敢下穿一条裤子判断，结尾留幸不幸给读者。",
+      "patterns": [
+        "敢下判断",
+        "开放收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s95",
+          "snippet": "甭管媒体如何洗白，这资本市场还是诚实的，当时是个印度人都知道：阿达尼和莫迪那就是",
+          "note": "穿一条裤子判断"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "幸不幸交给读者"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "一个拼爹一个拼哥们儿；1卢比拿地；攻击我就是攻击印度。",
+      "patterns": [
+        "拼爹拼哥们儿",
+        "1卢比",
+        "国家利益话术"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "拼爹拼哥们儿"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "而最后阿达尼不知道怎么的，到手价最高也只有32卢比/平米，而有些地甚至 低到1卢",
+          "note": "1卢比"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "而阿达尼为数不多的公开言论中，总是会强调阿达尼集团和印度这个国家的利益那是深深绑",
+          "note": "攻击我就是攻击印度"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "双人物对照框架+政商细节+做空机制拆解+开放价值问，高度适配观宇人物财经长文。",
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "一个拼的是爹，一个拼的是哥们儿；",
+          "note": "对照框架可直接用"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "这就是报告里分析的阿达尼的套路，他哥在毛里求斯和开曼群岛偷偷建了至少38家空壳公",
+          "note": "做空路径拆解可直接用"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "有这么两位巨富，到底是国家之幸，还是国家之不幸呢？",
+          "note": "开放价值问可直接用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s9",
+    "s13",
+    "s20",
+    "s46",
+    "s85",
+    "s130",
+    "s147",
+    "s6",
+    "s23",
+    "s28",
+    "s31",
+    "s34",
+    "s40",
+    "s68",
+    "s73",
+    "s81",
+    "s92",
+    "s133",
+    "s135",
+    "s139",
+    "s140",
+    "s144",
+    "s146",
+    "s155",
+    "s156",
+    "s24",
+    "s77",
+    "s80",
+    "s154",
+    "s21",
+    "s86",
+    "s87",
+    "s82",
+    "s63",
+    "s89",
+    "s96",
+    "s11",
+    "s131",
+    "s137",
+    "s95",
+    "s75",
+    "s76",
+    "s150",
+    "s1",
+    "s50",
+    "s8",
+    "s39",
+    "s98"
+  ],
+  "fields_complete_25": true
+}

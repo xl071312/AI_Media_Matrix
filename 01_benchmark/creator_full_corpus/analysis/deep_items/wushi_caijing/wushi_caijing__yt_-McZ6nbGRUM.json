@@ -1,0 +1,572 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_-McZ6nbGRUM",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=-McZ6nbGRUM",
+  "source_sha256": "9a93991aadc558cecee42deb8361a61103fb104ead051a16e2e5263749ef598b",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 12,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 99,
+      "snippet": "of Asia's and the US's future investment potential. Second, like the Nassauk, As"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 101,
+      "snippet": "high-tech companies. You guys have Apple, Microsoft, and Google. Our Asia's most"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 78,
+      "snippet": "it's great Zhou Mautai, which is the Asia market with its worth leading source"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 90,
+      "snippet": "from the frequent liquor technology. It's not only the highest-vited stock on th"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 85,
+      "snippet": "Comp's, but also the highest-priest stock. Third, besides high-tech companies, A"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "US's stock"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 82,
+      "snippet": "Asia's, it's the most famous tech company, Asia's most famous tech company, Asia"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 58,
+      "snippet": "most famous tech company, Asia's most famous tech company,"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 75,
+      "snippet": "Asia's, it's the most famous tech company, Asia's most famous tech company,"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 86,
+      "snippet": "Asia's, but also the most famous tech company, Asia's of the most famous tech co"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 42,
+      "snippet": "Asia's, the most famous tech company, Asia"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "Asia's,"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "残片式对比亚洲与美国未来投资潜力，再抛「像纳斯达克」的科技公司清单。",
+      "patterns": [
+        "亚美潜力对照开场",
+        "纳斯达克类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "of Asia's and the US's future investment",
+          "note": "亚美投资潜力"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "Apple微软谷歌对照"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主张亚洲亦有高科→却落到茅台白酒梗→随后ASR陷入「most famous tech company」死循环，主张溃散。",
+      "patterns": [
+        "高科主张→茅台错位→循环溃散"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "亚洲高科主张"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "Zhou Mautai错位"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "重复死循环"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "function": "asia_us_compare",
+          "note": "亚美投资潜力与科技公司对照起手"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "maotai_garbled",
+          "note": "茅台被误听成Zhou Mautai后ASR崩坏循环"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "仅见Second/Third序数，其后被重复句淹没，过渡失效。",
+      "patterns": [
+        "序数Second/Third",
+        "过渡被循环吞没"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "of Asia's and the US's future investment",
+          "note": "Second起"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "Comp's, but also the highest-priest stoc",
+          "note": "Third besides"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "你们有苹果微软谷歌 vs 我们亚洲「最出名科技公司」却说成茅台，反讽对照后崩坏。",
+      "patterns": [
+        "美科技巨头vs茅台错位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "你们有Apple"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "Zhou Mautai"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "窗口内几乎无有效设问，信息以陈述残片推进。",
+      "patterns": [
+        "有效设问缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "of Asia's and the US's future investment",
+          "note": "潜力陈述无问"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "from the frequent liquor technology. It'",
+          "note": "highest-vited陈述"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "点名Apple/Microsoft/Google与上海综指「最高价股」茅台，但例证被ASR污染。",
+      "patterns": [
+        "美科技三巨头例",
+        "茅台最高价股"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "三巨头点名"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "from the frequent liquor technology. It'",
+          "note": "上海最高价股"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「亚洲高科」本应落到具体公司，却错落成白酒茅台与「liquor technology」。",
+      "patterns": [
+        "高科错落白酒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "liquor technology"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "from the frequent liquor technology. It'",
+          "note": "最高价股"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「it's great」「worth leading」等褒扬残留，但被乱码稀释。",
+      "patterns": [
+        "great褒扬残留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "it's great"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "from the frequent liquor technology. It'",
+          "note": "highest-priest"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "未见自我纠错；重复句像卡带而非有意修正。",
+      "patterns": [
+        "无自我纠错",
+        "卡带式重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "重复most famous"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "most famous tech company, Asia's most fa",
+          "note": "再次重复"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前段对照稍有节奏，s7起完全卡死在同一短语循环。",
+      "patterns": [
+        "前段对照",
+        "后段卡带"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "对照列举"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "循环重复"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repair_like",
+          "form": "ASR loop: Asia's most famous tech company"
+        },
+        {
+          "type": "discourse",
+          "form": "Second / Third"
+        },
+        {
+          "type": "garble",
+          "form": "Zhou Mautai / Nassauk"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "重复tech company"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "of Asia's and the US's future investment",
+          "note": "Second like Nassauk"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "Zhou Mautai"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "开场对比轻快→茅台梗突兀→循环导致听感崩溃无情绪弧。",
+      "patterns": [
+        "轻快→突兀→崩溃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "科技对照轻快"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "most famous tech company, Asia's most fa",
+          "note": "循环崩溃"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "无收束，在「Asia's」残片处硬断。",
+      "patterns": [
+        "残片硬断无闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "Asia's, the most famous tech company, As",
+          "note": "Asia残片"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "Asia's,",
+          "note": "Asia's收断"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口无CTA；标题层有douyin关注暗示但不在正文句。",
+      "patterns": [
+        "正文无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "Asia's,",
+          "note": "结尾无行动号召"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "极重度ASR损坏、中英错位、同一句无限复制，呈现人声转写灾难而非光滑生成文。",
+      "patterns": [
+        "ASR死循环",
+        "专名错听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "Mautai错听"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "Asia's, but also the most famous tech co",
+          "note": "循环句"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "仅12句且过半不可读；核心主张无法核实；不适合作为表达样本。",
+      "patterns": [
+        "可读性崩溃",
+        "主张不可核实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "不可读循环"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "Asia's, the most famous tech company, As",
+          "note": "残片"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "意图露出「Second/Third」分点，但推理链在错听后中断。",
+      "patterns": [
+        "分点意图残存"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "Comp's, but also the highest-priest stoc",
+          "note": "Third besides"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "标题对准「爱国的美国人应投中国」，正文残片像对英文听众讲亚洲资产。",
+      "patterns": [
+        "英文听众亚洲资产"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "of Asia's and the US's future investment",
+          "note": "Asia and US"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "You guys have"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "Apple/Microsoft/Google；茅台/上海综指——锚点被错听污染。",
+      "patterns": [
+        "美科技锚",
+        "茅台锚污染"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "Apple Microsoft Google"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "from the frequent liquor technology. It'",
+          "note": "Shanghai Comp"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密→茅台句后信息密度骤降至零（纯重复）。",
+      "patterns": [
+        "中密开场",
+        "重复零密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "high-tech companies. You guys have Apple",
+          "note": "公司名密"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "most famous tech company, Asia's most fa",
+          "note": "零信息重复"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "英语残句切断；后半同一从句复制粘贴式流动停滞。",
+      "patterns": [
+        "残句切断",
+        "复制停滞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "US's stock",
+          "note": "US's stock残"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "复制句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "巫师财经式中英混杂口播企图，被ASR抹成闹剧，人格几乎不可辨。",
+      "patterns": [
+        "中英口播企图被毁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "茅台当科技"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "人格淹没"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "唯一可记：把茅台说成亚洲最著名「科技公司」的错位梗（若非ASR）。",
+      "patterns": [
+        "茅台当科技错位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "Zhou Mautai"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR严重损坏且有效信息不足12句循环，无法支撑观宇迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "Asia's, it's the most famous tech compan",
+          "note": "循环不可用"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "Asia's,",
+          "note": "残片收束"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "it's great Zhou Mautai, which is the Asi",
+          "note": "错听污染"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s7",
+    "s5",
+    "s4",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s10",
+    "s6"
+  ],
+  "fields_complete_25": true
+}

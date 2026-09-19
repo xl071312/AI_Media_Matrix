@@ -1,0 +1,1091 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_v1HBH8UnEgs",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=v1HBH8UnEgs",
+  "source_sha256": "7c1b1beae16d1bc6ccaa8f1296db2fa3e934344bebea5de66a51d41e1fb0cdc2",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 63,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 13,
+      "snippet": "我做科部的时候经常看到一些"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 14,
+      "snippet": "我认为是要考虑的心里有很多的"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "他直接开发力"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "就说是用来计算不到占的运动"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "顺手在今年4月发力"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "便是他们的Cations"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "您想一组14.7"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "文章标题叫"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "过保和流体中物体的"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "全服和兜的学"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "我会亲年让"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "去年那有人发过一篇"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "啤酒里的花生反滚"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 9,
+      "snippet": "今年这篇是蘇大孙的"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "葡萄干反滚"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "我一个发酵"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "下天到的文字很准备的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "有没有什么真正好用的"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "驱纹方法的"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 1,
+      "snippet": "有"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "一天2019年轮有文指出"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "文字讨厌听"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "美国DJStreetlix的歌"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "来自亚洲这波的研究者"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "整来了一大群"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "穷凿的风陪雨液"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "分成两次"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "这次的文字竟然是"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "将一个40%交配"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "平征一百分之八十"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "直接失去的试读欲望"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "作者说"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "这可能是因为"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "这首歌太闹着"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": ",这篇论文发表"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "自了热戴学报上的"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "您想一子2.7"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "你说对中国的文字"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 3,
+      "snippet": "听哪首"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 40,
+      "snippet": "歌《uuuuuuuuuuuuuuuuuuuuuuuuu from the end"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 15,
+      "snippet": "这次研究登上了2020年的那."
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "这次研究者"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "在 尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "尊 尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "尊 ,尊 尊"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 3,
+      "snippet": "尊 �"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 7,
+      "snippet": "尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 3,
+      "snippet": "尊 �"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 1,
+      "snippet": "尊"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 13,
+      "snippet": "尊 尊 尊 尊 尊 尊 尊"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 3,
+      "snippet": "尊 尊"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "尊尝 尊 尊 尊 尊"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "科普观察者自述常撞见离谱论文，用「也能发论文」惊奇感入题（ASR噪声重）。",
+      "patterns": [
+        "离谱论文钩子",
+        "观察者自述"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我做科部的时候经常看到一些",
+          "note": "做科普常看到"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "文章标题叫",
+          "note": "文章标题叫"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "去年那有人发过一篇",
+          "note": "去年有人发过"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "流体/啤酒花生反滚→葡萄干反滚续作→驱蚊有无真方法→DJ音乐灭蚊实验→玩笑式「对中国蚊子听哪首」→尾段ASR崩坏。",
+      "patterns": [
+        "离谱论文串烧",
+        "驱蚊音乐实验",
+        "玩笑收尾崩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "啤酒花生反滚"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "葡萄干反滚",
+          "note": "葡萄干反滚"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "真正好用的驱蚊"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "美国DJStreetlix的歌",
+          "note": "DJ Streetlix"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "hook_odd_papers",
+          "note": "离谱论文开场与流体标题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "peanut_raisin",
+          "note": "啤酒花生与葡萄干反滚对照"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "mozzie_music",
+          "note": "驱蚊真假与音乐实验"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63"
+          ],
+          "function": "asr_collapse",
+          "note": "尾段尊字循环ASR崩坏"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「去年…今年这篇」「有没有」「有」「作者说这可能是因为」串联论文。",
+      "patterns": [
+        "去年今年对照转",
+        "有没有/有应答转",
+        "作者说机制转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "去年那有人发过一篇",
+          "note": "去年那有人发"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "有没有真正好用"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这可能是因为",
+          "note": "这可能是因为"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "去年花生文 vs 今年葡萄干文；离谱趣味论文 vs 声称真正好用的驱蚊法。",
+      "patterns": [
+        "花生/葡萄干对照",
+        "趣味/实用对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "花生反滚"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "葡萄干反滚",
+          "note": "葡萄干反滚"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "真正好用的"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「有没有真正好用的驱蚊方法」推进下一段；「你说对中国的蚊子听哪首」玩笑问。",
+      "patterns": [
+        "实用驱动问",
+        "玩笑选型问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "有没有真正好用"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "你说对中国的文字",
+          "note": "对中国的文字听哪首"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "听哪首",
+          "note": "听哪首"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "啤酒花生反滚、葡萄干反滚、DJ歌灭蚊、热戴学报发表等论文例（ASR音译噪声大）。",
+      "patterns": [
+        "系列反滚论文例",
+        "音乐灭蚊例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "啤酒花生"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "葡萄干反滚",
+          "note": "葡萄干反滚"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "美国DJStreetlix的歌",
+          "note": "DJ歌曲"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "自了热戴学报上的",
+          "note": "热戴学报"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「驱蚊方法」落到具体歌曲实验与「40%交配/百分之八十失去试读欲望」量化结果（ASR残缺）。",
+      "patterns": [
+        "方法→歌曲实验",
+        "效果→百分比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "美国DJStreetlix的歌",
+          "note": "DJ歌曲实验"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "将一个40%交配",
+          "note": "40%交配"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "平征一百分之八十",
+          "note": "百分之八十"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "自承「我认为要考虑」的价值判断；「有」肯定存在真方法；「这首歌太闹」归因断语。",
+      "patterns": [
+        "观察者价值断",
+        "有方法肯定断",
+        "太闹归因"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我认为是要考虑的心里有很多的",
+          "note": "我认为要考虑"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "这首歌太闹着",
+          "note": "这首歌太闹着"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "从「离谱也能发」转到「有没有真正好用」自我纠偏选题；尾段崩坏无法完成修正。",
+      "patterns": [
+        "离谱→实用纠偏选题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "有没有真正好用"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短论文标题串烧加速→问答停顿→机制短句→尾段「尊」字死循环彻底失速。",
+      "patterns": [
+        "标题串烧加速",
+        "问答停顿",
+        "尊字死循环失速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "花生标题密"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有停顿"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "在 尊 尊 尊 尊",
+          "note": "尊字循环"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "有"
+        },
+        {
+          "type": "repair_like",
+          "form": "作者说"
+        },
+        {
+          "type": "repeat_loop",
+          "form": "尊×多"
+        },
+        {
+          "type": "filler_fragment",
+          "form": "您想一组"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有单独成句"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "作者说",
+          "note": "作者说"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "在 尊 尊 尊 尊",
+          "note": "尊循环"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "您想一组14.7",
+          "note": "您想一组噪声"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊奇吐槽→连环笑点→认真求实用→玩笑选歌→ASR崩坏无感。",
+      "patterns": [
+        "惊奇吐槽",
+        "求实用",
+        "崩坏无感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "花生笑点"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "求实用"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "听哪首",
+          "note": "听哪首玩笑"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "尊",
+          "note": "尊崩坏"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "拟以「对中国蚊子听哪首」回扣驱蚊段，但尾段ASR崩溃未能完成闭环。",
+      "patterns": [
+        "选歌回扣未完成",
+        "ASR阻断闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "驱蚊开问"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "听哪首",
+          "note": "听哪首"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "这次研究登上了2020年的那.",
+          "note": "登上2020残句"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "可见窗口无明确三连CTA，偏冷知识串烧展示；尾崩导致收束缺失。",
+      "patterns": [
+        "无硬CTA",
+        "尾崩缺收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "实用问代互动"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "听哪首",
+          "note": "玩笑互动问"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "严重ASR错译、尊字循环、中英碎片，呈现真人口播转写噪声而非平滑生成文。",
+      "patterns": [
+        "ASR错译噪声",
+        "尊字循环",
+        "中英碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "便是他们的Cations",
+          "note": "Cations碎片"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "歌《uuuuuuuuuuuuuuuuuuuuuuuuu from the end",
+          "note": "uuuu from the end"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "在 尊 尊 尊 尊",
+          "note": "尊循环"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真致机制不可读；尾段长达20+句「尊」无信息；论文名音译不可核；结构未收束。",
+      "patterns": [
+        "ASR重失真",
+        "尊字死循环",
+        "未收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "全服和兜的学",
+          "note": "标题不可读"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "在 尊 尊 尊 尊",
+          "note": "尊循环起"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "尊尝 尊 尊 尊 尊",
+          "note": "尊尝残句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "露出「先吐槽离谱→追问有无真用→举实验论文」的选题思维，但机制段被噪声打断。",
+      "patterns": [
+        "吐槽到实用追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "去年那有人发过一篇",
+          "note": "去年有人发"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "有没有什么真正好用的",
+          "note": "追问真用"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这可能是因为",
+          "note": "作者归因"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当冷知识同好，用「你说对中国蚊子」拉共谋玩笑位。",
+      "patterns": [
+        "冷知识同好位",
+        "共谋玩笑问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我做科部的时候经常看到一些",
+          "note": "我做科普"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "你说对中国的文字",
+          "note": "你说对中国"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "啤酒花生、葡萄干反滚、DJ歌、40%/80%数据残片、热戴学报。",
+      "patterns": [
+        "花生锚",
+        "葡萄干锚",
+        "DJ歌锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "啤酒花生"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "葡萄干反滚",
+          "note": "葡萄干反滚"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "美国DJStreetlix的歌",
+          "note": "DJ Streetlix"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "前段论文名中密→实验数据短暂高密→尾段零信息崩塌。",
+      "patterns": [
+        "论文名中密",
+        "尾段零密崩塌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "论文名中密"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "将一个40%交配",
+          "note": "数据残片"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "尊",
+          "note": "零信息"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短标题碎句推进；「有」单字应答；后半尊字机械重复破坏流动。",
+      "patterns": [
+        "短碎句推进",
+        "单字应答",
+        "机械重复破流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "文章标题叫",
+          "note": "文章标题叫"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "有",
+          "note": "有"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "尊 尊 尊 尊 尊",
+          "note": "尊重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "吐槽型科普主播：专挖「也能发论文」的荒诞感，玩笑多于严谨推导。",
+      "patterns": [
+        "荒诞吐槽科普"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "花生吐槽"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "这首歌太闹着",
+          "note": "太闹着玩笑归因"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "啤酒花生反滚、葡萄干反滚、蚊子听DJ、也能发论文。",
+      "patterns": [
+        "花生反滚",
+        "葡萄干反滚",
+        "蚊子听DJ"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "啤酒里的花生反滚",
+          "note": "花生反滚"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "葡萄干反滚",
+          "note": "葡萄干反滚"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "美国DJStreetlix的歌",
+          "note": "DJ歌曲"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "选题「离谱论文串烧」有趣，但本转写ASR崩坏过重，机制与收束不可用，不值得直接迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "在 尊 尊 尊 尊",
+          "note": "尊循环不可用"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "全服和兜的学",
+          "note": "标题不可读"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "尊尝 尊 尊 尊 尊",
+          "note": "尾崩"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s8",
+    "s12",
+    "s13",
+    "s15",
+    "s18",
+    "s23",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s14",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1183 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7569551624482406931",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7569551624482406931/",
+  "source_sha256": "f24916c5437dde9d85bc35eed7e20ebb164ab9dd3d9fc637877b48201ee20e96",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 79,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 18,
+      "snippet": "后台很多人问我怎么看最近山姆的风波。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 38,
+      "snippet": "简单来说，是山姆APP更新后，原本的一些商品图变成了成品图、AI图上了热搜。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "（截图来自界面新闻）"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 44,
+      "snippet": "一句话概括，就是把原本实拍的果蔬生鲜图片，换成了成品的、做好的食物图片，而且是美"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 13,
+      "snippet": "由此，导致了很多用户不满。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 50,
+      "snippet": "虽然山姆紧急修改了图片，但还是有很多人把矛头指向了上个月刚加入山姆，担任会员店业"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "各种留言下都是骂阿里的。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "山姆看了都笑了。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "这可真是，天选背锅侠。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "为什么说这个阿里前高管是背锅侠？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 57,
+      "snippet": "首先控制变量，人家是上个月27号才官宣入职的，而山姆逐渐变得奇怪是这两年一直的事"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 32,
+      "snippet": "这堆破事儿本来就和他没关系，他又不是时间刺客，能穿越时空搞事儿。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 16,
+      "snippet": "他也不是尤里，不能远程操控心灵。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 18,
+      "snippet": "所以山姆看到大家都在喷，自然开心啊。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "虽然也喷了自己，但也开心。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "因为，可以丢锅了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 53,
+      "snippet": "从山姆本身利益的角度去理解，是理解不了这件事情的，因为你会认为山姆是一个个体，哪"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 20,
+      "snippet": "但实际上，山姆是一个群体，一堆人组成的。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "每个人都有自己的小算盘。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 36,
+      "snippet": "并不是里面的所有人都在意山姆好坏，公司好坏关我啥事，谁是总裁他们无所谓。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 17,
+      "snippet": "但大家都很在意自己的奖金以及岗位。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 19,
+      "snippet": "而当下最影响他们的奖金和岗位的是什么？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "是【增长KPI】，山姆最头痛的是增长。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 51,
+      "snippet": "是23年和24年的恐怖增速因为经济原因很难维持了，之前的红利已经吃完了，事情已经"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 18,
+      "snippet": "但问题是，人家美国总部可不这么理解。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 29,
+      "snippet": "他们的理解是，过去增速这么猛，现在不行了，需要有一个解释。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "不然要你们在那干嘛？"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 30,
+      "snippet": "上过班的都知道，你上个月的最高记录，就是你下个月的最低要求。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 21,
+      "snippet": "不要指望老板体谅你，老板字典里就没这个词。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 34,
+      "snippet": "所以山姆这一年来激进的开店策略和各种花里胡哨的操作都是被KPI逼的。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 30,
+      "snippet": "你不折腾，就没有增长，而且还要被老板质疑怎么什么动静都没有？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "态度都没有的嘛？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 25,
+      "snippet": "但折腾了，也不一定会有增长，毕竟市场盘子就这样了。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 14,
+      "snippet": "这时候，就需要一个背锅的了。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 33,
+      "snippet": "在你明确知道KPI完不成的情况下，你作为一个分公司最需要的是什么？"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "是甩锅。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 29,
+      "snippet": "已经在山顶了，怎么走都是向下，这时候握方向盘的就是背锅的。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 12,
+      "snippet": "所以要让别人来握方向盘。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "但，甩锅是门艺术。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 22,
+      "snippet": "甩锅的最高境界，就是让所有人都觉得你没甩锅。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 30,
+      "snippet": "你提拔个实习生当总监，找个保安当总裁，这不叫甩锅，这叫自爆。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 32,
+      "snippet": "但凡有人问一句【为什么找ta】，这个锅还是会360度扣回你头上。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 27,
+      "snippet": "所以，这个甩锅的对象必须，必须，必须，让人挑不出毛病。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 22,
+      "snippet": "要让人觉得，是ta辜负你，而不是你坑了ta。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 31,
+      "snippet": "就像爱情里的渣男渣女一样，明明是踹人却好像显得自己很委屈一样。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 11,
+      "snippet": "于是，这个老哥出现了。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 18,
+      "snippet": "真的，他的履历和状态简直是背锅天选。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 37,
+      "snippet": "总裁不能乱选，得有懂行做过的，巧了，这人有麦德龙的履历，可以说是真的懂行。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 46,
+      "snippet": "总裁不能乱选，得有打过胜仗的，巧了，这人有天猫国际的履历，可以说在乱卷的市场中真"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 32,
+      "snippet": "所以他在这个位置，从匹配度上无可挑剔，是一个纯种赛级职业经理人。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 30,
+      "snippet": "甚至这时候，他的阿里履历导致山姆被骂，更让山姆的人笑发财了。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "太好了。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 46,
+      "snippet": "本来就不知道怎么跟总部解释今年的增长不达预期，现在太好了，所有锅都可以甩这人以及"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 41,
+      "snippet": "别管这些方案提出来的时候他是不是还没入职，但反正出事儿的时候他是掌舵的，那都怪他"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 43,
+      "snippet": "别管用户的不满意是不是因为这几年的花里胡哨的操作，反正现在大家骂的都是他和他的老"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 24,
+      "snippet": "总部你看，不是我不努力，实在是没办法了，都怪他。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 15,
+      "snippet": "所以，他成了山姆的天选背锅侠。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 38,
+      "snippet": "从美国总部的角度，其实也无所谓是不是因为他，因为人家也是一堆打工人和甩锅侠。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 25,
+      "snippet": "只要这个理由过得去，那后面为了舆论去折腾他就好了。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 24,
+      "snippet": "对外说哎呀我们改了，之前有坏人，现在没啦都好啦。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 23,
+      "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "至于你说老哥本人难道不知道吗？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 40,
+      "snippet": "当然知道，人家国企外企民企都做过，那是真的懂行，第一天看到这个岗位就知道风险了。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 12,
+      "snippet": "但人家为什么能成为标杆？"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 27,
+      "snippet": "那就是有职业精神，面对锅的时候不退缩，钱到位都可以背。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 15,
+      "snippet": "作为职业经理人，这就是水平了。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 22,
+      "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "后台追问起笔，一句话概括山姆APP实拍变成品/AI图风波，立刻钉「天选背锅侠」。",
+      "patterns": [
+        "后台追问起笔",
+        "一句话概括事件",
+        "背锅侠钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "后台很多人问我怎么看最近山姆的风波。",
+          "note": "后台很多人问"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "一句话概括，就是把原本实拍的果蔬生鲜图片，换成了成品的、做好的食物图片，而且是美",
+          "note": "实拍换成成品"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这可真是，天选背锅侠。",
+          "note": "天选背锅侠"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "入职时间控制变量→山姆是群体非个体→增长KPI逼折腾→山顶需甩锅艺术→履历天选→总部也甩锅→本人知情职业精神。",
+      "patterns": [
+        "时间控制变量",
+        "群体小算盘",
+        "KPI逼折腾",
+        "甩锅艺术",
+        "天选履历"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "首先控制变量，人家是上个月27号才官宣入职的，而山姆逐渐变得奇怪是这两年一直的事",
+          "note": "上个月才入职"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但实际上，山姆是一个群体，一堆人组成的。",
+          "note": "山姆是一个群体"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "是【增长KPI】，山姆最头痛的是增长。",
+          "note": "增长KPI"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "甩锅的最高境界，就是让所有人都觉得你没甩锅。",
+          "note": "甩锅最高境界"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "真的，他的履历和状态简直是背锅天选。",
+          "note": "背锅天选"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "function": "event_scapegoat_hook",
+          "note": "风波与背锅侠钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "time_group_lens",
+          "note": "时间变量与群体小算盘"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "kpi_need_scapegoat",
+          "note": "增长KPI与山顶甩锅"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68"
+          ],
+          "function": "art_of_blame",
+          "note": "甩锅艺术与履历匹配"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "hq_and_pro_close",
+          "note": "总部视角与职业精神收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "为什么说/首先/所以/但实际上/于是/至于推进组织利益叙事。",
+      "patterns": [
+        "为什么说",
+        "首先控制变量",
+        "但实际上",
+        "于是"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "为什么说这个阿里前高管是背锅侠？",
+          "note": "为什么说"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "首先控制变量，人家是上个月27号才官宣入职的，而山姆逐渐变得奇怪是这两年一直的事",
+          "note": "首先控制变量"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但实际上，山姆是一个群体，一堆人组成的。",
+          "note": "但实际上"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "于是，这个老哥出现了。",
+          "note": "于是这个老哥"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "个体挨骂不开心 vs 群体可丢锅；实习生自爆 vs 赛级经理人；入职前方案 vs 出事时掌舵。",
+      "patterns": [
+        "个体vs群体",
+        "自爆vs天选",
+        "入职前后锅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "从山姆本身利益的角度去理解，是理解不了这件事情的，因为你会认为山姆是一个个体，哪",
+          "note": "个体挨骂"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你提拔个实习生当总监，找个保安当总裁，这不叫甩锅，这叫自爆。",
+          "note": "实习生当总监"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "别管这些方案提出来的时候他是不是还没入职，但反正出事儿的时候他是掌舵的，那都怪他",
+          "note": "还没入职"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "为何是背锅侠、最影响奖金是什么、分公司最需要什么、本人难道不知道等追问。",
+      "patterns": [
+        "为何背锅",
+        "影响奖金啥",
+        "最需要甩锅",
+        "本人知道吗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "为什么说这个阿里前高管是背锅侠？",
+          "note": "为什么说背锅侠"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "而当下最影响他们的奖金和岗位的是什么？",
+          "note": "影响奖金岗位"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "在你明确知道KPI完不成的情况下，你作为一个分公司最需要的是什么？",
+          "note": "最需要的是什么"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "至于你说老哥本人难道不知道吗？",
+          "note": "难道不知道吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "时间刺客/尤里遥控；上月最高=下月最低；渣男渣女委屈踹人；借你人头一用三国典。",
+      "patterns": [
+        "时间刺客尤里",
+        "KPI最低要求",
+        "渣男甩锅",
+        "借人头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "这堆破事儿本来就和他没关系，他又不是时间刺客，能穿越时空搞事儿。",
+          "note": "时间刺客"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "上过班的都知道，你上个月的最高记录，就是你下个月的最低要求。",
+          "note": "最高记录最低要求"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "就像爱情里的渣男渣女一样，明明是踹人却好像显得自己很委屈一样。",
+          "note": "渣男渣女"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。",
+          "note": "借你人头一用"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "增长抽象→23/24红利吃完；甩锅艺术→必须让人挑不出毛病的履历三连；总部→对外有坏人现在好啦。",
+      "patterns": [
+        "红利吃完具象",
+        "履历三连必须",
+        "对外改了话术"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "是23年和24年的恐怖增速因为经济原因很难维持了，之前的红利已经吃完了，事情已经",
+          "note": "红利已经吃完"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "所以，这个甩锅的对象必须，必须，必须，让人挑不出毛病。",
+          "note": "必须必须必须"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "对外说哎呀我们改了，之前有坏人，现在没啦都好啦。",
+          "note": "之前有坏人"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "天选背锅侠、丢锅、山顶向下、纯种赛级职业经理人、借人头等重判。",
+      "patterns": [
+        "天选背锅侠",
+        "山顶向下",
+        "赛级经理人",
+        "借人头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这可真是，天选背锅侠。",
+          "note": "天选背锅侠"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "已经在山顶了，怎么走都是向下，这时候握方向盘的就是背锅的。",
+          "note": "已经在山顶了"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "所以他在这个位置，从匹配度上无可挑剔，是一个纯种赛级职业经理人。",
+          "note": "赛级职业经理人"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。",
+          "note": "借你人头"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认也喷了自己但仍开心；承认方案提出时他未必在场，立刻用「出事时掌舵」翻盘。",
+      "patterns": [
+        "承认被喷仍开心",
+        "时间翻盘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "虽然也喷了自己，但也开心。",
+          "note": "虽然也喷了自己"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "别管这些方案提出来的时候他是不是还没入职，但反正出事儿的时候他是掌舵的，那都怪他",
+          "note": "别管他还没入职"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "截图标题反复插入顿挫；短句「是甩锅」「太好了」锤点；长推演后金句收。",
+      "patterns": [
+        "截图顿挫",
+        "短锤甩锅",
+        "长推金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "是甩锅。",
+          "note": "是甩锅"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "太好了。",
+          "note": "太好了"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "所以，他成了山姆的天选背锅侠。",
+          "note": "天选背锅侠"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "八卦好奇→替人喊冤→拆组织阴暗爽感→对老哥职业精神敬畏式黑幽默。",
+      "patterns": [
+        "好奇→喊冤→阴暗爽→敬畏黑幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "后台很多人问我怎么看最近山姆的风波。",
+          "note": "怎么看风波"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "这堆破事儿本来就和他没关系，他又不是时间刺客，能穿越时空搞事儿。",
+          "note": "跟他没关系"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "甚至这时候，他的阿里履历导致山姆被骂，更让山姆的人笑发财了。",
+          "note": "笑发财了"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "作为职业经理人，这就是水平了。",
+          "note": "这就是水平"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头天选背锅侠→结尾职业经理人水平/钱到位都可背，人设闭环。",
+      "patterns": [
+        "背锅侠首尾",
+        "职业精神闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这可真是，天选背锅侠。",
+          "note": "天选背锅侠"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "所以，他成了山姆的天选背锅侠。",
+          "note": "成了天选背锅侠"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "那就是有职业精神，面对锅的时候不退缩，钱到位都可以背。",
+          "note": "钱到位都可以背"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；以职业精神评价收束，靠洞察留人。",
+      "patterns": [
+        "无硬CTA",
+        "评价收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s78",
+          "snippet": "作为职业经理人，这就是水平了。",
+          "note": "作为职业经理人这就是水平了"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "时间刺客、尤里心灵、渣男渣女、笑发财、借人头等网络黑话与三国梗。",
+      "patterns": [
+        "时间刺客",
+        "尤里",
+        "渣男渣女",
+        "借人头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "这堆破事儿本来就和他没关系，他又不是时间刺客，能穿越时空搞事儿。",
+          "note": "时间刺客"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "他也不是尤里，不能远程操控心灵。",
+          "note": "不是尤里"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "就像爱情里的渣男渣女一样，明明是踹人却好像显得自己很委屈一样。",
+          "note": "渣男渣女"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。",
+          "note": "三国记载"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "推断组织心理偏阴谋论；对当事人履历褒扬可能被读成洗白；截图重复占位多。",
+      "patterns": [
+        "阴谋论倾向",
+        "洗白风险",
+        "截图占位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "因为，可以丢锅了。",
+          "note": "可以丢锅了"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "所以他在这个位置，从匹配度上无可挑剔，是一个纯种赛级职业经理人。",
+          "note": "无可挑剔"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "图片截取自: 山姆的风波，阿里前高管只是背锅",
+          "note": "图片截取"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式「从山姆利益理解不了→换成群体」视角切换；甩锅艺术层层加条件推理。",
+      "patterns": [
+        "视角切换推理",
+        "甩锅条件递进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "从山姆本身利益的角度去理解，是理解不了这件事情的，因为你会认为山姆是一个个体，哪",
+          "note": "从利益角度理解不了"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但，甩锅是门艺术。",
+          "note": "甩锅是门艺术"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "所以，这个甩锅的对象必须，必须，必须，让人挑不出毛病。",
+          "note": "必须挑不出毛病"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认读者上过班懂KPI；用「你上个月最高记录」把打工共鸣拉满。",
+      "patterns": [
+        "上过班默认",
+        "KPI共鸣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "上过班的都知道，你上个月的最高记录，就是你下个月的最低要求。",
+          "note": "上过班的都知道"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不要指望老板体谅你，老板字典里就没这个词。",
+          "note": "老板字典没体谅"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "上个月27号官宣、23/24增速、麦德龙/天猫国际履历、三国借人头。",
+      "patterns": [
+        "入职日期",
+        "增速年份",
+        "履历锚点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "首先控制变量，人家是上个月27号才官宣入职的，而山姆逐渐变得奇怪是这两年一直的事",
+          "note": "上个月27号"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "是23年和24年的恐怖增速因为经济原因很难维持了，之前的红利已经吃完了，事情已经",
+          "note": "23年和24年"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "总裁不能乱选，得有懂行做过的，巧了，这人有麦德龙的履历，可以说是真的懂行。",
+          "note": "麦德龙履历"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "总裁不能乱选，得有打过胜仗的，巧了，这人有天猫国际的履历，可以说在乱卷的市场中真",
+          "note": "天猫国际"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "事件复述中密→组织心理高密→履历匹配中密→职业精神低密收。",
+      "patterns": [
+        "事件中→心理高→履历中→低密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一句话概括，就是把原本实拍的果蔬生鲜图片，换成了成品的、做好的食物图片，而且是美",
+          "note": "一句话概括"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "所以山姆这一年来激进的开店策略和各种花里胡哨的操作都是被KPI逼的。",
+          "note": "KPI逼的"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "总裁不能乱选，得有懂行做过的，巧了，这人有麦德龙的履历，可以说是真的懂行。",
+          "note": "麦德龙"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "作为职业经理人，这就是水平了。",
+          "note": "这就是水平"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问接极短答；「必须」三叠加强；长因果句后短判收。",
+      "patterns": [
+        "短问短答",
+        "必须三叠",
+        "长因短判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "在你明确知道KPI完不成的情况下，你作为一个分公司最需要的是什么？",
+          "note": "最需要的是什么"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "是甩锅。",
+          "note": "是甩锅"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "所以，这个甩锅的对象必须，必须，必须，让人挑不出毛病。",
+          "note": "必须必须必须"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式组织阴暗观察者：替背锅侠说话，又把总部/分公司写成甩锅连环，冷幽默不站队品牌。",
+      "patterns": [
+        "替背锅说话",
+        "甩锅连环",
+        "冷幽默不站队"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这可真是，天选背锅侠。",
+          "note": "天选背锅侠"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "总部你看，不是我不努力，实在是没办法了，都怪他。",
+          "note": "总部你看都怪他"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。",
+          "note": "借你人头"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "天选背锅侠、山顶握方向盘、甩锅最高境界、借你人头一用。",
+      "patterns": [
+        "天选背锅侠",
+        "山顶方向盘",
+        "甩锅境界",
+        "借人头"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "这可真是，天选背锅侠。",
+          "note": "天选背锅侠"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "已经在山顶了，怎么走都是向下，这时候握方向盘的就是背锅的。",
+          "note": "握方向盘就是背锅"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "甩锅的最高境界，就是让所有人都觉得你没甩锅。",
+          "note": "最高境界"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "此事，其实三国中亦有记载，就是借你人头一用嘛。",
+          "note": "借你人头"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "组织甩锅/KPI逼增长叙事骨架可直接迁移到科技公司人事与背锅口播。",
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "是【增长KPI】，山姆最头痛的是增长。",
+          "note": "增长KPI"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "甩锅的最高境界，就是让所有人都觉得你没甩锅。",
+          "note": "甩锅最高境界"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "所以，他成了山姆的天选背锅侠。",
+          "note": "天选背锅侠"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s6",
+    "s11",
+    "s14",
+    "s22",
+    "s28",
+    "s48",
+    "s56",
+    "s13",
+    "s55",
+    "s21",
+    "s49",
+    "s64",
+    "s27",
+    "s42",
+    "s74",
+    "s15",
+    "s34",
+    "s53",
+    "s72",
+    "s29",
+    "s51",
+    "s71",
+    "s44",
+    "s59",
+    "s19",
+    "s43",
+    "s62",
+    "s67",
+    "s61",
+    "s78",
+    "s77",
+    "s16",
+    "s20",
+    "s4",
+    "s47",
+    "s35",
+    "s57",
+    "s58",
+    "s36",
+    "s66"
+  ],
+  "fields_complete_25": true
+}

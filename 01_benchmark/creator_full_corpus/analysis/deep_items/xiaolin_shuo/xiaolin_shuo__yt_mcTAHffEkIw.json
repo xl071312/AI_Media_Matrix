@@ -1,0 +1,1654 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_mcTAHffEkIw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=mcTAHffEkIw",
+  "source_sha256": "4c1a3fa15fd4dd0bb88929fbb249b3ff155769d4efcb96a8e340f5066a0396be",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "和他借"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "到日,"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "工积不阻加格商场"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "哎,"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "那一段时间内存"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "那这变后呢"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "其实有很多值得"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "直到练习"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 1,
+      "snippet": "深"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "深吧"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "吃入s 入调的内容"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "你说内存怎么就"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "成了韩国"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "人的天下"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 4,
+      "snippet": "他的假则"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "为什么一天到晚凸凤"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "这个AI个内存"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "就是什么关系"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "咱们来看看"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "内存背后的商用"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "首先咱先简单说一下"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "什么是内存"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "比如说你去买个手衣"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "或者买个电脑"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "那经常会看到参数说"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "16G512G"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "意思呢就是16G的内存"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "512G的硬盘"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "我们今天要聊的重点"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "我们要说的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "Commission"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "但是呢"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "他好处就是快"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "有点像像 one"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "就说大一个骗证嘛"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "说367482"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "就367482"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "他"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "ed by the"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 1,
+      "snippet": "而"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 3,
+      "snippet": "The"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 5,
+      "snippet": "是你不想想"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "我给他们起"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 14,
+      "snippet": "你说我 many years"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 11,
+      "snippet": "我花了那么多年那么多钱"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 10,
+      "snippet": "我讲他主题不什么关系"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 8,
+      "snippet": "变成了一个国家队"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 6,
+      "snippet": "就是这个折瘪"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 14,
+      "snippet": "然后基本上在电下来了双胸格局"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "日本那边也差不多"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "从九六年开始"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 10,
+      "snippet": "那五节都亏钱亏得很惨"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "金融危机之后"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 8,
+      "snippet": "政府也让他们整合"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 11,
+      "snippet": "最后是这个NEC和日历"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 15,
+      "snippet": "各自把自己的内存业务给剥离出来"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "合遍 成立了而抵抗"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 16,
+      "snippet": "后来呢把三零的内存业务也变了进来"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 10,
+      "snippet": "工资和富士通就退出了"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 8,
+      "snippet": "也就是说日本五节"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 6,
+      "snippet": "这义努力起来"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 8,
+      "snippet": "变成了一个国家队"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 6,
+      "snippet": "就是这个拯法"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 2,
+      "snippet": "大家"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 5,
+      "snippet": "那么说as"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 8,
+      "snippet": "你看金融危机爆发"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 5,
+      "snippet": "关键是一年"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 5,
+      "snippet": "没完彼比赛"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 4,
+      "snippet": "也没人看"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 11,
+      "snippet": "所以你要从经济计计计计"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 1,
+      "snippet": "海"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 4,
+      "snippet": "非常失败"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 3,
+      "snippet": "他不赚"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 4,
+      "snippet": "他不赏钱"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 6,
+      "snippet": "到什么程度呢"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 5,
+      "snippet": "2019年"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 8,
+      "snippet": "AMB自己就全部"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "放弃在消费机前卡上"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 5,
+      "snippet": "使用HBM"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 4,
+      "snippet": "这还是吧"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 3,
+      "snippet": "好事好"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 5,
+      "snippet": "但是太贵了"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 6,
+      "snippet": "到2020年"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 5,
+      "snippet": "一个比例下"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 10,
+      "snippet": "应该以于原来能感觉到"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 10,
+      "snippet": "这个行业非常非常地卷"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 9,
+      "snippet": "90年代那么多巨头"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 14,
+      "snippet": "10年里 贴到他都被干起去了"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 12,
+      "snippet": "即使是那几家最大的内存厂"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 9,
+      "snippet": "还有政府在后面帮忙"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 13,
+      "snippet": "说到必自倒闭 说破产就破产"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 8,
+      "snippet": "你说这是什么回事"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 9,
+      "snippet": "这就要说到内存制造"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 9,
+      "snippet": "一个非常主要的特点"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 13,
+      "snippet": "就是它是一个高固定成本投入"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 8,
+      "snippet": "产品高度 同制化"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 11,
+      "snippet": "这么一个�,什么意思呢"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 9,
+      "snippet": "就初期我要投很多钱"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 6,
+      "snippet": "这是固定成本"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 5,
+      "snippet": "不光是投钱"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 5,
+      "snippet": "还得花时间"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 5,
+      "snippet": "而这个产线"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 13,
+      "snippet": "就是AI需求爆发带来的效率"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 15,
+      "snippet": "前� ​​端 算地需求一旦起飞"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 5,
+      "snippet": "整个产业链"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 14,
+      "snippet": "就会被一起拉折来进行压力测试"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 5,
+      "snippet": "哪儿更不上"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 14,
+      "snippet": "可能这就是下一个分立的分配件"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 6,
+      "snippet": "那我们是能源"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 6,
+      "snippet": "那我们是封装"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 7,
+      "snippet": "那我们是HBM"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 17,
+      "snippet": "所以下一个被压力测试压出来的 环节"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 15,
+      "snippet": "很可能就是下一个万一美金的赛道"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "在ASR噪声中仍抛出三连问：内存何以成韩国天下、价格为何波动、AI与内存什么关系，再「咱们来看看内存背后的商业」。",
+      "patterns": [
+        "三连产业问",
+        "背后商业邀看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你说内存怎么就",
+          "note": "内存怎么就"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "成了韩国",
+          "note": "成了韩国"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "为什么一天到晚凸凤",
+          "note": "价格波动"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这个AI个内存",
+          "note": "AI与内存"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "内存背后的商用",
+          "note": "背后商用"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "先分清内存vs硬盘→行业高固成本+同质化→日韩政府整合国家队→周期亏钱破产常见→AI需求把产业链拉去做压力测试→跟不上的环节或成下一万亿赛道（HBM/封装/能源）。",
+      "patterns": [
+        "概念澄清",
+        "成本同质化",
+        "国家队整合",
+        "周期破产",
+        "AI压力测试赛道"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "意思呢就是16G的内存",
+          "note": "16G内存"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "512G的硬盘",
+          "note": "512G硬盘"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "高固定成本"
+        },
+        {
+          "sentence_id": "s174",
+          "snippet": "产品高度 同制化",
+          "note": "同质化"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "变成了一个国家队",
+          "note": "国家队"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "说破产就破产"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "就会被一起拉折来进行压力测试",
+          "note": "压力测试"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "万亿赛道"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "hook_questions",
+          "note": "噪声开场与三问"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "what_is_ram",
+          "note": "内存硬盘区分与快"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95"
+          ],
+          "function": "korea_japan_team",
+          "note": "韩日整合国家队史"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166"
+          ],
+          "function": "hbm_fail_cost",
+          "note": "HBM贵与消费放弃"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s167",
+            "s168",
+            "s169",
+            "s170",
+            "s171",
+            "s172",
+            "s173",
+            "s174",
+            "s175",
+            "s176",
+            "s177",
+            "s178",
+            "s179",
+            "s180",
+            "s181",
+            "s182",
+            "s183",
+            "s184",
+            "s185",
+            "s186",
+            "s187",
+            "s188",
+            "s189",
+            "s190",
+            "s191"
+          ],
+          "function": "cost_structure_ai",
+          "note": "高固成本与AI压力测试"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先咱先简单说一下」「但是呢」「也就是说」「这就要说到」「所以下一个」讲解转场，虽有ASR仍可辨。",
+      "patterns": [
+        "首先简单说",
+        "也就是说收束",
+        "这就要说到机制",
+        "所以下一个前瞻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "首先咱先简单说一下",
+          "note": "首先简单说"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但是呢",
+          "note": "但是呢"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "也就是说日本五节",
+          "note": "也就是说"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "这就要说到内存制造",
+          "note": "这就要说到"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "所以下一个被压力测试压出来的 环节",
+          "note": "所以下一个"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "内存快易失 vs 硬盘大；90年代多巨头 vs 十年被干出局；政府帮忙仍破产；HBM性能好但太贵消费卡放弃。",
+      "patterns": [
+        "内存vs硬盘",
+        "多巨头vs出局",
+        "有政府仍破产",
+        "HBM好但贵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "他好处就是快",
+          "note": "好处就是快"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "90年代那么多巨头",
+          "note": "90年代巨头"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "10年里 贴到他都被干起去了",
+          "note": "被干出去"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "还有政府在后面帮忙",
+          "note": "政府帮忙"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "仍破产"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "但是太贵了",
+          "note": "太贵了"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「内存怎么成韩国天下」「价格为何波动」「AI什么关系」「这是什么回事」「什么意思呢」驱动章问。",
+      "patterns": [
+        "产业起源问",
+        "波动问",
+        "AI关系问",
+        "机制什么意思问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你说内存怎么就",
+          "note": "怎么就"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "为什么一天到晚凸凤",
+          "note": "为何波动"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "就是什么关系",
+          "note": "什么关系"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "你说这是什么回事",
+          "note": "什么回事"
+        },
+        {
+          "sentence_id": "s175",
+          "snippet": "这么一个�,什么意思呢",
+          "note": "什么意思呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "手机电脑16G/512G参数、记数字367482类比、日NEC/日立剥离合成、三星整合、AMD放弃消费HBM、能源/封装/HBM清单。",
+      "patterns": [
+        "购机参数例",
+        "记数字类比",
+        "日厂剥离例",
+        "放弃HBM例",
+        "瓶颈清单例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "16G512G",
+          "note": "16G512G"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "说367482",
+          "note": "367482"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "各自把自己的内存业务给剥离出来",
+          "note": "NEC剥离"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "放弃在消费机前卡上",
+          "note": "放弃消费HBM"
+        },
+        {
+          "sentence_id": "s189",
+          "snippet": "那我们是HBM",
+          "note": "HBM"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「高固定成本同质化」落到投钱花时间；「压力测试」落到能源封装HBM谁跟不上；「国家队」落到厂剥离合并。",
+      "patterns": [
+        "成本抽象→投钱时间",
+        "压力测试→环节清单",
+        "国家队→剥离合并"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "高固定成本"
+        },
+        {
+          "sentence_id": "s176",
+          "snippet": "就初期我要投很多钱",
+          "note": "投很多钱"
+        },
+        {
+          "sentence_id": "s179",
+          "snippet": "还得花时间",
+          "note": "花时间"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "那我们是能源",
+          "note": "能源"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "各自把自己的内存业务给剥离出来",
+          "note": "剥离合并"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「非常非常地卷」「说倒闭就倒闭」「好事但太贵了」「很可能就是下一个万亿赛道」判断明确。",
+      "patterns": [
+        "非常卷",
+        "说破产就破产",
+        "太贵了",
+        "万亿赛道预判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s164",
+          "snippet": "这个行业非常非常地卷",
+          "note": "非常卷"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "破产"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "但是太贵了",
+          "note": "太贵了"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "万亿赛道"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "开场噪声后重Clarifying「什么是内存」；对HBM「好事」立刻补「但是太贵」自我平衡。",
+      "patterns": [
+        "噪声后重定义",
+        "好事但太贵平衡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "首先咱先简单说一下",
+          "note": "重说什么是"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "好事好",
+          "note": "好事好"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "但是太贵了",
+          "note": "但太贵"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "噪声乱开→问答提起→参数科普稳→历史整合中述→贵/破产加重→成本定义加速→赛道清单收。",
+      "patterns": [
+        "乱开提起",
+        "科普稳",
+        "破产加重",
+        "清单收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "哎,",
+          "note": "哎噪声"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "什么是内存",
+          "note": "科普"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "破产加重"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "那我们是能源",
+          "note": "清单收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "哎"
+        },
+        {
+          "type": "discourse",
+          "form": "但是呢"
+        },
+        {
+          "type": "discourse",
+          "form": "咱们来看看"
+        },
+        {
+          "type": "asr_noise",
+          "form": "The The The"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "哎,",
+          "note": "哎"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但是呢",
+          "note": "但是呢"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "咱们来看看",
+          "note": "咱们来看看"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "The",
+          "note": "The噪声"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "困惑噪声→好奇三问→清晰科普→历史残酷感→对周期敬畏→AI前景兴奋前瞻。",
+      "patterns": [
+        "困惑→好奇",
+        "残酷敬畏",
+        "前瞻兴奋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你说内存怎么就",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "10年里 贴到他都被干起去了",
+          "note": "残酷"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "敬畏"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "兴奋前瞻"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「AI与内存关系」用需求起飞压力测试回收；「谁在哭谁在笑」题面落在跟不上的环节变万亿赛道（窗外半闭环）。",
+      "patterns": [
+        "AI关系回收",
+        "瓶颈变赛道收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这个AI个内存",
+          "note": "AI关系开"
+        },
+        {
+          "sentence_id": "s182",
+          "snippet": "前� ​​端 算地需求一旦起飞",
+          "note": "算力需求起飞"
+        },
+        {
+          "sentence_id": "s190",
+          "snippet": "所以下一个被压力测试压出来的 环节",
+          "note": "压出环节"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "万亿赛道"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA，以产业前瞻句收束代替关注号召。",
+      "patterns": [
+        "前瞻代CTA",
+        "弱外向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s190",
+          "snippet": "所以下一个被压力测试压出来的 环节",
+          "note": "下一个环节"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "万亿赛道"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "购机对话感、367482即时记忆类比、说破产就破产口语；同时大段The/Commission暴露ASR而非洁净文案。",
+      "patterns": [
+        "购机口语",
+        "数字记忆类比",
+        "破产口语",
+        "ASR脏信号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "比如说你去买个手衣",
+          "note": "买手机"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "说367482",
+          "note": "367482"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "说到必自倒闭 说破产就破产",
+          "note": "说破产就破产"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "Commission",
+          "note": "Commission噪声"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "开场与中段ASR严重；日韩史专名不清；HBM段跳跃；固定成本论证被噪声打断。",
+      "patterns": [
+        "ASR伤",
+        "专名不清",
+        "HBM跳跃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "The",
+          "note": "The重复"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "最后是这个NEC和日历",
+          "note": "日历ASR"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "AMB自己就全部",
+          "note": "HBM跳入"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「先定义部件→问为何韩国→用成本结构解释周期→接到AI瓶颈前瞻」产业讲解思维。",
+      "patterns": [
+        "先定义",
+        "结构解释周期",
+        "瓶颈前瞻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "什么是内存",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "这就要说到内存制造",
+          "note": "结构"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "成本特点"
+        },
+        {
+          "sentence_id": "s184",
+          "snippet": "就会被一起拉折来进行压力测试",
+          "note": "压力测试前瞻"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当刚看懂手机参数的普通人，用「比如说你去买」拉齐，再升到产业投资者视角。",
+      "patterns": [
+        "购机普通人",
+        "升产业视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "比如说你去买个手衣",
+          "note": "买手机"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "内存背后的商用",
+          "note": "背后商业"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "咱们来看看",
+          "note": "咱们来看看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "16G/512G、367482、NEC剥离、HBM、高固定成本同质化、能源/封装/HBM、万亿赛道。",
+      "patterns": [
+        "参数锚",
+        "HBM锚",
+        "成本结构锚",
+        "瓶颈清单锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "16G512G",
+          "note": "16G512G"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "使用HBM",
+          "note": "HBM"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "高固定成本"
+        },
+        {
+          "sentence_id": "s189",
+          "snippet": "那我们是HBM",
+          "note": "HBM清单"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "噪声低密→定义中密→历史中密→成本定义高密→赛道清单高密收。",
+      "patterns": [
+        "噪声低密",
+        "成本高密",
+        "清单高密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "The",
+          "note": "低密噪声"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "成本高密"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "收高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问句开场；科普短句；历史长句；「那我们是X」排比收；中段The碎裂。",
+      "patterns": [
+        "短问开",
+        "排比收",
+        "The碎裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "就是什么关系",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s187",
+          "snippet": "那我们是能源",
+          "note": "那我们是能源"
+        },
+        {
+          "sentence_id": "s188",
+          "snippet": "那我们是封装",
+          "note": "封装"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "The",
+          "note": "The碎"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin产业讲解者：先照顾小白参数，再甩周期残酷与前瞻，语气务实。",
+      "patterns": [
+        "小白友好",
+        "周期残酷务实",
+        "前瞻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "首先咱先简单说一下",
+          "note": "小白友好"
+        },
+        {
+          "sentence_id": "s164",
+          "snippet": "这个行业非常非常地卷",
+          "note": "残酷卷"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "前瞻"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "内存成韩国天下、16G内存512G硬盘、高固定成本同质化、说破产就破产、压力测试出万亿赛道。",
+      "patterns": [
+        "韩国天下问",
+        "16G/512G",
+        "固定成本同质化",
+        "压力测试赛道"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "成了韩国",
+          "note": "韩国天下"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "意思呢就是16G的内存",
+          "note": "16G内存"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "高固定成本"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "万亿赛道"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「三问钩子→小白定义→成本结构解释周期→AI把瓶颈压成下一段赛道」是观宇讲芯片/供应链的高价值模板；需重做清音版。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你说内存怎么就",
+          "note": "三问"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "什么是内存",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "就是它是一个高固定成本投入",
+          "note": "成本结构"
+        },
+        {
+          "sentence_id": "s191",
+          "snippet": "很可能就是下一个万一美金的赛道",
+          "note": "赛道前瞻"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s12",
+    "s13",
+    "s16",
+    "s17",
+    "s20",
+    "s27",
+    "s28",
+    "s173",
+    "s174",
+    "s94",
+    "s169",
+    "s184",
+    "s191",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s14",
+    "s15",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s162",
+    "s163",
+    "s164",
+    "s165",
+    "s166",
+    "s167",
+    "s168",
+    "s170",
+    "s171",
+    "s172",
+    "s175",
+    "s176",
+    "s177",
+    "s178",
+    "s179",
+    "s180",
+    "s181",
+    "s182",
+    "s183",
+    "s185",
+    "s186",
+    "s187",
+    "s188",
+    "s189",
+    "s190"
+  ],
+  "fields_complete_25": true
+}

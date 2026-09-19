@@ -1,0 +1,1101 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7503514024592818740",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7503514024592818740/",
+  "source_sha256": "349009b7024caea184392b1733f77abd4604f811fff2bd466ecb9945e6c42b62",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 65,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "图片截取自: 东方树叶对得起我的脸吗？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "0"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 42,
+      "snippet": "夏天出门时，我一般会带两瓶冷藏的东方树叶，如果家里没有，就去便利店买，但一定是两"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 18,
+      "snippet": "没有两瓶东方树叶，我夏天都不爱出门。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "一瓶炫嘴里，给我解解渴；"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "一瓶敷脸上，给我的老脸救救火。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 65,
+      "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "不要觉得奇怪。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 17,
+      "snippet": "你想想啊，皮肤被晒了以后最该做啥？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "冷处理。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 69,
+      "snippet": "敷冷藏后的东方树叶跟敷矿泉水的意义基本上是一样的，都是因为你脸被晒的过热，都快从"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 15,
+      "snippet": "那冷处理中最关键的事儿是什么？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 26,
+      "snippet": "是用来冷敷的液体成分一定要干净，一要干净，一要干净。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 31,
+      "snippet": "不然那不叫敷，叫腌，叫勾芡，叫刷大白，叫脸上的微生物欢乐开怀。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 82,
+      "snippet": "在晒后这个皮肤最脆弱的时刻，你给它们整上最狠的狠活，这约等于给大山来的农货送进深"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "那东方树叶6在哪儿？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "6在它的成分表是真的干净。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "它那个成分表干净到什么程度？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 60,
+      "snippet": "这么说吧，别说晒伤了，就是很多朋友术后嗓子发炎了，喝白开水以外的饮品都疼，想喝有"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 54,
+      "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 14,
+      "snippet": "加上水的位置，又叫保保巴士。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "图片截取自: 东方树叶对得起我的脸吗？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 28,
+      "snippet": "就这个成分表，属于是精简到只剩承重墙，饮料界的五0宏光。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 13,
+      "snippet": "你都不用担心它会偷加东西。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "因为添加剂，也是要钱的。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 88,
+      "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 17,
+      "snippet": "老师，这是入口的东西，这是茶叶啊。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 29,
+      "snippet": "它里面的维生素C你爱答不理，塞进护肤品里卖上千咱高攀不起。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 63,
+      "snippet": "你嫌它的分子量太大，成分不好渗透，那有些护肤品里的蛋白质植物多糖高分子聚合物分子"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 52,
+      "snippet": "东方树叶里加点万分之几的小苏打，你嫌它碱性太强，那很多护肤品里都添加的氢氧化钠氢"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 41,
+      "snippet": "诶朋友，东方树叶Ph值稍微上涨个0.5，别说上脸，它那个茶汤颜色闹不好就绷不住了"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 37,
+      "snippet": "而很多男士洗面奶的Ph值但凡没拉满，你都要说这没吃饭吗怎么去油都没有力度。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 101,
+      "snippet": "至于什么更多花里胡哨的成分就不说了，讲真的在工业原料石油分馏重金属微粒动植物细胞"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 36,
+      "snippet": "甚至我说句不好听的，它的风险程度甚至都比不上自来水，最多跟蒸馏水五五开。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "老师，咱总不可能没用过自来水洗脸吧？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 57,
+      "snippet": "自来水管道在地下埋久了，那里面都各种盐各种离子各种微生物，东方树叶它这种拿蒸馏水"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 24,
+      "snippet": "老师，你用它抹脸都不是消费降级，是脸的消费升级。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 39,
+      "snippet": "你要说自来水你都扛不住，听我的，咱就别洗了，油沁三文鱼的做法或许可以给你答案。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 32,
+      "snippet": "很多朋友说为什么不直接用水敷，那更简单了，因为茶确实管管点事儿。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 16,
+      "snippet": "而东方树叶比普通的茶，更加干净。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 43,
+      "snippet": "茶叶里那点东西，什么茶多酚黄酮维生素C的，这老哥几个也经常刷新在你的护肤品里当N"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 19,
+      "snippet": "为啥平日里不建议你直接把茶水往脸上抹？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 25,
+      "snippet": "因为放久了的微生物超标，你抹了那是给自己脸上施肥。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 20,
+      "snippet": "刚泡好的烫，你又不是做茶叶蛋给自己上色。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 56,
+      "snippet": "最关键最关键的一点是，说真的很多茶叶你是对产地也没有掌控力的，你也不知道茶叶到底"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 43,
+      "snippet": "万一品质没控好安全不到位，老师那都不是脸和嘴先该给谁用的事儿了，那是很容易长包的"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 26,
+      "snippet": "但东方树叶它6就6在它加的不是茶味香精，加的是真茶。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 23,
+      "snippet": "讲实话农夫山泉那个出货量，有风险也给排除完了。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 28,
+      "snippet": "一杯东方树叶，茶从泡好到进瓶里，你开盖时它都没过青春期。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 40,
+      "snippet": "抹上脸的那一刻，闻着脸上淡淡的茶香，就像是西湖旁吹来的晚风，又像日光初照澜沧江。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 22,
+      "snippet": "下一秒钟我成了被钓起来的鱼，与醋混在了一起。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 19,
+      "snippet": "又像是茶马古道上的马，与驴开始了漂移。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 18,
+      "snippet": "再想一想，护肤品要的不就是光瓶感吗？"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 33,
+      "snippet": "很多护肤品是做不到的，是假的，或许你用过它的第一次，就是最后一次。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 26,
+      "snippet": "曾经说好了要坚持到光瓶的初心，也随着皮肤变化而变了。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "但东方树叶不一样。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 21,
+      "snippet": "用一瓶，光一瓶，一次用不光，也没有下次了。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 25,
+      "snippet": "别问它有没有奇效，只能说它只卖四五块，能抹还能喝。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "敷吧，就敷吧。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 9,
+      "snippet": "再问，就不礼貌了。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "周末随笔起笔，立刻抛两瓶东方树叶——一瓶喝一瓶敷脸的反常识钩子。",
+      "patterns": [
+        "周末随笔降压",
+        "两瓶刚需钩子",
+        "敷脸反常识"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末随笔"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "夏天出门时，我一般会带两瓶冷藏的东方树叶，如果家里没有，就去便利店买，但一定是两",
+          "note": "两瓶冷藏"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "一瓶敷脸上，给我的老脸救救火。",
+          "note": "敷脸上救火"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "晒后要冷敷→液体要干净→东方树叶成分极简→反驳网友酸碱/大分子质疑→茶优于自泡茶→光瓶感收束。",
+      "patterns": [
+        "冷敷前提",
+        "干净成分主线",
+        "反驳网友",
+        "光瓶闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "冷处理。",
+          "note": "冷处理"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "6在它的成分表是真的干净。",
+          "note": "成分干净"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它",
+          "note": "想笑网友"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "用一瓶，光一瓶，一次用不光，也没有下次了。",
+          "note": "用一瓶光一瓶"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "hook_two_bottles",
+          "note": "两瓶喝敷生活钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "clean_ingredient",
+          "note": "冷敷干净与吉祥三保"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "rebut_netizens",
+          "note": "酸碱大分子反讽反击"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "tea_vs_brew",
+          "note": "为何不直接茶水"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "bare_bottle_close",
+          "note": "光瓶感与敷吧收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "不要觉得奇怪/你想想/那…6在哪儿/这就导致/再说/再想一想推进论证。",
+      "patterns": [
+        "不要觉得奇怪",
+        "那6在哪儿",
+        "这就导致",
+        "再想一想"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "不要觉得奇怪。",
+          "note": "不要奇怪"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "那东方树叶6在哪儿？",
+          "note": "6在哪儿"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它",
+          "note": "这就导致"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "再想一想，护肤品要的不就是光瓶感吗？",
+          "note": "再想一想"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "敷 vs 腌/勾芡；东方树叶入口级 vs 护肤品九龙拉棺；自来水 vs 蒸馏水茶汤。",
+      "patterns": [
+        "敷腌对立",
+        "入口级vs狠活",
+        "自来水vs蒸馏水"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "不然那不叫敷，叫腌，叫勾芡，叫刷大白，叫脸上的微生物欢乐开怀。",
+          "note": "叫腌叫勾芡"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "至于什么更多花里胡哨的成分就不说了，讲真的在工业原料石油分馏重金属微粒动植物细胞",
+          "note": "九龙拉棺"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "自来水管道在地下埋久了，那里面都各种盐各种离子各种微生物，东方树叶它这种拿蒸馏水",
+          "note": "蒸馏水泡饮料"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "晒后该做啥、冷处理关键、成分表有什么、为何不直接用水敷等设问推进。",
+      "patterns": [
+        "晒后该做啥",
+        "冷处理关键",
+        "为何不水敷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你想想啊，皮肤被晒了以后最该做啥？",
+          "note": "晒后该做啥"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "那冷处理中最关键的事儿是什么？",
+          "note": "关键事儿"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "很多朋友说为什么不直接用水敷，那更简单了，因为茶确实管管点事儿。",
+          "note": "为什么不直接用水敷"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "苹果肌变安卓肌；术后嗓子只敢碰；护肤品氢氧化钠；油沁三文鱼；西湖晚风诗意翻车。",
+      "patterns": [
+        "苹果安卓肌",
+        "术后嗓子",
+        "强碱洗面奶",
+        "诗意翻车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "敷冷藏后的东方树叶跟敷矿泉水的意义基本上是一样的，都是因为你脸被晒的过热，都快从",
+          "note": "安卓肌卡顿"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这么说吧，别说晒伤了，就是很多朋友术后嗓子发炎了，喝白开水以外的饮品都疼，想喝有",
+          "note": "术后嗓子"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "东方树叶里加点万分之几的小苏打，你嫌它碱性太强，那很多护肤品里都添加的氢氧化钠氢",
+          "note": "氢氧化钠"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "下一秒钟我成了被钓起来的鱼，与醋混在了一起。",
+          "note": "钓起来的鱼"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "干净抽象→吉祥三保/保保巴士；风险→给腹泻老哥送钢丝刷；光瓶→四五块能抹能喝。",
+      "patterns": [
+        "吉祥三保具象",
+        "钢丝刷铁人三项",
+        "四五块光瓶"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护",
+          "note": "吉祥三保"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "在晒后这个皮肤最脆弱的时刻，你给它们整上最狠的狠活，这约等于给大山来的农货送进深",
+          "note": "钢丝刷铁人三项"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "别问它有没有奇效，只能说它只卖四五块，能抹还能喝。",
+          "note": "四五块能抹还能喝"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "大夫山泉、饮料界五菱宏光、脸的消费升级、入口级不配上桌等重判。",
+      "patterns": [
+        "大夫山泉",
+        "五菱宏光",
+        "消费升级",
+        "不配上桌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至",
+          "note": "大夫山泉"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "就这个成分表，属于是精简到只剩承重墙，饮料界的五0宏光。",
+          "note": "五0宏光"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "老师，你用它抹脸都不是消费降级，是脸的消费升级。",
+          "note": "脸的消费升级"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "几乎无真纠错；「没开玩笑」预防火星后继续加码；诗意比喻后立刻自嘲翻车。",
+      "patterns": [
+        "没开玩笑预防",
+        "诗意后自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至",
+          "note": "没开玩笑啊"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "抹上脸的那一刻，闻着脸上淡淡的茶香，就像是西湖旁吹来的晚风，又像日光初照澜沧江。",
+          "note": "西湖晚风"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "下一秒钟我成了被钓起来的鱼，与醋混在了一起。",
+          "note": "钓起来的鱼"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "章节数字切段；一瓶喝/一瓶敷对仗短句；长排比嘲讽后短收「敷吧」。",
+      "patterns": [
+        "章节数字",
+        "对仗短句",
+        "长嘲短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一瓶炫嘴里，给我解解渴；",
+          "note": "一瓶炫嘴里"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "一瓶敷脸上，给我的老脸救救火。",
+          "note": "一瓶敷脸上"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "敷吧，就敷吧。",
+          "note": "敷吧就敷吧"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "随笔轻松→晒伤救火急→成分科普笃定→嘲网友想笑→诗意翻车黑幽默→敷吧收。",
+      "patterns": [
+        "轻松→急→笃定→嘲讽→黑幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "随便写点"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至",
+          "note": "救了命"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它",
+          "note": "真的想笑"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "敷吧，就敷吧。",
+          "note": "敷吧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头对得起脸/两瓶敷喝→结尾光瓶四五块敷吧，产品用途首尾咬合。",
+      "patterns": [
+        "敷脸首尾",
+        "光瓶闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一瓶敷脸上，给我的老脸救救火。",
+          "note": "敷脸上"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "用一瓶，光一瓶，一次用不光，也没有下次了。",
+          "note": "用一瓶光一瓶"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "敷吧，就敷吧。",
+          "note": "敷吧就敷吧"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注点赞硬CTA；以「敷吧，再问就不礼貌」半戏谑软推。",
+      "patterns": [
+        "无硬CTA",
+        "戏谑软推"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "敷吧，就敷吧。",
+          "note": "敷吧就敷吧"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "再问，就不礼貌了。",
+          "note": "再问就不礼貌了"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "安卓肌卡顿、保保巴士、五菱宏光、翻斗花园儿童餐、醋鱼马驴漂移等脏梗密堆。",
+      "patterns": [
+        "安卓肌",
+        "保保巴士",
+        "翻斗花园",
+        "马驴漂移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "敷冷藏后的东方树叶跟敷矿泉水的意义基本上是一样的，都是因为你脸被晒的过热，都快从",
+          "note": "安卓肌"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "加上水的位置，又叫保保巴士。",
+          "note": "保保巴士"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "至于什么更多花里胡哨的成分就不说了，讲真的在工业原料石油分馏重金属微粒动植物细胞",
+          "note": "翻斗花园"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "又像是茶马古道上的马，与驴开始了漂移。",
+          "note": "马与驴漂移"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "品牌软广感强；成分医学论证偏段子化；诗意翻车段可能稀释说服力。",
+      "patterns": [
+        "软广感",
+        "段子化论证",
+        "诗意稀释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "但东方树叶它6就6在它加的不是茶味香精，加的是真茶。",
+          "note": "加的是真茶"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护",
+          "note": "吉祥三保"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "抹上脸的那一刻，闻着脸上淡淡的茶香，就像是西湖旁吹来的晚风，又像日光初照澜沧江。",
+          "note": "西湖晚风"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「你想想晒后该做啥→冷处理→液体要干净」逐步推理链，再预演网友质疑逐条拆。",
+      "patterns": [
+        "逐步设问推理",
+        "预演质疑拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你想想啊，皮肤被晒了以后最该做啥？",
+          "note": "你想想啊"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "是用来冷敷的液体成分一定要干净，一要干净，一要干净。",
+          "note": "一要干净"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它",
+          "note": "看到有人说"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "称「老师/朋友」把质疑者拉进对话；默认读者也晒伤、也用过自来水洗脸。",
+      "patterns": [
+        "老师称呼",
+        "朋友拉近",
+        "默认共情晒伤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "老师，这是入口的东西，这是茶叶啊。",
+          "note": "老师这是入口"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "老师，咱总不可能没用过自来水洗脸吧？",
+          "note": "没用过自来水洗脸吧"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "诶朋友，东方树叶Ph值稍微上涨个0.5，别说上脸，它那个茶汤颜色闹不好就绷不住了",
+          "note": "诶朋友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "两瓶冷藏、碳酸氢钠VC茶、Ph涨0.5、四五块价、男士洗面奶Ph等硬锚。",
+      "patterns": [
+        "两瓶",
+        "小苏打VC",
+        "Ph0.5",
+        "四五块"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "夏天出门时，我一般会带两瓶冷藏的东方树叶，如果家里没有，就去便利店买，但一定是两",
+          "note": "两瓶冷藏"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护",
+          "note": "碳酸氢钠"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "诶朋友，东方树叶Ph值稍微上涨个0.5，别说上脸，它那个茶汤颜色闹不好就绷不住了",
+          "note": "Ph上涨个0.5"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "别问它有没有奇效，只能说它只卖四五块，能抹还能喝。",
+          "note": "只卖四五块"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开篇生活低密→成分科普中密→反驳排比高密→诗意段降密→光瓶短收。",
+      "patterns": [
+        "生活低→科普中→反驳高→诗意降→短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "夏天出门时，我一般会带两瓶冷藏的东方树叶，如果家里没有，就去便利店买，但一定是两",
+          "note": "出门带两瓶"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护",
+          "note": "吉祥三保"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "至于什么更多花里胡哨的成分就不说了，讲真的在工业原料石油分馏重金属微粒动植物细胞",
+          "note": "九龙拉棺"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "敷吧，就敷吧。",
+          "note": "敷吧"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短设问接极短答；长排比连打后突然短金句；章节数字硬切。",
+      "patterns": [
+        "短问短答",
+        "长排比后短锤",
+        "章节硬切"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你想想啊，皮肤被晒了以后最该做啥？",
+          "note": "最该做啥"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "冷处理。",
+          "note": "冷处理"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "就这个成分表，属于是精简到只剩承重墙，饮料界的五0宏光。",
+          "note": "五0宏光"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "2",
+          "note": "2"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式护肤段子手：敢把饮料当医美替代物嘲讽，又自嘲老脸，毒舌里带怂萌。",
+      "patterns": [
+        "饮料医美化",
+        "老脸自嘲",
+        "毒舌怂萌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一瓶敷脸上，给我的老脸救救火。",
+          "note": "老脸救救火"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至",
+          "note": "大夫山泉"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "老师，你用它抹脸都不是消费降级，是脸的消费升级。",
+          "note": "脸的消费升级"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "大夫山泉、吉祥三保/保保巴士、苹果肌变安卓肌、敷吧就不礼貌。",
+      "patterns": [
+        "大夫山泉",
+        "吉祥三保",
+        "安卓肌",
+        "敷吧口令"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "没开玩笑啊，就是喝的那个东方树叶，真的是在我被晒得外焦里嫩的时刻救了命了，我甚至",
+          "note": "大夫山泉"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你非要问它成分表有什么东西，那就是碳酸氢钠（小苏打）保护VC，VC保护茶，茶保护",
+          "note": "吉祥三保"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "敷冷藏后的东方树叶跟敷矿泉水的意义基本上是一样的，都是因为你脸被晒的过热，都快从",
+          "note": "安卓肌"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "再问，就不礼貌了。",
+          "note": "再问就不礼貌"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「反常识生活用法+成分干净反驳质疑」骨架可改编观宇产品科普，需弱化软广与医学玩笑。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一瓶敷脸上，给我的老脸救救火。",
+          "note": "敷脸钩子"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "6在它的成分表是真的干净。",
+          "note": "成分干净"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就导致我网络冲浪时看到有人说什么，“哎呀东方树叶不应该只有茶和水吗”、“哎呀它",
+          "note": "反驳网友"
+        }
+      ]
+    }
+  },
+  "fields_complete_25": true,
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s7",
+    "s12",
+    "s19",
+    "s29",
+    "s62",
+    "s10",
+    "s18",
+    "s58",
+    "s16",
+    "s36",
+    "s39",
+    "s11",
+    "s14",
+    "s43",
+    "s13",
+    "s21",
+    "s33",
+    "s55",
+    "s22",
+    "s17",
+    "s63",
+    "s8",
+    "s25",
+    "s40",
+    "s54",
+    "s6",
+    "s64",
+    "s65",
+    "s23",
+    "s56",
+    "s51",
+    "s15",
+    "s30",
+    "s38",
+    "s34",
+    "s28"
+  ]
+}

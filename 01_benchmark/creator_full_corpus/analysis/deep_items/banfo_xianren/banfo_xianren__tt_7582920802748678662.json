@@ -1,0 +1,1220 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7582920802748678662",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7582920802748678662/",
+  "source_sha256": "88d352b908321f0539480dd7191d51b8cdacec7ef53a162de15c491302d01393",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s65"
+    },
+    {
+      "sentence_id": "s66"
+    },
+    {
+      "sentence_id": "s67"
+    },
+    {
+      "sentence_id": "s68"
+    },
+    {
+      "sentence_id": "s69"
+    },
+    {
+      "sentence_id": "s70"
+    },
+    {
+      "sentence_id": "s71"
+    },
+    {
+      "sentence_id": "s72"
+    },
+    {
+      "sentence_id": "s73"
+    },
+    {
+      "sentence_id": "s74"
+    },
+    {
+      "sentence_id": "s75"
+    },
+    {
+      "sentence_id": "s76"
+    },
+    {
+      "sentence_id": "s77"
+    },
+    {
+      "sentence_id": "s78"
+    },
+    {
+      "sentence_id": "s79"
+    },
+    {
+      "sentence_id": "s80"
+    },
+    {
+      "sentence_id": "s81"
+    },
+    {
+      "sentence_id": "s82"
+    },
+    {
+      "sentence_id": "s83"
+    },
+    {
+      "sentence_id": "s84"
+    },
+    {
+      "sentence_id": "s85"
+    },
+    {
+      "sentence_id": "s86"
+    },
+    {
+      "sentence_id": "s87"
+    },
+    {
+      "sentence_id": "s88"
+    },
+    {
+      "sentence_id": "s89"
+    },
+    {
+      "sentence_id": "s90"
+    },
+    {
+      "sentence_id": "s91"
+    },
+    {
+      "sentence_id": "s92"
+    },
+    {
+      "sentence_id": "s93"
+    },
+    {
+      "sentence_id": "s94"
+    },
+    {
+      "sentence_id": "s95"
+    },
+    {
+      "sentence_id": "s96"
+    },
+    {
+      "sentence_id": "s97"
+    },
+    {
+      "sentence_id": "s98"
+    },
+    {
+      "sentence_id": "s99"
+    },
+    {
+      "sentence_id": "s100"
+    },
+    {
+      "sentence_id": "s101"
+    },
+    {
+      "sentence_id": "s102"
+    },
+    {
+      "sentence_id": "s103"
+    },
+    {
+      "sentence_id": "s104"
+    },
+    {
+      "sentence_id": "s140"
+    },
+    {
+      "sentence_id": "s141"
+    },
+    {
+      "sentence_id": "s142"
+    },
+    {
+      "sentence_id": "s143"
+    },
+    {
+      "sentence_id": "s144"
+    },
+    {
+      "sentence_id": "s145"
+    },
+    {
+      "sentence_id": "s146"
+    },
+    {
+      "sentence_id": "s147"
+    },
+    {
+      "sentence_id": "s148"
+    },
+    {
+      "sentence_id": "s149"
+    },
+    {
+      "sentence_id": "s150"
+    },
+    {
+      "sentence_id": "s151"
+    },
+    {
+      "sentence_id": "s152"
+    },
+    {
+      "sentence_id": "s153"
+    },
+    {
+      "sentence_id": "s154"
+    },
+    {
+      "sentence_id": "s155"
+    },
+    {
+      "sentence_id": "s156"
+    },
+    {
+      "sentence_id": "s157"
+    },
+    {
+      "sentence_id": "s158"
+    },
+    {
+      "sentence_id": "s159"
+    },
+    {
+      "sentence_id": "s160"
+    },
+    {
+      "sentence_id": "s161"
+    },
+    {
+      "sentence_id": "s162"
+    },
+    {
+      "sentence_id": "s163"
+    },
+    {
+      "sentence_id": "s164"
+    },
+    {
+      "sentence_id": "s165"
+    },
+    {
+      "sentence_id": "s166"
+    },
+    {
+      "sentence_id": "s167"
+    },
+    {
+      "sentence_id": "s168"
+    },
+    {
+      "sentence_id": "s169"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "后台问开店成功经验直接拆台：不能讨论不存在的东西，自曝开店被毒打，民宿坑最狠。",
+      "patterns": [
+        "拆台开场",
+        "自曝惨败",
+        "民宿最狠定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说来有趣，后台经常有人问我开店的成功经验，都给我看笑了。",
+          "note": "问成功经验"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "我们不能讨论一个不存在的东西。",
+          "note": "不存在的东西"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "而其中坑最狠的，就是民宿。",
+          "note": "民宿坑最狠"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "民宿浪漫幻想→运营成本高非标→地段租金两难→装修坑→手续玄学→人员管理→安全风险→不赚钱转让→建议先打工半年。",
+      "patterns": [
+        "幻想拆穿",
+        "成本五连",
+        "不赚钱",
+        "打工验坑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "民宿多好呀，听起来就是吉他，艳遇，江湖，花房姑娘，清新，花朵，咖啡，烧烤，篝火，",
+          "note": "浪漫幻想"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "第一，运营成本和难度较高。",
+          "note": "运营成本"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "想多了，朋友，民宿什么幺蛾子都有，但赚钱这个是真没有。",
+          "note": "赚钱没有"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "我建议你可以找一些民宿去打工，打个半年工，你就什么都懂了。",
+          "note": "打工半年"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "拆台开场与民宿血泪梗",
+          "note": "立论"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "运营成本与地理位置租金",
+          "note": "坑点1-2"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89"
+          ],
+          "function": "装修材料坑与手续消防",
+          "note": "坑点3-4"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104"
+          ],
+          "function": "人员管理打脸风花雪月",
+          "note": "坑点5"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168",
+            "s169"
+          ],
+          "function": "安全风险与不赚钱劝退闭环",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「第一/第二/第四/第五」编号推进；「真的」「醒醒」情绪转场。",
+      "patterns": [
+        "编号分点",
+        "真的强调",
+        "醒醒打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "第一，运营成本和难度较高。",
+          "note": "第一"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "第二，地理位置和房租成本难以权衡。",
+          "note": "第二"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "醒醒，该拖地了，今天保洁阿姨接小孩去了。",
+          "note": "醒醒拖地"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "连锁酒店标准化可控 vs 民宿非标高成本；上班抑郁 vs 开民宿一年淘汰；自己房 vs 租房东。",
+      "patterns": [
+        "连锁/民宿对照",
+        "打工/开店对照",
+        "自有/租赁对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "连锁酒店走的是规模化标准化的高效模式，通过规模走量可以压低装修成本，一次性资金投",
+          "note": "连锁可控"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "民宿走的是低效率的个性化非标模式，先期资金投入不是很高，但后续的运营成本会特别高",
+          "note": "民宿高成本"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "因为一年就被淘汰了。",
+          "note": "一年淘汰"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "房子是租房东的，你算下成本，每天开门就是欠了钱，如果生意不好，就是赔的不行。",
+          "note": "租房即欠钱"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「要是生意好呢？」「消防证办了么？」「特色在哪里」连环逼问读者。",
+      "patterns": [
+        "生意好追问",
+        "手续逼问",
+        "特色逼问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "要是生意好呢？",
+          "note": "生意好呢"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "消防证办了么？",
+          "note": "消防证"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "但是问题我问你，你的特色在哪里，如果没有独有的特色，您这也别叫啥有情怀的民宿了，",
+          "note": "特色在哪"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "开业与转手两天开心；四级过不了却吹专八；洗澡骨折关门；转行水电工跨界。",
+      "patterns": [
+        "两天开心梗",
+        "四级专八喻",
+        "骨折关门",
+        "水电工跨界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。",
+          "note": "两天开心"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "这就像四级都过不了的人非得说自己其实有专八的水准，只是刚好四级是知识盲区一样。",
+          "note": "四级专八"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "很多想不清楚的人，真的在面临意外的时候完全没有处理能力，也没有足够的金钱来抵御风",
+          "note": "骨折关门"
+        },
+        {
+          "sentence_id": "s158",
+          "snippet": "甚至有些人动手能力被训练的过强，干脆直接转行水电工了，真正的跨界成功。",
+          "note": "水电工"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "从风花雪月抽象落到租金默念、打底3人工资、甲醛人肉除醛、举报停业。",
+      "patterns": [
+        "租金默念落地",
+        "3人工资",
+        "人肉除醛",
+        "举报停业"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "房东，成本，房东，成本，房东，成本。",
+          "note": "房东成本默念"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我们就按最低标准来算，前台+记账需要一个人，保洁至少需要一个人，管家和小二看你的",
+          "note": "开3人工资"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "在金钱面前，很多人肯定是不要脸的，时间不够，人肉来凑，这么多顾客居住，直接让他们",
+          "note": "人肉除醛"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "别想着不管三七二十一先干起来再说，一个举报妥妥的送你罚款加停业一个月，民宿竞争这",
+          "note": "罚款停业"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「嗷嗷地赔」「想想都魔幻」「想多了朋友，赚钱这个是真没有」。",
+      "patterns": [
+        "嗷嗷赔",
+        "魔幻判断",
+        "赚钱没有"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "真的，开别的赔的还能少点，民宿那真是嗷嗷地赔。",
+          "note": "嗷嗷赔"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一群个人创业者揣着兜里不多钢镚带着风花雪月的梦想不接地气地杀入非标品市场去拼运营",
+          "note": "非常魔幻"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "想多了，朋友，民宿什么幺蛾子都有，但赚钱这个是真没有。",
+          "note": "赚钱没有"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先理解想财务自由，随即「但骗子更理解」；承认理论上可自装再劝放过游客。",
+      "patterns": [
+        "理解后打脸",
+        "理论可再劝退"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我其实很理解大家被工作折腾的发疯，希望尽快时间自由财务自由的心情。",
+          "note": "理解心情"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "但骗子比我更理解。",
+          "note": "骗子更理解"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "理论上当然是可以的， 只不过由于你不是专业人士，你搞出来的各种设施的坚固程度以及",
+          "note": "理论可自装"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "求求你放过游客和自己吧。",
+          "note": "放过游客"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句拆台→分点长论证→「房东成本」三字顿挫→风花雪月连问加速→劝退放慢。",
+      "patterns": [
+        "短句拆台",
+        "分点长论",
+        "三字顿挫",
+        "连问加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我这些年最惨的事情就是开店，开各种店，基本上被社会各种角度毒打了一个遍。",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "房东，成本，房东，成本，房东，成本。",
+          "note": "顿挫"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "风花雪月？",
+          "note": "连问"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "这是我对你，最后的温柔。",
+          "note": "温柔收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "嘲讽好笑→共情想逃→层层惊吓→荒诞黑色幽默→劝退温柔。",
+      "patterns": [
+        "嘲讽",
+        "共情",
+        "惊吓",
+        "黑幽默",
+        "温柔劝退"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "说来有趣，后台经常有人问我开店的成功经验，都给我看笑了。",
+          "note": "嘲讽"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我其实很理解大家被工作折腾的发疯，希望尽快时间自由财务自由的心情。",
+          "note": "共情"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "这些东西非常要命，有的地方是不允许做民宿的，要按照宾馆的资质来办证，至于消防，更",
+          "note": "惊吓手续"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "这是我对你，最后的温柔。",
+          "note": "最后温柔"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场开店成功不存在，收束换打工对象仍当狗，给「打工半年」可执行出口。",
+      "patterns": [
+        "成功不存在开",
+        "换打工收",
+        "打工半年出口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我们不能讨论一个不存在的东西。",
+          "note": "不存在开"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "最后的最后，我想奉劝想要做民宿的小清新们，你不想上班想做民宿，其实并没有解决问题",
+          "note": "换方式打工"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "我建议你可以找一些民宿去打工，打个半年工，你就什么都懂了。",
+          "note": "打工半年"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注点赞硬广；行动CTA是「找民宿打工半年」体验验坑。",
+      "patterns": [
+        "体验式CTA",
+        "无硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s166",
+          "snippet": "我建议你可以找一些民宿去打工，打个半年工，你就什么都懂了。",
+          "note": "打工半年"
+        },
+        {
+          "sentence_id": "s168",
+          "snippet": "进入一个行业前，打工半年有助于快速认识到潜在的坑。",
+          "note": "进入行业前验坑"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自曝开店被毒打、被房东教育涨价、人肉除醛资本家笑话，生活脏细节密集。",
+      "patterns": [
+        "自曝惨败",
+        "房东涨价亲历",
+        "黑梗细节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我这些年最惨的事情就是开店，开各种店，基本上被社会各种角度毒打了一个遍。",
+          "note": "开店毒打"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "巧了，房东看你生意好，是会给你涨价的，我被教育过很多次。",
+          "note": "房东涨价"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "在金钱面前，很多人肯定是不要脸的，时间不够，人肉来凑，这么多顾客居住，直接让他们",
+          "note": "人肉除醛"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED致装修段与安全段之间跳号；分点过长可能劝退疲劳。",
+      "patterns": [
+        "截断跳号",
+        "分点过长疲劳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "或许你会想，我可以在网上给自己宣传呀，搞的远一点也没关系。",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "尤其是很多原生态的地方，你去感受下才知道啥叫穷山恶水出刁民，人家的温馨是只给自己",
+          "note": "跳入装修"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "第五，人员管理问题。",
+          "note": "第五点仍长"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示算机会成本（自己打工能赚多少）后清醒不该干；手续/举报风险推演。",
+      "patterns": [
+        "机会成本外露",
+        "举报风险推演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s94",
+          "snippet": "我以前开店的时候，每当算到我的时间拿去打工可以赚到多少钱的时候，我都清醒的意识到",
+          "note": "算打工收入清醒"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "别想着不管三七二十一先干起来再说，一个举报妥妥的送你罚款加停业一个月，民宿竞争这",
+          "note": "举报停业"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "但真正麻烦的地方在于，如果出了安全问题，怎么办？",
+          "note": "安全谁负责"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准想逃离打工看图文就想开民宿的小清新，用「你们不要多想」半开玩笑点名。",
+      "patterns": [
+        "小清新点名",
+        "逃离打工同盟",
+        "半开玩笑点名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "很多人上班上抑郁了，然后看了几篇图文，几本小说，几个视频就想搞个民宿去实现风花雪",
+          "note": "看图文想民宿"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "民宿提供的服务也不同于酒店的标准化，整体运营较为粗放，主打自己的特色的服务卖点，",
+          "note": "你们不要多想"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "最后的最后，我想奉劝想要做民宿的小清新们，你不想上班想做民宿，其实并没有解决问题",
+          "note": "想做民宿的人"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "二十间及以下客房；打底3人工资；开业与转手两天开心；骨折可关门。",
+      "patterns": [
+        "客房数锚",
+        "3人锚",
+        "两天开心",
+        "骨折关门"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "大多数个人民宿的客房数量不多，在二十间及以下，装修往往比较个性，带有运营者自己主",
+          "note": "二十间"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我们就按最低标准来算，前台+记账需要一个人，保洁至少需要一个人，管家和小二看你的",
+          "note": "3人"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。",
+          "note": "两天开心"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "很多想不清楚的人，真的在面临意外的时候完全没有处理能力，也没有足够的金钱来抵御风",
+          "note": "骨折"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密金句→分点中高密成本/手续→风花雪月连问低密→不赚钱高密劝退。",
+      "patterns": [
+        "金句低密",
+        "分点高密",
+        "连问低密",
+        "劝退高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "好位置不难选，难的是比较好的位置，一般租金都不是很便宜，如果你不是自有住房改造的",
+          "note": "租金高密"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "风花雪月？",
+          "note": "连问低密"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "想多了，朋友，民宿什么幺蛾子都有，但赚钱这个是真没有。",
+          "note": "劝退"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "标题金句短打后长论证句；「房东，成本」电报体；反问短句收束。",
+      "patterns": [
+        "金句短打",
+        "长论证",
+        "电报体",
+        "反问收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为一年就被淘汰了。",
+          "note": "短打"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "一群个人创业者揣着兜里不多钢镚带着风花雪月的梦想不接地气地杀入非标品市场去拼运营",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "房东，成本，房东，成本，房东，成本。",
+          "note": "电报体"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "不然为啥天天都是各种转让的？",
+          "note": "反问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毒舌过来人：敢说开店成功不存在，用黑梗劝退但仍给打工验坑温柔出口。",
+      "patterns": [
+        "毒舌过来人",
+        "黑梗劝退",
+        "温柔出口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我们不能讨论一个不存在的东西。",
+          "note": "不存在"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "在金钱面前，很多人肯定是不要脸的，时间不够，人肉来凑，这么多顾客居住，直接让他们",
+          "note": "黑梗"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "这是我对你，最后的温柔。",
+          "note": "最后温柔"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "开店成功不存在；两天开心上吊；房东成本默念；醒醒该拖地了；打工半年。",
+      "patterns": [
+        "成功不存在",
+        "两天开心",
+        "房东成本",
+        "拖地",
+        "打工半年"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我们不能讨论一个不存在的东西。",
+          "note": "不存在"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。",
+          "note": "两天开心"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "醒醒，该拖地了，今天保洁阿姨接小孩去了。",
+          "note": "拖地"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "我建议你可以找一些民宿去打工，打个半年工，你就什么都懂了。",
+          "note": "打工半年"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "创业劝退五连坑+金句开场+打工验坑出口可改编为观宇「别盲目创业」系列，需弱化辱骂密度。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。",
+          "note": "金句可改编"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "第一，运营成本和难度较高。",
+          "note": "分点坑可改编"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "我建议你可以找一些民宿去打工，打个半年工，你就什么都懂了。",
+          "note": "验坑出口可改编"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s5",
+    "s7",
+    "s15",
+    "s21",
+    "s152",
+    "s166",
+    "s1",
+    "s20",
+    "s65",
+    "s90",
+    "s140",
+    "s31",
+    "s103",
+    "s26",
+    "s27",
+    "s10",
+    "s44",
+    "s45",
+    "s83",
+    "s75",
+    "s12",
+    "s29",
+    "s144",
+    "s158",
+    "s41",
+    "s92",
+    "s78",
+    "s88",
+    "s8",
+    "s28",
+    "s17",
+    "s18",
+    "s69",
+    "s70",
+    "s6",
+    "s100",
+    "s169",
+    "s86",
+    "s160",
+    "s168",
+    "s46",
+    "s50",
+    "s94",
+    "s141",
+    "s14",
+    "s24",
+    "s23",
+    "s40",
+    "s154"
+  ],
+  "fields_complete_25": true
+}

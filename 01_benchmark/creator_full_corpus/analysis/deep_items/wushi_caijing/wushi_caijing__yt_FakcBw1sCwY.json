@@ -1,0 +1,1353 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_FakcBw1sCwY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=FakcBw1sCwY",
+  "source_sha256": "dcf67c292f1cb25aaf043f12ccc3f4c44c2ae3b81d4f2720845b1c37d463120c",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 132,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "一个一出生拿到一堆烂牌的理子期"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "在面对5亿到16亿"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "再到30亿的资本市场的玩法"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 16,
+      "snippet": "经探至于在加上之前和未念哪些舅帐"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "就不断地问出一个问题"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "这越来越大的蛋糕到底是谁的"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "因为我们做官理子期本人"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "也就是李嘉亚在工厂登地中"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "真正掌握的股权"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "只设计两家公司"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "其中又有表这个四川子期盼化"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "就是期派视频的主体"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "他也只占49%"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "另外的50%又未念占有"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "刚才说的一连串的融资"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "以及在融资背后"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "投资人们所关注的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "现在留和未来的引力的表现形式"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "也就是李子期品牌"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "买出了那么多多次的"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "都放在了未念这个主体下"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "而蛋糕为什么放在未念"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "不放在子期伦化"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "你们可以跟着我的思路走啊"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "后面细说"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "在这个大概年下"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "也就有了后来的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "李子期对抗未念的你来我吧"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 13,
+      "snippet": "事实上的起因是李子期挺功了"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "然后大家去吧为什么"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "李子期和未念的分大高之中"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "就有些传闻出来了"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "在之后就是公开信息显示了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "李子期的子期伦化起诉了航这未念"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "那些四破脸皮的事又做实了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "毕竟在最大的蛋糕下"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "李子期品牌成为未念的核心资产"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "未念想成一家"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "专注于新乡费赛道的新费公司"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 9,
+      "snippet": "而其下最成功的品牌"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "就是李子期螺丝粉"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 12,
+      "snippet": "当然这个品牌的视频创作者"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "只享受合约上的分程"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "但不只有未念的股份"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "长期以来的矛盾发酵"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "终于走到这一步"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 12,
+      "snippet": "在今的停工、报警和起诉号"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "大家开始关注李子期"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 15,
+      "snippet": "和李子期贷账号的归属前重多问题"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 10,
+      "snippet": "未念终于在10月1号"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "与公告的形式回应了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "公司从未想过"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 16,
+      "snippet": "从未控制过任何李子期相关品牌账号"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 10,
+      "snippet": "此外关于两个合作模式"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 6,
+      "snippet": "未念这么说的"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 6,
+      "snippet": "公司一年多前"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 11,
+      "snippet": "就提出李子期的股权计划"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "与合作模式方向"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "并在股东同一下"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 17,
+      "snippet": "签署相关股份安排合作费用的协议方案"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "从多次的李子期"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "就股权等全意食语展开沟通"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "但没有实现进展"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 8,
+      "snippet": "最终导致入境局面"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 13,
+      "snippet": "这一回合还属于双方自说则话"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 9,
+      "snippet": "下面来到了第二回合"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 13,
+      "snippet": "李子期的助理最后所说的回应"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 20,
+      "snippet": "从争高不同是谁一直在带股权舅分的语论节奏"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "听谁说的"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "连合同都没跟投资人"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "股东如是披尼的公司"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "谁敢要他的股份"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 17,
+      "snippet": "这里边有几个关键信息给大家提展一下"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "首先双方的言论"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 13,
+      "snippet": "正式因为利益问题导致的决定"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "其实就是分蛋糕没分好"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 12,
+      "snippet": "我们看一下未念的股权结构"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 14,
+      "snippet": "即使跑开它已经经历了多轮融资"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "未念的股权结构"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 4,
+      "snippet": "极其复杂"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 17,
+      "snippet": "当然做这样复杂单牌有各种各样的原因"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "但复杂的股权结构"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 16,
+      "snippet": "对于利尺其来说就是一个天然的品账"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 19,
+      "snippet": "毕竟利尺其在一笔论上的话已经已经很大了"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 18,
+      "snippet": "如果让其在资本市场上拿到实际的控制权"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 17,
+      "snippet": "对于未念来说未来我旋的空间就很少了"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 16,
+      "snippet": "当然有可能是我把未念想得比较坏了"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 16,
+      "snippet": "在下一个回合就是大家传的比较久的"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 11,
+      "snippet": "说未念恶意注册利尺商标"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 7,
+      "snippet": "利尺其抢回什么"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 6,
+      "snippet": "但真实情况是"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 14,
+      "snippet": "未念那边一堆跟利尺有关的商标"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 15,
+      "snippet": "早在21年上晚就转给仔细文化了"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 8,
+      "snippet": "如果真想恶意的话"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 7,
+      "snippet": "不会这样的结果"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 8,
+      "snippet": "只是当时没商量妥"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 14,
+      "snippet": "跟对我们从其他取道知道的信息"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 16,
+      "snippet": "那时候离后去时间爆发早了16个月"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 5,
+      "snippet": "但即使这样"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 23,
+      "snippet": "未念依旧继续利尺品牌和相关产品的未来院景作为仇"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 18,
+      "snippet": "因为现象局在网红日续缺的没有任何机�"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "但是如果只从资本式教分析"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 5,
+      "snippet": "其实还不够"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 12,
+      "snippet": "从好以上的表态加制力气的"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 6,
+      "snippet": "接下来就能够"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 5,
+      "snippet": "第一次速速"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 11,
+      "snippet": "飞几副直速而是手约直速"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 11,
+      "snippet": "是要让未念把答应的事儿"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 7,
+      "snippet": "但有没办的事儿"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 5,
+      "snippet": "赶紧合同办"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 9,
+      "snippet": "只有加深的我 未念"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 7,
+      "snippet": "分蛋糕 没分好"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 15,
+      "snippet": "一旧时候就开始有出入的这个猜测"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 18,
+      "snippet": "其本资速球和红线是决定结果的重要因素"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 1,
+      "snippet": "这"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 20,
+      "snippet": "彩虹 尖的访谈的选题方向为全球影响力人物"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 5,
+      "snippet": "这里不展开"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 12,
+      "snippet": "当讲到政治轮延连长在细说"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 7,
+      "snippet": "所谓的家家方面"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 6,
+      "snippet": "不但要在利益"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 9,
+      "snippet": "而Venenian"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 13,
+      "snippet": "的商 Commission"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 6,
+      "snippet": "所以我判断了"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 12,
+      "snippet": "现在其实里子智能走向一个"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 8,
+      "snippet": "双属的紧密的紧密"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 39,
+      "snippet": "其他 Which is now the most powerful power"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 15,
+      "snippet": "也就是网红行业永远让不过去的卡"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 16,
+      "snippet": "而这个事儿我们是非常人真思考过的"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 6,
+      "snippet": "而且时间过的"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 39,
+      "snippet": "这个I can share with you about this thing"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 21,
+      "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 20,
+      "snippet": "以上的网红都代表了在家对美好和快乐的共识"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用烂牌到30亿估值的反差提问‘蛋糕到底是谁的’，把股权谜题立住。",
+      "patterns": [
+        "反差估值开场",
+        "蛋糕归属设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "一个一出生拿到一堆烂牌的理子期",
+          "note": "一出生拿到一堆烂牌"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "蛋糕到底是谁的"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "本人股权仅限两家且内容主体49%→品牌装在微念→停工起诉撕破脸→公告互怼→复杂股权天然屏障→逼履约走向双输卡点。",
+      "patterns": [
+        "股权地图",
+        "主体错位",
+        "撕破脸回合",
+        "控制权屏障",
+        "双输卡点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "只占49%"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "都放在了未念这个主体下",
+          "note": "品牌放在微念主体"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "李子期的子期伦化起诉了航这未念",
+          "note": "起诉杭州微念"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "复杂股权天然屏障"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "也就是网红行业永远让不过去的卡",
+          "note": "网红行业过不去的卡"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s6",
+            "s10",
+            "s13",
+            "s14"
+          ],
+          "function": "equity_map",
+          "note": "本人股权与49/51结构"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s19",
+            "s21",
+            "s23",
+            "s28"
+          ],
+          "function": "entity_mismatch",
+          "note": "品牌装微念导致对抗"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s34",
+            "s47",
+            "s51",
+            "s65",
+            "s67"
+          ],
+          "function": "public_rounds",
+          "note": "起诉公告与助理回应回合"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s76",
+            "s80",
+            "s83",
+            "s85"
+          ],
+          "function": "control_barrier",
+          "note": "分蛋糕与复杂股权屏障"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s108",
+            "s112",
+            "s124",
+            "s127",
+            "s131"
+          ],
+          "function": "dual_lose_card",
+          "note": "逼履约与网红卡点预告分享"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "‘你们可以跟着我的思路走/下面来到第二回合/这里边有几个关键信息’像法庭转场。",
+      "patterns": [
+        "跟思路走",
+        "回合制转场",
+        "关键信息提点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "你们可以跟着我的思路走啊",
+          "note": "跟着我的思路走"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "下面来到了第二回合",
+          "note": "下面来到第二回合"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "这里边有几个关键信息给大家提展一下",
+          "note": "几个关键信息提点"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "内容主体 vs 品牌变现主体；合约分成 vs 无股份；双方自说自话回合。",
+      "patterns": [
+        "主体错位对比",
+        "分成/股权对比",
+        "回合对质"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就是期派视频的主体",
+          "note": "视频主体"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "都放在了未念这个主体下",
+          "note": "品牌在微念"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "只享受合约上的分程",
+          "note": "只享合约分成"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但不只有未念的股份",
+          "note": "没有微念股份"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这一回合还属于双方自说则话",
+          "note": "双方自说自话"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连环问蛋糕归属、为何放微念、谁敢要他股份，驱动推理。",
+      "patterns": [
+        "归属追问",
+        "结构追问",
+        "反讽谁敢要"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "蛋糕到底是谁的"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "而蛋糕为什么放在未念",
+          "note": "为什么放在微念"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "谁敢要他的股份",
+          "note": "谁敢要他的股份"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以李子柒螺蛳粉品牌、停工报警起诉、股权激励协议未落地为例。",
+      "patterns": [
+        "爆款单品例",
+        "法律动作例",
+        "股权计划例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "就是李子期螺丝粉",
+          "note": "李子柒螺蛳粉"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "在今的停工、报警和起诉号",
+          "note": "停工报警起诉"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "就提出李子期的股权计划",
+          "note": "提出股权计划"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把‘分蛋糕’落到49%股权、复杂股权结构与履约合同动作。",
+      "patterns": [
+        "蛋糕→股权比例",
+        "履约→合同办理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "49%落地"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "其实就是分蛋糕没分好",
+          "note": "分蛋糕没分好"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "赶紧合同办",
+          "note": "赶紧合同办"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言撕破脸做实、复杂股权是天然屏障、网红行业有过不去的卡。",
+      "patterns": [
+        "撕破脸断语",
+        "屏障断语",
+        "行业卡点断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "那些四破脸皮的事又做实了",
+          "note": "撕破脸做实了"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "天然的屏障"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "也就是网红行业永远让不过去的卡",
+          "note": "永远过不去的卡"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "传闻后补公开信息坐实；并预告自己IP卡点以后再讲，避免一次说完。",
+      "patterns": [
+        "传闻→公开信息",
+        "话题延期自限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "在之后就是公开信息显示了",
+          "note": "公开信息显示"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "讲到自己那档再分享"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "设问慢起→股权地图中速→回合对质加速→屏障理论稳→卡点悬置收。",
+      "patterns": [
+        "设问慢",
+        "对质加速",
+        "悬置收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "设问慢起"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "下面来到了第二回合",
+          "note": "第二回合加速"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "悬置分享收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "事实上"
+        },
+        {
+          "type": "discourse",
+          "form": "毕竟"
+        },
+        {
+          "type": "code_switch",
+          "form": "Which is / I can share"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "事实上的起因是李子期挺功了",
+          "note": "事实上的起因"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "毕竟在最大的蛋糕下",
+          "note": "毕竟在最大蛋糕下"
+        },
+        {
+          "sentence_id": "s130",
+          "snippet": "这个I can share with you about this thing",
+          "note": "英语夹杂分享预告"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "同情烂牌开局→冷静拆股→对质紧张→屏障冷酷→行业卡点共鸣。",
+      "patterns": [
+        "同情→冷静→紧张→冷酷→共鸣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "一个一出生拿到一堆烂牌的理子期",
+          "note": "同情烂牌"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "那些四破脸皮的事又做实了",
+          "note": "对质紧张"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "也就是网红行业永远让不过去的卡",
+          "note": "行业卡点共鸣"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "落到网红过不去的卡并预告结合自身经验再讲，形成系列钩子。",
+      "patterns": [
+        "行业卡点收",
+        "系列预告钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s127",
+          "snippet": "也就是网红行业永远让不过去的卡",
+          "note": "过不去的卡"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "自己那档再分享"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "‘跟着思路走’引导观看 + 预告下期自身案例，软留人。",
+      "patterns": [
+        "跟思路引导",
+        "下期自身案例预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "你们可以跟着我的思路走啊",
+          "note": "跟着思路走"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "之后讲自己再分享"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "蛋糕土喻、回合制解说、预告自己翻车经验，强主持人带感。",
+      "patterns": [
+        "蛋糕土喻",
+        "回合制",
+        "自身翻车预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "蛋糕是谁的"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "下面来到了第二回合",
+          "note": "第二回合"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "讲自己那档"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "后段窗口跳号与英中夹杂，双赢判断句残缺，结论力度弱。",
+      "patterns": [
+        "跳号残缺",
+        "英中噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s115",
+          "snippet": "这",
+          "note": "孤立这"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "其他 Which is now the most powerful power",
+          "note": "英语噪声句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开带领画股权地图并解释为何复杂结构对创始人是屏障。",
+      "patterns": [
+        "股权地图外露",
+        "屏障机制外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "你们可以跟着我的思路走啊",
+          "note": "跟着思路走"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "复杂结构天然屏障"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当陪审团式旁听者，用关键信息提点与回合制方便跟判。",
+      "patterns": [
+        "陪审旁听",
+        "提点跟判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s73",
+          "snippet": "这里边有几个关键信息给大家提展一下",
+          "note": "关键信息提点"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "下面来到了第二回合",
+          "note": "第二回合旁听"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "49%/51%结构、螺蛳粉品牌、停工起诉、股权计划未落地。",
+      "patterns": [
+        "股权比例",
+        "单品",
+        "法律动作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "49%"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "另外的50%又未念占有",
+          "note": "51%微念"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就是李子期螺丝粉",
+          "note": "螺蛳粉"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "设问低密→股权地图高密→公告回合中密→屏障理论峰→预告降密。",
+      "patterns": [
+        "设问低",
+        "地图高",
+        "理论峰",
+        "预告降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "地图高密"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "理论峰"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "这个之后讲到我自己那彰的时候可以跟大家分享",
+          "note": "预告降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问句与股权说明长句交替，回合标题句切割段落。",
+      "patterns": [
+        "设问/说明交替",
+        "回合标题切割"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "设问句"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "说明句"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "下面来到了第二回合",
+          "note": "回合标题"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "法庭解说型财经人：带观众跟思路，冷酷指出控制权屏障。",
+      "patterns": [
+        "法庭解说",
+        "冷酷屏障视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "你们可以跟着我的思路走啊",
+          "note": "跟思路解说"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "天然屏障冷酷"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "‘蛋糕到底是谁的’‘天然屏障’‘过不去的卡’可记。",
+      "patterns": [
+        "蛋糕设问",
+        "天然屏障",
+        "过不去的卡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "这越来越大的蛋糕到底是谁的",
+          "note": "蛋糕是谁的"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "天然屏障"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "也就是网红行业永远让不过去的卡",
+          "note": "过不去的卡"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "股权地图→主体错位→回合对质→控制权屏障的网红资本拆解可直接迁移到观宇创作者/品牌案例。",
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "他也只占49%",
+          "note": "股权地图法可直接用"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "对于利尺其来说就是一个天然的品账",
+          "note": "屏障机制可直接用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s6",
+    "s13",
+    "s21",
+    "s34",
+    "s83",
+    "s127",
+    "s10",
+    "s14",
+    "s19",
+    "s23",
+    "s28",
+    "s47",
+    "s51",
+    "s65",
+    "s67",
+    "s76",
+    "s80",
+    "s85",
+    "s108",
+    "s112",
+    "s124",
+    "s131",
+    "s24",
+    "s66",
+    "s73",
+    "s12",
+    "s43",
+    "s44",
+    "s22",
+    "s72",
+    "s41",
+    "s57",
+    "s110",
+    "s35",
+    "s33",
+    "s29",
+    "s36",
+    "s130",
+    "s115",
+    "s126"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,754 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_6XXuFdT5lk4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=6XXuFdT5lk4",
+  "source_sha256": "5eec2d9b0a158413aaced3148c01388b292ba5d24d222ab8b76d4452959561a9",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 27,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "好乖啊 我来吃火锅 你们看着黑黑的一头"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "你们见过黑色的香油吗"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "但这也不可能是一头刺我"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "这是重庆火锅又不是山西火锅"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "去接一碗的看着"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "不管从顶上看还是侧面看都无奇嘛"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "难道将了什么车记和读"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "站着进进接到碗里黑色的香油"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "一接触的就被是正常的浅黄色了"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "这是什么魔术头吗"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "刚开始我的猜想是"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "电脑台上打了一个绿光的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "那黄色的香员在绿色的光项"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "它看着就是黑色的"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "对它的地方就变成了"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "没有变成"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "所以这个猜想好像也不成"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "对这个现象的好急"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "让我�ed出汗不守舌"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "我吃饭都不香"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "早点香油回去看死"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "看死了"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "看这批语"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚�"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 36,
+      "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚,"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "这说明了什么呀"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 2,
+      "snippet": "我,"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "火锅桌黑香油反常识提问开场，强调重庆非山西醋场景。",
+      "patterns": [
+        "反常识黑香油",
+        "场景排除醋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "黑色香油吗"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "这是重庆火锅又不是山西火锅",
+          "note": "重庆不是山西"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "观察黑油→倒出变浅黄→绿光猜想失败→困惑到影响食欲→看死/看批语噪声收束。",
+      "patterns": [
+        "现象→猜想→证伪",
+        "困惑未解收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "接触变浅黄"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想不成"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我吃饭都不香",
+          "note": "吃饭不香"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "phenomenon",
+          "note": "黑香油变色魔术感"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "hypothesis_fail",
+          "note": "绿光猜想被否"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "frustration_noise",
+          "note": "着急与ASR崩坏收尾"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「刚开始我的猜想是」「所以这个猜想好像也不成」「这说明了什么呀」推进。",
+      "patterns": [
+        "刚开始猜想",
+        "所以不成",
+        "说明什么"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "刚开始我的猜想是",
+          "note": "刚开始猜想"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想不成"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "说明什么"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "瓶中黑 vs 碗中浅黄；顶视侧面无奇 vs 倒出即变；猜想有绿光 vs 没有变成。",
+      "patterns": [
+        "瓶碗颜色对撞",
+        "猜想vs现实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "站着进进接到碗里黑色的香油",
+          "note": "碗里黑色"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "接触浅黄"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "没有变成",
+          "note": "没有变成"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连续惊奇问：见过黑色香油吗、什么魔术、这说明了什么。",
+      "patterns": [
+        "惊奇设问",
+        "魔术归因问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "见过黑香油吗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这是什么魔术头吗",
+          "note": "什么魔术"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "说明什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以当场倒油前后颜色变化为唯一实验例；绿光桌为失败对照。",
+      "patterns": [
+        "当场变色例",
+        "绿光失败对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "倒出变色"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "电脑台上打了一个绿光的",
+          "note": "绿光猜想"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「魔术」抽象感落到顶视/侧面观察与接触碗壁变色动作。",
+      "patterns": [
+        "魔术→观察动作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "不管从顶上看还是侧面看都无奇嘛",
+          "note": "顶侧无奇"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "接触变色"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「不可能是醋」「猜想也不成」「吃饭都不香」等生活化判断。",
+      "patterns": [
+        "排除判断",
+        "失败判断",
+        "体验判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "但这也不可能是一头刺我",
+          "note": "不可能是醋"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想不成"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我吃饭都不香",
+          "note": "吃饭不香"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "明确推翻绿光猜想：「没有变成→所以不成」。",
+      "patterns": [
+        "猜想证伪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "没有变成",
+          "note": "没有变成"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想不成"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短问开场→现象短句→猜想中句→尾部重复噪声崩坏。",
+      "patterns": [
+        "短问开场",
+        "尾部重复崩坏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "证伪"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚�",
+          "note": "重复噪声"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "刚开始我的猜想是"
+        },
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "诚诚诚"
+        },
+        {
+          "type": "discourse",
+          "form": "这说明了什么呀"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "刚开始我的猜想是",
+          "note": "猜想引导语"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "所以不成"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚�",
+          "note": "连环重复"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "这说明了什么"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇→魔术惊喜→猜想落空焦躁→影响食欲的执念。",
+      "patterns": [
+        "好奇→惊喜→焦躁执念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这是什么魔术头吗",
+          "note": "魔术感"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我吃饭都不香",
+          "note": "吃饭不香"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "应回到光学解释但ASR崩坏，仅残留「这说明了什么」未完成闭环。",
+      "patterns": [
+        "未完成解释闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "说明什么未答"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我,",
+          "note": "残句我"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无明显关注/三连CTA，以问题悬置结束。",
+      "patterns": [
+        "悬置无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "问题悬置"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "重庆火锅现场口吻、失败猜想坦陈、ASR重复噪音本身显真人。",
+      "patterns": [
+        "地方场景口吻",
+        "失败坦陈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这是重庆火锅又不是山西火锅",
+          "note": "重庆火锅"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想失败"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "极短且ASR严重损坏，科学解释缺失，记忆点停在现象层。",
+      "patterns": [
+        "ASR损坏",
+        "缺解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚�",
+          "note": "重复损坏"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我,",
+          "note": "残句收尾"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "完整露出「猜想→检验→否定」科学思维雏形。",
+      "patterns": [
+        "猜想检验否定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "刚开始我的猜想是",
+          "note": "提出猜想"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "没有变成",
+          "note": "检验失败"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当同桌看稀奇的火锅同伴：「你们见过」。",
+      "patterns": [
+        "同桌同伴"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "你们见过"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "好乖啊 我来吃火锅 你们看着黑黑的一头",
+          "note": "你们看着"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "黑色香油、浅黄色、绿光猜想、重庆火锅桌。",
+      "patterns": [
+        "颜色锚",
+        "场景锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "黑色香油"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "浅黄色"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "电脑台上打了一个绿光的",
+          "note": "绿光"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "前段中密现象→中段低密猜想→尾段噪声零信息。",
+      "patterns": [
+        "现象中密",
+        "尾噪零信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "现象信息"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "结论句"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚诚�",
+          "note": "零信息重复"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句→观察短句→猜想句→否定句→崩坏重复。",
+      "patterns": [
+        "问观想否",
+        "崩坏重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "不管从顶上看还是侧面看都无奇嘛",
+          "note": "观察"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "刚开始我的猜想是",
+          "note": "猜想"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "否定"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导现场科普强迫症：一碗油颜色不对就吃不下饭。",
+      "patterns": [
+        "科普强迫症"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "让我�ed出汗不守舌",
+          "note": "着急"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我吃饭都不香",
+          "note": "吃饭不香"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "黑香油倒出变黄的魔术反差；绿光失败猜想。",
+      "patterns": [
+        "变色魔术",
+        "绿光失败"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "一接触的就被是正常的浅黄色了",
+          "note": "变色"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "猜想不成"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「反常识餐桌现象→当场猜想证伪」短科普钩子可改编，但本片缺最终解释且ASR差，需重写完整光学答案。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "你们见过黑色的香油吗",
+          "note": "反常识钩"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "所以这个猜想好像也不成",
+          "note": "证伪过程"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "这说明了什么呀",
+          "note": "缺答案"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s9",
+    "s17",
+    "s20",
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27"
+  ],
+  "fields_complete_25": true
+}

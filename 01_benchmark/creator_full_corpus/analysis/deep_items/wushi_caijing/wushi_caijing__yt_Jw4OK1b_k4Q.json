@@ -1,0 +1,1289 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_Jw4OK1b_k4Q",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Jw4OK1b_k4Q",
+  "source_sha256": "a59a57f30c1b9afa36599061969094a2afa1263287b304e711491bb7a679ad0a",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 131,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 17,
+      "snippet": "大而是,來不及到念物質消費的降級了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "接下來,登場的是精神消費的升級,南色經濟"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 22,
+      "snippet": "說了不是公體三里圖業店的無效搜,手和模子消費"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "消費升級、半隨時是行事閣心"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "劍陪本"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "傳統劇本沙是鐵一段故事"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "而劍陪本是鐵一段的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 18,
+      "snippet": "核心資產是高顏值的男性點也就是主持人"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "也有電面將他們成為男職或卡斯"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 20,
+      "snippet": "劇情中常常包含擁抱、簽手、摸臉、實質相扣"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 27,
+      "snippet": "靠肩膀、摸頭、近距離對勢、球分和結婚、生理、死別等場景"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "激進的會有公主報、掐駁而等互動"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "但也已經是極限"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "這個商業模式去年就已經火了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "后北多家媒体批判成低速"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "并且天游加促"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 19,
+      "snippet": "说什么这些电脊最后演变为提供有常幸福物"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "然后加长要抵制之类的话说"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "反正道德高地先�"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "战场再说"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "但事实上"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "既是在难色经济最发达的一线城市"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "其实都挺客致的"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 13,
+      "snippet": "甚至有点雷声大于点小的意思"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 15,
+      "snippet": "而且在发车之前有大量的确认环节"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "也就是什么你能接手"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "什么不能接手"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "而且就算你接手"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "电脉还不接受"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "调料宽光很多"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "而被媒体夸大生机维法犯罪的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "全是说我有个朋友"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "有个同学"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "然后怎么怎么样"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "经典乔断了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "但物事也要变正的看"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "比起那些标题了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "我的视角是素菜婚假"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "我们一从一从的看"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "如果把练培和模子相比"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "但是纯纯的消费升级"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "品�,减接降线"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "一线城市练一"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 8,
+      "snippet": "练培本的真实话销"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "也就加上DM场地"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "再加上当场的"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "迟上很多千元以上的热门专闯"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "但这些成本反而的小头"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 5,
+      "snippet": "大同有两块"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "第一就是错费的"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 13,
+      "snippet": "很多消费者的选定一个本之后"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 13,
+      "snippet": "选定了自己的喜欢的DM之后"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "在签下这个本之前"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "会花大力气导致自己"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 4,
+      "snippet": "一看照片"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 12,
+      "snippet": "一时间分不清到底谁是玩家"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 14,
+      "snippet": "就是玩家比练培还精�,还高级"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "这种模式改变了传统电价和"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 3,
+      "snippet": "尴尬的"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "就是说什么不行"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "就说行业反融度不及"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 10,
+      "snippet": "共挤測进入深度调整期"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 8,
+      "snippet": "从老人杀电桌油电"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 8,
+      "snippet": "变成了打本和密射"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "再到现在的练培"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 14,
+      "snippet": "这背后是传统现下社交商业模式"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 7,
+      "snippet": "偏偏向男色经济"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "这种盈利确定性更大"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 5,
+      "snippet": "需求更刚性"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 2,
+      "snippet": "利�"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "利益仦更高的商业模式"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "是整个行业共挤者"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "区地避开的合理选择"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "如果说练培本"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 9,
+      "snippet": "我花钱也会超大坑的"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 5,
+      "snippet": "无实本以为"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "这是个个例或在整合"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 11,
+      "snippet": "还可的陪同逛街有暖景点"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "就像花钱请了一位能拍会"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 14,
+      "snippet": "这些人的感觉是一种非常普遍的"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 16,
+      "snippet": "有博主分享自己雇用南大地培的经历"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 14,
+      "snippet": "现在设备上筛选南大培幼的铁子"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 15,
+      "snippet": "他们通常详细列出自己的服务信息"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "价格年龄升高体重"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 13,
+      "snippet": "最重要的是大量的自拍展示面"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 11,
+      "snippet": "经过最近一段时间竞争了"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "全程培幼的选择"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "甚至还副总修图"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 4,
+      "snippet": "若强调�"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "你能达到如此大的"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 5,
+      "snippet": "亿人互加产"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 32,
+      "snippet": "或許不一定非要 a 要 25 日 日 日 日 日 日 日 日 日"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 19,
+      "snippet": "其實很早就有人向精神消費和情緒消費探索"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 12,
+      "snippet": "但之前很多所謂的精神消費"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 12,
+      "snippet": "無視看來可以歸歸er兩類"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 19,
+      "snippet": "第一類是沒事找事 第二類是脫落酷子放屁"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 9,
+      "snippet": "然後加上巨高的異價"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 14,
+      "snippet": "最後都奪輪微智商稅篩選的效應"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 20,
+      "snippet": "大家可以把你認為符合這兩類消費打在公平上"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 14,
+      "snippet": "而任何一個正在野蠻發展的賽道"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 12,
+      "snippet": "往往說明這個需求來自本源"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 13,
+      "snippet": "是真實存在的而不是吹出來了"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 8,
+      "snippet": "can 能聽上了"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 11,
+      "snippet": "但其內盒要相對溫和的多"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 41,
+      "snippet": "我們對比男色經濟和女色經濟的跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "技男性消費女色"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 12,
+      "snippet": "中間批上了各種形式的外衣"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "但本質都是為了一個事"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 11,
+      "snippet": "每個人都知道我來說什麼"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 17,
+      "snippet": "所以女色經濟其實非常單一且風險極高"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 11,
+      "snippet": "往處於灰色甚至黑色區域"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 18,
+      "snippet": "而這些區域也成為灰黑產重要的引流詞字"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 9,
+      "snippet": "而男色經濟正好相反"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 17,
+      "snippet": "也就是女性可不如為了所謂的最後一步"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 14,
+      "snippet": "而是指向多微度的情感體驗過程"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 2,
+      "snippet": "這種"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 16,
+      "snippet": "這種多層y 層次的ー 層次的需求"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 23,
+      "snippet": "因為這商家可以創造出無數不同的商品和服務SKU"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 12,
+      "snippet": "從而形成一條長長的產業鏈"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 12,
+      "snippet": "在每,個環節都能產成一�"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 17,
+      "snippet": "價和GDP男性是要結果女性是要過程"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 12,
+      "snippet": "上書的各種男色經濟的形式"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 24,
+      "snippet": "就是這條長長的諸中過程的需求中創造的細分商業模式"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 11,
+      "snippet": "這種非線性迷散壯的需求"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 22,
+      "snippet": "創造的比單純的生理交易大得ar的多的市場空間"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 13,
+      "snippet": "而諸中的中大 中的中的區別"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 12,
+      "snippet": "而另一大商業模式上的優勢"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 5,
+      "snippet": "就是安全與"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 5,
+      "snippet": "更不易設計"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 5,
+      "snippet": "從而讓各種"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 10,
+      "snippet": "隨便用 九刷是你顯的"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "宣告物质消费降级后精神消费升级，用男色经济破题制造反差。",
+      "patterns": [
+        "降级/升级对仗开场",
+        "议题命名破题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大而是,來不及到念物質消費的降級了",
+          "note": "物质消费降级来不及悼念"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "接下來,登場的是精神消費的升級,南色經濟",
+          "note": "精神消费升级男色经济"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "剧本杀陪玩形态→媒体道德围剿夸大→成本结构妆造为大头→行业向男色迁移→男色要过程女色要结果故产业链更长更安全。",
+      "patterns": [
+        "业态描述",
+        "媒体夸大纠偏",
+        "成本结构",
+        "男/女色商业对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "核心資產是高顏值的男性點也就是主持人",
+          "note": "核心资产高颜值男性主持"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至有点雷声大于点小的意思",
+          "note": "雷声大雨点小"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "偏偏向男色经济",
+          "note": "偏向男色经济"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "男性要结果女性要过程"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s8",
+            "s12"
+          ],
+          "function": "define_biz",
+          "note": "定义男色经济与互动边界"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s19",
+            "s24",
+            "s32",
+            "s35"
+          ],
+          "function": "media_hype",
+          "note": "媒体道德围剿与道听途说"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s41",
+            "s48",
+            "s54",
+            "s57"
+          ],
+          "function": "cost_upgrade",
+          "note": "消费升级与妆造沉没成本"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s67",
+            "s71",
+            "s73"
+          ],
+          "function": "industry_shift",
+          "note": "线下社交向男色迁移"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s110",
+            "s113",
+            "s118",
+            "s121",
+            "s125"
+          ],
+          "function": "gender_compare",
+          "note": "女色单一高风险 vs 男色多维长链"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "‘但事实上/我们一层一层看/如果说练陪本’分层推进。",
+      "patterns": [
+        "事实纠偏转",
+        "层层拆解转",
+        "条件递进转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "但事实上",
+          "note": "但事实上"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "我们一从一从的看",
+          "note": "一层一层看"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "如果说练培本",
+          "note": "如果说练陪本"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "媒体夸大 vs 一线克制；传统剧本杀 vs 男色陪玩；女色结果导向 vs 男色过程导向。",
+      "patterns": [
+        "舆论/现实反差",
+        "业态演进对比",
+        "性别需求对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至有点雷声大于点小的意思",
+          "note": "雷声大雨点小"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "傳統劇本沙是鐵一段故事",
+          "note": "传统剧本杀讲故事"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "结果vs过程"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用‘什么能接什么不能’边界确认与‘每个人都知道我要说什么’共谋问代替连问。",
+      "patterns": [
+        "边界确认问",
+        "共谋省略问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "也就是什么你能接手",
+          "note": "什么你能接手"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "每個人都知道我來說什麼",
+          "note": "每个人都知道我要说什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "拥抱摸头公主抱等互动清单、千元专场、男大陪逛博主帖作例。",
+      "patterns": [
+        "互动场景清单",
+        "价格带例子",
+        "陪逛博主例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "靠肩膀、摸頭、近距離對勢、球分和結婚、生理、死別等場景",
+          "note": "拥抱摸头近距离场景"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "迟上很多千元以上的热门专闯",
+          "note": "千元以上热门专场"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "有博主分享自己雇用南大地培的经历",
+          "note": "雇用男大陪逛经历"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把‘消费升级/需求刚性’落到妆造成本与SKU长产业链。",
+      "patterns": [
+        "升级→妆造花费",
+        "过程需求→SKU链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "会花大力气导致自己",
+          "note": "花大力气打扮自己"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "因為這商家可以創造出無數不同的商品和服務SKU",
+          "note": "创造无数商品服务SKU"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言媒体经典造谣、男色确定性更大、女色单一且高风险。",
+      "patterns": [
+        "造谣断语",
+        "商业优势断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "经典乔断了",
+          "note": "经典造谣了"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "这种盈利确定性更大",
+          "note": "盈利确定性更大"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "所以女色經濟其實非常單一且風險極高",
+          "note": "女色非常单一且风险极高"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先批媒体夸张，再承认要辩证看；原以为个例后发现普遍陪逛。",
+      "patterns": [
+        "批驳后辩证",
+        "个例→普遍纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "但物事也要变正的看",
+          "note": "也要辩证的看"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "这是个个例或在整合",
+          "note": "本以为个例"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "定义短句→场景枚举加速→成本拆解中板→性别对比金句收。",
+      "patterns": [
+        "定义短打",
+        "枚举加速",
+        "对比金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "核心資產是高顏值的男性點也就是主持人",
+          "note": "定义短句"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "靠肩膀、摸頭、近距離對勢、球分和結婚、生理、死別等場景",
+          "note": "场景枚举"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "结果过程金句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "跟跟跟…"
+        },
+        {
+          "type": "discourse",
+          "form": "反正"
+        },
+        {
+          "type": "repair",
+          "form": "这种/这种多层次"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "反正道德高地先�",
+          "note": "反正道德高地"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "我們對比男色經濟和女色經濟的跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟",
+          "note": "跟字连环填充"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "這種",
+          "note": "这种自我重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "猎奇开场→嘲媒体→冷静拆账→发现普遍后严肃对比收。",
+      "patterns": [
+        "猎奇→嘲讽→冷静→严肃对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "接下來,登場的是精神消費的升級,南色經濟",
+          "note": "猎奇开场"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "经典乔断了",
+          "note": "嘲造谣"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "严肃对比"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以男色长产业链与更安全优势收束，强调过程需求创造市场空间。",
+      "patterns": [
+        "产业链收束",
+        "安全优势收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s125",
+          "snippet": "創造的比單純的生理交易大得ar的多的市場空間",
+          "note": "过程需求市场更大"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "就是安全與",
+          "note": "安全与更不易涉灰"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无明显硬CTA，靠‘每个人都知道’共谋留白促评论。",
+      "patterns": [
+        "共谋留白促评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s109",
+          "snippet": "每個人都知道我來說什麼",
+          "note": "每个人都知道我要说什么"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "雷声大雨点小、经典造谣、要结果要过程，市井财经口语。",
+      "patterns": [
+        "市井成语",
+        "造谣断语",
+        "结果过程金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至有点雷声大于点小的意思",
+          "note": "雷声大雨点小"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "结果过程对仗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断与跟字循环噪声；女色对比段易触合规敏感。",
+      "patterns": [
+        "截断噪声",
+        "敏感对比风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s105",
+          "snippet": "我們對比男色經濟和女色經濟的跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟 跟",
+          "note": "跟字循环"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "往處於灰色甚至黑色區域",
+          "note": "灰色黑色区域表述"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从媒体叙事下钻到成本结构再升维到性别需求经济学。",
+      "patterns": [
+        "下钻成本",
+        "升维性别需求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "但这些成本反而的小头",
+          "note": "成本反而是小头"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "结果过程升维"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当看热闹但需祛魅的旁观者，并用共谋省略拉近。",
+      "patterns": [
+        "祛魅旁观",
+        "共谋拉近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至有点雷声大于点小的意思",
+          "note": "祛魅雷声雨点"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "每個人都知道我來說什麼",
+          "note": "共谋省略"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "互动动作清单、千元专场、自拍筛帖、SKU产业链。",
+      "patterns": [
+        "动作清单",
+        "价格带",
+        "筛帖要素"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "激進的會有公主報、掐駁而等互動",
+          "note": "公主抱掐脖等"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "价格年龄升高体重",
+          "note": "价格年龄身高体重"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "定义中密→场景枚举高密→成本中密→性别理论峰。",
+      "patterns": [
+        "定义中",
+        "枚举高",
+        "理论峰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "靠肩膀、摸頭、近距離對勢、球分和結婚、生理、死別等場景",
+          "note": "枚举高密"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "理论峰"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "命名短句与场景长枚举交替，对比段排比收束。",
+      "patterns": [
+        "短命名/长枚举",
+        "排比对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "接下來,登場的是精神消費的升級,南色經濟",
+          "note": "命名短句"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "靠肩膀、摸頭、近距離對勢、球分和結婚、生理、死別等場景",
+          "note": "长枚举"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "排比对比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "祛魅商业观察者：嘲道德高地，却用经济学认真解释欲望市场。",
+      "patterns": [
+        "嘲道德高地",
+        "欲望经济学认真讲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "反正道德高地先�",
+          "note": "道德高地先占"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "創造的比單純的生理交易大得ar的多的市場空間",
+          "note": "过程需求市场空间"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "‘雷声大雨点小’与‘男性要结果女性要过程’可记。",
+      "patterns": [
+        "雷声雨点",
+        "结果过程金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "甚至有点雷声大于点小的意思",
+          "note": "雷声大雨点小"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "结果过程"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "舆论祛魅→成本结构→需求维度决定产业链长度的方法可迁，题材本身需谨慎改写。",
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "但这些成本反而的小头",
+          "note": "成本结构法可迁"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "價和GDP男性是要結果女性是要過程",
+          "note": "需求维度对比可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s8",
+    "s24",
+    "s67",
+    "s121",
+    "s12",
+    "s15",
+    "s19",
+    "s32",
+    "s35",
+    "s41",
+    "s48",
+    "s54",
+    "s57",
+    "s63",
+    "s71",
+    "s73",
+    "s110",
+    "s113",
+    "s118",
+    "s125",
+    "s21",
+    "s39",
+    "s74",
+    "s6",
+    "s26",
+    "s109",
+    "s11",
+    "s47",
+    "s81",
+    "s68",
+    "s36",
+    "s77",
+    "s105",
+    "s116",
+    "s128",
+    "s111",
+    "s84"
+  ],
+  "fields_complete_25": true
+}

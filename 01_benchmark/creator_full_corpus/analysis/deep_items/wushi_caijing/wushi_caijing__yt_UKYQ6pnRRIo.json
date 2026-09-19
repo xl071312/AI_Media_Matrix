@@ -1,0 +1,1215 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_UKYQ6pnRRIo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=UKYQ6pnRRIo",
+  "source_sha256": "cc7e29387a976313bf5f687c9b82efabbc023adaf65146f28438ef9be5a2a1fa",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 110,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 17,
+      "snippet": "这还记得十年前资本市场的新闻版会吗"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "故事还记得那时候赌桌上堆满了房间"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "PT的产能规划足以让全球电动化三次"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 16,
+      "snippet": "每张贴的协议可都藏着下一个特色的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "就要破解而出的细绩"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "政府的补贴拉满"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "各个都准备大型土木"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "虽然工厂还没个影子"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "但行业估值已由事如破族"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "而19年起多家车起消让警告相起"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "资金链成员代"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 24,
+      "snippet": "Commission 称为大家的 by 最后一集"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "尽问一投资的化作铁秀"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 16,
+      "snippet": "不少曾风光意识的明星公司相机引述"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "在网后四正年400多家企业的名字"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "从工商登"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "在前�"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "在前几车后发现再也容不了钱了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 11,
+      "snippet": "有的只好拖欠共云商款向"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "有的甚至卖房序命"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 2,
+      "snippet": "有o"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "有的车起再等融资"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 6,
+      "snippet": "而有的再等死"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 14,
+      "snippet": "当时的我总觉得这一幕四层相识"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "在新能源行业"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 18,
+      "snippet": ",开盘级遭于14.5%的跌幅瞬间掉."
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "掉到了41港币"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 20,
+      "snippet": "负责发行的投行团队此时心里还在安安安慶幸"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "我能知道这个不是因为我在现场"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "是因为我也是干这一会儿的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "一会儿你明白了"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "然后令人家经历了"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "发行的这些这些这些这"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "才是90%的主流"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "无实说清了 one"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "就是投资了认为"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "其发进家相较于行业�"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "趋势和公司业务"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "这些发足够着让"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "在桌上桌下的事儿"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 3,
+      "snippet": "它拉扯"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 2,
+      "snippet": "谈判"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "在到最后和各个机制"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "投资者和毛病投资者"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "敲定最后的假格"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 1,
+      "snippet": "搞"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "都聊好了"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 11,
+      "snippet": "但市长还在加速变得冷清"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "上周定好了架"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "这周一看还是定高了"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "但现在仙上不得不发"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 4,
+      "snippet": "为什么呢"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "现在这又传火发不出去"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "以当时对未来的判断"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 3,
+      "snippet": "都火烧"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 3,
+      "snippet": "屁股了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 12,
+      "snippet": "自己从好人们都血流成河了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "以后更发不出去"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 41,
+      "snippet": "趁着当时零跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 23,
+      "snippet": "所以这些发行的事儿,这些发行的事儿,这些发行的"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "这将省产业基金"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "金华是产业基金"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "金开引领基金"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 11,
+      "snippet": "这三家国子头认够了大头"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 13,
+      "snippet": "还有缓发基金和国太东方了价"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 13,
+      "snippet": "可以说地方政府对零跑的支持"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "但是有事真上"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "应着头臂发的代价就是"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 8,
+      "snippet": "第一天就磕发四十"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "而之后更是一路清晰"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 13,
+      "snippet": "污师其实也发封不着这种项目"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "不能全怪投材"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 3,
+      "snippet": "我想说"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 5,
+      "snippet": "人生的选择"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 12,
+      "snippet": "房网都是两害乡权取其세요"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 12,
+      "snippet": "我们只能在很多个差选项中"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 12,
+      "snippet": "选 and选择成本最低的"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 5,
+      "snippet": "苦难最低的"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 57,
+      "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但如果不上,以后会更惨,甚至会死了。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 58,
+      "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就知道要破发,其实还有一个更惨的角度。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 97,
+      "snippet": "零跑项目的公开发售部份任购率金16%,你可以理解为散户的任购率,属于击为少见的动资不足断力,虽然我们现在马号砲的砍当时大家没有远见了,但当时投资了就是不认可公司"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 43,
+      "snippet": "但还是应发的出去,造就了这一支明破发,但人资本市场不相信眼泪,来不及到念这场滑铁炉了。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 77,
+      "snippet": "因为上世后的两个月内,股价已经跌到了17.9%的地板价,不足发行价48%的三分之一,但此时,零跑却依旧压重众进行产能扩张,和大价前到技术研发,纯纯的逆行。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 29,
+      "snippet": "我们先看资本市场的操作,首先是持续输血,保证产业扩张步伐。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 14,
+      "snippet": "2024年1月领跑汽车公劳,"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 43,
+      "snippet": "并不得,比起承诺,真心白衣的买入更有税幅力,创神诸将名吉一致行动人复利全丰富持续增持。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 46,
+      "snippet": "4月增持金额超三亿港币,而本次增持是在去年三亿港币的基础上再一次增持,累计增持以超6亿港币。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 27,
+      "snippet": "资本院做和信心提认固然重要,但归根结底还得看业绩本身。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 65,
+      "snippet": "2023年底,从那时候起,其销量经历了多次三倍,而在 Which is the new land of the new land,"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 42,
+      "snippet": "是连续好几个月图绑新势力绑单,越销量冲到了四万家接近五万,消费者从来都是用脚投票的。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 13,
+      "snippet": "这个才是其逆习翻盘的关键。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 25,
+      "snippet": "领跑从原来的No body,一时间成为了图绑的拼。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 27,
+      "snippet": "这时候还坏一个P,我们把销量和股仓合起来看,可以看到。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 31,
+      "snippet": "2024年领跑的股价趁是开启了反击制战,资本市场只有一个真理。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "谁赢,他们跟谁。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 30,
+      "snippet": "投资者和分析师直接变脸,转身冲向领跑,生怕买晚了就进不去了。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 26,
+      "snippet": "别瞧当年他们离场跑得快,大家变脸和反跑的速度也不慢。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 26,
+      "snippet": "股价彻底疯狂,抽象的领跑股价在经历了长期多空薄以后,"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 48,
+      "snippet": "在2024年8月多头彻底压过空头市场信心抱掌,从十几块钱一路飘升至六日多港币,而且还在持续走高。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 53,
+      "snippet": "无视的评价是,不往费当年地方国资的长期信任,而咱们的观众中有多少人愿意相信领跑,拿到了现在实现了多倍收益。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 18,
+      "snippet": "领跑的管理层是否有一种当年的我你爱搭"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 26,
+      "snippet": "这些情况可以看到,成本贪薄的效应逐年上升,非常显著。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 18,
+      "snippet": "不出所料,前几日领跑公布了最新才报。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 49,
+      "snippet": "其披露领跑击2024滴4G度首次单纪度引力后,首次实现半年度引力,也就2025整个上半年是引力的。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 34,
+      "snippet": "实现营业收入242.5亿元,毛务力率打14.1%,重所周知,营力二字"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 30,
+      "snippet": "是一直选与中国众多车起头上的达萌克力斯之间,因为营力定生死。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 40,
+      "snippet": "如果以前的爱批,属于领域龙门的龙门,那下一赛一段的新龙门,就是否能实现持续营力。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 35,
+      "snippet": "在采报发出后,自�ga一度超7.6港币,总市值一度突破1000亿港币。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 40,
+      "snippet": "到2025年销量多月土板,且股价不断强烦恒高光时刻,领跑汽车只用了一昆年的时间,"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 52,
+      "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如眠,自备用梦眠,下期见。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "以十年前新能源车资本狂欢开场，用赌桌/产能规划画面把听众拉进逃杀叙事。",
+      "patterns": [
+        "历史场景闪回开场",
+        "赌桌隐喻建立资本游戏框"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这还记得十年前资本市场的新闻版会吗",
+          "note": "设问唤起十年前新闻会记忆"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "故事还记得那时候赌桌上堆满了房间",
+          "note": "赌桌堆满房间的画面感"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "狂欢→资金链断裂→零跑破发却逆行扩产→销量翻盘→股价反击→盈利过龙门。",
+      "patterns": [
+        "逃杀→破发→逆行扩产→基本面翻盘",
+        "资本跟风：谁赢跟谁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "第一天就磕发四十",
+          "note": "首日破发四十点"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "因为上世后的两个月内,股价已经跌到了17.9%的地板价,不足发行价48%的三分之",
+          "note": "破发后仍逆行扩产研发"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "这个才是其逆习翻盘的关键。",
+          "note": "销量是逆袭关键"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "谁赢,他们跟谁。",
+          "note": "资本市场真理：谁赢跟谁"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "function": "setup_boom",
+          "note": "十年前补贴/估值泡沫设定"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s14",
+            "s18",
+            "s22",
+            "s23"
+          ],
+          "function": "bust_escape",
+          "note": "车企消亡与等死融资"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s52",
+            "s68",
+            "s69",
+            "s79",
+            "s80",
+            "s81"
+          ],
+          "function": "ipo_forced_issue",
+          "note": "窗口火烧屁股必须上会破发逻辑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s83",
+            "s84",
+            "s87",
+            "s90",
+            "s91"
+          ],
+          "function": "contrarian_turnaround",
+          "note": "逆行扩产+增持+销量翻盘"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s94",
+            "s95",
+            "s96",
+            "s99",
+            "s104",
+            "s110"
+          ],
+          "function": "capital_follow_profit",
+          "note": "股价反击到盈利与诗意收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用‘为什么呢/我们先看/这时候还坏一个P’把因果与下一证据块接上。",
+      "patterns": [
+        "设问推进",
+        "先看资本市场操作式分镜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "为什么呢",
+          "note": "为什么呢推进发行动机"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "我们先看资本市场的操作,首先是持续输血,保证产业扩张步伐。",
+          "note": "先看资本市场操作"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这时候还坏一个P,我们把销量和股仓合起来看,可以看到。",
+          "note": "把销量股价合起来看"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "工厂没影子 vs 估值破竹；破发逃杀 vs 逆行扩产；当年离场 vs 后来反跑。",
+      "patterns": [
+        "虚实产能对比",
+        "离场/反跑速度对仗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "虽然工厂还没个影子",
+          "note": "工厂没影子"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "但行业估值已由事如破族",
+          "note": "估值已破竹式膨胀"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "别瞧当年他们离场跑得快,大家变脸和反跑的速度也不慢。",
+          "note": "离场快反跑也不慢"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场记忆设问与‘为什么必须发’把听众拖进投行两害相权。",
+      "patterns": [
+        "记忆唤起问",
+        "动机逼问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这还记得十年前资本市场的新闻版会吗",
+          "note": "还记得十年前新闻会吗"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "为什么呢",
+          "note": "为什么呢逼问发行动机"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以零跑IPO认购率、破发价、增持金额、销量与财报数字做主案例链。",
+      "patterns": [
+        "单案例纵向深挖",
+        "数字锚点举证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s81",
+          "snippet": "零跑项目的公开发售部份任购率金16%,你可以理解为散户的任购率,属于击为少见的动",
+          "note": "公开发售认购率仅16%"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "4月增持金额超三亿港币,而本次增持是在去年三亿港币的基础上再一次增持,累计增持以",
+          "note": "累计增持超6亿港币"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "实现营业收入242.5亿元,毛务力率打14.1%,重所周知,营力二字",
+          "note": "营收242.5亿毛利率14.1%"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把‘两害相权/窗口温坑’落到投行劝上会与认购率不足的具体账。",
+      "patterns": [
+        "抽象选择→投行对白",
+        "温坑隐喻→破发数字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s76",
+          "snippet": "我们只能在很多个差选项中",
+          "note": "多个差选项中择成本最低"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就",
+          "note": "窗口是温坑也得跳"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "零跑项目的公开发售部份任购率金16%,你可以理解为散户的任购率,属于击为少见的动",
+          "note": "认购率16%落地"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "行内口吻断言‘一眼就知道要破发’与‘谁赢他们跟谁’。",
+      "patterns": [
+        "内行断言",
+        "市场真理金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就",
+          "note": "内行一眼知道要破发"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "谁赢,他们跟谁。",
+          "note": "谁赢他们跟谁"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认不能全怪投行，并自称若处其位也会劝上会。",
+      "patterns": [
+        "责任再分配",
+        "角色代入纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s72",
+          "snippet": "不能全怪投材",
+          "note": "不能全怪投材/投行"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但",
+          "note": "如果我是投行也会劝上"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前段碎句堆叠逃杀画面，中段长句讲投行权衡，后段数字加速翻盘。",
+      "patterns": [
+        "短句蒙太奇→长句权衡→数字冲刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有的车起再等融资",
+          "note": "有的车企再等融资短打"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但",
+          "note": "长句角色代入劝上会"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "在2024年8月多头彻底压过空头市场信心抱掌,从十几块钱一路飘升至六日多港币,而",
+          "note": "股价一路飘升收束加速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "这些这些这些这"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "跑跑跑…(零跑口误拉长)"
+        },
+        {
+          "type": "discourse",
+          "form": "我想说"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "发行的这些这些这些这",
+          "note": "这些这些这些这口误重复"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "趁着当时零跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑",
+          "note": "零跑跑跑拉长填充"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "我想说",
+          "note": "我想说话语标记"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "嘲讽狂欢→同情血河破发→赞逆行韧性→冷眼变脸资本→诗意释然收束。",
+      "patterns": [
+        "嘲讽→惨烈→逆行敬意→变脸讽刺→诗意收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "自己从好人们都血流成河了",
+          "note": "血流成河情绪谷"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "因为上世后的两个月内,股价已经跌到了17.9%的地板价,不足发行价48%的三分之",
+          "note": "逆行扩产转为敬意"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "风雪诗句释然收束"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回看跌宕称‘些许风霜’，用古风诗句闭环并预告下期。",
+      "patterns": [
+        "回看定调",
+        "诗句+下期见双闭"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "回看力程+下期见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性留观众：问谁当年相信零跑并预告下期，少硬推销。",
+      "patterns": [
+        "反思式观众点名",
+        "下期见轻CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s100",
+          "snippet": "无视的评价是,不往费当年地方国资的长期信任,而咱们的观众中有多少人愿意相信领跑,",
+          "note": "问观众是否相信零跑拿收益"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "下期见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "投行内部视角、破发温坑土话、诗句收尾混搭，不像模板财经文。",
+      "patterns": [
+        "从业者第一人称",
+        "温坑/丢人土词",
+        "诗句收口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "是因为我也是干这一会儿的",
+          "note": "我也是干这一行的"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就",
+          "note": "温坑也得跳"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "风雪诗句非模板收"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR噪声重（乱码/重复跑字），部分因果靠口误句拼接，数字需二次核验。",
+      "patterns": [
+        "转录损坏段",
+        "口误重复干扰证据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "在前�",
+          "note": "残缺句在前�"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "趁着当时零跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑跑",
+          "note": "跑字无限重复噪声"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开推演投行两害相权与‘为什么内行知破发’的第二视角。",
+      "patterns": [
+        "角色代入推演",
+        "更惨角度再挖一层"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但",
+          "note": "代入投行劝发行人"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就",
+          "note": "还有一个更惨的角度"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当可共情的资本市场旁观者与潜在长期持有者。",
+      "patterns": [
+        "共谋记忆开场",
+        "问谁敢长期相信"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这还记得十年前资本市场的新闻版会吗",
+          "note": "还记得吗拉齐记忆"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "无视的评价是,不往费当年地方国资的长期信任,而咱们的观众中有多少人愿意相信领跑,",
+          "note": "问观众愿不愿相信"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "认购率16%、破发至17.9、增持6亿、营收242.5亿、市值破千亿等硬锚。",
+      "patterns": [
+        "发行认购率",
+        "股价地板",
+        "财报盈利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s81",
+          "snippet": "零跑项目的公开发售部份任购率金16%,你可以理解为散户的任购率,属于击为少见的动",
+          "note": "认购率16%"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "因为上世后的两个月内,股价已经跌到了17.9%的地板价,不足发行价48%的三分之",
+          "note": "跌到17.9地板价"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "在采报发出后,自�ga一度超7.6港币,总市值一度突破1000亿港币。",
+          "note": "市值一度破1000亿港币"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场隐喻低密度→中段投行机制高密→翻盘数字峰值→诗句降密收。",
+      "patterns": [
+        "低开隐喻",
+        "机制高密",
+        "数字峰",
+        "诗降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "故事还记得那时候赌桌上堆满了房间",
+          "note": "赌桌隐喻低密开"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "零跑项目的公开发售部份任购率金16%,你可以理解为散户的任购率,属于击为少见的动",
+          "note": "认购率机制高密"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "实现营业收入242.5亿元,毛务力率打14.1%,重所周知,营力二字",
+          "note": "财报数字峰值"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "碎片画面句→因果长句→金句短收，口语拼接多但主线清晰。",
+      "patterns": [
+        "蒙太奇碎句",
+        "因果长句",
+        "金句短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有的车起再等融资",
+          "note": "等融资短句"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但",
+          "note": "因果长句"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "谁赢,他们跟谁。",
+          "note": "金句短收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷幽默投行老炮：既骂逃杀又理解破发，最后用诗句抬格局。",
+      "patterns": [
+        "内行冷幽默",
+        "两害相权现实主义",
+        "诗意抬升"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s72",
+          "snippet": "不能全怪投材",
+          "note": "不全怪投行的体谅"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "谁赢,他们跟谁。",
+          "note": "谁赢跟谁的讥讽"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "诗句人格收束"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "‘温坑也得跳’‘谁赢跟谁’与风雪诗句可记。",
+      "patterns": [
+        "温坑隐喻",
+        "市场真理金句",
+        "诗句钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "价格区间现在来不及改了,现在的窗口就是个温坑,温坑也得跳,而为什么我们内行一眼就",
+          "note": "温坑也得跳"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "谁赢,他们跟谁。",
+          "note": "谁赢他们跟谁"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "只回看领跑这段跌倒起伏的力程,不过是些许风双摆了,风雪压我三两年,我笑风清,雪如",
+          "note": "风雪压我诗句"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "逃杀→破发→逆行翻盘的案例叙事与投行两害相权可迁到观宇产业故事，但需替换行业与诗句人设。",
+      "evidence": [
+        {
+          "sentence_id": "s79",
+          "snippet": "零跑代拚也是,如果我是保健的投行,我也会跟发进人说,咱们应上会很惨,也会丢人,但",
+          "note": "两害相权可迁移"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "这个才是其逆习翻盘的关键。",
+          "note": "销量翻盘关键可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s69",
+    "s83",
+    "s91",
+    "s95",
+    "s3",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s14",
+    "s18",
+    "s22",
+    "s23",
+    "s52",
+    "s68",
+    "s79",
+    "s80",
+    "s81",
+    "s84",
+    "s87",
+    "s90",
+    "s94",
+    "s96",
+    "s99",
+    "s104",
+    "s110",
+    "s93",
+    "s97",
+    "s105",
+    "s76",
+    "s72",
+    "s33",
+    "s59",
+    "s73",
+    "s57",
+    "s100",
+    "s30",
+    "s17",
+    "s108"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,805 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_SfKXHCJDGKM",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=SfKXHCJDGKM",
+  "source_sha256": "5b6903822608bc69761544da2c678622bc70d9fbf7fc850c7f29b0f01d2077b1",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 36,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 18,
+      "snippet": "我非常地在我们,我们工作室的办公还径"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 14,
+      "snippet": "我们这里有,有舞台3里打音机"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "三住旁有击打器水贵"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 33,
+      "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 31,
+      "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 21,
+      "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 27,
+      "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 22,
+      "snippet": "我这一把灯,这一把灯,这一 the �,这一"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 11,
+      "snippet": "你去看 bellaga"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "你去"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 3,
+      "snippet": "你去看"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "ed"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用工作室物件盘点开场：办公环境、舞台灯、智能水杯，再落到对顶灯开关位置的抱怨。",
+      "patterns": [
+        "物件盘点开场",
+        "抱怨钩子",
+        "功能演示预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我非常地在我们,我们工作室的办公还径",
+          "note": "工作室环境"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "智能杯演示"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "顶灯抱怨钩子"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "工作室有趣味智能装置→最大抱怨是顶灯开关在对面墙→天黑就要跑去开灯。",
+      "patterns": [
+        "装置列举",
+        "抱怨核心主张",
+        "开关位置因果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "智能杯即时"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "最大抱怨"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "开关在对面墙"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "function": "工作室物件与智能杯演示",
+          "note": "开场盘点"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "顶灯开关位置抱怨与因果",
+          "note": "问题提出"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "看镜头/示意重复段与收束残片",
+          "note": "ASR噪声主导"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "从物件列举切到抱怨，用“最大的抱怨就是”把话题收束到灯。",
+      "patterns": [
+        "最大抱怨收束",
+        "如果你条件句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去",
+          "note": "如果你两小时"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "最大抱怨就是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "智能杯“放上去就计时/不喝就叫”的体贴，对比顶灯开关必须跑对面墙的不便。",
+      "patterns": [
+        "体贴装置vs不便开关",
+        "对面墙空间对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "放上去就计时"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "开关在对面墙"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不用设问，靠演示与抱怨推进；残段“你去看”更像示意指令而非论证问。",
+      "patterns": [
+        "示意指令替代设问",
+        "抱怨陈述代问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "你去看示意"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "抱怨代问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "以智能杯两小时不喝水会叫、顶灯开关位置两例支撑“工作室有坑也有趣”。",
+      "patterns": [
+        "智能杯行为例",
+        "开关位置例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去",
+          "note": "两小时不喝水会叫"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "开关在对面"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象抱怨落到“开关在对面墙上、天黑就要跑去开”的具体动作。",
+      "patterns": [
+        "抱怨→墙面位置",
+        "天黑→跑去开灯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "最大抱怨"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "对面墙上"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "用“最大的抱怨”给工作室体验定性，暗含对灯开关设计的否定。",
+      "patterns": [
+        "最大抱怨定性",
+        "不便隐含否定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "最大的抱怨"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "这意味着"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "ASR里出现“我们,我们”“有,有”“这一把灯”重复，像口误自修但难辨真伪。",
+      "patterns": [
+        "词语重复修补",
+        "半截重起"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我非常地在我们,我们工作室的办公还径",
+          "note": "我们,我们"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "我这一把灯,这一把灯,这一 the �,这一",
+          "note": "这一把灯重复"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前段短列举+功能说明，中段抱怨加长，后段大量“你去看”节拍式重复。",
+      "patterns": [
+        "列举短句",
+        "抱怨长句",
+        "示意节拍重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我们这里有,有舞台3里打音机",
+          "note": "短列举"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "抱怨长句"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "节拍重复"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我们,我们"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "有,有"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "你去看"
+        },
+        {
+          "type": "repair",
+          "form": "这一把灯,这一把灯"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我非常地在我们,我们工作室的办公还径",
+          "note": "我们重复"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我们这里有,有舞台3里打音机",
+          "note": "有,有"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "你去看填充"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "我这一把灯,这一把灯,这一 the �,这一",
+          "note": "灯短语修补"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "轻松展示智能杯→吐槽顶灯不便→示意段情绪变平淡重复。",
+      "patterns": [
+        "展示愉悦",
+        "抱怨上升",
+        "重复段情绪平坦"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "展示愉悦"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "抱怨"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你去看 bellaga",
+          "note": "重复平坦"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗口内未见完整项目收束，残句“ed”像字幕截断，回路未闭合。",
+      "patterns": [
+        "截断未收束",
+        "残句收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "ed",
+          "note": "残句ed"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你去",
+          "note": "你去半截"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "反复“你去看”像引导观众看画面，而非关注/点赞式CTA。",
+      "patterns": [
+        "看画面指令",
+        "弱订阅导向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "你去看"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "你去看",
+          "note": "重复指令"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "口误重复、智能杯生活细节、对灯开关的私人抱怨，带强现场感。",
+      "patterns": [
+        "口误重复",
+        "私人抱怨细节",
+        "物件专名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去",
+          "note": "两小时喝水细节"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "私人抱怨"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "我这一把灯,这一把灯,这一 the �,这一",
+          "note": "口误重复"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "后半ASR崩坏成“你去看”循环，主张与项目结局信息严重缺失。",
+      "patterns": [
+        "ASR崩坏",
+        "信息空洞重复",
+        "结局缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "重复空洞"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "ed",
+          "note": "截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从“抱怨灯”推出“开关在对面→天黑要跑”的因果链，思维可见但很短。",
+      "patterns": [
+        "抱怨→位置因果",
+        "这意味着推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "抱怨起点"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "这意味着"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当工作室访客：“还给大家做了智能杯”“你去看”。",
+      "patterns": [
+        "还给大家演示",
+        "你去看引导"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "还给大家做了"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "第二人称看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "智能杯计时催喝、对面墙开关、舞台灯等可触摸锚点。",
+      "patterns": [
+        "智能杯",
+        "对面墙开关",
+        "舞台灯"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我们这里有,有舞台3里打音机",
+          "note": "舞台灯"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "智能杯"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "对面墙"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场装置信息密，抱怨段中密，后段重复密度骤降。",
+      "patterns": [
+        "开场密",
+        "抱怨中密",
+        "重复段稀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "密"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "你去看",
+          "note": "稀"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "列举→条件句功能→抱怨因果→示意重复，后段流动断裂。",
+      "patterns": [
+        "列举流",
+        "条件功能流",
+        "重复断裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我非常地在我们,我们工作室的办公还径",
+          "note": "列举"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去",
+          "note": "条件句"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "断裂重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "极客宅工作室主理人视角：爱做小装置，也直说生活不便。",
+      "patterns": [
+        "极客装置癖",
+        "直说抱怨",
+        "演示型主理人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "做智能杯"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "直说抱怨"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "“放上去就计时/不喝就叫”的智能杯行为，和“开关在对面墙”最易记。",
+      "patterns": [
+        "催喝水杯",
+        "对面墙开关"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "如果你两个小时没有拿器山水杯喝水,它就会叫直到你,你把杯子拿去",
+          "note": "不喝就叫"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我头顾你的灯的开关在我对面的墙上这对意味着没当亦天黑了",
+          "note": "对面墙"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "物件盘点→生活抱怨钩子可迁移到观屿开箱/改造片，但本窗ASR后段不可用，需换干净口播再复用。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全员被声声说,我还给大家做了这个智能杯电把水杯放上去就会开始到即时",
+          "note": "装置盘点可迁"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我葴对我们工作是最大的抱怨就是我头顾你的灯",
+          "note": "抱怨钩子可迁"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去看",
+          "note": "后段需弃用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s6",
+    "s7",
+    "s5",
+    "s9",
+    "s8",
+    "s2",
+    "s20",
+    "s36",
+    "s28",
+    "s11",
+    "s15"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,892 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_ZCmkG6Yw1A8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=ZCmkG6Yw1A8",
+  "source_sha256": "f250b849a628d43b10b09c1690112e63c146aba096f1307e6010337eb3abc506",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 38,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "不是 你这个举动它怎么是红色的呀"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "这个它们本来叫红的呀"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "绿豆汤 欸"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "绿豆汗的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "不可能"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "比较你说呢"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 1,
+      "snippet": "呃"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 21,
+      "snippet": "的蛋白质是一种、巧理的akeshawing"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 23,
+      "snippet": "吉底 其每一岁就可以让舒菜水焯燦的多分快速要化"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "著名歌手锅顶"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 16,
+      "snippet": "大家觉得绿豆汤变货的原因是什么呀"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "呃"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "我们在高中九学"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "一个亲家的养面亲养抢击"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "而本欢上街墙进的学书教分"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "比如这是"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 9,
+      "snippet": "这都是因为里面的多"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "加入15克高"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 19,
+      "snippet": "留著人家的旅遊被家得解,讓它們正在這裡"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 24,
+      "snippet": "如果你與你爸爸存죠,那他能做民族,因為家是天解性"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 12,
+      "snippet": "也可能是你拉偷偷家的點解"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "寫對 寫歌"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 18,
+      "snippet": "咱們剛剛討論的都是我們純淨水調不著的"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 15,
+      "snippet": "冥想的地方,成分簡單、原理清晰"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 16,
+      "snippet": "在生活中大部分都是我們自來水準的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "自來水裡還有各種因此"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 19,
+      "snippet": "會不會那麼多方產生影響呢,我們來觸觸看"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 18,
+      "snippet": "這是我前兩天去北京出差帶回來的自來水"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "画学是你们很好玩的学拳"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "其中有年 也有"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 23,
+      "snippet": "这 这 这 这 这 这 这 这 这 这 这 这"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 17,
+      "snippet": "不斷地看生活,看了化,看了多重量。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "哦,也就做!"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 53,
+      "snippet": "目標紅綠,綠豆芒都是鴨鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "展賭一下,性運色吧!"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 28,
+      "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 15,
+      "snippet": "讓大家看,綠豆芒還是紅豆芒呢?"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "記得給我三連支持一下,我們下期再見!"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "争议开场质问绿豆汤怎么是红色，用不可能+呃停顿拉入红绿之争。",
+      "patterns": [
+        "颜色争议钩子",
+        "不可能否定入题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "怎么是红色的呀"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "绿豆汤 欸",
+          "note": "绿豆汤"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "不可能",
+          "note": "不可能"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "红绿争议→多酚氧化假设→高中化学酸性对照→自来水杂质变量→实验晒色征集终结争论。",
+      "patterns": [
+        "争议提出",
+        "多酚氧化",
+        "酸碱对照",
+        "自来水变量",
+        "征集终结"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "大家觉得绿豆汤变货的原因是什么呀",
+          "note": "变红原因是什么"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这都是因为里面的多",
+          "note": "因为里面的多"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "在生活中大部分都是我們自來水準的",
+          "note": "大部分自来水"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒你家绿豆汤颜色"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "讓大家看,綠豆芒還是紅豆芒呢?",
+          "note": "绿豆芒还是红豆芒"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s3",
+            "s5",
+            "s11"
+          ],
+          "function": "debate_hook",
+          "note": "红绿争议钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s13",
+            "s17",
+            "s18"
+          ],
+          "function": "chem_hypothesis",
+          "note": "多酚/高中化学假设"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s25",
+            "s27",
+            "s28"
+          ],
+          "function": "tapwater_var",
+          "note": "纯净水vs自来水变量"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38"
+          ],
+          "function": "crowd_close",
+          "note": "打赌晒图三连收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "咱们刚刚讨论的都是纯净水/会不会影响呢我们来测测看/好感谢收看。",
+      "patterns": [
+        "刚刚讨论限定",
+        "测测看推进",
+        "感谢收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "咱們剛剛討論的都是我們純淨水調不著的",
+          "note": "刚刚讨论都是纯净水"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "我们来测测看"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "好感谢大家收看"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "绿豆汤名 vs 红色实际；纯净水清晰原理 vs 自来水杂质复杂；红 vs 绿结局打赌。",
+      "patterns": [
+        "名实颜色反差",
+        "纯净/自来水",
+        "红绿打赌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "红色质疑"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "绿豆汤 欸",
+          "note": "绿豆汤"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "咱們剛剛討論的都是我們純淨水調不著的",
+          "note": "纯净水成分简单"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "在生活中大部分都是我們自來水準的",
+          "note": "自来水"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "讓大家看,綠豆芒還是紅豆芒呢?",
+          "note": "绿还是红"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "怎么是红色、变红原因是什么、自来水会不会影响、最终红还是绿。",
+      "patterns": [
+        "颜色质问",
+        "原因征集问",
+        "变量影响问",
+        "终局二选一"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "怎么是红色"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "大家觉得绿豆汤变货的原因是什么呀",
+          "note": "变红原因是什么呀"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "会不会产生影响呢"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "讓大家看,綠豆芒還是紅豆芒呢?",
+          "note": "绿豆芒还是红豆芒"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "加碱实验、北京出差带回自来水、观众晒粥法颜色。",
+      "patterns": [
+        "加碱操作",
+        "北京自来水样本",
+        "观众晒图"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "加入15克高",
+          "note": "加入15克碱"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "這是我前兩天去北京出差帶回來的自來水",
+          "note": "北京出差带回自来水"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒你家绿豆汤颜色和煮法"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "把多酚氧化抽象原理落到加碱变色与不同城市自来水实测。",
+      "patterns": [
+        "原理→加碱",
+        "原理→城市自来水"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这都是因为里面的多",
+          "note": "里面的多酚线索"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "加入15克高",
+          "note": "15克碱"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "這是我前兩天去北京出差帶回來的自來水",
+          "note": "北京自来水"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言不可能、成分简单原理清晰、正式终结红绿之争（标题承诺）。",
+      "patterns": [
+        "不可能断语",
+        "原理清晰断语",
+        "终结承诺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不可能",
+          "note": "不可能"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "冥想的地方,成分簡單、原理清晰",
+          "note": "成分简单原理清晰"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先在纯净水理想条件讨论，再承认生活多是自来水需补测变量。",
+      "patterns": [
+        "理想条件后补真实变量"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "咱們剛剛討論的都是我們純淨水調不著的",
+          "note": "纯净水调的"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "在生活中大部分都是我們自來水準的",
+          "note": "生活大部分自来水"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "会不会影响来测测"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "争议短句快打→化学解释中速（ASR糊）→实验过渡→征集互动轻快收。",
+      "patterns": [
+        "争议快打",
+        "化学中速",
+        "互动轻收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不可能",
+          "note": "不可能短句"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我们在高中九学",
+          "note": "高中化学中速"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "感谢收看轻收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler",
+          "form": "呃"
+        },
+        {
+          "type": "discourse",
+          "form": "欸"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "这这这…"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "呃",
+          "note": "呃"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "绿豆汤 欸",
+          "note": "绿豆汤欸"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "呃",
+          "note": "呃"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这 这 这 这 这 这 这 这 这 这 这 这",
+          "note": "这这这重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "争辩激动→化学认真→实验好奇→打赌轻松→三连感谢。",
+      "patterns": [
+        "激动→认真→好奇→轻松→感谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不可能",
+          "note": "不可能激动"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "测测看好奇"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "展賭一下,性運色吧!",
+          "note": "打赌轻松"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "記得給我三連支持一下,我們下期再見!",
+          "note": "三连下期再见"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从红绿之争回到请观众晒颜色，用二选一问句把争论交给评论区。",
+      "patterns": [
+        "争议回环到晒图",
+        "评论区终结"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "怎么是红色开场"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒颜色煮法"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "讓大家看,綠豆芒還是紅豆芒呢?",
+          "note": "绿还是红"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "晒自家绿豆汤+记得三连+下期再见，标准互动CTA。",
+      "patterns": [
+        "晒图互动",
+        "三连",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒颜色和煮法"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "記得給我三連支持一下,我們下期再見!",
+          "note": "三连支持下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "呃/欸停顿、北京出差带自来水私史、这这这口吃式重复。",
+      "patterns": [
+        "语气停顿",
+        "出差私史",
+        "口吃重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "呃",
+          "note": "呃"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "這是我前兩天去北京出差帶回來的自來水",
+          "note": "北京出差带回自来水"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这 这 这 这 这 这 这 这 这 这 这 这",
+          "note": "这这这"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损坏化学段落几乎不可读；结论段也糊，削弱终结之争可信度。",
+      "patterns": [
+        "ASR毁化学段",
+        "结论不清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "的蛋白质是一种、巧理的akeshawing",
+          "note": "化学ASR乱码"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "目標紅綠,綠豆芒都是鴨鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬鵬",
+          "note": "目标红绿乱码长串"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示变量控制思路：先纯净水讲清原理，再引入自来水杂质实测。",
+      "patterns": [
+        "控制变量公开",
+        "由简入繁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "咱們剛剛討論的都是我們純淨水調不著的",
+          "note": "纯净水先讲清"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "自來水裡還有各種因此",
+          "note": "自来水还有各种离子"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "来测测看"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当厨房争论参与者与实验陪审团，邀请投票晒色。",
+      "patterns": [
+        "厨房争论伙伴",
+        "实验陪审团"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "大家觉得绿豆汤变货的原因是什么呀",
+          "note": "大家觉得原因是什么"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "欢迎晒你家颜色"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "15克碱、北京自来水样本、红绿二选一晒图。",
+      "patterns": [
+        "加碱克数",
+        "城市水样",
+        "晒图动作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "加入15克高",
+          "note": "15克碱"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "這是我前兩天去北京出差帶回來的自來水",
+          "note": "北京自来水"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒颜色煮法"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密争议→化学中密（噪声高）→自来水变量升→CTA降密。",
+      "patterns": [
+        "争议低",
+        "化学中",
+        "变量升",
+        "CTA降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "争议低密"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我们在高中九学",
+          "note": "化学中密"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "會不會那麼多方產生影響呢,我們來觸觸看",
+          "note": "变量升"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "記得給我三連支持一下,我們下期再見!",
+          "note": "CTA降"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "口语短句为主，化学句被ASR撕碎，结尾标准口播长句。",
+      "patterns": [
+        "口语短句",
+        "ASR碎句",
+        "口播收尾长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "不可能",
+          "note": "不可能短句"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "的蛋白质是一种、巧理的akeshawing",
+          "note": "ASR碎句"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "感谢收看长句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "实验型科普顽童：敢打赌终结争论，也敢把结论交给观众晒图。",
+      "patterns": [
+        "打赌终结",
+        "结论众包"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "展賭一下,性運色吧!",
+          "note": "打赌"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "好,感谢大家收看,歡迎在片段去晒書一家綠豆芒的顏色和粥法",
+          "note": "晒图众包"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "绿豆汤怎么是红的；北京出差自来水；晒你家红还是绿。",
+      "patterns": [
+        "红色质疑",
+        "北京水",
+        "晒红绿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "怎么是红色"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "這是我前兩天去北京出差帶回來的自來水",
+          "note": "北京自来水"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "讓大家看,綠豆芒還是紅豆芒呢?",
+          "note": "绿还是红"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "争议钩子+控制变量+观众晒图终结争论可借，但需重录清晰化学讲解替换ASR损坏段。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不是 你这个举动它怎么是红色的呀",
+          "note": "争议钩子可直接用"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "咱們剛剛討論的都是我們純淨水調不著的",
+          "note": "控制变量结构可借"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "的蛋白质是一种、巧理的akeshawing",
+          "note": "化学段需重做"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s5",
+    "s11",
+    "s17",
+    "s25",
+    "s36",
+    "s37",
+    "s8",
+    "s13",
+    "s18",
+    "s23",
+    "s27",
+    "s28",
+    "s35",
+    "s38",
+    "s24",
+    "s7",
+    "s12",
+    "s31",
+    "s34",
+    "s26"
+  ],
+  "fields_complete_25": true
+}

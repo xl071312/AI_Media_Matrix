@@ -1,0 +1,5271 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_OcKl98ZQbMQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=OcKl98ZQbMQ",
+  "source_sha256": "de1f3a7c42e9b9f6fe8edb3f4c7546611f017b4906a35b4507306e9313ff3f80",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 872,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "朋友們"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "咱們今天來一口氣兒"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "拆解一下"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 7,
+      "snippet": "這個錯綜複雜的"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "美國AI資本圈"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "和他們之間的"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "派系之爭"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "我們知道"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 13,
+      "snippet": "AI就像是一個資本黑洞一樣"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "吸引著全球的"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 2,
+      "snippet": "錢谷"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "歌"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 2,
+      "snippet": "微軟"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 3,
+      "snippet": "英偉達"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 3,
+      "snippet": "亞馬遜"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "OpenAI"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "甲骨文"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "Anthropic"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 2,
+      "snippet": "等等"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 2,
+      "snippet": "巨頭"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "自身估值不斷膨脹"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "的 同時"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 2,
+      "snippet": "相互"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 2,
+      "snippet": "承諾"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 1,
+      "snippet": "c"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "可是Google的Gemini"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "直接的競爭對手"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "這倆前兩個月"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "還在給企業服務的AI市場"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "打得你死我活"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "嘿突然一下要鑽一個被窩了"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "這基本就是過去三年"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 2,
+      "snippet": "整個"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 2,
+      "snippet": "AI"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "投資圈的一個縮影"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 2,
+      "snippet": "就是"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "亂"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "所以 今天"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "不評價模型"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 6,
+      "snippet": "也不對比芯片"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "咱們就看個資本"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 2,
+      "snippet": "操作"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "一起"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 1,
+      "snippet": "捋"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 1,
+      "snippet": "一"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "捋"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "首先我們會聊到哪些公司呢"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "做AI的公司那麼多"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "這年頭誰不多少搞點AI"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 2,
+      "snippet": "對吧"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "這個範圍說實在的"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "就比較主觀了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "我先跟大家解釋一下"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "我大概的選擇標準"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "必須得是最前沿"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 2,
+      "snippet": "站在"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 9,
+      "snippet": "AI風口浪尖的公司"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 1,
+      "snippet": "像"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 2,
+      "snippet": "蘋果"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "這種咱就不算"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 2,
+      "snippet": "進去"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 2,
+      "snippet": "看看"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 2,
+      "snippet": "美國"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "再有就是你得夠大"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "咱們今天只看"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "那些最最最大的公司"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "估值怎麼著"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "你得千億美元以上"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 13,
+      "snippet": "你像什麼FigureAI呀"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "CoreWeave呀"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 5,
+      "snippet": "這都小公司"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "上不了咱們今天的牌桌"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 12,
+      "snippet": "反正大概就是這麼三個標準"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "我就選出來了這些公司"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 6,
+      "snippet": "好那這些公司"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "在AI產業鏈裡"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 6,
+      "snippet": "是個什麼關係"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "誰和誰是競爭"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "誰和誰是上下游呢"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 5,
+      "snippet": "籠統地說呢"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "AI產業鏈"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "從上游到下游"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 7,
+      "snippet": "可以分這麼四層"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 7,
+      "snippet": "最底層是晶片層"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 15,
+      "snippet": "什麼GPU CPU 記憶體晶片"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "都在這裡邊"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 4,
+      "snippet": "那英偉達"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 10,
+      "snippet": "顯然是這一層的王者了"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "AI加速器的市佔率"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 8,
+      "snippet": "能有百分之八九十"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 5,
+      "snippet": "除此之外呢"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "還有AMD英特爾"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 2,
+      "snippet": "谷歌"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 16,
+      "snippet": "也有自己針對AI訓練研發的TPU"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 6,
+      "snippet": "數量非常龐大"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 16,
+      "snippet": "2026年預計能產超過300萬顆"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 11,
+      "snippet": "像它的那個Gemini"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 11,
+      "snippet": "主要就是靠TPU訓練的"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 3,
+      "snippet": "亞馬遜"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 17,
+      "snippet": "也有自研的AI芯片Trainium"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 9,
+      "snippet": "雖然優化做的也不錯"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 9,
+      "snippet": "但目前總量還沒很大"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "還有一個很厲害"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 5,
+      "snippet": "玩家 就是"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 5,
+      "snippet": "博通 他是"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 4,
+      "snippet": "ASIC"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 8,
+      "snippet": "是跟博通合作生產"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 8,
+      "snippet": "哎大概是這些玩家"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "其實其他巨頭多多少少"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 12,
+      "snippet": "也都有自己自研的AI晶片"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "但還沒太成氣候"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "我們就先不說了"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 4,
+      "snippet": "再往上呢"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 10,
+      "snippet": "是資料中心和雲運算層"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 7,
+      "snippet": "這倆你堆一起呢"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 40,
+      "snippet": "其實不太嚴謹 但還沒太成氣候我們就先不說了再往上呢是資料中心和雲端運算層這倆你堆"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 10,
+      "snippet": "一起 呢其實不太嚴謹"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 6,
+      "snippet": "但咱們就簡化"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 6,
+      "snippet": "把它合併來看"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 13,
+      "snippet": "反正就是一大堆AIz 一起"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 6,
+      "snippet": "提供去算力的"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 4,
+      "snippet": "亞馬遜版"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 4,
+      "snippet": "三大巨頭"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 5,
+      "snippet": "都很熟悉的"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 1,
+      "snippet": "谷"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 29,
+      "snippet": "歌AureBure22222222222322呢Cloud"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 5,
+      "snippet": "除此之外呢"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 3,
+      "snippet": "甲骨文"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 12,
+      "snippet": "這兩年在資料中心這也很猛"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 11,
+      "snippet": "這個SpaceX AI"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 11,
+      "snippet": "也建了非常大的資料中心"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 13,
+      "snippet": "Colossus一期和二期"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 8,
+      "snippet": "現在馬斯克還號稱"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 5,
+      "snippet": "要去太空上"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 3,
+      "snippet": "建全球"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 7,
+      "snippet": "或者說全太陽系"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 7,
+      "snippet": "最大的資料中心"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 11,
+      "snippet": "然後呢就是大模型公司了"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 6,
+      "snippet": "這一層市佔率"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 8,
+      "snippet": "斷層領先的三巨頭"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 6,
+      "snippet": "OpenAI"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 9,
+      "snippet": "Anthropic"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 15,
+      "snippet": "還有Google的Gemini"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 11,
+      "snippet": "這個Anthropic"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 10,
+      "snippet": "可能有些朋友沒那麼熟"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 7,
+      "snippet": "發音還挺費勁的"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 9,
+      "snippet": "它就是Claude"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 2,
+      "snippet": "那個"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 1,
+      "snippet": "大"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 7,
+      "snippet": "模型背後的公司"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 5,
+      "snippet": "我 跟你說"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 6,
+      "snippet": "他最近這半年"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 8,
+      "snippet": "發展勢頭極其迅猛"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 12,
+      "snippet": "剛剛5月份一輪融資 估值"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 11,
+      "snippet": "已經超過了OpenAI"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 2,
+      "snippet": "達到"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 9,
+      "snippet": "了9,650億美元"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 2,
+      "snippet": "無限"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 2,
+      "snippet": "數字"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 7,
+      "snippet": "Revenue"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 7,
+      "snippet": "年化經常性收入"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 9,
+      "snippet": "可以大概理解成一個"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 6,
+      "snippet": "估算的年收入"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 11,
+      "snippet": "這個Anthropic"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 6,
+      "snippet": "雖然它用戶量"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 12,
+      "snippet": "肯定還沒有OpenAI多"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 5,
+      "snippet": "但它的營收"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 6,
+      "snippet": "它這個ARR"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 10,
+      "snippet": "15個月裡翻了30倍"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 10,
+      "snippet": "今年4月份是300億"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 11,
+      "snippet": "5月份就達到了470億"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 4,
+      "snippet": "也就是說"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 7,
+      "snippet": "雖然它的用戶少"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 4,
+      "snippet": "但更賺錢"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 13,
+      "snippet": "而且還在以火箭般的速度上升"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 2,
+      "snippet": "總之"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 9,
+      "snippet": "這個就是大模型層的"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 6,
+      "snippet": "三個主要玩家"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 8,
+      "snippet": "其他巨頭肯定也是"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 11,
+      "snippet": "人人都有自己的大模型了"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 8,
+      "snippet": "但從 市佔率上還"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 2,
+      "snippet": "拼合"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 2,
+      "snippet": "三位"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 2,
+      "snippet": "AI"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 4,
+      "snippet": "致的分佈"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 6,
+      "snippet": "注意哈我說的"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 10,
+      "snippet": "都是他們比較成氣候的"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 4,
+      "snippet": "主營業務"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 7,
+      "snippet": "你比如說英偉達"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 8,
+      "snippet": "其實每個都做點兒"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 11,
+      "snippet": "Meta也有自己的芯片"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 6,
+      "snippet": "就我們這張圖"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 7,
+      "snippet": "先只看核心部分"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 5,
+      "snippet": "好那接下來"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 4,
+      "snippet": "我們就看"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 12,
+      "snippet": "他們之間的這個投資合作了"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 8,
+      "snippet": "咱們從哪開始看呢"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 8,
+      "snippet": "這些大模型公司裡"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 10,
+      "snippet": "其實最看最核心的資本"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 2,
+      "snippet": "站在"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 2,
+      "snippet": "資本"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 2,
+      "snippet": "中央"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 5,
+      "snippet": "只有它兩個"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 10,
+      "snippet": "是獨立的純大模型公司"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 10,
+      "snippet": "而且模型能力人才實力"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 11,
+      "snippet": "一直也都是全球第一梯隊"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 3,
+      "snippet": "所以呢"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 6,
+      "snippet": "這個股權投資"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 7,
+      "snippet": "很主要的一部分"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 9,
+      "snippet": "就是圍繞著它倆展開"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 15,
+      "snippet": "其實谷歌Geimini它也很強"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 8,
+      "snippet": "但是它背靠谷歌呀"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 4,
+      "snippet": "又不缺錢"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 5,
+      "snippet": "又不缺算力"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 10,
+      "snippet": "谷歌也不願意讓人進來"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 5,
+      "snippet": "所以資本圈"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 12,
+      "snippet": "主要還是圍繞著OA這兩位"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 6,
+      "snippet": "我們知道早期"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 13,
+      "snippet": "其實都是OpenAI的天下"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 8,
+      "snippet": "屬於獨一檔的存在"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 10,
+      "snippet": "它背後著名的投資人哎"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 6,
+      "snippet": "也是眾人皆知"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 4,
+      "snippet": "就是微軟"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 4,
+      "snippet": "早早入局"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 7,
+      "snippet": "到現在前前後後"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 10,
+      "snippet": "一共投了130億美元"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 7,
+      "snippet": "佔股大概27%"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 4,
+      "snippet": "你要知道"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 11,
+      "snippet": "OpenAI現在的估值"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 13,
+      "snippet": "已經有大概8,500億美元"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 4,
+      "snippet": "也就是說"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 10,
+      "snippet": "微軟手上股權的估價值"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 11,
+      "snippet": "大概是2,290億美元"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 9,
+      "snippet": "咱就從投資的角度看"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 12,
+      "snippet": "微軟已經在這賺了17倍了"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 5,
+      "snippet": "作為對比呢"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 6,
+      "snippet": "軟銀的孫正義"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 9,
+      "snippet": "在OpenAI身上"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 12,
+      "snippet": "已經投了超過600億美元"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 7,
+      "snippet": "是微軟的四五倍"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 13,
+      "snippet": "卻 拿到了OpenAI股權"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 7,
+      "snippet": "只有13%左右"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 2,
+      "snippet": "還不"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 6,
+      "snippet": "到微軟的一半"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 12,
+      "snippet": "可見微軟這塊早期的押押寶"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 6,
+      "snippet": "順便說一嘴哈"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 7,
+      "snippet": "軟銀這個孫正義"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 5,
+      "snippet": "當時為了湊"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 10,
+      "snippet": "投OpenAI這筆錢"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 14,
+      "snippet": "把手上58億美元的英偉達股票"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 4,
+      "snippet": "全給清倉"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 5,
+      "snippet": "他後來自己"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 11,
+      "snippet": "也在投資者會議上都說了"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 10,
+      "snippet": "說我非常的尊重黃仁勳"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 9,
+      "snippet": "我非常的尊重英偉達"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 12,
+      "snippet": "我是哭著把英偉達給賣掉的"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 6,
+      "snippet": "正是因為微軟"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 15,
+      "snippet": "在OpenAI這兒的股份非常高"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 8,
+      "snippet": "那作為另一大巨頭"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 3,
+      "snippet": "亞馬遜"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 5,
+      "snippet": "當時就覺得"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 13,
+      "snippet": "再趕過去投這個OpenAI"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 5,
+      "snippet": "沒啥意思了"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 4,
+      "snippet": "怎麼辦呢"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 13,
+      "snippet": "我就趕緊扶持了他的競爭對手"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 9,
+      "snippet": "Anthropic"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 10,
+      "snippet": "亞馬遜早在2023年"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 9,
+      "snippet": "就投了他40億美元"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 11,
+      "snippet": "2024年又跟了40億"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 11,
+      "snippet": "也是Anthropic"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 8,
+      "snippet": "最早的那批投資人"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 7,
+      "snippet": "但有意思的來了"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 9,
+      "snippet": "後來這個意思亞馬遜"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 5,
+      "snippet": "他換思路了"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 6,
+      "snippet": "他乾了什麼呢"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 18,
+      "snippet": "今年OpenAI和Anthropic"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 11,
+      "snippet": "都進行了一輪大規模融資"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 4,
+      "snippet": "而亞馬遜"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 5,
+      "snippet": "都是他們倆"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 11,
+      "snippet": "最核心的外部投資人之一"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 16,
+      "snippet": "承諾OpenAI這邊最多500億"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 17,
+      "snippet": "Anthropic追加最多250億"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 5,
+      "snippet": "我想明白了"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 5,
+      "snippet": "我不站邊了"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 5,
+      "snippet": "難押也算押"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 5,
+      "snippet": "我豁出去了"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 5,
+      "snippet": "我來個雙押"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 7,
+      "snippet": "所以你會發現哈"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 6,
+      "snippet": "這些大廠裡邊"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 6,
+      "snippet": "微軟和亞馬遜"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 8,
+      "snippet": "都沒有自己的那種"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 8,
+      "snippet": "非常出圈的大模型"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 12,
+      "snippet": "因為他倆其實都早早入股了"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 5,
+      "snippet": "大模型公司"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 11,
+      "snippet": "我就不費那麼大勁自研了"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 7,
+      "snippet": "我主打一個扶持"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 4,
+      "snippet": "那谷歌呢"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 3,
+      "snippet": "早期呢"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 8,
+      "snippet": "他也和亞馬遜一樣"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 11,
+      "snippet": "投了Anthropic"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 2,
+      "snippet": "不過"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 11,
+      "snippet": "億筆都是幾億幾億幾億模"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 12,
+      "snippet": "了解投資圈的朋友可能知道"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 13,
+      "snippet": "這種一般壓根就不是為了投資"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 9,
+      "snippet": "我就想跟你交個朋友"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 7,
+      "snippet": "咱們先認識一下"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 5,
+      "snippet": "谷歌的重心"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 16,
+      "snippet": "還是放在研發自己的Gemini上"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 4,
+      "snippet": "但後來呢"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 11,
+      "snippet": "這個Anthropic"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 8,
+      "snippet": "發展實在是太快了"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 13,
+      "snippet": "不光沒被OpenAI甩下來"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 10,
+      "snippet": "反倒有追趕上來的勢頭"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 18,
+      "snippet": "尤其是Claude Code一出圈兒"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 7,
+      "snippet": "好傢伙一飛沖天"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 10,
+      "snippet": "那對谷歌來說怎麼辦呢"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 12,
+      "snippet": "這兩個競爭對手都這麼變態"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 8,
+      "snippet": "我要是全都押注在"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 10,
+      "snippet": "自己的Gemini上"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 4,
+      "snippet": "風險太高"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 5,
+      "snippet": "所以它開始"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 10,
+      "snippet": "雖然沒有大規模的投資"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 8,
+      "snippet": "但我可以怎麼樣呢"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 8,
+      "snippet": "我可以跟你合作哎"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 6,
+      "snippet": "我賣給你服務"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 4,
+      "snippet": "說哎你來"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 7,
+      "snippet": "你不是缺算力嗎"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 9,
+      "snippet": "咱們這這個TPU啊"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 10,
+      "snippet": "好我可以便宜點租給你"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 6,
+      "snippet": "咱先交個朋友"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 12,
+      "snippet": "以後有什麼好事記得帶上我"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 6,
+      "snippet": "去年10月份"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 14,
+      "snippet": "雙方谷歌和Anthropic"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 9,
+      "snippet": "就宣布了大規模合作"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 11,
+      "snippet": "谷歌最多提供100萬顆"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 8,
+      "snippet": "定制的TPU芯片"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 10,
+      "snippet": "新增超過1吉瓦的算力"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 16,
+      "snippet": "而隨著今年Anthropic爆火"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 6,
+      "snippet": "谷歌忍不了了"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 4,
+      "snippet": "不曖昧了"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 14,
+      "snippet": "親兒子Gemini不好意思了"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 17,
+      "snippet": "我去跟Anthropic抱在一起了"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 5,
+      "snippet": "4月24號"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 12,
+      "snippet": "宣布投資最多400億美元"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 8,
+      "snippet": "還要在未來5年內"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 8,
+      "snippet": "提供5吉瓦的算力"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 5,
+      "snippet": "圍繞這兩家"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 10,
+      "snippet": "核心大模型公司的投資"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 4,
+      "snippet": "還沒完哈"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 4,
+      "snippet": "還有一個"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 9,
+      "snippet": "非常重要的重量玩家"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 5,
+      "snippet": "就是英偉達"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 10,
+      "snippet": "英偉達跟OpenAI"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 9,
+      "snippet": "簽了300億美元的"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 7,
+      "snippet": "戰略合作意向書"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 12,
+      "snippet": "那什麼叫戰略合作意向書呢"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 12,
+      "snippet": "就是我可以給你投300億"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 4,
+      "snippet": "但前提是"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 11,
+      "snippet": "你得用我多少的GP U"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 5,
+      "snippet": "用我的晶片"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 6,
+      "snippet": "其實這筆投資"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 13,
+      "snippet": "本來最高有1,000億美元"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 11,
+      "snippet": "但是OpenAI的估值"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 6,
+      "snippet": "實在是太高了"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 3,
+      "snippet": "說白了"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 9,
+      "snippet": "就是英偉達上車上的"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 5,
+      "snippet": "有點太晚了"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 11,
+      "snippet": "OpenAI已經太貴了"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 12,
+      "snippet": "Anthropic這邊呢"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 5,
+      "snippet": "黃仁勳說過"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 13,
+      "snippet": "最多要戰略投資100億美元"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 7,
+      "snippet": "但目前還沒敲定"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 5,
+      "snippet": "其實老黃呢"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 13,
+      "snippet": "他在4月份有一個博客的時候"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 10,
+      "snippet": "就自己承認說上車晚了"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 9,
+      "snippet": "所以圍繞這兩家公司"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 9,
+      "snippet": "投資的一個大致格局"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 11,
+      "snippet": "我們非常非常籠統的來說"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 4,
+      "snippet": "是這樣的"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 13,
+      "snippet": "微軟跟OpenAI是一邊的"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 15,
+      "snippet": "但有點被OpenAI給邊緣化了"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 16,
+      "snippet": "它也在跟Anthropic搞曖昧"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 15,
+      "snippet": "谷歌是Anthropic這邊的"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 4,
+      "snippet": "這沒得說"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 3,
+      "snippet": "亞馬遜"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 15,
+      "snippet": "最開始是獨寵Anthropic"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 12,
+      "snippet": "但今年兩邊都開始猛猛投資"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 6,
+      "snippet": "他玩的是雙押"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 4,
+      "snippet": "英偉達呢"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 4,
+      "snippet": "入局晚了"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 7,
+      "snippet": "兩邊都投了一點"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 8,
+      "snippet": "OpenAI更多"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 11,
+      "snippet": "SpaceX和Meta"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 12,
+      "snippet": "現在還沒有明顯的投資站邊"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 10,
+      "snippet": "但要補充一點是什麼呢"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 13,
+      "snippet": "馬斯克跟OpenAI的關係"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 8,
+      "snippet": "那是出了名的差呀"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 8,
+      "snippet": "所以他即便要站邊"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 13,
+      "snippet": "也一定是Anthropic"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 12,
+      "snippet": "其實最近也開始有大動作了"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 9,
+      "snippet": "這個我們一會兒再說"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 9,
+      "snippet": "還有我要強調一下哈"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 12,
+      "snippet": "雖然我們說這些大廠在投資"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 9,
+      "snippet": "但並不是說什麼微軟"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 5,
+      "snippet": "谷歌亞馬遜"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 11,
+      "snippet": "就是這兩家的最大金主了"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 8,
+      "snippet": "其實他倆很主要的"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 7,
+      "snippet": "都是財務投資人"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 13,
+      "snippet": "你像軟銀就投了OpenAI"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 5,
+      "snippet": "600億嘛"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 10,
+      "snippet": "還有什麼阿聯酋的基金"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 6,
+      "snippet": "新加坡的基金"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 6,
+      "snippet": "都投了不少錢"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 7,
+      "snippet": "這些純財務投資"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 9,
+      "snippet": "我們今天也就不多說"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 6,
+      "snippet": "剛才是圍繞著"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 8,
+      "snippet": "這兩邊的股權投資"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 8,
+      "snippet": "那上下游的合作呢"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 3,
+      "snippet": "基本上"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 13,
+      "snippet": "就完全沒有什麼派系的關係了"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 9,
+      "snippet": "大家又不是直接競爭"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 5,
+      "snippet": "都是好夥伴"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 12,
+      "snippet": "微軟不光是給OpenAI"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 2,
+      "snippet": "提供"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 1,
+      "snippet": "雲"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 2,
+      "snippet": "服務"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 17,
+      "snippet": "也會給Anthropicpic提供"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 12,
+      "snippet": "了大家又不是直接競爭都是"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 2,
+      "snippet": "夥伴"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 2,
+      "snippet": "微軟"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 17,
+      "snippet": "不間斷主要就服務Anthropic"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 6,
+      "snippet": "把老黃氣夠嗆"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 7,
+      "snippet": "還有這個馬斯克"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 6,
+      "snippet": "非常有戲劇性"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 8,
+      "snippet": "他今年2月26號"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 17,
+      "snippet": "在X上發文罵這個Anthropic"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 5,
+      "snippet": "說他反人類"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 2,
+      "snippet": "邪惡"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 9,
+      "snippet": "用的都是這種大詞兒"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 7,
+      "snippet": "但是70天之後"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 4,
+      "snippet": "5月6號"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 13,
+      "snippet": "馬斯克的SpaceX就宣布"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 13,
+      "snippet": "跟Anthropic合作了"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 13,
+      "snippet": "說要給他提供22萬顆GPU"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 10,
+      "snippet": "這可是個非常大的單子"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 10,
+      "snippet": "馬斯克不是剛罵過人家"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 4,
+      "snippet": "反人類嗎"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 10,
+      "snippet": "趕緊回來給自己打圓場"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 3,
+      "snippet": "他說哈"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 19,
+      "snippet": "我其實跟Anthropic的團隊聊了聊"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 4,
+      "snippet": "我發現啊"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 13,
+      "snippet": "沒有人觸發我這個邪惡探測器"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 10,
+      "snippet": "也不知道自己之前那詞"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 3,
+      "snippet": "哪來的"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 8,
+      "snippet": "你看這就是AI圈"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 9,
+      "snippet": "如此巨大的利益面前"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 6,
+      "snippet": "打臉就打臉吧"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 7,
+      "snippet": "況且敵人的敵人"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 7,
+      "snippet": "就是我的朋友啊"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 7,
+      "snippet": "所以現在很明顯"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 13,
+      "snippet": "Anthropi c他朋友"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 8,
+      "snippet": "在數量上是更多的"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 6,
+      "snippet": "是三大雲廠商"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 7,
+      "snippet": "唯一的共同選擇"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 12,
+      "snippet": "而且還跟SpaceX合作"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 10,
+      "snippet": "而OpenAI這邊呢"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 9,
+      "snippet": "他怎麼沒那麼多合作"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 7,
+      "snippet": "他不是領頭羊嗎"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 7,
+      "snippet": "哎因為他有那個"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 7,
+      "snippet": "著名的算力項目"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 8,
+      "snippet": "Stargate"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 4,
+      "snippet": "星際之門"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 11,
+      "snippet": "但這個Stargate"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 7,
+      "snippet": "其實挺戲劇化的"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 8,
+      "snippet": "還不太了解的朋友"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 7,
+      "snippet": "我簡單介紹一下"
+    },
+    {
+      "sentence_id": "s486",
+      "char_len": 9,
+      "snippet": "它呢是一個有史以來"
+    },
+    {
+      "sentence_id": "s487",
+      "char_len": 9,
+      "snippet": "最大的數據中心項目"
+    },
+    {
+      "sentence_id": "s488",
+      "char_len": 11,
+      "snippet": "2025年特朗普一上台"
+    },
+    {
+      "sentence_id": "s489",
+      "char_len": 10,
+      "snippet": "就牽頭把OpenAI"
+    },
+    {
+      "sentence_id": "s490",
+      "char_len": 8,
+      "snippet": "軟銀甲骨文的老大"
+    },
+    {
+      "sentence_id": "s491",
+      "char_len": 6,
+      "snippet": "都湊在白宮裡"
+    },
+    {
+      "sentence_id": "s492",
+      "char_len": 12,
+      "snippet": "非常高調地宣布了這個專案"
+    },
+    {
+      "sentence_id": "s493",
+      "char_len": 4,
+      "snippet": "號稱要造"
+    },
+    {
+      "sentence_id": "s494",
+      "char_len": 7,
+      "snippet": "史上規模最大的"
+    },
+    {
+      "sentence_id": "s495",
+      "char_len": 10,
+      "snippet": "人工智慧基礎設施計劃"
+    },
+    {
+      "sentence_id": "s496",
+      "char_len": 7,
+      "snippet": "要在美國的德州"
+    },
+    {
+      "sentence_id": "s497",
+      "char_len": 15,
+      "snippet": "建造一個總規模5,000億美元"
+    },
+    {
+      "sentence_id": "s498",
+      "char_len": 5,
+      "snippet": "10吉瓦的"
+    },
+    {
+      "sentence_id": "s499",
+      "char_len": 9,
+      "snippet": "超大型資料中心集群"
+    },
+    {
+      "sentence_id": "s500",
+      "char_len": 8,
+      "snippet": "初始的股權投資呢"
+    },
+    {
+      "sentence_id": "s501",
+      "char_len": 7,
+      "snippet": "是軟銀190億"
+    },
+    {
+      "sentence_id": "s502",
+      "char_len": 11,
+      "snippet": "OpenAI 190億"
+    },
+    {
+      "sentence_id": "s503",
+      "char_len": 6,
+      "snippet": "甲骨文70億"
+    },
+    {
+      "sentence_id": "s504",
+      "char_len": 11,
+      "snippet": "阿聯酋的MGX 70億"
+    },
+    {
+      "sentence_id": "s505",
+      "char_len": 12,
+      "snippet": "哎這個阿聯酋跟這三個一比"
+    },
+    {
+      "sentence_id": "s506",
+      "char_len": 8,
+      "snippet": "是不是顯得很突兀"
+    },
+    {
+      "sentence_id": "s507",
+      "char_len": 8,
+      "snippet": "他跟特朗普的關係"
+    },
+    {
+      "sentence_id": "s508",
+      "char_len": 7,
+      "snippet": "我們有機會再聊"
+    },
+    {
+      "sentence_id": "s509",
+      "char_len": 10,
+      "snippet": "那你想這麼龐大的項目"
+    },
+    {
+      "sentence_id": "s510",
+      "char_len": 7,
+      "snippet": "肯定首先要滿足"
+    },
+    {
+      "sentence_id": "s511",
+      "char_len": 12,
+      "snippet": "OpenAI的算力需求啊"
+    },
+    {
+      "sentence_id": "s512",
+      "char_len": 8,
+      "snippet": "他甚至還牽頭要在"
+    },
+    {
+      "sentence_id": "s513",
+      "char_len": 3,
+      "snippet": "阿聯酋"
+    },
+    {
+      "sentence_id": "s514",
+      "char_len": 2,
+      "snippet": "英國"
+    },
+    {
+      "sentence_id": "s515",
+      "char_len": 2,
+      "snippet": "挪威"
+    },
+    {
+      "sentence_id": "s516",
+      "char_len": 7,
+      "snippet": "阿根廷等等地方"
+    },
+    {
+      "sentence_id": "s517",
+      "char_len": 13,
+      "snippet": "都要建Stargate項目"
+    },
+    {
+      "sentence_id": "s518",
+      "char_len": 13,
+      "snippet": "大概就是這麼一個龐大的計劃"
+    },
+    {
+      "sentence_id": "s519",
+      "char_len": 7,
+      "snippet": "甚至有人拿它跟"
+    },
+    {
+      "sentence_id": "s520",
+      "char_len": 8,
+      "snippet": "曼哈頓計劃相比較"
+    },
+    {
+      "sentence_id": "s521",
+      "char_len": 7,
+      "snippet": "可當時發布當晚"
+    },
+    {
+      "sentence_id": "s522",
+      "char_len": 8,
+      "snippet": "馬斯克他就開懟了"
+    },
+    {
+      "sentence_id": "s523",
+      "char_len": 9,
+      "snippet": "說他們根本沒那個錢"
+    },
+    {
+      "sentence_id": "s524",
+      "char_len": 4,
+      "snippet": "而結果呢"
+    },
+    {
+      "sentence_id": "s525",
+      "char_len": 10,
+      "snippet": "還真讓馬斯克給說著了"
+    },
+    {
+      "sentence_id": "s526",
+      "char_len": 4,
+      "snippet": "這個項目"
+    },
+    {
+      "sentence_id": "s527",
+      "char_len": 13,
+      "snippet": "除了初始那四位承諾的錢以外"
+    },
+    {
+      "sentence_id": "s528",
+      "char_len": 12,
+      "snippet": "幾乎就沒融到像樣的大投資"
+    },
+    {
+      "sentence_id": "s529",
+      "char_len": 6,
+      "snippet": "去年12月份"
+    },
+    {
+      "sentence_id": "s530",
+      "char_len": 6,
+      "snippet": "有媒體就爆料"
+    },
+    {
+      "sentence_id": "s531",
+      "char_len": 14,
+      "snippet": "這個OpenAI甲骨文和軟銀"
+    },
+    {
+      "sentence_id": "s532",
+      "char_len": 3,
+      "snippet": "這三方"
+    },
+    {
+      "sentence_id": "s533",
+      "char_len": 8,
+      "snippet": "在東京的談判桌上"
+    },
+    {
+      "sentence_id": "s534",
+      "char_len": 6,
+      "snippet": "吵得不可開交"
+    },
+    {
+      "sentence_id": "s535",
+      "char_len": 9,
+      "snippet": "OpenAI就覺得"
+    },
+    {
+      "sentence_id": "s536",
+      "char_len": 11,
+      "snippet": "我可是咱們仨裡的明星啊"
+    },
+    {
+      "sentence_id": "s537",
+      "char_len": 5,
+      "snippet": "雖然我沒錢"
+    },
+    {
+      "sentence_id": "s538",
+      "char_len": 9,
+      "snippet": "但我應該擁有設計權"
+    },
+    {
+      "sentence_id": "s539",
+      "char_len": 7,
+      "snippet": "和長期的使用權"
+    },
+    {
+      "sentence_id": "s540",
+      "char_len": 7,
+      "snippet": "甲骨文就覺得呢"
+    },
+    {
+      "sentence_id": "s541",
+      "char_len": 17,
+      "snippet": "這主要都是我建的呀你們得聽我建的呀"
+    },
+    {
+      "sentence_id": "s542",
+      "char_len": 6,
+      "snippet": "你們得聽我的"
+    },
+    {
+      "sentence_id": "s543",
+      "char_len": 5,
+      "snippet": "軟銀就覺得"
+    },
+    {
+      "sentence_id": "s544",
+      "char_len": 6,
+      "snippet": "這我出錢最多"
+    },
+    {
+      "sentence_id": "s545",
+      "char_len": 6,
+      "snippet": "你們甭管怎麼"
+    },
+    {
+      "sentence_id": "s546",
+      "char_len": 13,
+      "snippet": "搞得 保證我的投資回報率啊"
+    },
+    {
+      "sentence_id": "s547",
+      "char_len": 6,
+      "snippet": "大概就這意思"
+    },
+    {
+      "sentence_id": "s548",
+      "char_len": 5,
+      "snippet": "這都我猜的"
+    },
+    {
+      "sentence_id": "s549",
+      "char_len": 7,
+      "snippet": "你看這個特朗普"
+    },
+    {
+      "sentence_id": "s550",
+      "char_len": 5,
+      "snippet": "他就管攢局"
+    },
+    {
+      "sentence_id": "s551",
+      "char_len": 9,
+      "snippet": "你倒是指定個老大呀"
+    },
+    {
+      "sentence_id": "s552",
+      "char_len": 3,
+      "snippet": "他不管"
+    },
+    {
+      "sentence_id": "s553",
+      "char_len": 13,
+      "snippet": "據說哈現在OpenAI內部"
+    },
+    {
+      "sentence_id": "s554",
+      "char_len": 8,
+      "snippet": "已經實質性放棄了"
+    },
+    {
+      "sentence_id": "s555",
+      "char_len": 8,
+      "snippet": "所謂\"星際之門\""
+    },
+    {
+      "sentence_id": "s556",
+      "char_len": 8,
+      "snippet": "這個大型聯合項目"
+    },
+    {
+      "sentence_id": "s557",
+      "char_len": 7,
+      "snippet": "而轉變成傳統的"
+    },
+    {
+      "sentence_id": "s558",
+      "char_len": 4,
+      "snippet": "找甲骨文"
+    },
+    {
+      "sentence_id": "s559",
+      "char_len": 4,
+      "snippet": "找AWS"
+    },
+    {
+      "sentence_id": "s560",
+      "char_len": 8,
+      "snippet": "我走一個雙邊合同"
+    },
+    {
+      "sentence_id": "s561",
+      "char_len": 15,
+      "snippet": "OpenAI就是一個簡單的租客"
+    },
+    {
+      "sentence_id": "s562",
+      "char_len": 11,
+      "snippet": "當然他很多項目還在建哈"
+    },
+    {
+      "sentence_id": "s563",
+      "char_len": 5,
+      "snippet": "只是說這個"
+    },
+    {
+      "sentence_id": "s564",
+      "char_len": 9,
+      "snippet": "星際之門龐大的願景"
+    },
+    {
+      "sentence_id": "s565",
+      "char_len": 7,
+      "snippet": "現在是比較受阻"
+    },
+    {
+      "sentence_id": "s566",
+      "char_len": 7,
+      "snippet": "變成一個單獨的"
+    },
+    {
+      "sentence_id": "s567",
+      "char_len": 6,
+      "snippet": "資料中心專案"
+    },
+    {
+      "sentence_id": "s568",
+      "char_len": 12,
+      "snippet": "你看這就是AI時代的速度"
+    },
+    {
+      "sentence_id": "s569",
+      "char_len": 7,
+      "snippet": "千億美元的專案"
+    },
+    {
+      "sentence_id": "s570",
+      "char_len": 4,
+      "snippet": "說起就起"
+    },
+    {
+      "sentence_id": "s571",
+      "char_len": 4,
+      "snippet": "說沒就沒"
+    },
+    {
+      "sentence_id": "s572",
+      "char_len": 8,
+      "snippet": "其實甲骨文的股價"
+    },
+    {
+      "sentence_id": "s573",
+      "char_len": 7,
+      "snippet": "就很能說明問題"
+    },
+    {
+      "sentence_id": "s574",
+      "char_len": 7,
+      "snippet": "去年下半年開始"
+    },
+    {
+      "sentence_id": "s575",
+      "char_len": 10,
+      "snippet": "因為星際之門這個專案"
+    },
+    {
+      "sentence_id": "s576",
+      "char_len": 4,
+      "snippet": "一路瘋漲"
+    },
+    {
+      "sentence_id": "s577",
+      "char_len": 16,
+      "snippet": "創始人Larry Ellison"
+    },
+    {
+      "sentence_id": "s578",
+      "char_len": 8,
+      "snippet": "一度成了世界首富"
+    },
+    {
+      "sentence_id": "s579",
+      "char_len": 11,
+      "snippet": "後來呢也是因為星際之門"
+    },
+    {
+      "sentence_id": "s580",
+      "char_len": 11,
+      "snippet": "負面的小道消息接連爆出"
+    },
+    {
+      "sentence_id": "s581",
+      "char_len": 4,
+      "snippet": "感覺要黃"
+    },
+    {
+      "sentence_id": "s582",
+      "char_len": 8,
+      "snippet": "哎這股價又回來了"
+    },
+    {
+      "sentence_id": "s583",
+      "char_len": 11,
+      "snippet": "好我們再來看底層芯片層"
+    },
+    {
+      "sentence_id": "s584",
+      "char_len": 7,
+      "snippet": "其實要說合作呢"
+    },
+    {
+      "sentence_id": "s585",
+      "char_len": 3,
+      "snippet": "英偉達"
+    },
+    {
+      "sentence_id": "s586",
+      "char_len": 12,
+      "snippet": "可以說幾乎跟所有人都合作"
+    },
+    {
+      "sentence_id": "s587",
+      "char_len": 43,
+      "snippet": "誰不需要英偉達的顯卡呢對吧要是這個英偉達可以說幾乎跟所有人都合作誰不需要英偉達的顯卡呢"
+    },
+    {
+      "sentence_id": "s588",
+      "char_len": 2,
+      "snippet": "對吧"
+    },
+    {
+      "sentence_id": "s589",
+      "char_len": 12,
+      "snippet": "要是這個英偉達跟誰都連上"
+    },
+    {
+      "sentence_id": "s590",
+      "char_len": 10,
+      "snippet": "我覺得放在圖上太亂了"
+    },
+    {
+      "sentence_id": "s591",
+      "char_len": 5,
+      "snippet": "所以我沒加"
+    },
+    {
+      "sentence_id": "s592",
+      "char_len": 8,
+      "snippet": "大家知道一下就好"
+    },
+    {
+      "sentence_id": "s593",
+      "char_len": 6,
+      "snippet": "英偉達這兩年"
+    },
+    {
+      "sentence_id": "s594",
+      "char_len": 8,
+      "snippet": "確實混得風生水起"
+    },
+    {
+      "sentence_id": "s595",
+      "char_len": 9,
+      "snippet": "手裡​​也不差錢兒"
+    },
+    {
+      "sentence_id": "s596",
+      "char_len": 12,
+      "snippet": "所以除了投資OpenAI"
+    },
+    {
+      "sentence_id": "s597",
+      "char_len": 13,
+      "snippet": "承諾投資Anthropic"
+    },
+    {
+      "sentence_id": "s598",
+      "char_len": 12,
+      "snippet": "然後還在美國政府的牽線下"
+    },
+    {
+      "sentence_id": "s599",
+      "char_len": 9,
+      "snippet": "投了英特爾50個億"
+    },
+    {
+      "sentence_id": "s600",
+      "char_len": 15,
+      "snippet": "還投資了SpaceX 20個億"
+    },
+    {
+      "sentence_id": "s601",
+      "char_len": 4,
+      "snippet": "除此之外"
+    },
+    {
+      "sentence_id": "s602",
+      "char_len": 14,
+      "snippet": "他還投了非常多小型的AI公司"
+    },
+    {
+      "sentence_id": "s603",
+      "char_len": 10,
+      "snippet": "當然我說這個\"小型\""
+    },
+    {
+      "sentence_id": "s604",
+      "char_len": 12,
+      "snippet": "是按咱們今天這個量級來看"
+    },
+    {
+      "sentence_id": "s605",
+      "char_len": 9,
+      "snippet": "千億以下的都算小型"
+    },
+    {
+      "sentence_id": "s606",
+      "char_len": 20,
+      "snippet": "什麼CoreWeave FigureAI"
+    },
+    {
+      "sentence_id": "s607",
+      "char_len": 22,
+      "snippet": "Wayve Mistral Cohere等等"
+    },
+    {
+      "sentence_id": "s608",
+      "char_len": 7,
+      "snippet": "光今年承諾投資"
+    },
+    {
+      "sentence_id": "s609",
+      "char_len": 12,
+      "snippet": "總計就有400億美元左右"
+    },
+    {
+      "sentence_id": "s610",
+      "char_len": 11,
+      "snippet": "他要從一個AI的賣鏟人"
+    },
+    {
+      "sentence_id": "s611",
+      "char_len": 11,
+      "snippet": "變成整個產業鏈的大股東"
+    },
+    {
+      "sentence_id": "s612",
+      "char_len": 8,
+      "snippet": "那你想英偉達這邊"
+    },
+    {
+      "sentence_id": "s613",
+      "char_len": 5,
+      "snippet": "壟斷性越強"
+    },
+    {
+      "sentence_id": "s614",
+      "char_len": 10,
+      "snippet": "作為下游的大模型公司"
+    },
+    {
+      "sentence_id": "s615",
+      "char_len": 6,
+      "snippet": "他就越不踏實"
+    },
+    {
+      "sentence_id": "s616",
+      "char_len": 8,
+      "snippet": "那海量的算力需求"
+    },
+    {
+      "sentence_id": "s617",
+      "char_len": 12,
+      "snippet": "全指著英偉達這麼一家公司"
+    },
+    {
+      "sentence_id": "s618",
+      "char_len": 4,
+      "snippet": "一天到晚"
+    },
+    {
+      "sentence_id": "s619",
+      "char_len": 7,
+      "snippet": "得看老黃的臉色"
+    },
+    {
+      "sentence_id": "s620",
+      "char_len": 4,
+      "snippet": "總歸 是"
+    },
+    {
+      "sentence_id": "s621",
+      "char_len": 3,
+      "snippet": "有點不"
+    },
+    {
+      "sentence_id": "s622",
+      "char_len": 2,
+      "snippet": "舒服"
+    },
+    {
+      "sentence_id": "s623",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s624",
+      "char_len": 3,
+      "snippet": "一方面"
+    },
+    {
+      "sentence_id": "s625",
+      "char_len": 2,
+      "snippet": "搞好"
+    },
+    {
+      "sentence_id": "s626",
+      "char_len": 1,
+      "snippet": "說"
+    },
+    {
+      "sentence_id": "s627",
+      "char_len": 16,
+      "snippet": "Anthropic就找到谷歌合作"
+    },
+    {
+      "sentence_id": "s628",
+      "char_len": 6,
+      "snippet": "用它的TPU"
+    },
+    {
+      "sentence_id": "s629",
+      "char_len": 7,
+      "snippet": "還跟亞馬遜合作"
+    },
+    {
+      "sentence_id": "s630",
+      "char_len": 11,
+      "snippet": "用它的Trainium"
+    },
+    {
+      "sentence_id": "s631",
+      "char_len": 8,
+      "snippet": "而OpenAI呢"
+    },
+    {
+      "sentence_id": "s632",
+      "char_len": 5,
+      "snippet": "主要是透過"
+    },
+    {
+      "sentence_id": "s633",
+      "char_len": 12,
+      "snippet": "各種Stargate專案"
+    },
+    {
+      "sentence_id": "s634",
+      "char_len": 8,
+      "snippet": "用英偉達的GPU"
+    },
+    {
+      "sentence_id": "s635",
+      "char_len": 12,
+      "snippet": "所以OA這兩家大模型公司"
+    },
+    {
+      "sentence_id": "s636",
+      "char_len": 6,
+      "snippet": "非常籠統地說"
+    },
+    {
+      "sentence_id": "s637",
+      "char_len": 11,
+      "snippet": "OpenAI主要用的是"
+    },
+    {
+      "sentence_id": "s638",
+      "char_len": 6,
+      "snippet": "英偉達的晶片"
+    },
+    {
+      "sentence_id": "s639",
+      "char_len": 10,
+      "snippet": "而Anthropic"
+    },
+    {
+      "sentence_id": "s640",
+      "char_len": 5,
+      "snippet": "主要用的是"
+    },
+    {
+      "sentence_id": "s641",
+      "char_len": 8,
+      "snippet": "非 英偉達的晶片"
+    },
+    {
+      "sentence_id": "s642",
+      "char_len": 13,
+      "snippet": "有這麼一個朦朧的合作傾向哎"
+    },
+    {
+      "sentence_id": "s643",
+      "char_len": 6,
+      "snippet": "但你可別覺得"
+    },
+    {
+      "sentence_id": "s644",
+      "char_len": 12,
+      "snippet": "好像英偉達統治力不行了哈"
+    },
+    {
+      "sentence_id": "s645",
+      "char_len": 9,
+      "snippet": "Anthropic"
+    },
+    {
+      "sentence_id": "s646",
+      "char_len": 8,
+      "snippet": "屬於一個非常個例"
+    },
+    {
+      "sentence_id": "s647",
+      "char_len": 9,
+      "snippet": "其他大部分算力需求"
+    },
+    {
+      "sentence_id": "s648",
+      "char_len": 11,
+      "snippet": "基本上都還是會用英偉達"
+    },
+    {
+      "sentence_id": "s649",
+      "char_len": 4,
+      "snippet": "它基本上"
+    },
+    {
+      "sentence_id": "s650",
+      "char_len": 10,
+      "snippet": "還是可以說是壟斷的啊"
+    },
+    {
+      "sentence_id": "s651",
+      "char_len": 7,
+      "snippet": "這我再強調一下"
+    },
+    {
+      "sentence_id": "s652",
+      "char_len": 5,
+      "snippet": "怕引起誤解"
+    },
+    {
+      "sentence_id": "s653",
+      "char_len": 8,
+      "snippet": "當然OpenAI"
+    },
+    {
+      "sentence_id": "s654",
+      "char_len": 4,
+      "snippet": "他也不想"
+    },
+    {
+      "sentence_id": "s655",
+      "char_len": 11,
+      "snippet": "在英偉達這一棵樹上吊死"
+    },
+    {
+      "sentence_id": "s656",
+      "char_len": 6,
+      "snippet": "所以他一方面"
+    },
+    {
+      "sentence_id": "s657",
+      "char_len": 8,
+      "snippet": "跟英偉達戰略合作"
+    },
+    {
+      "sentence_id": "s658",
+      "char_len": 7,
+      "snippet": "同時還要和博通"
+    },
+    {
+      "sentence_id": "s659",
+      "char_len": 6,
+      "snippet": "合作自研芯片"
+    },
+    {
+      "sentence_id": "s660",
+      "char_len": 4,
+      "snippet": "去年年底"
+    },
+    {
+      "sentence_id": "s661",
+      "char_len": 5,
+      "snippet": "還跟AMD"
+    },
+    {
+      "sentence_id": "s662",
+      "char_len": 10,
+      "snippet": "談下了一單超級大合作"
+    },
+    {
+      "sentence_id": "s663",
+      "char_len": 9,
+      "snippet": "AMD在接下來幾年"
+    },
+    {
+      "sentence_id": "s664",
+      "char_len": 10,
+      "snippet": "提供總計6吉瓦的算力"
+    },
+    {
+      "sentence_id": "s665",
+      "char_len": 3,
+      "snippet": "但同時"
+    },
+    {
+      "sentence_id": "s666",
+      "char_len": 12,
+      "snippet": "它必須專門為OpenAI"
+    },
+    {
+      "sentence_id": "s667",
+      "char_len": 4,
+      "snippet": "發行最多"
+    },
+    {
+      "sentence_id": "s668",
+      "char_len": 15,
+      "snippet": "1.6億股的Warrant權證"
+    },
+    {
+      "sentence_id": "s669",
+      "char_len": 12,
+      "snippet": "行使價是0.01美元一股"
+    },
+    {
+      "sentence_id": "s670",
+      "char_len": 5,
+      "snippet": "這什麼意思"
+    },
+    {
+      "sentence_id": "s671",
+      "char_len": 6,
+      "snippet": "又是什麼玩法"
+    },
+    {
+      "sentence_id": "s672",
+      "char_len": 5,
+      "snippet": "這就相當於"
+    },
+    {
+      "sentence_id": "s673",
+      "char_len": 9,
+      "snippet": "OpenAI可以以"
+    },
+    {
+      "sentence_id": "s674",
+      "char_len": 8,
+      "snippet": "一分錢一股的價格"
+    },
+    {
+      "sentence_id": "s675",
+      "char_len": 5,
+      "snippet": "購買AMD"
+    },
+    {
+      "sentence_id": "s676",
+      "char_len": 8,
+      "snippet": "1.6億股的股票"
+    },
+    {
+      "sentence_id": "s677",
+      "char_len": 10,
+      "snippet": "那就白送他1.6億股"
+    },
+    {
+      "sentence_id": "s678",
+      "char_len": 5,
+      "snippet": "但具體條款"
+    },
+    {
+      "sentence_id": "s679",
+      "char_len": 11,
+      "snippet": "肯定不是就這麼直接送的"
+    },
+    {
+      "sentence_id": "s680",
+      "char_len": 9,
+      "snippet": "它有很多的條件細節"
+    },
+    {
+      "sentence_id": "s681",
+      "char_len": 9,
+      "snippet": "但大概你可以理解成"
+    },
+    {
+      "sentence_id": "s682",
+      "char_len": 7,
+      "snippet": "是AMD犧牲了"
+    },
+    {
+      "sentence_id": "s683",
+      "char_len": 8,
+      "snippet": "自己10%的股權"
+    },
+    {
+      "sentence_id": "s684",
+      "char_len": 15,
+      "snippet": "去換了OpenAI的一個大訂單"
+    },
+    {
+      "sentence_id": "s685",
+      "char_len": 3,
+      "snippet": "說實話"
+    },
+    {
+      "sentence_id": "s686",
+      "char_len": 10,
+      "snippet": "對他來說成本還挺高的"
+    },
+    {
+      "sentence_id": "s687",
+      "char_len": 5,
+      "snippet": "但也沒辦法"
+    },
+    {
+      "sentence_id": "s688",
+      "char_len": 7,
+      "snippet": "你要想坐到這個"
+    },
+    {
+      "sentence_id": "s689",
+      "char_len": 7,
+      "snippet": "最中心的牌桌上"
+    },
+    {
+      "sentence_id": "s690",
+      "char_len": 7,
+      "snippet": "就不得不出點血"
+    },
+    {
+      "sentence_id": "s691",
+      "char_len": 10,
+      "snippet": "然後緊接著今年2月份"
+    },
+    {
+      "sentence_id": "s692",
+      "char_len": 4,
+      "snippet": "Meta"
+    },
+    {
+      "sentence_id": "s693",
+      "char_len": 5,
+      "snippet": "你是不發現"
+    },
+    {
+      "sentence_id": "s694",
+      "char_len": 11,
+      "snippet": "咱一直還沒提Meta呢"
+    },
+    {
+      "sentence_id": "s695",
+      "char_len": 3,
+      "snippet": "它終於"
+    },
+    {
+      "sentence_id": "s696",
+      "char_len": 11,
+      "snippet": "也有資本市場的大動作了"
+    },
+    {
+      "sentence_id": "s697",
+      "char_len": 10,
+      "snippet": "它也跟AMD簽了協議"
+    },
+    {
+      "sentence_id": "s698",
+      "char_len": 4,
+      "snippet": "幾乎就是"
+    },
+    {
+      "sentence_id": "s699",
+      "char_len": 16,
+      "snippet": "AMD跟OpenAI那個的複刻版"
+    },
+    {
+      "sentence_id": "s700",
+      "char_len": 5,
+      "snippet": "6吉瓦算力"
+    },
+    {
+      "sentence_id": "s701",
+      "char_len": 7,
+      "snippet": "換10%的股權"
+    },
+    {
+      "sentence_id": "s702",
+      "char_len": 1,
+      "snippet": "看"
+    },
+    {
+      "sentence_id": "s703",
+      "char_len": 11,
+      "snippet": "這就是總體的一個大框架"
+    },
+    {
+      "sentence_id": "s704",
+      "char_len": 10,
+      "snippet": "你從結果來看錯綜複雜"
+    },
+    {
+      "sentence_id": "s705",
+      "char_len": 10,
+      "snippet": "但我們簡單拆解了一下"
+    },
+    {
+      "sentence_id": "s706",
+      "char_len": 9,
+      "snippet": "每家公司的思考邏輯"
+    },
+    {
+      "sentence_id": "s707",
+      "char_len": 2,
+      "snippet": "其實"
+    },
+    {
+      "sentence_id": "s708",
+      "char_len": 5,
+      "snippet": "也不難理解"
+    },
+    {
+      "sentence_id": "s709",
+      "char_len": 1,
+      "snippet": "你"
+    },
+    {
+      "sentence_id": "s710",
+      "char_len": 2,
+      "snippet": "是吧"
+    },
+    {
+      "sentence_id": "s711",
+      "char_len": 2,
+      "snippet": "AI"
+    },
+    {
+      "sentence_id": "s712",
+      "char_len": 2,
+      "snippet": "大牌"
+    },
+    {
+      "sentence_id": "s713",
+      "char_len": 1,
+      "snippet": "裡"
+    },
+    {
+      "sentence_id": "s714",
+      "char_len": 2,
+      "snippet": "其實"
+    },
+    {
+      "sentence_id": "s715",
+      "char_len": 2,
+      "snippet": "一切"
+    },
+    {
+      "sentence_id": "s716",
+      "char_len": 8,
+      "snippet": "這牌桌上現在有誰"
+    },
+    {
+      "sentence_id": "s717",
+      "char_len": 3,
+      "snippet": "你看啊"
+    },
+    {
+      "sentence_id": "s718",
+      "char_len": 16,
+      "snippet": "OpenAI和Anthropic"
+    },
+    {
+      "sentence_id": "s719",
+      "char_len": 7,
+      "snippet": "他倆有點像兩個"
+    },
+    {
+      "sentence_id": "s720",
+      "char_len": 9,
+      "snippet": "天才型的年輕創業者"
+    },
+    {
+      "sentence_id": "s721",
+      "char_len": 4,
+      "snippet": "勢頭很猛"
+    },
+    {
+      "sentence_id": "s722",
+      "char_len": 4,
+      "snippet": "天賦很高"
+    },
+    {
+      "sentence_id": "s723",
+      "char_len": 9,
+      "snippet": "目前呢還沒那麼有錢"
+    },
+    {
+      "sentence_id": "s724",
+      "char_len": 6,
+      "snippet": "但天花板極高"
+    },
+    {
+      "sentence_id": "s725",
+      "char_len": 5,
+      "snippet": "風險也極大"
+    },
+    {
+      "sentence_id": "s726",
+      "char_len": 14,
+      "snippet": "像 谷 歌微軟亞馬遜Meta"
+    },
+    {
+      "sentence_id": "s727",
+      "char_len": 7,
+      "snippet": "這些互聯網巨頭"
+    },
+    {
+      "sentence_id": "s728",
+      "char_len": 6,
+      "snippet": "已經算是那種"
+    },
+    {
+      "sentence_id": "s729",
+      "char_len": 2,
+      "snippet": "體積"
+    },
+    {
+      "sentence_id": "s730",
+      "char_len": 2,
+      "snippet": "很大"
+    },
+    {
+      "sentence_id": "s731",
+      "char_len": 6,
+      "snippet": "的\"老錢\"了"
+    },
+    {
+      "sentence_id": "s732",
+      "char_len": 2,
+      "snippet": "手裡"
+    },
+    {
+      "sentence_id": "s733",
+      "char_len": 1,
+      "snippet": "不"
+    },
+    {
+      "sentence_id": "s734",
+      "char_len": 1,
+      "snippet": "差"
+    },
+    {
+      "sentence_id": "s735",
+      "char_len": 6,
+      "snippet": "pic的5倍"
+    },
+    {
+      "sentence_id": "s736",
+      "char_len": 7,
+      "snippet": "這些\"老錢\"呢"
+    },
+    {
+      "sentence_id": "s737",
+      "char_len": 13,
+      "snippet": "他打法有點跟不上\"年輕人\""
+    },
+    {
+      "sentence_id": "s738",
+      "char_len": 13,
+      "snippet": "就一邊培養自己的\"年輕人\""
+    },
+    {
+      "sentence_id": "s739",
+      "char_len": 6,
+      "snippet": "一邊趕緊投資"
+    },
+    {
+      "sentence_id": "s740",
+      "char_len": 8,
+      "snippet": "去拉攏\"年輕人\""
+    },
+    {
+      "sentence_id": "s741",
+      "char_len": 5,
+      "snippet": "而英偉達呢"
+    },
+    {
+      "sentence_id": "s742",
+      "char_len": 6,
+      "snippet": "他就像是一個"
+    },
+    {
+      "sentence_id": "s743",
+      "char_len": 12,
+      "snippet": "正處在鼎盛時期的中年大佬"
+    },
+    {
+      "sentence_id": "s744",
+      "char_len": 4,
+      "snippet": "運籌帷幄"
+    },
+    {
+      "sentence_id": "s745",
+      "char_len": 6,
+      "snippet": "統籌整個桌子"
+    },
+    {
+      "sentence_id": "s746",
+      "char_len": 4,
+      "snippet": "他的目標"
+    },
+    {
+      "sentence_id": "s747",
+      "char_len": 8,
+      "snippet": "就不是在這個桌上"
+    },
+    {
+      "sentence_id": "s748",
+      "char_len": 6,
+      "snippet": "分一塊大蛋糕"
+    },
+    {
+      "sentence_id": "s749",
+      "char_len": 4,
+      "snippet": "而是想著"
+    },
+    {
+      "sentence_id": "s750",
+      "char_len": 9,
+      "snippet": "怎麼把整個蛋糕做大"
+    },
+    {
+      "sentence_id": "s751",
+      "char_len": 4,
+      "snippet": "而博通呢"
+    },
+    {
+      "sentence_id": "s752",
+      "char_len": 6,
+      "snippet": "就和各個老錢"
+    },
+    {
+      "sentence_id": "s753",
+      "char_len": 6,
+      "snippet": "關係都非常好"
+    },
+    {
+      "sentence_id": "s754",
+      "char_len": 9,
+      "snippet": "一個很可靠的供應商"
+    },
+    {
+      "sentence_id": "s755",
+      "char_len": 7,
+      "snippet": "也成了一個新貴"
+    },
+    {
+      "sentence_id": "s756",
+      "char_len": 11,
+      "snippet": "還有甲骨文AMD英特爾"
+    },
+    {
+      "sentence_id": "s757",
+      "char_len": 7,
+      "snippet": "屬於費了不少勁"
+    },
+    {
+      "sentence_id": "s758",
+      "char_len": 12,
+      "snippet": "好不容易坐到這主桌上來了"
+    },
+    {
+      "sentence_id": "s759",
+      "char_len": 9,
+      "snippet": "也想爭取更大的蛋糕"
+    },
+    {
+      "sentence_id": "s760",
+      "char_len": 9,
+      "snippet": "還有SpaceX呢"
+    },
+    {
+      "sentence_id": "s761",
+      "char_len": 11,
+      "snippet": "就屬於不是那種名門正派"
+    },
+    {
+      "sentence_id": "s762",
+      "char_len": 7,
+      "snippet": "完全另一套路數"
+    },
+    {
+      "sentence_id": "s763",
+      "char_len": 5,
+      "snippet": "另一套打法"
+    },
+    {
+      "sentence_id": "s764",
+      "char_len": 8,
+      "snippet": "跟大家的競爭關係"
+    },
+    {
+      "sentence_id": "s765",
+      "char_len": 4,
+      "snippet": "合作關係"
+    },
+    {
+      "sentence_id": "s766",
+      "char_len": 7,
+      "snippet": "都不是那麼緊密"
+    },
+    {
+      "sentence_id": "s767",
+      "char_len": 9,
+      "snippet": "但未來天花板也很高"
+    },
+    {
+      "sentence_id": "s768",
+      "char_len": 9,
+      "snippet": "有可能在某個時間點"
+    },
+    {
+      "sentence_id": "s769",
+      "char_len": 12,
+      "snippet": "跟大家形成強力的競爭關係"
+    },
+    {
+      "sentence_id": "s770",
+      "char_len": 7,
+      "snippet": "有點這種感覺哈"
+    },
+    {
+      "sentence_id": "s771",
+      "char_len": 5,
+      "snippet": "哎這個比喻"
+    },
+    {
+      "sentence_id": "s772",
+      "char_len": 12,
+      "snippet": "就是我非常主觀的一個感覺"
+    },
+    {
+      "sentence_id": "s773",
+      "char_len": 6,
+      "snippet": "你要是不同意"
+    },
+    {
+      "sentence_id": "s774",
+      "char_len": 8,
+      "snippet": "也可以有你的版本"
+    },
+    {
+      "sentence_id": "s775",
+      "char_len": 5,
+      "snippet": "那這一桌人"
+    },
+    {
+      "sentence_id": "s776",
+      "char_len": 10,
+      "snippet": "錯綜複雜的資本關係呢"
+    },
+    {
+      "sentence_id": "s777",
+      "char_len": 4,
+      "snippet": "簡單來說"
+    },
+    {
+      "sentence_id": "s778",
+      "char_len": 8,
+      "snippet": "就是同級之間競爭"
+    },
+    {
+      "sentence_id": "s779",
+      "char_len": 7,
+      "snippet": "不同級之間捆綁"
+    },
+    {
+      "sentence_id": "s780",
+      "char_len": 7,
+      "snippet": "有這麼三條主線"
+    },
+    {
+      "sentence_id": "s781",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s782",
+      "char_len": 10,
+      "snippet": "英偉達 投資 所有人"
+    },
+    {
+      "sentence_id": "s783",
+      "char_len": 9,
+      "snippet": "扶持整個行業加控股"
+    },
+    {
+      "sentence_id": "s784",
+      "char_len": 10,
+      "snippet": "其實也是鎖定他未來的"
+    },
+    {
+      "sentence_id": "s785",
+      "char_len": 2,
+      "snippet": "哎哎"
+    },
+    {
+      "sentence_id": "s786",
+      "char_len": 2,
+      "snippet": "給你"
+    },
+    {
+      "sentence_id": "s787",
+      "char_len": 5,
+      "snippet": "以後別忘了"
+    },
+    {
+      "sentence_id": "s788",
+      "char_len": 11,
+      "snippet": "繼續用咱們這的GPU啊"
+    },
+    {
+      "sentence_id": "s789",
+      "char_len": 7,
+      "snippet": "然後第二條主線"
+    },
+    {
+      "sentence_id": "s790",
+      "char_len": 10,
+      "snippet": "所有人投資OA這兩強"
+    },
+    {
+      "sentence_id": "s791",
+      "char_len": 9,
+      "snippet": "換取他倆的算力訂單"
+    },
+    {
+      "sentence_id": "s792",
+      "char_len": 11,
+      "snippet": "看所有的箭頭都指向他倆"
+    },
+    {
+      "sentence_id": "s793",
+      "char_len": 6,
+      "snippet": "尤其是這兩位"
+    },
+    {
+      "sentence_id": "s794",
+      "char_len": 6,
+      "snippet": "今年還要上市"
+    },
+    {
+      "sentence_id": "s795",
+      "char_len": 12,
+      "snippet": "所以這個融資情況就更活躍"
+    },
+    {
+      "sentence_id": "s796",
+      "char_len": 10,
+      "snippet": "都在努力的腳踩兩條船"
+    },
+    {
+      "sentence_id": "s797",
+      "char_len": 6,
+      "snippet": "三艘船四條船"
+    },
+    {
+      "sentence_id": "s798",
+      "char_len": 11,
+      "snippet": "那麼亂七八糟八糟一捆綁"
+    },
+    {
+      "sentence_id": "s799",
+      "char_len": 3,
+      "snippet": "了人們"
+    },
+    {
+      "sentence_id": "s800",
+      "char_len": 10,
+      "snippet": "不知道你有沒有發現哈"
+    },
+    {
+      "sentence_id": "s801",
+      "char_len": 7,
+      "snippet": "這張圖上的投資"
+    },
+    {
+      "sentence_id": "s802",
+      "char_len": 13,
+      "snippet": "其實跟我們普通意義上的投資"
+    },
+    {
+      "sentence_id": "s803",
+      "char_len": 5,
+      "snippet": "完全不一樣"
+    },
+    {
+      "sentence_id": "s804",
+      "char_len": 19,
+      "snippet": "你看似OpenAI和Anthropic"
+    },
+    {
+      "sentence_id": "s805",
+      "char_len": 4,
+      "snippet": "眾星捧月"
+    },
+    {
+      "sentence_id": "s806",
+      "char_len": 8,
+      "snippet": "融那麼多錢很光鮮"
+    },
+    {
+      "sentence_id": "s807",
+      "char_len": 7,
+      "snippet": "他倆一定很舒服"
+    },
+    {
+      "sentence_id": "s808",
+      "char_len": 3,
+      "snippet": "對吧哎"
+    },
+    {
+      "sentence_id": "s809",
+      "char_len": 3,
+      "snippet": "不是的"
+    },
+    {
+      "sentence_id": "s810",
+      "char_len": 6,
+      "snippet": "他融資的同時"
+    },
+    {
+      "sentence_id": "s811",
+      "char_len": 6,
+      "snippet": "拿到錢的同時"
+    },
+    {
+      "sentence_id": "s812",
+      "char_len": 12,
+      "snippet": "是承諾出去很多未來的算力"
+    },
+    {
+      "sentence_id": "s813",
+      "char_len": 4,
+      "snippet": "和合作的"
+    },
+    {
+      "sentence_id": "s814",
+      "char_len": 7,
+      "snippet": "你看咱們剛才說"
+    },
+    {
+      "sentence_id": "s815",
+      "char_len": 9,
+      "snippet": "不管是英偉達的投資"
+    },
+    {
+      "sentence_id": "s816",
+      "char_len": 6,
+      "snippet": "亞馬遜的投資"
+    },
+    {
+      "sentence_id": "s817",
+      "char_len": 5,
+      "snippet": "谷歌的投資"
+    },
+    {
+      "sentence_id": "s818",
+      "char_len": 9,
+      "snippet": "都是叫\"承諾最多\""
+    },
+    {
+      "sentence_id": "s819",
+      "char_len": 7,
+      "snippet": "多少多少億美元"
+    },
+    {
+      "sentence_id": "s820",
+      "char_len": 5,
+      "snippet": "什麼意思呢"
+    },
+    {
+      "sentence_id": "s821",
+      "char_len": 11,
+      "snippet": "就是你未來得用我的算力"
+    },
+    {
+      "sentence_id": "s822",
+      "char_len": 10,
+      "snippet": "你達到了什麼什麼指標"
+    },
+    {
+      "sentence_id": "s823",
+      "char_len": 8,
+      "snippet": "我才繼續給你投錢"
+    },
+    {
+      "sentence_id": "s824",
+      "char_len": 5,
+      "snippet": "粗略估算啊"
+    },
+    {
+      "sentence_id": "s825",
+      "char_len": 6,
+      "snippet": "這些全加起來"
+    },
+    {
+      "sentence_id": "s826",
+      "char_len": 12,
+      "snippet": "OpenAI已經承諾出去"
+    },
+    {
+      "sentence_id": "s827",
+      "char_len": 10,
+      "snippet": "超過萬億美元的訂單了"
+    },
+    {
+      "sentence_id": "s828",
+      "char_len": 7,
+      "snippet": "所以你不能單純"
+    },
+    {
+      "sentence_id": "s829",
+      "char_len": 7,
+      "snippet": "把它看作是一家"
+    },
+    {
+      "sentence_id": "s830",
+      "char_len": 14,
+      "snippet": "融資了1,100億美元的公司"
+    },
+    {
+      "sentence_id": "s831",
+      "char_len": 13,
+      "snippet": "它是融了1,100億的同時"
+    },
+    {
+      "sentence_id": "s832",
+      "char_len": 13,
+      "snippet": "又立刻欠出去萬億美元的公司"
+    },
+    {
+      "sentence_id": "s833",
+      "char_len": 9,
+      "snippet": "它已經把自己跟別人"
+    },
+    {
+      "sentence_id": "s834",
+      "char_len": 6,
+      "snippet": "死死地綁住了"
+    },
+    {
+      "sentence_id": "s835",
+      "char_len": 9,
+      "snippet": "這種股份合作的捆綁"
+    },
+    {
+      "sentence_id": "s836",
+      "char_len": 12,
+      "snippet": "降低了每家公司自己的風險"
+    },
+    {
+      "sentence_id": "s837",
+      "char_len": 3,
+      "snippet": "但同時"
+    },
+    {
+      "sentence_id": "s838",
+      "char_len": 8,
+      "snippet": "增大了整個行業的"
+    },
+    {
+      "sentence_id": "s839",
+      "char_len": 5,
+      "snippet": "系統性風險"
+    },
+    {
+      "sentence_id": "s840",
+      "char_len": 6,
+      "snippet": "就像這麼多艘"
+    },
+    {
+      "sentence_id": "s841",
+      "char_len": 15,
+      "snippet": "大船小船都綁一起 抵禦風浪船都"
+    },
+    {
+      "sentence_id": "s842",
+      "char_len": 9,
+      "snippet": "看過 一起抵禦風浪"
+    },
+    {
+      "sentence_id": "s843",
+      "char_len": 8,
+      "snippet": "三國的朋友都知道"
+    },
+    {
+      "sentence_id": "s844",
+      "char_len": 5,
+      "snippet": "他怕什麼呀"
+    },
+    {
+      "sentence_id": "s845",
+      "char_len": 1,
+      "snippet": "火"
+    },
+    {
+      "sentence_id": "s846",
+      "char_len": 8,
+      "snippet": "推翻整個行業的火"
+    },
+    {
+      "sentence_id": "s847",
+      "char_len": 6,
+      "snippet": "可能是什麼呢"
+    },
+    {
+      "sentence_id": "s848",
+      "char_len": 12,
+      "snippet": "可能是算力需求達不到預期"
+    },
+    {
+      "sentence_id": "s849",
+      "char_len": 8,
+      "snippet": "可能是電力跟不上"
+    },
+    {
+      "sentence_id": "s850",
+      "char_len": 10,
+      "snippet": "可能是某個公司的暴雷"
+    },
+    {
+      "sentence_id": "s851",
+      "char_len": 12,
+      "snippet": "都確實有可能\"火燒赤壁\""
+    },
+    {
+      "sentence_id": "s852",
+      "char_len": 5,
+      "snippet": "當然反過來"
+    },
+    {
+      "sentence_id": "s853",
+      "char_len": 8,
+      "snippet": "如果需求持續爆發"
+    },
+    {
+      "sentence_id": "s854",
+      "char_len": 6,
+      "snippet": "算力需求旺盛"
+    },
+    {
+      "sentence_id": "s855",
+      "char_len": 6,
+      "snippet": "那就皆大歡喜"
+    },
+    {
+      "sentence_id": "s856",
+      "char_len": 2,
+      "snippet": "至少"
+    },
+    {
+      "sentence_id": "s857",
+      "char_len": 10,
+      "snippet": "這就是大致上這幫巨頭"
+    },
+    {
+      "sentence_id": "s858",
+      "char_len": 10,
+      "snippet": "這幫資本們之間的關係"
+    },
+    {
+      "sentence_id": "s859",
+      "char_len": 7,
+      "snippet": "是不是有點意思"
+    },
+    {
+      "sentence_id": "s860",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s861",
+      "char_len": 6,
+      "snippet": "半年前這張圖"
+    },
+    {
+      "sentence_id": "s862",
+      "char_len": 8,
+      "snippet": "還完全不長這個樣"
+    },
+    {
+      "sentence_id": "s863",
+      "char_len": 9,
+      "snippet": "很多箭頭都是這倆月"
+    },
+    {
+      "sentence_id": "s864",
+      "char_len": 5,
+      "snippet": "才加上去的"
+    },
+    {
+      "sentence_id": "s865",
+      "char_len": 6,
+      "snippet": "現在這張圖裡"
+    },
+    {
+      "sentence_id": "s866",
+      "char_len": 9,
+      "snippet": "SpaceX剛上市"
+    },
+    {
+      "sentence_id": "s867",
+      "char_len": 16,
+      "snippet": "OpenAI和Anthropic"
+    },
+    {
+      "sentence_id": "s868",
+      "char_len": 7,
+      "snippet": "都計劃年內上市"
+    },
+    {
+      "sentence_id": "s869",
+      "char_len": 3,
+      "snippet": "到時候"
+    },
+    {
+      "sentence_id": "s870",
+      "char_len": 6,
+      "snippet": "估計又要掀起"
+    },
+    {
+      "sentence_id": "s871",
+      "char_len": 9,
+      "snippet": "資本市場的腥風血雨"
+    },
+    {
+      "sentence_id": "s872",
+      "char_len": 10,
+      "snippet": "那就到時候再跟大家聊"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「一口气拆解美国AI资本圈派系之争」+资本黑洞比喻+巨头点名，声明只看资本不评模型。",
+      "patterns": [
+        "派系之争总钩",
+        "资本黑洞喻",
+        "不评模型声明"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "美國AI資本圈",
+          "note": "美国AI资本圈"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "派系之爭",
+          "note": "派系之争"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "AI就像是一個資本黑洞一樣",
+          "note": "资本黑洞"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "不評價模型",
+          "note": "不评价模型"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "巨头互相承诺又混战→乱是缩影→股权有派系但上下游无派系→骂完又合作（马斯克）→火烧赤壁风险→图在变还要腥风血雨。",
+      "patterns": [
+        "乱是缩影",
+        "股权/上下游分野",
+        "骂完合作",
+        "赤壁风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "亂",
+          "note": "就是乱"
+        },
+        {
+          "sentence_id": "s428",
+          "snippet": "就完全沒有什麼派系的關係了",
+          "note": "上下游没派系"
+        },
+        {
+          "sentence_id": "s452",
+          "snippet": "跟Anthropic合作了",
+          "note": "SpaceX合作Anthropic"
+        },
+        {
+          "sentence_id": "s851",
+          "snippet": "都確實有可能\"火燒赤壁\"",
+          "note": "火烧赤壁"
+        },
+        {
+          "sentence_id": "s871",
+          "snippet": "資本市場的腥風血雨",
+          "note": "腥风血雨"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "frame_chaos",
+          "note": "开场框定AI资本圈乱象与议程"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423",
+            "s424",
+            "s425",
+            "s426",
+            "s427",
+            "s428",
+            "s429",
+            "s430",
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440",
+            "s441",
+            "s442",
+            "s443",
+            "s444",
+            "s445",
+            "s446",
+            "s447",
+            "s448",
+            "s449",
+            "s450",
+            "s451",
+            "s452",
+            "s453",
+            "s454",
+            "s455",
+            "s456"
+          ],
+          "function": "equity_vs_supply",
+          "note": "财务投资掠过+上下游无派系+马斯克骂完合作"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s843",
+            "s844",
+            "s845",
+            "s846",
+            "s847",
+            "s848",
+            "s849",
+            "s850",
+            "s851",
+            "s852",
+            "s853",
+            "s854",
+            "s855",
+            "s856",
+            "s857",
+            "s858",
+            "s859",
+            "s860",
+            "s861",
+            "s862",
+            "s863",
+            "s864",
+            "s865",
+            "s866",
+            "s867",
+            "s868",
+            "s869",
+            "s870",
+            "s871",
+            "s872"
+          ],
+          "function": "risk_close",
+          "note": "火烧赤壁风险与图表时效收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我们知道」「所以今天」「好刚才是」「那上下游呢」「当然反过来」「那就到时候再聊」。",
+      "patterns": [
+        "好刚才是板块转",
+        "那上下游呢",
+        "到时候再聊预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "我們知道",
+          "note": "我们知道"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "所以 今天",
+          "note": "所以今天"
+        },
+        {
+          "sentence_id": "s424",
+          "snippet": "剛才是圍繞著",
+          "note": "刚才是围绕股权"
+        },
+        {
+          "sentence_id": "s426",
+          "snippet": "那上下游的合作呢",
+          "note": "那上下游的合作呢"
+        },
+        {
+          "sentence_id": "s872",
+          "snippet": "那就到時候再跟大家聊",
+          "note": "到时候再跟大家聊"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "打得你死我活 vs 钻一个被窝；股权派系 vs 上下游好伙伴；骂反人类 vs 70天后22万GPU大单。",
+      "patterns": [
+        "死活/被窝反转",
+        "股权派系/供应链伙伴",
+        "骂完合作时间对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "打得你死我活",
+          "note": "打得你死我活"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "嘿突然一下要鑽一個被窩了",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s428",
+          "snippet": "就完全沒有什麼派系的關係了",
+          "note": "完全没派系"
+        },
+        {
+          "sentence_id": "s446",
+          "snippet": "說他反人類",
+          "note": "骂反人类"
+        },
+        {
+          "sentence_id": "s452",
+          "snippet": "跟Anthropic合作了",
+          "note": "70天后合作"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「首先会聊到哪些公司」「他怕什么呀」「可能是什么呢」「是不是有点意思」引导听众。",
+      "patterns": [
+        "清单预告问",
+        "怕什么三国问",
+        "是不是有点意思"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "首先我們會聊到哪些公司呢",
+          "note": "会聊到哪些公司呢"
+        },
+        {
+          "sentence_id": "s844",
+          "snippet": "他怕什麼呀",
+          "note": "他怕什么呀"
+        },
+        {
+          "sentence_id": "s847",
+          "snippet": "可能是什麼呢",
+          "note": "可能是什么呢"
+        },
+        {
+          "sentence_id": "s859",
+          "snippet": "是不是有點意思",
+          "note": "是不是有点意思"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "Google/微软/英伟达等点名；马斯克2/26骂Anthropic、5/6 SpaceX合作22万GPU；阿联酋新加坡基金。",
+      "patterns": [
+        "巨头点名例",
+        "马斯克时间线例",
+        "主权基金例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "微軟",
+          "note": "微软"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "可是Google的Gemini",
+          "note": "Gemini对手"
+        },
+        {
+          "sentence_id": "s444",
+          "snippet": "他今年2月26號",
+          "note": "2月26号发文"
+        },
+        {
+          "sentence_id": "s453",
+          "snippet": "說要給他提供22萬顆GPU",
+          "note": "22万颗GPU"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「乱」落到具体交叉持股与供应链单；「火」落到算力/电力/暴雷三种赤壁可能。",
+      "patterns": [
+        "乱→关系图",
+        "火→三种风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "亂",
+          "note": "就是乱"
+        },
+        {
+          "sentence_id": "s848",
+          "snippet": "可能是算力需求達不到預期",
+          "note": "算力达不到预期"
+        },
+        {
+          "sentence_id": "s849",
+          "snippet": "可能是電力跟不上",
+          "note": "电力跟不上"
+        },
+        {
+          "sentence_id": "s850",
+          "snippet": "可能是某個公司的暴雷",
+          "note": "某个公司暴雷"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言基本是三年缩影就是乱；上下游完全没派系都是好伙伴；皆大欢喜条件句。",
+      "patterns": [
+        "就是乱断语",
+        "没派系断语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "亂",
+          "note": "就是乱"
+        },
+        {
+          "sentence_id": "s428",
+          "snippet": "就完全沒有什麼派系的關係了",
+          "note": "完全没有派系"
+        },
+        {
+          "sentence_id": "s430",
+          "snippet": "都是好夥伴",
+          "note": "都是好伙伴"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "声明不评模型不比芯片只看资本；财务投资「不多说」收缩范围。",
+      "patterns": [
+        "范围收缩声明",
+        "财务投资略过"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "不評價模型",
+          "note": "不评价模型"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "也不對比芯片",
+          "note": "也不对比芯片"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "我們今天也就不多說",
+          "note": "纯财务投资不多说"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场点名加速→声明稳→中段关系说明中密→马斯克戏剧加速→赤壁排比→预告收。",
+      "patterns": [
+        "点名加速",
+        "戏剧时间线加速",
+        "赤壁排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "微軟",
+          "note": "巨头点名"
+        },
+        {
+          "sentence_id": "s449",
+          "snippet": "但是70天之後",
+          "note": "70天之后"
+        },
+        {
+          "sentence_id": "s848",
+          "snippet": "可能是算力需求達不到預期",
+          "note": "可能是排比"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "兴奋拆解→无语「乱」→戏剧性「嘿钻被窝」→供应链平静→骂人火气→合作错愕→赤壁紧张→预告期待。",
+      "patterns": [
+        "无语乱",
+        "钻被窝戏剧",
+        "骂完合作错愕",
+        "赤壁紧张"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "亂",
+          "note": "乱"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "嘿突然一下要鑽一個被窩了",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "馬斯克不是剛罵過人家",
+          "note": "不是刚骂过吗"
+        },
+        {
+          "sentence_id": "s851",
+          "snippet": "都確實有可能\"火燒赤壁\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场派系图承诺，收于「半年前图还不长这样」+上市预告「到时候再聊」开放闭环。",
+      "patterns": [
+        "图时效回扣",
+        "到时候再聊开放收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "美國AI資本圈",
+          "note": "资本圈开题"
+        },
+        {
+          "sentence_id": "s861",
+          "snippet": "半年前這張圖",
+          "note": "半年前这张图"
+        },
+        {
+          "sentence_id": "s872",
+          "snippet": "那就到時候再跟大家聊",
+          "note": "到时候再聊"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「一起捋一捋」「是不是有点意思」陪伴式；结尾「到时候再聊」续更预告。",
+      "patterns": [
+        "一起捋陪伴CTA",
+        "到时候再聊续更"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "捋",
+          "note": "捋一捋"
+        },
+        {
+          "sentence_id": "s859",
+          "snippet": "是不是有點意思",
+          "note": "是不是有点意思"
+        },
+        {
+          "sentence_id": "s872",
+          "snippet": "那就到時候再跟大家聊",
+          "note": "到时候再聊"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「嘿突然一下要钻一个被窝」「把老黄气够呛」「火烧赤壁」口语历史梗。",
+      "patterns": [
+        "钻被窝",
+        "老黄气够呛",
+        "火烧赤壁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "嘿突然一下要鑽一個被窩了",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s441",
+          "snippet": "把老黃氣夠嗆",
+          "note": "把老黄气够呛"
+        },
+        {
+          "sentence_id": "s851",
+          "snippet": "都確實有可能\"火燒赤壁\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "包窗口跳号严重（中后段大量缺失）；开场ASR碎字；关系网细节依赖图；时效极强易过期。",
+      "patterns": [
+        "跳号缺失",
+        "时效易过期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "c",
+          "note": "开场碎字c"
+        },
+        {
+          "sentence_id": "s417",
+          "snippet": "600億嘛",
+          "note": "跳至600亿"
+        },
+        {
+          "sentence_id": "s862",
+          "snippet": "還完全不長這個樣",
+          "note": "还完全不长这个样"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「先框乱→划边界只看资本→分股权/上下游→用时间线打脸→风险反设」的讲解逻辑。",
+      "patterns": [
+        "边界声明外露",
+        "股权/供应链分述"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "不評價模型",
+          "note": "不评价模型"
+        },
+        {
+          "sentence_id": "s424",
+          "snippet": "剛才是圍繞著",
+          "note": "刚才是股权"
+        },
+        {
+          "sentence_id": "s426",
+          "snippet": "那上下游的合作呢",
+          "note": "那上下游呢"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「朋友们」同伴位；假设懂三国赤壁；用「我跟你说」拉近。",
+      "patterns": [
+        "朋友们同伴位",
+        "三国梗共享位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "朋友們",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "我跟你說",
+          "note": "我跟你说"
+        },
+        {
+          "sentence_id": "s843",
+          "snippet": "三國的朋友都知道",
+          "note": "三国的朋友都知道"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "巨头名单、70天、22万GPU、火烧赤壁三可能、SpaceX/OpenAI/Anthropic上市。",
+      "patterns": [
+        "70天时间锚",
+        "22万GPU锚",
+        "赤壁三可能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s449",
+          "snippet": "但是70天之後",
+          "note": "70天之后"
+        },
+        {
+          "sentence_id": "s453",
+          "snippet": "說要給他提供22萬顆GPU",
+          "note": "22万颗GPU"
+        },
+        {
+          "sentence_id": "s848",
+          "snippet": "可能是算力需求達不到預期",
+          "note": "算力达不到"
+        },
+        {
+          "sentence_id": "s866",
+          "snippet": "SpaceX剛上市",
+          "note": "SpaceX刚上市"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场名单中密→声明低密→中段关系中密→时间线高密→风险枚举中→预告降密。",
+      "patterns": [
+        "时间线高密",
+        "预告降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "微軟",
+          "note": "名单中密"
+        },
+        {
+          "sentence_id": "s444",
+          "snippet": "他今年2月26號",
+          "note": "时间线高密"
+        },
+        {
+          "sentence_id": "s872",
+          "snippet": "那就到時候再跟大家聊",
+          "note": "预告降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "口播碎句点名；中段说明句加长；结尾短问短预告。",
+      "patterns": [
+        "碎句点名",
+        "短预告收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "微軟",
+          "note": "碎句点名"
+        },
+        {
+          "sentence_id": "s428",
+          "snippet": "就完全沒有什麼派系的關係了",
+          "note": "说明句"
+        },
+        {
+          "sentence_id": "s872",
+          "snippet": "那就到時候再跟大家聊",
+          "note": "短预告"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "八卦资本解说员：敢说乱、敢嘲钻被窝、敢用赤壁吓人，语气兴奋带坏笑。",
+      "patterns": [
+        "八卦资本解说",
+        "坏笑戏剧感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "亂",
+          "note": "就是乱"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "嘿突然一下要鑽一個被窩了",
+          "note": "钻被窝"
+        },
+        {
+          "sentence_id": "s860",
+          "snippet": "我跟你說",
+          "note": "我跟你说"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "资本黑洞、钻一个被窝、骂完70天合作、火烧赤壁、到时候再聊。",
+      "patterns": [
+        "钻被窝",
+        "70天合作",
+        "火烧赤壁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "AI就像是一個資本黑洞一樣",
+          "note": "资本黑洞"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "嘿突然一下要鑽一個被窩了",
+          "note": "钻一个被窝"
+        },
+        {
+          "sentence_id": "s851",
+          "snippet": "都確實有可能\"火燒赤壁\"",
+          "note": "火烧赤壁"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「只看资本关系图+骂完合作打脸+赤壁风险」结构可迁观宇科技资本口播，需补全跳号中段并更新关系图。",
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "不評價模型",
+          "note": "边界声明"
+        },
+        {
+          "sentence_id": "s452",
+          "snippet": "跟Anthropic合作了",
+          "note": "骂完合作"
+        },
+        {
+          "sentence_id": "s851",
+          "snippet": "都確實有可能\"火燒赤壁\"",
+          "note": "赤壁风险"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s5",
+    "s7",
+    "s9",
+    "s40",
+    "s38",
+    "s428",
+    "s452",
+    "s851",
+    "s871",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s417",
+    "s418",
+    "s419",
+    "s420",
+    "s421",
+    "s422",
+    "s423",
+    "s424",
+    "s425",
+    "s426",
+    "s427",
+    "s429",
+    "s430",
+    "s431",
+    "s432",
+    "s433",
+    "s434",
+    "s435",
+    "s436",
+    "s437",
+    "s438",
+    "s439",
+    "s440",
+    "s441",
+    "s442",
+    "s443",
+    "s444",
+    "s445",
+    "s446",
+    "s447",
+    "s448",
+    "s449",
+    "s450",
+    "s451",
+    "s453",
+    "s454",
+    "s455",
+    "s456",
+    "s843",
+    "s844",
+    "s845",
+    "s846",
+    "s847",
+    "s848",
+    "s849",
+    "s850",
+    "s852",
+    "s853",
+    "s854",
+    "s855",
+    "s856",
+    "s857",
+    "s858",
+    "s859",
+    "s860",
+    "s861",
+    "s862",
+    "s863",
+    "s864",
+    "s865",
+    "s866",
+    "s867",
+    "s868",
+    "s869",
+    "s870",
+    "s872"
+  ],
+  "fields_complete_25": true
+}

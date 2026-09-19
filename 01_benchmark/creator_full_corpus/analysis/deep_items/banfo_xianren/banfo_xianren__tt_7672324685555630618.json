@@ -1,0 +1,1071 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7672324685555630618",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7672324685555630618/",
+  "source_sha256": "6caf86b20db2c6e71404d1691e6b2e482f2ec9138f69d8f3a82e617982f4b4f0",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 52,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 21,
+      "snippet": "图片截取自: 爷爷不泡茶的打架事件是无解的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 40,
+      "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 40,
+      "snippet": "原本以为品牌名灵感来自周杰伦老师的《爷爷泡的茶》，现在看，里面还借鉴了《龙拳》。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 44,
+      "snippet": "新闻在这里，大家可以看一下，虽然视频是今年被传的，但其实是去年秋天的事情了，是陈年老茶。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 21,
+      "snippet": "图片截取自: 爷爷不泡茶的打架事件是无解的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 23,
+      "snippet": "（新闻来自中国新闻周刊&澎湃新闻&中国新闻网）"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 29,
+      "snippet": "就，这事儿甚至太正常了，没啥好大惊小怪的，品牌道歉也没用。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "或者准确点说，所有品牌，都一样。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "怎么整改也没用。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 18,
+      "snippet": "问题的关键不是整改，是加钱，是成本。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 20,
+      "snippet": "人力成本要给足，才有有效人力管理的基础。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 36,
+      "snippet": "如果钱没给加，冒然再增加培训，只会导致更激烈的拳击大赛，弄不好双节棍了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 27,
+      "snippet": "要是都按照胖东来那么给钱，早就没问题了，大家一团和气。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 16,
+      "snippet": "但问题就是各大品牌就是不想给钱。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 28,
+      "snippet": "当不想给钱，且所有品牌都不给钱的时候，这个问题就会变化。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "人都不傻，人会思考问题。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 79,
+      "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做从别家做，反正都是一样，那我想怎么样就怎么样，你只出那点香蕉，就只能雇佣猴子。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 77,
+      "snippet": "奶茶店员工就拿那一点点钱，每天工作压力那么大，那么累，还会遇到无数的奇葩的顾客导致心累，外卖骑手各种催单他更是心情崩溃，讲话之前，你都不知道他受了多少气。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 40,
+      "snippet": "要是能在不加钱的情况下让他们不暴躁，以后心理学界得给你立个碑，你就是尤里人间体。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "代入服务人员的视角。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 19,
+      "snippet": "一边是一份可有可无随时可以找到的工作。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "一边是非常低的薪水。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 19,
+      "snippet": "一边是非常累的身体和一整天的奇葩经历。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 26,
+      "snippet": "而现在，遇到了喋喋不休啰里啰嗦还试图威胁投诉的骑手。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 21,
+      "snippet": "都笑了，这个破工作分分钟找一堆，在吓唬谁？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 36,
+      "snippet": "你大概率变身辩论手对喷，小概率化身拳击手展示一下自己摇奶茶练出来的臂力。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 7,
+      "snippet": "至于品牌被骂？"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "被网友喷？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "给品牌声誉造成损失？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 42,
+      "snippet": "嗨嗨嗨，很好，感谢网友替我把老板骂了，比我骂的有创意，谢谢大家，好处说完了，坏处呢？"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "懂了么？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 20,
+      "snippet": "在这种时候，员工本身就恨不得踹品牌两脚。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 18,
+      "snippet": "指望员工心里有公司的前提是，给够钱。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 29,
+      "snippet": "胖东来已经做出了足够多的示范，钱给够，自然员工要保护公司。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 20,
+      "snippet": "当钱没给够的时候，员工甚至期待品牌倒霉。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "但品牌也很清楚这一点。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 41,
+      "snippet": "甚至公司这么设计工资，本身就暗含了接受这个岗位是高流动性的定位，就是要快速换人的。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 14,
+      "snippet": "说白了公司也不觉得他们重要。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 21,
+      "snippet": "公司知道员工很累，工资还低，换谁，都炸裂。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "那怎么解决？"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "其实大家都知道。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 15,
+      "snippet": "要么门店加人，要么给员工加钱。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "但这样成本就上去了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 52,
+      "snippet": "公司自己也算账，给员工发那么多的钱，好处短期看不到，但成本一定看得到，公司一算模型，不够赚钱，开店干嘛？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 35,
+      "snippet": "所以最终策略是，钱给那些管理者，只要他们顶着，就会有源源不断的新员工。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 21,
+      "snippet": "如果员工出事儿了，那就开除切割道歉就好了。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 20,
+      "snippet": "你看，从公司的角度，也选择了低成本模式。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 8,
+      "snippet": "至于以后怎么样？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 28,
+      "snippet": "没关系，相信下一个同行的员工会整出新活把自己覆盖过去的。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 14,
+      "snippet": "只能说，我爱这个世界的魔幻。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「周末不卷」轻松入+纯手打奶茶梗，周杰伦歌名互文，再甩陈年老茶时间差。",
+      "patterns": [
+        "周末不卷降压开场",
+        "手打奶茶梗",
+        "陈年老茶时间纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "纯手打奶茶"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "原本以为品牌名灵感来自周杰伦老师的《爷爷泡的茶》，现在看，里面还借鉴了《龙拳》。",
+          "note": "爷爷泡的茶与龙拳"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "新闻在这里，大家可以看一下，虽然视频是今年被传的，但其实是去年秋天的事情了，是陈",
+          "note": "陈年老茶"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "事件不稀奇→道歉/整改无用→关键是人力成本→全行业低薪→员工无约束→公司故意高流动→低成本切割策略→无解魔幻。",
+      "patterns": [
+        "去惊讶→成本中心→双边理性→稳态无解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就，这事儿甚至太正常了，没啥好大惊小怪的，品牌道歉也没用。",
+          "note": "太正常了"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "问题的关键不是整改，是加钱，是成本。",
+          "note": "关键是加钱"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但问题就是各大品牌就是不想给钱。",
+          "note": "品牌不想给钱"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做",
+          "note": "只出香蕉雇猴子"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "甚至公司这么设计工资，本身就暗含了接受这个岗位是高流动性的定位，就是要快速换人的",
+          "note": "接受高流动性"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "如果员工出事儿了，那就开除切割道歉就好了。",
+          "note": "开除切割道歉"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "魔幻"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "function": "event_hook",
+          "note": "打架视频钩与时间纠偏"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "cost_is_root",
+          "note": "整改无用与成本/胖东来对照"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "worker_perspective",
+          "note": "代入员工喷拳激励结构"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "firm_perspective",
+          "note": "公司低成本高流动策略"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s51",
+            "s52"
+          ],
+          "function": "industry_equilibrium_close",
+          "note": "同行覆盖与魔幻收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「或者准确点说」「代入服务人员视角」「懂了么」「那怎么解决」「你看从公司角度」。",
+      "patterns": [
+        "准确点说递进",
+        "代入视角转",
+        "懂了么确认",
+        "公司角度对位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "或者准确点说，所有品牌，都一样。",
+          "note": "或者准确点说"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "代入服务人员的视角。",
+          "note": "代入服务人员"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "懂了么？",
+          "note": "懂了么"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "那怎么解决？",
+          "note": "那怎么解决"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你看，从公司的角度，也选择了低成本模式。",
+          "note": "从公司的角度"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "道歉整改vs加钱；胖东来高薪一团和气vs品牌不加钱；员工可弃工作vs品牌声誉。",
+      "patterns": [
+        "表面整改vs成本",
+        "胖东来对照",
+        "员工品牌利益错位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "怎么整改也没用。",
+          "note": "怎么整改也没用"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "问题的关键不是整改，是加钱，是成本。",
+          "note": "关键是加钱"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "要是都按照胖东来那么给钱，早就没问题了，大家一团和气。",
+          "note": "胖东来给钱"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但问题就是各大品牌就是不想给钱。",
+          "note": "不想给钱"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "在这种时候，员工本身就恨不得踹品牌两脚。",
+          "note": "恨不得踹品牌"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "在吓唬谁、品牌被骂坏处呢、怎么解决、开店干嘛。",
+      "patterns": [
+        "威胁无效反问",
+        "坏处呢逼问",
+        "解决路径问",
+        "开店目的反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "都笑了，这个破工作分分钟找一堆，在吓唬谁？",
+          "note": "在吓唬谁"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "嗨嗨嗨，很好，感谢网友替我把老板骂了，比我骂的有创意，谢谢大家，好处说完了，坏处",
+          "note": "坏处呢"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "那怎么解决？",
+          "note": "怎么解决"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "公司自己也算账，给员工发那么多的钱，好处短期看不到，但成本一定看得到，公司一算模",
+          "note": "开店干嘛"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "爷爷不泡茶拳击、胖东来薪酬、摇奶茶臂力、骑手催单、管理者加薪顶着。",
+      "patterns": [
+        "事件例",
+        "对标企业例",
+        "岗位压力例",
+        "管理策略例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "奶茶店拳击"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "要是都按照胖东来那么给钱，早就没问题了，大家一团和气。",
+          "note": "胖东来"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "你大概率变身辩论手对喷，小概率化身拳击手展示一下自己摇奶茶练出来的臂力。",
+          "note": "摇奶茶臂力"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "奶茶店员工就拿那一点点钱，每天工作压力那么大，那么累，还会遇到无数的奇葩的顾客导",
+          "note": "骑手催单"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "所以最终策略是，钱给那些管理者，只要他们顶着，就会有源源不断的新员工。",
+          "note": "钱给管理者"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "人力管理基础落到「钱给足」；低约束落到香蕉雇猴子；公司策略落到开除切割道歉。",
+      "patterns": [
+        "管理货币化",
+        "隐喻雇佣",
+        "切割流程具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "人力成本要给足，才有有效人力管理的基础。",
+          "note": "人力成本要给足"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做",
+          "note": "香蕉雇佣猴子"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "如果员工出事儿了，那就开除切割道歉就好了。",
+          "note": "开除切割道歉就好了"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言所有品牌一样、整改无用、不加钱不可能不暴躁、问题无解于成本模型。",
+      "patterns": [
+        "全行业同构判断",
+        "整改无效判断",
+        "无解判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "或者准确点说，所有品牌，都一样。",
+          "note": "所有品牌都一样"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "怎么整改也没用。",
+          "note": "整改也没用"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "要是能在不加钱的情况下让他们不暴躁，以后心理学界得给你立个碑，你就是尤里人间体。",
+          "note": "不暴躁得立碑"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "魔幻"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说品牌道歉没用，再精确到「所有品牌一样」；从骂品牌转到理解公司算账。",
+      "patterns": [
+        "范围扩大纠正",
+        "视角切换再理解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就，这事儿甚至太正常了，没啥好大惊小怪的，品牌道歉也没用。",
+          "note": "道歉也没用"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "或者准确点说，所有品牌，都一样。",
+          "note": "所有品牌都一样"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "但品牌也很清楚这一点。",
+          "note": "品牌也很清楚"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你看，从公司的角度，也选择了低成本模式。",
+          "note": "公司也选择低成本"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "轻松短开→论断连发→员工视角加速情绪→公司视角冷静算账→一句魔幻收。",
+      "patterns": [
+        "论断连发",
+        "视角加速",
+        "魔幻一句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就，这事儿甚至太正常了，没啥好大惊小怪的，品牌道歉也没用。",
+          "note": "太正常了"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "奶茶店员工就拿那一点点钱，每天工作压力那么大，那么累，还会遇到无数的奇葩的顾客导",
+          "note": "心情崩溃长句"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "公司自己也算账，给员工发那么多的钱，好处短期看不到，但成本一定看得到，公司一算模",
+          "note": "公司一算模型"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱魔幻"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "看热闹乐→去惊讶冷→共情员工怒→理解公司凉→魔幻自嘲。",
+      "patterns": [
+        "看热闹",
+        "共情怒",
+        "凉感理解",
+        "魔幻自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "纯手打"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "奶茶店员工就拿那一点点钱，每天工作压力那么大，那么累，还会遇到无数的奇葩的顾客导",
+          "note": "心情崩溃"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "在这种时候，员工本身就恨不得踹品牌两脚。",
+          "note": "踹品牌两脚"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱魔幻"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从单店打架升到行业均衡：下一同行新活覆盖，爱这世界的魔幻。",
+      "patterns": [
+        "单点→行业均衡",
+        "魔幻盖章收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "没关系，相信下一个同行的员工会整出新活把自己覆盖过去的。",
+          "note": "下一个同行覆盖"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱这个世界的魔幻"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无行动CTA，观点发泄式收束「我爱魔幻」。",
+      "patterns": [
+        "态度盖章无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱这个世界的魔幻"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "纯手打/陈年老茶/香蕉猴子/尤里人间体，强互联网口吻与黑话。",
+      "patterns": [
+        "双关梗",
+        "香蕉猴子隐喻",
+        "尤里梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "纯手打奶茶"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "新闻在这里，大家可以看一下，虽然视频是今年被传的，但其实是去年秋天的事情了，是陈",
+          "note": "陈年老茶"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做",
+          "note": "香蕉雇猴子"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "要是能在不加钱的情况下让他们不暴躁，以后心理学界得给你立个碑，你就是尤里人间体。",
+          "note": "尤里人间体"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "缺具体工资/工时数据；胖东来对比偏口号；对顾客侧着墨少。",
+      "patterns": [
+        "数据薄",
+        "对标口号化",
+        "顾客侧缺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "要是都按照胖东来那么给钱，早就没问题了，大家一团和气。",
+          "note": "胖东来那么给钱"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "奶茶店员工就拿那一点点钱，每天工作压力那么大，那么累，还会遇到无数的奇葩的顾客导",
+          "note": "那一点点钱"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显双边博弈：员工激励→公司成本模型→均衡策略切割。",
+      "patterns": [
+        "双边视角外显",
+        "成本模型推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "代入服务人员的视角。",
+          "note": "代入服务人员"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "公司自己也算账，给员工发那么多的钱，好处短期看不到，但成本一定看得到，公司一算模",
+          "note": "公司一算模型"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你看，从公司的角度，也选择了低成本模式。",
+          "note": "从公司的角度"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认读者刷到同款视频的围观者，用「懂了么」拉齐推理。",
+      "patterns": [
+        "同款围观者",
+        "懂了么对齐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "大家应该很多人都刷到"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "懂了么？",
+          "note": "懂了么"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "爷爷不泡茶、去年秋天、胖东来、开除切割道歉、钱给管理者。",
+      "patterns": [
+        "品牌锚",
+        "时间锚",
+        "对标锚",
+        "策略锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "奶茶店拳击"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "新闻在这里，大家可以看一下，虽然视频是今年被传的，但其实是去年秋天的事情了，是陈",
+          "note": "去年秋天"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "要是都按照胖东来那么给钱，早就没问题了，大家一团和气。",
+          "note": "胖东来"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "如果员工出事儿了，那就开除切割道歉就好了。",
+          "note": "开除切割道歉"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密梗→论断中密→员工长句高情绪中信息→公司策略高密→魔幻降密。",
+      "patterns": [
+        "论断中密",
+        "策略高密",
+        "收束降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "问题的关键不是整改，是加钱，是成本。",
+          "note": "成本中密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "所以最终策略是，钱给那些管理者，只要他们顶着，就会有源源不断的新员工。",
+          "note": "管理者策略高密"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "魔幻降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "事件→去惊讶→成本命题→员工激励→公司策略→行业均衡→魔幻。",
+      "patterns": [
+        "命题先行",
+        "双边对位",
+        "均衡收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "问题的关键不是整改，是加钱，是成本。",
+          "note": "关键是加钱"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "代入服务人员的视角。",
+          "note": "员工视角"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "但品牌也很清楚这一点。",
+          "note": "品牌清楚"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "魔幻"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷幽默结构主义者：拒绝道德喊打，坚持激励与成本解释打架。",
+      "patterns": [
+        "反道德恐慌",
+        "激励结构派",
+        "魔幻旁观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "就，这事儿甚至太正常了，没啥好大惊小怪的，品牌道歉也没用。",
+          "note": "没啥好大惊小怪"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做",
+          "note": "香蕉雇猴子"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱魔幻"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "纯手打奶茶、香蕉雇猴子、胖东来对照、开除切割道歉、我爱魔幻。",
+      "patterns": [
+        "纯手打",
+        "香蕉猴子",
+        "切割道歉",
+        "魔幻金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "这两天大家应该很多人都群里刷到了奶茶店拳击大赛的视频，不得不说真的是纯手打奶茶。",
+          "note": "纯手打奶茶"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "从打工者的角度，因为每家都只给这么点，那就代表工作对自己没有任何约束力，从你家做",
+          "note": "香蕉雇佣猴子"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "如果员工出事儿了，那就开除切割道歉就好了。",
+          "note": "开除切割道歉"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "只能说，我爱这个世界的魔幻。",
+          "note": "我爱魔幻"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "热点去道德化→成本中轴→员工/公司双边理性→行业均衡收束，适合观宇服务业/人力成本评论。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "问题的关键不是整改，是加钱，是成本。",
+          "note": "关键是加钱"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "代入服务人员的视角。",
+          "note": "代入员工"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "如果员工出事儿了，那就开除切割道歉就好了。",
+          "note": "切割策略"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52"
+  ],
+  "fields_complete_25": true
+}

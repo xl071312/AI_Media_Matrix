@@ -1,0 +1,1649 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_zqYWR9uRGmI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=zqYWR9uRGmI",
+  "source_sha256": "3d793bcedbb54892176e75f4f590ebba91076e525f91250d614ab1e8bd5b6d83",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 2,
+      "snippet": "倒是"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "Cher88按照Baby和黄小孩"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "在她的身体会认识"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "全网都说A-B没了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "黄小孩就俩了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "但看完我爱你"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "你就会知道全访了"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "而且这俩"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "不过也是背后资本"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "做实质管理的人料而已"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "A-B的第一次翻盘"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "远于对自己的身体"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "非常值很"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "是常人无法做到的水平"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 6,
+      "snippet": "而命远永远会"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 7,
+      "snippet": "脚离那些能做到"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "机器反人性的事人"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "实际座的A-B在香港做摩托"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "并以此为她版"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "托展资源和人们"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "以后A-B三年拿到香港"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "扶展写真冠军"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 5,
+      "snippet": "占问较个人"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "但延职日长盘还原本不够"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "A-B还有另一张敌盘"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "这别人往往呼类"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "hasn't故意呼类的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "早早进入社会习近的"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "A-B玩的开"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "获得出去看得到"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "当时期段位"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "就已经远超同令人"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "进入这四个字"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "获得出去"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "这在无视看来"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "才是早早进入名类场"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "而带来的核心护成核"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "这段时间她左右红营"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "并且被华一期看上"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "怎么进行了呢"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "就是黄小明"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "这本天视频"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "维二两次"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "我想明真正做多A-B"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "这第一次"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "就是R012年A-B靠荒"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "要明天先进入华一"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "当时就已经有很多"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "二人感情限的报道"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "在这段时间"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 11,
+      "snippet": "书日只是第一次看到而已"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 14,
+      "snippet": "这就话指他这个内和人在此报路"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 8,
+      "snippet": "不是分享一个理论"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 7,
+      "snippet": "人的性格和内和"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 12,
+      "snippet": "王毅在2岁之后就很难改变"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 14,
+      "snippet": "甚至里出了重大辩误都改变不了"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 9,
+      "snippet": "为什么说年少不可得"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 7,
+      "snippet": "之务将困期一生"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 11,
+      "snippet": "就年少那段时间就定行了"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 6,
+      "snippet": "所以我说黄毅"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 8,
+      "snippet": "后来表现出的千姓"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 16,
+      "snippet": "第一资坦是由成功 等到本质是掩盖"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 5,
+      "snippet": "而不是改变"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 23,
+      "snippet": "回到2010 内伙传的人士和形象这两个核心资产"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 6,
+      "snippet": "已经继续可谓"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 13,
+      "snippet": "广民用两件事进行了绝地反击"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 9,
+      "snippet": "第一件事只有靠自己"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 4,
+      "snippet": "它是演细"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 6,
+      "snippet": "经过多次是错"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 13,
+      "snippet": "终于在中国和伙人这个项目中"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 7,
+      "snippet": "拿下了三料影地"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 10,
+      "snippet": "一眼原的专业能力烦深"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 15,
+      "snippet": "只是中国和伙人无法真正大面积的"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 10,
+      "snippet": "高校的整交荒门的形象"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 9,
+      "snippet": "而绝地翻盘的第二步"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 8,
+      "snippet": "是命运给他的一遍"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 7,
+      "snippet": "自从和一遍谈恋"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 7,
+      "snippet": "再到和遇遇结婚"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 10,
+      "snippet": "网民的人士说慢慢繁转"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 16,
+      "snippet": "因为手才有了国民的好老公这个人士"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 12,
+      "snippet": "市场看得到蠢心暖难的形象"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 14,
+      "snippet": "他婚内的代言品来可以看出端尼"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 4,
+      "snippet": "华地出聚"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 4,
+      "snippet": "地败喜意"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 5,
+      "snippet": "最终于两流"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 6,
+      "snippet": "五八道加加证"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 6,
+      "snippet": "全身加挺快笑"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 7,
+      "snippet": "但是好老公人士"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 8,
+      "snippet": "其实商业一家很低"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 6,
+      "snippet": "在无事而配菜"
+    },
+    {
+      "sentence_id": "s805",
+      "char_len": 7,
+      "snippet": "本就是运起时代"
+    },
+    {
+      "sentence_id": "s806",
+      "char_len": 4,
+      "snippet": "大老拖局"
+    },
+    {
+      "sentence_id": "s807",
+      "char_len": 6,
+      "snippet": "三鼓立的共争"
+    },
+    {
+      "sentence_id": "s808",
+      "char_len": 3,
+      "snippet": "一拖肉"
+    },
+    {
+      "sentence_id": "s809",
+      "char_len": 9,
+      "snippet": "赶上黄情卖出了金甲"
+    },
+    {
+      "sentence_id": "s810",
+      "char_len": 4,
+      "snippet": "卖着卖着"
+    },
+    {
+      "sentence_id": "s811",
+      "char_len": 8,
+      "snippet": "真把自己当黄金了"
+    },
+    {
+      "sentence_id": "s812",
+      "char_len": 5,
+      "snippet": "而潮水一退"
+    },
+    {
+      "sentence_id": "s813",
+      "char_len": 1,
+      "snippet": "赶"
+    },
+    {
+      "sentence_id": "s814",
+      "char_len": 12,
+      "snippet": "年郑两个一和一年郑两千万"
+    },
+    {
+      "sentence_id": "s815",
+      "char_len": 8,
+      "snippet": "都要跟命运到一道"
+    },
+    {
+      "sentence_id": "s816",
+      "char_len": 5,
+      "snippet": "输赢现不说"
+    },
+    {
+      "sentence_id": "s817",
+      "char_len": 8,
+      "snippet": "至少没有认输二字"
+    },
+    {
+      "sentence_id": "s818",
+      "char_len": 5,
+      "snippet": "便的是爆价"
+    },
+    {
+      "sentence_id": "s819",
+      "char_len": 7,
+      "snippet": "每一遍的是开工"
+    },
+    {
+      "sentence_id": "s820",
+      "char_len": 15,
+      "snippet": "那云名义常理最难的修行是什么呢"
+    },
+    {
+      "sentence_id": "s821",
+      "char_len": 4,
+      "snippet": "是爆火吗"
+    },
+    {
+      "sentence_id": "s822",
+      "char_len": 4,
+      "snippet": "是作品吗"
+    },
+    {
+      "sentence_id": "s823",
+      "char_len": 4,
+      "snippet": "是口挩吗"
+    },
+    {
+      "sentence_id": "s824",
+      "char_len": 4,
+      "snippet": "是收入吗"
+    },
+    {
+      "sentence_id": "s825",
+      "char_len": 2,
+      "snippet": "不是"
+    },
+    {
+      "sentence_id": "s826",
+      "char_len": 16,
+      "snippet": "不是认为是亲手私调自己昨天的假车"
+    },
+    {
+      "sentence_id": "s827",
+      "char_len": 13,
+      "snippet": "多少亿人一辈子翻不过这刀卡"
+    },
+    {
+      "sentence_id": "s828",
+      "char_len": 4,
+      "snippet": "真正难的"
+    },
+    {
+      "sentence_id": "s829",
+      "char_len": 8,
+      "snippet": "是雄关满到真如铁"
+    },
+    {
+      "sentence_id": "s830",
+      "char_len": 7,
+      "snippet": "而尽卖步从头月"
+    },
+    {
+      "sentence_id": "s831",
+      "char_len": 5,
+      "snippet": "下期向看谁"
+    },
+    {
+      "sentence_id": "s832",
+      "char_len": 8,
+      "snippet": "关注家评论区打扰"
+    },
+    {
+      "sentence_id": "s833",
+      "char_len": 6,
+      "snippet": "怎么样怎么样"
+    },
+    {
+      "sentence_id": "s834",
+      "char_len": 3,
+      "snippet": "小一件"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "反驳「AB没了只剩黄小孩」舆情，用「看完《我爱你》就知道全反了」钩子，并点明二人背后是资本管理人设。",
+      "patterns": [
+        "舆情反驳钩子",
+        "作品打脸预告",
+        "资本人设点破"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "全网说AB没了"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但看完我爱你",
+          "note": "看完我爱你"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "你就会知道全访了",
+          "note": "全反了"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "不过也是背后资本",
+          "note": "背后资本"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "AB靠身体自律与早入名利场翻盘→黄晓明线路进入华谊→人设/形象是核心资产→性格年少定型难改→好老公人设商业天花板→潮水退去要亲手杀掉昨日假车→重开最难。",
+      "patterns": [
+        "自律翻盘",
+        "名利场护城河",
+        "人设资产",
+        "性格定型",
+        "假车自毁重生"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "A-B的第一次翻盘",
+          "note": "第一次翻盘"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "才是早早进入名类场",
+          "note": "早入名利场"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "回到2010 内伙传的人士和形象这两个核心资产",
+          "note": "人士形象资产"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "王毅在2岁之后就很难改变",
+          "note": "2岁后难改"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "因为手才有了国民的好老公这个人士",
+          "note": "国民好老公"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "杀掉昨天假车"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "ab_body_rise",
+          "note": "AB身体自律与香港写真摩托"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "enter_huayi",
+          "note": "获得出去与黄晓明华谊线"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s398",
+            "s399",
+            "s400",
+            "s401",
+            "s402",
+            "s403",
+            "s404",
+            "s405",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422"
+          ],
+          "function": "persona_assets",
+          "note": "人设形象资产与性格定型"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s423",
+            "s424",
+            "s425",
+            "s426",
+            "s427",
+            "s428",
+            "s429",
+            "s430",
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s805",
+            "s806",
+            "s807",
+            "s808",
+            "s809",
+            "s810",
+            "s811",
+            "s812",
+            "s813",
+            "s814"
+          ],
+          "function": "comeback_husband",
+          "note": "绝地反击与好老公商业"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s815",
+            "s816",
+            "s817",
+            "s818",
+            "s819",
+            "s820",
+            "s821",
+            "s822",
+            "s823",
+            "s824",
+            "s825",
+            "s826",
+            "s827",
+            "s828",
+            "s829",
+            "s830",
+            "s831",
+            "s832",
+            "s833",
+            "s834"
+          ],
+          "function": "tide_cultivation",
+          "note": "潮水与杀掉假车修行收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「而且这俩」「A-B还有另一张底牌」「怎么进行了呢就是黄小明」「回到2010」「那云名义常理最难的修行是什么呢」传记转场（ASR变形）。",
+      "patterns": [
+        "另一张底牌转",
+        "怎么进行追问转",
+        "回到年份转",
+        "最难修行收转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "A-B还有另一张敌盘",
+          "note": "另一张敌盘"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "怎么进行了呢",
+          "note": "怎么进行了呢"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "就是黄小明",
+          "note": "就是黄小明"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "回到2010 内伙传的人士和形象这两个核心资产",
+          "note": "回到2010"
+        },
+        {
+          "sentence_id": "s820",
+          "snippet": "那云名义常理最难的修行是什么呢",
+          "note": "最难修行"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "全网唱衰 vs 作品打脸；身体资本 vs 早入场段位；好老公暖心形象 vs 商业价值很低；爆火作品收入 vs 杀掉昨日假自己。",
+      "patterns": [
+        "唱衰vs打脸",
+        "身体vs早入场",
+        "好老公vs低商业",
+        "外在成就vs自毁假车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "唱衰"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "你就会知道全访了",
+          "note": "打脸"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "远于对自己的身体",
+          "note": "身体"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "才是早早进入名类场",
+          "note": "名利场"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "其实商业一家很低",
+          "note": "商业一家很低"
+        },
+        {
+          "sentence_id": "s825",
+          "snippet": "不是",
+          "note": "不是那些"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「怎么进行了呢」「为什么说年少不可得」「最难的修行是什么呢」连环排除「爆火/作品/口碑/收入吗？不是」。",
+      "patterns": [
+        "情节怎么问",
+        "年少定型问",
+        "修行排除问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "怎么进行了呢",
+          "note": "怎么进行"
+        },
+        {
+          "sentence_id": "s404",
+          "snippet": "为什么说年少不可得",
+          "note": "年少不可得"
+        },
+        {
+          "sentence_id": "s820",
+          "snippet": "那云名义常理最难的修行是什么呢",
+          "note": "最难修行"
+        },
+        {
+          "sentence_id": "s821",
+          "snippet": "是爆火吗",
+          "note": "是爆火吗"
+        },
+        {
+          "sentence_id": "s825",
+          "snippet": "不是",
+          "note": "不是"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "香港写真冠军、摩托拓资源、黄晓明进华谊、中国合伙人三料、Angelababy结婚好老公代言、潮水金甲自喻。",
+      "patterns": [
+        "写真冠军例",
+        "华谊路径例",
+        "合伙人影帝例",
+        "好老公代言例",
+        "潮水金甲喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "扶展写真冠军",
+          "note": "写真冠军"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "要明天先进入华一",
+          "note": "进入华谊"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "拿下了三料影地",
+          "note": "三料影帝"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "因为手才有了国民的好老公这个人士",
+          "note": "好老公"
+        },
+        {
+          "sentence_id": "s811",
+          "snippet": "真把自己当黄金了",
+          "note": "当黄金"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「核心护城河」落到获得出去/早入名利场；「人设资产」落到好老公代言；「最难修行」落到亲手杀掉昨日假车。",
+      "patterns": [
+        "护城河→早入场",
+        "资产→好老公",
+        "修行→杀假车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "而带来的核心护成核",
+          "note": "核心护成核"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "获得出去",
+          "note": "获得出去"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "因为手才有了国民的好老公这个人士",
+          "note": "好老公"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "杀掉假车"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「常人无法做到」「远超同龄」「商业价值很低」「至少没有认输」「真正难的是重头再来」强断语。",
+      "patterns": [
+        "常人难及",
+        "商业低判",
+        "不认输",
+        "重来最难"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "是常人无法做到的水平",
+          "note": "常人无法"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "就已经远超同令人",
+          "note": "远超同龄"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "其实商业一家很低",
+          "note": "商业很低"
+        },
+        {
+          "sentence_id": "s817",
+          "snippet": "至少没有认输二字",
+          "note": "没有认输"
+        },
+        {
+          "sentence_id": "s828",
+          "snippet": "真正难的",
+          "note": "真正难的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "对「AB没了」外部舆论纠偏；结尾排除多重修行候选后自改到「杀假车」，属论点收束修正。",
+      "patterns": [
+        "舆论纠偏",
+        "修行候选排除修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "舆论"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "你就会知道全访了",
+          "note": "纠偏"
+        },
+        {
+          "sentence_id": "s821",
+          "snippet": "是爆火吗",
+          "note": "排除爆火"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "改到杀假车"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "舆情短驳→传记碎片中速（ASR碎）→人设理论加密→好老公段稳→潮水金句加速→问答排除急刹→关注号召。",
+      "patterns": [
+        "短驳开",
+        "ASR碎中述",
+        "金句加速",
+        "排除急刹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "短驳"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "实际座的A-B在香港做摩托",
+          "note": "碎中述"
+        },
+        {
+          "sentence_id": "s811",
+          "snippet": "真把自己当黄金了",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s825",
+          "snippet": "不是",
+          "note": "急刹不是"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "关注家评论区打扰",
+          "note": "关注"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "倒是"
+        },
+        {
+          "type": "discourse",
+          "form": "而且这俩"
+        },
+        {
+          "type": "filler_asr",
+          "form": "怎么样怎么样"
+        },
+        {
+          "type": "cta_marker",
+          "form": "关注家评论区"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是",
+          "note": "倒是"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "而且这俩",
+          "note": "而且这俩"
+        },
+        {
+          "sentence_id": "s833",
+          "snippet": "怎么样怎么样",
+          "note": "怎么样怎么样"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "关注家评论区打扰",
+          "note": "关注评论区"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "挑衅反驳→敬畏自律→江湖冷眼（资本）→同情定型→佩服翻盘→嘲讽好老公天花板→悲壮潮水→励志杀假车。",
+      "patterns": [
+        "挑衅→敬畏",
+        "冷眼资本",
+        "悲壮潮水",
+        "励志杀假车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "挑衅"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "是常人无法做到的水平",
+          "note": "敬畏"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "不过也是背后资本",
+          "note": "资本冷眼"
+        },
+        {
+          "sentence_id": "s812",
+          "snippet": "而潮水一退",
+          "note": "潮水"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "励志"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「没了」在潮水/重开命题上升华为娱乐工业命运论；「下期看谁+关注评论区」标准收束。",
+      "patterns": [
+        "没了升华命运",
+        "下期关注收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "没了开题"
+        },
+        {
+          "sentence_id": "s812",
+          "snippet": "而潮水一退",
+          "note": "潮水"
+        },
+        {
+          "sentence_id": "s830",
+          "snippet": "而尽卖步从头月",
+          "note": "从头越"
+        },
+        {
+          "sentence_id": "s831",
+          "snippet": "下期向看谁",
+          "note": "下期"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "关注家评论区打扰",
+          "note": "关注"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「下期向看谁，关注加评论区」明确关注/互动CTA。",
+      "patterns": [
+        "下期预告CTA",
+        "关注评论区"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s831",
+          "snippet": "下期向看谁",
+          "note": "下期"
+        },
+        {
+          "sentence_id": "s832",
+          "snippet": "关注家评论区打扰",
+          "note": "关注评论区"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "重度ASR口误本身像现场口述；「卖着卖着真把自己当黄金」「雄关漫道」混搭金句有巫师腔。",
+      "patterns": [
+        "ASR现场感",
+        "当黄金金句",
+        "诗词混搭"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s811",
+          "snippet": "真把自己当黄金了",
+          "note": "当黄金"
+        },
+        {
+          "sentence_id": "s829",
+          "snippet": "是雄关满到真如铁",
+          "note": "雄关满到"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "hasn't故意呼类的",
+          "note": "hasn't噪声"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极严重致人名/事件难辨；窗口大跨跳跃；娱乐八卦与结构分析粘合靠听者脑补；证据链松。",
+      "patterns": [
+        "ASR极重",
+        "窗口跳跃",
+        "脑补依赖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "Cher88按照Baby和黄小孩",
+          "note": "Cher88噪声"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "在这段时间",
+          "note": "段落后跳"
+        },
+        {
+          "sentence_id": "s398",
+          "snippet": "书日只是第一次看到而已",
+          "note": "中段跳入"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外露「舆论→翻盘资本→人设资产→性格宿命→商业天花板→修行定义」人物评传思维。",
+      "patterns": [
+        "评传分层",
+        "人设资产框架",
+        "修行定义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "A-B的第一次翻盘",
+          "note": "翻盘"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "回到2010 内伙传的人士和形象这两个核心资产",
+          "note": "资产"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "王毅在2岁之后就很难改变",
+          "note": "性格宿命"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "修行定义"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当吃瓜但要被灌输结构视角的粉丝，用「你就会知道」授予正确解读。",
+      "patterns": [
+        "吃瓜升级结构粉",
+        "你就会知道授予"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但看完我爱你",
+          "note": "看完"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "你就会知道全访了",
+          "note": "你就会知道"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这在无视看来",
+          "note": "在巫师看来"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "我爱你打脸、香港写真冠军、华谊、中国合伙人三料、国民好老公、潮水退、杀假车、雄关漫道。",
+      "patterns": [
+        "作品名锚",
+        "华谊锚",
+        "三料锚",
+        "杀假车锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但看完我爱你",
+          "note": "我爱你"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "要明天先进入华一",
+          "note": "华谊"
+        },
+        {
+          "sentence_id": "s418",
+          "snippet": "拿下了三料影地",
+          "note": "三料"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "假车"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密口号→早年经历中密碎→理论人设高密→商业段中密→结尾金句高密短打。",
+      "patterns": [
+        "碎中密",
+        "人设高密",
+        "金句短打高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "实际座的A-B在香港做摩托",
+          "note": "碎中密"
+        },
+        {
+          "sentence_id": "s402",
+          "snippet": "王毅在2岁之后就很难改变",
+          "note": "理论高密"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "金句高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "大量ASR短残句；排比「是爆火吗是作品吗」；金句突然完整。",
+      "patterns": [
+        "短残句",
+        "是X吗排比",
+        "金句完整突起"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是",
+          "note": "残句"
+        },
+        {
+          "sentence_id": "s821",
+          "snippet": "是爆火吗",
+          "note": "是爆火吗"
+        },
+        {
+          "sentence_id": "s822",
+          "snippet": "是作品吗",
+          "note": "是作品吗"
+        },
+        {
+          "sentence_id": "s829",
+          "snippet": "是雄关满到真如铁",
+          "note": "金句完整"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "巫师评传腔：冷眼资本、敢下「商业很低」、末段诗人励志。",
+      "patterns": [
+        "冷眼评传",
+        "敢下商业判",
+        "诗人励志尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "不过也是背后资本",
+          "note": "资本冷眼"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "其实商业一家很低",
+          "note": "商业判"
+        },
+        {
+          "sentence_id": "s829",
+          "snippet": "是雄关满到真如铁",
+          "note": "诗意尾"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "AB没了全反了、早入名利场、国民好老公商业低、潮水当黄金、亲手杀掉昨日假车。",
+      "patterns": [
+        "全反了",
+        "名利场护城河",
+        "好老公低商业",
+        "杀假车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "你就会知道全访了",
+          "note": "全反了"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "才是早早进入名类场",
+          "note": "名利场"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "其实商业一家很低",
+          "note": "商业低"
+        },
+        {
+          "sentence_id": "s826",
+          "snippet": "不是认为是亲手私调自己昨天的假车",
+          "note": "杀假车"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "人物八卦评传+极重ASR，与观宇科技/产业口播主轴不合；仅「排除法定义真正难点」收束可拆出复用，整体不建议迁。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "全网都说A-B没了",
+          "note": "八卦舆情"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "Cher88按照Baby和黄小孩",
+          "note": "ASR重"
+        },
+        {
+          "sentence_id": "s820",
+          "snippet": "那云名义常理最难的修行是什么呢",
+          "note": "可拆排除法"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s4",
+    "s6",
+    "s7",
+    "s9",
+    "s11",
+    "s36",
+    "s411",
+    "s402",
+    "s427",
+    "s826",
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s8",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s398",
+    "s399",
+    "s400",
+    "s401",
+    "s403",
+    "s404",
+    "s405",
+    "s406",
+    "s407",
+    "s408",
+    "s409",
+    "s410",
+    "s412",
+    "s413",
+    "s414",
+    "s415",
+    "s416",
+    "s417",
+    "s418",
+    "s419",
+    "s420",
+    "s421",
+    "s422",
+    "s423",
+    "s424",
+    "s425",
+    "s426",
+    "s428",
+    "s429",
+    "s430",
+    "s431",
+    "s432",
+    "s433",
+    "s434",
+    "s435",
+    "s436",
+    "s437",
+    "s805",
+    "s806",
+    "s807",
+    "s808",
+    "s809",
+    "s810",
+    "s811",
+    "s812",
+    "s813",
+    "s814",
+    "s815",
+    "s816",
+    "s817",
+    "s818",
+    "s819",
+    "s820",
+    "s821",
+    "s822",
+    "s823",
+    "s824",
+    "s825",
+    "s827",
+    "s828",
+    "s829",
+    "s830",
+    "s831",
+    "s832",
+    "s833",
+    "s834"
+  ],
+  "fields_complete_25": true
+}

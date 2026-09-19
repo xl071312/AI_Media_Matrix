@@ -1,0 +1,1075 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_niH8ltShIQs",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=niH8ltShIQs",
+  "source_sha256": "7f6db1a5e0ea684ef87eb86ec33db9e1aee6be24c72c02b06ccb239db2bd5f4a",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 88,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s51"
+    },
+    {
+      "sentence_id": "s52"
+    },
+    {
+      "sentence_id": "s53"
+    },
+    {
+      "sentence_id": "s54"
+    },
+    {
+      "sentence_id": "s55"
+    },
+    {
+      "sentence_id": "s56"
+    },
+    {
+      "sentence_id": "s57"
+    },
+    {
+      "sentence_id": "s58"
+    },
+    {
+      "sentence_id": "s59"
+    },
+    {
+      "sentence_id": "s60"
+    },
+    {
+      "sentence_id": "s61"
+    },
+    {
+      "sentence_id": "s62"
+    },
+    {
+      "sentence_id": "s63"
+    },
+    {
+      "sentence_id": "s64"
+    },
+    {
+      "sentence_id": "s65"
+    },
+    {
+      "sentence_id": "s66"
+    },
+    {
+      "sentence_id": "s67"
+    },
+    {
+      "sentence_id": "s68"
+    },
+    {
+      "sentence_id": "s69"
+    },
+    {
+      "sentence_id": "s70"
+    },
+    {
+      "sentence_id": "s71"
+    },
+    {
+      "sentence_id": "s72"
+    },
+    {
+      "sentence_id": "s73"
+    },
+    {
+      "sentence_id": "s74"
+    },
+    {
+      "sentence_id": "s75"
+    },
+    {
+      "sentence_id": "s76"
+    },
+    {
+      "sentence_id": "s77"
+    },
+    {
+      "sentence_id": "s78"
+    },
+    {
+      "sentence_id": "s79"
+    },
+    {
+      "sentence_id": "s80"
+    },
+    {
+      "sentence_id": "s81"
+    },
+    {
+      "sentence_id": "s82"
+    },
+    {
+      "sentence_id": "s83"
+    },
+    {
+      "sentence_id": "s84"
+    },
+    {
+      "sentence_id": "s85"
+    },
+    {
+      "sentence_id": "s86"
+    },
+    {
+      "sentence_id": "s87"
+    },
+    {
+      "sentence_id": "s88"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "评论区建模互撕开场，网者荣耀玩家生草，经济疲软明星下海段子导入乙女产业。",
+      "patterns": [
+        "评论互撕开场",
+        "生草段子",
+        "经济疲软导入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大老师最近评论和弯幕",
+          "note": "评论开场"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "网者荣耀的玩家也分分加入生草",
+          "note": "玩家生草"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "没办法经济皮软",
+          "note": "经济疲软"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "建模争议是乐子→高质量模型是产业地基→主线停更支线变现→女玩家单推强→运营为流水可弃权益→玩家仍会氪。",
+      "patterns": [
+        "乐子定调",
+        "模型地基",
+        "支线变现",
+        "单推结构",
+        "流水逻辑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "都指乐子"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "但是高质两章模是这个产业的地基",
+          "note": "产业地基"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "当然用来增加声音化收益的支线,",
+          "note": "支线声音化收益"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "但主推单一角色的用户极多,",
+          "note": "主推单一极多"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "而是流水"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "建模丑闻乐子与产业地基",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "主线停更与支线变现",
+          "note": "产品结构"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "女玩家单推与流水优先逻辑",
+          "note": "市场逻辑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88"
+          ],
+          "function": "ASR崩坏重复与公司不缺钱残片",
+          "note": "残片收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但这件事到这还没什么」「因为」「而对于」「如果你实在想玩」转层。",
+      "patterns": [
+        "到这还没什么",
+        "因为因果",
+        "而对于对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但这件事到这还没什么",
+          "note": "还没什么"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "因为乐子"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "对于二有玩家来说,",
+          "note": "对于二游玩家"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "男性消费女色 vs 女性男色经济；主线停更 vs 支线狂更；满足玩家 vs 流水。",
+      "patterns": [
+        "男色/女色对照",
+        "主线/支线",
+        "玩家权益/流水"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "和男性去消费女性有",
+          "note": "男性消费女性"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "但是女性的男色经济可不逸,",
+          "note": "女玩家男色不逸"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "而这个主线一年多没更新,",
+          "note": "主线一年没更新"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "不是为了满足玩家,",
+          "note": "不是为满足玩家"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "窗口少正面设问，以「如果你实在想玩」条件句代替互动问。",
+      "patterns": [
+        "条件句代问",
+        "少显性设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s65",
+          "snippet": "如果你实在想玩,",
+          "note": "如果你实在想玩"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "说这人不是偶隐",
+          "note": "说这人不是偶隐"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "原神多角色塞一词条喻单推被冒犯；主线认识关系任务；声音化支线。",
+      "patterns": [
+        "原神词条喻",
+        "主线关系例",
+        "声音化支线例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "就像原神把几十个角色吸进同一个词字,",
+          "note": "原神几十角色"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就是和每个男性角色是怎么认识的,",
+          "note": "怎么认识的"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "当然用来增加声音化收益的支线,",
+          "note": "声音化支线"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「产业地基」落到高质量建模；「流水」落到放弃玩家权益仍继续氪。",
+      "patterns": [
+        "建模落地",
+        "流水落地",
+        "继续氪落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "但是高质两章模是这个产业的地基",
+          "note": "高质模型地基"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "流水"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "继续课,",
+          "note": "继续课"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「都指乐子」「是10000前面那个一」「不是为了满足玩家而是流水」。",
+      "patterns": [
+        "乐子裁断",
+        "地基判断",
+        "流水本质判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "乐子"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "是10000的前面那个一",
+          "note": "10000的一"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "而是流水"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说外贸/建模争议不重要，再强调高质量模型其实是地基，轻改重点。",
+      "patterns": [
+        "先降重要性",
+        "再抬地基"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "也有人认为外贸没那么重要",
+          "note": "外贸没那么重要"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "但是高质两章模是这个产业的地基",
+          "note": "其实是地基"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "评论短句连珠→产业论中速→单推解释加速→末段「我给你」机械重复拖死。",
+      "patterns": [
+        "短句连珠",
+        "论述中速",
+        "重复拖死"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我哭了",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这背后是市场造成的暂时性侾急方强势,",
+          "note": "市场论述"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "我给你重复"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我给你×N"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "也缺乏人×N"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "词/词字"
+        },
+        {
+          "type": "repair",
+          "form": "在我,在我资本事件"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "我给你填充"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "也缺乏人,",
+          "note": "也缺乏人重复"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "词,",
+          "note": "词字填充"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "在我修复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "八卦好笑→产业认真→单推共鸣怒→流水冷峻→ASR崩溃无情绪。",
+      "patterns": [
+        "好笑",
+        "认真",
+        "共鸣怒",
+        "冷峻",
+        "崩溃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "网者荣耀的玩家也分分加入生草",
+          "note": "好笑"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "但是高质两章模是这个产业的地基",
+          "note": "认真"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "玩家当然会反抗,",
+          "note": "反抗共鸣"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "冷峻"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场建模乐子，本应收在流水优先与玩家仍氪，但ASR重复打断未完成闭环。",
+      "patterns": [
+        "乐子开",
+        "流水应收",
+        "重复打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "乐子开"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "流水"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "最终玩家还会继续玩,",
+          "note": "还会继续玩"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「如果你实在想玩我给你」残缺劝玩；无清晰关注CTA。",
+      "patterns": [
+        "残缺劝玩",
+        "无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s65",
+          "snippet": "如果你实在想玩,",
+          "note": "想玩"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "我给你"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "评论区黑话、原神喻、ASR口吃重复，现场口语脏感强非AI整洁稿。",
+      "patterns": [
+        "评论黑话",
+        "原神喻",
+        "口吃重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "而是压色",
+          "note": "压色黑话"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就像原神把几十个角色吸进同一个词字,",
+          "note": "原神喻"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "重复"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR后半崩溃（我给你/也缺乏人）；乙女经济学论点被噪声切断难引用。",
+      "patterns": [
+        "ASR崩溃",
+        "论点切断",
+        "重复无信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "我给你空转"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "我给 etwas点点点,",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "也缺�",
+          "note": "也缺乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示从乐子表象挖到卖方强势与流水目标的资本推演。",
+      "patterns": [
+        "乐子表象",
+        "卖方强势",
+        "流水目标"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "乐子表象"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这背后是市场造成的暂时性侾急方强势,",
+          "note": "卖方强势"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "而公司运营的一切逻辑,",
+          "note": "运营一切逻辑"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准看瓜的乙女/二游玩家，用原神词条共同经验解释单推被冒犯。",
+      "patterns": [
+        "看瓜玩家",
+        "二游共同经验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "对于二有玩家来说,",
+          "note": "二游玩家"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就像原神把几十个角色吸进同一个词字,",
+          "note": "原神经验"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "玩家当然会反抗,",
+          "note": "玩家反抗"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1900身高；主线一年多没更新；10000前面的一；继续氪。",
+      "patterns": [
+        "身高锚",
+        "一年停更",
+        "地基隐喻",
+        "继续氪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "1900的身高不比这个偶隐枪",
+          "note": "1900身高"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "而这个主线一年多没更新,",
+          "note": "一年多没更新"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "是10000的前面那个一",
+          "note": "10000的一"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "继续课,",
+          "note": "继续课"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "八卦低密→地基/主线中密→单推与流水高密→重复极低密崩盘。",
+      "patterns": [
+        "八卦低密",
+        "结构中密",
+        "流水高密",
+        "重复崩盘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我哭了",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "而这个主线一年多没更新,",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "崩盘"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "评论短句碎切；产业论长句；末段三字机械重复。",
+      "patterns": [
+        "碎切短句",
+        "论述长句",
+        "机械重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "说这人不是偶隐",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "这背后是市场造成的暂时性侾急方强势,",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "我给你,",
+          "note": "重复"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "资本乐子人：先当瓜吃再冷酷指出流水>玩家，对乙女市场不粉不黑。",
+      "patterns": [
+        "乐子人",
+        "流水冷酷",
+        "不粉不黑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "乐子"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "流水"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "不是为了满足玩家,",
+          "note": "不为满足玩家"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "都指乐子；10000前面那个一；主线一年没更新；而是流水；玩家还会继续氪。",
+      "patterns": [
+        "乐子",
+        "地基一",
+        "主线停更",
+        "流水",
+        "继续氪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为这些事在我,在我资本事件看来都指乐子",
+          "note": "乐子"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "是10000的前面那个一",
+          "note": "地基一"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "而这个主线一年多没更新,",
+          "note": "停更"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "而是流水,",
+          "note": "流水"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR后半不可用，乙女产业洞见碎片化，难以稳定迁移观宇口播。",
+      "evidence": [
+        {
+          "sentence_id": "s66",
+          "snippet": "我给你给你,",
+          "note": "重复不可用"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "我给 etwas点点点,",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "也缺�",
+          "note": "崩坏"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s9",
+    "s13",
+    "s21",
+    "s18",
+    "s34",
+    "s41",
+    "s57",
+    "s37",
+    "s66",
+    "s20",
+    "s49",
+    "s38",
+    "s32",
+    "s55",
+    "s65",
+    "s10",
+    "s50",
+    "s30",
+    "s64",
+    "s19",
+    "s17",
+    "s2",
+    "s53",
+    "s83",
+    "s44",
+    "s52",
+    "s63",
+    "s11",
+    "s79",
+    "s85",
+    "s54",
+    "s7",
+    "s68"
+  ],
+  "fields_complete_25": true
+}

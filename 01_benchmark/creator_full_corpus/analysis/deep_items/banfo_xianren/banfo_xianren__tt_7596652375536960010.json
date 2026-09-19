@@ -1,0 +1,1211 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7596652375536960010",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7596652375536960010/",
+  "source_sha256": "8d24f22bead486c3fe81d36ca80c66e2045cb1683c7018877b01635e92bd68e7",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 59,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 18,
+      "snippet": "图片截取自: 西贝的公关已经开始笑了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 49,
+      "snippet": "西贝的公关这半年一直被人嘲讽不太行，我去年写过一篇告诉大家他们的公关一点都不傻，还有不少人嘲讽我。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 18,
+      "snippet": "图片截取自: 西贝的公关已经开始笑了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 44,
+      "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不马后炮。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 28,
+      "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 29,
+      "snippet": "而现在，当你觉得西贝的公关们在哭的时候，我告诉你恰恰相反。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "人家已经开始在笑了。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "真的，人在极度无语的时候就是会笑的。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 39,
+      "snippet": "以及，这现状甚至不是自己能力够不够的问题，是根本也没到自己发力，老板自己上了。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 67,
+      "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所有人对公司的暴击都没老板一个人KDA高，这你受得了吗？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 23,
+      "snippet": "你做梦都梦不到这种事儿，但一睁眼就真的发生了。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 39,
+      "snippet": "你知道出门不要乱捡东西吃，下雨了要打伞，骑着共享单车在马路上不要去撞全险半挂。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 21,
+      "snippet": "但你架不住有人不知道，还要教大卡车做事儿。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 23,
+      "snippet": "你别说是公关了，就是关公来了，也解决不了问题。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "赤兔也撞不过卡车啊。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 26,
+      "snippet": "还有很多网友在那给西贝出主意，还有用AI的，都没用。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 16,
+      "snippet": "AI来了显卡也得被抽出来揍一顿。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 57,
+      "snippet": "你是公关，你有一肚子本事也没用，人家老板突然的自我，你那堆乱七八糟的专业名词一堆策略分析说的好说得妙但人家不理你。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "说完了吗？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "说完了去研究下毛毛文学去。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 20,
+      "snippet": "再说抽你陀螺，收拾不了老罗还收拾不了你？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 15,
+      "snippet": "然后转头现场表演被网友抽陀螺。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "哪能咋办呢？"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "换你你不笑吗？"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 15,
+      "snippet": "你也要偷偷打开评论区，笑着刷。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "不要神话公关这个岗位。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 53,
+      "snippet": "你以为的公关是指点江山挥斥方遒操纵舆论改变世界把大众玩弄于股掌之中，你的当务之急是卸载手机上的短剧APP。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 39,
+      "snippet": "现实中的公关是非常弱势的，是从媒体到网红一路求爷爷告奶奶下来球球大家给个活路。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 32,
+      "snippet": "然后看到老板的操作眼前一黑，然后还要面带微笑的和老板说完全明白。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "关上门，开始掉小珍珠。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "又挣了一天的窝囊费。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 16,
+      "snippet": "然后打开朋友圈和微博，两眼一黑。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "叹口气，打开评论区。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 4,
+      "snippet": "开始笑。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 21,
+      "snippet": "很多公关知识，并不复杂，大家都知道怎么做。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "但知道没用。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 33,
+      "snippet": "大部分企业里，公关只是老板的传声筒，谁告诉你，公关可以决定策略了？"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 33,
+      "snippet": "你是一个公关，你以为你是为企业操心，你错了，你的本质是一个打工人。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 45,
+      "snippet": "作为一个打工人，你别管你是做公关还是做其他别的什么，你首先要打开GPS，找准你自己的定位。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 26,
+      "snippet": "很多人觉得自己存在的意义是让公司变得更好，这是错的。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 16,
+      "snippet": "因为公司不是你的，你别想那么多。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "容易抑郁。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 37,
+      "snippet": "所以嘛，当你觉得你的生活已经够倒霉的时候，想想现在西贝的公关是什么状态吧。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 20,
+      "snippet": "会让你快乐很多，跟他们一起笑，对身体好。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 51,
+      "snippet": "再说一遍，西贝的公关是专业的，是懂策略的，但整个事情是荒诞的，是抽象的，是离奇的，是魔幻的，是速冻的。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 15,
+      "snippet": "甚至自己是被老板说是不存在的。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "整个事情跟个克苏鲁一样。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "那能咋办呢？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 13,
+      "snippet": "笑吧，这时候，微笑就好了。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 21,
+      "snippet": "客观上，西贝的公关现在也真的可以开始笑了。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 43,
+      "snippet": "因为老板已经充分证明了这根本不是公关能力的问题，谁来都是这样的结果，公关不需要背锅了。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 35,
+      "snippet": "甚至，能在这种情况下撑到现在，已经充分证明了自己的抗压能力和敬业精神。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 21,
+      "snippet": "以后去别的公司应聘，人家问你见过大场面吗？"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 20,
+      "snippet": "你想起这段经历，面对这个问题，能不笑吗？"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 18,
+      "snippet": "你甚至想问对方，你见过真正的巅峰吗？"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 4,
+      "snippet": "我见过。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 11,
+      "snippet": "今天吃饭，就吃西蓝花。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「周末不卷随便写」低姿态开场，回击去年被嘲的西贝公关观，用贾老师状态与副总裁离职当即时证据自称从不马后炮。",
+      "patterns": [
+        "周末随笔低姿态",
+        "旧文打脸回击",
+        "即时人事证据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "西贝的公关这半年一直被人嘲讽不太行，我去年写过一篇告诉大家他们的公关一点都不傻，",
+          "note": "去年写过"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "从不马后炮"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "人家已经开始在笑了。",
+          "note": "开始在笑"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "公关不傻且专业→根子在老板亲自上阵→公关弱势传声筒→知道策略也没用→荒诞到可免背锅→笑是唯一解→打工人先定位。",
+      "patterns": [
+        "公关专业辩护",
+        "老板KDA更高",
+        "传声筒本质",
+        "免锅可笑",
+        "打工人定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。",
+          "note": "公关不傻"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "以及，这现状甚至不是自己能力够不够的问题，是根本也没到自己发力，老板自己上了。",
+          "note": "老板自己上"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "老板KDA高"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "大部分企业里，公关只是老板的传声筒，谁告诉你，公关可以决定策略了？",
+          "note": "传声筒"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "因为老板已经充分证明了这根本不是公关能力的问题，谁来都是这样的结果，公关不需要背",
+          "note": "不需背锅"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "作为一个打工人，你别管你是做公关还是做其他别的什么，你首先要打开GPS，找准你自",
+          "note": "找准定位"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "vindication",
+          "note": "旧文回击与开始笑"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "boss_problem",
+          "note": "老板自毁与公关无力隐喻"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "pr_reality",
+          "note": "神话破除与掉小珍珠"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "worker_gps",
+          "note": "打工人定位与一起笑"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "absolution_close",
+          "note": "免锅证明与应聘笑点收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「而现在」「以及」「然后」「所以嘛」「再说一遍」「客观上」评论转场，口语连贯。",
+      "patterns": [
+        "而现在反转",
+        "所以嘛收束",
+        "再说一遍重申",
+        "客观上补刀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "而现在，当你觉得西贝的公关们在哭的时候，我告诉你恰恰相反。",
+          "note": "而现在"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "以及，这现状甚至不是自己能力够不够的问题，是根本也没到自己发力，老板自己上了。",
+          "note": "以及"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "所以嘛，当你觉得你的生活已经够倒霉的时候，想想现在西贝的公关是什么状态吧。",
+          "note": "所以嘛"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "再说一遍，西贝的公关是专业的，是懂策略的，但整个事情是荒诞的，是抽象的，是离奇的",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "客观上，西贝的公关现在也真的可以开始笑了。",
+          "note": "客观上"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "以为公关在哭 vs 其实在笑；神话指点江山 vs 现实求爷爷告奶奶；网友嘲公关不行 vs 老板KDA更高；知道怎么做 vs 做不了主。",
+      "patterns": [
+        "哭笑反转",
+        "神话vs求告",
+        "嘲讽对象错位",
+        "知道vs做主"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "而现在，当你觉得西贝的公关们在哭的时候，我告诉你恰恰相反。",
+          "note": "以为在哭"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "人家已经开始在笑了。",
+          "note": "其实在笑"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你以为的公关是指点江山挥斥方遒操纵舆论改变世界把大众玩弄于股掌之中，你的当务之急",
+          "note": "神话公关"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "现实中的公关是非常弱势的，是从媒体到网红一路求爷爷告奶奶下来球球大家给个活路。",
+          "note": "求爷爷"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "老板KDA"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "但知道没用。",
+          "note": "知道没用"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「这你受得了吗」「换你你不笑吗」「谁告诉你公关可定策略」「见过大场面吗」连串反问逼共感。",
+      "patterns": [
+        "受得了吗反问",
+        "换你不笑吗",
+        "定策略质疑问",
+        "应聘场面问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "受得了吗"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "换你你不笑吗？",
+          "note": "换你不笑吗"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "大部分企业里，公关只是老板的传声筒，谁告诉你，公关可以决定策略了？",
+          "note": "谁告诉你"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "以后去别的公司应聘，人家问你见过大场面吗？",
+          "note": "见过大场面"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "哪能咋办呢？",
+          "note": "哪能咋办"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "贾老师状态、公关副总裁离职、共享单车撞全险半挂、关公赤兔、毛毛文学/抽陀螺、应聘见大场面、今天吃西蓝花。",
+      "patterns": [
+        "人事新闻例",
+        "撞卡车隐喻",
+        "关公赤兔梗",
+        "应聘场景例",
+        "西蓝花冷收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "副总裁离职"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你知道出门不要乱捡东西吃，下雨了要打伞，骑着共享单车在马路上不要去撞全险半挂。",
+          "note": "撞半挂"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你别说是公关了，就是关公来了，也解决不了问题。",
+          "note": "关公来了"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "赤兔也撞不过卡车啊。",
+          "note": "赤兔撞不过"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "以后去别的公司应聘，人家问你见过大场面吗？",
+          "note": "应聘场面"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "吃西蓝花"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「公关弱势」落到求媒体网红与面带微笑掉珍珠；「老板问题」落到KDA与自我操作；「打工人定位」落到打开GPS别为公司抑郁。",
+      "patterns": [
+        "弱势→求告掉泪",
+        "老板问题→KDA",
+        "定位→GPS隐喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "现实中的公关是非常弱势的，是从媒体到网红一路求爷爷告奶奶下来球球大家给个活路。",
+          "note": "求告"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "关上门，开始掉小珍珠。",
+          "note": "掉小珍珠"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "KDA"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "作为一个打工人，你别管你是做公关还是做其他别的什么，你首先要打开GPS，找准你自",
+          "note": "打开GPS"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「从不马后炮」「公关就是不傻」「关公也解决不了」「不要神话公关」「公司不是你的」斩钉断语。",
+      "patterns": [
+        "从不马后炮",
+        "关公无解",
+        "勿神话公关",
+        "公司非你的"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "从不马后炮"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。",
+          "note": "不傻"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你别说是公关了，就是关公来了，也解决不了问题。",
+          "note": "关公无解"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "不要神话公关这个岗位。",
+          "note": "不要神话"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "因为公司不是你的，你别想那么多。",
+          "note": "公司不是你的"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "表面回击嘲讽者，实为强化旧判断；「甚至自己被老板说不存在」把辩护推到荒诞极限，属加码非改口。",
+      "patterns": [
+        "旧判断加码",
+        "荒诞极限推进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "西贝的公关这半年一直被人嘲讽不太行，我去年写过一篇告诉大家他们的公关一点都不傻，",
+          "note": "旧文被嘲"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。",
+          "note": "加码专业"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "甚至自己是被老板说是不存在的。",
+          "note": "被说不存在"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "随笔慢开→辩护加速→隐喻段短句连打（关公/赤兔/AI显卡）→掉珍珠节拍→应聘笑点再起→西蓝花急停。",
+      "patterns": [
+        "隐喻短句连打",
+        "掉珍珠节拍",
+        "西蓝花急停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "你别说是公关了，就是关公来了，也解决不了问题。",
+          "note": "关公"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "赤兔也撞不过卡车啊。",
+          "note": "赤兔"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "AI来了显卡也得被抽出来揍一顿。",
+          "note": "显卡揍"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "开始笑。",
+          "note": "开始笑"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "西蓝花"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "懒散随笔→得意回击→共情无语→荒诞笑→心酸掉珍珠→释然免锅→应聘狂笑余韵。",
+      "patterns": [
+        "得意回击",
+        "无语荒诞笑",
+        "心酸掉泪",
+        "免锅狂笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "得意"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "真的，人在极度无语的时候就是会笑的。",
+          "note": "无语笑"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "关上门，开始掉小珍珠。",
+          "note": "掉珍珠"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "因为老板已经充分证明了这根本不是公关能力的问题，谁来都是这样的结果，公关不需要背",
+          "note": "免锅"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我见过。",
+          "note": "我见过"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题「公关已经开始笑了」用免锅证明与应聘「见过巅峰」闭环；西蓝花冷幽默切断说教。",
+      "patterns": [
+        "标题笑闭环",
+        "巅峰应聘回收",
+        "西蓝花切断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "人家已经开始在笑了。",
+          "note": "开始笑"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "客观上，西贝的公关现在也真的可以开始笑了。",
+          "note": "可以开始笑"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你甚至想问对方，你见过真正的巅峰吗？",
+          "note": "真正的巅峰"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "西蓝花"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「跟他们一起笑对身体好」软性生活建议式CTA，无关注引流；结尾行动是吃西蓝花。",
+      "patterns": [
+        "一起笑软CTA",
+        "西蓝花行动收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "会让你快乐很多，跟他们一起笑，对身体好。",
+          "note": "一起笑"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "笑吧，这时候，微笑就好了。",
+          "note": "微笑就好"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "吃西蓝花"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "佛子哥自称、KDA游戏黑话、毛毛文学/抽陀螺、克苏鲁、速冻排比、西蓝花，网络语境密集。",
+      "patterns": [
+        "自称佛子哥",
+        "KDA黑话",
+        "克苏鲁/速冻",
+        "西蓝花梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "佛子哥"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "KDA"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "再说一遍，西贝的公关是专业的，是懂策略的，但整个事情是荒诞的，是抽象的，是离奇的",
+          "note": "速冻的"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "整个事情跟个克苏鲁一样。",
+          "note": "克苏鲁"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "西蓝花"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "依赖读者已知西贝/贾国龙舆情；论证偏情绪共感；对公关「专业」缺少策略细节举证。",
+      "patterns": [
+        "舆情前提依赖",
+        "情绪大于证据",
+        "专业缺细节"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "贾老师状态前提"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。",
+          "note": "专业断言"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "再说一遍，西贝的公关是专业的，是懂策略的，但整个事情是荒诞的，是抽象的，是离奇的",
+          "note": "专业重申缺细节"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「看人事信号→归因老板→推到岗位结构→给打工人处方」评论推理链。",
+      "patterns": [
+        "人事归因链",
+        "结构处方"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "人事信号"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "以及，这现状甚至不是自己能力够不够的问题，是根本也没到自己发力，老板自己上了。",
+          "note": "归因老板"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "大部分企业里，公关只是老板的传声筒，谁告诉你，公关可以决定策略了？",
+          "note": "结构传声筒"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "作为一个打工人，你别管你是做公关还是做其他别的什么，你首先要打开GPS，找准你自",
+          "note": "工人处方"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当打工人/公关同温层，用「换你你不笑吗」拉入；也嘲「卸载短剧APP」的舆论想象者。",
+      "patterns": [
+        "打工人同温层",
+        "嘲舆论想象者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "换你你不笑吗？",
+          "note": "换你"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "你是一个公关，你以为你是为企业操心，你错了，你的本质是一个打工人。",
+          "note": "你是打工人"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "你以为的公关是指点江山挥斥方遒操纵舆论改变世界把大众玩弄于股掌之中，你的当务之急",
+          "note": "卸载短剧"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "副总裁离职、KDA、半挂卡车、关公赤兔、掉小珍珠、窝囊费、西蓝花。",
+      "patterns": [
+        "离职人事锚",
+        "KDA锚",
+        "卡车隐喻锚",
+        "西蓝花锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "副总裁"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "KDA"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你知道出门不要乱捡东西吃，下雨了要打伞，骑着共享单车在马路上不要去撞全险半挂。",
+          "note": "半挂"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "又挣了一天的窝囊费。",
+          "note": "窝囊费"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "西蓝花"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密随笔→辩护中密→隐喻高梗密→结构论中密→应聘笑点降密冷收。",
+      "patterns": [
+        "随笔低密",
+        "隐喻高梗密",
+        "结构中密",
+        "冷收降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你别说是公关了，就是关公来了，也解决不了问题。",
+          "note": "高梗"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "大部分企业里，公关只是老板的传声筒，谁告诉你，公关可以决定策略了？",
+          "note": "结构"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "长短交错评论句；排比「荒诞抽象离奇魔幻速冻」；单字句「开始笑」「我见过」打击。",
+      "patterns": [
+        "评论长短交错",
+        "五词排比",
+        "单字打击句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "再说一遍，西贝的公关是专业的，是懂策略的，但整个事情是荒诞的，是抽象的，是离奇的",
+          "note": "五词排比"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "开始笑。",
+          "note": "开始笑"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我见过。",
+          "note": "我见过"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "网络好友佛子哥：先知自得+打工人共情+荒诞冷幽默，拒绝神话岗位。",
+      "patterns": [
+        "先知自得",
+        "打工人共情",
+        "荒诞冷幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "看了这两天贾老师的状态，以及他们公关副总裁的离职，我只能说你的网络好友佛子哥从不",
+          "note": "先知"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "你是一个公关，你以为你是为企业操心，你错了，你的本质是一个打工人。",
+          "note": "打工人"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "整个事情跟个克苏鲁一样。",
+          "note": "克苏鲁幽默"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "公关开始笑了、老板KDA、赤兔撞卡车、掉小珍珠、见过巅峰、今天吃西蓝花。",
+      "patterns": [
+        "开始笑标题",
+        "老板KDA",
+        "赤兔卡车",
+        "西蓝花"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "人家已经开始在笑了。",
+          "note": "开始笑"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你是公关，老板是这个状态和思路，以及动不动就开始自己给自己来几下，这半年下来，所",
+          "note": "KDA"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "赤兔也撞不过卡车啊。",
+          "note": "赤兔"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "关上门，开始掉小珍珠。",
+          "note": "掉珍珠"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "今天吃饭，就吃西蓝花。",
+          "note": "西蓝花"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「为背锅岗位平反→归因一号位→破神话→打工人GPS」评论骨架可迁到观宇谈组织沟通/危机；需补事实时间线，降梗密度适配口播。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "人家的公关就是不傻，甚至很专业，判断出了问题的根源在哪。",
+          "note": "平反"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "以及，这现状甚至不是自己能力够不够的问题，是根本也没到自己发力，老板自己上了。",
+          "note": "归因老板"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "不要神话公关这个岗位。",
+          "note": "破神话"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "作为一个打工人，你别管你是做公关还是做其他别的什么，你首先要打开GPS，找准你自",
+          "note": "GPS"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s6",
+    "s9",
+    "s7",
+    "s11",
+    "s12",
+    "s39",
+    "s53",
+    "s41",
+    "s1",
+    "s2",
+    "s5",
+    "s8",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59"
+  ],
+  "fields_complete_25": true
+}

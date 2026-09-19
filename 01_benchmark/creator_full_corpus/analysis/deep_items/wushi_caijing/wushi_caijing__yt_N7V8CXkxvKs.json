@@ -1,0 +1,1343 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_N7V8CXkxvKs",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=N7V8CXkxvKs",
+  "source_sha256": "a320a4f028ea6428ffea1897200ebedbac9f0bfda5a4ba09e1da7e1f964c8d5c",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 115,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "大幼稿巨大狗猖狗猖的创又开始了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "青春没有收"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "我国的情况已经不一样了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "给你们看水面下的情况"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "注意一下内容都是一手书记"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "且是我自己做的图"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "不是网上那些乱七八糟媒体"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "不知道从哪儿复日来的书记"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 19,
+      "snippet": "先把海关总署每个月我们的出口金额拉出来"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "事实证明今年进入关税战大背景后"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 15,
+      "snippet": "我们的整体出口金额并未明显下降"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "甚至还六有上升"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "有人肯定要抄抄了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 6,
+      "snippet": "这是在抢出口"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 2,
+      "snippet": "别急"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 12,
+      "snippet": "咱们继续拉海关总署的数据"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "也就是对美出口的每月数据"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "咱们自从今年三月之后"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "对美出口大复下降"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "是有抢出口"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "但这还是在抢出口的效应跌加下"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "也就是大家知道以后创表加关税"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "在还没加的这段时间里抢先和老美"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "那边的商家完成交易"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 9,
+      "snippet": "来对美出口变成一枚"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 11,
+      "snippet": "都是一枚和一枚是一枚的"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "三枚是一枚的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 14,
+      "snippet": "这一枚来对美出口而且是一枚的"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "但前一枚是一枚的"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "而是一枚是一枚是一枚的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "是一枚的"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "就是一枚来对美是一枚的"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "要一枚是一枚的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 12,
+      "snippet": "但是一枚相对有很多的玩具"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "从滒有双枚是一枚"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "还可以把它们杀了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "然后再次只有一枚"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 16,
+      "snippet": "就把这枚的贩贩贩贩 den跑出脾"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "再次退出了蝴疾"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 17,
+      "snippet": "You can't take it"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 2,
+      "snippet": "枚吧"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "枚加有双枚"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "和实力的服射圈也就是东盟"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 11,
+      "snippet": "但这也包含不少转口贸易"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 6,
+      "snippet": "所以金额很大"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 19,
+      "snippet": "从途中也该看出今年明显比去年高了一大块"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "但今年三至八月并为大幅提升"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "这背后的逻辑者转口贸易有"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 3,
+      "snippet": "但有限"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 13,
+      "snippet": "不然这个数据不应是小幅回落"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "以二零二五年八月为例了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 16,
+      "snippet": "中国对东盟出口约五百七十一亿美元"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 20,
+      "snippet": "占17%小期远超老美那边的百分之九点八了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 15,
+      "snippet": "不是这其实想展开我的一个理论呢"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 17,
+      "snippet": "就是我们未来的贸易能稳稳的覆盖到哪"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 17,
+      "snippet": "其实是要看我们的军事实力能覆盖到哪"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 17,
+      "snippet": "毕竟地球网赖4有开门贸易自由的传统"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "但这不展开了感兴趣可以关注我"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "或者搜我相关军工行业视频"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 11,
+      "snippet": "卖给东盟当然远远不够了"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 13,
+      "snippet": "还有一大不可忽略的贸易伙伴"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 10,
+      "snippet": "不是俄罗斯的而是欧盟"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "说个反职队的事"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 11,
+      "snippet": "虽然你们看到的国际新闻"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 14,
+      "snippet": "还有时政区很多警体之外的观点"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 12,
+      "snippet": "对欧盟是各种青市和敌对的"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "但欧盟真是咱的大客户"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 15,
+      "snippet": "而且我们对欧盟的出口约连月上升"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 15,
+      "snippet": "今年八月已经来到了五百一十六亿"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "咱们对欧盟还是既要"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 13,
+      "snippet": "我们对欧盟还是既要打野要拉"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "中欧关系真的很重要"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "别听别人天天骨吹欧盟无用论"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 11,
+      "snippet": "总体来看东盟570亿亿"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 12,
+      "snippet": "欧盟516亿这两仗的大同"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 8,
+      "snippet": "增别是第一和第二"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "第三则是刚刚说的美国316亿"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 18,
+      "snippet": "后面的小兄弟则是拉丁美洲和基268亿"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "占8月的18%左右"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 19,
+      "snippet": "在后面是非中的一托国家和剑187.9亿"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "这时候一定有大聪明说"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "咱们的兄弟俄罗斯"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 14,
+      "snippet": "是不是也贡献了很多出口算额呢"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "再来点热知识"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "俄罗斯只有85亿"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 11,
+      "snippet": "但是由于一些特殊原因了"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 14,
+      "snippet": "无视不见用美原来换算中欧贸易"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 14,
+      "snippet": "这个85亿美元的科义性比较弱"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 15,
+      "snippet": "总之东盟欧盟美国拉丁美洲和非洲"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "这些是我们目前大客户"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 10,
+      "snippet": "还有个水下的数据口径"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 4,
+      "snippet": "就是咱们"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 14,
+      "snippet": "咱们的出口价格指数有没有变化"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 15,
+      "snippet": "这反应咱们虽然总体出口径啊没见"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 9,
+      "snippet": "但李子是不是吃亏了"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 14,
+      "snippet": "很多人看无视做这些都要提过了"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 4,
+      "snippet": "给我学了"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 17,
+      "snippet": "你要关注的不是我怎么发数据怎么做图"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 14,
+      "snippet": "而是要看我用什么数据什么口径"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 17,
+      "snippet": "当你知道有出口价格指数这个东西之后"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 7,
+      "snippet": "你可以自己去搜"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 18,
+      "snippet": "我用了一些金融工具可以更加方便导数据"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 17,
+      "snippet": "至于很多媒体连这些金融工具都不会用"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "那有别提专业性了"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 13,
+      "snippet": "我们可以看到今年三月至八月"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "咱们是冲高然后小夫会洛"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 12,
+      "snippet": "而且都在96之101之间"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 5,
+      "snippet": "政府很有限"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 20,
+      "snippet": "而这个数字 欧盟 日韩 中东那边都不太好"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 14,
+      "snippet": "但他们的官方数据公开做得不好"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 5,
+      "snippet": "口径对不起"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 12,
+      "snippet": "但你要知道这个结论就行了"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 20,
+      "snippet": "总之我们的出口价格指数放远全球都很坚挺的"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 1,
+      "snippet": ","
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 1,
+      "snippet": "F"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用「大狗创又开始了」口语钩子+「青春没有售价」标题句，宣称给水面下一手数据。",
+      "patterns": [
+        "口语战局钩子",
+        "一手数据承诺开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大幼稿巨大狗猖狗猖的创又开始了",
+          "note": "创又开始了"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "给你们看水面下的情况",
+          "note": "给你们看水面下情况"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "注意一下内容都是一手书记",
+          "note": "都是一手数据"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主链：总出口未明显下降→对美出口大降有抢出口→东盟/欧盟成大客户→军事实力覆盖贸易圈→出口价格指数坚挺。",
+      "patterns": [
+        "总出口韧性",
+        "客户结构迁移",
+        "价格指数坚挺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我们的整体出口金额并未明显下降",
+          "note": "整体出口未明显下降"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "占17%小期远超老美那边的百分之九点八了",
+          "note": "东盟占比远超美国"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "总之我们的出口价格指数放远全球都很坚挺的",
+          "note": "出口价格指数全球坚挺"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「别急」「咱们继续拉」「说个反直觉」「总之」推动数据段切换。",
+      "patterns": [
+        "别急承接",
+        "继续拉数据",
+        "反直觉转折",
+        "总之收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "别急",
+          "note": "别急"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "咱们继续拉海关总署的数据",
+          "note": "继续拉海关数据"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "说个反职队的事",
+          "note": "说个反直觉的事"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "总之东盟欧盟美国拉丁美洲和非洲",
+          "note": "总之大客户"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "总出口vs对美出口；媒体仇欧论vs欧盟真大客户；俄「兄弟」vs仅85亿。",
+      "patterns": [
+        "总量/对美对照",
+        "仇欧舆论/客户现实",
+        "兄弟叙事/金额现实"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我们的整体出口金额并未明显下降",
+          "note": "总出口未降"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "对美出口大复下降",
+          "note": "对美大幅下降"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "但欧盟真是咱的大客户",
+          "note": "欧盟真是大客户"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "俄罗斯只有85亿",
+          "note": "俄罗斯只有85亿"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "预判杠精问「是不是抢出口」「俄罗斯贡献多吗」再自答证伪。",
+      "patterns": [
+        "预判杠精问再驳",
+        "热知识设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "有人肯定要抄抄了",
+          "note": "有人肯定要吵了"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这是在抢出口",
+          "note": "这是在抢出口"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "是不是也贡献了很多出口算额呢",
+          "note": "是不是也贡献很多"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "2025年8月东盟571亿/17%、欧盟516亿、美国316亿、拉美268、非洲187.9、俄85；价格指数96-101。",
+      "patterns": [
+        "月度出口金额榜",
+        "价格指数区间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "中国对东盟出口约五百七十一亿美元",
+          "note": "东盟约571亿美元"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "今年八月已经来到了五百一十六亿",
+          "note": "欧盟八月516亿"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而且都在96之101之间",
+          "note": "96至101之间"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「贸易能稳稳覆盖到哪」抽象命题落到军事实力覆盖圈与东盟服射圈数据。",
+      "patterns": [
+        "贸易覆盖→军力覆盖",
+        "服射圈→东盟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "就是我们未来的贸易能稳稳的覆盖到哪",
+          "note": "贸易能覆盖到哪"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "其实是要看我们的军事实力能覆盖到哪",
+          "note": "看军事实力覆盖到哪"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "和实力的服射圈也就是东盟",
+          "note": "实力服射圈也就是东盟"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "嘲网上乱转数据媒体；断言欧盟很重要别听无用论；俄数据可信性弱。",
+      "patterns": [
+        "嘲非一手媒体",
+        "欧盟重要判定",
+        "俄数据弱判定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "不是网上那些乱七八糟媒体",
+          "note": "不是乱七八糟媒体"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "别听别人天天骨吹欧盟无用论",
+          "note": "别听欧盟无用论"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "这个85亿美元的科义性比较弱",
+          "note": "85亿可信性比较弱"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认有抢出口；承认转口贸易「有但有限」；承认俄口径特殊不用美元换算。",
+      "patterns": [
+        "承认抢出口",
+        "转口有限修正",
+        "俄口径特殊"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "是有抢出口",
+          "note": "是有抢出口"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但有限",
+          "note": "转口有但有限"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "无视不见用美原来换算中欧贸易",
+          "note": "不见用美元换算"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "数据承诺短句→金额连射→排行榜短列→方法论说教段，节奏由密到教。",
+      "patterns": [
+        "金额短句连射",
+        "排行榜短列",
+        "方法论说教"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "中国对东盟出口约五百七十一亿美元",
+          "note": "571亿短句"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "总体来看东盟570亿亿",
+          "note": "东盟570欧盟516"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "而是要看我用什么数据什么口径",
+          "note": "看什么口径说教"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "战局兴奋→数据冷静→嘲杠精→反直觉惊喜（欧盟）→方法论自信收束。",
+      "patterns": [
+        "兴奋→冷静→嘲→惊喜→自信"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大幼稿巨大狗猖狗猖的创又开始了",
+          "note": "战局兴奋"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "先把海关总署每个月我们的出口金额拉出来",
+          "note": "拉数据冷静"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "这时候一定有大聪明说",
+          "note": "嘲大聪明"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "但欧盟真是咱的大客户",
+          "note": "欧盟惊喜"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以出口价格指数「全球很坚挺」作结论收束，并回扣一手口径方法论。",
+      "patterns": [
+        "价格指数坚挺结论",
+        "口径方法论回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s113",
+          "snippet": "总之我们的出口价格指数放远全球都很坚挺的",
+          "note": "价格指数全球坚挺"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "而是要看我用什么数据什么口径",
+          "note": "看什么数据什么口径"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "但你要知道这个结论就行了",
+          "note": "知道结论就行"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软CTA：感兴趣关注/搜军工视频；自己去搜出口价格指数；学口径而非学画图。",
+      "patterns": [
+        "关注/搜视频CTA",
+        "自己去搜数据CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "但这不展开了感兴趣可以关注我",
+          "note": "感兴趣可以关注我"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "你可以自己去搜",
+          "note": "你可以自己去搜"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "你要关注的不是我怎么发数据怎么做图",
+          "note": "关注不是我怎么画图"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自制图表自称、嘲媒体不会金融工具、预演杠精对话，个人方法论指纹强。",
+      "patterns": [
+        "自制图自称",
+        "嘲媒体工具能力",
+        "杠精预演"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "且是我自己做的图",
+          "note": "我自己做的图"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "至于很多媒体连这些金融工具都不会用",
+          "note": "媒体连金融工具都不会"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "这时候一定有大聪明说",
+          "note": "大聪明说"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "中段「一枚」循环ASR崩坏；部分句子乱码；排行百分比口径表述含糊。",
+      "patterns": [
+        "中段ASR循环崩坏",
+        "百分比口径含糊"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "都是一枚和一枚是一枚的",
+          "note": "一枚循环"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "就把这枚的贩贩贩贩 den跑出脾",
+          "note": "贩贩噪声"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "占8月的18%左右",
+          "note": "占8月的18%左右"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「先看总量再拆对美再拆目的地再看价格指数」的多层口径推理。",
+      "patterns": [
+        "多层口径推理",
+        "先总量后结构"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "先把海关总署每个月我们的出口金额拉出来",
+          "note": "先拉出口金额"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "也就是对美出口的每月数据",
+          "note": "对美每月数据"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "咱们的出口价格指数有没有变化",
+          "note": "出口价格指数有没有变化"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当可自学数据口径的学员，反对只看结论的伸手党。",
+      "patterns": [
+        "数据学员定位",
+        "反伸手党"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s97",
+          "snippet": "给我学了",
+          "note": "给我学了"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "当你知道有出口价格指数这个东西之后",
+          "note": "知道价格指数后可自搜"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "但你要知道这个结论就行了",
+          "note": "知道结论就行"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "海关总署月度金额、东盟571/17%、欧盟516、美316、俄85、价格指数96-101。",
+      "patterns": [
+        "海关金额",
+        "目的地排行",
+        "价格指数区间"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "中国对东盟出口约五百七十一亿美元",
+          "note": "东盟571亿"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "第三则是刚刚说的美国316亿",
+          "note": "美国316亿"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而且都在96之101之间",
+          "note": "96之101之间"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场承诺中密→金额排行高密→军贸理论点到为止低密→价格指数高密收束。",
+      "patterns": [
+        "排行高密",
+        "理论点到为止",
+        "价格指数高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "中国对东盟出口约五百七十一亿美元",
+          "note": "金额高密"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "但这不展开了感兴趣可以关注我",
+          "note": "理论不展开"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "我们可以看到今年三月至八月",
+          "note": "价格指数高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "承诺→总量→对美→东盟→欧盟→排行→价格指数；「别急/继续/总之」串联。",
+      "patterns": [
+        "数据层递进",
+        "别急/继续/总之"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "别急",
+          "note": "别急"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "咱们继续拉海关总署的数据",
+          "note": "继续拉"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "总之东盟欧盟美国拉丁美洲和非洲",
+          "note": "总之"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "一手数据派+反直觉揭穿者+方法论教师，嘲「大聪明」与乱转媒体。",
+      "patterns": [
+        "一手数据派",
+        "反直觉揭穿",
+        "方法论教师"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "注意一下内容都是一手书记",
+          "note": "一手数据"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "说个反职队的事",
+          "note": "反直觉"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "而是要看我用什么数据什么口径",
+          "note": "口径教学"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "水面下数据、抢出口、东盟服射圈、欧盟真大客户、出口价格指数。",
+      "patterns": [
+        "水面下",
+        "抢出口",
+        "服射圈",
+        "欧盟大客户",
+        "价格指数"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "给你们看水面下的情况",
+          "note": "水面下情况"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这是在抢出口",
+          "note": "抢出口"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "和实力的服射圈也就是东盟",
+          "note": "服射圈东盟"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "但欧盟真是咱的大客户",
+          "note": "欧盟大客户"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "当你知道有出口价格指数这个东西之后",
+          "note": "出口价格指数"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s4",
+            "s5",
+            "s6",
+            "s9"
+          ],
+          "function": "hook_data_promise",
+          "note": "战局钩+一手自制图表承诺"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s16",
+            "s19"
+          ],
+          "function": "total_vs_us",
+          "note": "总出口韧性vs对美大降"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s20",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "front_loading",
+          "note": "抢出口效应解释"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s43",
+            "s46",
+            "s52",
+            "s53"
+          ],
+          "function": "asean_shift",
+          "note": "东盟出口跃升与转口有限"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s62",
+            "s67",
+            "s69",
+            "s74",
+            "s77"
+          ],
+          "function": "eu_rank",
+          "note": "欧盟大客户与排行榜"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s91",
+            "s93",
+            "s105",
+            "s113"
+          ],
+          "function": "price_index",
+          "note": "出口价格指数口径与坚挺结论"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "别急"
+        },
+        {
+          "type": "discourse",
+          "form": "大聪明"
+        },
+        {
+          "type": "discourse",
+          "form": "给我学了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "别急",
+          "note": "别急"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "这时候一定有大聪明说",
+          "note": "一定有大聪明说"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "给我学了",
+          "note": "给我学了"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "海关口径分层（总量→目的地→价格指数）与反直觉客户结构叙事高度可迁移观鱼数据时政。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "先把海关总署每个月我们的出口金额拉出来",
+          "note": "海关总量起手可迁移"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "但欧盟真是咱的大客户",
+          "note": "欧盟大客户反直觉可迁移"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "当你知道有出口价格指数这个东西之后",
+          "note": "价格指数口径可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s5",
+    "s11",
+    "s53",
+    "s113",
+    "s15",
+    "s16",
+    "s63",
+    "s89",
+    "s19",
+    "s67",
+    "s85",
+    "s13",
+    "s14",
+    "s83",
+    "s52",
+    "s69",
+    "s107",
+    "s55",
+    "s56",
+    "s43",
+    "s7",
+    "s73",
+    "s88",
+    "s20",
+    "s49",
+    "s87",
+    "s74",
+    "s99",
+    "s9",
+    "s81",
+    "s112",
+    "s58",
+    "s101",
+    "s98",
+    "s6",
+    "s103",
+    "s26",
+    "s38",
+    "s79",
+    "s17",
+    "s93",
+    "s97",
+    "s100",
+    "s77",
+    "s105",
+    "s10",
+    "s12",
+    "s22",
+    "s23",
+    "s24",
+    "s46",
+    "s62",
+    "s91"
+  ],
+  "fields_complete_25": true
+}

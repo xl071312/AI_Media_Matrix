@@ -1,0 +1,1143 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7626712180183908910",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7626712180183908910/",
+  "source_sha256": "4105582f545cbc76cf2b8314707975011cccbdeeb4fd9fbd3815b6c8d105872e",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 70,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 20,
+      "snippet": "就我都不明白罗技这么大一家做硬件的公司。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "干嘛天天要在自媒体上整活？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 34,
+      "snippet": "大家可以先看一下新闻，罗技第一时间道歉，可见他们也知道这个东西不行。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "（新闻截图来自极目新闻）"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 16,
+      "snippet": "这个新闻你是不是觉得已经看过了？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 21,
+      "snippet": "别急，在上一次被收拾之后，还有全新的整活。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 19,
+      "snippet": "（图片来自小红书账号罗技G官方旗舰店）"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 20,
+      "snippet": "就太厉害了，都不知道这里面是怎么思考的。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 21,
+      "snippet": "只能说是反复证明了我在4年前就提出的观点。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "大厂压根就不该试图做新媒体内容。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "你没看错，不是怎么做，而是就不该做。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 23,
+      "snippet": "甚至就俩星期前，我都重复说了大厂不要做内容了。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 28,
+      "snippet": "当时还有很多人说我不懂，我都笑了，见过这么快的回旋镖吗？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 33,
+      "snippet": "大厂新媒体账号的唯一出路，就是发券，打折，促销，说吉祥话以及捐钱。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 30,
+      "snippet": "如果实在就想做内容，那就找好看的小哥哥小姐姐穿黑丝就可以了。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 88,
+      "snippet": "当然，黑丝是一个指代，白丝肉丝紫丝都可以，猛男爆衣，赤膊跳舞，腹肌魅力，鸭鸭油腻"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 16,
+      "snippet": "为什么说大厂做新媒体必须这么做？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 20,
+      "snippet": "因为大厂做新媒体这件事情本身，就很荒诞。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "没啥收益，全是风险。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 32,
+      "snippet": "观众对于【个人形象】的账号和【公司形象】的账号，要求是不一样的。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 14,
+      "snippet": "很多话，个人账号说了叫玩梗。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "公司账号说了叫找事儿。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 34,
+      "snippet": "哪怕这个公司账号的发布者只是一个个人，但对外这就是代表公司对外发声。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "这怎么做？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 26,
+      "snippet": "做好了没好处，说错一句话等于代表公司在公众场合乱来。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 28,
+      "snippet": "哪怕只是编辑手一抖甚至忘了切号了，就要整个公司付出代价。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "发现这事儿荒诞处之处没有？"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 41,
+      "snippet": "大厂几亿几十个亿的商誉，就攥在月薪不高的小编手里，安全绳是完全不懂内容的中层老板"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "哦不对，他们都看不懂梗。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "安全全看小编今天心情。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 44,
+      "snippet": "甚至在探讨内容的时候，你都不知道这个小编被几个不懂内容的老板怎么折腾过，是不是一"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 14,
+      "snippet": "然后一想太委屈，突然的自我。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 39,
+      "snippet": "半夜直接上号，发点不该发的东西解解压，点赞点不该点赞的东西，你大厂根本拦不住。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 35,
+      "snippet": "而在市场眼中，这不是个人行为，这就是公司行为，谁让是你公司账号发的呢？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 19,
+      "snippet": "第二天早上经理起床一看不好，要迟到了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 25,
+      "snippet": "又一看手机，放心了，不怕迟到了，因为工作已经没了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "关键，这个东西咋风控？"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 38,
+      "snippet": "没法风控，甚至有时候你都找不到负责人，弄不好是AI直接爬取网络梗改改就发了。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 24,
+      "snippet": "而很多梗，用户可以玩，作为品牌账号，碰都不该碰。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 10,
+      "snippet": "但小编不会在乎这个。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 83,
+      "snippet": "AI更不在乎，我是AI不服你弄我服务器啊略略略略略略略略略略略略略略略略略略略略"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 54,
+      "snippet": "再说一遍，这个账号是大厂的发声出口，直接代表了大厂的形象，说出来的话代表了大厂的"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 26,
+      "snippet": "这不是不爆雷的问题，是只要你做了，就怎么爆雷的问题。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "普通账号爆了就爆了。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 26,
+      "snippet": "品牌的雷爆了，大家几个大促不买，闹不好要上征信报告。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "难，太难了。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 15,
+      "snippet": "所以大厂宣发的思路应该是什么？"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 37,
+      "snippet": "要么发券，要么说吉利话，要么就别说话，找好看的小哥哥小姐姐展示好看就好了。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 54,
+      "snippet": "实在闲着没事儿钱多的花不完，就给电视电台钱，给传统媒体钱，给自媒体钱，给代言人钱"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "让他们去整活。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 46,
+      "snippet": "花点，花点钱，人家真的是专业搞这个的，比大厂的不懂内容只知道折腾执行层员工的经理"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 17,
+      "snippet": "这不仅仅是需求交接，更是风险切割。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 46,
+      "snippet": "你花钱做甲方，出了问题那甲方是受害者，就算翻了车，及时出来宣布终止合作，骂也骂不"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 17,
+      "snippet": "非得自己下场，出了问题就自己受着。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "这不是，找事儿么。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 12,
+      "snippet": "而且还找了两回，太6了。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 25,
+      "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "开骂式不解：罗技这么大硬件公司干嘛天天自媒体整活，先甩道歉新闻再预告还有全新整活。",
+      "patterns": [
+        "不解开骂",
+        "道歉新闻钩",
+        "还有整活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就我都不明白罗技这么大一家做硬件的公司。",
+          "note": "都不明白"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "干嘛天天要在自媒体上整活？",
+          "note": "干嘛整活"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "大家可以先看一下新闻，罗技第一时间道歉，可见他们也知道这个东西不行。",
+          "note": "第一时间道歉"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "别急，在上一次被收拾之后，还有全新的整活。",
+          "note": "全新整活"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "大厂不该做新媒体→唯一出路发券促销吉祥话/黑丝指代→个人vs公司账号标准不同→商誉攥小编手里无法风控→爆雷必然→应外包宣发做风险切割。",
+      "patterns": [
+        "不该做",
+        "出路清单",
+        "账号双标",
+        "风控不能",
+        "外包切割"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "大厂压根就不该试图做新媒体内容。",
+          "note": "不该做内容"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "大厂新媒体账号的唯一出路，就是发券，打折，促销，说吉祥话以及捐钱。",
+          "note": "发券打折"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "很多话，个人账号说了叫玩梗。",
+          "note": "个人玩梗"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "公司账号说了叫找事儿。",
+          "note": "公司找事儿"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这不是不爆雷的问题，是只要你做了，就怎么爆雷的问题。",
+          "note": "怎么爆雷"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这不仅仅是需求交接，更是风险切割。",
+          "note": "风险切割"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "整活案例钩",
+          "note": "道歉与再整活证明观点"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "出路与荒诞",
+          "note": "发券黑丝与收益风险"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "风控崩坏",
+          "note": "小编商誉与AI梗"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70"
+          ],
+          "function": "外包切割收",
+          "note": "宣发外包与再翻车嘲讽"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「别急」「当然」「关键」「再说一遍」「所以」把吐槽拧成论证。",
+      "patterns": [
+        "别急",
+        "关键",
+        "再说一遍",
+        "所以"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "别急，在上一次被收拾之后，还有全新的整活。",
+          "note": "别急"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "关键，这个东西咋风控？",
+          "note": "关键咋风控"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "再说一遍，这个账号是大厂的发声出口，直接代表了大厂的形象，说出来的话代表了大厂的",
+          "note": "再说一遍"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "所以大厂宣发的思路应该是什么？",
+          "note": "所以思路"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "个人账号玩梗 vs 公司账号找事儿；做好没好处 vs 说错代表公司；品牌雷 vs 普通号爆了就爆了；自己下场 vs 花钱做甲方。",
+      "patterns": [
+        "玩梗vs找事儿",
+        "收益风险不对称",
+        "甲乙方切割"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "很多话，个人账号说了叫玩梗。",
+          "note": "玩梗"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "公司账号说了叫找事儿。",
+          "note": "找事儿"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "做好了没好处，说错一句话等于代表公司在公众场合乱来。",
+          "note": "做好没好处"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "你花钱做甲方，出了问题那甲方是受害者，就算翻了车，及时出来宣布终止合作，骂也骂不",
+          "note": "甲方受害者"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连环反问「干嘛整活」「是不是看过了」「这怎么做」「荒诞处没有」「咋风控」「宣发思路应该是什么」。",
+      "patterns": [
+        "不解反问",
+        "风控问",
+        "思路问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "干嘛天天要在自媒体上整活？",
+          "note": "干嘛整活"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "这个新闻你是不是觉得已经看过了？",
+          "note": "看过了吗"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "这怎么做？",
+          "note": "这怎么做"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "关键，这个东西咋风控？",
+          "note": "咋风控"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "所以大厂宣发的思路应该是什么？",
+          "note": "思路应该是"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "罗技道歉与小红书再整活；经理起床迟到变失业喜剧；AI「略略略杂鱼」拟声例。",
+      "patterns": [
+        "罗技双案例",
+        "经理失业段",
+        "AI杂鱼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "大家可以先看一下新闻，罗技第一时间道歉，可见他们也知道这个东西不行。",
+          "note": "道歉"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "（图片来自小红书账号罗技G官方旗舰店）",
+          "note": "小红书官号"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "第二天早上经理起床一看不好，要迟到了。",
+          "note": "经理起床"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "AI更不在乎，我是AI不服你弄我服务器啊略略略略略略略略略略略略略略略略略略略略",
+          "note": "略略略杂鱼"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "商誉风险落到「月薪不高小编+不懂梗中层」；黑丝扩成白丝猛男扫地舞等可刷形式清单。",
+      "patterns": [
+        "小编中层具象",
+        "丝袜主题清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "大厂几亿几十个亿的商誉，就攥在月薪不高的小编手里，安全绳是完全不懂内容的中层老板",
+          "note": "商誉攥小编"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "当然，黑丝是一个指代，白丝肉丝紫丝都可以，猛男爆衣，赤膊跳舞，腹肌魅力，鸭鸭油腻",
+          "note": "黑丝指代清单"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "斩钉「压根不该做」「不是怎么做而是不该做」「没法风控」「太6了」。",
+      "patterns": [
+        "不该做斩钉",
+        "没法风控",
+        "太6嘲讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "大厂压根就不该试图做新媒体内容。",
+          "note": "压根不该"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "你没看错，不是怎么做，而是就不该做。",
+          "note": "不是怎么做"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "没法风控，甚至有时候你都找不到负责人，弄不好是AI直接爬取网络梗改改就发了。",
+          "note": "没法风控"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而且还找了两回，太6了。",
+          "note": "太6了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「哦不对，他们都看不懂梗」修正安全绳假设；黑丝声明是指代可扩主题。",
+      "patterns": [
+        "哦不对修正",
+        "指代澄清"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "哦不对，他们都看不懂梗。",
+          "note": "哦不对看不懂梗"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "当然，黑丝是一个指代，白丝肉丝紫丝都可以，猛男爆衣，赤膊跳舞，腹肌魅力，鸭鸭油腻",
+          "note": "黑丝是指代"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短骂句→截图插入顿挫→论点锤→荒诞段加速喜剧→外包方案中速→翻车两回短嘲收。",
+      "patterns": [
+        "截图顿挫",
+        "荒诞加速",
+        "短嘲收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就我都不明白罗技这么大一家做硬件的公司。",
+          "note": "短骂"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "又一看手机，放心了，不怕迟到了，因为工作已经没了。",
+          "note": "工作没了"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而且还找了两回，太6了。",
+          "note": "两回太6"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "恼怒不解→得意回旋镖→荒诞愤怒→黑色幽默→给方案时的恨铁不成钢。",
+      "patterns": [
+        "回旋镖得意",
+        "荒诞怒",
+        "恨铁不成钢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "当时还有很多人说我不懂，我都笑了，见过这么快的回旋镖吗？",
+          "note": "回旋镖"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "因为大厂做新媒体这件事情本身，就很荒诞。",
+          "note": "很荒诞"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "这不是，找事儿么。",
+          "note": "找事儿么"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头骂整活，结尾「找了两回太6」闭环案例，并落到风险切割方案。",
+      "patterns": [
+        "两回整活闭环",
+        "方案收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "别急，在上一次被收拾之后，还有全新的整活。",
+          "note": "全新整活"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这不仅仅是需求交接，更是风险切割。",
+          "note": "风险切割"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "而且还找了两回，太6了。",
+          "note": "两回太6"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬粉CTA，方案本身即行动号召：发券/外包/别下场。",
+      "patterns": [
+        "方案即CTA",
+        "别下场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "要么发券，要么说吉利话，要么就别说话，找好看的小哥哥小姐姐展示好看就好了。",
+          "note": "发券吉利话"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "实在闲着没事儿钱多的花不完，就给电视电台钱，给传统媒体钱，给自媒体钱，给代言人钱",
+          "note": "给自媒体钱"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "四年前观点自证、回旋镖梗、经理失业段子、AI杂鱼拟声、图片截取自标题重复插入。",
+      "patterns": [
+        "自证旧观点",
+        "失业段子",
+        "杂鱼拟声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "只能说是反复证明了我在4年前就提出的观点。",
+          "note": "4年前观点"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "又一看手机，放心了，不怕迟到了，因为工作已经没了。",
+          "note": "工作没了"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "AI更不在乎，我是AI不服你弄我服务器啊略略略略略略略略略略略略略略略略略略略略",
+          "note": "杂鱼"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "大量「图片截取自」噪声句；黑丝指代可能冒犯；论证偏逸闻缺罗技财务/舆情数据。",
+      "patterns": [
+        "截图噪声",
+        "冒犯风险",
+        "缺数据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "图片截取自: 罗技别研究新媒体了，抓紧去研究黑丝吧",
+          "note": "图片截取噪声"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "如果实在就想做内容，那就找好看的小哥哥小姐姐穿黑丝就可以了。",
+          "note": "黑丝建议"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "没啥收益，全是风险。",
+          "note": "没啥收益断言"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「唯一出路」推理：双标账号→商誉错配→无法风控→必然爆雷→外包切割。",
+      "patterns": [
+        "双标推理",
+        "必然爆雷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "观众对于【个人形象】的账号和【公司形象】的账号，要求是不一样的。",
+          "note": "要求不一样"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这不是不爆雷的问题，是只要你做了，就怎么爆雷的问题。",
+          "note": "怎么爆雷"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这不仅仅是需求交接，更是风险切割。",
+          "note": "风险切割"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当懂梗路人与曾质疑作者的人，用「你没看错」「我相信你日常没少刷」拉同盟。",
+      "patterns": [
+        "懂梗同盟",
+        "打脸质疑者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "你没看错，不是怎么做，而是就不该做。",
+          "note": "你没看错"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "当时还有很多人说我不懂，我都笑了，见过这么快的回旋镖吗？",
+          "note": "说我不懂"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "当然，黑丝是一个指代，白丝肉丝紫丝都可以，猛男爆衣，赤膊跳舞，腹肌魅力，鸭鸭油腻",
+          "note": "没少刷"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "罗技道歉新闻、小红书罗技G店、四年前观点、两周前复述、发券黑丝清单。",
+      "patterns": [
+        "罗技新闻",
+        "官号",
+        "旧观点时间锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "大家可以先看一下新闻，罗技第一时间道歉，可见他们也知道这个东西不行。",
+          "note": "道歉"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "（图片来自小红书账号罗技G官方旗舰店）",
+          "note": "罗技G店"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "甚至就俩星期前，我都重复说了大厂不要做内容了。",
+          "note": "俩星期前"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "案例低密吐槽→核心论点中密→风控荒诞高密段子→方案中密→嘲讽低密收。",
+      "patterns": [
+        "荒诞段峰值",
+        "方案中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "大厂几亿几十个亿的商誉，就攥在月薪不高的小编手里，安全绳是完全不懂内容的中层老板",
+          "note": "商誉峰值"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "要么发券，要么说吉利话，要么就别说话，找好看的小哥哥小姐姐展示好看就好了。",
+          "note": "方案"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短疑问→新闻插入→锤论点→并列清单→情景短句喜剧→所以方案。",
+      "patterns": [
+        "短问锤点",
+        "清单",
+        "情景喜剧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "大厂压根就不该试图做新媒体内容。",
+          "note": "锤点"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "大厂新媒体账号的唯一出路，就是发券，打折，促销，说吉祥话以及捐钱。",
+          "note": "出路并列"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "第二天早上经理起床一看不好，要迟到了。",
+          "note": "情景"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毒舌内容顾问人设：敢判死刑「不该做」，用冒犯幽默压大厂体面。",
+      "patterns": [
+        "死刑判词",
+        "冒犯幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "你没看错，不是怎么做，而是就不该做。",
+          "note": "不该做"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "当然，黑丝是一个指代，白丝肉丝紫丝都可以，猛男爆衣，赤膊跳舞，腹肌魅力，鸭鸭油腻",
+          "note": "黑丝指代"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "大厂不该做内容、玩梗/找事儿对仗、商誉攥小编、风险切割四记。",
+      "patterns": [
+        "不该做",
+        "玩梗找事儿",
+        "小编商誉",
+        "风险切割"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "大厂压根就不该试图做新媒体内容。",
+          "note": "不该做"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "很多话，个人账号说了叫玩梗。",
+          "note": "玩梗"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "大厂几亿几十个亿的商誉，就攥在月薪不高的小编手里，安全绳是完全不懂内容的中层老板",
+          "note": "攥小编"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这不仅仅是需求交接，更是风险切割。",
+          "note": "切割"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "品牌账号双标+风险切割框架可改编观宇品牌传播口播，需去冒犯梗并补案例数据。",
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "很多话，个人账号说了叫玩梗。",
+          "note": "玩梗"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "大厂几亿几十个亿的商誉，就攥在月薪不高的小编手里，安全绳是完全不懂内容的中层老板",
+          "note": "小编"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这不仅仅是需求交接，更是风险切割。",
+          "note": "切割"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s4",
+    "s8",
+    "s13",
+    "s19",
+    "s28",
+    "s29",
+    "s54",
+    "s65",
+    "s1",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,3388 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_EWlpe77QFkA",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=EWlpe77QFkA",
+  "source_sha256": "f6f0ea09d45849103b8333b8de836eed1bf17f26b11341946fdadfde37dbcd95",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 485,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "为了能随地大小坐"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "我们做了一把"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "会跟人的椅子"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "我每天都要和"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "很多同事沟通工作"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "但工作室不是哪里"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "都有多的椅子"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "为了省事儿"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "我想直接坐在"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "垃圾桶上"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 2,
+      "snippet": "但是"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "哈哈 傻儿子"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "哈哈哈哈哈哈"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "要是椅子"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 7,
+      "snippet": "能跟着我就好了"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "我走到哪 它跟到哪"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "这样我就可以"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "随地大小坐了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "想让椅子走起来"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 3,
+      "snippet": "并不难"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "只要给它换上一套"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "带有电机和电池的底盘就可以"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 4,
+      "snippet": "但想让它"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "跟着我一起走"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 5,
+      "snippet": "就得做一些"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "小小的改动"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "这是一个"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "超宽带无线发射器"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "在椅子和人上"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 4,
+      "snippet": "各放一个"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "通过解算这些信号"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "我们就能算出"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "两者之间的距离和朝向"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "长按按钮"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "里面的单片机"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 5,
+      "snippet": "把控制命令"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "发送给椅子"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 4,
+      "snippet": "它就可以"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "一直跟着我啦"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 3,
+      "snippet": "但总有"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "忘带上椅子的情况"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "这时只需要"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 4,
+      "snippet": "短按按钮"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "椅子就被召唤过来了"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "之所以能做到这一点"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "是因为椅子上"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "装了激光雷达"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 8,
+      "snippet": "配合SLAM技术"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "就能获得工作室的"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "3D地图"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "再放置八个超宽带基站"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 4,
+      "snippet": "实时定位"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 11,
+      "snippet": "按钮在这张地图里的位置"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 4,
+      "snippet": "有了地图"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "也知道目标"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "它就能自己规划路线"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "绕开障碍"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "走到我身后"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 7,
+      "snippet": "我就有了自己的"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "雷神之椅"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 4,
+      "snippet": "而当椅子"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "可以自动导航了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "再给按钮加上"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "语音功能"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 4,
+      "snippet": "我就可以"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 2,
+      "snippet": "小椅"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 2,
+      "snippet": "干啥"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "去帮我拿杯水"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 12,
+      "snippet": "我们改装了一个自动售货机"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 7,
+      "snippet": "让椅子可以帮我"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "拿瓶水或者小零食回来"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "但用这个功能时"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 2,
+      "snippet": "小椅"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 2,
+      "snippet": "干啥"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 4,
+      "snippet": "去拿瓶水"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "千万不要忘了站起来"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "既然椅子能走"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 5,
+      "snippet": "那我的工位"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "是不是也能跟着走呢"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 10,
+      "snippet": "所以我们做了这个挂车"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "可以被椅子拖着"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 6,
+      "snippet": "在工作室里走"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "只要按下这里"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "两块白板就会升起来"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "内部空间也会展开"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 6,
+      "snippet": "里面是一整个"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "移动办公空间"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 5,
+      "snippet": "有各种零食"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 3,
+      "snippet": "小桌板"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 5,
+      "snippet": "还有小冰箱"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 8,
+      "snippet": "方便我在工作室的"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 4,
+      "snippet": "各个位置"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "认真写稿"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 8,
+      "snippet": "用来当屋顶的白板"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 10,
+      "snippet": "还能方便我们开会讨论"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 6,
+      "snippet": "如果讨论久了"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 10,
+      "snippet": "想请大家喝杯奶茶提神"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 7,
+      "snippet": "也完全不用动手"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 4,
+      "snippet": "你好千问"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 2,
+      "snippet": "在呢"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 5,
+      "snippet": "上次的奶茶"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 8,
+      "snippet": "再点四杯到工作室"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 6,
+      "snippet": "我现在戴着的"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 10,
+      "snippet": "就是千问AI眼镜S1"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 10,
+      "snippet": "它深度接入了阿里生态"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 7,
+      "snippet": "还能以第一视角"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 7,
+      "snippet": "沉浸式拍摄视频"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "你好千问 这是什么猫"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 13,
+      "snippet": "最重要的是它的重量分布均衡"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 7,
+      "snippet": "戴起来足够舒适"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 8,
+      "snippet": "就像普通眼镜那样"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 6,
+      "snippet": "可以长期佩戴"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "如果你不需要屏幕的话"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 13,
+      "snippet": "还可以看看这个千问眼镜G1"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 10,
+      "snippet": "它有7种镜片颜色可选"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 9,
+      "snippet": "能搭配各种户外场景"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 3,
+      "snippet": "接下来"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 6,
+      "snippet": "我们本来打算"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 11,
+      "snippet": "在这把椅子上叠更多功能"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 10,
+      "snippet": "给视频一个好玩的结尾"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 7,
+      "snippet": "就像我们过去的"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 7,
+      "snippet": "很多期视频一样"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 9,
+      "snippet": "但在做到一半的时候"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "我们收到了一封"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 5,
+      "snippet": "特别的邮件"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 8,
+      "snippet": "让这个项目的方向"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 5,
+      "snippet": "彻底改变了"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 6,
+      "snippet": "慧聪老师好啊"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 6,
+      "snippet": "诶 何同学好"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 2,
+      "snippet": "您好"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 8,
+      "snippet": "哇 终于见到您啦"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 7,
+      "snippet": "太高兴啦 是啊"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 6,
+      "snippet": "你好 何同学"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 6,
+      "snippet": "我今年40岁"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 6,
+      "snippet": "是您的老粉丝"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 8,
+      "snippet": "我不幸2024年"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 7,
+      "snippet": "因车祸颈椎受伤"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "造成高位截瘫"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 8,
+      "snippet": "至今四肢无法活动"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 8,
+      "snippet": "希望得到您的帮助"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 6,
+      "snippet": "24年的8月"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 7,
+      "snippet": "正好在暑假期间"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 9,
+      "snippet": "我们去内蒙古旅游嘛"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 8,
+      "snippet": "在草原上骑了一个"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 9,
+      "snippet": "油动的这个四轮摩托"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 4,
+      "snippet": "速度很快"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 5,
+      "snippet": "骑到那以后"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 8,
+      "snippet": "整个四轮摩托翻了"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 6,
+      "snippet": "摔倒的一瞬间"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 4,
+      "snippet": "我就听见"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 6,
+      "snippet": "我自己的脖子"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 6,
+      "snippet": "嘎 响了一声"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 8,
+      "snippet": "就是一瞬间的事情"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 6,
+      "snippet": "完全没有办法"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 6,
+      "snippet": "在事故发生后"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 5,
+      "snippet": "慧聪失去了"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 7,
+      "snippet": "控制四肢的能力"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 11,
+      "snippet": "早上 起床 洗漱 吃饭"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 6,
+      "snippet": "需要父母帮忙"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 10,
+      "snippet": "上午得把身体绑在床上"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 8,
+      "snippet": "用推杆慢慢站起来"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 8,
+      "snippet": "防止全身功能退化"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 8,
+      "snippet": "下午再做一次站床"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 5,
+      "snippet": "连脸上痒了"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 4,
+      "snippet": "想挠一下"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 6,
+      "snippet": "都得开口求人"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 10,
+      "snippet": "而在观察慧聪的一天时"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 8,
+      "snippet": "有一点让我们震惊"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 10,
+      "snippet": "虽然他的手完全动不了"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 9,
+      "snippet": "却可以快速操纵电脑"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 7,
+      "snippet": "这是因为他自己"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 8,
+      "snippet": "做了一套头控鼠标"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 8,
+      "snippet": "耳朵上挂着传感器"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 6,
+      "snippet": "记录头部转动"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 9,
+      "snippet": "实时转换成鼠标移动"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 6,
+      "snippet": "嘴里咬着一个"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 7,
+      "snippet": "带按钮的橡胶套"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 4,
+      "snippet": "负责点击"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 3,
+      "snippet": "就这样"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 7,
+      "snippet": "慧聪可以自如地"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 7,
+      "snippet": "刷视频 玩游戏"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 6,
+      "snippet": "甚至画电路板"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 8,
+      "snippet": "这套系统还集成了"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 4,
+      "snippet": "语音控制"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 7,
+      "snippet": "如果你想从电脑"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 5,
+      "snippet": "切换到手机"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 6,
+      "snippet": "只需要说一句"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 4,
+      "snippet": "头控鼠标"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 2,
+      "snippet": "我在"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 6,
+      "snippet": "切换到设备1"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 5,
+      "snippet": "这个编程呀"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 7,
+      "snippet": "还有什么电路呀"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 9,
+      "snippet": "这个是您自己学的吗"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 7,
+      "snippet": "对 我原来就是"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 4,
+      "snippet": "搞开发的"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 7,
+      "snippet": "受伤之前一直做"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 8,
+      "snippet": "无人机相关的产业"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 11,
+      "snippet": "软件 硬件 结构这一块"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 7,
+      "snippet": "都有一定的了解"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 5,
+      "snippet": "我感觉这个"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 10,
+      "snippet": "脊髓损伤也都是小问题"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 8,
+      "snippet": "我们只是碳基生物"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 8,
+      "snippet": "我们要是硅基生物"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 10,
+      "snippet": "如果是一个机械的设备"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 6,
+      "snippet": "我自己就修了"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 4,
+      "snippet": "在沟通后"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 10,
+      "snippet": "我们明白了慧聪的需求"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 7,
+      "snippet": "他希望我们可以"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 9,
+      "snippet": "帮助他用头上的设备"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 4,
+      "snippet": "控制轮椅"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 12,
+      "snippet": "还能在几个常去的地点之间"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 6,
+      "snippet": "实现自主移动"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 12,
+      "snippet": "而这不仅是他一个人的事情"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 4,
+      "snippet": "在他背后"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 5,
+      "snippet": "是整个家庭"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 9,
+      "snippet": "当时是这个儿媳妇吧"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 5,
+      "snippet": "打了电话说"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 10,
+      "snippet": "妈妈 那个慧聪出事了"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 7,
+      "snippet": "当时我腿都软了"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 9,
+      "snippet": "做了全面的检查以后"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 4,
+      "snippet": "医生就说"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 7,
+      "snippet": "不会再站起来了"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 6,
+      "snippet": "这个医生的话"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 10,
+      "snippet": "使我这个心里非常难过"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 7,
+      "snippet": "我在这个医院里"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 3,
+      "snippet": "走廊里"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 6,
+      "snippet": "我大哭了一场"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 9,
+      "snippet": "但对于慧聪一家来说"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 5,
+      "snippet": "真正困难的"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 8,
+      "snippet": "是出院之后的生活"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 7,
+      "snippet": "慧聪每天都需要"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 5,
+      "snippet": "做两次站床"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 9,
+      "snippet": "但是父母年龄都大了"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 9,
+      "snippet": "这个步骤愈发地困难"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 5,
+      "snippet": "所以一年前"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 6,
+      "snippet": "他们家斥巨资"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 4,
+      "snippet": "买了一个"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 8,
+      "snippet": "能自动站床的轮椅"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 5,
+      "snippet": "真正用起来"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 8,
+      "snippet": "新的难题又出现了"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 6,
+      "snippet": "每天需要穿过"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 8,
+      "snippet": "十几次狭窄的门框"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 6,
+      "snippet": "家里空间有限"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 6,
+      "snippet": "每次推出推入"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 11,
+      "snippet": "都需要父母费力调整角度"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 6,
+      "snippet": "而且电动轮椅"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 8,
+      "snippet": "体积和自重都很大"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 9,
+      "snippet": "不如普通轮椅好操控"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 2,
+      "snippet": "结果"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 13,
+      "snippet": "这个承载了一家人希望的轮椅"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 3,
+      "snippet": "吃灰了"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 8,
+      "snippet": "可是 买回来以后"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 7,
+      "snippet": "现实又给了我们"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 5,
+      "snippet": "沉重的一击"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 13,
+      "snippet": "全家人又笼罩在这个愁绪当中"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 6,
+      "snippet": "这也是为什么"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 16,
+      "snippet": "慧聪想让我们可以把它改成自动驾驶"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 5,
+      "snippet": "我也在担心"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 7,
+      "snippet": "当我们老的时候"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 6,
+      "snippet": "或躺下的时候"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 6,
+      "snippet": "谁来管儿子啊"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 7,
+      "snippet": "儿子怎么生活啊"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 6,
+      "snippet": "儿子怎么办呀"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 7,
+      "snippet": "每当想起来这个"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 8,
+      "snippet": "我就觉得挺难过的"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 8,
+      "snippet": "这句话我始终没有"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 6,
+      "snippet": "给儿子说过吧"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 6,
+      "snippet": "在采访结束后"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 9,
+      "snippet": "我们团队陷入了沉默"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 9,
+      "snippet": "在收到慧聪的来信前"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 10,
+      "snippet": "我们的自动导航办公椅"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 8,
+      "snippet": "已经推进了几个月"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 10,
+      "snippet": "我们做这个项目的初衷"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 14,
+      "snippet": "和我们做大多数DIY项目一样"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 11,
+      "snippet": "为了解决生活中的小麻烦"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 9,
+      "snippet": "为了拍到有趣的画面"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 11,
+      "snippet": "为了做一个有意思的视频"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 4,
+      "snippet": "但这一次"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 14,
+      "snippet": "我们必须得把这个项目做到最好"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 8,
+      "snippet": "因为我们真的可以"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 8,
+      "snippet": "改变一个人的生活"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 9,
+      "snippet": "用头控制轮椅的移动"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 6,
+      "snippet": "乍一听很简单"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 3,
+      "snippet": "在头上"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 8,
+      "snippet": "挂一个角度传感器"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 7,
+      "snippet": "低头就是往前走"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 7,
+      "snippet": "抬头就是往后走"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 8,
+      "snippet": "左右转头控制方向"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 5,
+      "snippet": "前后还好说"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 8,
+      "snippet": "但是左右转会碰到"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 9,
+      "snippet": "一个灾难性的BUG"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 7,
+      "snippet": "当你坐在轮椅上"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 4,
+      "snippet": "往左转头"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 8,
+      "snippet": "轮椅接收到信号后"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 5,
+      "snippet": "也会往左转"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 5,
+      "snippet": "但轮椅一转"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 7,
+      "snippet": "又会带动你的头"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 9,
+      "snippet": "也跟着进一步往左偏"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 7,
+      "snippet": "这就变成了一个"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 11,
+      "snippet": "左脚踩右脚上天的死循环"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 7,
+      "snippet": "轮椅会越转越快"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 5,
+      "snippet": "像陀螺一样"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 6,
+      "snippet": "根本停不下来"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 10,
+      "snippet": "有一个简单的办法就是"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 7,
+      "snippet": "把转头改成偏头"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 6,
+      "snippet": "这样就不会受"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 8,
+      "snippet": "轮椅自转的影响了"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 7,
+      "snippet": "但是慧聪的颈椎"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 4,
+      "snippet": "受伤严重"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 9,
+      "snippet": "偏头角度稍微大一点"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 6,
+      "snippet": "就会非常痛苦"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 10,
+      "snippet": "所以我们在轮椅底盘上"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 11,
+      "snippet": "加了一个高精度的陀螺仪"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 2,
+      "snippet": "这样"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 4,
+      "snippet": "在移动时"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 13,
+      "snippet": "就可以用慧聪头部的角度变化"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 11,
+      "snippet": "减去轮椅底盘的角度变化"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 4,
+      "snippet": "只识别他"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 10,
+      "snippet": "真正想要做的头部动作"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 7,
+      "snippet": "让他可以自如的"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 6,
+      "snippet": "操控轮椅转弯"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 5,
+      "snippet": "头控搞定了"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 5,
+      "snippet": "接下来就是"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 4,
+      "snippet": "自主导航"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 8,
+      "snippet": "我们把办公椅上的"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 4,
+      "snippet": "激光雷达"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 9,
+      "snippet": "也放到了这个轮椅上"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 14,
+      "snippet": "让它具备了基本的室内导航能力"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 6,
+      "snippet": "但在慧聪家里"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 4,
+      "snippet": "这套算法"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 10,
+      "snippet": "碰到了一个巨大的障碍"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 4,
+      "snippet": "这个窄门"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 7,
+      "snippet": "我们试了很多次"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 10,
+      "snippet": "每一次都差那么一点点"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 20,
+      "snippet": "因为轮椅没办法完美地按照算法规划的路径走"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 6,
+      "snippet": "后来我们发现"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 3,
+      "snippet": "过窄门"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 7,
+      "snippet": "有一个核心逻辑"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 11,
+      "snippet": "必须在离门还很远的时候"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 7,
+      "snippet": "就把轮椅和门框"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 4,
+      "snippet": "完全对准"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 13,
+      "snippet": "才能留出足够的空间穿梭过去"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 4,
+      "snippet": "所以最后"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 7,
+      "snippet": "我们换了个办法"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 7,
+      "snippet": "我们人工精准地"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 8,
+      "snippet": "开着它过了一次门"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 5,
+      "snippet": "学习下轨迹"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 7,
+      "snippet": "然后再微调参数"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 14,
+      "snippet": "让轮椅可以将这个轨迹作为参考"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 2,
+      "snippet": "终于"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 7,
+      "snippet": "在经过了很多天"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 7,
+      "snippet": "熬夜地调参之后"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 4,
+      "snippet": "这台轮椅"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 10,
+      "snippet": "能稳稳地穿过那扇门了"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 4,
+      "snippet": "慧聪老师"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 10,
+      "snippet": "那我们要不现在试一下"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 6,
+      "snippet": "改装好的轮椅"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 11,
+      "snippet": "好啊好啊 太期待了真是"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 3,
+      "snippet": "来来来"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 4,
+      "snippet": "慧聪老师"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 8,
+      "snippet": "按住您嘴里的按钮"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 9,
+      "snippet": "然后低头就是往前走"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 9,
+      "snippet": "然后仰头就是往后走"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 6,
+      "snippet": "往左就是左转"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 6,
+      "snippet": "往右就是右转"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 7,
+      "snippet": "您可以体验一下"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 6,
+      "snippet": "哇 太方便了"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 7,
+      "snippet": "好久没有体验到"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 8,
+      "snippet": "自由驾驶的感觉了"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 6,
+      "snippet": "好 慧聪老师"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 14,
+      "snippet": "我们现在再试一下它的导航功能"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 8,
+      "snippet": "您就说导航到餐桌"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 9,
+      "snippet": "然后摁住嘴里的按钮"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 5,
+      "snippet": "其实就可以"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 8,
+      "snippet": "好的 我来试一下"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 4,
+      "snippet": "头控鼠标"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 2,
+      "snippet": "我在"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 5,
+      "snippet": "导航到餐桌"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 4,
+      "snippet": "哦开始啦"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 6,
+      "snippet": "它自己在走哦"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 12,
+      "snippet": "现在到了这个最难的地方了"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 6,
+      "snippet": "这里这么狭窄"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 5,
+      "snippet": "它能过去吗"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 5,
+      "snippet": "已经过去了"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 3,
+      "snippet": "稳稳的"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 4,
+      "snippet": "哇太棒了"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 7,
+      "snippet": "真真的自动驾驶"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 8,
+      "snippet": "到室内的自动驾驶"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 10,
+      "snippet": "您要是想回办公桌的话"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 4,
+      "snippet": "您就再说"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 6,
+      "snippet": "导航回办公桌"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 4,
+      "snippet": "哦 是吗"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 6,
+      "snippet": "您可以试一下"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 2,
+      "snippet": "好嘞"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 5,
+      "snippet": "我来试一下"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 4,
+      "snippet": "头控鼠标"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 1,
+      "snippet": "在"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 6,
+      "snippet": "切换到设备3"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 10,
+      "snippet": "现在您就可以用电脑了"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 1,
+      "snippet": "对"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 9,
+      "snippet": "我看您确实是怎么说"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 7,
+      "snippet": "已经非常熟练了"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 5,
+      "snippet": "那您有什么"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 9,
+      "snippet": "现在想开到的地方吗"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 11,
+      "snippet": "我们要不去院子里试一试"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 6,
+      "snippet": "可以呀可以呀"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 10,
+      "snippet": "走走走 开出去试一试"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 8,
+      "snippet": "想去哪里就去哪里"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 6,
+      "snippet": "久违的感觉呀"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 4,
+      "snippet": "慧聪老师"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 15,
+      "snippet": "您这是第一次自己出来吧这个得是"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 2,
+      "snippet": "真是"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 8,
+      "snippet": "可以到外面去兜风"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 6,
+      "snippet": "呀我太激动了"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 6,
+      "snippet": "太好啦太好啦"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 12,
+      "snippet": "我们非常高兴能帮助到大家"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 4,
+      "snippet": "春风拂面"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 4,
+      "snippet": "万事如意"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 5,
+      "snippet": "心情很好呀"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 10,
+      "snippet": "刚操纵这个轮椅的时候"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 7,
+      "snippet": "第一反应是什么"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 6,
+      "snippet": "第一反应真是"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 8,
+      "snippet": "原来靠脑袋的运动"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 8,
+      "snippet": "可以控制这个轮椅"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 4,
+      "snippet": "自由行进"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 8,
+      "snippet": "这样我就不用求人"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 5,
+      "snippet": "我想去哪里"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 6,
+      "snippet": "我自己动动头"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 6,
+      "snippet": "我就可以去了"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 7,
+      "snippet": "就可以做到很多"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 8,
+      "snippet": "以前做不到的事情"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 7,
+      "snippet": "对生活质的飞跃"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 10,
+      "snippet": "像我这样的人还有很多"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 7,
+      "snippet": "他们生活更艰难"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 3,
+      "snippet": "我希望"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 9,
+      "snippet": "我也能够帮助到他们"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 8,
+      "snippet": "也希望更多的团体"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 7,
+      "snippet": "更多的企业家们"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 7,
+      "snippet": "给予我们这群人"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 5,
+      "snippet": "更多的帮助"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 5,
+      "snippet": "那您还记得"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 13,
+      "snippet": "给我们发邮件那天在想什么吗"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 2,
+      "snippet": "哎呀"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 5,
+      "snippet": "记忆犹新呐"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 10,
+      "snippet": "我本身就是搞这些设计"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 6,
+      "snippet": "心里边怎么想"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 8,
+      "snippet": "怎么做是有想法的"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 10,
+      "snippet": "但是身边没有这样的人"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 7,
+      "snippet": "没法做做不出来"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 9,
+      "snippet": "求助咱们这个工作室"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 6,
+      "snippet": "过来帮助我们"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 5,
+      "snippet": "帮助特别大"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 8,
+      "snippet": "谢谢你 慧聪老师"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 9,
+      "snippet": "我们也非常的感谢您"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 12,
+      "snippet": "找到我们来做这样一个项目"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 8,
+      "snippet": "因为我们很多工作"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 8,
+      "snippet": "其实也在寻求意义"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 8,
+      "snippet": "比如我们很多项目"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 6,
+      "snippet": "一开始的时候"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 10,
+      "snippet": "其实确实就是为了整活"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 5,
+      "snippet": "为了做节目"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 9,
+      "snippet": "我刚才看到您在外面"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 8,
+      "snippet": "就是自己走的时候"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 4,
+      "snippet": "那么开心"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 13,
+      "snippet": "我们也找到了我们工作的意义"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 7,
+      "snippet": "所以非常感谢您"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 4,
+      "snippet": "联系我们"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 8,
+      "snippet": "然后也非常感谢您"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 10,
+      "snippet": "给我们挂了这个锦旗呀"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 9,
+      "snippet": "这个我们真是没想到"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 5,
+      "snippet": "这个没见过"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 7,
+      "snippet": "以前确实没见过"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 5,
+      "snippet": "非常感谢您"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 4,
+      "snippet": "慧聪老师"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 13,
+      "snippet": "这就是本期视频的全部内容啦"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 10,
+      "snippet": "非常感谢你能看到这里"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 8,
+      "snippet": "感谢千问AI眼镜"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 10,
+      "snippet": "对本期视频的大力支持"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 13,
+      "snippet": "也感谢鱼香ROS机器人团队"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 8,
+      "snippet": "为轮椅的导航方面"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 9,
+      "snippet": "提供了计算平台支持"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 14,
+      "snippet": "如果你有什么想让我们做的东西"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 10,
+      "snippet": "也欢迎投稿到这个邮箱"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 5,
+      "snippet": "再见朋友们"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「随地大小坐」谐音梗+做会跟人的椅子，垃圾桶坐失败笑点，立刻立跟随椅需求。",
+      "patterns": [
+        "随地大小坐谐音梗",
+        "垃圾桶笑点立需求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "会跟人的椅子",
+          "note": "会跟人的椅子"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "垃圾桶上",
+          "note": "垃圾桶上"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我走到哪 它跟到哪",
+          "note": "我走到哪它跟到哪"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "底盘电机易做→UWB跟随+短按召唤→激光雷达SLAM→（窗口跳）慧聪站床轮椅困境→改自动驾驶→意义与锦旗→投稿CTA。",
+      "patterns": [
+        "技术跟随链",
+        "真实需求跳转",
+        "意义收束CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "带有电机和电池的底盘就可以",
+          "note": "电机和电池的底盘"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "超宽带无线发射器",
+          "note": "超宽带无线发射器"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "装了激光雷达",
+          "note": "激光雷达"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "慧聪想让我们可以把它改成自动驾驶",
+          "note": "改成自动驾驶"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        },
+        {
+          "sentence_id": "s484",
+          "snippet": "也欢迎投稿到这个邮箱",
+          "note": "欢迎投稿"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "gag_need",
+          "note": "随地大小坐与跟随椅需求"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "tech_follow",
+          "note": "底盘+UWB跟随召唤"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s223"
+          ],
+          "function": "lidar_slam",
+          "note": "激光雷达SLAM地图"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261",
+            "s262",
+            "s456",
+            "s457",
+            "s458",
+            "s459",
+            "s460",
+            "s461",
+            "s462",
+            "s463",
+            "s464",
+            "s465"
+          ],
+          "function": "huicong_story",
+          "note": "慧聪站床轮椅困境与自动驾驶诉求"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s466",
+            "s467",
+            "s468",
+            "s469",
+            "s470",
+            "s471",
+            "s472",
+            "s473",
+            "s474",
+            "s475",
+            "s476",
+            "s477",
+            "s478",
+            "s479",
+            "s480",
+            "s481",
+            "s482",
+            "s483",
+            "s484",
+            "s485"
+          ],
+          "function": "meaning_cta",
+          "note": "意义锦旗感谢与投稿赞助CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但想让它跟着」「这时只需要」「之所以能做到」「真正困难的」「这也是为什么」任务推进。",
+      "patterns": [
+        "但想让它跟着",
+        "这时只需要",
+        "这也是为什么"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "但想让它",
+          "note": "但想让它跟着"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这时只需要",
+          "note": "这时只需要"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "之所以能做到这一点",
+          "note": "之所以能做到"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "这也是为什么",
+          "note": "这也是为什么"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "椅子走起来不难 vs 跟人要改动；整活节目动机 vs 真实助人意义；电动轮椅希望 vs 吃灰现实。",
+      "patterns": [
+        "走/跟人难度对比",
+        "整活/意义对比",
+        "希望/吃灰对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "并不难",
+          "note": "并不难"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "就得做一些",
+          "note": "就得做一些"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "吃灰了",
+          "note": "吃灰了"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "一开始就是为了整活"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不设完整教学问，以「要是椅子能跟着我就好了」愿望句代替设问驱动立项。",
+      "patterns": [
+        "愿望句代设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "能跟着我就好了",
+          "note": "能跟着我就好了"
+        },
+        {
+          "sentence_id": "s261",
+          "snippet": "谁来管儿子啊",
+          "note": "谁来管儿子啊"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "UWB收发算距离朝向；短按召唤；慧聪一日两次站床；窄门框十余次；锦旗致谢。",
+      "patterns": [
+        "UWB技术例",
+        "站床日常例",
+        "窄门框例",
+        "锦旗例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "超宽带无线发射器",
+          "note": "超宽带无线发射器"
+        },
+        {
+          "sentence_id": "s232",
+          "snippet": "做两次站床",
+          "note": "做两次站床"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "十几次狭窄的门框",
+          "note": "十几次狭窄的门框"
+        },
+        {
+          "sentence_id": "s469",
+          "snippet": "给我们挂了这个锦旗呀",
+          "note": "挂了这个锦旗"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「跟着走」落到UWB距离朝向解算；「自动驾驶」落到穿门框角度调整痛点。",
+      "patterns": [
+        "跟随→UWB解算",
+        "自动驾驶→穿门痛点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "两者之间的距离和朝向",
+          "note": "距离和朝向"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "都需要父母费力调整角度",
+          "note": "费力调整角度"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "慧聪想让我们可以把它改成自动驾驶",
+          "note": "改成自动驾驶"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定走起来不难；真正困难是出院后生活；承载希望的轮椅吃灰；找到工作意义。",
+      "patterns": [
+        "不难判断",
+        "出院后更难判断",
+        "吃灰判断",
+        "意义判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "并不难",
+          "note": "并不难"
+        },
+        {
+          "sentence_id": "s230",
+          "snippet": "是出院之后的生活",
+          "note": "出院之后的生活"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "吃灰了",
+          "note": "吃灰了"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认很多项目一开始为了整活做节目，看到开心后修正为意义叙事。",
+      "patterns": [
+        "整活动机自我坦白修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "一开始的时候其实确实就是为了整活"
+        },
+        {
+          "sentence_id": "s461",
+          "snippet": "为了做节目",
+          "note": "为了做节目"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "找到了我们工作的意义"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "谐音梗短开→技术说明中板→窗口跳转沉重叙事慢板→意义对话→赞助CTA并列收。",
+      "patterns": [
+        "谐音短开",
+        "技术中板",
+        "沉重慢板",
+        "CTA并列收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "超宽带无线发射器",
+          "note": "超宽带"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "我大哭了一场",
+          "note": "我大哭了一场"
+        },
+        {
+          "sentence_id": "s484",
+          "snippet": "也欢迎投稿到这个邮箱",
+          "note": "欢迎投稿"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "谐音轻松→技术得意→慧聪故事沉重共情→锦旗感动→意义升华→赞助收实用。",
+      "patterns": [
+        "轻松→沉重→感动→升华"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "哈哈哈哈哈哈",
+          "note": "哈哈哈哈哈哈"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "我大哭了一场",
+          "note": "大哭了一场"
+        },
+        {
+          "sentence_id": "s469",
+          "snippet": "给我们挂了这个锦旗呀",
+          "note": "锦旗"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇整活跟随椅收束到真实轮椅自动驾驶助人与「找到工作意义」，整活→意义闭环。",
+      "patterns": [
+        "整活→意义闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "为了整活"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        },
+        {
+          "sentence_id": "s476",
+          "snippet": "这就是本期视频的全部内容啦",
+          "note": "全部内容啦"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "感谢赞助商；欢迎投稿想做的东西到邮箱；再见朋友们。",
+      "patterns": [
+        "赞助鸣谢",
+        "投稿邮箱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s478",
+          "snippet": "感谢千问AI眼镜",
+          "note": "感谢千问AI眼镜"
+        },
+        {
+          "sentence_id": "s483",
+          "snippet": "如果你有什么想让我们做的东西",
+          "note": "想让我们做的东西"
+        },
+        {
+          "sentence_id": "s484",
+          "snippet": "也欢迎投稿到这个邮箱",
+          "note": "欢迎投稿到这个邮箱"
+        },
+        {
+          "sentence_id": "s485",
+          "snippet": "再见朋友们",
+          "note": "再见朋友们"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "随地大小坐谐音、傻儿子笑声、锦旗没见过、整活坦白，真实项目+情绪现场感。",
+      "patterns": [
+        "谐音梗",
+        "整活坦白",
+        "锦旗现场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "哈哈 傻儿子",
+          "note": "哈哈傻儿子"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "为了整活"
+        },
+        {
+          "sentence_id": "s471",
+          "snippet": "这个没见过",
+          "note": "这个没见过"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "120句窗口从技术演示跳到慧聪故事再跳结尾，中间改造过程大量缺失；双线叙事粘合靠剪辑。",
+      "patterns": [
+        "窗口大跳跃缺过程",
+        "双线粘合靠剪辑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "3D地图",
+          "note": "3D地图"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "这个医生的话",
+          "note": "这个医生的话"
+        },
+        {
+          "sentence_id": "s456",
+          "snippet": "因为我们很多工作",
+          "note": "因为我们很多工作"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先拆「走起来不难/跟人要改」技术分层；结尾坦白整活动机再升到意义。",
+      "patterns": [
+        "技术分层外显",
+        "整活→意义坦白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "并不难",
+          "note": "并不难"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "就得做一些",
+          "note": "就得做一些小小的改动"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "为了整活"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "观众先是看整活的粉丝，再被拉成见证助人的共同体；结尾征集投稿成共创者。",
+      "patterns": [
+        "整活粉丝→助人见证",
+        "投稿共创者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s475",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        },
+        {
+          "sentence_id": "s466",
+          "snippet": "所以非常感谢您",
+          "note": "非常感谢您联系我们"
+        },
+        {
+          "sentence_id": "s483",
+          "snippet": "如果你有什么想让我们做的东西",
+          "note": "想让我们做的东西"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "UWB发射器；激光雷达SLAM；一日两次站床；穿门十几次；锦旗。",
+      "patterns": [
+        "UWB锚",
+        "站床次数锚",
+        "穿门次数锚",
+        "锦旗锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "超宽带无线发射器",
+          "note": "超宽带无线发射器"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "装了激光雷达",
+          "note": "激光雷达"
+        },
+        {
+          "sentence_id": "s232",
+          "snippet": "做两次站床",
+          "note": "做两次站床"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "十几次狭窄的门框",
+          "note": "十几次狭窄的门框"
+        },
+        {
+          "sentence_id": "s469",
+          "snippet": "给我们挂了这个锦旗呀",
+          "note": "锦旗"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密笑点→技术中高密→故事情感中密→意义对话低密→赞助信息中密收。",
+      "patterns": [
+        "低密笑点→技术高密→情感中密→低密意义→中密赞助"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "两者之间的距离和朝向",
+          "note": "距离和朝向"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "我大哭了一场",
+          "note": "大哭"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "意义"
+        },
+        {
+          "sentence_id": "s478",
+          "snippet": "感谢千问AI眼镜",
+          "note": "千问AI眼镜"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "谐音短句→技术短句点射→故事中长句→对话短句→鸣谢并列句。",
+      "patterns": [
+        "谐音短句",
+        "技术点射短句",
+        "对话短句",
+        "鸣谢并列"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "超宽带无线发射器",
+          "note": "超宽带"
+        },
+        {
+          "sentence_id": "s261",
+          "snippet": "谁来管儿子啊",
+          "note": "谁来管儿子啊"
+        },
+        {
+          "sentence_id": "s478",
+          "snippet": "感谢千问AI眼镜",
+          "note": "感谢千问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学整活工程师：先好笑再认真，敢认「为了做节目」，最终落到助人意义。",
+      "patterns": [
+        "整活工程师",
+        "敢认动机再升华"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "哈哈 傻儿子",
+          "note": "哈哈傻儿子"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "其实确实就是为了整活",
+          "note": "为了整活"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "随地大小坐；会跟人的椅子；轮椅吃灰；整活找到意义；锦旗。",
+      "patterns": [
+        "随地大小坐",
+        "吃灰轮椅",
+        "整活→意义",
+        "锦旗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "吃灰了",
+          "note": "吃灰了"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        },
+        {
+          "sentence_id": "s469",
+          "snippet": "给我们挂了这个锦旗呀",
+          "note": "锦旗"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "整活钩子→技术演示→真实用户痛点→意义升华→投稿CTA是可迁移的科技人文模板，迁移时需补全改造过程窗口。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了能随地大小坐",
+          "note": "随地大小坐"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "慧聪想让我们可以把它改成自动驾驶",
+          "note": "改成自动驾驶"
+        },
+        {
+          "sentence_id": "s465",
+          "snippet": "我们也找到了我们工作的意义",
+          "note": "工作的意义"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s10",
+    "s16",
+    "s22",
+    "s28",
+    "s47",
+    "s257",
+    "s465",
+    "s484",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s48",
+    "s49",
+    "s50",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s252",
+    "s253",
+    "s254",
+    "s255",
+    "s256",
+    "s258",
+    "s259",
+    "s260",
+    "s261",
+    "s262",
+    "s456",
+    "s457",
+    "s458",
+    "s459",
+    "s460",
+    "s461",
+    "s462",
+    "s463",
+    "s464",
+    "s466",
+    "s467",
+    "s468",
+    "s469",
+    "s470",
+    "s471",
+    "s472",
+    "s473",
+    "s474",
+    "s475",
+    "s476",
+    "s477",
+    "s478",
+    "s479",
+    "s480",
+    "s481",
+    "s482",
+    "s483",
+    "s485"
+  ],
+  "fields_complete_25": true
+}

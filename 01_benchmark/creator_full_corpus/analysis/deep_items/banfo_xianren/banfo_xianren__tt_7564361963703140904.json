@@ -1,0 +1,979 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7564361963703140904",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7564361963703140904/",
+  "source_sha256": "41dba7a32b47dcdf8db905f205f631ae7483dfa9eb46c578466575f84c5b73ab",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 44,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 22,
+      "snippet": "图片截取自: 小米面对的舆论风波还是太温柔了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 28,
+      "snippet": "后台有留言问我怎么看待当下小米和雷军老师面对的舆论风波。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 32,
+      "snippet": "半年前还是各种神仙，怎么过了半年就好像干啥都是错的，都是营销了？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 20,
+      "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 28,
+      "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 87,
+      "snippet": "这一波不是现在才开始的，早在1年前，我就说过，小米将长期面对公关战，从Su7 U"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 22,
+      "snippet": "图片截取自: 小米面对的舆论风波还是太温柔了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 13,
+      "snippet": "为啥我当初就敢直接这么说？"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 46,
+      "snippet": "很简单，因为你是同行，你如果不想给小米来几下，只能说你没有梦想，你对你的行业和公"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 18,
+      "snippet": "或许你不会直接做，但想是会这么想的。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 44,
+      "snippet": "但凡你还有点追求，还想活下去，还有更大的野心，你看着小米和雷军老师出风头，你做梦"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 35,
+      "snippet": "你恨不得床头插着避雷针，就这样做梦半夜都会醒过来怒吼一句【凭什么啊】。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 70,
+      "snippet": "这个心态差不多就是老一辈江湖高手看到新人光速冒头超过自己时候的心态，有欣赏有佩服"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 50,
+      "snippet": "还有很多人读书的时候看到班里的学霸，有欣赏有佩服，但看对方因为各种事情倒霉的时候"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 16,
+      "snippet": "恨人有，笑人无，这是，人之常情。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 19,
+      "snippet": "或许你很大度，不会做什么，只会偷偷爽。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 18,
+      "snippet": "但始终有人不那么大度，想要创造机会。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 39,
+      "snippet": "其中最蠢的，会掏钱找人整一些明显的烂活儿，烂到直接触发法律底线，然后踩缝纫机。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 70,
+      "snippet": "比较蠢的，知道保护自己，但知道的不多，还是会自己蹦跶出来顶着公司账号或者公司身份"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 77,
+      "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 48,
+      "snippet": "其中更聪明一些的，跟各类大媒体签年框合作，出事情的时候一个暗示就可以，对方自然会"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 36,
+      "snippet": "话是别人讲的，别算我们公司头上，我是清白干净不知道竞对线为何物的白莲花。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 40,
+      "snippet": "而比这更聪明的，是连策划都不策划，也不花钱找人，而是推波助澜，感谢大自然的恩赐。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 53,
+      "snippet": "事情本身是客观的是真实发生的，很多用户的声音也是真实存在的，自己要做的只是用资源"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 46,
+      "snippet": "就像是高端商战是抢公章和开水浇对方发财树，但最高端的商战是对方倒霉的时候给骂他们"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 57,
+      "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 30,
+      "snippet": "当然，是用各种空壳个人账户投，不然公对公充值到平台会很尴尬。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 50,
+      "snippet": "于是你会发现，全世界每天都有无数车祸，有无数品牌，但只要某些品牌出事儿了，那总会"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 19,
+      "snippet": "不能投骂的，那就投夸得离奇的，也一样。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "只要让你天天看到，就可以了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 40,
+      "snippet": "说到这，只是解释了为什么近一年总是小米被挂起来（上一个遇到这种情况的是特斯拉）。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 33,
+      "snippet": "下面解释为什么我之前就敢预测这件事情是长期的，且后面烈度只会更高。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 13,
+      "snippet": "因为，yu7卖得太恐怖了。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 18,
+      "snippet": "以及更恐怖的是，小米yu9快要出了。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 55,
+      "snippet": "这是大尺寸，大空间，混动，SUV，是新能源市场最大，最肥美，最产生现金流的一块儿"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 18,
+      "snippet": "这个车，会直接让很多同行谁都睡不着。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 18,
+      "snippet": "注意，不是哪一家，是所有的都在盯着。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 56,
+      "snippet": "本来看热闹的很多公司，因为yu9即将和自家现金牛开始竞争，也要加入进来给小米来点"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 20,
+      "snippet": "于是，多方合力下，小米就跟遇到雷劫一样。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 10,
+      "snippet": "这是风险，也是机遇。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "熬过去，就是大成。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "熬不过，一切都是空。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "天劫，本就是修仙的代价。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "接后台问小米舆论，反问「这才哪到哪」，断言现在还太温柔。",
+      "patterns": [
+        "接留言",
+        "反问太善良",
+        "断言更烈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "后台有留言问我怎么看待当下小米和雷军老师面对的舆论风波。",
+          "note": "后台留言"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。",
+          "note": "太善良"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。",
+          "note": "还太温柔"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "公关战早有预告→同行嫉妒人性→攻击手段分层→yu7/yu9蛋糕引多方→熬过去大成。",
+      "patterns": [
+        "早有预告",
+        "嫉妒人性",
+        "手段分层",
+        "蛋糕多方",
+        "熬劫大成"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "这一波不是现在才开始的，早在1年前，我就说过，小米将长期面对公关战，从Su7 U",
+          "note": "一年前说过"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "恨人有，笑人无，这是，人之常情。",
+          "note": "恨人有笑人无"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "公关隐身"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "因为，yu7卖得太恐怖了。",
+          "note": "yu7恐怖"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "熬过去大成"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7"
+          ],
+          "function": "frame_soft_now",
+          "note": "现在舆论仍温柔+早预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "jealousy_psychology",
+          "note": "同行/学霸嫉妒人性"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31"
+          ],
+          "function": "attack_ladder",
+          "note": "蠢到聪明攻击手段阶梯"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "yu9_cake",
+          "note": "卖得恐怖+yu9蛋糕多方"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44"
+          ],
+          "function": "tribulation_close",
+          "note": "风险机遇=天劫代价"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「为啥我当初就敢」「说到这只是解释了」「下面解释为什么」两段式。",
+      "patterns": [
+        "为啥敢说",
+        "说到这",
+        "下面解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "为啥我当初就敢直接这么说？",
+          "note": "为啥敢说"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "说到这，只是解释了为什么近一年总是小米被挂起来（上一个遇到这种情况的是特斯拉）。",
+          "note": "说到这"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "下面解释为什么我之前就敢预测这件事情是长期的，且后面烈度只会更高。",
+          "note": "下面解释"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "半年神仙 vs 现在都错；蠢到聪明手段阶梯；投骂 vs 投夸得离奇。",
+      "patterns": [
+        "神仙/都错",
+        "蠢聪明阶梯",
+        "投骂/投夸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "半年前还是各种神仙，怎么过了半年就好像干啥都是错的，都是营销了？",
+          "note": "神仙变错"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "其中最蠢的，会掏钱找人整一些明显的烂活儿，烂到直接触发法律底线，然后踩缝纫机。",
+          "note": "最蠢"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "投夸漏洞"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「怎么过了半年就都是营销」「为啥我当初就敢这么说」驱动解释。",
+      "patterns": [
+        "半年反转问",
+        "为何敢说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "半年前还是各种神仙，怎么过了半年就好像干啥都是错的，都是营销了？",
+          "note": "半年反转"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "为啥我当初就敢直接这么说？",
+          "note": "为何敢说"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "床头避雷针怒吼凭什么；班里学霸倒霉爽；抢公章浇发财树；空壳账户投流。",
+      "patterns": [
+        "避雷针",
+        "学霸爽",
+        "商战比喻",
+        "空壳投流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "你恨不得床头插着避雷针，就这样做梦半夜都会醒过来怒吼一句【凭什么啊】。",
+          "note": "避雷针"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "还有很多人读书的时候看到班里的学霸，有欣赏有佩服，但看对方因为各种事情倒霉的时候",
+          "note": "学霸倒霉"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就像是高端商战是抢公章和开水浇对方发财树，但最高端的商战是对方倒霉的时候给骂他们",
+          "note": "抢公章"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "当然，是用各种空壳个人账户投，不然公对公充值到平台会很尴尬。",
+          "note": "空壳账户"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「公关战」落到口述给公关公司、年框媒体暗示、给夸得不好的视频投流。",
+      "patterns": [
+        "口述策划",
+        "年框暗示",
+        "投夸流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "口述公关"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "其中更聪明一些的，跟各类大媒体签年框合作，出事情的时候一个暗示就可以，对方自然会",
+          "note": "年框合作"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "投夸漏洞"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「还是太温柔了」「没有梦想」「天劫本就是修仙代价」斩钉截铁。",
+      "patterns": [
+        "太温柔",
+        "没梦想",
+        "天劫代价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。",
+          "note": "太温柔"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "很简单，因为你是同行，你如果不想给小米来几下，只能说你没有梦想，你对你的行业和公",
+          "note": "没有梦想"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "天劫代价"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说给骂的投流最聪明，立刻改口「哦不对，投夸得不够好才最聪明」。",
+      "patterns": [
+        "投骂→投夸修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "就像是高端商战是抢公章和开水浇对方发财树，但最高端的商战是对方倒霉的时候给骂他们",
+          "note": "给骂投流"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "哦不对投夸"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场快嘲→人性比喻中速→手段阶梯加速列举→yu9压迫加重→天劫短句收。",
+      "patterns": [
+        "快嘲",
+        "比喻中",
+        "阶梯加速",
+        "压迫",
+        "短句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。",
+          "note": "快嘲"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "其中最蠢的，会掏钱找人整一些明显的烂活儿，烂到直接触发法律底线，然后踩缝纫机。",
+          "note": "阶梯起"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "这是大尺寸，大空间，混动，SUV，是新能源市场最大，最肥美，最产生现金流的一块儿",
+          "note": "蛋糕压迫"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "短句收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "调侃→洞察阴暗→黑色幽默升级→压迫警示→修仙励志收。",
+      "patterns": [
+        "调侃",
+        "阴暗",
+        "黑幽默",
+        "压迫",
+        "励志"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。",
+          "note": "调侃"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "恨人有，笑人无，这是，人之常情。",
+          "note": "阴暗"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "黑幽默"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "于是，多方合力下，小米就跟遇到雷劫一样。",
+          "note": "雷劫"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "大成"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「太温柔还有风波」，收束天劫代价与熬过去大成，完成预警闭环。",
+      "patterns": [
+        "温柔开",
+        "天劫收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。",
+          "note": "太温柔"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "熬过去大成"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "天劫代价"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注硬广；「熬过去就是大成」态度号召式软CTA。",
+      "patterns": [
+        "态度软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "熬过去大成"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "这是风险，也是机遇。",
+          "note": "风险机遇"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自指「佛子老师不玩马后炮」；哦不对现场改口；真爱粉顶十黑黑话。",
+      "patterns": [
+        "不马后炮",
+        "现场改口",
+        "黑话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "这一波不是现在才开始的，早在1年前，我就说过，小米将长期面对公关战，从Su7 U",
+          "note": "不玩马后炮"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "哦不对"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "真爱粉顶十黑"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "手段分层偏阴谋论难实证；yu9预测依赖未兑现；修仙收束略跳戏。",
+      "patterns": [
+        "难实证",
+        "预测依赖",
+        "隐喻跳戏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "隐身难证"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "以及更恐怖的是，小米yu9快要出了。",
+          "note": "yu9未出"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "修仙喻"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「为何敢一年前预测」：从同行嫉妒→手段阶梯→销量蛋糕倒推烈度。",
+      "patterns": [
+        "预测回溯",
+        "蛋糕倒推"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "为啥我当初就敢直接这么说？",
+          "note": "为何敢说"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "很简单，因为你是同行，你如果不想给小米来几下，只能说你没有梦想，你对你的行业和公",
+          "note": "同行逻辑"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "因为，yu7卖得太恐怖了。",
+          "note": "卖得恐怖"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准小米舆情困惑粉丝，用「哎呀朋友你太善良」降维安抚再恐吓。",
+      "patterns": [
+        "困惑粉丝",
+        "你太善良"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "后台有留言问我怎么看待当下小米和雷军老师面对的舆论风波。",
+          "note": "后台问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。",
+          "note": "你太善良"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "Su7 U起攻击；yu7卖得恐怖；yu9大尺寸混动SUV；空壳个人账户投流。",
+      "patterns": [
+        "Su7U",
+        "yu7",
+        "yu9",
+        "空壳投流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "这一波不是现在才开始的，早在1年前，我就说过，小米将长期面对公关战，从Su7 U",
+          "note": "Su7 U"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "因为，yu7卖得太恐怖了。",
+          "note": "yu7"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "这是大尺寸，大空间，混动，SUV，是新能源市场最大，最肥美，最产生现金流的一块儿",
+          "note": "yu9蛋糕"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "当然，是用各种空壳个人账户投，不然公对公充值到平台会很尴尬。",
+          "note": "空壳账户"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密嘲→人性中密→手段阶梯高密→产品蛋糕高密→天劫低密收。",
+      "patterns": [
+        "低",
+        "中",
+        "高阶梯",
+        "高蛋糕",
+        "低收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "阶梯高"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "这是大尺寸，大空间，混动，SUV，是新能源市场最大，最肥美，最产生现金流的一块儿",
+          "note": "蛋糕高"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "低收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短嘲开；长比喻段；最蠢/比较蠢/聪明递进长句；天劫对仗短句收。",
+      "patterns": [
+        "短嘲",
+        "长比喻",
+        "递进长句",
+        "对仗短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "哎呀朋友，这才哪到哪啊，你还是太善良了。",
+          "note": "短嘲"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这个心态差不多就是老一辈江湖高手看到新人光速冒头超过自己时候的心态，有欣赏有佩服",
+          "note": "长比喻"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "递进"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "短收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "行业老油条：用嫉妒人性与商战黑话拆舆情，修仙隐喻抬升格局。",
+      "patterns": [
+        "老油条拆局",
+        "修仙抬格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "很简单，因为你是同行，你如果不想给小米来几下，只能说你没有梦想，你对你的行业和公",
+          "note": "同行没梦想"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就像是高端商战是抢公章和开水浇对方发财树，但最高端的商战是对方倒霉的时候给骂他们",
+          "note": "高端商战"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "天劫"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "还是太温柔了；恨人有笑人无；哦不对投夸；yu7卖得太恐怖；天劫代价。",
+      "patterns": [
+        "太温柔",
+        "恨人有",
+        "投夸",
+        "yu7恐怖",
+        "天劫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "小米现在面对的舆论情况还是太温柔了，后面还有的是风波呢。",
+          "note": "太温柔"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "恨人有，笑人无，这是，人之常情。",
+          "note": "恨人有"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "哦不对，给骂的投还不是最聪明的，最聪明的是给那种夸的不够好或者明显有漏洞的视频投",
+          "note": "哦不对"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "因为，yu7卖得太恐怖了。",
+          "note": "yu7"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "天劫，本就是修仙的代价。",
+          "note": "天劫"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "舆情手段阶梯+产品蛋糕解释可改编观宇商战口播，需弱化阴谋口吻补证据。",
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "聪明一些的，自己根本不发言，而是给一些思路方向和策划，自己不落实，以口述的形式给",
+          "note": "手段阶梯"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "因为，yu7卖得太恐怖了。",
+          "note": "销量锚"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "熬过去，就是大成。",
+          "note": "熬劫收"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s16",
+    "s21",
+    "s34",
+    "s42",
+    "s1",
+    "s2",
+    "s4",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44"
+  ],
+  "fields_complete_25": true
+}

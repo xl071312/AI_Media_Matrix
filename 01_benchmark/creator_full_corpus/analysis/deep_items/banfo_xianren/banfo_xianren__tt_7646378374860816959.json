@@ -1,0 +1,1236 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7646378374860816959",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7646378374860816959/",
+  "source_sha256": "8e838e31758675467294bc42a506b82592c85dbcc54c7c55cdf907cb9ba8713a",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 81,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 21,
+      "snippet": "图片截取自: 亚朵这是要跟偷拍摄像头拼了？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 37,
+      "snippet": "前几天住亚朵，选客房服务时，发现一个非常赛博朋克的东西，隐藏摄像头检测仪。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 21,
+      "snippet": "图片截取自: 亚朵这是要跟偷拍摄像头拼了？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 23,
+      "snippet": "当然，不是卖也不是送，是免费借，用完了要还的。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 35,
+      "snippet": "但不重要，看到这玩意的瞬间，我突然担心大家以后在别的地方刷到我的视频。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 17,
+      "snippet": "因为怕丑到你们，于是赶紧下了一个。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 22,
+      "snippet": "这东西有镜头、红外、无线、触动四种检测模式。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 21,
+      "snippet": "图片截取自: 亚朵这是要跟偷拍摄像头拼了？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 20,
+      "snippet": "拿到之后，我满屋巡逻，连马桶都要绕一圈。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 17,
+      "snippet": "谁知道会不会有人把摄像头藏在那呢。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 21,
+      "snippet": "图片截取自: 亚朵这是要跟偷拍摄像头拼了？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 24,
+      "snippet": "在确认应该没人偷窥我的曼妙身材后，我长舒一口气。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 18,
+      "snippet": "然后我突然意识到，亚朵这一招太6了。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 22,
+      "snippet": "这东西最牛的地方，不在于它能不能查出摄像头。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "而在于它同时解决了两件事："
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "给好人提供安全感。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "给坏人提高作恶成本。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "前者叫安慰剂，后者叫核威慑。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 19,
+      "snippet": "而这两个东西叠在一起，就是稀缺的能力。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 21,
+      "snippet": "现在很多年轻人住酒店，已经形成了条件反射。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 23,
+      "snippet": "进门插卡拉窗帘，打开手机摄像头，就开始反侦察。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 14,
+      "snippet": "扫电视，扫插座，烟雾报警器。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 23,
+      "snippet": "你明知道自己大概率啥也查不出来，但你还是会查。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "为什么？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "因为人类需要安全感。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 23,
+      "snippet": "安全感不一定来自于安全，有时候只需要做点什么。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 14,
+      "snippet": "就像有人坐飞机必须摸护身符；"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "睡觉时必开小夜灯；"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 36,
+      "snippet": "电脑卡了一下，立刻下载各种电脑管家全家，恨不得再给CPU请个人士来驱邪。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 32,
+      "snippet": "都知道没啥用，但觉得自己【已经做了点什么】，就是能让你安心一点。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "安全感，来源于可控性。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 14,
+      "snippet": "哪怕这种可控性只是个安慰剂。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 16,
+      "snippet": "亚朵这个检测仪，本质上也是一样。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 18,
+      "snippet": "因为只能防住最简单基础的那些摄像头。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 35,
+      "snippet": "以及从逻辑上讲，消费者自己拿个检测仪到处扫，已经有点付费上班那意思了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "可现实不讲逻辑，只讲人性。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 23,
+      "snippet": "你拿着个小方盒，扫插座、扫路由、扫空调出风口。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 26,
+      "snippet": "扫完一圈，指示灯没报警，你才会觉得今晚能安心脱裤子。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 22,
+      "snippet": "哪怕它只是个安慰剂，哪怕你知道它是个安慰剂。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "但你需要。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 26,
+      "snippet": "这种理解需求并解决需求的能力，本身就是一种稀缺资源。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 28,
+      "snippet": "更重要的是，这个检测仪还承担了一个隐藏作用，心理核威慑。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 13,
+      "snippet": "不是对消费者，是对偷拍者。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 36,
+      "snippet": "很多人理解问题方案时，总抱有一种天真的幻想，觉得问题就应该【彻底解决】。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 24,
+      "snippet": "这是不现实的，只要憋着心思搞坏，人有无数种方法。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 30,
+      "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 23,
+      "snippet": "便利店门口天天贴着一张没人看的【监控已覆盖】。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "能完全杜绝犯罪吗？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 3,
+      "snippet": "不能。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 11,
+      "snippet": "但它能让作恶变得麻烦。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 17,
+      "snippet": "犯罪是为了获利，不是为了挑战自己。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 26,
+      "snippet": "绝大多数坏人都不是joker，没人跟你玩犯罪的艺术。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 72,
+      "snippet": "你让一个偷拍者发现这酒店的人天天拿着个检测仪搁那cos名侦探柯南，他的第一反应一定不是【挑战我吗有点意思，这个偷拍王我当定了】，而是【换一家】。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 20,
+      "snippet": "这就像很多小偷为什么不偷装方向盘锁的车。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "不是打不开。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "是懒得开。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 30,
+      "snippet": "初中生搞霸凌都没有逮着体育生大肌霸欺负的，人家是坏又不是蠢。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 32,
+      "snippet": "犯罪行为的底层逻辑是【低成本获利】，是【谁好欺负，我就欺负谁】。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 30,
+      "snippet": "所以，真正有效的威慑，不是绝对防御，是让坏人觉得【没必要】。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 15,
+      "snippet": "亚朵搞免费检测仪就是这个道理。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 18,
+      "snippet": "它不一定能从技术上彻底解决偷拍问题。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 31,
+      "snippet": "但它会让偷拍的成本变得更高，因为你弄不好还要赔一个摄像头进去。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 13,
+      "snippet": "再弄不好，人也要跟着进去。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 33,
+      "snippet": "当每个潜在偷拍者都这么想时，亚朵自然就从他们的目标清单里被划掉了。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 15,
+      "snippet": "酒店那么多呢，干嘛非得找亚朵？"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 10,
+      "snippet": "对消费者，给安全感；"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "对坏人，给压迫感。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 21,
+      "snippet": "这不止是洞察了人性，还同时拿捏了两种人性。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "甚至，都不需要百分百有效。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 47,
+      "snippet": "只要亚朵有隐藏摄像头检测仪这件事传开，消费者自然会拿着检测仪到处扫，偷拍者自然会远离这个品牌。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 14,
+      "snippet": "问题自然而然的就会被解决掉。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 20,
+      "snippet": "再次强调，这并不能杜绝一切偷拍，不现实。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 17,
+      "snippet": "但这绝对可以让消费者简单求个心安。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 51,
+      "snippet": "相当于你说你怕鬼，别的酒店还在说【我们这里没有鬼】，亚朵前台直接站着两个coser扮演英叔给你整点活。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 18,
+      "snippet": "前者是教育消费者，后者是理解消费者。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 14,
+      "snippet": "所以亚朵这一波不是6，是9。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "直接6翻了。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「周末不卷随便写点」低压开场，住亚朵发现隐藏摄像头检测仪赛博朋克钩子。",
+      "patterns": [
+        "周末不卷低压开",
+        "赛博朋克物件钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "前几天住亚朵，选客房服务时，发现一个非常赛博朋克的东西，隐藏摄像头检测仪。",
+          "note": "隐藏摄像头检测仪"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "借检测仪体验→安慰剂给好人安全感+核威慑提坏人成本→年轻人反侦察条件反射→安全感来自可控性→提高作恶成本非消灭→传播即生效→亚朵理解消费者收。",
+      "patterns": [
+        "双作用模型",
+        "安慰剂+核威慑",
+        "提高成本非消灭",
+        "理解消费者收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "这东西最牛的地方，不在于它能不能查出摄像头。",
+          "note": "最牛不在能否查出"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "安慰剂与核威慑"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "提高成本"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "前者是教育消费者，后者是理解消费者。",
+          "note": "理解消费者"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "hook_experience",
+          "note": "周末低压与借检测仪巡逻体验"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "placebo_security",
+          "note": "年轻人反侦察与安慰剂安全感"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70"
+          ],
+          "function": "deterrence_cost",
+          "note": "核威慑与提高作恶成本逻辑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81"
+          ],
+          "function": "brand_insight",
+          "note": "传播即解决与理解消费者收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「当然」「然后我突然意识到」「更重要的是」「所以」「再次强调」拧紧。",
+      "patterns": [
+        "突然意识到顿悟转",
+        "更重要的是升维转",
+        "再次强调收束转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "当然，不是卖也不是送，是免费借，用完了要还的。",
+          "note": "当然不是卖"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "突然意识到"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "更重要的是，这个检测仪还承担了一个隐藏作用，心理核威慑。",
+          "note": "更重要的是"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "再次强调，这并不能杜绝一切偷拍，不现实。",
+          "note": "再次强调"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "查出技术 vs 安全感/威慑双作用；彻底消灭幻想 vs 提高成本现实；没鬼教育 vs 英叔coser理解；6 vs 9翻倍玩笑。",
+      "patterns": [
+        "技术/心理双作用",
+        "消灭/提成本",
+        "教育/理解消费者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "这东西最牛的地方，不在于它能不能查出摄像头。",
+          "note": "不在于能否查出"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "不是消灭而是提高成本"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "前者是教育消费者，后者是理解消费者。",
+          "note": "教育vs理解"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "不是6是9"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为什么还是会查」「能完全杜绝犯罪吗」「干嘛非得找亚朵」推进人性与威慑。",
+      "patterns": [
+        "为何仍查问",
+        "能否杜绝问",
+        "干嘛找亚朵问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "为什么？",
+          "note": "为什么"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "能完全杜绝犯罪吗？",
+          "note": "能完全杜绝吗"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "酒店那么多呢，干嘛非得找亚朵？",
+          "note": "干嘛非得找亚朵"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "满屋巡逻连马桶；飞机护身符/小夜灯/电脑管家安慰剂串；便利店监控贴；方向盘锁；霸凌不找体育生；英叔coser喻。",
+      "patterns": [
+        "巡逻马桶例",
+        "安慰剂生活串",
+        "方向盘锁例",
+        "英叔喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "拿到之后，我满屋巡逻，连马桶都要绕一圈。",
+          "note": "连马桶绕一圈"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就像有人坐飞机必须摸护身符；",
+          "note": "护身符"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "这就像很多小偷为什么不偷装方向盘锁的车。",
+          "note": "方向盘锁"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "相当于你说你怕鬼，别的酒店还在说【我们这里没有鬼】，亚朵前台直接站着两个cose",
+          "note": "英叔coser"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「安全感」落到扫完指示灯不响才能脱裤；「核威慑」落到偷拍者换一家；「理解消费者」落到前台coser。",
+      "patterns": [
+        "安全感→扫描仪式",
+        "威慑→换一家",
+        "理解→英叔活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "扫完一圈，指示灯没报警，你才会觉得今晚能安心脱裤子。",
+          "note": "指示灯没报警"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你让一个偷拍者发现这酒店的人天天拿着个检测仪搁那cos名侦探柯南，他的第一反应一",
+          "note": "换一家"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "相当于你说你怕鬼，别的酒店还在说【我们这里没有鬼】，亚朵前台直接站着两个cose",
+          "note": "英叔给你整点活"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言这一招太6；安慰剂+核威慑是稀缺能力；彻底解决不现实；不是6是9。",
+      "patterns": [
+        "太6断语",
+        "稀缺能力断",
+        "不现实断",
+        "6翻9断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "这一招太6了"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "而这两个东西叠在一起，就是稀缺的能力。",
+          "note": "稀缺的能力"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "这是不现实的，只要憋着心思搞坏，人有无数种方法。",
+          "note": "不现实"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "不是6是9"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认检测仪只能防最简单摄像头、消费者像付费上班，仍强调现实讲人性；再次强调不能杜绝一切。",
+      "patterns": [
+        "技术局限自承",
+        "再次强调边界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "因为只能防住最简单基础的那些摄像头。",
+          "note": "只能防最简单"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "以及从逻辑上讲，消费者自己拿个检测仪到处扫，已经有点付费上班那意思了。",
+          "note": "付费上班那意思"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "再次强调，这并不能杜绝一切偷拍，不现实。",
+          "note": "并不能杜绝一切"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "低压闲笔→体验加速→分节2-3说理中密→类比排比加速→6翻9短句收。",
+      "patterns": [
+        "闲笔低压",
+        "类比加速",
+        "短句收戳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就像有人坐飞机必须摸护身符；",
+          "note": "安慰剂排比加速"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "不是6是9收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "轻松调侃→轻微恐慌巡逻→长舒气→顿悟欣赏→说理冷静→幽默威慑→推崇收束。",
+      "patterns": [
+        "轻松调侃",
+        "巡逻恐慌",
+        "顿悟欣赏",
+        "幽默推崇"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "不卷轻松"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "拿到之后，我满屋巡逻，连马桶都要绕一圈。",
+          "note": "巡逻"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "太6顿悟"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "6翻9推崇"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇检测仪钩子在结尾升为「理解消费者vs教育消费者」，并用6翻9回扣「太6了」。",
+      "patterns": [
+        "太6→6翻9回扣",
+        "理解消费者升维闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "太6了开悟"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "前者是教育消费者，后者是理解消费者。",
+          "note": "理解消费者"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "不是6是9"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "直接6翻了。",
+          "note": "直接6翻了"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注CTA，以评价安利亚朵洞察作软收，读者自行意会。",
+      "patterns": [
+        "评价安利软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "是9的安利感"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "这种理解需求并解决需求的能力，本身就是一种稀缺资源。",
+          "note": "稀缺资源评价"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「太6了」「付费上班」「cos名侦探柯南」「曼妙身材」自嘲，半佛式网络口语密集。",
+      "patterns": [
+        "太6了",
+        "付费上班",
+        "柯南cos",
+        "曼妙身材自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "太6了"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "以及从逻辑上讲，消费者自己拿个检测仪到处扫，已经有点付费上班那意思了。",
+          "note": "付费上班"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你让一个偷拍者发现这酒店的人天天拿着个检测仪搁那cos名侦探柯南，他的第一反应一",
+          "note": "柯南"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "在确认应该没人偷窥我的曼妙身材后，我长舒一口气。",
+          "note": "曼妙身材"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "配图占位重复；对检测仪真实检出率无数据；品牌安利感强；核威慑类比略戏谑。",
+      "patterns": [
+        "配图噪音",
+        "缺检出率数据",
+        "安利感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 亚朵这是要跟偷拍摄像头拼了？",
+          "note": "配图截取"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "因为只能防住最简单基础的那些摄像头。",
+          "note": "防简单无数据"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "安利收束"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「物件体验→顿悟双作用→安慰剂原理解释→升维提成本威慑→传播闭环」思考链。",
+      "patterns": [
+        "体验顿悟升维",
+        "提成本思维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "然后我突然意识到，亚朵这一招太6了。",
+          "note": "突然意识到"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "安慰剂核威慑命名"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "提高成本核心"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当住过酒店会反侦察的年轻人，用「你明知道…但还是会查」共谋。",
+      "patterns": [
+        "反侦察年轻人共谋位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "现在很多年轻人住酒店，已经形成了条件反射。",
+          "note": "很多年轻人住酒店"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "你明知道自己大概率啥也查不出来，但你还是会查。",
+          "note": "明知道还是会查"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "但你需要。",
+          "note": "但你需要"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "免费借检测仪、四种模式、扫马桶、方向盘锁、英叔coser、6翻9。",
+      "patterns": [
+        "借检测仪锚",
+        "方向盘锁锚",
+        "英叔锚",
+        "6翻9锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "当然，不是卖也不是送，是免费借，用完了要还的。",
+          "note": "免费借"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "这东西有镜头、红外、无线、触动四种检测模式。",
+          "note": "四种检测模式"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "这就像很多小偷为什么不偷装方向盘锁的车。",
+          "note": "方向盘锁"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "不是6是9"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "闲笔低密→体验中密→说理高密→类比中密→金句降密收。",
+      "patterns": [
+        "说理高密",
+        "金句降密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "周末不卷，随便写点。",
+          "note": "闲笔低密"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "提成本高密"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "金句降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短节标题+体验短句；金句对仗（安慰剂/核威慑）；长威慑段落后短收。",
+      "patterns": [
+        "短节+体验句",
+        "对仗金句",
+        "长段后短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "1",
+          "note": "分节1"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "安慰剂核威慑对仗"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "你让一个偷拍者发现这酒店的人天天拿着个检测仪搁那cos名侦探柯南，他的第一反应一",
+          "note": "长威慑段"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "短收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "洞察型段子手：用赛博物件讲人性，敢说6翻9，商业审美与玩笑并重。",
+      "patterns": [
+        "洞察段子手",
+        "商业审美玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "命名双作用"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "绝大多数坏人都不是joker，没人跟你玩犯罪的艺术。",
+          "note": "坏人不是joker"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "所以亚朵这一波不是6，是9。",
+          "note": "6翻9"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "安慰剂+核威慑、安全感来自可控性、提高成本不是消灭、理解消费者、6翻9。",
+      "patterns": [
+        "安慰剂核威慑",
+        "提高成本",
+        "理解消费者",
+        "6翻9"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "安慰剂核威慑"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "提高成本"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "前者是教育消费者，后者是理解消费者。",
+          "note": "理解消费者"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "直接6翻了。",
+          "note": "6翻了"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「体验钩子→安慰剂+威慑双作用→提成本非消灭→理解消费者」完整可直接改编产品洞察口播。",
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "前者叫安慰剂，后者叫核威慑。",
+          "note": "双作用模型"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "现实世界里，大部分策略逻辑的核心不是消灭，而是【提高成本】。",
+          "note": "提成本"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "前者是教育消费者，后者是理解消费者。",
+          "note": "理解消费者"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s16",
+    "s20",
+    "s50",
+    "s79",
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s80",
+    "s81"
+  ],
+  "fields_complete_25": true
+}

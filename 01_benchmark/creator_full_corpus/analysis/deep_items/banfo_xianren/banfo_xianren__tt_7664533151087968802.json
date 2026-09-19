@@ -1,0 +1,1353 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7664533151087968802",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7664533151087968802/",
+  "source_sha256": "0f7cfbd08e8dc75f8f4892b51969e8bdbfc60d28e8d6557e0c2bd7d988114ccc",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 102,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 12,
+      "snippet": "前几天的英阿对决看了吧？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "诶刺不刺激。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 37,
+      "snippet": "这俩一个是足球要回家了，一个是每次都先落后再逆转，时刻给球迷心态玩大冒险。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 31,
+      "snippet": "可以说这样的阿根廷面对西班牙，甭管决赛谁夺冠，阿根廷都赚翻了。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "赢了那就是梅西创造奇迹。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 33,
+      "snippet": "输了那是亚马尔小时候物理意义上被梅西洗礼开光了，还是梅西有点东西。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "更赢麻了的是谁？"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "是给这俩队的赞助包圆儿了的伊利。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 15,
+      "snippet": "到决赛这直接成了“伊利德比”。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 59,
+      "snippet": "这次冠军是它赞助的，上次还是它赞助的，就连24年的欧洲杯冠军和美洲杯冠军还是它赞"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 40,
+      "snippet": "甚至再往前早在2022年伊利就签下了这两支队伍，国内比他们更早签约的品牌还没有。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 62,
+      "snippet": "就冲这个赞助眼光，我是老板我进了市场部见人就鞠躬，抓着财务的手给他们年终奖闭眼摁"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "这，就是对赞助王的礼遇。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 21,
+      "snippet": "没开玩笑啊，给大家复盘这赢到底是怎么麻的。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 17,
+      "snippet": "说白了，为啥各种品牌都爱赞助足球？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 67,
+      "snippet": "因为你赞助任何一个项目都需要解释，但你赞助足球不需要解释，这就是能让所有人都嗨起"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 8,
+      "snippet": "足球代表着什么？"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "代表着热血，拼搏，战斗。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 16,
+      "snippet": "赞助足球的乳企伊利，标签是什么？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "健康，天然，正能量。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 28,
+      "snippet": "这都不是赞不赞助的问题，是怎么赞助的空间才这么点的问题。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 21,
+      "snippet": "这钱必须要扔到这项赛事上，还必须要听个响。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 36,
+      "snippet": "所以伊利这次赞助了五支国家队，分别是阿根廷，西班牙，法国，葡萄牙，德国。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "说白了，伊利又给自己上了个杠杆。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 34,
+      "snippet": "能在大热赛事上抢先赞助这支大热球队，伊利属于起了个大早，备了个大考。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 45,
+      "snippet": "但以过去历届大赛的情况来看，强队爆冷出局并不罕见，我是市场部我都要承认一句，我有"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 45,
+      "snippet": "万万没想到，今年的比赛格外好看，强队没掉链子，巨星们的数据都爆炸，就是蹲坑的球队"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 13,
+      "snippet": "不爆冷，本身也是一种爆冷。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 27,
+      "snippet": "你再看看战果，伊利赞助的五支球队全进32强了，算及格。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 31,
+      "snippet": "四支进了十六强，三支进八强，其中一支是内部淘汰的，算 小赢 。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 13,
+      "snippet": "三支进了四强赛，算大赢 。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 11,
+      "snippet": "决赛包圆， 赢麻了 。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 47,
+      "snippet": "如果决赛再整出个什么大乐子，类似于什么任意球世界波，连过五人，绝杀与反绝杀这种镜"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 2,
+      "snippet": "麻！"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 2,
+      "snippet": "加！"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 2,
+      "snippet": "辣！"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 44,
+      "snippet": "如果伊利照着菜单赞助，把强队都赞助一遍，这不能证明伊利眼光高，只能说有钱买概率还"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 23,
+      "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 37,
+      "snippet": "伊利在48支队里挑了五个队，包揽了冠亚军，这叫赞助界终于迎来了他们的真王。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 44,
+      "snippet": "就这个眼光，高进都要托关系才能听节课，芒格都说你才是我大哥，巴菲特这最多算个午托"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 21,
+      "snippet": "甚至剩下那俩队，都可以说是伊利在展示容错。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 30,
+      "snippet": "你再想，年终奖不会凭空诞生，只会从一人身上挪到另一个人身上。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 11,
+      "snippet": "进攻，又是最好的防守。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 32,
+      "snippet": "伊利把这五支球队抢中了，那是不是轮到赞助错误的球队的品牌难受啦。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "甚至根据尼尔森数据显示，"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 41,
+      "snippet": "6月伊利在全国液奶市场份额及销售额增速都是顶呱呱，电商平台6月母品牌增长近50%"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 24,
+      "snippet": "别管天猫京东还是抖音，各个平台销售额都是笑哈哈。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 19,
+      "snippet": "（来自抖音数据罗盘后台&平台实时榜单）"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "（来自平台行业战报）"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "（来自平台榜单实时数据）"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 24,
+      "snippet": "到了小红书，更是依托赛事转播 赞助增长400%。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 17,
+      "snippet": "就这个数据和力度，这是杠上开了花。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 32,
+      "snippet": "甚至现在回头看伊利拍的功夫系列TVC，这个感觉就像是获奖宣传片。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 49,
+      "snippet": "功夫足球前传里请来了托雷斯，巴拉克，菲戈，皮雷，迪马利亚，那可全是过去赫赫有名的"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 72,
+      "snippet": "正片里五支国家队直接化身江湖的五派势力，在片子里华山论剑，甭管是最后阿根廷使出了"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 31,
+      "snippet": "甚至哈兰德踏上球场的那个番外，你就说哈宝国家队今年出不出彩吧。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 47,
+      "snippet": "说白了我是伊利我当务之急是马上拍上第四季，直接把流量锁死，更把车门焊死，胜利的果"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "快乐，我真的好快乐。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 27,
+      "snippet": "是是是是是，到这儿一定还有人嘴硬，说伊利就是靠运气的。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 56,
+      "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 34,
+      "snippet": "当它不跟你搏运气，跟你走情怀的时候，那你还不如希望它跟你一起搏运气。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 24,
+      "snippet": "这次足球盛事，在名次以外最重要的是一个点是什么？"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 31,
+      "snippet": "是梅罗时代的结束，是双雄的收尾，是一，个，时，代，过，去，了。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 13,
+      "snippet": "梅罗双骄这个事件有多稀有？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 47,
+      "snippet": "是现代足球百年间，从未有如此高效的前锋，高效到你再不懂球，都开始默认好前锋的巅峰"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 43,
+      "snippet": "是有一天他俩如果退役了，再也没有对决了，往后几十年上百年，都会有无数球迷回忆这个"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 37,
+      "snippet": "当你跟年轻人再聊起足球时，你说你看球的时代，是梅罗争辉的时代，这就足够了。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 28,
+      "snippet": "能够赞助这两支国家队的伊利，已经一起成为了历史的一部分。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 20,
+      "snippet": "图片截取自: 不管谁是冠军，赢家都是伊利"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 35,
+      "snippet": "更绝的是，伊利更懂的是，梅罗是传奇，你为他们付出的时间和热爱更是传奇。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 45,
+      "snippet": "是你为足球付出了热爱，从懵懂少年变成青年，又变成中年，你为热爱付出青春这件事情本"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 34,
+      "snippet": "是你熬着夜看球是真的，是你为挚爱懊恼流泪是真的，你的陪伴，全是真的。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 34,
+      "snippet": "所以伊利还有一部片子，叫《有一种青春叫梅罗》，配音的，是刘建宏老师。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 23,
+      "snippet": "是7月10日，7点10分发布，时长7分10秒。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 16,
+      "snippet": "镜头对准的不是他俩，而是球迷们。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 15,
+      "snippet": "梅罗的故事，我们听了很多次了。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 23,
+      "snippet": "你陪伴两位男孩，变成男人的故事，可以讲无数次。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 72,
+      "snippet": "甚至伊利最绝的一手，是将几座城市的地铁站变成梅罗痛车痛站，因为时光的列车悠悠驶过"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 43,
+      "snippet": "如果你爱上了某个星球的一朵花，那么只要你在夜晚仰望星空，满天繁星就像是一朵朵盛开"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 41,
+      "snippet": "你因为一个个球星了解了一座座城市与国家，在你未奔赴的地方，早就为你留下了久别重逢"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 5,
+      "snippet": "足球万岁。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 18,
+      "snippet": "Viva la vida，生命万岁。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 15,
+      "snippet": "如果说伊利更精彩的一手是什么。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 19,
+      "snippet": "是伊利知道， 巨星会落幕，新星会登场。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 22,
+      "snippet": "你无法逆转星斗，但可以永远陪着球迷眺望宇宙。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 34,
+      "snippet": "今年如此，几年后亦如此，它只需要赞助下去，做你的足球搭子，这就够了。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 13,
+      "snippet": "它知道，你是你人生的巨星。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 16,
+      "snippet": "你作为巨星登场，才是真正的炸场。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 46,
+      "snippet": "与你一起健健康康成长，快快乐乐踢球，勤勤恳恳奋斗，幸幸福福生活，就是陪你夺完人生"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 16,
+      "snippet": "陪伴你走下去，是它押中最大的宝。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 14,
+      "snippet": "热爱下去，我们一起，赢下去。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "英阿对决起笔，无论谁夺冠阿根廷都赚，真正赢麻的是包圆赞助的伊利「伊利德比」。",
+      "patterns": [
+        "英阿钩子",
+        "双赢叙事",
+        "伊利德比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "前几天的英阿对决看了吧？",
+          "note": "英阿对决"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "可以说这样的阿根廷面对西班牙，甭管决赛谁夺冠，阿根廷都赚翻了。",
+          "note": "阿根廷都赚翻"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "到决赛这直接成了“伊利德比”。",
+          "note": "伊利德比"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "赞助眼光早签→足球无需解释覆盖年轻人→五队杠杆战绩阶梯→数据验证→非运气是体系→梅罗时代情怀→陪球迷才是最大宝。",
+      "patterns": [
+        "早签眼光",
+        "足球无需解释",
+        "五队杠杆",
+        "体系非运气",
+        "陪球迷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "甚至再往前早在2022年伊利就签下了这两支队伍，国内比他们更早签约的品牌还没有。",
+          "note": "2022就签下"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "因为你赞助任何一个项目都需要解释，但你赞助足球不需要解释，这就是能让所有人都嗨起",
+          "note": "赞助足球不需要解释"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "所以伊利这次赞助了五支国家队，分别是阿根廷，西班牙，法国，葡萄牙，德国。",
+          "note": "赞助五支国家队"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化",
+          "note": "多次运气是实力"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "陪伴你走下去，是它押中最大的宝。",
+          "note": "陪伴是最大的宝"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "derby_sponsor_hook",
+          "note": "伊利德比与赞助王"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51"
+          ],
+          "function": "leverage_results",
+          "note": "五队杠杆与战绩阶梯"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76"
+          ],
+          "function": "system_not_luck",
+          "note": "体系与梅罗情怀"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102"
+          ],
+          "function": "accompany_close",
+          "note": "陪球迷赢下去"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "更赢麻的是谁/没开玩笑复盘/说白了/是是是到这儿/如果说更精彩推进。",
+      "patterns": [
+        "更赢麻",
+        "复盘",
+        "说白了",
+        "是是是嘴硬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "更赢麻了的是谁？",
+          "note": "更赢麻的是谁"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "没开玩笑啊，给大家复盘这赢到底是怎么麻的。",
+          "note": "复盘这赢"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "说白了，伊利又给自己上了个杠杆。",
+          "note": "说白了上杠杆"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "是是是是是，到这儿一定还有人嘴硬，说伊利就是靠运气的。",
+          "note": "是是是嘴硬"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "解释型赞助 vs 足球免解释；菜单式全买概率 vs 有取舍真眼光；搏运气 vs 走情怀更可怕。",
+      "patterns": [
+        "免解释",
+        "取舍vs全买",
+        "运气vs情怀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "因为你赞助任何一个项目都需要解释，但你赞助足球不需要解释，这就是能让所有人都嗨起",
+          "note": "不需要解释"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "如果伊利照着菜单赞助，把强队都赞助一遍，这不能证明伊利眼光高，只能说有钱买概率还",
+          "note": "照着菜单赞助"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。",
+          "note": "有取舍眼光夯爆"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "当它不跟你搏运气，跟你走情怀的时候，那你还不如希望它跟你一起搏运气。",
+          "note": "走情怀你还不如搏运气"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "刺不刺激、更赢麻是谁、为啥爱赞助足球、名次外最重要是什么。",
+      "patterns": [
+        "刺不刺激",
+        "更赢麻谁",
+        "为啥足球",
+        "最重要是什么"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "诶刺不刺激。",
+          "note": "刺不刺激"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "更赢麻了的是谁？",
+          "note": "更赢麻的是谁"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "说白了，为啥各种品牌都爱赞助足球？",
+          "note": "为啥爱赞助足球"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "这次足球盛事，在名次以外最重要的是一个点是什么？",
+          "note": "最重要的是一个点"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "市场部鞠躬摁年终奖；战绩及格小赢大赢赢麻阶梯；功夫足球TVC；梅罗痛车地铁站。",
+      "patterns": [
+        "年终奖仪式",
+        "战绩阶梯",
+        "功夫TVC",
+        "痛车痛站"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "就冲这个赞助眼光，我是老板我进了市场部见人就鞠躬，抓着财务的手给他们年终奖闭眼摁",
+          "note": "年终奖闭眼摁零"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "你再看看战果，伊利赞助的五支球队全进32强了，算及格。",
+          "note": "全进32强算及格"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "决赛包圆， 赢麻了 。",
+          "note": "决赛包圆赢麻了"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "甚至伊利最绝的一手，是将几座城市的地铁站变成梅罗痛车痛站，因为时光的列车悠悠驶过",
+          "note": "地铁站痛车痛站"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "赞助杠杆→五队名单与晋级阶梯；时代落幕→7:10发布7分10秒片子；陪伴→人生冠军。",
+      "patterns": [
+        "五队名单",
+        "710片子",
+        "人生冠军"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "所以伊利这次赞助了五支国家队，分别是阿根廷，西班牙，法国，葡萄牙，德国。",
+          "note": "阿根廷西班牙法国葡萄牙德国"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "是7月10日，7点10分发布，时长7分10秒。",
+          "note": "7点10分7分10秒"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "与你一起健健康康成长，快快乐乐踢球，勤勤恳恳奋斗，幸幸福福生活，就是陪你夺完人生",
+          "note": "夺完人生每一场冠军"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "赞助王礼遇、真王、眼光夯爆、一次运气多次实力、足球万岁。",
+      "patterns": [
+        "赞助王",
+        "真王",
+        "夯爆",
+        "多次即实力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这，就是对赞助王的礼遇。",
+          "note": "对赞助王的礼遇"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "伊利在48支队里挑了五个队，包揽了冠亚军，这叫赞助界终于迎来了他们的真王。",
+          "note": "赞助界真王"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。",
+          "note": "眼光夯爆"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化",
+          "note": "多次运气是实力"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认有赌的成分；「是是是靠运气」让步后立刻改口体系化作战。",
+      "patterns": [
+        "承认有赌",
+        "运气改体系"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "但以过去历届大赛的情况来看，强队爆冷出局并不罕见，我是市场部我都要承认一句，我有",
+          "note": "我有赌的成分"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "是是是是是，到这儿一定还有人嘴硬，说伊利就是靠运气的。",
+          "note": "说伊利靠运气"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化",
+          "note": "多次是实力"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "加！麻！加！辣！拆字；战绩阶梯短句排比；Viva la vida双语锤。",
+      "patterns": [
+        "拆字加麻",
+        "阶梯排比",
+        "双语锤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "如果决赛再整出个什么大乐子，类似于什么任意球世界波，连过五人，绝杀与反绝杀这种镜",
+          "note": "加"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "麻！",
+          "note": "麻"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "你再看看战果，伊利赞助的五支球队全进32强了，算及格。",
+          "note": "算及格"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "Viva la vida，生命万岁。",
+          "note": "Viva la vida"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "观赛刺激→赞助爽感→数据得意→反驳嘴硬→梅罗催泪→热爱共赢上扬。",
+      "patterns": [
+        "刺激→爽→得意→催泪→上扬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "诶刺不刺激。",
+          "note": "刺不刺激"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "决赛包圆， 赢麻了 。",
+          "note": "赢麻了"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "快乐，我真的好快乐。",
+          "note": "我真的好快乐"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "足球万岁。",
+          "note": "足球万岁"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "热爱下去，我们一起，赢下去。",
+          "note": "赢下去"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头不管谁冠军赢家伊利→结尾陪伴夺人生冠军/一起赢下去，赢家主题闭环。",
+      "patterns": [
+        "赢家首尾",
+        "一起赢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "是给这俩队的赞助包圆儿了的伊利。",
+          "note": "赢家都是伊利感"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "到决赛这直接成了“伊利德比”。",
+          "note": "伊利德比"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "与你一起健健康康成长，快快乐乐踢球，勤勤恳恳奋斗，幸幸福福生活，就是陪你夺完人生",
+          "note": "人生每一场冠军"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "热爱下去，我们一起，赢下去。",
+          "note": "一起赢下去"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无购买硬CTA；「热爱下去一起赢下去」口号式软收。",
+      "patterns": [
+        "无硬购买CTA",
+        "口号软收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s102",
+          "snippet": "热爱下去，我们一起，赢下去。",
+          "note": "热爱下去我们一起赢下去"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "赢麻、夯爆、午托小饭桌、加麻加辣、痛车痛站等饭圈/网络热词。",
+      "patterns": [
+        "赢麻",
+        "夯爆",
+        "午托",
+        "痛车"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "更赢麻了的是谁？",
+          "note": "更赢麻"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。",
+          "note": "夯爆"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "就这个眼光，高进都要托关系才能听节课，芒格都说你才是我大哥，巴菲特这最多算个午托",
+          "note": "午托小饭桌"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "甚至伊利最绝的一手，是将几座城市的地铁站变成梅罗痛车痛站，因为时光的列车悠悠驶过",
+          "note": "痛车痛站"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "品牌软广全篇；战绩归因或夸大赞助因果；情怀段较长易稀释信息。",
+      "patterns": [
+        "全篇软广",
+        "因果夸大",
+        "情怀偏长"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "6月伊利在全国液奶市场份额及销售额增速都是顶呱呱，电商平台6月母品牌增长近50%",
+          "note": "市场份额增速"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "这次冠军是它赞助的，上次还是它赞助的，就连24年的欧洲杯冠军和美洲杯冠军还是它赞",
+          "note": "冠军都是它赞助"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "是你为足球付出了热爱，从懵懂少年变成青年，又变成中年，你为热爱付出青春这件事情本",
+          "note": "付出青春传奇"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先复盘为何赞助足球，再展示取舍证明眼光，再驳运气论升到体系与时代。",
+      "patterns": [
+        "为何足球",
+        "取舍证眼光",
+        "驳运气升体系"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "说白了，为啥各种品牌都爱赞助足球？",
+          "note": "为啥爱赞助足球"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。",
+          "note": "有取舍"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化",
+          "note": "体系化作战"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认看了英阿；「你说你看球的时代是梅罗」把球迷身份抬成传奇。",
+      "patterns": [
+        "观赛默认",
+        "球迷身份抬升"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "前几天的英阿对决看了吧？",
+          "note": "看了吧"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "当你跟年轻人再聊起足球时，你说你看球的时代，是梅罗争辉的时代，这就足够了。",
+          "note": "梅罗争辉的时代"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "是你熬着夜看球是真的，是你为挚爱懊恼流泪是真的，你的陪伴，全是真的。",
+          "note": "陪伴全是真的"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "五支国家队、2022早签、尼尔森/电商数据、7分10秒片子、刘建宏配音。",
+      "patterns": [
+        "五队",
+        "2022",
+        "销售数据",
+        "710片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "所以伊利这次赞助了五支国家队，分别是阿根廷，西班牙，法国，葡萄牙，德国。",
+          "note": "五支国家队"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "甚至再往前早在2022年伊利就签下了这两支队伍，国内比他们更早签约的品牌还没有。",
+          "note": "2022年签下"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "6月伊利在全国液奶市场份额及销售额增速都是顶呱呱，电商平台6月母品牌增长近50%",
+          "note": "6月液奶份额"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "所以伊利还有一部片子，叫《有一种青春叫梅罗》，配音的，是刘建宏老师。",
+          "note": "有一种青春叫梅罗"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "比赛钩子中密→战绩阶梯高密→数据高密→情怀中低密→口号收。",
+      "patterns": [
+        "钩中→战绩高→数据高→情怀→口号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到决赛这直接成了“伊利德比”。",
+          "note": "伊利德比"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "你再看看战果，伊利赞助的五支球队全进32强了，算及格。",
+          "note": "32强十六强"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "6月伊利在全国液奶市场份额及销售额增速都是顶呱呱，电商平台6月母品牌增长近50%",
+          "note": "尼尔森"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "热爱下去，我们一起，赢下去。",
+          "note": "赢下去"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短问接队名；阶梯短句并联；拆字爆破；双语短收。",
+      "patterns": [
+        "短问队名",
+        "阶梯并联",
+        "拆字",
+        "双语收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "更赢麻了的是谁？",
+          "note": "更赢麻的是谁"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "是给这俩队的赞助包圆儿了的伊利。",
+          "note": "伊利"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "如果决赛再整出个什么大乐子，类似于什么任意球世界波，连过五人，绝杀与反绝杀这种镜",
+          "note": "加麻加辣"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "Viva la vida，生命万岁。",
+          "note": "生命万岁"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式赞助复盘鼓手：用赢麻阶梯制造爽感，再把品牌写成球迷青春搭子。",
+      "patterns": [
+        "赞助鼓手",
+        "爽感转情怀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "决赛包圆， 赢麻了 。",
+          "note": "赢麻了"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "更绝的是，伊利更懂的是，梅罗是传奇，你为他们付出的时间和热爱更是传奇。",
+          "note": "球迷热爱更是传奇"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "它知道，你是你人生的巨星。",
+          "note": "你是你人生的巨星"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "伊利德比、赢麻阶梯、一次运气多次实力、足球万岁/一起赢下去。",
+      "patterns": [
+        "伊利德比",
+        "赢麻",
+        "多次即实力",
+        "一起赢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "到决赛这直接成了“伊利德比”。",
+          "note": "伊利德比"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "决赛包圆， 赢麻了 。",
+          "note": "赢麻了"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "但还是那句话， 一次运气是运气，多次运气是实力 ，严肃点儿说，是伊利过硬的体系化",
+          "note": "多次运气是实力"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "热爱下去，我们一起，赢下去。",
+          "note": "一起赢下去"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "赞助杠杆+取舍证明眼光+情感陪伴收束可改编观宇品牌战役复盘，需弱化软广数据堆。",
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "说白了，伊利又给自己上了个杠杆。",
+          "note": "上了个杠杆"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "但就是因为伊利有取舍，这才能证明它们眼光夯爆。",
+          "note": "有取舍眼光"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "陪伴你走下去，是它押中最大的宝。",
+          "note": "陪伴走下去"
+        }
+      ]
+    }
+  },
+  "fields_complete_25": true,
+  "evidence_sentence_ids": [
+    "s3",
+    "s6",
+    "s11",
+    "s14",
+    "s21",
+    "s28",
+    "s70",
+    "s101",
+    "s9",
+    "s19",
+    "s30",
+    "s69",
+    "s43",
+    "s44",
+    "s71",
+    "s4",
+    "s20",
+    "s72",
+    "s15",
+    "s35",
+    "s38",
+    "s88",
+    "s84",
+    "s100",
+    "s17",
+    "s45",
+    "s32",
+    "s39",
+    "s40",
+    "s92",
+    "s67",
+    "s91",
+    "s102",
+    "s10",
+    "s46",
+    "s52",
+    "s13",
+    "s81",
+    "s77",
+    "s82",
+    "s83",
+    "s80",
+    "s98"
+  ]
+}

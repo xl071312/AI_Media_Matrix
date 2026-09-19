@@ -1,0 +1,1483 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_khdXzOVYljg",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=khdXzOVYljg",
+  "source_sha256": "7c937f5ca10b1a0a105fe9b60f2edd5480583169e5c94e3bb1d3bb3e6a2bfa57",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "欢迎来到何同学工作室的开箱&lt;"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "一档简单快乐的开箱节目&lt;"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "在这期节目里面&lt;"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "我们体验了&lt;"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "全世界最亮的手电筒&lt;"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "能自动变形的&lt;"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 10,
+      "snippet": "威震天机器人&lt;"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "还用电动牙刷驱动的&lt;"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "水下无人机&lt;"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "探索了海底世界&lt;"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "首先 我们准备了&lt;"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 17,
+      "snippet": "从4千到20万流明的手电筒&lt;"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 15,
+      "snippet": "而且如果你真的碰到危险&lt;"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 7,
+      "snippet": "裹着它&lt;"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 15,
+      "snippet": "也更容易被救援人员发现&lt;"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 9,
+      "snippet": "它的售价是&lt;"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 11,
+      "snippet": "5到30元一张&lt;"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 9,
+      "snippet": "下一个产品&lt;"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 23,
+      "snippet": "Magicutter便携式超声波切割刀&lt;"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 10,
+      "snippet": "名字非常大气&lt;"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 16,
+      "snippet": "但是看起来确实是平平无奇&lt;"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 14,
+      "snippet": "还比普通笔刀笨重一些&lt;"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s815",
+      "char_len": 11,
+      "snippet": "还是挺有意思的&lt;"
+    },
+    {
+      "sentence_id": "s816",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s817",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s818",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s819",
+      "char_len": 17,
+      "snippet": "它的官方售价 是8499元&lt;"
+    },
+    {
+      "sentence_id": "s820",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s821",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s822",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s823",
+      "char_len": 21,
+      "snippet": "OK各位这就是本期视频的全部内容啦&lt;"
+    },
+    {
+      "sentence_id": "s824",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s825",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s826",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s827",
+      "char_len": 14,
+      "snippet": "非常感谢你能看到这里&lt;"
+    },
+    {
+      "sentence_id": "s828",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s829",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s830",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s831",
+      "char_len": 13,
+      "snippet": "如果你看得开心的话&lt;"
+    },
+    {
+      "sentence_id": "s832",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s833",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s834",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s835",
+      "char_len": 12,
+      "snippet": "可以给我们点个赞&lt;"
+    },
+    {
+      "sentence_id": "s836",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s837",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s838",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s839",
+      "char_len": 8,
+      "snippet": "非常感谢&lt;"
+    },
+    {
+      "sentence_id": "s840",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    },
+    {
+      "sentence_id": "s841",
+      "char_len": 4,
+      "snippet": "&lt;"
+    },
+    {
+      "sentence_id": "s842",
+      "char_len": 5,
+      "snippet": "b&gt;"
+    },
+    {
+      "sentence_id": "s843",
+      "char_len": 10,
+      "snippet": "我们下期再见&lt;"
+    },
+    {
+      "sentence_id": "s844",
+      "char_len": 6,
+      "snippet": "/b&gt;"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "节目标识「何同学工作室开箱」+预告最亮手电/变形机器人/水下无人机，目录式开箱起手。",
+      "patterns": [
+        "节目标识",
+        "三件预告",
+        "目录开箱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "欢迎来到何同学工作室的开箱&lt;",
+          "note": "欢迎开箱"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "一档简单快乐的开箱节目&lt;",
+          "note": "简单快乐"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "最亮手电"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "威震天机器人&lt;",
+          "note": "威震天"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "多档流明手电体验→救生毯等实用向→Magicutter超声波刀外观平庸但=======功能测→高价品收尾→点赞再见。",
+      "patterns": [
+        "流明梯度",
+        "实用配件",
+        "超声波刀",
+        "高价收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "4千到20万流明"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "也更容易被救援人员发现&lt;",
+          "note": "救援发现"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "Magicutter便携式超声波切割刀&lt;",
+          "note": "Magicutter"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499元"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49"
+          ],
+          "function": "show_open",
+          "note": "片头预告与手电梯度引入"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s403",
+            "s404",
+            "s405",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423",
+            "s424",
+            "s425",
+            "s426",
+            "s427",
+            "s428",
+            "s429",
+            "s430",
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440"
+          ],
+          "function": "mid_products",
+          "note": "救生毯价位与超声波刀开箱"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s815",
+            "s816",
+            "s817",
+            "s818",
+            "s819",
+            "s820",
+            "s821",
+            "s822",
+            "s823",
+            "s824",
+            "s825",
+            "s826",
+            "s827",
+            "s828",
+            "s829",
+            "s830",
+            "s831",
+            "s832",
+            "s833",
+            "s834",
+            "s835",
+            "s836",
+            "s837",
+            "s838",
+            "s839",
+            "s840",
+            "s841",
+            "s842",
+            "s843",
+            "s844"
+          ],
+          "function": "price_cta",
+          "note": "官方售价与点赞收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先我们准备了」「下一个产品」「OK各位这就是本期全部内容」产品间硬切。",
+      "patterns": [
+        "首先准备",
+        "下一个产品",
+        "OK全部内容"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "首先 我们准备了&lt;",
+          "note": "首先准备"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "下一个产品&lt;",
+          "note": "下一个产品"
+        },
+        {
+          "sentence_id": "s823",
+          "snippet": "OK各位这就是本期视频的全部内容啦&lt;",
+          "note": "全部内容"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "名字大气vs看起来平平无奇；比普通笔刀笨重；流明从4千到20万梯度对比。",
+      "patterns": [
+        "名实反差",
+        "笨重对比",
+        "流明梯度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s431",
+          "snippet": "名字非常大气&lt;",
+          "note": "名字大气"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "平平无奇"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "还比普通笔刀笨重一些&lt;",
+          "note": "更笨重"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "流明梯度"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题用「世界最亮？能切塑料？」设悬念；正文以体验陈述为主，窗内直接问句稀少。",
+      "patterns": [
+        "标题悬念问",
+        "正文少问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "最亮手电"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "Magicutter便携式超声波切割刀&lt;",
+          "note": "切割刀命名"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "手电流明档；救生毯5-30元与被发现场景；Magicutter对比普通笔刀；8499元标价。",
+      "patterns": [
+        "流明档",
+        "救生毯价",
+        "笔刀对比",
+        "标价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "流明"
+        },
+        {
+          "sentence_id": "s419",
+          "snippet": "5到30元一张&lt;",
+          "note": "5到30元"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "还比普通笔刀笨重一些&lt;",
+          "note": "笔刀"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「危险时更容易被发现」落到裹毯；「便携超声波」落到比笔刀笨重的观感。",
+      "patterns": [
+        "救援→裹毯",
+        "超声波→笨重观感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s407",
+          "snippet": "裹着它&lt;",
+          "note": "裹着它"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "也更容易被救援人员发现&lt;",
+          "note": "被发现"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "还比普通笔刀笨重一些&lt;",
+          "note": "笨重"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "简单快乐；名字大气但平平无奇；还是挺有意思；官方售价直给。",
+      "patterns": [
+        "简单快乐",
+        "名实评",
+        "挺有意思",
+        "直给售价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一档简单快乐的开箱节目&lt;",
+          "note": "简单快乐"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "平平无奇"
+        },
+        {
+          "sentence_id": "s815",
+          "snippet": "还是挺有意思的&lt;",
+          "note": "挺有意思"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先夸名字大气再立刻贬外观平庸笨重，形成预期回落。",
+      "patterns": [
+        "先夸后贬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s431",
+          "snippet": "名字非常大气&lt;",
+          "note": "大气"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "平平无奇"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "还比普通笔刀笨重一些&lt;",
+          "note": "笨重"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "预告短句密集（字幕切分）→中段产品说明中速→结尾价+CTA短收。",
+      "patterns": [
+        "字幕短句",
+        "中速说明",
+        "短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "短预告"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "中评"
+        },
+        {
+          "sentence_id": "s823",
+          "snippet": "OK各位这就是本期视频的全部内容啦&lt;",
+          "note": "短收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "欢迎轻松→猎奇期待→实用安心→外观落差→价格震惊→感谢温和。",
+      "patterns": [
+        "轻松",
+        "猎奇",
+        "落差",
+        "价震",
+        "感谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "欢迎来到何同学工作室的开箱&lt;",
+          "note": "欢迎"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "最亮"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "落差"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499"
+        },
+        {
+          "sentence_id": "s827",
+          "snippet": "非常感谢你能看到这里&lt;",
+          "note": "感谢"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到开箱节目定位：全部内容+开心点赞+下期再见。",
+      "patterns": [
+        "全部内容",
+        "点赞",
+        "下期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s823",
+          "snippet": "OK各位这就是本期视频的全部内容啦&lt;",
+          "note": "全部内容"
+        },
+        {
+          "sentence_id": "s835",
+          "snippet": "可以给我们点个赞&lt;",
+          "note": "点个赞"
+        },
+        {
+          "sentence_id": "s843",
+          "snippet": "我们下期再见&lt;",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「看得开心就点赞」温和标准CTA。",
+      "patterns": [
+        "开心点赞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s831",
+          "snippet": "如果你看得开心的话&lt;",
+          "note": "看得开心"
+        },
+        {
+          "sentence_id": "s835",
+          "snippet": "可以给我们点个赞&lt;",
+          "note": "点个赞"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "具体流明区间与价格带；产品英文名Magicutter；字幕&lt;b&gt;切分造成的口语碎片感。",
+      "patterns": [
+        "流明价",
+        "产品名",
+        "字幕碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "流明区间"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "Magicutter便携式超声波切割刀&lt;",
+          "note": "Magicutter"
+        },
+        {
+          "sentence_id": "s419",
+          "snippet": "5到30元一张&lt;",
+          "note": "5到30元"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗内大量HTML标签噪声；产品线跳跃缺统一论点；深度测评句在截断窗中缺失。",
+      "patterns": [
+        "HTML噪声",
+        "跳跃缺论点",
+        "窗截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "&lt;",
+          "note": "标签噪声"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "下一个产品&lt;",
+          "note": "硬切下一品"
+        },
+        {
+          "sentence_id": "s815",
+          "snippet": "还是挺有意思的&lt;",
+          "note": "评价过短"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「名字期待→上手观感修正」的当场评价路径。",
+      "patterns": [
+        "期待修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s431",
+          "snippet": "名字非常大气&lt;",
+          "note": "大气"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "无奇"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当来玩的开箱同事；「各位」集体称呼收尾。",
+      "patterns": [
+        "开箱同事",
+        "各位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一档简单快乐的开箱节目&lt;",
+          "note": "简单快乐"
+        },
+        {
+          "sentence_id": "s823",
+          "snippet": "OK各位这就是本期视频的全部内容啦&lt;",
+          "note": "各位"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "20万流明；救生毯5-30元；Magicutter；8499元。",
+      "patterns": [
+        "20万流明",
+        "5-30元",
+        "Magicutter",
+        "8499"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "20万流明"
+        },
+        {
+          "sentence_id": "s419",
+          "snippet": "5到30元一张&lt;",
+          "note": "价"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "Magicutter便携式超声波切割刀&lt;",
+          "note": "刀名"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "片头预告低密→手电参数抬升→中段功用中密→结尾价目一刺。",
+      "patterns": [
+        "预告低",
+        "参数升",
+        "功用中",
+        "价刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我们体验了&lt;",
+          "note": "体验了"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "参数"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "也更容易被救援人员发现&lt;",
+          "note": "功用"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "价"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "字幕把完整句切成极短片；产品名独立成句；结尾并列感谢句。",
+      "patterns": [
+        "字幕切片",
+        "品名独立",
+        "感谢并列"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "切片"
+        },
+        {
+          "sentence_id": "s427",
+          "snippet": "Magicutter便携式超声波切割刀&lt;",
+          "note": "品名句"
+        },
+        {
+          "sentence_id": "s827",
+          "snippet": "非常感谢你能看到这里&lt;",
+          "note": "感谢"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学工作室「冷静开箱主持人」：少煽情，名实对照后给价，保持简单快乐人设。",
+      "patterns": [
+        "冷静主持人",
+        "名实对照",
+        "简单快乐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "一档简单快乐的开箱节目&lt;",
+          "note": "简单快乐"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "名实"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "给价"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "世界最亮手电；20万流明；Magicutter看起来平平；8499元。",
+      "patterns": [
+        "最亮手电",
+        "20万流明",
+        "平平Magicutter",
+        "8499"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "全世界最亮的手电筒&lt;",
+          "note": "最亮"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "从4千到20万流明的手电筒&lt;",
+          "note": "20万"
+        },
+        {
+          "sentence_id": "s435",
+          "snippet": "但是看起来确实是平平无奇&lt;",
+          "note": "平平"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "8499"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "多产品目录开箱+价目表形态与观宇论说型口播差异大，可借鉴的只有名实对照一句式，整体不值得迁移。",
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "首先 我们准备了&lt;",
+          "note": "目录式"
+        },
+        {
+          "sentence_id": "s423",
+          "snippet": "下一个产品&lt;",
+          "note": "下一品硬切"
+        },
+        {
+          "sentence_id": "s819",
+          "snippet": "它的官方售价 是8499元&lt;",
+          "note": "价目收尾"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s403",
+    "s404",
+    "s405",
+    "s406",
+    "s407",
+    "s408",
+    "s409",
+    "s410",
+    "s411",
+    "s412",
+    "s413",
+    "s414",
+    "s415",
+    "s416",
+    "s417",
+    "s418",
+    "s419",
+    "s420",
+    "s421",
+    "s422",
+    "s423",
+    "s424",
+    "s425",
+    "s426",
+    "s427",
+    "s428",
+    "s429",
+    "s430",
+    "s431",
+    "s432",
+    "s433",
+    "s434",
+    "s435",
+    "s436",
+    "s437",
+    "s438",
+    "s439",
+    "s440",
+    "s815",
+    "s816",
+    "s817",
+    "s818",
+    "s819",
+    "s820",
+    "s821",
+    "s822",
+    "s823",
+    "s824",
+    "s825",
+    "s826",
+    "s827",
+    "s828",
+    "s829",
+    "s830",
+    "s831",
+    "s832",
+    "s833",
+    "s834",
+    "s835",
+    "s836",
+    "s837",
+    "s838",
+    "s839",
+    "s840",
+    "s841",
+    "s842",
+    "s843",
+    "s844"
+  ],
+  "fields_complete_25": true
+}

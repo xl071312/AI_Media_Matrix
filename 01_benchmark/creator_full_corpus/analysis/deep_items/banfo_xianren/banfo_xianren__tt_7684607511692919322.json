@@ -1,0 +1,1824 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7684607511692919322",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7684607511692919322/",
+  "source_sha256": "e187f62d31fb1b13c5bc09af22bfbaaed2936eeaa18d8a4f9193e778103d7061",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 165,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 39,
+      "snippet": "2023年，小米提出了一个【新十年目标】，要从互联网公司走向【硬核科技公司】："
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 15,
+      "snippet": "成为新一代全球硬核科技引领者。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 21,
+      "snippet": "2019年，小米的全年研发投入是75亿元。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 32,
+      "snippet": "但在未来5年里，这家公司计划在核心技术的研发上投入1000亿元。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 39,
+      "snippet": "彼时互联网沸反盈天，支持小米自研的人和嘲讽小米做不好自研的人吵成了一锅八宝粥。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 23,
+      "snippet": "六年后再看，小米三芯齐发、折叠旗舰、澎程爆单。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "山峰之上，技惊四座。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 14,
+      "snippet": "常言道，厂商开发布会像打牌。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 30,
+      "snippet": "想打出更好的效果，出牌的次序、组合乃至脸上的表情，都很重要。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 34,
+      "snippet": "过去各大厂商常有各种骚操作和奇袭，连产品的取名和序号都暗藏无穷心思。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 50,
+      "snippet": "但2026年9月7日晚7点，当雷军老师站上小米秋季旗舰新品发布会舞台，一切出牌技巧和潜规则都消失了。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "剩下的只有："
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "王炸，王炸，还是王炸。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 24,
+      "snippet": "他上来就开始讲三颗自研玄戒芯片，历时约四十分钟。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 23,
+      "snippet": "能讲的故事实在太多，这一路走来又实在太不容易。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 18,
+      "snippet": "过去五年，小米在研发上的投入力度是："
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "1055亿元。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 32,
+      "snippet": "如果把2014年开始的松果算上，小米在自研芯片上走的路还要更长。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 22,
+      "snippet": "在此期间，外界质疑声不绝于耳，小米默默前行。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 56,
+      "snippet": "直到2025年，小米拿出3nm旗舰SoC玄戒O1，甫一发布便商用在了小米手机和平板上，顶着质疑，出货量已超百万。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 41,
+      "snippet": "这次发布会，又一次性拿出水准在世界范围内都是赛亚人水准的O3、O100和D100。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 20,
+      "snippet": "彻底击碎了自研芯片只有一代装门面的说法。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 18,
+      "snippet": "为了这一天，小米真的忍耐了太久太久。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 20,
+      "snippet": "但一切都是值得的，因为这条路最终走通了。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 27,
+      "snippet": "这一路上的风风雨雨，雷军老师没有细讲，其实也无需细讲。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 32,
+      "snippet": "没到达灵山的人才会强调路途艰险，抵达了的人只会说通天大道宽又阔。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "至于为什么别人没取到真经，不讲，不讲。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 7,
+      "snippet": "只是这样了吗？"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 26,
+      "snippet": "不，还有集结了小米自研科技精华的【中折叠】旗舰手机："
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "小米18Fold。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 50,
+      "snippet": "如果说过去厂商是受上游供应商影响，部分时间被供应商卡脖子，那2026年就是被供应商使用了裸绞十字固。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 25,
+      "snippet": "但小米18Fold的脖子，是小米自研的不锈钢脖子。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 60,
+      "snippet": "从小米玄戒O3AI旗舰SoC、新一代小米澎湃OS4到XiaomiMiMo端侧大模型，每一项核心技术都掌握在小米自己手里。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 21,
+      "snippet": "就连储存，也有小米战略投资的长鑫一起发力。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 16,
+      "snippet": "更离谱的，是四款澎程增程SUV。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 48,
+      "snippet": "我习惯家人们一起看小米发布会，当听到N90 Max发售价是26.99万元的时候，我老婆脱口而出："
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "他日子不过了？"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 18,
+      "snippet": "那一刻，有相同想法的人应该不在少数。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 32,
+      "snippet": "2026上半年有零售记录的增程车型超过66款，销量大多惨不忍睹。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 21,
+      "snippet": "而澎程系列锁单量突破10000辆的时间是："
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "4分钟。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 27,
+      "snippet": "注意，这是不可退的锁单，不是什么大定小定，这是，锁单。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 35,
+      "snippet": "从芯片到折叠屏到车，小米这一系列操作下来，我要是我同行我已经开始笑了。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 22,
+      "snippet": "真的，人在面对巨大的荒谬的时候，就是会笑的。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 23,
+      "snippet": "什么叫你20张手牌，其中10张大王10张小王？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 23,
+      "snippet": "在绝对的实力面前，技巧越花哨，越显得孱弱可笑。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 29,
+      "snippet": "就像你修炼了十年围棋，你这局的对手棋力一般，但绰号劲儿大。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 18,
+      "snippet": "那你就要思考，这个劲儿大，是有多大。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 14,
+      "snippet": "以及这么大的劲儿，会用在哪？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 20,
+      "snippet": "这场发布会后，网上很多人原地入坑了小米。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 40,
+      "snippet": "很正常，消费者又不傻，你到底是手里真有料还是全靠取名忽悠人，这些都是能看出来的。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 41,
+      "snippet": "尤其是在这个大家恨不得把一个料分十次发、吃十次流量的时代，这么有诚意的确实不多了。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 29,
+      "snippet": "上一个把这么多好东西一股脑儿拿出来的人，还是个姓刘的电工。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 42,
+      "snippet": "据说他被误诊，深感时日无多，为了不浪费，便把攒下来的几十个科幻点子塞进了同一部小说。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 29,
+      "snippet": "那部小说同样为他圈粉无数，其中一个粉丝还小有名气，名字叫："
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "巴拉克·侯赛因·奥巴马。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 48,
+      "snippet": "历经长年累月的自研投入，今天的小米手握多项核心技术，从芯片到手机到人车家的整个体系都已蔚为大观。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 26,
+      "snippet": "而今天的米粉，同样是一个横跨老中青少四代的庞大群体。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 31,
+      "snippet": "从村口大爷到单位老板同事，再到大学生和小孩哥姐，尽在小米彀中。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 19,
+      "snippet": "但严格意义上的【早期米粉】，其实只有："
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "约50万人。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 68,
+      "snippet": "彼时初代小米手机还没有发布，米粉指代的并非小米用户，而仅是一群起源于各大技术论坛、和小米有着相同的产品理念和性能追求，以年轻人为主体的："
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 4,
+      "snippet": "发烧友。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 68,
+      "snippet": "他们聚集在MIUI社区，谈论手机、电脑或是其他一切电子产品，分享和提出自己对市面上产品的见解和批评，和彼时尚且年轻的小米形成了深度互动。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 35,
+      "snippet": "后来M1发布，以1999元的价格成为智能手机行业令所有厂商闻风丧胆的："
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "价格屠夫。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 45,
+      "snippet": "与此同时，这些早期米粉也成为了小米的首批付费客户，其中很多人对小米的支持一直持续到了今天。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 30,
+      "snippet": "当年的米粉愿意支持小米，是因为小米做出了他们真正想要的产品。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 49,
+      "snippet": "而随着这批米粉逐渐长大、成家立业，他们需要的东西变得越来越多，对产品的要求也变得越来越复杂和严苛。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 47,
+      "snippet": "他们不仅是以发烧友的身份在选择产品，更是在以职场人，以创业者，以配偶或是父母的身份在做出选择。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 21,
+      "snippet": "这个时候，小米还能不能跟上米粉成长的脚步？"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 26,
+      "snippet": "过去的SU7和今天的澎程，分别给出了这个问题的答案："
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 64,
+      "snippet": "SU7不仅征战纽北，让世界重新认识了中国速度，而且用双层镀银的天幕玻璃+三层镀银的前挡风玻璃，补上了行业普遍欠缺的轿车防晒设计；"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 68,
+      "snippet": "澎程针对增程SUV空间利用不足，打造【小米昆仑技术架构】，用前后贯穿的纯平地板、方正格局和百变智能空间，彻底改变了汽车行业对空间的认知。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "米粉在成长，小米同样在成长；"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 24,
+      "snippet": "米粉的生活范围在扩展，小米的业务边界同样在扩展。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 45,
+      "snippet": "而每一次扩展，小米都在认真洞察用户痛点，用一如既往的创新和热忱，去改变甚至定义一个新品类。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 36,
+      "snippet": "现在的人喜欢讲【接住】，爱你的人会接住你的情绪，懂你的人会接住你的沉默。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 24,
+      "snippet": "在这种叙事里，幸福被具象成了一次又一次的被接住。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 30,
+      "snippet": "而从手机到【人车家全生态】，小米同样一次次接住了米粉的需求。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 15,
+      "snippet": "说白了，小米为什么要坚持自研？"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 19,
+      "snippet": "为什么要在研发上投入天量的资金和心血？"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 17,
+      "snippet": "因为从始至终，小米都很清楚一件事："
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 24,
+      "snippet": "这个世界上没有无缘无故的恨，也没有无缘无故的爱。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 29,
+      "snippet": "小米能一直赢得用户，本质还是源于小米在自研上的持续突破——"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 37,
+      "snippet": "有了强大的自研实力，才有能力不断做出创新产品，才有可能一次次打动用户的心。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "不然，用户凭什么选择你？"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 66,
+      "snippet": "在MIUI社区，从雷军老师本人到小米的产品经理和工程师，都喜欢泡在论坛里和用户直接交流，有什么反馈就直接讨论，讨论出结果就直接去做。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 39,
+      "snippet": "【应用定向流量名单】、【访客模式】和【百变框架】等创新，都是这种模式下的产物。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 16,
+      "snippet": "小米延续了这种对用户意见的重视。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 35,
+      "snippet": "2024年，有人在雷军的社媒评论区手绘了一张图，说想要个双区洗衣机——"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 20,
+      "snippet": "要有一大一小两个分区，但总体积不要太大。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 47,
+      "snippet": "同年10月，小米真的发布了【米家双区洗双洗烘】洗衣机，在标准尺寸下实现双滚筒，双筒可同洗同烘；"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 23,
+      "snippet": "次年9月，小米又推出了威力加强的三区洗洗衣机。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 50,
+      "snippet": "而小米之所以每一次都能瞄准用户需求，在不同领域做出突破，同样离不开这些年来对底层核心技术的坚定投入。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 34,
+      "snippet": "这种投入并不拘泥于具体的某项技术或是某个方面，它更像是武侠小说中的："
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 3,
+      "snippet": "内力。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 33,
+      "snippet": "无论是何门何派何种招式，只要你的内力足够深厚，都可以化腐朽为神奇。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 14,
+      "snippet": "德国社会学家卢曼说过一句话："
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 7,
+      "snippet": "信任源自重逢。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 50,
+      "snippet": "当小米的【内力】达到一定程度，自然就可以反复接住米粉的需求，拿出不同的创新产品甚至是颠覆性的产品——"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 21,
+      "snippet": "在米粉人生中的各个阶段，和他们一次次重逢。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 14,
+      "snippet": "信任由此而生，逐渐根深蒂固。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 26,
+      "snippet": "这种信任，甚至已经超出了常规的品牌和用户之间的关系。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 9,
+      "snippet": "而应该将其称之为："
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 3,
+      "snippet": "感情。"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 15,
+      "snippet": "米粉对小米，真的是有感情在的。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 38,
+      "snippet": "雷军老师曾经在演讲中提到过一个早期米粉，从很多年前开始，就一直默默支持小米。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 27,
+      "snippet": "小米官宣造车后，他甚至专门买了车位，等小米把车造出来。"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 32,
+      "snippet": "对这些老米粉来说，小米【能不能做成】，并不是一个值得讨论的问题："
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 20,
+      "snippet": "即使这一次没成，小米也一定会去做下一次。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 27,
+      "snippet": "其实从纯赚钱的角度，小米就算不自研，也不一定影响赚钱。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 27,
+      "snippet": "甚至考虑到风险和成本，不自研说不定还赚得更多、更安全。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 43,
+      "snippet": "能整合好资源一样是本事，自研这么难，困难这么多，多到能难死人，为什么小米还要咬牙自研？"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 17,
+      "snippet": "一方面，小米要配得上米粉们的期待。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 31,
+      "snippet": "就像雷军老师在小米决定是否继续芯片业务的高管会上说的那段话——"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 54,
+      "snippet": "假如现在放弃，10年后，我们是会为公司的账上多了几百个亿而庆幸，还是会为小米这家公司永远失去芯片业务而后悔。"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 24,
+      "snippet": "账面上多几百亿还是少几百亿，小米都还是那个小米。"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 41,
+      "snippet": "但没有这些的小米，却和有了su7、yu7、澎程、玄戒和18Flod的小米截然不同。"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 26,
+      "snippet": "而那个能够一直被米粉信任的小米，永远会选择成为后者。"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 34,
+      "snippet": "另一方面，到了小米和雷军老师这个阶段，赚钱已经不是唯一重要的事情了。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 29,
+      "snippet": "只有做一个伟大的，能被时间记住的公司，才能带来真正的满足。"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 14,
+      "snippet": "而这样的公司，不可能不自研。"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 29,
+      "snippet": "小米做松果没做好，一方面是选错了方向，起手先做了低端芯片；"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 44,
+      "snippet": "另一方面，则是彼时小米的不同部门之间缺乏配合，甚至会因为利益不一致互相扯后腿、持续内耗。"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 15,
+      "snippet": "无需避讳，就是自己做的不够好。"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 15,
+      "snippet": "但正是不够好，才有做好的基础。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 22,
+      "snippet": "如果不自研，小米或许永远都不会经历这些困难；"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 22,
+      "snippet": "但如果不自研，小米同样永远无法克服这些困难。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 29,
+      "snippet": "就像松果确实失败了，但它遗留下来的团队和经验，让玄戒成了。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 20,
+      "snippet": "真正的宗师，并不总是一帆风顺、永远成功。"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 3,
+      "snippet": "而是："
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 14,
+      "snippet": "累历起落成败，依旧不荣不辱。"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 39,
+      "snippet": "自从SU7出来以后，我就一直能刷到各路一提到小米汽车就两眼放光的小孩哥小孩姐。"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 39,
+      "snippet": "还有小孩哥跑去小米汽车的门店问东问西，和店员拉勾勾，说二十年后要来买小米汽车。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 42,
+      "snippet": "老米粉看到这些新米粉的心情其实是很复杂的，一方面是高兴于米粉文化一脉相承，薪火永继。"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 11,
+      "snippet": "另一方面，则是羡慕——"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 22,
+      "snippet": "在这个时代成为米粉，真的是一件很幸运的事情。"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 45,
+      "snippet": "曾经的小米是追赶者，是嘴里念叨着【星光不负赶路人】鼓舞自己，在各个领域艰难跋涉的行业新人。"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 34,
+      "snippet": "而时至今日，小米已然成为了彼时50万早期米粉眼中那个【更好的公司】："
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 52,
+      "snippet": "小米17Pro推出【妙享背屏】，对手机形态做出创新，和全球顶级选手正面竞争不落下风，甚至引发了一阵风潮；"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 35,
+      "snippet": "澎程用三年半打造【小米昆仑技术架构】，重新定义智能出行时代的产品形态；"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 57,
+      "snippet": "玄戒芯片从O1填补大陆3nm先进制程芯片设计空白，到三芯齐发构建AI算力基座，牢牢掌握算力供给与软硬协同的主导权；"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 48,
+      "snippet": "AI、芯片、机器人相继亮相德国IFA现场，向世界展示【人车家全生态】落地物理AI的中国科技公司。"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 39,
+      "snippet": "昔日那个曾饱受讥讽的【后学末进】，不知不觉已站在了行业定义者和领航者的角色上。"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 34,
+      "snippet": "但现在的米粉恐怕很难想象，这曾经是一句连说出来都会被嘲笑的【梦话】。"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 37,
+      "snippet": "举个例子，这种感觉就像有一天足球变得很猛，踢进世界杯，甚至捧起了大力神杯。"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 39,
+      "snippet": "新球迷会觉得高兴，但那些一路支持过来的老球迷的心情绝对不是【高兴】可以形容的。"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 8,
+      "snippet": "应该叫百感交集。"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 11,
+      "snippet": "当然小米现在已经成了。"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 15,
+      "snippet": "而后者目前来看，还属于奇幻片。"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 13,
+      "snippet": "关键是，这还只是一个开始。"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 24,
+      "snippet": "因为接下来，小米还有一个同样长达5年的研发规划。"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 7,
+      "snippet": "预算同样惊人："
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 9,
+      "snippet": "超过2000亿元。"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 18,
+      "snippet": "某种意义上，小米其实也是在【赌】——"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 27,
+      "snippet": "赌小米会有更好的技术，也赌米粉们会有更丰富的产品需求。"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 27,
+      "snippet": "从2020年到今天，小米用实打实的成绩证明自己赌对了。"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 26,
+      "snippet": "五年之后，更好的小米和更好的米粉，同样会在顶峰相见："
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 12,
+      "snippet": "希君生羽翼，一化北溟鱼。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "新十年硬核科技目标+研发75亿vs未来1000亿对比，六年后三芯齐发「王炸王炸还是王炸」压场。",
+      "patterns": [
+        "新十年目标",
+        "研发投入对比",
+        "王炸三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "2023年，小米提出了一个【新十年目标】，要从互联网公司走向【硬核科技公司】：",
+          "note": "新十年硬核科技"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "2019年，小米的全年研发投入是75亿元。",
+          "note": "研发75亿"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但在未来5年里，这家公司计划在核心技术的研发上投入1000亿元。",
+          "note": "投入1000亿"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸王炸还是王炸"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "自研忍耐兑现→中折叠自主脖子→澎程锁单四分钟→（窗中）米粉成长共振→接住需求靠内力→（窗末）更好公司与2000亿再赌。",
+      "patterns": [
+        "自研兑现",
+        "折叠/车爆款",
+        "米粉共振",
+        "内力接住",
+        "再赌2000亿"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "直到2025年，小米拿出3nm旗舰SoC玄戒O1，甫一发布便商用在了小米手机和平",
+          "note": "玄戒O1出货百万"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "4分钟。",
+          "note": "锁单4分钟"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "米粉在成长，小米同样在成长；",
+          "note": "米粉与小米同成长"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "内力。",
+          "note": "内力"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "超过2000亿元。",
+          "note": "超过2000亿"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "rd_bombshell",
+          "note": "新十年目标与发布会王炸三芯/折叠/车"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102"
+          ],
+          "function": "fans_co_growth",
+          "note": "早期米粉到人车家需求被接住"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165"
+          ],
+          "function": "neifan_and_next_bet",
+          "note": "内力隐喻与2000亿再赌收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「只是这样了吗？不，还有」递加；「说白了」；「而从手机到人车家」；「关键是这还只是一个开始」。",
+      "patterns": [
+        "只是这样了吗递加",
+        "说白了",
+        "而从…到",
+        "关键是开始"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "只是这样了吗？",
+          "note": "只是这样了吗"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "不，还有集结了小米自研科技精华的【中折叠】旗舰手机：",
+          "note": "不还有折叠"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "说白了，小米为什么要坚持自研？",
+          "note": "说白了为什么自研"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "而从手机到【人车家全生态】，小米同样一次次接住了米粉的需求。",
+          "note": "从手机到人车家"
+        },
+        {
+          "sentence_id": "s157",
+          "snippet": "关键是，这还只是一个开始。",
+          "note": "还只是一个开始"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "出牌技巧消失vs绝对王炸；供应商卡脖子vs自研不锈钢脖子；追赶者vs定义者；新米粉幸运vs老米粉百感交集。",
+      "patterns": [
+        "技巧/实力",
+        "卡脖子/自研颈",
+        "追赶/定义",
+        "新老米粉心情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "但2026年9月7日晚7点，当雷军老师站上小米秋季旗舰新品发布会舞台，一切出牌技",
+          "note": "出牌技巧消失"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "只有王炸"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "如果说过去厂商是受上游供应商影响，部分时间被供应商卡脖子，那2026年就是被供应",
+          "note": "供应商裸绞"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但小米18Fold的脖子，是小米自研的不锈钢脖子。",
+          "note": "不锈钢脖子"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "昔日那个曾饱受讥讽的【后学末进】，不知不觉已站在了行业定义者和领航者的角色上。",
+          "note": "定义者和领航者"
+        },
+        {
+          "sentence_id": "s154",
+          "snippet": "应该叫百感交集。",
+          "note": "百感交集"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「他日子不过了？」老婆脱口问价格；「小米还能不能跟上米粉成长」；「用户凭什么选择你」；「劲儿有多大」。",
+      "patterns": [
+        "价格惊问",
+        "能否跟上问",
+        "凭什么选择",
+        "劲儿多大"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "他日子不过了？",
+          "note": "日子不过了"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "这个时候，小米还能不能跟上米粉成长的脚步？",
+          "note": "能不能跟上"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "不然，用户凭什么选择你？",
+          "note": "凭什么选择你"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "那你就要思考，这个劲儿大，是有多大。",
+          "note": "劲儿有多大"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "玄戒O1/O3/O100/D100；18Fold；澎程N90 Max 26.99万/4分钟锁单万辆；双区洗衣机评论区手绘落地；IFA展示。",
+      "patterns": [
+        "三芯例",
+        "折叠例",
+        "澎程锁单",
+        "洗衣机需求落地",
+        "IFA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "直到2025年，小米拿出3nm旗舰SoC玄戒O1，甫一发布便商用在了小米手机和平",
+          "note": "玄戒O1"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "小米18Fold。",
+          "note": "18Fold"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "4分钟。",
+          "note": "4分钟锁单"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "同年10月，小米真的发布了【米家双区洗双洗烘】洗衣机，在标准尺寸下实现双滚筒，双",
+          "note": "双区洗衣机"
+        },
+        {
+          "sentence_id": "s149",
+          "snippet": "AI、芯片、机器人相继亮相德国IFA现场，向世界展示【人车家全生态】落地物理AI",
+          "note": "IFA现场"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「硬核科技」落到1055亿研发与3nm SoC；「接住」落到洗衣机手绘→量产；「内力」落到跨品类定义能力。",
+      "patterns": [
+        "硬核→研发数字芯片",
+        "接住→洗衣机",
+        "内力→跨品类"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "成为新一代全球硬核科技引领者。",
+          "note": "硬核科技引领者"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "1055亿元。",
+          "note": "1055亿元"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "2024年，有人在雷军的社媒评论区手绘了一张图，说想要个双区洗衣机——",
+          "note": "手绘双区洗衣机"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "同年10月，小米真的发布了【米家双区洗双洗烘】洗衣机，在标准尺寸下实现双滚筒，双",
+          "note": "真的发布"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "内力。",
+          "note": "内力"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「彻底击碎只有一代装门面」；「这一刻已经赢了」式锁单震撼；「没有无缘无故的爱」；「赌对了」。",
+      "patterns": [
+        "击碎装门面",
+        "无缘无故的爱",
+        "赌对了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "彻底击碎了自研芯片只有一代装门面的说法。",
+          "note": "击碎装门面说法"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "这个世界上没有无缘无故的恨，也没有无缘无故的爱。",
+          "note": "无缘无故的爱"
+        },
+        {
+          "sentence_id": "s163",
+          "snippet": "从2020年到今天，小米用实打实的成绩证明自己赌对了。",
+          "note": "证明自己赌对了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「雷军没有细讲其实也无需细讲」主动省略苦情；足球大力神杯类比后立刻说「后者属奇幻」自嘲降温。",
+      "patterns": [
+        "省略苦情",
+        "类比后自嘲降温"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "这一路上的风风雨雨，雷军老师没有细讲，其实也无需细讲。",
+          "note": "无需细讲"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "举个例子，这种感觉就像有一天足球变得很猛，踢进世界杯，甚至捧起了大力神杯。",
+          "note": "足球捧杯类比"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "而后者目前来看，还属于奇幻片。",
+          "note": "还属于奇幻片"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "数字重击→王炸短句→价格惊呼→锁单数字砸→叙事中板米粉史→内力慢喻→2000亿再砸→古诗收。",
+      "patterns": [
+        "数字重击",
+        "锁单砸地",
+        "米粉史中板",
+        "古诗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "1055亿元。",
+          "note": "1055亿"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸三连"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "4分钟。",
+          "note": "4分钟"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "彼时初代小米手机还没有发布，米粉指代的并非小米用户，而仅是一群起源于各大技术论坛",
+          "note": "早期米粉"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "希君生羽翼"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "六年见证的痛快→王炸狂热→价格荒谬笑→米粉史温情复杂→顶峰相见豪迈。",
+      "patterns": [
+        "痛快",
+        "狂热",
+        "荒谬笑",
+        "温情复杂",
+        "豪迈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "但一切都是值得的，因为这条路最终走通了。",
+          "note": "一切都值得"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "真的，人在面对巨大的荒谬的时候，就是会笑的。",
+          "note": "巨大荒谬会笑"
+        },
+        {
+          "sentence_id": "s142",
+          "snippet": "另一方面，则是羡慕——",
+          "note": "羡慕"
+        },
+        {
+          "sentence_id": "s164",
+          "snippet": "五年之后，更好的小米和更好的米粉，同样会在顶峰相见：",
+          "note": "顶峰相见"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从1000亿目标回扣到下一轮2000亿再赌，用「更好的小米和米粉顶峰相见」+古诗收束开篇梦想。",
+      "patterns": [
+        "2000亿回扣投入",
+        "顶峰相见",
+        "古诗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但在未来5年里，这家公司计划在核心技术的研发上投入1000亿元。",
+          "note": "1000亿计划"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "超过2000亿元。",
+          "note": "超过2000亿"
+        },
+        {
+          "sentence_id": "s164",
+          "snippet": "五年之后，更好的小米和更好的米粉，同样会在顶峰相见：",
+          "note": "顶峰相见"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "北溟鱼"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬销售链CTA；情感认同与「顶峰相见」愿景召唤；偏品牌信仰文。",
+      "patterns": [
+        "愿景召唤",
+        "信仰文无硬链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s164",
+          "snippet": "五年之后，更好的小米和更好的米粉，同样会在顶峰相见：",
+          "note": "顶峰相见"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "希君生羽翼"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "王炸打牌喻；老婆「日子不过了」；裸绞十字固；足球奇幻片自嘲；古诗收尾，半佛式长梗密度。",
+      "patterns": [
+        "打牌王炸",
+        "日子不过了",
+        "裸绞",
+        "古诗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "他日子不过了？",
+          "note": "日子不过了"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "如果说过去厂商是受上游供应商影响，部分时间被供应商卡脖子，那2026年就是被供应",
+          "note": "裸绞十字固"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "北溟鱼"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "品牌颂歌倾角强；截断使卢曼引言与部分论证不完整；对竞品「笑」易显站队。",
+      "patterns": [
+        "颂歌倾角",
+        "截断缺段",
+        "站队感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "从芯片到折叠屏到车，小米这一系列操作下来，我要是我同行我已经开始笑了。",
+          "note": "同行开始笑了"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "德国社会学家卢曼说过一句话：",
+          "note": "卢曼引言截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "发布会出牌隐喻推「技巧消失只剩实力」；用米粉身份扩展解释品类扩张；自研→创新→打动用户因果外化。",
+      "patterns": [
+        "出牌推实力",
+        "身份扩展解释",
+        "自研因果链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "常言道，厂商开发布会像打牌。",
+          "note": "开发布会像打牌"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "他们不仅是以发烧友的身份在选择产品，更是在以职场人，以创业者，以配偶或是父母的身",
+          "note": "职场人父母身份"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "小米能一直赢得用户，本质还是源于小米在自研上的持续突破——",
+          "note": "自研持续突破"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认读者含老米粉/科技爱好者；用「家人们一起看发布会」家庭场景；新老米粉心情分化共情。",
+      "patterns": [
+        "老米粉默认",
+        "家庭场景",
+        "新老分化共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "我习惯家人们一起看小米发布会，当听到N90 Max发售价是26.99万元的时候，",
+          "note": "家人们一起看"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "老米粉看到这些新米粉的心情其实是很复杂的，一方面是高兴于米粉文化一脉相承，薪火永",
+          "note": "老米粉心情复杂"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "在这个时代成为米粉，真的是一件很幸运的事情。",
+          "note": "成为米粉很幸运"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "75亿/1000亿/1055亿/2000亿；玄戒O1百万；N90 Max 26.99万；4分钟锁单万辆；双区洗衣机。",
+      "patterns": [
+        "研发数字阶梯",
+        "芯片出货",
+        "锁单",
+        "洗衣机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "2019年，小米的全年研发投入是75亿元。",
+          "note": "75亿"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "1055亿元。",
+          "note": "1055亿"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "直到2025年，小米拿出3nm旗舰SoC玄戒O1，甫一发布便商用在了小米手机和平",
+          "note": "出货超百万"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "4分钟。",
+          "note": "4分钟"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "超过2000亿元。",
+          "note": "2000亿"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数字高密→产品轰炸高密→米粉史中密叙事→内力比喻低密→2000亿再高密。",
+      "patterns": [
+        "数字高密",
+        "产品轰炸",
+        "叙事中密",
+        "再赌高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "1055亿元。",
+          "note": "1055亿"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "从小米玄戒O3AI旗舰SoC、新一代小米澎湃OS4到XiaomiMiMo端侧大模",
+          "note": "自研清单"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "他们聚集在MIUI社区，谈论手机、电脑或是其他一切电子产品，分享和提出自己对市面",
+          "note": "MIUI社区"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "超过2000亿元。",
+          "note": "2000亿"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "目标对比→发布会王炸枚举→价格/锁单实证→米粉史→接住/内力→新里程碑→再赌→诗收。",
+      "patterns": [
+        "王炸枚举",
+        "米粉史",
+        "再赌诗收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "2023年，小米提出了一个【新十年目标】，要从互联网公司走向【硬核科技公司】：",
+          "note": "目标"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "他上来就开始讲三颗自研玄戒芯片，历时约四十分钟。",
+          "note": "三芯"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "约50万人。",
+          "note": "50万米粉"
+        },
+        {
+          "sentence_id": "s161",
+          "snippet": "某种意义上，小米其实也是在【赌】——",
+          "note": "赌"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "诗"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式科技颂党：梗密、站米粉、敢骂「装门面」论，结尾诗人气。",
+      "patterns": [
+        "梗密颂党",
+        "站米粉",
+        "诗人气收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "彻底击碎了自研芯片只有一代装门面的说法。",
+          "note": "击碎装门面"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "老米粉看到这些新米粉的心情其实是很复杂的，一方面是高兴于米粉文化一脉相承，薪火永",
+          "note": "老米粉"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "希君生羽翼，一化北溟鱼。",
+          "note": "古诗"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "王炸王炸还是王炸；日子不过了；4分钟锁单；不锈钢脖子；内力；顶峰相见。",
+      "patterns": [
+        "王炸三连",
+        "日子不过了",
+        "4分钟",
+        "不锈钢脖子",
+        "内力",
+        "顶峰相见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸三连"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "他日子不过了？",
+          "note": "日子不过了"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "4分钟。",
+          "note": "4分钟"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但小米18Fold的脖子，是小米自研的不锈钢脖子。",
+          "note": "不锈钢脖子"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "内力。",
+          "note": "内力"
+        },
+        {
+          "sentence_id": "s164",
+          "snippet": "五年之后，更好的小米和更好的米粉，同样会在顶峰相见：",
+          "note": "顶峰相见"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「投入对比→发布会实力碾压→用户共生成长→下一轮豪赌」品牌长文骨架可改编，观宇需降粉向、补竞品对照。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "但在未来5年里，这家公司计划在核心技术的研发上投入1000亿元。",
+          "note": "1000亿投入"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "王炸，王炸，还是王炸。",
+          "note": "王炸压场"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "超过2000亿元。",
+          "note": "2000亿再赌"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s5",
+    "s14",
+    "s21",
+    "s42",
+    "s77",
+    "s100",
+    "s160",
+    "s1",
+    "s3",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s101",
+    "s102",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s161",
+    "s162",
+    "s163",
+    "s164",
+    "s165"
+  ],
+  "fields_complete_25": true
+}

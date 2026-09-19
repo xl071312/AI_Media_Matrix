@@ -1,0 +1,862 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7646731538793366050",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7646731538793366050/",
+  "source_sha256": "550435ef3afd4f494d822f33f79ca0cfcaf43b1ead674d7f22171e4ce2fca396",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 37,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 34,
+      "snippet": "夏天到了，很多人要考虑购买空调了，这时候，一个炸裂的东西被我刷到了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "小米处理了空调抽真空上面作弊的师傅。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "（图片来自小米）"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 14,
+      "snippet": "这一下子，就炸出太多信息了。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 73,
+      "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种空调师傅对此冷嘲热讽，以及强调自己不容易，抽足15分钟真空太难了。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "然后再配上煽情的音乐。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "我已经彻底蚌埠住了。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "上一个这么6的还是上次，是卖杨梅的。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 26,
+      "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 20,
+      "snippet": "这甚至不是小米的要求，是国家的相关要求。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 32,
+      "snippet": "所以在这之前，整个行业全都是看安装师傅的心情，标准没有被执行么？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 21,
+      "snippet": "现在小米只是按照国标执行，就有人急得不行？"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "先别急啊。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "我作为消费者让我先急吧。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 16,
+      "snippet": "这时候再看小米，简直魔幻又神奇。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 56,
+      "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有水花，然后匆匆褪去，例如笔记本。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "或者被暴打一顿，例如无人机。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "这说明这个行业确实是卷无可卷了。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "但凡一个行业不够卷，小米进来会有水花。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 52,
+      "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，例如中性笔，例如充电宝。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 14,
+      "snippet": "小米会有进展，但打不穿行业。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 35,
+      "snippet": "大家虽然过得还行，但手上也有真本事，你打上门来了我也不能让你卷的踏实。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "咱们手上见功夫。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 36,
+      "snippet": "但凡一个行业被小米卷得嗷嗷叫，只能无能狂怒，份额疯狂丢失，老板各种骂街。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 16,
+      "snippet": "一堆从业者跳出来说小米坏了规矩。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "那就是之前他们黑心钱赚多了。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 20,
+      "snippet": "例如之前的山寨机，例如这次的空调抽真空。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 46,
+      "snippet": "从这个角度来说，可以不喜欢小米，也可以不买小米，但应该支持小米来各行各业验证一下他们的成色。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "毕竟，这只会利好消费者。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 14,
+      "snippet": "戳了谁的肺管子，那可不好说。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 26,
+      "snippet": "图片截取自: 小米处理空调作弊师傅，戳了谁的肺管子？"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "夏天买空调场景+小米处理作弊师傅炸裂新闻开场，迅速转到行业舆论。",
+      "patterns": [
+        "季节场景钩子",
+        "炸裂处理新闻",
+        "舆论推送描写"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "夏天到了，很多人要考虑购买空调了，这时候，一个炸裂的东西被我刷到了。",
+          "note": "夏天买空调"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "小米处理了空调抽真空上面作弊的师傅。",
+          "note": "处理作弊师傅"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种",
+          "note": "师傅冷嘲热讽推送"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "国标被当苛责→消费者恐慌行业默许→小米作试纸：无水花=已卷死；有反打=有本事；无能狂怒=黑心钱多→应支持验证利好消费者。",
+      "patterns": [
+        "国标争议→消费者视角→试纸三分法→利好消费者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这甚至不是小米的要求，是国家的相关要求。",
+          "note": "国家要求"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "所以在这之前，整个行业全都是看安装师傅的心情，标准没有被执行么？",
+          "note": "看心情未执行"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "无水花卷死"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "反打有本事"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "那就是之前他们黑心钱赚多了。",
+          "note": "黑心钱赚多"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "毕竟，这只会利好消费者。",
+          "note": "利好消费者"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "hook_outrage",
+          "note": "处理新闻与舆论蚌埠"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "consumer_panic",
+          "note": "消费者恐慌与国标"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33"
+          ],
+          "function": "xiaomi_litmus",
+          "note": "小米行业试纸三分法"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "close_verdict",
+          "note": "支持验证与肺管子收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "先别急啊、这时候再看小米、但凡排比切换案例层。",
+      "patterns": [
+        "先别急让位",
+        "但凡排比层"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "先别急啊。",
+          "note": "先别急"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "这时候再看小米，简直魔幻又神奇。",
+          "note": "再看小米"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "但凡没问题"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但凡一个行业不够卷，小米进来会有水花。",
+          "note": "但凡不够卷"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "师傅苦情vs消费者恐慌；笔记本无水花vs插排汽车反打vs山寨机抽真空无能狂怒。",
+      "patterns": [
+        "苦情vs恐慌",
+        "三类行业反应对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种",
+          "note": "师傅苦情"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。",
+          "note": "消费者恐慌"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "笔记本无水花"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "插排汽车反打"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "例如之前的山寨机，例如这次的空调抽真空。",
+          "note": "山寨机抽真空"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标准没有被执行么、就有人急得不行，用反诘站消费者。",
+      "patterns": [
+        "执行质疑反诘",
+        "着急反诘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "所以在这之前，整个行业全都是看安装师傅的心情，标准没有被执行么？",
+          "note": "标准未执行么"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "现在小米只是按照国标执行，就有人急得不行？",
+          "note": "急得不行"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "杨梅前车、笔记本无人机、插排电视汽车中性笔充电宝、山寨机与空调抽真空。",
+      "patterns": [
+        "杨梅类比",
+        "行业案例枚举"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "上一个这么6的还是上次，是卖杨梅的。",
+          "note": "卖杨梅"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "笔记本"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "或者被暴打一顿，例如无人机。",
+          "note": "无人机"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "插排电视汽车"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "例如之前的山寨机，例如这次的空调抽真空。",
+          "note": "山寨机抽真空"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "行业成色落成三种可观察反应；黑心落成抽不足15分钟真空。",
+      "patterns": [
+        "三种反应具象成色",
+        "15分钟真空具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种",
+          "note": "抽足15分钟太难"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但凡一个行业被小米卷得嗷嗷叫，只能无能狂怒，份额疯狂丢失，老板各种骂街。",
+          "note": "份额疯狂丢失"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "那就是之前他们黑心钱赚多了。",
+          "note": "黑心钱"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "彻底蚌埠住了、那就是黑心钱赚多了、只会利好消费者。",
+      "patterns": [
+        "蚌埠判断",
+        "黑心定性",
+        "利好消费者决断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我已经彻底蚌埠住了。",
+          "note": "蚌埠住了"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "那就是之前他们黑心钱赚多了。",
+          "note": "黑心钱"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "毕竟，这只会利好消费者。",
+          "note": "利好消费者"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "可以不喜欢小米也可以不买，但应支持验证，分离偏好与结构功能。",
+      "patterns": [
+        "偏好与功能分离校正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "从这个角度来说，可以不喜欢小米，也可以不买小米，但应该支持小米来各行各业验证一下",
+          "note": "可不喜欢但应支持"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "新闻快起→舆论怒→消费者急→但凡排比加速→利好短金句收。",
+      "patterns": [
+        "舆论加速",
+        "但凡排比",
+        "短金句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种",
+          "note": "舆论段"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "但凡1"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但凡一个行业被小米卷得嗷嗷叫，只能无能狂怒，份额疯狂丢失，老板各种骂街。",
+          "note": "但凡3"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "肺管子"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "炸裂好奇→蚌埠荒诞→恐慌愤怒→结构冷静→利好释然→肺管子余韵。",
+      "patterns": [
+        "蚌埠荒诞",
+        "恐慌愤怒",
+        "释然余韵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我已经彻底蚌埠住了。",
+          "note": "蚌埠"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。",
+          "note": "恐慌"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "毕竟，这只会利好消费者。",
+          "note": "利好释然"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "肺管子"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣标题戳了谁的肺管子，开放式不好说收束。",
+      "patterns": [
+        "标题回扣",
+        "开放不好说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "戳了谁的肺管子"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA，观点结尾自传播。",
+      "patterns": [
+        "观点自传播无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "肺管子收"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "蚌埠住了、杨梅梗、但凡排比口语拳风显半佛辨识度。",
+      "patterns": [
+        "蚌埠网络语",
+        "杨梅梗",
+        "但凡排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我已经彻底蚌埠住了。",
+          "note": "蚌埠"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "上一个这么6的还是上次，是卖杨梅的。",
+          "note": "杨梅"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但凡一个行业被小米卷得嗷嗷叫，只能无能狂怒，份额疯狂丢失，老板各种骂街。",
+          "note": "但凡嗷嗷叫"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "三分法案例偏印象流；安装师傅成本结构缺数据；易显站队。",
+      "patterns": [
+        "印象案例",
+        "成本数据缺",
+        "站队风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "枚举缺数据"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "那就是之前他们黑心钱赚多了。",
+          "note": "黑心定性重"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从刷到推送蚌埠→切换消费者身份先急→抽象出小米试纸模型。",
+      "patterns": [
+        "身份切换外显",
+        "试纸模型提炼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我作为消费者让我先急吧。",
+          "note": "消费者先急"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "试纸第一类"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "明确纯粹空调消费者同位，邀请站购买者而非从业者。",
+      "patterns": [
+        "消费者同位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。",
+          "note": "纯粹消费者"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "我作为消费者让我先急吧。",
+          "note": "让我先急"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "抽真空15分钟、杨梅、笔记本/无人机/插排汽车、肺管子。",
+      "patterns": [
+        "15分钟锚",
+        "行业案例锚",
+        "肺管子金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "自打我看到这个事情之后，各路短视频APP就开始给我推相关视频了，但他们推的是各种",
+          "note": "15分钟"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "插排汽车"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "肺管子"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "新闻低密→恐慌中密→三分法高密枚举→金句降密。",
+      "patterns": [
+        "三分法高密",
+        "金句降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "小米处理了空调抽真空上面作弊的师傅。",
+          "note": "新闻低密"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "但紧接着，然后龙头反应过来开始反打，大家卷成一片，例如插排，例如电视，例如汽车，",
+          "note": "枚举高密"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "新闻→舆论荒诞→消费者急→试纸三分→支持验证→标题回扣。",
+      "patterns": [
+        "荒诞-恐慌-模型-回扣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我已经彻底蚌埠住了。",
+          "note": "荒诞"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。",
+          "note": "恐慌"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "从这个角度来说，可以不喜欢小米，也可以不买小米，但应该支持小米来各行各业验证一下",
+          "note": "支持验证"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "消费者代言型毒舌：用小米当探针测行业，讨厌苦情带节奏。",
+      "patterns": [
+        "消费者代言",
+        "探针测行业"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就，作为一个纯粹的空调消费者，我突然觉得巨大的恐慌。",
+          "note": "消费者恐慌"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "从这个角度来说，可以不喜欢小米，也可以不买小米，但应该支持小米来各行各业验证一下",
+          "note": "支持验证成色"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "抽真空作弊、蚌埠、小米试纸三分法、戳肺管子。",
+      "patterns": [
+        "作弊真空",
+        "试纸三分",
+        "肺管子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "小米处理了空调抽真空上面作弊的师傅。",
+          "note": "作弊师傅"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "但凡试纸"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "戳了谁的肺管子，那可不好说。",
+          "note": "肺管子"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "舆情反转+消费者换位+进入者试纸三分法评论模型可直接用于观宇商业评论。",
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "我作为消费者让我先急吧。",
+          "note": "换位先急"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "但凡一个行业没问题，大家都在老老实实做生意，实打实的竞争激烈，小米进来都会是没有",
+          "note": "试纸模型"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "毕竟，这只会利好消费者。",
+          "note": "利好消费者"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s7",
+    "s13",
+    "s14",
+    "s20",
+    "s25",
+    "s32",
+    "s35",
+    "s1",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s36",
+    "s37"
+  ],
+  "fields_complete_25": true
+}

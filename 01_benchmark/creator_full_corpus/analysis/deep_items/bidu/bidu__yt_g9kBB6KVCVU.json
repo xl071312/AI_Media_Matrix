@@ -1,0 +1,1642 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_g9kBB6KVCVU",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=g9kBB6KVCVU",
+  "source_sha256": "3a75c7a75b1000e2f08591d6d5750b71e3e2af3d75ae26f09c09e15dfdf1ad6f",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 132,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "各位倒是大家好"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 4,
+      "snippet": "欢迎来到"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 3,
+      "snippet": "新一期"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "搞笑"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "可你是否想过"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "马以都不会说话"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "他们是怎么合作"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "你到底干吗我一言了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "最终顺利设计出"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "最有策略犯架"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 2,
+      "snippet": "成都"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 2,
+      "snippet": "犯案"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 2,
+      "snippet": "组啊"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 4,
+      "snippet": "起手发脚"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "起的发擦的"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "有时候"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "甚至不如"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 3,
+      "snippet": "一马以"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 2,
+      "snippet": "马以"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 2,
+      "snippet": "三个"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 1,
+      "snippet": "准"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 1,
+      "snippet": "凯"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "准"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "准备"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "凚凯准准准准准准准"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 3,
+      "snippet": "他发现"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 1,
+      "snippet": "如"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "我猜猜猜的"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 10,
+      "snippet": "我猜猜猜猜的我猜猜猜"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 6,
+      "snippet": "脑袋太淡的话"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "千年修为一口腹肢营俱"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "文章发表在2022的"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "Sion TV3Port"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "您想一子3."
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 8,
+      "snippet": "看他会不会送牢牙"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 6,
+      "snippet": "老实啦老实啦"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 4,
+      "snippet": "不是哥们"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "要你也才"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 5,
+      "snippet": "不要你也才"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "哇大喜人血动物"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "都被你才用好了"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "把给了呀"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "在总共才的蛇"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "四万多次"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 13,
+      "snippet": "大家不要了几千次之ials"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "他们得出了一判结论"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "小蛇你重演蛇"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "Commission"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 5,
+      "snippet": "才到蛇的头"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 6,
+      "snippet": "你才出了一刀"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "你才出了一刀"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 6,
+      "snippet": "你才出了一刀"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 14,
+      "snippet": "你才出 scriptures"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 6,
+      "snippet": "你才出了一�"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 1,
+      "snippet": "?"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 4,
+      "snippet": "我发表了"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 2,
+      "snippet": "参见"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 9,
+      "snippet": "動入倫理委員會覺得"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "踩蛇有虐待動物的顯影"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 16,
+      "snippet": "大概不當才是檢驗很活動的唯一教學"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 14,
+      "snippet": "很多人小時候都參加過尿尿比賽"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 13,
+      "snippet": "大家站一排看誰尿的刀尿的語"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 6,
+      "snippet": "別說你沒玩過"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 14,
+      "snippet": "但加拿大的川拉里亞娜等人發現"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 14,
+      "snippet": "雄性亞馬遜河臀也會互相尿走玩"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 8,
+      "snippet": "給大家看一下視頻"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 5,
+      "snippet": "玩的是蒸花"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 17,
+      "snippet": "尿駐在Air當中花過一道又沒的紅線"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 13,
+      "snippet": "抓不到同步的嘴邊又消失不見"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 10,
+      "snippet": "這才是真正的Air抓"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 6,
+      "snippet": "不是誰教他的"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 8,
+      "snippet": "話說到底是誰教我"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "2014年2018年"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "實驗團隊在巴西中部的"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 18,
+      "snippet": "拖傘意思和演案堆手了218.9個小時"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 16,
+      "snippet": "總共發現了36里這種通中排尿事件"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 2,
+      "snippet": "其中"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 15,
+      "snippet": "67%都有另外一隻河臀在追蹤玩"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 16,
+      "snippet": "這阿嬤仙河臀是有點阿妹子在身上的"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 6,
+      "snippet": "但嚴謹人指出"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 9,
+      "snippet": "這河臀也不是蠢變態"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 8,
+      "snippet": "互相尿尿追著尿玩"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 14,
+      "snippet": "可能是因為他們的秀絕退化嚴重"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 6,
+      "snippet": "而會上的刷毛"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 13,
+      "snippet": "可以減碎出尿流裡的化學物質"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 11,
+      "snippet": "其到一個以尿會用和作用"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 16,
+      "snippet": "大家平時在游泳池還是儘量不要模仿"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 13,
+      "snippet": "文章發表在2015年2月的"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 21,
+      "snippet": "Behiberall Processes上"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "您想一指1.3"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 12,
+      "snippet": "以上就是今天的無片論文了"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 8,
+      "snippet": "你最喜歡哪一片呢"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 9,
+      "snippet": "趕緊再評論去分享吧"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 8,
+      "snippet": "最近有好幾位觀眾"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 14,
+      "snippet": "給我偷找他自己發的好玩的論文"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 19,
+      "snippet": "希望我在Keyan大使裡面講講他的成果"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 6,
+      "snippet": "再次歡迎大家"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 9,
+      "snippet": "記得追蹤習近平的讚"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 4,
+      "snippet": "老老實說"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 4,
+      "snippet": "我是哥們"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 4,
+      "snippet": "尿尿也採"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "尿尿也採"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 7,
+      "snippet": "馬達西人旋動物"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 6,
+      "snippet": "都被你採用了"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 3,
+      "snippet": "把你了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "招呼+「新一期搞笑」立栏目，ASR噪声中仍以蚂蚁合作/策略问题切入奇葩论文主题。",
+      "patterns": [
+        "栏目招呼钩",
+        "蚂蚁合作设问切入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "各位倒是大家好",
+          "note": "各位倒是大家好"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "搞笑",
+          "note": "搞笑"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "可你是否想过",
+          "note": "可你是否想过"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他们是怎么合作",
+          "note": "他们是怎么合作"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "蚂蚁合作策略论文→踩蛇实验伦理吐槽→河马互相尿尿追踪化学通讯→泳池勿模仿→无厘头论文合集收束求分享。",
+      "patterns": [
+        "蚂蚁论文",
+        "踩蛇伦理吐槽",
+        "河马尿通讯",
+        "求分享收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "文章发表在2022的",
+          "note": "文章发表在2022"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "踩蛇有虐待動物的顯影",
+          "note": "踩蛇有虐待动物"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "互相尿尿追著尿玩",
+          "note": "互相尿尿追着尿玩"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "以上就是今天的无厘头论文"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "intro_noise",
+          "note": "招呼与蚂蚁合作设问ASR噪声"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60"
+          ],
+          "function": "ant_paper",
+          "note": "蚂蚁/发表信息残片"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86"
+          ],
+          "function": "snake_stomp",
+          "note": "踩蛇实验与伦理吐槽"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132"
+          ],
+          "function": "hippo_pee",
+          "note": "河马尿尿追踪化学通讯"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [],
+          "function": "cta_close",
+          "note": "无厘头论文收束与关注CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「他发现」「他们得出结论」「其中」「以上就是」串联多篇论文短单元。",
+      "patterns": [
+        "他发现切换",
+        "得出结论收束",
+        "以上就是栏目收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "他发现",
+          "note": "他发现"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "他们得出了一判结论",
+          "note": "得出了一判结论"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "其中",
+          "note": "其中"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "以上就是今天的"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "人类策略不如蚂蚁；踩蛇当检验 vs 伦理委员会反对；河马尿通讯 vs 泳池勿模仿。",
+      "patterns": [
+        "人/蚁对比",
+        "实验/伦理对比",
+        "科学/勿模仿对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "甚至不如",
+          "note": "甚至不如"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "一马以",
+          "note": "一马以"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "踩蛇有虐待動物的顯影",
+          "note": "虐待动物"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "大家平時在游泳池還是儘量不要模仿",
+          "note": "游泳池尽量不要模仿"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场「是否想过蚂蚁如何合作」；结尾「最喜欢哪一篇」互动问。",
+      "patterns": [
+        "合作设问",
+        "最喜欢哪篇互动问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "可你是否想过",
+          "note": "可你是否想过"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "他们是怎么合作",
+          "note": "怎么合作"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "你最喜歡哪一片呢",
+          "note": "你最喜欢哪一篇呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "2022论文期刊残名；踩蛇四万多次；河马67%被追踪；2015 Behavioral Processes。",
+      "patterns": [
+        "期刊发表例",
+        "踩蛇次数例",
+        "河马追踪比例例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "文章发表在2022的",
+          "note": "文章发表在2022"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "四万多次",
+          "note": "四万多次"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "67%都有另外一隻河臀在追蹤玩",
+          "note": "67%都有另外一只"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "文章發表在2015年2月的",
+          "note": "2015年2月"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「化学通讯」落到刷毛解析尿流物质；「无厘头论文」落到撒尿也能发论文标题承诺。",
+      "patterns": [
+        "通讯→尿流物质",
+        "无厘头→撒尿发论文"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s111",
+          "snippet": "可以減碎出尿流裡的化學物質",
+          "note": "尿流里的化学物质"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "其到一個以尿會用和作用",
+          "note": "以尿会友"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "无厘头论文"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "吐槽「不是哥们」踩蛇；断言河马不蠢是嗅觉退化；提醒泳池勿模仿。",
+      "patterns": [
+        "不是哥们吐槽",
+        "不蠢是嗅觉退化",
+        "勿模仿判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "不是哥们",
+          "note": "不是哥们"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "這河臀也不是蠢變態",
+          "note": "也不是蠢变态"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "大家平時在游泳池還是儘量不要模仿",
+          "note": "尽量不要模仿"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "ASR重复「准备」「你才出了一刀」中自我打断感；「老实啦」口语回撤。",
+      "patterns": [
+        "ASR重复自断",
+        "老实啦回撤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "老实啦老实啦",
+          "note": "老实啦老实啦"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "你才出了一刀",
+          "note": "你才出了一刀"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "招呼短句→长段ASR噪声碎拍→论文信息中板→踩蛇重复加速→河马段稳叙→CTA短收。",
+      "patterns": [
+        "噪声碎拍",
+        "重复加速",
+        "CTA短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "你才出了一刀",
+          "note": "你才出了一刀"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "互相尿尿追著尿玩",
+          "note": "互相尿尿"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler",
+          "form": "准备×N"
+        },
+        {
+          "type": "repair",
+          "form": "老实啦"
+        },
+        {
+          "type": "repetition",
+          "form": "你才出了一刀×N"
+        },
+        {
+          "type": "discourse",
+          "form": "不是哥们"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "老实啦老实啦",
+          "note": "老实啦"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "你才出了一刀",
+          "note": "你才出了一刀"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "不是哥们",
+          "note": "不是哥们"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "轻松招呼→噪声困惑→踩蛇荒诞爆笑→伦理微凛→河马笑点→分享号召亲近。",
+      "patterns": [
+        "轻松→荒诞→微凛→笑点→亲近"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "搞笑",
+          "note": "搞笑"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "不是哥们",
+          "note": "不是哥们"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "踩蛇有虐待動物的顯影",
+          "note": "虐待动物"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "互相尿尿追著尿玩",
+          "note": "追着尿玩"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "分享吧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇搞笑论文栏目呼应「以上就是无厘头论文」+求评论分享+下期再见。",
+      "patterns": [
+        "栏目开合",
+        "分享+下期闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "搞笑",
+          "note": "搞笑"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "无厘头论文"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "最喜欢哪篇评论分享；欢迎投稿自己的好玩论文；记得追踪点赞；下期再见。",
+      "patterns": [
+        "评论分享CTA",
+        "投稿论文征集",
+        "追踪点赞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "你最喜歡哪一片呢",
+          "note": "最喜欢哪一篇"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "給我偷找他自己發的好玩的論文",
+          "note": "好玩的论文"
+        },
+        {
+          "sentence_id": "s125",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "严重ASR口误保留、准备叠念、不是哥们口语、以尿会友谐音，真人脱口秀感。",
+      "patterns": [
+        "ASR口误保留",
+        "不是哥们口语",
+        "以尿会友谐音"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "不是哥们",
+          "note": "不是哥们"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "其到一個以尿會用和作用",
+          "note": "以尿会友"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "老老實說",
+          "note": "老老实说"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极差致蚂蚁/蛇段几乎不可读；窗口截断；专名期刊名严重变形。",
+      "patterns": [
+        "ASR极差不可读",
+        "窗口截断",
+        "期刊名变形"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "你到底干吗我一言了",
+          "note": "你到底干吗"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "Sion TV3Port",
+          "note": "Sion TV3Port"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "凚凯准准准准准准准",
+          "note": "准准准准"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先抛合作谜题再给论文结论；河马段先现象后「严谨人指出」机制解释。",
+      "patterns": [
+        "谜题→论文结论",
+        "现象→机制解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "他们是怎么合作",
+          "note": "怎么合作"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "他们得出了一判结论",
+          "note": "得出结论"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "但嚴謹人指出",
+          "note": "但严谨人指出"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "可能是因為他們的秀絕退化嚴重",
+          "note": "嗅觉退化"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「各位」课堂招呼；把观众当一起吐槽奇葩论文的同伴；征集投稿拉共创。",
+      "patterns": [
+        "课堂招呼同伴",
+        "投稿共创"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "各位倒是大家好",
+          "note": "各位倒是大家好"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "你最喜歡哪一片呢",
+          "note": "你最喜欢哪一篇"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "再次歡迎大家",
+          "note": "再次欢迎大家"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2022发表；踩蛇四万多次；67%追踪；2015 Behavioral Processes；影响因子残片。",
+      "patterns": [
+        "发表年锚",
+        "四万次锚",
+        "67%锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "文章发表在2022的",
+          "note": "2022"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "四万多次",
+          "note": "四万多次"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "67%都有另外一隻河臀在追蹤玩",
+          "note": "67%"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "文章發表在2015年2月的",
+          "note": "2015年2月"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密噪声→论文信息中密→踩蛇重复低密狂欢→河马机制高密→CTA低密。",
+      "patterns": [
+        "低密噪声→中密论文→低密重复→高密机制→低密CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "文章发表在2022的",
+          "note": "文章发表"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "你才出了一刀",
+          "note": "你才出了一刀"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "可以減碎出尿流裡的化學物質",
+          "note": "化学物质"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "分享"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "招呼短句→ASR碎句洪流→发表信息句→重复排比→机制中长句→CTA短句并列。",
+      "patterns": [
+        "ASR碎句洪流",
+        "重复排比",
+        "CTA短句并列"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "准备",
+          "note": "准备"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "你才出了一刀",
+          "note": "你才出了一刀"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "可能是因為他們的秀絕退化嚴重",
+          "note": "嗅觉退化严重"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导搞笑论文猎人：敢说不是哥们、以尿会友，把严肃期刊读成段子。",
+      "patterns": [
+        "搞笑论文猎人",
+        "不是哥们吐槽人格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "不是哥们",
+          "note": "不是哥们"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "其到一個以尿會用和作用",
+          "note": "以尿会友"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "无厘头论文"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "撒尿也能发论文；踩蛇四万次；以尿会友；无厘头论文合集。",
+      "patterns": [
+        "撒尿发论文",
+        "踩蛇四万次",
+        "以尿会友"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s69",
+          "snippet": "四万多次",
+          "note": "四万多次"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "其到一個以尿會用和作用",
+          "note": "以尿会友"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "无厘头论文"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "互相尿尿追著尿玩",
+          "note": "互相尿尿"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "奇葩论文串联→单篇现象+机制+伦理吐槽→合集CTA骨架可改编，必须重做可读转录并降ASR噪声。",
+      "evidence": [
+        {
+          "sentence_id": "s117",
+          "snippet": "以上就是今天的無片論文了",
+          "note": "无厘头论文"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "互相尿尿追著尿玩",
+          "note": "互相尿尿"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "趕緊再評論去分享吧",
+          "note": "评论去分享"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s5",
+    "s7",
+    "s57",
+    "s85",
+    "s108",
+    "s117",
+    "s119",
+    "s2",
+    "s3",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s86",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s118",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s132"
+  ],
+  "fields_complete_25": true
+}

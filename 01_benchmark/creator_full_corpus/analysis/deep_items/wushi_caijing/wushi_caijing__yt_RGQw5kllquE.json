@@ -1,0 +1,1153 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_RGQw5kllquE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=RGQw5kllquE",
+  "source_sha256": "877379a2598d4e5d948f0f64317db001e9f04bbe5d1ad7fc9b8d26892198a97f",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 114,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s51"
+    },
+    {
+      "sentence_id": "s52"
+    },
+    {
+      "sentence_id": "s53"
+    },
+    {
+      "sentence_id": "s54"
+    },
+    {
+      "sentence_id": "s55"
+    },
+    {
+      "sentence_id": "s56"
+    },
+    {
+      "sentence_id": "s57"
+    },
+    {
+      "sentence_id": "s58"
+    },
+    {
+      "sentence_id": "s59"
+    },
+    {
+      "sentence_id": "s60"
+    },
+    {
+      "sentence_id": "s61"
+    },
+    {
+      "sentence_id": "s62"
+    },
+    {
+      "sentence_id": "s63"
+    },
+    {
+      "sentence_id": "s64"
+    },
+    {
+      "sentence_id": "s65"
+    },
+    {
+      "sentence_id": "s66"
+    },
+    {
+      "sentence_id": "s67"
+    },
+    {
+      "sentence_id": "s68"
+    },
+    {
+      "sentence_id": "s69"
+    },
+    {
+      "sentence_id": "s70"
+    },
+    {
+      "sentence_id": "s71"
+    },
+    {
+      "sentence_id": "s72"
+    },
+    {
+      "sentence_id": "s73"
+    },
+    {
+      "sentence_id": "s74"
+    },
+    {
+      "sentence_id": "s75"
+    },
+    {
+      "sentence_id": "s76"
+    },
+    {
+      "sentence_id": "s77"
+    },
+    {
+      "sentence_id": "s78"
+    },
+    {
+      "sentence_id": "s79"
+    },
+    {
+      "sentence_id": "s80"
+    },
+    {
+      "sentence_id": "s81"
+    },
+    {
+      "sentence_id": "s82"
+    },
+    {
+      "sentence_id": "s83"
+    },
+    {
+      "sentence_id": "s84"
+    },
+    {
+      "sentence_id": "s85"
+    },
+    {
+      "sentence_id": "s86"
+    },
+    {
+      "sentence_id": "s87"
+    },
+    {
+      "sentence_id": "s88"
+    },
+    {
+      "sentence_id": "s89"
+    },
+    {
+      "sentence_id": "s90"
+    },
+    {
+      "sentence_id": "s91"
+    },
+    {
+      "sentence_id": "s92"
+    },
+    {
+      "sentence_id": "s93"
+    },
+    {
+      "sentence_id": "s94"
+    },
+    {
+      "sentence_id": "s95"
+    },
+    {
+      "sentence_id": "s96"
+    },
+    {
+      "sentence_id": "s97"
+    },
+    {
+      "sentence_id": "s98"
+    },
+    {
+      "sentence_id": "s99"
+    },
+    {
+      "sentence_id": "s100"
+    },
+    {
+      "sentence_id": "s101"
+    },
+    {
+      "sentence_id": "s102"
+    },
+    {
+      "sentence_id": "s103"
+    },
+    {
+      "sentence_id": "s104"
+    },
+    {
+      "sentence_id": "s105"
+    },
+    {
+      "sentence_id": "s106"
+    },
+    {
+      "sentence_id": "s107"
+    },
+    {
+      "sentence_id": "s108"
+    },
+    {
+      "sentence_id": "s109"
+    },
+    {
+      "sentence_id": "s110"
+    },
+    {
+      "sentence_id": "s111"
+    },
+    {
+      "sentence_id": "s112"
+    },
+    {
+      "sentence_id": "s113"
+    },
+    {
+      "sentence_id": "s114"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "ASR残片里以咪蒙渠道试探开场，连呼「叫米蒙脚」后跳到欧神炒房一句收束。",
+      "patterns": [
+        "渠道试探开场",
+        "重复口播残片",
+        "欧神一句定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "米蒙也曾经借助一些渠道发生",
+          "note": "咪蒙渠道开场"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "叫米蒙脚",
+          "note": "叫米蒙脚重复起点"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "欧神一句炒"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "咪蒙曾借渠道试弹→关系公号发文→转入欧神：言论只需一字炒→房市红利期跟国家吃蛋糕→付费圈子百万级收入→细分观点续更。",
+      "patterns": [
+        "试弹铺垫",
+        "一字炒定调",
+        "红利吃蛋糕",
+        "付费变现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "或许是试弹付出池",
+          "note": "试弹"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "一字炒"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "只要买就能就是能增值",
+          "note": "买就增值"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "平台的肯定是百万以上的收入",
+          "note": "百万收入"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "欧神提出了新的细分观点",
+          "note": "细分观点"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "咪蒙试弹与公号发文残片",
+          "note": "开场ASR重复极重"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78"
+          ],
+          "function": "欧神炒房红利与天堂叙事",
+          "note": "主线立论"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "房产人生成功与房价兑现",
+          "note": "个人史"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114"
+          ],
+          "function": "付费圈子变现与粉丝控诉",
+          "note": "商业化收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「就不多说了」「从上帝视角讲」「比如18年」把残片段切到欧神商业化。",
+      "patterns": [
+        "就不多说了跳切",
+        "上帝视角抬升",
+        "年份举例转入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "就不多说了",
+          "note": "不多说了"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "从上帝视调讲",
+          "note": "上帝视角"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "比如18年的时候",
+          "note": "18年举例"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "不懂的人 vs 跟国家压在房地产上的人；天堂成功 vs 粉丝私底下控诉。",
+      "patterns": [
+        "懂/不懂对照",
+        "成功/控诉对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s65",
+          "snippet": "对于不懂的人来说",
+          "note": "不懂的人"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "把充满都压在房地亚上的人",
+          "note": "压在房上的人"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "但也有一些粉丝私底下的控诉",
+          "note": "粉丝控诉"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "窗口内几乎无显性设问，以断言「你都不用看」代替提问推进。",
+      "patterns": [
+        "断言代问",
+        "你都不用看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s59",
+          "snippet": "你都不用看",
+          "note": "不用看"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "不了解欧神人物",
+          "note": "不了解欧神"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用关系很好的公号发文、付费42225元圈子、18年新细分观点作案例。",
+      "patterns": [
+        "公号发文例",
+        "付费价码例",
+        "年份观点例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "关系很好的公伙号",
+          "note": "公伙号"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "42225元"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "欧神提出了新的细分观点",
+          "note": "18年观点"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "从「炒」抽象价值观落到买房增值、付费入圈价码与百万收入。",
+      "patterns": [
+        "一字炒落地",
+        "买就增值",
+        "价码落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "炒"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "只要买就能就是能增值",
+          "note": "买就增值"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "价码"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「你都不用看」「非常专求」「自然欧神长到的天堂」强硬价值判断。",
+      "patterns": [
+        "不用看裁断",
+        "天堂判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s59",
+          "snippet": "你都不用看",
+          "note": "不用看"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "并且非常专求",
+          "note": "非常专求"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "所以自然欧神长道的天堂",
+          "note": "天堂"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「我们不能知道控诉真实性，但是可以窥见一般」先限再推。",
+      "patterns": [
+        "限真实性",
+        "仍可窥见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s111",
+          "snippet": "我们不能知道其中附近的真实性",
+          "note": "不能知真实性"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "但是可以亏剑一般",
+          "note": "可窥见一般"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前段「叫米蒙脚/试弹」机械重复极慢；中段欧神论述加速；价码段短句顿挫。",
+      "patterns": [
+        "重复拖慢",
+        "论述加速",
+        "价码顿挫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫米蒙脚",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "试弹",
+          "note": "试弹连珠"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "价码"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "叫米蒙脚×N"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "试弹/试×N"
+        },
+        {
+          "type": "repair",
+          "form": "哦 叫米蒙脚"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "我说了×N"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫米蒙脚",
+          "note": "叫米蒙脚重复"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "哦 叫米蒙脚 叫米蒙脚",
+          "note": "哦修复"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "试弹,试弹,试 试",
+          "note": "试弹重复"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "但是我说了",
+          "note": "我说了填充"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "试探好奇→重复麻木→欧神崇拜式肯定→控诉阴影降温。",
+      "patterns": [
+        "好奇",
+        "麻木重复",
+        "肯定",
+        "控诉降温"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "米蒙也曾经借助一些渠道发生",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "试弹,试弹,试 试",
+          "note": "麻木"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "所以自然欧神长道的天堂",
+          "note": "天堂肯定"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "但也有一些粉丝私底下的控诉",
+          "note": "控诉"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从咪蒙试弹开场落到欧神付费商业化与新细分观点，网红资本系列未完待续感。",
+      "patterns": [
+        "试弹开",
+        "商业化收",
+        "观点续更"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "或许是试弹付出池",
+          "note": "试弹开"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "平台的肯定是百万以上的收入",
+          "note": "收入收"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "欧神提出了新的细分观点",
+          "note": "续观点"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口无明显关注/点赞CTA，以「不了解可大致了解」软引导补背景。",
+      "patterns": [
+        "软补背景",
+        "无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "不了解欧神人物",
+          "note": "不了解可了解"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "可以大致该亏一下",
+          "note": "大致了解"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR口吃重复、夹杂英文I'm not sure、价码42225等脏细节，非规整AI稿。",
+      "patterns": [
+        "口吃重复",
+        "英文夹杂",
+        "具体价码"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "哦 叫米蒙脚 叫米蒙脚",
+          "note": "哦修复"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "I'm not sure if I can't get it right now",
+          "note": "英文夹杂"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "价码"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "前半ASR严重崩坏（米蒙脚/试弹/大肚屎）信息几乎不可读；主线被噪声淹没。",
+      "patterns": [
+        "ASR崩坏",
+        "噪声淹没主线",
+        "重复无信息"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s72",
+          "snippet": "企与大肚屎屎屎屎屎屎屎屎屎屎屎屎屎",
+          "note": "屎字噪声"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "� weight",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "试弹,试弹,试 试",
+          "note": "试弹空转"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "暴露从上帝视角重估、不知真实性仍可窥见、付费扣平台后估收入的推算。",
+      "patterns": [
+        "上帝视角",
+        "真实性限缩",
+        "收入推算"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s101",
+          "snippet": "从上帝视调讲",
+          "note": "上帝视角"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "我们不能知道其中附近的真实性",
+          "note": "真实性"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "这部分就算扣掉平台",
+          "note": "扣平台"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准不了解欧神的财经观众，用「你都不用看」降低阅读门槛再给核心标签。",
+      "patterns": [
+        "降低门槛",
+        "核心标签"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "不了解欧神人物",
+          "note": "不了解者"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "你都不用看",
+          "note": "不用看"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "一字炒"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "42225元入圈、几千人付费、百万以上收入、18年新观点、负利率时代房市。",
+      "patterns": [
+        "价码锚",
+        "人数锚",
+        "年份锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "42225"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "大概有几千人入费",
+          "note": "几千人"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "比如18年的时候",
+          "note": "18年"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "前50句极低密重复→欧神段中高密→价码商业化高密→控诉收束中密。",
+      "patterns": [
+        "极低密重复",
+        "论述中高密",
+        "价码高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫米蒙脚",
+          "note": "低密"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "只要买就能就是能增值",
+          "note": "中高密"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "单字/短语破碎句连珠，中段恢复叙事长句，末段价码短句并列。",
+      "patterns": [
+        "破碎连珠",
+        "叙事长句",
+        "价码短句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "叫",
+          "note": "单字"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "把充满都压在房地亚上的人",
+          "note": "长句"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "大概有几千人入费",
+          "note": "短句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "资本旁观者冷幽默：把网红坍塌与欧神炒房收成「一字炒」标签，对控诉半信半疑。",
+      "patterns": [
+        "冷标签",
+        "半信半疑",
+        "资本旁观"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "一字炒"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "我们不能知道其中附近的真实性",
+          "note": "半信半疑"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "平台的肯定是百万以上的收入",
+          "note": "收入估算"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "叫米蒙脚；一字儿炒；买就能增值；42225元入圈；粉丝私底下控诉。",
+      "patterns": [
+        "米蒙脚",
+        "一字炒",
+        "买就增值",
+        "价码",
+        "控诉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "叫米蒙脚",
+          "note": "米蒙脚"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "就一个字儿炒",
+          "note": "炒"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "这是付费 加入欧神的圈子要42225元",
+          "note": "价码"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR严重损坏且叙事碎片化，网红资本个案难以干净迁移到观宇口播骨架。",
+      "evidence": [
+        {
+          "sentence_id": "s72",
+          "snippet": "企与大肚屎屎屎屎屎屎屎屎屎屎屎屎屎",
+          "note": "噪声不可用"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "试弹,试弹,试 试",
+          "note": "空转重复"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "I'm not sure if I can't get it right now",
+          "note": "英文乱入"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s8",
+    "s60",
+    "s2",
+    "s76",
+    "s106",
+    "s114",
+    "s53",
+    "s79",
+    "s101",
+    "s54",
+    "s113",
+    "s65",
+    "s70",
+    "s110",
+    "s59",
+    "s55",
+    "s6",
+    "s103",
+    "s61",
+    "s78",
+    "s111",
+    "s112",
+    "s25",
+    "s17",
+    "s20",
+    "s89",
+    "s56",
+    "s88",
+    "s72",
+    "s38",
+    "s105",
+    "s104",
+    "s16"
+  ],
+  "fields_complete_25": true
+}

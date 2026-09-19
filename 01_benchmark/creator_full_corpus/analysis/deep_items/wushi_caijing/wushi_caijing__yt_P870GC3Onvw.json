@@ -1,0 +1,1303 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_P870GC3Onvw",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=P870GC3Onvw",
+  "source_sha256": "c5d8be368fca2934ed6a602df81b3b9d7800b5a9c51dbf47d03fb896aec6db96",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 112,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 28,
+      "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 22,
+      "snippet": "菜就多練,你看這槍涉篇了,全球的都成什麼樣了"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "創辦關稅戰落滴後,美國股股市先跳微鏡"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "全球跟著暴跌,我們的34關稅反擊雖然最快最狠"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "但輿論真沒必要慶祝"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 10,
+      "snippet": "我還納悶了,怎麼還養"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "我國威上呢?"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 13,
+      "snippet": "不知道關稅戰是什麼意思嗎?"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 22,
+      "snippet": "不惜屈一切都要打贏的戰爭,你以為代價是什麼?"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "就是你呀,然後說人家暴跌6%"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 24,
+      "snippet": "但返返回咱們家,無時的PTSD一下被's被激活了"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 23,
+      "snippet": "千古堆在此上演,美國如果是暴跌了,咱們是什麼?"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 22,
+      "snippet": "更別說,你對著地在地在回條了,而這只是個開始"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "川普在北京淋沉繼續發"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "現在所有跌加起來是55%到66%"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 19,
+      "snippet": "再加50%就是105%至100%一二五"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "但其實65%和15%差別不大了,"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 26,
+      "snippet": "因為邊編輯效應地獎明顯,不過就是在實體上再統計到而已"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "而如果我們也繼續反"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 36,
+      "snippet": "我們也繼續反擊,再給美國加個對等的50%雙方貿易關係就等於實質性的結束了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "徐底就變成了一個地球,兩個世界了"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 27,
+      "snippet": "從創辦這段錯詞中可以看出串面對我們的關稅反制切的牙養樣"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 21,
+      "snippet": "開始玩起了勇敢者遊戲,你牛逼,我比你更牛逼"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "畢竟我們是唯一一個實質上反擊美國關稅的"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "無實體比較比較中二的說法"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 18,
+      "snippet": "其他國家,國家是 up 不敢擴大衝突"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 41,
+      "snippet": "更是沒必要,尤其是小國,比如日本、韓國,也包括端南亞被幹的最慘的越南 接不著愛什麼"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 20,
+      "snippet": "也就是我們話債和升級的中級中級的中級優潔"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 35,
+      "snippet": "我們要靠這個來滅盤,而美國那邊要重新擂大就必須解決工業能力空心化的問題"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 17,
+      "snippet": "綜合實力尤其是軍事實力, 如你金融"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 23,
+      "snippet": "而是工業能力,而美元的地位大家都說不得對身體系"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 18,
+      "snippet": "雙美元黃金的 美美元石油這些都是表象"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "看想參盤根本不是幾年就能挽回的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "傳達是一種難調頭,但我別無選擇"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 19,
+      "snippet": "在這點來看,中美都背負了中局之戰的妻許"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 23,
+      "snippet": "或許這麼說有點中二,但中美就是劇本中的兩個主角"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "兩個人都有不能輸的"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 15,
+      "snippet": "背負著萬億人民和家庭的美好生活"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 16,
+      "snippet": "向著中局之戰進撒,截止無實做事平"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 22,
+      "snippet": "我們列了一些國家的反擊,除了我們的34%反制"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 21,
+      "snippet": "其他有的,國家、市民連抗議都沒有,只敢質疑"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 16,
+      "snippet": "我們這種強硬反擊,以大家拍手交好"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 19,
+      "snippet": "但物事告訴你,關稅反擊並不在於反擊本身"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 24,
+      "snippet": "而是你一定會反擊的姿態,也就是美國自己砍自己一刀"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 22,
+      "snippet": "然後問中國你敢嗎,然後中國也立刻砍了自己一刀"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 14,
+      "snippet": "說你看我敢不敢,來牛逼你繼續"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 19,
+      "snippet": "關稅戰的本質,就是看哪個經歷體更能吃苦"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 21,
+      "snippet": "看誰熬得過誰,你越強硬,反而別人越不敢搞你"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 11,
+      "snippet": "越難軟彈一個,光速滑軌"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "那美國還會繼續一捏軟式子"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "比如繼續加中反清消水"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 19,
+      "snippet": "而中國表達的是我敢跟你雙叔要死一起死的"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "家家都別用"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 21,
+      "snippet": "本質上是震懾所有其他,還想用關稅武器的國家"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 14,
+      "snippet": "同時也是警告未來的美國執政者"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 24,
+      "snippet": "當然,提到鋼鋼板的範圍表面上還會狂罵中國大叔特殊"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 10,
+      "snippet": "然後說美國又一次贏了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 16,
+      "snippet": "當然我們關稅反擊本身還真是一種書"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "都是消費者利益壽損"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 19,
+      "snippet": "老百姓們一塊吃苦,這不是什麼可割送的事"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 11,
+      "snippet": "物事態度是支持但不慶祝"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 14,
+      "snippet": "這也沒辦法的事,難受一點反擊"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 13,
+      "snippet": "因為長期來看,反擊是吃短虧"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 16,
+      "snippet": "有點打了一圈開,免得擺全來的意思"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 13,
+      "snippet": "而歐洲那邊的反應是最惡性的"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 5,
+      "snippet": "也爆出新闻"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 16,
+      "snippet": "要對281美元的美國商品進行反制"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 12,
+      "snippet": "很多人說歐洲也應氣起來了"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 14,
+      "snippet": "其實不然,美國對歐洲關稅範圍"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 13,
+      "snippet": "高達近6000億美元的商品"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 18,
+      "snippet": "而你歐洲才對281美元的美國商品反擊"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "你還是不敢雙叔"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 12,
+      "snippet": "其實就是演一下,降一下嘴"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 13,
+      "snippet": "大家看,多看,反正打到現在"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 12,
+      "snippet": "對於川普來說,幹就完事了"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 14,
+      "snippet": "但歐洲還在算,以為自己很會算"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 15,
+      "snippet": "還幻想穩住川普繼續和美國做生意"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 8,
+      "snippet": "同時還想在輿論上"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "顯出自己很強硬和強大"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 12,
+      "snippet": "試圖假裝自己還在談判桌上"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 12,
+      "snippet": "然後又想從我們這繼續開遊"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "把中國人當苦力"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 12,
+      "snippet": "歐洲人繼續享受著超高福利"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "和超低的勞動強度"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "企圖繼續當老爺"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 13,
+      "snippet": "沒有老爺的命,得了老爺的病"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 14,
+      "snippet": "上一代歐洲人用鮮血壞來的優勢"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 9,
+      "snippet": "必然在這一代給造光"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 11,
+      "snippet": "我這句話,你們理解一下"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 13,
+      "snippet": "美國是一個偽裝城國家的公司"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 14,
+      "snippet": "而中國是一個偽裝城國家的文明"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 14,
+      "snippet": "中國人根本不知道自己是什麼人"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 10,
+      "snippet": "你問都說自己是中國人"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 11,
+      "snippet": "因為自古以來就是中國人"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 7,
+      "snippet": "但美國人可不是"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 14,
+      "snippet": "美國人可以把自己按出生國劃分"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 10,
+      "snippet": "或者把自己按種族劃分"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "或者把自己按膚色劃分"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "只後來變成了美國人的"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 10,
+      "snippet": "很多美國人對國家認同"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 14,
+      "snippet": "真不如那些被看不起的狠脖子們"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 9,
+      "snippet": "而對國家最不認同的"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 5,
+      "snippet": "很多都藏在"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "在美國經驗階層中"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 11,
+      "snippet": "藏在了美國的執政階層中"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 3,
+      "snippet": "不 1"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "越南刺之為40%至7"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 4,
+      "snippet": "在串偏裏"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 15,
+      "snippet": "點點點點點點點點點點點點點點點"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 10,
+      "snippet": "这一波宣�,资本市场"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 11,
+      "snippet": "大级就会不断摇摆从而中"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 10,
+      "snippet": "尽的深深的无力感,资"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "以谩骂点名关税战制造者开场，紧接全球股市暴跌把观众拖入战局。",
+      "patterns": [
+        "辱骂钩子开场",
+        "立刻切入市场代价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "开场点名骂川普"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "創辦關稅戰落滴後,美國股股市先跳微鏡",
+          "note": "关税战落地股市跳水"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "主链：关税战=终局之战→强硬反制是姿态震慑→本质比谁更能吃苦→欧洲假硬→中美公司/文明对照。",
+      "patterns": [
+        "终局之战主叙事",
+        "反制姿态重于幅度",
+        "吃苦耐力决胜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "不惜屈一切都要打贏的戰爭,你以為代價是什麼?",
+          "note": "不惜一切打赢的战争"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "關稅戰的本質,就是看哪個經歷體更能吃苦",
+          "note": "本质看谁更能吃苦"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "美国伪装成国家的公司"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用「更别说/其实/本质/当然」把加码、反制、欧洲、文明层层递进。",
+      "patterns": [
+        "更别说递进",
+        "本质是收束",
+        "当然转折到舆论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "更別說,你對著地在地在回條了,而這只是個開始",
+          "note": "更别说只是开始"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "關稅戰的本質,就是看哪個經歷體更能吃苦",
+          "note": "关税战的本质"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "當然,提到鋼鋼板的範圍表面上還會狂罵中國大叔特殊",
+          "note": "当然钢钢板狂骂"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "中美对砍姿态、中欧反制幅度、文明认同vs美国身份分裂三重对照。",
+      "patterns": [
+        "中欧美反制幅度对比",
+        "公司/文明二元隐喻",
+        "软硬姿态对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "而你歐洲才對281美元的美國商品反擊",
+          "note": "欧仅反281亿"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "伪装成国家的公司"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "而中國是一個偽裝城國家的文明",
+          "note": "伪装成国家的文明"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连续反问逼观众承认代价落在自己身上，并质疑庆祝舆论。",
+      "patterns": [
+        "反问代价主体",
+        "反问是否懂关税战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "不知道關稅戰是什麼意思嗎?",
+          "note": "不知道关税战意思吗"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "不惜屈一切都要打贏的戰爭,你以為代價是什麼?",
+          "note": "代价是什么"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "千古堆在此上演,美國如果是暴跌了,咱們是什麼?",
+          "note": "美国暴跌咱们是什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "用税率档位、欧洲281亿/美近6000亿、日韩越不扩大冲突作例证。",
+      "patterns": [
+        "税率数字链",
+        "欧洲象征反制金额",
+        "小国不敢扩大冲突"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "現在所有跌加起來是55%到66%",
+          "note": "55%到66%"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "更是沒必要,尤其是小國,比如日本、韓國,也包括端南亞被幹的最慘的越南 接不著愛什",
+          "note": "日韩越南最惨"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "要對281美元的美國商品進行反制",
+          "note": "对281美元商品反制"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "终局之战抽象命题落地为税率加码、对砍自残、欧洲演戏、文明认同差异。",
+      "patterns": [
+        "终局→税率算术",
+        "姿态→自砍一刀比喻",
+        "文明→出生国划分"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我們也繼續反擊,再給美國加個對等的50%雙方貿易關係就等於實質性的結束了",
+          "note": "再加50%贸易实质结束"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "然後問中國你敢嗎,然後中國也立刻砍了自己一刀",
+          "note": "中国也立刻砍自己"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "美國人可以把自己按出生國劃分",
+          "note": "按出生国划分"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "明确表态：支持但不庆祝；欧洲没老爷命得了老爷病；关税战是吃苦耐力赛。",
+      "patterns": [
+        "支持但不庆祝",
+        "没老爷命得老爷病",
+        "越硬越不敢搞你"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "物事態度是支持但不慶祝",
+          "note": "支持但不庆祝"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "沒有老爺的命,得了老爺的病",
+          "note": "没老爷命得老爷病"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "看誰熬得過誰,你越強硬,反而別人越不敢搞你",
+          "note": "越强硬越不敢搞"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "自称中二说法后仍坚持主角剧本论；承认反制本身是输、消费者受损。",
+      "patterns": [
+        "自嘲中二仍坚持",
+        "承认反制也是输"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "或許這麼說有點中二,但中美就是劇本中的兩個主角",
+          "note": "或许这么说有点中二"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "當然我們關稅反擊本身還真是一種書",
+          "note": "反击本身还真是一种输"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "無實體比較比較中二的說法",
+          "note": "无实体比较中二的说法"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句怒骂→数字连射→长解释段→金句对仗收束，情绪冲刺与说理交替。",
+      "patterns": [
+        "短骂句开场",
+        "税率短句连射",
+        "对仗长句收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "短句怒骂"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "再加50%就是105%至100%一二五",
+          "note": "再加50%短句"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "公司隐喻对仗"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "怒骂→冷静劝勿庆祝→压迫感终局→轻蔑欧洲→悲壮文明自豪收尾。",
+      "patterns": [
+        "怒→冷静→压迫→轻蔑→悲壮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "怒骂起点"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但輿論真沒必要慶祝",
+          "note": "劝勿庆祝"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "沒有老爺的命,得了老爺的病",
+          "note": "轻蔑欧洲"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "而中國是一個偽裝城國家的文明",
+          "note": "文明自豪"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到终局之战双主角不能输，用公司/文明金句收束并回扣开篇战局。",
+      "patterns": [
+        "双主角不能输回扣",
+        "公司文明金句收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "兩個人都有不能輸的",
+          "note": "两个人都有不能输的"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "公司隐喻收束"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "而中國是一個偽裝城國家的文明",
+          "note": "文明隐喻收束"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：要观众「理解一下」金句，无强带货；以态度立场代替行动号召。",
+      "patterns": [
+        "理解一下软号召",
+        "立场表态替代行动CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s89",
+          "snippet": "我這句話,你們理解一下",
+          "note": "我这句话你们理解一下"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "物事態度是支持但不慶祝",
+          "note": "态度支持但不庆祝"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "脏话谐音、自嘲中二、具体税率口算、立场矛盾张力（支持却不庆祝）难模板化。",
+      "patterns": [
+        "脏话谐音开场",
+        "自嘲中二",
+        "支持不庆祝张力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "脏话口语"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "或許這麼說有點中二,但中美就是劇本中的兩個主角",
+          "note": "自嘲中二"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "物事態度是支持但不慶祝",
+          "note": "支持但不庆祝"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（串/创/无实）；后段突然跳越南关税与乱码，收束被截断。",
+      "patterns": [
+        "ASR谐音错字",
+        "尾段跳题乱码"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s106",
+          "snippet": "不 1",
+          "note": "不1乱码"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "點點點點點點點點點點點點點點點",
+          "note": "点点点噪声"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "川普在北京淋沉繼續發",
+          "note": "川普在北京淋沉"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "当众演算边际效应「65%和15%差别不大」、反制=自砍对赌的推理过程。",
+      "patterns": [
+        "边际效应口算",
+        "自砍对赌推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "但其實65%和15%差別不大了,",
+          "note": "65%和15%差别不大"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "因為邊編輯效應地獎明顯,不過就是在實體上再統計到而已",
+          "note": "边际效应解释"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "而是你一定會反擊的姿態,也就是美國自己砍自己一刀",
+          "note": "美国自己砍自己"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众推到代价承受者（「就是你呀」），并作冷静旁观者勿跟风庆祝。",
+      "patterns": [
+        "你就是代价",
+        "冷静旁观者定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就是你呀,然後說人家暴跌6%",
+          "note": "就是你呀"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "但輿論真沒必要慶祝",
+          "note": "舆论真没必要庆祝"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "老百姓們一塊吃苦,這不是什麼可割送的事",
+          "note": "老百姓一块吃苦"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "锚定55%-125%税率、34%反制、欧281亿vs美近6000亿、日韩越等国名。",
+      "patterns": [
+        "税率档位",
+        "欧美反制金额差",
+        "具体国名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "再加50%就是105%至100%一二五",
+          "note": "105%至125"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "我們列了一些國家的反擊,除了我們的34%反制",
+          "note": "34%反制"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "高達近6000億美元的商品",
+          "note": "近6000亿商品"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密度情绪钩→中段税率/国别高密度→欧洲段中密嘲讽→文明段概念高密收束。",
+      "patterns": [
+        "情绪低密→数字高密→概念收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "低密情绪"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "現在所有跌加起來是55%到66%",
+          "note": "税率高密"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "概念高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句链推进→因果「因为/所以」→对仗收束；短句与长解释交错。",
+      "patterns": [
+        "问句链",
+        "因为/所以因果",
+        "对仗收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "不知道關稅戰是什麼意思嗎?",
+          "note": "问句链起点"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "因為邊編輯效應地獎明顯,不過就是在實體上再統計到而已",
+          "note": "因为边际效应"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "而中國是一個偽裝城國家的文明",
+          "note": "对仗句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "巫师人设：敢骂敢判、反庆祝民粹、地缘悲壮现实主义，自称略中二仍硬刚。",
+      "patterns": [
+        "敢骂敢判",
+        "反庆祝冷静派",
+        "悲壮现实主义者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "敢骂"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "物事態度是支持但不慶祝",
+          "note": "冷静不庆祝"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "或許這麼說有點中二,但中美就是劇本中的兩個主角",
+          "note": "承认中二"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「一个地球两个世界」「自砍一刀对赌」「公司vs文明」「没老爷命得老爷病」。",
+      "patterns": [
+        "地球两世界",
+        "自砍对赌",
+        "公司文明对仗",
+        "老爷病金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "徐底就變成了一個地球,兩個世界了",
+          "note": "一个地球两个世界"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "然後問中國你敢嗎,然後中國也立刻砍了自己一刀",
+          "note": "砍自己一刀"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "沒有老爺的命,得了老爺的病",
+          "note": "老爷病"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "公司隐喻"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "function": "hook_cost",
+          "note": "开场骂+股市暴跌代价，劝勿庆祝"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s8",
+            "s9",
+            "s10",
+            "s15",
+            "s16",
+            "s20",
+            "s21"
+          ],
+          "function": "escalate_stakes",
+          "note": "关税战定义与加码后实质脱钩"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s24",
+            "s26",
+            "s27",
+            "s40",
+            "s41"
+          ],
+          "function": "compare_responses",
+          "note": "中国唯一实质反制vs他国不敢"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s43",
+            "s44",
+            "s45",
+            "s47",
+            "s48",
+            "s54"
+          ],
+          "function": "essence_claim",
+          "note": "反制姿态=自砍一刀对赌+震慑"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s65",
+            "s71",
+            "s72",
+            "s73",
+            "s76"
+          ],
+          "function": "europe_foil",
+          "note": "欧洲象征性反制作反面教材"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s90",
+            "s91",
+            "s96",
+            "s101"
+          ],
+          "function": "civilizational_frame",
+          "note": "公司国家vs文明国家收束"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "倒是"
+        },
+        {
+          "type": "discourse",
+          "form": "我还纳闷了"
+        },
+        {
+          "type": "discourse",
+          "form": "物事/无时自称口癖"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "倒是,世道如今我只能說這個槍擊串撓的TOMA肆力太該死了",
+          "note": "倒是开场口语"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我還納悶了,怎麼還養",
+          "note": "我还纳闷了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "向著中局之戰進撒,截止無實做事平",
+          "note": "截止无实做事平"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "终局对赌叙事、姿态震慑、支持不庆祝冷静立场可迁移观鱼时政；去脏话与ASR噪声，保留税率锚点与对仗金句。",
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "關稅戰的本質,就是看哪個經歷體更能吃苦",
+          "note": "吃苦耐力本质可迁移"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "物事態度是支持但不慶祝",
+          "note": "支持不庆祝可迁移"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "美國是一個偽裝城國家的公司",
+          "note": "对仗金句结构可迁移"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s9",
+    "s47",
+    "s90",
+    "s13",
+    "s56",
+    "s71",
+    "s91",
+    "s8",
+    "s12",
+    "s15",
+    "s27",
+    "s67",
+    "s20",
+    "s45",
+    "s96",
+    "s61",
+    "s86",
+    "s48",
+    "s36",
+    "s58",
+    "s25",
+    "s16",
+    "s5",
+    "s37",
+    "s89",
+    "s106",
+    "s109",
+    "s14",
+    "s17",
+    "s18",
+    "s44",
+    "s10",
+    "s60",
+    "s40",
+    "s70",
+    "s21",
+    "s2",
+    "s4",
+    "s24",
+    "s26",
+    "s41",
+    "s43",
+    "s54",
+    "s65",
+    "s72",
+    "s73",
+    "s76",
+    "s101",
+    "s6",
+    "s39"
+  ],
+  "fields_complete_25": true
+}

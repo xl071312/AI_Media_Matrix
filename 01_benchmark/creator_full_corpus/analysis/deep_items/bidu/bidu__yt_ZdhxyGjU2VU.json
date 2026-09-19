@@ -1,0 +1,1404 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_ZdhxyGjU2VU",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=ZdhxyGjU2VU",
+  "source_sha256": "f83674d21b052c040026fb44d5309bfe6781c92c4fe8b8719e764376680b4025",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 113,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "各位導師大家好"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "歡迎在中參加今天的賽博組會"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "沒看過上一期的類"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "可以看一下上一期"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 7,
+      "snippet": "看過上一期的呢"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "可以看一下這一期"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "接下來我將分享影片最近看到的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "最離譜最搞笑的論文"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "還請各位批評執證"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 13,
+      "snippet": "好今天我要講的第一篇文章是"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "天雪 雞皮匣"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "你是這樣體驗"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "當聽到一首美妙的音樂"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "看到到震撼人心的畫面"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "或者被心愛的人親親腐窩"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 3,
+      "snippet": "都會突"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "這些人不需要聽歌看書看電影"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "不需要任…任何動作"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "只要一個念想"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "就能原地起雞皮疙瘩"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "喊毛豎起"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "簡直是雞皮匣"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "這個超能力真是毫無用處"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "這位可能就是雞皮匣"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "論文發表在PRJ,j上面"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 7,
+      "snippet": "影響一字2.3"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 19,
+      "snippet": "掌機皮疙瘩的過程按理說是不能主動控制的"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "整整一個世紀學術界也只找到過三位雞皮匣"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 7,
+      "snippet": "但互聯網發展了"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 21,
+      "snippet": "他們通過Facebook等渠道發佈巡人啟示"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "成功集結了32名雞皮匣"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "不然做這個實"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "什麼場景"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "這種有意識又發雞皮疙瘩的能力"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 17,
+      "snippet": "論文表示目前還沒有合理的生理學解釋"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 11,
+      "snippet": "據傳每一千五百個人裡面"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "只有一個人"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "具有這項超能力"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "如果你就是千里挑一的雞皮高手"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "請在評論區打出"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "我就可以"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 3,
+      "snippet": "我也行"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "不是你不行嗎"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "一千五百分之一的概念"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "我們公司就有三個雞皮匣"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 8,
+      "snippet": "來你們三個比一比"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "看誰是最強的雞皮匣"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "那就是我們一生領下"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "然後你們只有三個人"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "一起把手這麼比出來"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "我們就我們我們大當裁判"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "開始"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 4,
+      "snippet": "我找我找"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 32,
+      "snippet": "我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "鮮艷在哪裡"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "鮮艷在哪裡"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "鮮艷在哪裡"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "有了有了有了"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 15,
+      "snippet": "主要風泉沒有寒毛對雞皮很可視化"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 2,
+      "snippet": "什麼"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 4,
+      "snippet": "還有沒有"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 3,
+      "snippet": "倒開了"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 3,
+      "snippet": "倒開了"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 8,
+      "snippet": "只要閉了它給它擋"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 2,
+      "snippet": ".C"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "模擧系列有1.2"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "不得,馬老師"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 8,
+      "snippet": "原來香蕉不滑嗎?"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "然後一腳"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "結果非常Amazin'"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 5,
+      "snippet": "香蕉皮被踩"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 11,
+      "snippet": "模擦系列降到0.066"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 4,
+      "snippet": "也就是說"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 3,
+      "snippet": "你不踩"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 9,
+      "snippet": "它其實不슷-不滑蕉"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 3,
+      "snippet": "它上去"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 5,
+      "snippet": "它變得很滑"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "真 真是雞肉滑"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 6,
+      "snippet": "這時候一上當"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 7,
+      "snippet": "馬老師已經發現"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 8,
+      "snippet": "沒被踩過的香蕉皮"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "內側的網狀節奏"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 4,
+      "snippet": "節奏著急"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "人和人笑點不通很正常"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 10,
+      "snippet": "比如李誕很討厭閒一本"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 8,
+      "snippet": "但王建國就很喜歡"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 12,
+      "snippet": "實驗人員的笑話分為了五類"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "每一種類型選一個文字笑話"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 5,
+      "snippet": "和一張梗圖"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "然後在網上招募了"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 12,
+      "snippet": "4000多人的勒子人大軍"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 11,
+      "snippet": "對十個段子進行點評打分"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "還能獲得十歐元的獎勵"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "免費看段子還能報金幣"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 12,
+      "snippet": "下次有這樣的課言請教上我"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "人只需要看樂子就行"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 11,
+      "snippet": "AI要考慮的事情就多了"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 9,
+      "snippet": "把參與者的性格特點"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 12,
+      "snippet": "和點評數據一起為AI學習"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 16,
+      "snippet": "AI就學會了參賽人員對笑話的喜好"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "比如他可能學到"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 14,
+      "snippet": "三十出頭從事自媒體的必行男子"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 10,
+      "snippet": "可能更喜歡自嘲類段子"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 4,
+      "snippet": "結果發現"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 11,
+      "snippet": "AI對於好不好笑的預測"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 8,
+      "snippet": "總數裡接近70%"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 14,
+      "snippet": "如果今年春晚把AI加入導演組"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 15,
+      "snippet": "不知道春晚小品會不會好笑以前呢"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 12,
+      "snippet": "以上就是這期視頻的時間了"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "感謝大家的踴躍"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 12,
+      "snippet": "如果你喜歡這期視頻的影片"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 5,
+      "snippet": "記得點個讚"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「赛博组会」欢迎导师，用没看过/看过上一期的互文玩笑导入离谱论文分享。",
+      "patterns": [
+        "赛博组会设定",
+        "上下期互文玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "歡迎在中參加今天的賽博組會",
+          "note": "赛博组会"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "沒看過上一期的類",
+          "note": "没看过上一期"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "最離譜最搞笑的論文",
+          "note": "离谱搞笑论文"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "鸡皮疙瘩超能力论文→现场比试可视化→香蕉皮摩擦实验反转→笑话偏好AI预测→春晚小品玩笑收束求赞。",
+      "patterns": [
+        "论文1鸡皮匣",
+        "现场比试",
+        "香蕉皮反转",
+        "笑话AI",
+        "求赞收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "就能原地起雞皮疙瘩",
+          "note": "原地起鸡皮"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "香蕉皮被踩",
+          "note": "香蕉皮被踩"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "AI對於好不好笑的預測",
+          "note": "AI预测"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "記得點個讚",
+          "note": "点赞"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "cyber_meeting_intro",
+          "note": "组会开场与论文预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "goosebump_paper_demo",
+          "note": "鸡皮匣论文与现场比试"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83"
+          ],
+          "function": "banana_friction",
+          "note": "香蕉皮摩擦反转"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127"
+          ],
+          "function": "joke_ai_cta",
+          "note": "笑话偏好AI与CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「好今天第一篇」「也就是说」「结果发现」「以上就是」切换论文与收束。",
+      "patterns": [
+        "好今天第一篇",
+        "也就是说",
+        "以上就是收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "好今天我要講的第一篇文章是",
+          "note": "第一篇"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "也就是說",
+          "note": "也就是说"
+        },
+        {
+          "sentence_id": "s123",
+          "snippet": "以上就是這期視頻的時間了",
+          "note": "以上就是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "需刺激才起鸡皮vs念想即起；未踩不滑vs踩后变滑；人只需看乐子vs AI要学性格。",
+      "patterns": [
+        "被动vs主动鸡皮",
+        "踩前踩后摩擦",
+        "人vs AI任务"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "就能原地起雞皮疙瘩",
+          "note": "念想即起"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "它其實不슷-不滑蕉",
+          "note": "不踩不滑"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "它變得很滑",
+          "note": "上去变滑"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "AI要考慮的事情就多了",
+          "note": "AI事情多"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「原来香蕉不滑吗」「不是你不行吗」用反问制造笑点并推进实验解读。",
+      "patterns": [
+        "实验反问",
+        "不行吗抬杠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "原來香蕉不滑嗎?",
+          "note": "香蕉不滑吗"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "不是你不行嗎",
+          "note": "你不行吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "音乐/画面/亲脸窝触发、Facebook召集32人、公司三鸡皮匣比试、4000人打分笑话、春晚AI导演假想。",
+      "patterns": [
+        "触发场景例",
+        "召集样本例",
+        "公司比试例",
+        "春晚假想像"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "當聽到一首美妙的音樂",
+          "note": "美妙音乐"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "成功集結了32名雞皮匣",
+          "note": "32名"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我們公司就有三個雞皮匣",
+          "note": "公司三个"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "如果今年春晚把AI加入導演組",
+          "note": "春晚AI"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "无意识控制的生理过程→「鸡皮匣」超能力绰号；摩擦系数抽象→0.066与踩踏画面。",
+      "patterns": [
+        "生理抽象→绰号",
+        "系数→踩踏画面"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "簡直是雞皮匣",
+          "note": "鸡皮匣"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "模擦系列降到0.066",
+          "note": "0.066"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "香蕉皮被踩",
+          "note": "被踩"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「超能力真是毫无用处」「结果非常Amazing」「真是鸡肉滑」戏谑褒贬。",
+      "patterns": [
+        "毫无用处",
+        "Amazing",
+        "鸡肉滑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "這個超能力真是毫無用處",
+          "note": "毫无用处"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "結果非常Amazin'",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "真 真是雞肉滑",
+          "note": "鸡肉滑"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先暗示香蕉经典很滑，实验后纠正「不踩其实不滑，踩了才滑」。",
+      "patterns": [
+        "香蕉滑刻板纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "原來香蕉不滑嗎?",
+          "note": "不滑吗"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "它其實不슷-不滑蕉",
+          "note": "不踩不滑"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "它變得很滑",
+          "note": "上去变滑"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短对白→论文解说中句→比试叠词狂欢→摩擦数据短句→笑话段稳→求赞短收。",
+      "patterns": [
+        "对白短开",
+        "叠词狂欢",
+        "数据短句",
+        "求赞短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找",
+          "note": "我找叠词"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "模擦系列降到0.066",
+          "note": "0.066"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "記得點個讚",
+          "note": "点赞"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我找我找"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "有了有了"
+        },
+        {
+          "type": "discourse",
+          "form": "也就是说"
+        },
+        {
+          "type": "closing",
+          "form": "我们下期再见"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找",
+          "note": "我找叠词"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "有了有了有了",
+          "note": "有了有了"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "也就是說",
+          "note": "也就是说"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "轻松组会→鸡皮猎奇笑→现场比试嗨→香蕉反转惊→笑话段轻松→感谢收束。",
+      "patterns": [
+        "猎奇笑",
+        "比试嗨",
+        "反转惊",
+        "轻松收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "這個超能力真是毫無用處",
+          "note": "无用笑"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "開始",
+          "note": "开始比试"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "結果非常Amazin'",
+          "note": "Amazing"
+        },
+        {
+          "sentence_id": "s124",
+          "snippet": "感謝大家的踴躍",
+          "note": "感谢"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "春晚AI小品玩笑回扣「离谱论文」娱乐性，再点赞下期再见标准闭环。",
+      "patterns": [
+        "春晚玩笑回扣",
+        "点赞再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s121",
+          "snippet": "如果今年春晚把AI加入導演組",
+          "note": "春晚AI"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "記得點個讚",
+          "note": "点赞"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "喜欢就点赞+下期再见；中段还诱导评论区打「我就可以」。",
+      "patterns": [
+        "评论区打卡",
+        "点赞",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "請在評論區打出",
+          "note": "评论区打出"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "記得點個讚",
+          "note": "点赞"
+        },
+        {
+          "sentence_id": "s127",
+          "snippet": "我們下期再見",
+          "note": "再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错字连篇但现场「我找/有了」叠词、李诞王建国梗、鸡肉滑谐音，口播综艺感强。",
+      "patterns": [
+        "现场叠词",
+        "脱口秀梗",
+        "谐音笑点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找",
+          "note": "我找"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "比如李誕很討厭閒一本",
+          "note": "李诞"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "真 真是雞肉滑",
+          "note": "鸡肉滑"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损害专名与连贯；窗口截断香蕉/笑话段；影响因子等数字不可靠。",
+      "patterns": [
+        "ASR噪声",
+        "截断",
+        "数字不可靠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "天雪 雞皮匣",
+          "note": "天雪错写"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "影響一字2.3",
+          "note": "影响一字"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "節奏著急",
+          "note": "截断跳笑话"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先讲论文发现再拉同事现场验证；香蕉段先给系数再口语「也就是说」翻译。",
+      "patterns": [
+        "论文→现场验证",
+        "系数→口语翻译"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "我們公司就有三個雞皮匣",
+          "note": "公司三个"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "開始",
+          "note": "开始"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "也就是說",
+          "note": "也就是说"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当「组会导师/乐子人」，邀请自认鸡皮高手打卡，并羡慕赚欧分看段子。",
+      "patterns": [
+        "导师角色扮演",
+        "乐子人打卡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "各位導師大家好",
+          "note": "各位导师"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "如果你就是千里挑一的雞皮高手",
+          "note": "鸡皮高手"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "下次有這樣的課言請教上我",
+          "note": "请叫上我"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "32名鸡皮匣、1/1500、摩擦到0.066、4000人打分、预测近70%、十欧元。",
+      "patterns": [
+        "样本数锚",
+        "摩擦数字锚",
+        "准确率锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "成功集結了32名雞皮匣",
+          "note": "32名"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "模擦系列降到0.066",
+          "note": "0.066"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "總數裡接近70%",
+          "note": "近70%"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "還能獲得十歐元的獎勵",
+          "note": "十欧"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密→论文设定中密→比试低密热闹→摩擦高密数字→笑话中密→CTA降密。",
+      "patterns": [
+        "摩擦高密",
+        "比试低密",
+        "CTA降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s72",
+          "snippet": "模擦系列降到0.066",
+          "note": "系数高密"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找我找",
+          "note": "比试低密"
+        },
+        {
+          "sentence_id": "s126",
+          "snippet": "記得點個讚",
+          "note": "CTA"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "组会导入→论文1+demo→论文2香蕉→（截断）笑话AI→CTA，单元杂志结构。",
+      "patterns": [
+        "杂志多论文",
+        "截断跳切",
+        "CTA收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "好今天我要講的第一篇文章是",
+          "note": "第一篇"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "原來香蕉不滑嗎?",
+          "note": "香蕉转"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "人和人笑點不通很正常",
+          "note": "笑话转"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导赛博组会：把论文当段子讲，敢现场整活，科学结论配谐音梗。",
+      "patterns": [
+        "论文当段子",
+        "现场整活"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "最離譜最搞笑的論文",
+          "note": "离谱搞笑"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "看誰是最強的雞皮匣",
+          "note": "比试整活"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "真 真是雞肉滑",
+          "note": "谐音"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「鸡皮匣」绰号+香蕉不踩不滑+评论区「我就可以」。",
+      "patterns": [
+        "鸡皮匣钩",
+        "香蕉反转钩",
+        "我就可以钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "簡直是雞皮匣",
+          "note": "鸡皮匣"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "它其實不슷-不滑蕉",
+          "note": "不滑"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "我就可以",
+          "note": "我就可以"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「离谱论文杂志体+现场验证+一句话翻译」适合观宇趣味科普，必须重转写并控制猎奇尺度。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "最離譜最搞笑的論文",
+          "note": "离谱论文"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "開始",
+          "note": "现场比试"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "也就是說",
+          "note": "一句话翻译"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s8",
+    "s20",
+    "s71",
+    "s119",
+    "s126",
+    "s1",
+    "s11",
+    "s12",
+    "s66",
+    "s67",
+    "s98",
+    "s99",
+    "s10",
+    "s73",
+    "s123",
+    "s75",
+    "s77",
+    "s111",
+    "s68",
+    "s43",
+    "s13",
+    "s31",
+    "s45",
+    "s121",
+    "s22",
+    "s72",
+    "s23",
+    "s70",
+    "s78",
+    "s54",
+    "s58",
+    "s127",
+    "s52",
+    "s124",
+    "s40",
+    "s26",
+    "s83",
+    "s39",
+    "s109",
+    "s120",
+    "s107",
+    "s47",
+    "s41"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,870 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7660835275286856219",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7660835275286856219/",
+  "source_sha256": "fa5ba434adde8826dcbd866b55ea90f21bdcafd3aea943fc469e28159eb81223",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 42,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 20,
+      "snippet": "图片截取自: 高考志愿课程，赚的是背锅钱"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 32,
+      "snippet": "最近这段时间高考志愿填报很火，很多卖课的做志愿填报指导的也很火。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 30,
+      "snippet": "很多人好奇凭什么他们的收费那么贵，还这么多人花钱找他们咨询。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "答案是，他们赚的是背锅费。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 26,
+      "snippet": "真的，高考志愿的咨询服务从来卖的不是选专业这件事儿。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 44,
+      "snippet": "人家提供的所谓【咨询】，本质上是替家长背锅，替家长抗事儿，为家长和学生提供情绪价值而已。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 43,
+      "snippet": "以后但凡觉得大学的专业不满意乃至人生不满意，锅都可以甩给他们这里，家长和学生都没责任。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "人家卖的，是不粘锅。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "不然呢？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "真以为【咨询】是解决问题啊？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 33,
+      "snippet": "咨询服务的本质是买主需要给别人表达一个态度，利用咨询这件事来实现。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 86,
+      "snippet": "说白了，是告诉自己和身边人，我都为你花钱搞这个了，这么贵的钱都花了，这么知名的团队我都找了，我尽力了，我燃尽了，我是一个负责人的人，并且很乐意为你付出代价，并且"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 26,
+      "snippet": "就算这次选的不好，你以后过的也不快乐，那也没办法了。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 50,
+      "snippet": "我都给你花了那么多钱，找到了这么贵的团队服务，有问题要么是这咨询公司的问题（背锅），要么是世界的错。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 23,
+      "snippet": "反正，不是我的问题，我今天就是个灵活的不粘锅。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 20,
+      "snippet": "说白了，能买得起这个服务的人，没有傻人。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 59,
+      "snippet": "人家自己都根本不信靠这个服务给孩子逆天改命，不存在的，毕竟脑子正常的人也知道现在的供需关系摆在这里，没有太多操作空间。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 63,
+      "snippet": "如果连选专业都要问别人，而不是自己发现自己的资源让孩子学什么适合接手和变现，那已经说明了自己没法给孩子兜底了，事情已经这样了。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 35,
+      "snippet": "所以他们需要一个提供情绪价值和背锅的角色，付的也不是咨询费，算背锅费。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 30,
+      "snippet": "他们给孩子买这个的本质需求是告诉孩子，爸妈不懂，但爸妈爱你。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 73,
+      "snippet": "妈爸找到了贵的团队来帮助你，爸妈真的已经尽力，真的很用心了，如果以后这个选择不好，那不是爸妈的问题，爸妈很合格，爸妈真掏钱真尽力真的请专业人士了。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 52,
+      "snippet": "咱们一家子还是好好的快快乐乐的生活，谁也不埋怨谁，毕竟你尽力考分了，爸妈也尽力掏钱给你找专业人士规划了。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 32,
+      "snippet": "这哪里是选专业策略，这本质就是免责声明，甚至还带点家庭心理咨询。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 31,
+      "snippet": "说白了，就是家长靠给孩子找很贵的专业咨询，来展示一个态度问题。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 42,
+      "snippet": "而很多事情，我们都知道很难讨论好坏对错，但态度到了，态度没问题了，那就都是小事儿了。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "就像茅台真那么好喝吗？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "但我酒桌上给你上茅台就是态度没有问题。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 16,
+      "snippet": "海蓝之谜和赫莲娜真的那么好用吗？"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 19,
+      "snippet": "但我给女生送礼送这个态度就是没有问题。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 31,
+      "snippet": "我管你喜欢什么手机，我送你一台苹果手机，这个态度就是没有问题。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 24,
+      "snippet": "你能看到我真金白银的投入，看到我为你选择了标杆。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 18,
+      "snippet": "所以不管你满意不满意，你都不会怪我。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "因为我态度没问题，行动也尽力。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 18,
+      "snippet": "很多事情确实没办法，但我尽职无责了。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 31,
+      "snippet": "如果说这里面有坏人，那就是那帮子专业人士是坏人，锅都是他们的。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "现在你看，是不是特别通顺了？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 16,
+      "snippet": "你花好几万找人问个志愿，太贵了。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 24,
+      "snippet": "你花好几万，就能找到人生背锅侠，还是有性价比的。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 16,
+      "snippet": "所以说嘛，人家提供的是情绪价值。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 15,
+      "snippet": "毕竟替家长背锅，也算情绪价值。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "赚的不是钱，是精神损失费。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "志愿填报课很火收费贵的好奇，直接抛答案「赚的是背锅费」。",
+      "patterns": [
+        "现象好奇钩子",
+        "背锅费破题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "最近这段时间高考志愿填报很火，很多卖课的做志愿填报指导的也很火。",
+          "note": "志愿课很火"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人好奇凭什么他们的收费那么贵，还这么多人花钱找他们咨询。",
+          "note": "凭什么那么贵"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "赚的是背锅费"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "咨询非选专业→替家长背锅给情绪价值→买的是态度展示→买家不傻知难改命→免责声明+家庭心理→茅台苹果类比→性价比是背锅侠。",
+      "patterns": [
+        "背锅定义→态度消费→免责→礼品类比→性价比重估"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "人家提供的所谓【咨询】，本质上是替家长背锅，替家长抗事儿，为家长和学生提供情绪价",
+          "note": "替家长背锅"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这哪里是选专业策略，这本质就是免责声明，甚至还带点家庭心理咨询。",
+          "note": "免责声明"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你花好几万，就能找到人生背锅侠，还是有性价比的。",
+          "note": "背锅侠性价比"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "scapegoat_define",
+          "note": "背锅费定义与不粘锅态度"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "parent_need",
+          "note": "买家不傻+爸妈爱你展示+免责心理"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "attitude_gifts",
+          "note": "茅台护肤苹果态度礼类比"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42"
+          ],
+          "function": "reprice_close",
+          "note": "几万找背锅侠性价比+精神损失费"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「不然呢」「说白了」「现在你看是不是特别通顺了」推动揭底。",
+      "patterns": [
+        "不然呢逼问",
+        "说白了降维",
+        "通顺了验收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "不然呢？",
+          "note": "不然呢"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "说白了，是告诉自己和身边人，我都为你花钱搞这个了，这么贵的钱都花了，这么知名的团",
+          "note": "说白了态度"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "现在你看，是不是特别通顺了？",
+          "note": "特别通顺了"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "以为解决问题 vs 实际买态度；咨询费 vs 背锅费/精神损失费；贵 vs 有性价比。",
+      "patterns": [
+        "解题/态度",
+        "咨询费/背锅费",
+        "贵/性价比重估"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "真以为【咨询】是解决问题啊？",
+          "note": "以为解决问题"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "所以他们需要一个提供情绪价值和背锅的角色，付的也不是咨询费，算背锅费。",
+          "note": "算背锅费"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "你花好几万找人问个志愿，太贵了。",
+          "note": "太贵了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你花好几万，就能找到人生背锅侠，还是有性价比的。",
+          "note": "有性价比"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「凭什么收费贵」「真以为咨询解决问题？」「通顺了？」驱动揭穿。",
+      "patterns": [
+        "定价好奇问",
+        "本质反问",
+        "验收反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "很多人好奇凭什么他们的收费那么贵，还这么多人花钱找他们咨询。",
+          "note": "凭什么那么贵"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "真以为【咨询】是解决问题啊？",
+          "note": "真以为解决问题"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "现在你看，是不是特别通顺了？",
+          "note": "是不是通顺了"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "茅台酒桌、海蓝之谜赫莲娜送礼、苹果手机——态度无问题礼品链。",
+      "patterns": [
+        "酒桌茅台",
+        "护肤送礼",
+        "苹果态度礼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "就像茅台真那么好喝吗？",
+          "note": "茅台真好喝吗"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "海蓝之谜和赫莲娜真的那么好用吗？",
+          "note": "海蓝之谜"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "我管你喜欢什么手机，我送你一台苹果手机，这个态度就是没有问题。",
+          "note": "送苹果手机"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「情绪价值/免责」落到「这么贵团队我都找了」「以后锅甩咨询公司」。",
+      "patterns": [
+        "抽象背锅→家庭话术",
+        "态度→标杆礼品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "说白了，是告诉自己和身边人，我都为你花钱搞这个了，这么贵的钱都花了，这么知名的团",
+          "note": "这么贵都花了"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我都给你花了那么多钱，找到了这么贵的团队服务，有问题要么是这咨询公司的问题（背锅",
+          "note": "锅甩咨询公司"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "你能看到我真金白银的投入，看到我为你选择了标杆。",
+          "note": "选择了标杆"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「能买得起的没有傻人」「本质就是免责声明」「赚的是精神损失费」。",
+      "patterns": [
+        "买家不傻判决",
+        "免责定性",
+        "精神损失费命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "说白了，能买得起这个服务的人，没有傻人。",
+          "note": "没有傻人"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这哪里是选专业策略，这本质就是免责声明，甚至还带点家庭心理咨询。",
+          "note": "免责声明"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "精神损失费"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "表面「太贵了」随即纠正为「找到背锅侠还算有性价比」。",
+      "patterns": [
+        "贵→性价比重估"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "你花好几万找人问个志愿，太贵了。",
+          "note": "太贵了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你花好几万，就能找到人生背锅侠，还是有性价比的。",
+          "note": "有性价比"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短破题句后长「我尽力了」排比，类比段三连加速，结尾短句钉死。",
+      "patterns": [
+        "短破题",
+        "尽力了排比",
+        "三连类比",
+        "短钉尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "短破题"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "说白了，是告诉自己和身边人，我都为你花钱搞这个了，这么贵的钱都花了，这么知名的团",
+          "note": "尽力了长排比"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "短钉尾"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇→冷笑揭穿→共情家长姿态焦虑→类比会心→通顺释然。",
+      "patterns": [
+        "好奇→冷笑→共情→释然"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "冷笑破题"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "他们给孩子买这个的本质需求是告诉孩子，爸妈不懂，但爸妈爱你。",
+          "note": "爸妈爱你"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "现在你看，是不是特别通顺了？",
+          "note": "通顺释然"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场背锅费在结尾升为「情绪价值+精神损失费」，命名闭环。",
+      "patterns": [
+        "背锅费→精神损失费命名闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "背锅费"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "毕竟替家长背锅，也算情绪价值。",
+          "note": "背锅也算情绪价值"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "精神损失费"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无购买CTA；认知揭穿式，让读者重估「贵咨询」。",
+      "patterns": [
+        "揭穿式无转化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "所以说嘛，人家提供的是情绪价值。",
+          "note": "提供的是情绪价值"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "不粘锅、燃尽了、背锅侠等网络口语，家庭对话体仿真。",
+      "patterns": [
+        "不粘锅梗",
+        "燃尽了",
+        "家庭对话体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "人家卖的，是不粘锅。",
+          "note": "卖的是不粘锅"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "说白了，是告诉自己和身边人，我都为你花钱搞这个了，这么贵的钱都花了，这么知名的团",
+          "note": "我燃尽了"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "妈爸找到了贵的团队来帮助你，爸妈真的已经尽力，真的很用心了，如果以后这个选择不好",
+          "note": "爸妈真尽力话术"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "对咨询从业者一面性；类比段略劝导腔；缺少反例平衡。",
+      "patterns": [
+        "一面性",
+        "类比劝导腔"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "如果说这里面有坏人，那就是那帮子专业人士是坏人，锅都是他们的。",
+          "note": "专业人士是坏人"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就像茅台真那么好喝吗？",
+          "note": "茅台类比起"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「贵从何来→不是信息是风险转移→家长要态度证明」推理。",
+      "patterns": [
+        "定价谜题拆解外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "真的，高考志愿的咨询服务从来卖的不是选专业这件事儿。",
+          "note": "卖的不是选专业"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "咨询服务的本质是买主需要给别人表达一个态度，利用咨询这件事来实现。",
+          "note": "本质是表达态度"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者从「嘲买家傻」拉到「看懂态度消费」的清醒旁观位。",
+      "patterns": [
+        "嘲傻→懂态度",
+        "旁观清醒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "说白了，能买得起这个服务的人，没有傻人。",
+          "note": "没有傻人"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "现在你看，是不是特别通顺了？",
+          "note": "通顺了验收"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "好几万咨询费、茅台、海蓝之谜赫莲娜、苹果手机。",
+      "patterns": [
+        "价格锚",
+        "标杆礼品锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "你花好几万找人问个志愿，太贵了。",
+          "note": "好几万"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "但我酒桌上给你上茅台就是态度没有问题。",
+          "note": "酒桌上茅台"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "我管你喜欢什么手机，我送你一台苹果手机，这个态度就是没有问题。",
+          "note": "苹果手机"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "破题高密→家长心理中密→类比低密重复强化→命名降密收。",
+      "patterns": [
+        "破题高→类比低密强化→命名收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "人家提供的所谓【咨询】，本质上是替家长背锅，替家长抗事儿，为家长和学生提供情绪价",
+          "note": "破题高密"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就像茅台真那么好喝吗？",
+          "note": "类比段"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "命名收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问→破题→机制拆解→家长话术→礼品类比→性价比重估钉尾。",
+      "patterns": [
+        "问-破-拆-喻-钉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "破题"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "这哪里是选专业策略，这本质就是免责声明，甚至还带点家庭心理咨询。",
+          "note": "免责定性"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "钉尾"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷酷市场观察者：揭穿但不道德审判买家，只命名交易结构。",
+      "patterns": [
+        "冷酷命名者",
+        "不审判买家"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "说白了，能买得起这个服务的人，没有傻人。",
+          "note": "没有傻人"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "精神损失费"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「赚的是背锅费」+「卖的是不粘锅」+「精神损失费」。",
+      "patterns": [
+        "背锅费",
+        "不粘锅",
+        "精神损失费"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "背锅费"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "人家卖的，是不粘锅。",
+          "note": "不粘锅"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "赚的不是钱，是精神损失费。",
+          "note": "精神损失费"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「高价咨询=背锅/态度证明」框架可直接迁移到留学中介、择业咨询、医美顾问等态度消费分析。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "答案是，他们赚的是背锅费。",
+          "note": "背锅费命名"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "咨询服务的本质是买主需要给别人表达一个态度，利用咨询这件事来实现。",
+          "note": "态度表达本质"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你花好几万，就能找到人生背锅侠，还是有性价比的。",
+          "note": "背锅侠性价比"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s24",
+    "s39",
+    "s1",
+    "s2",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42"
+  ],
+  "fields_complete_25": true
+}

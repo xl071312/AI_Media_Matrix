@@ -1,0 +1,1454 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_-tHdM8dOeAc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=-tHdM8dOeAc",
+  "source_sha256": "824f0ea3e1096f3d8c80030931b2b8b2a89f91b4a0d4e45140b57ee235f3e1ac",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 2,
+      "snippet": "发射"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 17,
+      "snippet": "这是我们工作室的同事做的射门机器人"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "可以以各种原理把足球高速地发射出去"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "而这"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "是一个守门机器人"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "可以以每秒100次的频率"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "扫描足球的位置"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "并且把球给扑出去"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 17,
+      "snippet": "最近工作室的大家每天都熬夜看欧洲杯"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 12,
+      "snippet": "第二天上班眼皮都要合上了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 10,
+      "snippet": "既然大家这么喜欢足球"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "不如举办一场"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "我们工作室里面的足球比赛"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "为了增加比赛难度"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "我们将不是在禁区里面"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 8,
+      "snippet": "而是在中圈里射门"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 2,
+      "snippet": "赢家"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "会获得38000元的奖金"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "和我们工作室至高无上的荣誉"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 4,
+      "snippet": "大力神鸽"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "让我们等天亮后开始比赛"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "有请我们的第一组选手静静和路佳"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "来 静哥介绍一下你们的装置"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "我们的装置叫"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "基于射击复合弓原理的"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "无敌机械足球发射机"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "简称"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "基击复机机"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "我们用了整整三把复合弓"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "能产生将近1000牛的拉力"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "首先通过电机转动丝杆进行拉弓"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "等到达合适位置"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "控制舵机扣动扳机进行足球发射"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "在此基础上"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 15,
+      "snippet": "我们还加上了双轴自由度和摄像头"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "结合算法"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "能紧紧锁住目标"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 4,
+      "snippet": "俗称锁头"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "让路佳给大家演示一下"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 3,
+      "snippet": "看一下"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "直接锁到"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "它就可以自动瞄着球门走吧"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 2,
+      "snippet": "是的"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 1,
+      "snippet": "哇"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 11,
+      "snippet": "那你这个不应该叫锁门吗"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "为什么叫锁头啊"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "给你看这个"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 1,
+      "snippet": "哎"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": "啊"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 4,
+      "snippet": "确实不错"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 9,
+      "snippet": "好好快我们继续比赛"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 10,
+      "snippet": "有请我们的小五和一凡"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 11,
+      "snippet": "他们是唯一一组没有用电"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 8,
+      "snippet": "而是用人力发射的"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 11,
+      "snippet": "快 介绍一下你们的装置"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 13,
+      "snippet": "我们的装置名字叫做西西弗斯"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 10,
+      "snippet": "古希腊掌管无用功的神"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "我们先将足球"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 8,
+      "snippet": "放置在发射圆环里"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 9,
+      "snippet": "然后用人力动力跑轮"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "带动加速装置旋转"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 11,
+      "snippet": "当转速达到我们的要求时"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 5,
+      "snippet": "释放发射盖"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 11,
+      "snippet": "将足球以19度仰角射出"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 16,
+      "snippet": "真的是一个非常奇怪的足球发射方式"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 11,
+      "snippet": "你们是从哪里获得的灵感"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 13,
+      "snippet": "我们的灵感主要来源于投石机"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 9,
+      "snippet": "还有仓鼠的那种跑轮"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 13,
+      "snippet": "就是我们的装置叫西西弗斯嘛"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 6,
+      "snippet": "然后我们觉得"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 11,
+      "snippet": "西西弗斯他永远没有办法"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 10,
+      "snippet": "把石头推到那个山顶上"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 5,
+      "snippet": "其实本质上"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 15,
+      "snippet": "和仓鼠永远没有办法跑出那个跑轮"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 5,
+      "snippet": "是非常像的"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 8,
+      "snippet": "但是从生理上来说"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 16,
+      "snippet": "仓鼠跑跑轮的时候是非常非常快乐的"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 9,
+      "snippet": "所以这给了我们一种"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 11,
+      "snippet": "一种信心去相信西西弗斯"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 8,
+      "snippet": "他应当也是幸福的"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 5,
+      "snippet": "所以你想说"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 14,
+      "snippet": "只要人有一个具体的目标在追求"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 15,
+      "snippet": "无论这个追求的过程有多么的虚无"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 6,
+      "snippet": "人都是幸福的"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 3,
+      "snippet": "不是的"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 15,
+      "snippet": "主要是仓鼠跑跑轮的时候非常可爱"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 1,
+      "snippet": "来"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 6,
+      "snippet": "感觉很有希望"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 2,
+      "snippet": "很快"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 14,
+      "snippet": "但他们利用守门员反应的时间差"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 6,
+      "snippet": "把球打了进去"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 7,
+      "snippet": "真是非常的聪明"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 6,
+      "snippet": "真的很了不起"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 4,
+      "snippet": "我的天哪"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 16,
+      "snippet": "接下来颁给你们我们至高无上的荣誉"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 17,
+      "snippet": "别看我们工作室的同事现在放得这么开"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 8,
+      "snippet": "其实他们和我一样"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 6,
+      "snippet": "都是老I人了"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 14,
+      "snippet": "大家平常在工作室话说得也不多"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 9,
+      "snippet": "默默地对着屏幕干活"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 13,
+      "snippet": "项目卡住了也免不了满面愁容"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 4,
+      "snippet": "唉声叹气"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 9,
+      "snippet": "但是一到了比赛项目"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 7,
+      "snippet": "就个个充满斗志"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 11,
+      "snippet": "还能想出各种各样的狠活"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 13,
+      "snippet": "我想这就是自驱和他驱的区别"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 14,
+      "snippet": "也是我们要搞DIY比赛的原因"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 11,
+      "snippet": "把大家的创造力推到极限"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 18,
+      "snippet": "让我们的工程师在镜头前自信地展示自己"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 10,
+      "snippet": "如果你有喜欢的组的话"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 9,
+      "snippet": "欢迎在评论区里投票"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 9,
+      "snippet": "但就不要写赢的组了"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 8,
+      "snippet": "他们已经很得瑟了"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 16,
+      "snippet": "如果你想看更多比赛相关的内容的话"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 11,
+      "snippet": "求赞求收藏求硬币求转发"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 13,
+      "snippet": "最重要的是点一个大大的关注"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 17,
+      "snippet": "各位的支持就是我们做视频的最大动力"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 6,
+      "snippet": "我们下期再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "先展示射门/守门机器人能力，再借欧洲杯熬夜把工作室足球赛奖金与大力神鸽抬上台面。",
+      "patterns": [
+        "机器人能力展示",
+        "欧洲杯由头",
+        "奖金荣誉钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这是我们工作室的同事做的射门机器人",
+          "note": "射门机器人"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "是一个守门机器人",
+          "note": "守门机器人"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "会获得38000元的奖金",
+          "note": "38000奖金"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "工作室办中圈射门赛→各组装置原理解说与试射→聪明进球→I人工程师因比赛自驱绽放→求赞关注。",
+      "patterns": [
+        "赛制设定",
+        "装置轮播",
+        "自驱主题收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "而是在中圈里射门",
+          "note": "中圈射门"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "基于射击复合弓原理的",
+          "note": "复合弓原理"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱他驱"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "最重要的是点一个大大的关注",
+          "note": "关注"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21"
+          ],
+          "function": "hook_rules_prize",
+          "note": "机器人展示与赛制奖金"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "team1_bow_launcher",
+          "note": "复合弓发射机组"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168",
+            "s169"
+          ],
+          "function": "team_sisyphus",
+          "note": "西西弗斯人力组与哲学插科"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s270",
+            "s271",
+            "s272",
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279",
+            "s280",
+            "s281",
+            "s282",
+            "s283",
+            "s284",
+            "s285",
+            "s286",
+            "s287",
+            "s288",
+            "s289",
+            "s290",
+            "s291",
+            "s292",
+            "s293",
+            "s294",
+            "s295",
+            "s296",
+            "s297",
+            "s298",
+            "s299"
+          ],
+          "function": "win_theme_cta",
+          "note": "进球颁奖与自驱主题CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「有请」「快介绍一下」「好好快我们继续」「接下来颁给」主持串联各组。",
+      "patterns": [
+        "有请上场",
+        "继续比赛",
+        "接下来颁奖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有请我们的第一组选手静静和路佳",
+          "note": "有请第一组"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "好好快我们继续比赛",
+          "note": "继续比赛"
+        },
+        {
+          "sentence_id": "s275",
+          "snippet": "接下来颁给你们我们至高无上的荣誉",
+          "note": "接下来颁给"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "禁区射门常态vs中圈加难；电力发射vs唯一人力组；日常I人沉默vs比赛斗志狠活。",
+      "patterns": [
+        "难度加码对比",
+        "电力vs人力",
+        "I人vs比赛绽放"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我们将不是在禁区里面",
+          "note": "非禁区"
+        },
+        {
+          "sentence_id": "s133",
+          "snippet": "他们是唯一一组没有用电",
+          "note": "唯一人力"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "都是老I人了",
+          "note": "老I人"
+        },
+        {
+          "sentence_id": "s284",
+          "snippet": "就个个充满斗志",
+          "note": "充满斗志"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为什么叫锁头」「从哪里获得灵感」「你想说…幸福？」主持追问挖原理与玩笑。",
+      "patterns": [
+        "命名追问",
+        "灵感追问",
+        "哲学追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "为什么叫锁头啊",
+          "note": "为何锁头"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "你们是从哪里获得的灵感",
+          "note": "灵感哪来"
+        },
+        {
+          "sentence_id": "s162",
+          "snippet": "只要人有一个具体的目标在追求",
+          "note": "具体目标"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "三把复合弓1000牛、西西弗斯跑轮19度仰角、仓鼠跑轮类比、反应时间差进球。",
+      "patterns": [
+        "复合弓参数例",
+        "跑轮仰角例",
+        "时间差进球例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "我们用了整整三把复合弓",
+          "note": "三把复合弓"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "将足球以19度仰角射出",
+          "note": "19度仰角"
+        },
+        {
+          "sentence_id": "s270",
+          "snippet": "但他们利用守门员反应的时间差",
+          "note": "时间差"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「自驱vs他驱」抽象→日常对着屏幕叹气vs比赛想狠活展示的具体反差。",
+      "patterns": [
+        "自驱抽象→工位场景",
+        "比赛绽放具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱他驱"
+        },
+        {
+          "sentence_id": "s280",
+          "snippet": "默默地对着屏幕干活",
+          "note": "对着屏幕"
+        },
+        {
+          "sentence_id": "s285",
+          "snippet": "还能想出各种各样的狠活",
+          "note": "各种狠活"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「真是非常聪明」「真的很了不起」「这就是自驱和他驱的区别」明确褒奖与主题定性。",
+      "patterns": [
+        "聪明褒奖",
+        "了不起",
+        "自驱定性"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s272",
+          "snippet": "真是非常的聪明",
+          "note": "非常聪明"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "真的很了不起",
+          "note": "很了不起"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱区别"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "主持把西西弗斯解读成「有目标就幸福」，选手立刻「不是的，主要是仓鼠可爱」拆台纠偏。",
+      "patterns": [
+        "哲学解读被拆台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s162",
+          "snippet": "只要人有一个具体的目标在追求",
+          "note": "主持解读"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "不是的",
+          "note": "不是的"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "主要是仓鼠跑跑轮的时候非常可爱",
+          "note": "仓鼠可爱"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "展示短句开场→规则奖金加速→装置解说中长技术句→互怼短句活泼→主题长句收束。",
+      "patterns": [
+        "展示短句",
+        "技术中长",
+        "互怼短句",
+        "主题收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "发射",
+          "note": "发射"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "基于射击复合弓原理的",
+          "note": "原理长名"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "那你这个不应该叫锁门吗",
+          "note": "锁门吐槽"
+        },
+        {
+          "sentence_id": "s288",
+          "snippet": "把大家的创造力推到极限",
+          "note": "创造力极限"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "而这"
+        },
+        {
+          "type": "reaction",
+          "form": "哇"
+        },
+        {
+          "type": "discourse",
+          "form": "好"
+        },
+        {
+          "type": "closing",
+          "form": "OK各位"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "而这",
+          "note": "而这"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "好",
+          "note": "好"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "哇",
+          "note": "哇"
+        },
+        {
+          "sentence_id": "s298",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇兴奋→比赛紧张滑稽→西西弗斯温情好笑→进球高潮→I人共鸣暖→求赞热情。",
+      "patterns": [
+        "兴奋开场",
+        "滑稽中段",
+        "进球高潮",
+        "共鸣收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "会获得38000元的奖金",
+          "note": "奖金兴奋"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "主要是仓鼠跑跑轮的时候非常可爱",
+          "note": "仓鼠好笑"
+        },
+        {
+          "sentence_id": "s274",
+          "snippet": "我的天哪",
+          "note": "我的天哪"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "都是老I人了",
+          "note": "老I人"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用自驱主题回扣为何办DIY赛，再投票/求赞/关注标准尾。",
+      "patterns": [
+        "自驱回扣办赛",
+        "求三连关注"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s287",
+          "snippet": "也是我们要搞DIY比赛的原因",
+          "note": "搞比赛原因"
+        },
+        {
+          "sentence_id": "s295",
+          "snippet": "求赞求收藏求硬币求转发",
+          "note": "求赞收藏"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "最重要的是点一个大大的关注",
+          "note": "关注"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "评论区投票（别投赢家）+求赞求藏求币求转+大大关注。",
+      "patterns": [
+        "投票互动",
+        "四连求",
+        "关注强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s291",
+          "snippet": "欢迎在评论区里投票",
+          "note": "评论区投票"
+        },
+        {
+          "sentence_id": "s295",
+          "snippet": "求赞求收藏求硬币求转发",
+          "note": "求四连"
+        },
+        {
+          "sentence_id": "s296",
+          "snippet": "最重要的是点一个大大的关注",
+          "note": "大大关注"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "装置绰号「基击复机机」、锁头/锁门抬杠、仓鼠拆台，强工作室现场对话感。",
+      "patterns": [
+        "绰号梗",
+        "锁头抬杠",
+        "拆台对话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "基击复机机",
+          "note": "基击复机机"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "那你这个不应该叫锁门吗",
+          "note": "锁门吗"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "主要是仓鼠跑跑轮的时候非常可爱",
+          "note": "仓鼠可爱"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断致多组比赛过程缺失；主题升华略急；奖金数字缺上下文。",
+      "patterns": [
+        "截断缺过程",
+        "升华偏急",
+        "奖金缺上下文"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s130",
+          "snippet": "确实不错",
+          "note": "跳到继续"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "主题跳升"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "会获得38000元的奖金",
+          "note": "38000"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "选手当场讲拉弓-扳机-锁头算法；西西弗斯组暴露灵感链投石机→跑轮→神话。",
+      "patterns": [
+        "装置步骤外化",
+        "灵感链外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "首先通过电机转动丝杆进行拉弓",
+          "note": "拉弓步骤"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "我们的灵感主要来源于投石机",
+          "note": "投石机灵感"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "还有仓鼠的那种跑轮",
+          "note": "仓鼠跑轮"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当「围观工作室比赛的粉丝/工程师同好」，邀请投票站队。",
+      "patterns": [
+        "围观粉丝",
+        "投票站队"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s290",
+          "snippet": "如果你有喜欢的组的话",
+          "note": "喜欢的组"
+        },
+        {
+          "sentence_id": "s297",
+          "snippet": "各位的支持就是我们做视频的最大动力",
+          "note": "各位支持"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "每秒100次扫描、中圈射门、38000元、1000牛、19度仰角、大力神鸽。",
+      "patterns": [
+        "扫描频率锚",
+        "奖金锚",
+        "拉力仰角锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "可以以每秒100次的频率",
+          "note": "100次"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "会获得38000元的奖金",
+          "note": "38000"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "能产生将近1000牛的拉力",
+          "note": "1000牛"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "将足球以19度仰角射出",
+          "note": "19度"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密能力→规则奖金中密→装置解说高密→哲学插科降密→主题CTA中密。",
+      "patterns": [
+        "装置高密",
+        "插科降密",
+        "CTA中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "我们还加上了双轴自由度和摄像头",
+          "note": "双轴摄像头"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "主要是仓鼠跑跑轮的时候非常可爱",
+          "note": "插科降密"
+        },
+        {
+          "sentence_id": "s295",
+          "snippet": "求赞求收藏求硬币求转发",
+          "note": "CTA"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "展示→立规→组1解说互动→（截断）组N→进球颁奖→主题→CTA。",
+      "patterns": [
+        "主持串场",
+        "截断跳组",
+        "主题收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有请我们的第一组选手静静和路佳",
+          "note": "第一组"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "有请我们的小五和一凡",
+          "note": "小五一凡"
+        },
+        {
+          "sentence_id": "s276",
+          "snippet": "别看我们工作室的同事现在放得这么开",
+          "note": "主题段"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式「正经工程师玩赛+温柔观察I人同事」主持人格。",
+      "patterns": [
+        "工程师玩赛",
+        "温柔观察I人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱观察"
+        },
+        {
+          "sentence_id": "s289",
+          "snippet": "让我们的工程师在镜头前自信地展示自己",
+          "note": "自信展示"
+        },
+        {
+          "sentence_id": "s293",
+          "snippet": "他们已经很得瑟了",
+          "note": "得瑟吐槽"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "大力神鸽+「自驱和他驱的区别」+仓鼠拆台名场面。",
+      "patterns": [
+        "大力神鸽钩",
+        "自驱金句",
+        "仓鼠拆台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "大力神鸽",
+          "note": "大力神鸽"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱他驱"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "主要是仓鼠跑跑轮的时候非常可爱",
+          "note": "仓鼠"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "DIY竞赛叙事+自驱主题可改编观宇团队/创造力口播，需补全比赛过程并弱化单纯求三连。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "而是在中圈里射门",
+          "note": "赛制加难"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我想这就是自驱和他驱的区别",
+          "note": "自驱主题"
+        },
+        {
+          "sentence_id": "s288",
+          "snippet": "把大家的创造力推到极限",
+          "note": "创造力极限"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s18",
+    "s16",
+    "s26",
+    "s286",
+    "s296",
+    "s1",
+    "s22",
+    "s23",
+    "s130",
+    "s131",
+    "s270",
+    "s271",
+    "s275",
+    "s15",
+    "s133",
+    "s278",
+    "s284",
+    "s47",
+    "s146",
+    "s162",
+    "s30",
+    "s144",
+    "s280",
+    "s285",
+    "s272",
+    "s273",
+    "s165",
+    "s166",
+    "s46",
+    "s288",
+    "s4",
+    "s24",
+    "s45",
+    "s298",
+    "s274",
+    "s287",
+    "s295",
+    "s291",
+    "s29",
+    "s32",
+    "s147",
+    "s148",
+    "s290",
+    "s297",
+    "s6",
+    "s31",
+    "s36",
+    "s132",
+    "s276",
+    "s289",
+    "s293",
+    "s20"
+  ],
+  "fields_complete_25": true
+}

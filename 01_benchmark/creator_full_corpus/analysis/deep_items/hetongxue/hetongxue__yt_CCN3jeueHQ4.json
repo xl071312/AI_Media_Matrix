@@ -1,0 +1,1818 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_CCN3jeueHQ4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=CCN3jeueHQ4",
+  "source_sha256": "1a10ae184bd31988622d7d838d284ea35c8fc26432b2380b7e4990082561b749",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 168,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "为了不用自己拿外卖"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "我们做了一个会跳舞的"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 3,
+      "snippet": "外卖柜"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "每天中午"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "都有很多同事点外卖"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "但我们园区里"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "没有外卖柜"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 6,
+      "snippet": "所以我在门口"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "放了一个小推车"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 1,
+      "snippet": "但"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "一到饭点儿"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "找外卖就像在抽盲盒"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "要是下雨"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 9,
+      "snippet": "那大家就得吃冷饭了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 4,
+      "snippet": "为了解决"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "上面所有问题"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 3,
+      "snippet": "我决定"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "给工作室做一个"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "终极外卖柜"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 1,
+      "snippet": "这"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "就是我们的外卖柜"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 4,
+      "snippet": "每个柜门"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 6,
+      "snippet": "都是透明屏幕"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 2,
+      "snippet": "晚上"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "非常好看"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 3,
+      "snippet": "但白天"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "就有点拉"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "在屏幕上输入手机尾号"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "对应的柜门就会打开"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "但我们这个外卖柜"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "有一点不一样"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "当外卖"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "放进去后"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "你不需要出门"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 3,
+      "snippet": "在里面"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 4,
+      "snippet": "就能拿到"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "这是因为"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "我们在工作室里面"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "拆了一扇门"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 10,
+      "snippet": "把柜子直接嵌进门框里"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 4,
+      "snippet": "做了一个"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "前后两扇门"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 5,
+      "snippet": "贯通的结构"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "普通的外卖柜"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "只能制热"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 3,
+      "snippet": "我们的"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "还能制冷"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "原因很简单"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 11,
+      "snippet": "柜子外装了半导体制冷片"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "正向通电加热"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 6,
+      "snippet": "反向通电制冷"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 5,
+      "snippet": "外卖送到后"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 9,
+      "snippet": "控制外卖柜的App"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "会给你弹通知"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 15,
+      "snippet": "点进去就能一键设置制热还是制冷"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "这样就算开完会"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 3,
+      "snippet": "再去取"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "奶茶拿出来"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 5,
+      "snippet": "还是冰冰的"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 11,
+      "snippet": "格子的弹开也不是随机的"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 11,
+      "snippet": "我们根据每个同事的身高"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "给大家安排了最合适的柜子"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 3,
+      "snippet": "像我的"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "就在这里"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 5,
+      "snippet": "但有些时候"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "我们同事工作地"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 7,
+      "snippet": "实在是太认真了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "都没时间拿外卖"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 8,
+      "snippet": "所以我们做了这个"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 8,
+      "snippet": "自动送外卖机械臂"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 6,
+      "snippet": "门自动打开后"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "可以稳稳地接住你"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "哦不接住外卖"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 5,
+      "snippet": "然后把外卖"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "放到我们的送餐机器人"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "自动垃圾桶上"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "垃圾桶就可以带着外卖"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 2,
+      "snippet": "工伤"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 4,
+      "snippet": "这是工伤"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "我们把垃圾桶"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "换成了扫地机器人"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "到饭点的时候"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 4,
+      "snippet": "机器人们"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "会排队来拿外卖"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 2,
+      "snippet": "这样"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 11,
+      "snippet": "我们就获得了一个全自动"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 5,
+      "snippet": "取外卖系统"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 3,
+      "snippet": "同事们"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 5,
+      "snippet": "终于能吃上"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 6,
+      "snippet": "热热的外卖了"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "但是我总是感觉"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 9,
+      "snippet": "这套系统缺了点什么"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 9,
+      "snippet": "我们做了这么多东西"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 4,
+      "snippet": "方便自己"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "那能不能"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 5,
+      "snippet": "再做点什么"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "帮助每天给我们送餐的"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 4,
+      "snippet": "外卖员呢"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 2,
+      "snippet": "所以"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 9,
+      "snippet": "我们在外卖柜的旁边"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 7,
+      "snippet": "放了一个茶水台"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 8,
+      "snippet": "里面有一次性纸杯"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 3,
+      "snippet": "小零食"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 10,
+      "snippet": "给夏日的骑手一点补给"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 4,
+      "snippet": "当外卖员"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 4,
+      "snippet": "送完餐后"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 7,
+      "snippet": "柜门会播放动画"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 7,
+      "snippet": "向他们表示感谢"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 5,
+      "snippet": "如果太赶了"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 8,
+      "snippet": "他们还可以不关门"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 6,
+      "snippet": "就去送下一单"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 4,
+      "snippet": "因为电机"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 5,
+      "snippet": "会把门关上"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 8,
+      "snippet": "如果师傅找不到路"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 3,
+      "snippet": "喂您好"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 2,
+      "snippet": "外卖"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 10,
+      "snippet": "你们这外卖柜是在哪啊"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 4,
+      "snippet": "您等一下"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 5,
+      "snippet": "我们在屋顶"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 7,
+      "snippet": "放了一个气球人"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 8,
+      "snippet": "你可以在App里"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 5,
+      "snippet": "遥控它升起"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 5,
+      "snippet": "让师傅一下"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 6,
+      "snippet": "就能找到柜子"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 5,
+      "snippet": "您找见了吗"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 9,
+      "snippet": "你们这是正经单位吗"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 2,
+      "snippet": "最后"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 6,
+      "snippet": "还记得我说过"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 9,
+      "snippet": "这个外卖柜会跳舞吗"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 5,
+      "snippet": "如果师傅们"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 5,
+      "snippet": "想休息一下"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "我们还在柜子对面"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 6,
+      "snippet": "放了一排椅子"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 3,
+      "snippet": "椅子上"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 5,
+      "snippet": "有个小按钮"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 3,
+      "snippet": "按下后"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 6,
+      "snippet": "就可以给大家"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 6,
+      "snippet": "表演一个节目"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 11,
+      "snippet": "格子的弹开也不是随机的"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 11,
+      "snippet": "我们根据每个同事的身高"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 12,
+      "snippet": "给大家安排了最合适的柜子"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 7,
+      "snippet": "像我的就在这里"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 11,
+      "snippet": "格子的弹开也不是随机的"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 11,
+      "snippet": "我们根据每个同事的身高"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 12,
+      "snippet": "给大家安排了最合适的柜子"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 7,
+      "snippet": "像我的就在这里"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 8,
+      "snippet": "为了解决这个问题"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 12,
+      "snippet": "我们换到了石头扫地机器人"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 7,
+      "snippet": "它的三线结构光"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 15,
+      "snippet": "配合RGB摄像头能精准识别避障"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 14,
+      "snippet": "可升降底盘在AI轮足的加持下"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 15,
+      "snippet": "面对工作室复杂地形也是如履平地"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 11,
+      "snippet": "它还有多维减震控制算法"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 11,
+      "snippet": "送这些汤汤水水也很稳当"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 7,
+      "snippet": "到饭点儿的时候"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 13,
+      "snippet": "扫地机器人们会排队来拿外卖"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 19,
+      "snippet": "这样 我们就获得了一个全自动取外卖系统"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 18,
+      "snippet": "石头G30S Pro和P20 Max"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 16,
+      "snippet": "拥有 35000Pa 的超强吸力"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 8,
+      "snippet": "和整机0缠绕系统"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 8,
+      "snippet": "配合恒湿加压热拖"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 5,
+      "snippet": "扫拖超干净"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 4,
+      "snippet": "全能基站"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 10,
+      "snippet": "拥有100℃热水洗布"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 8,
+      "snippet": "和55℃热风烘干"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 15,
+      "snippet": "超薄机身让它能轻松穿梭低矮空间"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 6,
+      "snippet": "实现指哪打哪"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "为了不用自己拿外卖，我们做了会跳舞的外卖柜——问题即产品钩。",
+      "patterns": [
+        "懒人动机钩",
+        "会跳舞外卖柜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了不用自己拿外卖",
+          "note": "为了不用自己拿外卖"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我们做了一个会跳舞的",
+          "note": "我们做了一个会跳舞的"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "外卖柜",
+          "note": "外卖柜"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "园区无柜→小推车像抽盲盒→做终极柜→透明显示/尾号开→内外贯通→制冷制热→机械臂+扫地机送餐→工伤翻车换机→茶水台回馈骑手→身高分区→广告参数收。",
+      "patterns": [
+        "问题迭代",
+        "双面贯通",
+        "自动送餐",
+        "回馈骑手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "没有外卖柜",
+          "note": "没有外卖柜"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "找外卖像抽盲盒"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "终极外卖柜",
+          "note": "终极外卖柜"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "把柜子直接嵌进门框里",
+          "note": "嵌进门框"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "柜子外装了半导体制冷片",
+          "note": "半导体制冷片"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "自动送外卖机械臂",
+          "note": "自动送外卖机械臂"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "放了一个茶水台",
+          "note": "茶水台"
+        },
+        {
+          "sentence_id": "s142",
+          "snippet": "给大家安排了最合适的柜子",
+          "note": "按身高安排柜子"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "problem_setup",
+          "note": "无柜痛点与终极柜立项"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79"
+          ],
+          "function": "cabinet_features",
+          "note": "贯通结构与冷热功能"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148"
+          ],
+          "function": "robot_delivery",
+          "note": "机械臂扫地机与工伤迭代"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168"
+          ],
+          "function": "rider_and_ad",
+          "note": "茶水台/身高分区与广告参数"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "所以/但/这是因为/原因很简单/哦不/所以我们。",
+      "patterns": [
+        "所以立项",
+        "但白天拉",
+        "哦不修正",
+        "所以回馈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "为了解决",
+          "note": "为了解决上面所有问题"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "但白天",
+          "note": "但白天就有点拉"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "这是因为",
+          "note": "这是因为"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "哦不接住外卖",
+          "note": "哦不接住外卖"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "所以",
+          "note": "所以我们在旁边"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "小推车抽盲盒vs终极柜；白天拉vs晚上好看；普通柜只能热vs还能冷；方便自己vs回馈骑手。",
+      "patterns": [
+        "盲盒/终极柜",
+        "昼拉夜美",
+        "只热/还能冷",
+        "利己/回馈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "抽盲盒"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "终极外卖柜",
+          "note": "终极外卖柜"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "非常好看",
+          "note": "晚上好看"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就有点拉",
+          "note": "白天有点拉"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "只能制热",
+          "note": "只能制热"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "还能制冷",
+          "note": "还能制冷"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "方便自己",
+          "note": "方便自己"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "帮助每天给我们送餐的",
+          "note": "帮助外卖员"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "缺了点什么→能不能帮助外卖员，用自问推进功能升级。",
+      "patterns": [
+        "缺了什么自问",
+        "能否帮助骑手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s93",
+          "snippet": "这套系统缺了点什么",
+          "note": "缺了点什么"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "那能不能",
+          "note": "能不能再做点什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "尾号开柜；半导体制冷片正反向；工伤垃圾桶改扫地机；身高分区柜。",
+      "patterns": [
+        "尾号开柜例",
+        "制冷片例",
+        "工伤改机例",
+        "身高分区例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "在屏幕上输入手机尾号",
+          "note": "输入手机尾号"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "正向通电加热",
+          "note": "正向通电加热"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "换成了扫地机器人",
+          "note": "换成扫地机器人"
+        },
+        {
+          "sentence_id": "s142",
+          "snippet": "给大家安排了最合适的柜子",
+          "note": "根据身高安排"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "全自动取餐落到机械臂+扫地机排队；回馈落到纸杯零食茶水台。",
+      "patterns": [
+        "自动→机械臂扫地机",
+        "回馈→茶水台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s70",
+          "snippet": "自动送外卖机械臂",
+          "note": "自动送外卖机械臂"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "会排队来拿外卖",
+          "note": "排队来拿外卖"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "放了一个茶水台",
+          "note": "茶水台"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "里面有一次性纸杯",
+          "note": "一次性纸杯"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "白天有点拉；这是工伤；终于能吃上热热的外卖；感觉缺了点什么。",
+      "patterns": [
+        "有点拉判",
+        "工伤判",
+        "热热外卖判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "就有点拉",
+          "note": "白天有点拉"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "热热的外卖了",
+          "note": "热热的外卖"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这套系统缺了点什么",
+          "note": "缺了点什么"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「哦不接住外卖」口误修正；垃圾桶工伤后换成扫地机；格子弹开说明复读后重述。",
+      "patterns": [
+        "哦不口误修",
+        "工伤换机",
+        "复述重说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s73",
+          "snippet": "哦不接住外卖",
+          "note": "哦不接住外卖"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "换成了扫地机器人",
+          "note": "换成扫地机器人"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "格子的弹开也不是随机的",
+          "note": "格子弹开复读"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "痛点短句快→功能展示中速→工伤笑点顿挫→温情茶水台放慢→广告参数连珠。",
+      "patterns": [
+        "痛点快",
+        "工伤顿挫",
+        "温情放慢",
+        "广告连珠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "痛点快"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "工伤顿挫"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "放了一个茶水台",
+          "note": "温情放慢"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "拥有 35000Pa 的超强吸力",
+          "note": "广告参数连珠"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "抱怨痛点→炫技兴奋→工伤爆笑→温情回馈→广告推销降温。",
+      "patterns": [
+        "抱怨",
+        "炫技",
+        "爆笑",
+        "温情",
+        "推销"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "抱怨盲盒"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "就是我们的外卖柜",
+          "note": "炫技柜子"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "工伤爆笑"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "帮助每天给我们送餐的",
+          "note": "温情骑手"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "拥有 35000Pa 的超强吸力",
+          "note": "推销吸力"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇不用自己拿外卖在全自动系统处兑现；再把闭环扩到骑手关怀。",
+      "patterns": [
+        "懒人动机兑现",
+        "扩到骑手关怀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "为了不用自己拿外卖",
+          "note": "不用自己拿外卖"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "取外卖系统",
+          "note": "全自动取外卖系统"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "帮助每天给我们送餐的",
+          "note": "帮助外卖员"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "后段石头扫地机参数软广，产品名+吸力+基站功能即隐性CTA。",
+      "patterns": [
+        "参数软广CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s159",
+          "snippet": "石头G30S Pro和P20 Max",
+          "note": "石头G30S Pro"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "拥有 35000Pa 的超强吸力",
+          "note": "35000Pa超强吸力"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "抽盲盒、白天有点拉、哦不、这是工伤等何同学式口语笑点。",
+      "patterns": [
+        "抽盲盒",
+        "有点拉",
+        "哦不",
+        "工伤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "抽盲盒"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就有点拉",
+          "note": "有点拉"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "哦不接住外卖",
+          "note": "哦不"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口跳号与广告段突兀；格子弹开段落复读；赞助信息削弱实验纯粹感。",
+      "patterns": [
+        "跳号",
+        "复读",
+        "软广突兀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s65",
+          "snippet": "但有些时候",
+          "note": "窗口跳号"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "格子的弹开也不是随机的",
+          "note": "复读格子"
+        },
+        {
+          "sentence_id": "s159",
+          "snippet": "石头G30S Pro和P20 Max",
+          "note": "软广插入"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "露出「列痛点→做柜子→加功能→翻车迭代→还缺什么→回馈骑手」制作思维。",
+      "patterns": [
+        "痛点清单外露",
+        "还缺什么迭代"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "为了解决",
+          "note": "解决上面所有问题"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这套系统缺了点什么",
+          "note": "缺了点什么"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "工伤后换方案"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当工作室同事/极客围观者，共享偷懒正义。",
+      "patterns": [
+        "同事极客围观",
+        "偷懒正义共谋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "都有很多同事点外卖",
+          "note": "很多同事点外卖"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "同事们",
+          "note": "同事们终于"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "为了不用自己拿外卖",
+          "note": "不用自己拿"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "透明屏尾号开柜、前后双门、半导体制冷片、机械臂、石头G30S 35000Pa。",
+      "patterns": [
+        "尾号开柜",
+        "制冷片",
+        "机械臂",
+        "35000Pa"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "在屏幕上输入手机尾号",
+          "note": "手机尾号"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "柜子外装了半导体制冷片",
+          "note": "半导体制冷片"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "自动送外卖机械臂",
+          "note": "机械臂"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "拥有 35000Pa 的超强吸力",
+          "note": "35000Pa"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "痛点低密→结构功能中高密→机器人段中密→广告参数高密。",
+      "patterns": [
+        "功能中高密",
+        "广告高密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s40",
+          "snippet": "把柜子直接嵌进门框里",
+          "note": "结构中高密"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "自动送外卖机械臂",
+          "note": "机器人中密"
+        },
+        {
+          "sentence_id": "s160",
+          "snippet": "拥有 35000Pa 的超强吸力",
+          "note": "广告高密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短字幕句推进；哦不插入破节奏；后段参数长句。",
+      "patterns": [
+        "极短句",
+        "哦不破节奏",
+        "参数长句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "外卖柜",
+          "note": "极短外卖柜"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "哦不接住外卖",
+          "note": "哦不破"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "可升降底盘在AI轮足的加持下",
+          "note": "参数长句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式工程嬉戏者：为偷懒上强度，敢播工伤，突然温情待骑手。",
+      "patterns": [
+        "工程嬉戏",
+        "工伤幽默",
+        "骑手温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "终极外卖柜",
+          "note": "终极外卖柜"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "这是工伤"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "帮助每天给我们送餐的",
+          "note": "帮助外卖员"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "会跳舞外卖柜、抽盲盒、这是工伤、茶水台、35000Pa。",
+      "patterns": [
+        "会跳舞柜",
+        "抽盲盒",
+        "工伤",
+        "茶水台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我们做了一个会跳舞的",
+          "note": "会跳舞的"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "抽盲盒"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "工伤"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "放了一个茶水台",
+          "note": "茶水台"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "痛点→极客方案→翻车迭代→他人关怀的叙事可改编产品实验口播，需剥离硬广并理顺跳号段落。",
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "找外卖就像在抽盲盒",
+          "note": "痛点钩"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "这是工伤",
+          "note": "翻车迭代"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "帮助每天给我们送餐的",
+          "note": "骑手关怀"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s7",
+    "s12",
+    "s19",
+    "s40",
+    "s49",
+    "s70",
+    "s79",
+    "s102",
+    "s142",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s50",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s103",
+    "s104",
+    "s139",
+    "s140",
+    "s141",
+    "s143",
+    "s144",
+    "s145",
+    "s146",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158",
+    "s159",
+    "s160",
+    "s161",
+    "s162",
+    "s163",
+    "s164",
+    "s165",
+    "s166",
+    "s167",
+    "s168"
+  ],
+  "fields_complete_25": true
+}

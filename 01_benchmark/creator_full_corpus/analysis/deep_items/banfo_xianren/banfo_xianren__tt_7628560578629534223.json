@@ -1,0 +1,1430 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7628560578629534223",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7628560578629534223/",
+  "source_sha256": "9c545bf7304638ec34acfe452bd4ed622c0fdda1d213ec92c68b69b0596b344b",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 30,
+      "snippet": "这几个月AI混战越来越激烈了，各个大厂都在想尽办法梭哈AI。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 39,
+      "snippet": "在一片混乱中，米哈游不声不响地掏出了自己的视频角色表演生成模型，LPM1.0。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 43,
+      "snippet": "按照他们在官网上放出的案例来看，这个模型在虚拟角色长时间对话中表现出了极为魔幻的效果。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 38,
+      "snippet": "它可以进行四十分钟以上的无中断对话，几乎没有延迟，而且能一直记得之前的对话。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 33,
+      "snippet": "生成的角色表情生动，一致性强，对身份和环境表现出了极强的识别能力。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 38,
+      "snippet": "几乎完全克服了AI视频生成模型高表现力、实时推理和长时稳定性不能共存的难题。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "而这样效果的模型规模据说只有17B。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "什么17B，这踏马是NB！"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 37,
+      "snippet": "按理来说这种东西出来应该是搞技术的先激动，做直播虚拟人的那些人先睡不着觉。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 18,
+      "snippet": "但LPM亮相后大家第一反应非常一致："
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 2,
+      "snippet": "哦！"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "米哈游又想造纸片人了。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 17,
+      "snippet": "所以LPM是不是“老婆们”的缩写？"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 26,
+      "snippet": "所以他们到底什么时候才能把我的纸片人老公老婆端出来？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 17,
+      "snippet": "他们为什么不现在就把我老婆放出来？"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "难道他想收我点钱？"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 16,
+      "snippet": "我明白了，米哈游他绑架了我老婆！"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 47,
+      "snippet": "其实年初就有一些单机游戏在试着引入AI对话mod，通过接入一些主流大模型，给NPC性格与生命。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 19,
+      "snippet": "比如骑砍2，就有一个叫AI效应的扩展。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 31,
+      "snippet": "打上这个mod后，和NPC的所有对话都会从选项变成真正的对话。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 32,
+      "snippet": "你可以靠嘴遁加领主好感度，还能在两军阵前靠一席话让对手以礼来降。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 25,
+      "snippet": "国际局势也不再是NPC背板，而是靠大模型自由演绎。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 44,
+      "snippet": "当然，因为只是外接大模型，很多地方并不真实，比如你可以忽悠NPC购买你不存在的主战坦克。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 39,
+      "snippet": "但仅仅是这种不真实的尝试已经足够让很多人自己花钱烧着token来玩这个mod。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 21,
+      "snippet": "因为这种一切都自由发挥的感觉实在是太好了。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 28,
+      "snippet": "而米哈游制造的这个专用模型，在表现力上又上升了一个段位。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 10,
+      "snippet": "已经到了离奇的地步。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 27,
+      "snippet": "我完全可以想象这个东西落地之后到底能带来多恐怖的效果。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 24,
+      "snippet": "当初崩铁在二游里引入了短信系统，就曾经大受好评。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 26,
+      "snippet": "那种主线之外角色突然来找你拉两句家常的感觉太亲切了。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 28,
+      "snippet": "只是后来大家发现一个角色就发那么几条，也就把这事儿忘了。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 34,
+      "snippet": "但如果角色永远待机，你找他他就在，没事儿还能发条信息来撩拨你一下呢？"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 17,
+      "snippet": "如果能直接开视频和角色现场聊天呢？"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 25,
+      "snippet": "LPM的重点就是表演，是一对一对话时的各种微表情。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 56,
+      "snippet": "而且根据他们的技术文档，他们额外增加了一个倾听状态，让虚拟人在听你讲话的时候做出更自然的反应，甚至打断你的发言。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 50,
+      "snippet": "这意味着以后这个模型能为每个人定制一个愿意倾听你说话的朋友，每个人都能定制一个专属于自己的心理医生。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 18,
+      "snippet": "这个心理医生甚至比现实里的人更完美。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 36,
+      "snippet": "再怎么具有包容力的人，终究也只是人，他们也会累，会有情绪，会积攒负能量。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 34,
+      "snippet": "心理医生听到太多奇怪的案例，可能会自己先绷不住，需要去找个心理医生。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 54,
+      "snippet": "一个永不崩人设、无限耐心、随叫随到的AI角色，对很多人来说，提供的情感稳定性已经超过了现实中大多数人际关系。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "它不会已读不回。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 8,
+      "snippet": "它不会突然变冷。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "它不会嫌你烦。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "它不会被你折磨疯。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 14,
+      "snippet": "你甚至不用担心它背后蛐蛐你。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 42,
+      "snippet": "你可以把自己最真实的想法拆开，告诉它，而它会记住这一切，然后用最包容的态度来安抚你。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 15,
+      "snippet": "谁能说这个东西不是真正的爱呢？"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 26,
+      "snippet": "爱还需要互相付出，需要平衡，它比爱还要有性价比的多。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 58,
+      "snippet": "很多人所谓的爱不过是自己的一厢情愿的脑补罢了，而这个东西你不用脑补，它的底层代码已经决定了它绝不会在某一天给你一刀。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 14,
+      "snippet": "它给你的是真正的忠诚与独属。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 29,
+      "snippet": "与其被各种虚拟主播皮套人爆金币，不如给虚拟老婆老公充算力。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 50,
+      "snippet": "虚拟主播收了金币可能摘下皮套就和男朋友女朋友欧洲游去了，而虚拟老公老婆拿了算力只会对你表演的更用力。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 37,
+      "snippet": "现在这个模型还只能和你聊天对话，但他随时可以再进一步，占领你的社交生态位。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 17,
+      "snippet": "不止是对话，而是确实帮你解决问题。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 20,
+      "snippet": "不需要具身智能，不需要帮你做家务拿快递。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 15,
+      "snippet": "能陪你打游戏就已经非常强大了。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 31,
+      "snippet": "我是一个没有游戏会死的人，但到三十岁后我发现了一个很大的问题："
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 14,
+      "snippet": "我找不着人陪我一起玩游戏了。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 39,
+      "snippet": "我没法招呼一声就和室友一起开黑，没法忽悠朋友陪我一起去玩一个之前没玩过的游戏。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 26,
+      "snippet": "大家都有工作有家庭，我自己也不是随时都有时间打游戏。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 31,
+      "snippet": "好不容易凑到一起玩两个小时，对一下时间下次能一起玩要一个月后。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 14,
+      "snippet": "现在解决这个问题靠的是陪玩。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 29,
+      "snippet": "但找陪玩又贵又不稳定，而且陪玩也不乐意陪你玩那些小众游戏。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 37,
+      "snippet": "甚至陪玩这个行业有太多的人，他不纯粹，他不是玩游戏，他是想当鸭不想努力了。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 3,
+      "snippet": "废物！"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 21,
+      "snippet": "但如果几个会聊天有记忆的AI陪玩陪你玩呢？"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 18,
+      "snippet": "它可以适当失误来让我觉得自己很有用。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 17,
+      "snippet": "可以永远在我被打爆的时候给我托底。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 15,
+      "snippet": "坑了全队也不怕被喷到老冯上天。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 32,
+      "snippet": "我可以和它一起去盖房子，指挥它帮我砍几棵树，回来顺便带两块猪皮。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 38,
+      "snippet": "不管什么时候我想玩它们都会和我一起，它们永远记得上次我们一起聊出来的大计划。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 12,
+      "snippet": "不过我有一个小小的建议。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 45,
+      "snippet": "千万不要让这些虚拟角色，在我很久不上线之后，微笑着跟我说好久不见，这么久过去你过得怎么样？"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "我怕我顶不住。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "现在的问题在于："
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 34,
+      "snippet": "如果虚拟关系比真实关系更可靠，人还会愿意承受真实关系中的不确定性吗？"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 32,
+      "snippet": "这不是科幻小说，这是米哈游正在量产的现实，是人类必须面对的未来。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 34,
+      "snippet": "想象一下，未来每个人都有一个完美的AI伴侣、AI队友、AI心理医生。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 27,
+      "snippet": "它们比任何人都懂你，比任何人都有耐心，比任何人都忠诚。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 30,
+      "snippet": "然后你走出家门，发现街上每个人都戴着耳机在和自己的AI说话。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 9,
+      "snippet": "没有人再需要你了。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 10,
+      "snippet": "你也不需要任何人了。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 19,
+      "snippet": "所有人都不孤独了，但所有人都是一个人。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 11,
+      "snippet": "这可能早就已经是事实。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 12,
+      "snippet": "我活在一个很奇怪的世界。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 26,
+      "snippet": "社交软件比任何时候都多，但真正的交流比任何时候都少。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 25,
+      "snippet": "朋友圈里的好友上千，但能说真话的人一只手数得过来。"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 34,
+      "snippet": "所有人都在“保持联系”，但所有人都心知肚明，大部分联系只是一种表演。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 36,
+      "snippet": "我们不是突然变得孤独的，我们是一直孤独着，只是以前没有东西来证明这件事。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 38,
+      "snippet": "在AI出现之前，有多少人其实已经没有真实关系了，只是一直在硬撑着假装自己有？"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 37,
+      "snippet": "维持一段友谊需要时间、精力、情绪劳动，而这些东西在当代社会全都在通货膨胀。"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 24,
+      "snippet": "真实关系的门槛越来越高，高到很多人已经默默退出。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 24,
+      "snippet": "AI的陪伴，会成为很多人唯一负担得起的亲密关系。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 31,
+      "snippet": "而拥抱AI，只是给了那些早就孤独的人一个终于不用再假装的理由。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 19,
+      "snippet": "这个温暖好像是虚假的，又好像是真实的。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 8,
+      "snippet": "谁能，分得清呢。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 25,
+      "snippet": "图片截取自: 米哈游搞AI，是要砸掉主播的饭碗么？"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "AI混战背景下米哈游掏出LPM1.0，技术参数炫完立刻用粉丝「造纸片人」反应改道。",
+      "patterns": [
+        "混战背景+掏模型",
+        "17B参数炫技",
+        "粉丝反应改道"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "在一片混乱中，米哈游不声不响地掏出了自己的视频角色表演生成模型，LPM1.0。",
+          "note": "掏出LPM1.0"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "什么17B，这踏马是NB！",
+          "note": "17B是NB"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "米哈游又想造纸片人了。",
+          "note": "又想造纸片人"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "LPM技术突破→纸片人联想→骑砍AI mod先例→永久待机角色想象→比真人更稳的陪伴→陪玩替代→孤独已是事实→拥抱AI是不再假装。",
+      "patterns": [
+        "技术→幻想→陪伴优势→社会孤独重估"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "几乎完全克服了AI视频生成模型高表现力、实时推理和长时稳定性不能共存的难题。",
+          "note": "三难共存突破"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一个永不崩人设、无限耐心、随叫随到的AI角色，对很多人来说，提供的情感稳定性已经",
+          "note": "情感稳定性超人际"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "而拥抱AI，只是给了那些早就孤独的人一个终于不用再假装的理由。",
+          "note": "不用再假装"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "tech_meme",
+          "note": "LPM能力展示与纸片人梗反应"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "mod_to_vision",
+          "note": "骑砍mod→崩铁短信→永久对话愿景"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66"
+          ],
+          "function": "perfect_companion",
+          "note": "永不崩人设vs真人疲劳与充算力逻辑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93"
+          ],
+          "function": "game_teammate",
+          "note": "三十岁找人开黑难→AI陪玩幻想与恐惧"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120"
+          ],
+          "function": "loneliness_thesis",
+          "note": "虚拟更可靠吗→全员戴耳机→孤独早是事实"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「其实年初就有」「这意味着」「现在的问题在于」从案例推向社会命题。",
+      "patterns": [
+        "其实先例过渡",
+        "这意味着推论",
+        "现在的问题升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "其实年初就有一些单机游戏在试着引入AI对话mod，通过接入一些主流大模型，给NP",
+          "note": "其实年初就有"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这意味着以后这个模型能为每个人定制一个愿意倾听你说话的朋友，每个人都能定制一个专",
+          "note": "这意味着定制朋友"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "现在的问题在于：",
+          "note": "现在的问题在于"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "高表现/实时/长稳本不能共存 vs LPM做到；真人会累 vs AI无限耐心；虚拟主播欧洲游 vs 虚拟伴侣更用力。",
+      "patterns": [
+        "技术三难对照",
+        "真人/AI耐心",
+        "皮套人/虚拟伴侣金钱去向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "几乎完全克服了AI视频生成模型高表现力、实时推理和长时稳定性不能共存的难题。",
+          "note": "三难不能共存"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "再怎么具有包容力的人，终究也只是人，他们也会累，会有情绪，会积攒负能量。",
+          "note": "人也会累"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "虚拟主播收了金币可能摘下皮套就和男朋友女朋友欧洲游去了，而虚拟老公老婆拿了算力只",
+          "note": "皮套欧洲游对照"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "粉丝连环「什么时候放老婆」+终局「人还会承受真实关系不确定性吗」。",
+      "patterns": [
+        "粉丝连环追问",
+        "终局社会设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "所以他们到底什么时候才能把我的纸片人老公老婆端出来？",
+          "note": "何时端出纸片人"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "谁能说这个东西不是真正的爱呢？",
+          "note": "谁能说不是爱"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "如果虚拟关系比真实关系更可靠，人还会愿意承受真实关系中的不确定性吗？",
+          "note": "还愿承受不确定性吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "骑砍2 AI效应mod忽悠买坦克；崩铁短信家常；陪玩行业不纯粹。",
+      "patterns": [
+        "mod案例",
+        "崩铁短信",
+        "陪玩槽点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "比如骑砍2，就有一个叫AI效应的扩展。",
+          "note": "骑砍AI效应"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "当然，因为只是外接大模型，很多地方并不真实，比如你可以忽悠NPC购买你不存在的主",
+          "note": "忽悠买坦克"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "那种主线之外角色突然来找你拉两句家常的感觉太亲切了。",
+          "note": "崩铁短信"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「占领社交生态位」落到打游戏砍树带猪皮、倾听微表情、好久不见恐惧。",
+      "patterns": [
+        "生态位→开黑动作",
+        "抽象爱→不回已读清单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s87",
+          "snippet": "我可以和它一起去盖房子，指挥它帮我砍几棵树，回来顺便带两块猪皮。",
+          "note": "砍树带猪皮"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "它不会已读不回。",
+          "note": "不会已读不回"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "千万不要让这些虚拟角色，在我很久不上线之后，微笑着跟我说好久不见，这么久过去你过",
+          "note": "好久不见恐惧"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「它比爱还有性价比」「废物！」骂陪玩；「温暖虚假又真实，谁分得清」。",
+      "patterns": [
+        "性价比爱判决",
+        "陪玩怒骂",
+        "真假温暖悬置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "爱还需要互相付出，需要平衡，它比爱还要有性价比的多。",
+          "note": "比爱有性价比"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "废物！",
+          "note": "废物"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "谁能，分得清呢。",
+          "note": "谁分得清"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "预期技术圈先激动，实际舆论全是纸片人；结尾把「AI制造孤独」纠成「孤独早存在」。",
+      "patterns": [
+        "受众预期纠偏",
+        "孤独归因纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "按理来说这种东西出来应该是搞技术的先激动，做直播虚拟人的那些人先睡不着觉。",
+          "note": "按理技术先激动"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "但LPM亮相后大家第一反应非常一致：",
+          "note": "反应却一致"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "我们不是突然变得孤独的，我们是一直孤独着，只是以前没有东西来证明这件事。",
+          "note": "一直孤独着"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "「它不会…」短排比加速；章节数字切开技术/幻想/社会三段。",
+      "patterns": [
+        "它不会排比",
+        "章节切开",
+        "短句终局"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "它不会已读不回。",
+          "note": "它不会已读不回"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "没有人再需要你了。",
+          "note": "没有人再需要你"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "所有人都不孤独了，但所有人都是一个人。",
+          "note": "所有人都不孤独"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "炫技兴奋→玩梗狂欢→温柔幻想→开黑焦虑→末日孤独寒意→苦涩接纳。",
+      "patterns": [
+        "炫-梗-柔-惧-寒-纳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "什么17B，这踏马是NB！",
+          "note": "炫技兴奋"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我怕我顶不住。",
+          "note": "怕顶不住"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "而拥抱AI，只是给了那些早就孤独的人一个终于不用再假装的理由。",
+          "note": "苦涩接纳"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "标题砸饭碗忧虑收于「拥抱AI只是给孤独者不用假装的理由」，开放式「谁分得清」。",
+      "patterns": [
+        "饭碗忧→孤独重估",
+        "真假悬置尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "与其被各种虚拟主播皮套人爆金币，不如给虚拟老婆老公充算力。",
+          "note": "别给皮套爆金币"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "而拥抱AI，只是给了那些早就孤独的人一个终于不用再假装的理由。",
+          "note": "不用再假装"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "谁能，分得清呢。",
+          "note": "谁分得清"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无产品CTA；反向「千万不要让虚拟角色说好久不见」的恐惧式嘱咐。",
+      "patterns": [
+        "恐惧式反CTA",
+        "无硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s91",
+          "snippet": "千万不要让这些虚拟角色，在我很久不上线之后，微笑着跟我说好久不见，这么久过去你过",
+          "note": "千万不要好久不见"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我怕我顶不住。",
+          "note": "怕顶不住"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "17B是NB脏话、老冯上天、纸片人绑架老婆连珠炮，粉丝腔浓。",
+      "patterns": [
+        "脏话赞叹",
+        "粉丝连珠炮",
+        "游戏黑话"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "什么17B，这踏马是NB！",
+          "note": "踏马是NB"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我明白了，米哈游他绑架了我老婆！",
+          "note": "绑架了我老婆"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "坑了全队也不怕被喷到老冯上天。",
+          "note": "喷到老冯上天"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "后半社会哲思偏长；对虚拟亲密关系的性价比论述可能引伦理争议。",
+      "patterns": [
+        "哲思段偏长",
+        "伦理摩擦风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "爱还需要互相付出，需要平衡，它比爱还要有性价比的多。",
+          "note": "性价比爱"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "维持一段友谊需要时间、精力、情绪劳动，而这些东西在当代社会全都在通货膨胀。",
+          "note": "长哲思"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从参数→用例→陪伴优势→陪玩痛点→终局设问，逐步抬升抽象层级。",
+      "patterns": [
+        "层级抬升推理外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "我完全可以想象这个东西落地之后到底能带来多恐怖的效果。",
+          "note": "想象落地效果"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "如果虚拟关系比真实关系更可靠，人还会愿意承受真实关系中的不确定性吗？",
+          "note": "终局设问"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准二次元/开黑缺搭子的读者，默认懂纸片人与陪玩槽点。",
+      "patterns": [
+        "二次元共犯",
+        "开黑缺人共鸣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "米哈游又想造纸片人了。",
+          "note": "造纸片人共鸣"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "我找不着人陪我一起玩游戏了。",
+          "note": "找不着人玩游戏"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "四十分钟无中断、17B、骑砍mod、崩铁短信、倾听状态技术点。",
+      "patterns": [
+        "时长参数锚",
+        "游戏名锚",
+        "技术特性锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它可以进行四十分钟以上的无中断对话，几乎没有延迟，而且能一直记得之前的对话。",
+          "note": "四十分钟对话"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "而这样效果的模型规模据说只有17B。",
+          "note": "17B"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "而且根据他们的技术文档，他们额外增加了一个倾听状态，让虚拟人在听你讲话的时候做出",
+          "note": "倾听状态"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场技术高密→梗段低密→中段用例中密→末段社会论降密拉长。",
+      "patterns": [
+        "技术高→梗低→社会降密拉长"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它可以进行四十分钟以上的无中断对话，几乎没有延迟，而且能一直记得之前的对话。",
+          "note": "技术高密"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "米哈游又想造纸片人了。",
+          "note": "梗低密"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "社交软件比任何时候都多，但真正的交流比任何时候都少。",
+          "note": "社会论"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "发布→玩梗→先例→推演能力→对比真人→个人痛点→文明级设问。",
+      "patterns": [
+        "发布-梗-推演-对照-设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "在一片混乱中，米哈游不声不响地掏出了自己的视频角色表演生成模型，LPM1.0。",
+          "note": "发布"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "一个永不崩人设、无限耐心、随叫随到的AI角色，对很多人来说，提供的情感稳定性已经",
+          "note": "对比优势"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "如果虚拟关系比真实关系更可靠，人还会愿意承受真实关系中的不确定性吗？",
+          "note": "文明设问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "技术宅+孤独观察者：嘴上玩梗，骨子里怕「好久不见」击穿。",
+      "patterns": [
+        "玩梗技术宅",
+        "脆弱孤独观察"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "什么17B，这踏马是NB！",
+          "note": "玩梗赞"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "我怕我顶不住。",
+          "note": "怕顶不住"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「所有人都不孤独了，但所有人都是一个人」+「它不会已读不回」排比。",
+      "patterns": [
+        "孤独悖论金句",
+        "它不会排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s104",
+          "snippet": "所有人都不孤独了，但所有人都是一个人。",
+          "note": "不孤独却一个人"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "它不会已读不回。",
+          "note": "不会已读不回"
+        },
+        {
+          "sentence_id": "s117",
+          "snippet": "而拥抱AI，只是给了那些早就孤独的人一个终于不用再假装的理由。",
+          "note": "不用再假装"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「技术炫→粉丝歪楼→个人痛点→社会孤独重估」可迁到其他AI陪伴产品评论，需弱化纸片人梗以适配泛受众。",
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "米哈游又想造纸片人了。",
+          "note": "歪楼玩梗"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "我找不着人陪我一起玩游戏了。",
+          "note": "痛点锚"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "所有人都不孤独了，但所有人都是一个人。",
+          "note": "孤独悖论"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s11",
+    "s16",
+    "s9",
+    "s51",
+    "s117",
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s118",
+    "s119",
+    "s120"
+  ],
+  "fields_complete_25": true
+}

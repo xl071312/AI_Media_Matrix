@@ -1,0 +1,1668 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7686816988957524534",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7686816988957524534/",
+  "source_sha256": "dd2ba5d6c3a678b270496e4d17c529915185cc787f98aca6326f9734d9598324",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 136,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 48,
+      "snippet": "这个世界上懂送礼的，不是岳父丈母娘，不是公司采购主任，更不是逢年过节蹲在烟酒店门口挠头的中年人。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "而是，山姆。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 15,
+      "snippet": "前两天陪我妈去山姆买中秋礼物。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 46,
+      "snippet": "我妈平时消费像尽调，鸡蛋要挑半天，买纸巾要按克算，对着苹果看五分钟能直接出一份风险评估报告。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 16,
+      "snippet": "一到山姆，跟被手推车夺舍了一样。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 5,
+      "snippet": "暴风吸入。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 27,
+      "snippet": "月饼、坚果、牛肉、葡萄酒、海鲜、水果，不要命地往里扔。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "我以为她会理性判断一下。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "她判断了。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "说，全都要。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "我说，日子不过了吗？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 36,
+      "snippet": "她说，你懂什么，一家一个送法，都得照顾到，再说了，不想送的自己吃不更好？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 35,
+      "snippet": "当场我就悟了——妈果然还是妈，在送礼观和消费观上，永远领先我一个身位。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 24,
+      "snippet": "拿山姆东西送礼这种中产玩法，已经让老太太拿捏了。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 75,
+      "snippet": "正好前几天，山姆公布了30+城市会员中秋礼品TOP榜（点击文章结尾处的【阅读原文】，查看完整榜单），直接在送礼这事上给了一个“全国卷”的“标准答案”。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 57,
+      "snippet": "拿上个月山姆发布的30+城市好物top榜（以下简称送礼榜和好物榜）对比看，更有意思：它们拼凑出了一个反常识的心理："
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 25,
+      "snippet": "一个人城市最常自购的东西，往往不是它最爱送的东西。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 21,
+      "snippet": "打开好物榜，你会发现，钱包是最诚实的器官。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 22,
+      "snippet": "北京人办几百块会员，不妨碍他们进去买上海青。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 22,
+      "snippet": "上海人再city，也要喝本地老牌子光明牛奶。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 16,
+      "snippet": "厦门的标签是海风，落日，小清新。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 20,
+      "snippet": "而厦门人最喜欢的，是1.75升的威士忌。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 31,
+      "snippet": "老广倒是一如既往的实在，购物车里的花生油多到能抹身上去打健美。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 29,
+      "snippet": "但一翻开送礼榜，又会发现一到送礼环节，大家突然开始做人了。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 24,
+      "snippet": "北京人自己逛山姆像逛菜市场，送礼突然开始果篮化。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 12,
+      "snippet": "生活要地道，送礼要上道。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 31,
+      "snippet": "上海人自己吃牛奶、鸡胸、黑巧，自律的像刚拿到体检报告的中年人。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 35,
+      "snippet": "给别人送礼时要视觉、包装、仪式感全拉满，讲究得像个二十年工龄的主理人。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 16,
+      "snippet": "自己活命讲科学，送礼做人讲美学。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 17,
+      "snippet": "厦门人自己喝威士忌，送别人葡萄酒。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 16,
+      "snippet": "还得对着朋友说一句【适量饮酒】。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 34,
+      "snippet": "老广自购花生油，一到送礼，秒开商务模式，前三名不是轩尼诗就是马爹利。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 20,
+      "snippet": "上一秒狂炫猪脚饭，下一秒坐进包厢谈并购。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 31,
+      "snippet": "两份榜放在一起，你可以看到一个非常明显的【个性化】的消费趋势。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 30,
+      "snippet": "以前大家中秋送礼答案非常单一，来来去去就是烟、酒、茶、月饼。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 53,
+      "snippet": "而现在，有人送水果，有人送坚果，有人送营养品，有人送葡萄酒，有人在包装、产地、口味甚至健康属性上疯狂加点。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "礼还是要送。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 16,
+      "snippet": "但送什么，越来越像一道人格测试。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 16,
+      "snippet": "而山姆，恰恰能满足所有性格类型。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 12,
+      "snippet": "你想传统，它有月饼坚果。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 27,
+      "snippet": "你想新一点，它给你上云南蓝莓、进口葡萄酒、各种营养品。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 11,
+      "snippet": "你要实用，它给你实用；"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 11,
+      "snippet": "你要体面，它给你体面。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 23,
+      "snippet": "山姆不是一个卖场，山姆是针对你的一套解决方案。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 25,
+      "snippet": "礼品榜一公布，山姆评论区直接变成全国民俗答疑现场。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 14,
+      "snippet": "你问老广为什么要送黄油曲奇。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 31,
+      "snippet": "他说铁罐+曲奇就是广东日常送礼的走心礼仪，多刷点港剧你就懂了。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 17,
+      "snippet": "你问珠海人为什么喜欢送黄油鸡蛋卷？"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 27,
+      "snippet": "他说你天天看游客买隔壁澳门的鸡蛋卷当礼物，你也忍不住。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 29,
+      "snippet": "你问青岛人送礼为什么不送青岛啤酒，他反问你家送礼送大米饭？"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 21,
+      "snippet": "聊到最后，购物分享变成了同乡会的线上交流。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 11,
+      "snippet": "潮汕人开始怀念拜月娘；"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 14,
+      "snippet": "福建人掏出月饼、柚子、茶叶。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 13,
+      "snippet": "江西人讲小时候结伴收柴火；"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "河北人默默端出驴肉礼盒。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 15,
+      "snippet": "河南讲起了燃灯、观潮、兔爷儿；"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 16,
+      "snippet": "东北人科普起什么叫【月光码子】。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 24,
+      "snippet": "一张消费榜硬生生变成了一次全国野生民俗田野调查。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 12,
+      "snippet": "再聊下去立刻就该申遗了。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 15,
+      "snippet": "现代社会，城市的差异越来越小。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 12,
+      "snippet": "方言在淡化，审美网红化。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 28,
+      "snippet": "CBD像全国共用一套皮肤，无数人用同一个软件修同一张脸。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 24,
+      "snippet": "但你只要把当地人的购物车拉出来，地域性重新显灵。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 24,
+      "snippet": "广州有广州的锅，厦门有厦门的酒，上海有上海的胃。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 52,
+      "snippet": "这份榜单最有意思的地方，不是【谁买了什么】，而是谁都觉得【买这个送人很正常吧】，一看外地人的购物车【诶？"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 9,
+      "snippet": "你们中秋送这个】。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 18,
+      "snippet": "再聊两句，哦，原来你们那儿这么生活。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 28,
+      "snippet": "地方文化最顽固的部分，不在景区或步行街，而在收银小票里。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 18,
+      "snippet": "消费，正在成为现代城市的赛博地方志。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 28,
+      "snippet": "以前送礼讲【贵重】，得让他们看见“我送得起、我够意思”。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 37,
+      "snippet": "现在越来越多人讲【合适】，想的是那个收礼的人到底吃不吃、用不用、喜不喜欢。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 18,
+      "snippet": "人情世故没消失，只是迎来了全新版本。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 8,
+      "snippet": "什么叫【合适】？"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 25,
+      "snippet": "对得上关系，不重到让对方有压力，也不轻到显得敷衍；"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 33,
+      "snippet": "对得上人，记得他的口味、他的身体状况、他的喜怒哀乐、他的生活状态；"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 33,
+      "snippet": "对得上地方，北京有北京的门道，上海有上海的讲究，广州有广州的规矩；"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 37,
+      "snippet": "所以这个榜单不是简单地告诉你，广州人喜欢油，厦门人喜欢酒，上海人喜欢健康。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 23,
+      "snippet": "而是把每个城市的生活方式和人情规则给扒了出来。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 32,
+      "snippet": "知道不同人在不同关系里，需要什么东西，这是市场洞察里值钱的地方。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 11,
+      "snippet": "但知道，不等于做得到。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 14,
+      "snippet": "这也正是山姆最难复制的部分。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 10,
+      "snippet": "广州要洋酒，你得有。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 11,
+      "snippet": "上海要仪式感，你得有。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 33,
+      "snippet": "厦门要葡萄酒，嘉兴要坚果，送老人要营养品，见家长要体面，你都得有。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 15,
+      "snippet": "上面的这些要，山姆全都接得住。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 21,
+      "snippet": "这不是地域差异，而是一套正在演化的新民俗。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 52,
+      "snippet": "很多人一说到民俗，脑子里马上跳出青砖、瓦房，老奶奶穿着民族服饰，旁边大爷吹着一个你不认识但快失传的乐器。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 37,
+      "snippet": "但民俗真正的内核，不是【古老】，而是人【想把日子过得更好一点】的一个念头。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 25,
+      "snippet": "一代代人，不断地把这个念头延续下去，就形成了民俗。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 23,
+      "snippet": "千百年前的古人，送集市买来的鸡鸭鱼，这是民俗。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 33,
+      "snippet": "三四十年前的父辈，送百货商店的进口糖、洗脸盆、电视机，这也是民俗。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 22,
+      "snippet": "那现在一说送礼就去山姆，怎么就不能是民俗了？"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 10,
+      "snippet": "为什么送礼要去山姆？"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 12,
+      "snippet": "因为山姆是先天送礼圣体。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 20,
+      "snippet": "送礼最怕【看起来是挺贵，拆开看是一坨】。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 24,
+      "snippet": "包装金光闪闪，丝带绕三圈，盒子大得能给猫做单间。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 21,
+      "snippet": "打开一看，你都怀疑产品是不是买包装赠送的。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 14,
+      "snippet": "送的人花了钱，收的人还得演。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 14,
+      "snippet": "大家一通操作，为了脸丢了钱。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 36,
+      "snippet": "而这恰恰是山姆的优势所在，山姆的产品不仅面上拿得出手，关键是品质靠得住。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 21,
+      "snippet": "拆开前，你挑不出理儿，拆开后，你不会骂人。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 14,
+      "snippet": "同时，送礼是一门严谨的学问："
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 11,
+      "snippet": "送便宜了，关系不到位。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 24,
+      "snippet": "送贵重了，对方半夜开始复盘，ta是不是有事求我？"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 50,
+      "snippet": "但送山姆就没这么复杂，因为大家的共识是：山姆的东西，大概就是那个类别在那个价格段，品质这个词的答案。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 41,
+      "snippet": "所以，不管价格是高是低，我送你的都是一个好东西，都是一份好心意，把送礼这事做单纯。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 8,
+      "snippet": "最后，是商品池。"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 44,
+      "snippet": "山姆强大的多元供应链+丰富的全球商品+适应本土的个性化需求，造就了一个个性化礼物素材库。"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 10,
+      "snippet": "水果、点心、营养品；"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 16,
+      "snippet": "进口、国产、自有品牌，应有尽有。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 16,
+      "snippet": "进一步，送长辈见家长，人人开心；"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 16,
+      "snippet": "退一步，送朋友自己吃，居家必备。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 13,
+      "snippet": "同一套体系，玩家自己加点。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 14,
+      "snippet": "36个城市可以有36个答案。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 19,
+      "snippet": "山姆给了一堆拼图，各地拼出自己的中秋。"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 1,
+      "snippet": "6"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 13,
+      "snippet": "看到了时代的变化，很重要。"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 13,
+      "snippet": "接得住时代的变化，更重要。"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 24,
+      "snippet": "人们开始在山姆买礼物，背后是一整套行为逻辑在变。"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 41,
+      "snippet": "送礼文化遭年轻人嫌弃，就是因为财富飞奔的年代，它跟酒桌文化一样，成了一种社会规训。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 23,
+      "snippet": "东西本身不重要，东西看上去代表了什么，很重要。"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 8,
+      "snippet": "但，山姆不一样。"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 10,
+      "snippet": "没有商务，只有祝福。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 32,
+      "snippet": "如果我送你山姆的东西，那就代表我真的想你吃得好起来，生活好起来。"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 23,
+      "snippet": "我想分享给你的是一套生活方式，而不是一套面子。"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 43,
+      "snippet": "其实这不是新东西，我们那的田园牧歌时代，就是这么过来的，我们送礼，原本就是单纯的善良。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 41,
+      "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重。"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 16,
+      "snippet": "就像中秋节本身所代表的意义一样。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 19,
+      "snippet": "山姆的本质，是消费者对美好生活的向往。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 25,
+      "snippet": "送礼的尽头，是人类对美好生活一次又一次的具体想象。"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 6,
+      "snippet": "【品牌专题】"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "反常识开场：真正懂送礼的不是岳父采购而是「山姆」，随即以陪妈暴风吸入中秋礼物的场景坐实。",
+      "patterns": [
+        "山姆懂送礼反常识",
+        "陪妈暴买场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这个世界上懂送礼的，不是岳父丈母娘，不是公司采购主任，更不是逢年过节蹲在烟酒店门",
+          "note": "懂送礼的不是岳父"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "而是，山姆。"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "暴风吸入。",
+          "note": "暴风吸入"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "说，全都要。",
+          "note": "全都要"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "山姆懂送礼→自购/送礼榜反差人格→评论区民俗田野→合适取代贵重→供应链难复制→回归单纯祝福收束。",
+      "patterns": [
+        "榜单反差",
+        "民俗田野",
+        "合适版本",
+        "难复制",
+        "回归祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "一个人城市最常自购的东西，往往不是它最爱送的东西。",
+          "note": "自购不是最爱送"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但送什么，越来越像一道人格测试。",
+          "note": "人格测试"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "一张消费榜硬生生变成了一次全国野生民俗田野调查。",
+          "note": "民俗田野调查"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "现在越来越多人讲【合适】，想的是那个收礼的人到底吃不吃、用不用、喜不喜欢。",
+          "note": "讲合适"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "这也正是山姆最难复制的部分。",
+          "note": "最难复制"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "回归"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "function": "mom_sam_scene",
+          "note": "陪妈山姆暴买顿悟"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "self_vs_gift_rank",
+          "note": "自购榜vs送礼榜人格反差"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "folklore_comments",
+          "note": "评论区全国民俗田野"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88"
+          ],
+          "function": "suitable_gift_logic",
+          "note": "合适取代贵重与难复制"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120"
+          ],
+          "function": "sam_consensus_pool",
+          "note": "山姆共识价与商品池"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136"
+          ],
+          "function": "return_blessing",
+          "note": "回归单纯祝福与时代收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「当场我就悟了」顿悟切；「正好前几天」榜单切；「但一翻开送礼榜」转折；「再聊下去」递进；「最后」商品池收。",
+      "patterns": [
+        "顿悟切",
+        "榜单切",
+        "送礼榜转折",
+        "再聊递进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "当场我就悟了——妈果然还是妈，在送礼观和消费观上，永远领先我一个身位。",
+          "note": "当场我就悟了"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "正好前几天，山姆公布了30+城市会员中秋礼品TOP榜（点击文章结尾处的【阅读原文",
+          "note": "正好前几天"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "但一翻开送礼榜，又会发现一到送礼环节，大家突然开始做人了。",
+          "note": "但一翻开送礼榜"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "再聊下去立刻就该申遗了。",
+          "note": "再聊下去"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "最后，是商品池。",
+          "note": "最后，是商品池"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "妈尽调抠门vs山姆暴买；自购地道vs送礼上道；自己威士忌vs送葡萄酒；贵重炫耀vs合适关怀；商务面子vs祝福。",
+      "patterns": [
+        "抠门/暴买",
+        "自购/送礼",
+        "贵重/合适",
+        "面子/祝福"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我妈平时消费像尽调，鸡蛋要挑半天，买纸巾要按克算，对着苹果看五分钟能直接出一份风",
+          "note": "消费像尽调"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "暴风吸入。",
+          "note": "暴风吸入"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "生活要地道，送礼要上道。",
+          "note": "生活要地道送礼要上道"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "厦门人自己喝威士忌，送别人葡萄酒。",
+          "note": "自己喝威士忌送葡萄酒"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "现在越来越多人讲【合适】，想的是那个收礼的人到底吃不吃、用不用、喜不喜欢。",
+          "note": "讲合适"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "没有商务，只有祝福。",
+          "note": "没有商务只有祝福"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「日子不过了吗」对话问；评论区「你问老广/珠海/青岛」拟问；「什么叫合适」定义问。",
+      "patterns": [
+        "对话反问",
+        "拟问民俗",
+        "定义问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "我说，日子不过了吗？",
+          "note": "日子不过了吗"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你问老广为什么要送黄油曲奇。",
+          "note": "你问老广为什么"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "你问青岛人送礼为什么不送青岛啤酒，他反问你家送礼送大米饭？",
+          "note": "送礼送大米饭"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "什么叫【合适】？",
+          "note": "什么叫合适"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "陪妈购物车；京沪厦广自购/送礼对照；黄油曲奇/鸡蛋卷/青岛啤酒反例；驴肉月光码子民俗。",
+      "patterns": [
+        "陪妈例",
+        "城市对照例",
+        "民俗物例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "月饼、坚果、牛肉、葡萄酒、海鲜、水果，不要命地往里扔。",
+          "note": "月饼坚果牛肉"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "北京人办几百块会员，不妨碍他们进去买上海青。",
+          "note": "北京人买上海青"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "他说铁罐+曲奇就是广东日常送礼的走心礼仪，多刷点港剧你就懂了。",
+          "note": "铁罐曲奇"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "河北人默默端出驴肉礼盒。",
+          "note": "驴肉礼盒"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "东北人科普起什么叫【月光码子】。",
+          "note": "月光码子"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「新民俗」落到榜单与评论区方言故事；「合适」落到关系/人/地方三维；「难复制」落到广州洋酒上海仪式感等SKU。",
+      "patterns": [
+        "民俗→榜单评论",
+        "合适→三维",
+        "难复制→SKU"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "一张消费榜硬生生变成了一次全国野生民俗田野调查。",
+          "note": "民俗田野调查"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "对得上关系，不重到让对方有压力，也不轻到显得敷衍；",
+          "note": "对得上关系"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "广州要洋酒，你得有。",
+          "note": "广州要洋酒"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "上海要仪式感，你得有。",
+          "note": "上海要仪式感"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定山姆懂送礼、送什么像人格测试、山姆是解决方案、最难复制、本质是美好生活向往。",
+      "patterns": [
+        "懂送礼断定",
+        "人格测试",
+        "解决方案",
+        "难复制",
+        "本质金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "而是山姆"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但送什么，越来越像一道人格测试。",
+          "note": "人格测试"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "山姆不是一个卖场，山姆是针对你的一套解决方案。",
+          "note": "一套解决方案"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "这也正是山姆最难复制的部分。",
+          "note": "最难复制"
+        },
+        {
+          "sentence_id": "s134",
+          "snippet": "山姆的本质，是消费者对美好生活的向往。",
+          "note": "美好生活的向往"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "以为妈会理性判断→她说全都要；榜单不是简单告诉喜欢什么→扒出人情规则；山姆不是创新→是回归。",
+      "patterns": [
+        "预期翻车",
+        "榜单深读修正",
+        "创新改回归"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我以为她会理性判断一下。",
+          "note": "以为她会理性"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "说，全都要。",
+          "note": "全都要"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "所以这个榜单不是简单地告诉你，广州人喜欢油，厦门人喜欢酒，上海人喜欢健康。",
+          "note": "不是简单地告诉你"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "不是在创新而是回归"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短金句「而是山姆」→母女对话快切→城市对照排比加速→民俗串烧→合适三段论放缓→抒情金句慢收。",
+      "patterns": [
+        "短金句",
+        "对话快切",
+        "城市排比",
+        "抒情慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "而是山姆"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "说，全都要。",
+          "note": "全都要"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "北京人自己逛山姆像逛菜市场，送礼突然开始果篮化。",
+          "note": "北京果篮化"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "送礼的尽头，是人类对美好生活一次又一次的具体想象。",
+          "note": "具体想象"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "戏谑开场→陪妈爆笑→洞察城市反差的俏皮→民俗热闹→合适段沉静→祝福回归温情。",
+      "patterns": [
+        "戏谑",
+        "爆笑",
+        "俏皮洞察",
+        "热闹",
+        "沉静温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这个世界上懂送礼的，不是岳父丈母娘，不是公司采购主任，更不是逢年过节蹲在烟酒店门",
+          "note": "戏谑开场"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "暴风吸入。",
+          "note": "暴风吸入"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "上一秒狂炫猪脚饭，下一秒坐进包厢谈并购。",
+          "note": "猪脚饭并购"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "一张消费榜硬生生变成了一次全国野生民俗田野调查。",
+          "note": "田野热闹"
+        },
+        {
+          "sentence_id": "s129",
+          "snippet": "如果我送你山姆的东西，那就代表我真的想你吃得好起来，生活好起来。",
+          "note": "想你吃得好"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从山姆懂送礼回到「回归传统情深意重」与中秋意义，金句「送礼尽头是美好生活想象」闭环。",
+      "patterns": [
+        "回归闭环",
+        "美好生活金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "山姆开"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "回归"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "送礼的尽头，是人类对美好生活一次又一次的具体想象。",
+          "note": "美好生活想象"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软植入阅读原文看榜单；结尾品牌专题；行动号召弱，偏认知共鸣。",
+      "patterns": [
+        "阅读原文软链",
+        "品牌专题弱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "正好前几天，山姆公布了30+城市会员中秋礼品TOP榜（点击文章结尾处的【阅读原文",
+          "note": "阅读原文"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "【品牌专题】",
+          "note": "品牌专题"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "母女对话、城市黑话排比、评论区同乡会、猪脚饭并购梗，强中产口语与地域梗。",
+      "patterns": [
+        "母女对话",
+        "地域梗",
+        "同乡会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "她说，你懂什么，一家一个送法，都得照顾到，再说了，不想送的自己吃不更好？",
+          "note": "你懂什么"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "上一秒狂炫猪脚饭，下一秒坐进包厢谈并购。",
+          "note": "猪脚饭谈并购"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "聊到最后，购物分享变成了同乡会的线上交流。",
+          "note": "同乡会"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗内缺s89-s106段落；品牌专题收束偏软广；部分城市画像刻板；数据榜单细节未展开。",
+      "patterns": [
+        "窗缺段",
+        "软广尾",
+        "刻板画像"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s136",
+          "snippet": "【品牌专题】",
+          "note": "品牌专题"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "北京人办几百块会员，不妨碍他们进去买上海青。",
+          "note": "北京上海青"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "当场悟了→对比两榜拼出反常识→从合适三维拆解→承认知道≠做得到，暴露洞察递进。",
+      "patterns": [
+        "顿悟-对比-拆解-知行差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "当场我就悟了——妈果然还是妈，在送礼观和消费观上，永远领先我一个身位。",
+          "note": "悟了"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "拿上个月山姆发布的30+城市好物top榜（以下简称送礼榜和好物榜）对比看，更有意",
+          "note": "反常识的心理"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "对得上关系，不重到让对方有压力，也不轻到显得敷衍；",
+          "note": "对得上关系"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "但知道，不等于做得到。",
+          "note": "知道不等于做得到"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "定位中产送礼焦虑读者与同城吐槽党，用「你问…他说」把读者拉进评论区同乡会。",
+      "patterns": [
+        "中产送礼焦虑",
+        "评论区共谋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "拿山姆东西送礼这种中产玩法，已经让老太太拿捏了。",
+          "note": "中产玩法"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "你问老广为什么要送黄油曲奇。",
+          "note": "你问老广"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "再聊两句，哦，原来你们那儿这么生活。",
+          "note": "原来你们那儿这么生活"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "山姆；月饼坚果；上海青/光明牛奶/威士忌/花生油；轩尼诗马爹利；黄油曲奇；月光码子。",
+      "patterns": [
+        "山姆锚",
+        "城市SKU锚",
+        "民俗物锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "山姆"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "北京人办几百块会员，不妨碍他们进去买上海青。",
+          "note": "上海青"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "老广自购花生油，一到送礼，秒开商务模式，前三名不是轩尼诗就是马爹利。",
+          "note": "轩尼诗马爹利"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "东北人科普起什么叫【月光码子】。",
+          "note": "月光码子"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场故事中密→双榜对比高密→民俗串烧高密列举→合适定义中密→供应链中密→抒情降密。",
+      "patterns": [
+        "双榜高密",
+        "民俗高密",
+        "抒情降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "一个人城市最常自购的东西，往往不是它最爱送的东西。",
+          "note": "反常识密"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "潮汕人开始怀念拜月娘；",
+          "note": "民俗列举"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "送礼的尽头，是人类对美好生活一次又一次的具体想象。",
+          "note": "抒情降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "反常识定义→场景故事→榜单对比排比→评论民俗→合适版本→难复制SKU→回归金句。",
+      "patterns": [
+        "定义-故事-对比-民俗-合适-回归"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "定义"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "前两天陪我妈去山姆买中秋礼物。",
+          "note": "故事"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "一个人城市最常自购的东西，往往不是它最爱送的东西。",
+          "note": "对比"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "礼品榜一公布，山姆评论区直接变成全国民俗答疑现场。",
+          "note": "民俗"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "回归"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式冷幽默观察者：用地域梗拆中产送礼，收束却温情回归，洞察+温柔。",
+      "patterns": [
+        "冷幽默观察",
+        "温情收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "上一秒狂炫猪脚饭，下一秒坐进包厢谈并购。",
+          "note": "猪脚饭并购"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "消费，正在成为现代城市的赛博地方志。",
+          "note": "赛博地方志"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "回归"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「而是，山姆」；「生活要地道，送礼要上道」；「送什么像人格测试」；「赛博地方志」；「回归」。",
+      "patterns": [
+        "而是山姆",
+        "地道上道",
+        "人格测试",
+        "赛博地方志"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "而是，山姆。",
+          "note": "而是山姆"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "生活要地道，送礼要上道。",
+          "note": "地道上道"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "但送什么，越来越像一道人格测试。",
+          "note": "人格测试"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "消费，正在成为现代城市的赛博地方志。",
+          "note": "赛博地方志"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "「自购/送礼反差→地域民俗→合适三维→回归祝福」完整洞察骨架可直接迁移消费观察口播。",
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "一个人城市最常自购的东西，往往不是它最爱送的东西。",
+          "note": "自购非最爱送"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "现在越来越多人讲【合适】，想的是那个收礼的人到底吃不吃、用不用、喜不喜欢。",
+          "note": "合适"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "从这个角度说，山姆反而不是在“创新”，而是在“回归”——回归一种传统式的情深意重",
+          "note": "回归"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s7",
+    "s11",
+    "s19",
+    "s40",
+    "s61",
+    "s75",
+    "s85",
+    "s132",
+    "s1",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s86",
+    "s87",
+    "s88",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118",
+    "s119",
+    "s120",
+    "s121",
+    "s122",
+    "s123",
+    "s124",
+    "s125",
+    "s126",
+    "s127",
+    "s128",
+    "s129",
+    "s130",
+    "s131",
+    "s133",
+    "s134",
+    "s135",
+    "s136"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,931 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7637114928884711979",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7637114928884711979/",
+  "source_sha256": "7d0de006e3ea927d2221509000d8e739af16cabb748b806f21735ccf9e7a6591",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 46,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 17,
+      "snippet": "标题看起来很离谱，但你看完就懂了。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 25,
+      "snippet": "这几天一直刷屏什么央视拒绝世界杯天价转播费的事情。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 22,
+      "snippet": "要我说根本就别天价不天价，就不该给钱，真的。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 25,
+      "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 17,
+      "snippet": "你没看错，甚至应该倒贴钱让央视播。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 12,
+      "snippet": "只要央视肯播，就足够了。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "为啥。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 24,
+      "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 21,
+      "snippet": "如果你什么都提供不了，那多少得有点乐子吧？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "我们看这三个要素。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 27,
+      "snippet": "从利益的角度，付那么多钱播你纯亏钱，为啥要付那么多钱？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 22,
+      "snippet": "而且中国队又不去，不如直接播苏超还更有流量。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 26,
+      "snippet": "从稀缺性的角度，有的是世界比赛可以播，为啥要播足球？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 22,
+      "snippet": "而且中国队又不去，不如直接播苏超还更有流量。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 35,
+      "snippet": "从威胁的角度说，中国队根本就没参加，属于无法被选中的状态，为啥要播你？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 18,
+      "snippet": "而反过来，央视可以提供相当大的威胁。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 59,
+      "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于你的非授权内容屏蔽，都是规则直接生效。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "不信你自己传视频传过就知道了。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 31,
+      "snippet": "不管央视主观上想不想罩着你，只要央视有播出权，被动就罩着你了。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 67,
+      "snippet": "而反过来，如果央视不播你，不对外宣称自己播你，那所有平台都不甩你，可以不花一分钱的让观众看到带弹幕的，只需要调整几个上传主体就可以了。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 33,
+      "snippet": "有些网站自从不买版权之后，大家可以看到所有的东西了，比网盘还方便。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 21,
+      "snippet": "与此同时，还涉及一个赞助商和广告商的问题。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "央视播你，是一个价格。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 13,
+      "snippet": "央视不播你，是另一个价格。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 40,
+      "snippet": "赞助商也不傻，尤其是国内赞助商，可以不求回报，但也不能人家目标客户根本看不到吧？"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "连个面子都露不出去吧？"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 38,
+      "snippet": "人家钱也不是大风刮来的，如果一个央视都不播的体育栏目想要大赞助，那别做梦了。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 46,
+      "snippet": "而如果央视播，或许也没多少效果，但这起码是个抓手，人家企业也能说服自己就当是冲着央视面子了。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 31,
+      "snippet": "不然连自家老板那一关都过不去，人家一句话央视都不播为什么要投？"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "你直接没法解释。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 48,
+      "snippet": "所以，为了跟其他比赛以及运动竞争中国市场，要求着央视播，类似当年windows怎么搞竞争对手的？"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 15,
+      "snippet": "直接放任大家随意用，直接免费。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 22,
+      "snippet": "为了给其他赞助商一点谈判条件，也得让央视播。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 40,
+      "snippet": "为了防止其他平台疯狂弄你，大家都看上免费世界杯，更得求着央视播，求一个央视护盾。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 13,
+      "snippet": "只要央视肯播，一切好商量。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 31,
+      "snippet": "而且一切，归根究底都在于中国足球队给了足够多的机会和策略空间。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "谁说人家不会进攻防守呢？"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "现在，攻守易型了。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 21,
+      "snippet": "图片截取自: 世界杯应该倒给央视钱求他们播"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "先认标题离谱再承诺看完就懂，用倒贴让央视播的极端主张开场。",
+      "patterns": [
+        "标题自黑预告",
+        "倒贴极端主张",
+        "没看错强调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "标题看起来很离谱，但你看完就懂了。",
+          "note": "离谱但看完懂"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "倒贴让央视播"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "你没看错，甚至应该倒贴钱让央视播。",
+          "note": "没看错倒贴"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "收钱需利益/稀缺/威胁→世界杯对中国三者弱→央视有版权护盾→赞助面子价差→故应求着播，攻守易型。",
+      "patterns": [
+        "三要素→护盾→赞助→求播"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。",
+          "note": "三要素前提"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "中国队不去"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "被动护盾"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "而如果央视播，或许也没多少效果，但这起码是个抓手，人家企业也能说服自己就当是冲着",
+          "note": "赞助抓手"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "hook_claim",
+          "note": "离谱标题与倒贴主张"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "three_factors",
+          "note": "利益稀缺威胁拆解"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "cctv_shield",
+          "note": "央视版权被动护盾"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "sponsor_face",
+          "note": "赞助商面子与价格"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "close_reversal",
+          "note": "求播与攻守易型"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「为啥」「我们看这三个要素」「而反过来」完成框架切换。",
+      "patterns": [
+        "为啥推进",
+        "三要素导航",
+        "反过来对偶"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "为啥。",
+          "note": "为啥"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我们看这三个要素。",
+          "note": "看三要素"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "而反过来，央视可以提供相当大的威胁。",
+          "note": "而反过来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "付费播世界杯vs苏超更有流量；央视播/不播两套平台与赞助世界。",
+      "patterns": [
+        "赛事流量对比",
+        "播与不播二元"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "不如播苏超"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "央视播你，是一个价格。",
+          "note": "播是一个价"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "央视不播你，是另一个价格。",
+          "note": "不播另一价"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "而反过来，如果央视不播你，不对外宣称自己播你，那所有平台都不甩你，可以不花一分钱",
+          "note": "不播平台不甩"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "连环为啥付/为啥播足球/为啥播你，设问替受众发难。",
+      "patterns": [
+        "利益设问",
+        "稀缺设问",
+        "威胁设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "从利益的角度，付那么多钱播你纯亏钱，为啥要付那么多钱？",
+          "note": "为啥付那么多"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "从稀缺性的角度，有的是世界比赛可以播，为啥要播足球？",
+          "note": "为啥播足球"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "从威胁的角度说，中国队根本就没参加，属于无法被选中的状态，为啥要播你？",
+          "note": "为啥播你"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不然连自家老板那一关都过不去，人家一句话央视都不播为什么要投？",
+          "note": "央视不播为何投"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "苏超、上传屏蔽体验、不买版权网站、Windows免费打竞品。",
+      "patterns": [
+        "苏超替代例",
+        "上传屏蔽体感",
+        "Windows免费战略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "苏超"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "不信你自己传视频传过就知道了。",
+          "note": "传视频就知道"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "有些网站自从不买版权之后，大家可以看到所有的东西了，比网盘还方便。",
+          "note": "不买版权网站"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "直接放任大家随意用，直接免费。",
+          "note": "Windows免费"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "威胁落成平台规则自动屏蔽；面子落成老板一句央视都不播。",
+      "patterns": [
+        "规则护盾具象",
+        "老板质问具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "规则直接生效"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不然连自家老板那一关都过不去，人家一句话央视都不播为什么要投？",
+          "note": "老板一句话"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "你直接没法解释。",
+          "note": "没法解释"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "斩钉截铁就不该给钱、肯播就够、别做梦了。",
+      "patterns": [
+        "不该给钱决断",
+        "赞助别做梦"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "要我说根本就别天价不天价，就不该给钱，真的。",
+          "note": "就不该给钱"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "只要央视肯播，就足够了。",
+          "note": "肯播就够"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "人家钱也不是大风刮来的，如果一个央视都不播的体育栏目想要大赞助，那别做梦了。",
+          "note": "别做梦了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "强主张文少改口，仅标题自承离谱作预期管理。",
+      "patterns": [
+        "标题自承离谱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "标题看起来很离谱，但你看完就懂了。",
+          "note": "标题离谱自承"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句主张密锤→三要素匀速→护盾加长→赞助对偶短句→金句收。",
+      "patterns": [
+        "主张短锤",
+        "三要素匀速",
+        "对偶短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "倒贴短主张"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我们看这三个要素。",
+          "note": "三要素"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "央视播你，是一个价格。",
+          "note": "播一个价"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "挑衅好奇→冷静框架→护盾冷笑→赞助无奈→攻守易型快感。",
+      "patterns": [
+        "挑衅开场",
+        "冷笑护盾",
+        "易型快感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "标题看起来很离谱，但你看完就懂了。",
+          "note": "离谱好奇"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾冷笑"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到求着央视播，用攻守易型反转标题攻击性。",
+      "patterns": [
+        "求播回扣",
+        "攻守易型金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "只要央视肯播，一切好商量。",
+          "note": "肯播好商量"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式关注CTA，靠观点金句自传播。",
+      "patterns": [
+        "观点自传播无硬CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型收束"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "or中英夹杂、苏超梗、老板面子口语显半佛犀利。",
+      "patterns": [
+        "中英or夹杂",
+        "苏超时梗",
+        "老板面子口语"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。",
+          "note": "利益or稀缺"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "苏超"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不然连自家老板那一关都过不去，人家一句话央视都不播为什么要投？",
+          "note": "自家老板"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "稀缺段与利益段例句重复；护盾机制偏推断缺规则引用。",
+      "patterns": [
+        "例句重复",
+        "机制推断缺引用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "重复苏超句"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾推断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先给收钱三前提再逐条检验世界杯是否满足，逻辑外显。",
+      "patterns": [
+        "前提检验法外显"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。",
+          "note": "收钱前提"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我们看这三个要素。",
+          "note": "逐条看要素"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当懂交易结构的聪明人，用你没看错/自己传过拉齐。",
+      "patterns": [
+        "聪明人同位",
+        "亲测召唤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "你没看错，甚至应该倒贴钱让央视播。",
+          "note": "你没看错"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "不信你自己传视频传过就知道了。",
+          "note": "你自己传过"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "倒贴钱、苏超、Windows免费、攻守易型。",
+      "patterns": [
+        "倒贴锚",
+        "苏超锚",
+        "Windows锚",
+        "易型金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "倒贴"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而且中国队又不去，不如直接播苏超还更有流量。",
+          "note": "苏超"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "直接放任大家随意用，直接免费。",
+          "note": "Windows免费"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密主张→三要素中密→护盾高密→赞助中密→金句降密。",
+      "patterns": [
+        "主张低密",
+        "护盾高密",
+        "金句降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "主张"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾高密"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "降密金句"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极端主张→框架→正反检验→商业引申→战略类比→金句闭环。",
+      "patterns": [
+        "主张-框架-正反",
+        "类比-金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "主张"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。",
+          "note": "框架"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "所以，为了跟其他比赛以及运动竞争中国市场，要求着央视播，类似当年windows怎",
+          "note": "Windows类比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式交易结构批评者：敢下倒贴结论、爱拆版权套利。",
+      "patterns": [
+        "极端结论胆气",
+        "版权套利眼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "倒贴胆气"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾套利眼"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "倒贴求播、三要素、央视护盾、攻守易型。",
+      "patterns": [
+        "倒贴标题",
+        "护盾概念",
+        "攻守易型"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "国际足联应该免费让央视播，甚至倒贴点钱，让央视播。",
+          "note": "倒贴"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "攻守易型"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "利益/稀缺/威胁谈判框架+护盾概念可改编观宇媒体商业评论，需弱化绝对句。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为收钱的前提是你能提供利益or稀缺性or威胁。",
+          "note": "三要素可改编"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "那就是只要你这东西央视有版权，就相当于多了一个被动护盾，各大平台会下意识的把关于",
+          "note": "护盾概念"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "现在，攻守易型了。",
+          "note": "易型收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s7",
+    "s10",
+    "s15",
+    "s21",
+    "s34",
+    "s45",
+    "s1",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s46"
+  ],
+  "fields_complete_25": true
+}

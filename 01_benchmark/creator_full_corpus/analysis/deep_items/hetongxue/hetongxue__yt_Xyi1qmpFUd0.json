@@ -1,0 +1,1241 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_Xyi1qmpFUd0",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Xyi1qmpFUd0",
+  "source_sha256": "4bd77e775b65c545f8cc4079cf39ea61525be39a06ec77f6d5959b32d04bcf94",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s132"
+    },
+    {
+      "sentence_id": "s133"
+    },
+    {
+      "sentence_id": "s134"
+    },
+    {
+      "sentence_id": "s135"
+    },
+    {
+      "sentence_id": "s136"
+    },
+    {
+      "sentence_id": "s137"
+    },
+    {
+      "sentence_id": "s138"
+    },
+    {
+      "sentence_id": "s139"
+    },
+    {
+      "sentence_id": "s140"
+    },
+    {
+      "sentence_id": "s141"
+    },
+    {
+      "sentence_id": "s142"
+    },
+    {
+      "sentence_id": "s143"
+    },
+    {
+      "sentence_id": "s144"
+    },
+    {
+      "sentence_id": "s145"
+    },
+    {
+      "sentence_id": "s146"
+    },
+    {
+      "sentence_id": "s147"
+    },
+    {
+      "sentence_id": "s148"
+    },
+    {
+      "sentence_id": "s149"
+    },
+    {
+      "sentence_id": "s150"
+    },
+    {
+      "sentence_id": "s151"
+    },
+    {
+      "sentence_id": "s152"
+    },
+    {
+      "sentence_id": "s153"
+    },
+    {
+      "sentence_id": "s154"
+    },
+    {
+      "sentence_id": "s155"
+    },
+    {
+      "sentence_id": "s156"
+    },
+    {
+      "sentence_id": "s157"
+    },
+    {
+      "sentence_id": "s158"
+    },
+    {
+      "sentence_id": "s159"
+    },
+    {
+      "sentence_id": "s160"
+    },
+    {
+      "sentence_id": "s161"
+    },
+    {
+      "sentence_id": "s162"
+    },
+    {
+      "sentence_id": "s163"
+    },
+    {
+      "sentence_id": "s164"
+    },
+    {
+      "sentence_id": "s165"
+    },
+    {
+      "sentence_id": "s166"
+    },
+    {
+      "sentence_id": "s167"
+    },
+    {
+      "sentence_id": "s168"
+    },
+    {
+      "sentence_id": "s169"
+    },
+    {
+      "sentence_id": "s170"
+    },
+    {
+      "sentence_id": "s171"
+    },
+    {
+      "sentence_id": "s273"
+    },
+    {
+      "sentence_id": "s274"
+    },
+    {
+      "sentence_id": "s275"
+    },
+    {
+      "sentence_id": "s276"
+    },
+    {
+      "sentence_id": "s277"
+    },
+    {
+      "sentence_id": "s278"
+    },
+    {
+      "sentence_id": "s279"
+    },
+    {
+      "sentence_id": "s280"
+    },
+    {
+      "sentence_id": "s281"
+    },
+    {
+      "sentence_id": "s282"
+    },
+    {
+      "sentence_id": "s283"
+    },
+    {
+      "sentence_id": "s284"
+    },
+    {
+      "sentence_id": "s285"
+    },
+    {
+      "sentence_id": "s286"
+    },
+    {
+      "sentence_id": "s287"
+    },
+    {
+      "sentence_id": "s288"
+    },
+    {
+      "sentence_id": "s289"
+    },
+    {
+      "sentence_id": "s290"
+    },
+    {
+      "sentence_id": "s291"
+    },
+    {
+      "sentence_id": "s292"
+    },
+    {
+      "sentence_id": "s293"
+    },
+    {
+      "sentence_id": "s294"
+    },
+    {
+      "sentence_id": "s295"
+    },
+    {
+      "sentence_id": "s296"
+    },
+    {
+      "sentence_id": "s297"
+    },
+    {
+      "sentence_id": "s298"
+    },
+    {
+      "sentence_id": "s299"
+    },
+    {
+      "sentence_id": "s300"
+    },
+    {
+      "sentence_id": "s301"
+    },
+    {
+      "sentence_id": "s302"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题挑战「不用电扔A4多远」，用复杂项目压力引出春游式扔纸大赛与1.8万奖金。",
+      "patterns": [
+        "标题挑战",
+        "减压春游动机",
+        "奖金荣誉钩子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不用電 你能把一張A4紙扔多遠",
+          "note": "标题挑战"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "帶大家出來春遊",
+          "note": "带大家春游"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "準備了18000的獎金",
+          "note": "18000奖金"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "规则：仅人力能量→纸飞机纪录88米不如高尔夫→揉纸打球失败4.8米→冰山一角装置远射→收束开心创作与出门春天。",
+      "patterns": [
+        "规则限定",
+        "纸飞机对比",
+        "高尔夫失败",
+        "装置高潮",
+        "开心创作收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "除了人力之外的能量輸入的情況下",
+          "note": "仅人力"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "紙飛機的世界紀錄是88米",
+          "note": "88米纪录"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "4.8米"
+        },
+        {
+          "sentence_id": "s165",
+          "snippet": "這個真太遠了",
+          "note": "真太远了"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "拍得开心"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "动机规则奖金与开赛",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "纸飞机对比与高尔夫方案翻车",
+          "note": "第一选手"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158",
+            "s159",
+            "s160",
+            "s161",
+            "s162",
+            "s163",
+            "s164",
+            "s165",
+            "s166",
+            "s167",
+            "s168",
+            "s169",
+            "s170",
+            "s171"
+          ],
+          "function": "冰山一角装置讲解与发射",
+          "note": "高潮装置"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s273",
+            "s274",
+            "s275",
+            "s276",
+            "s277",
+            "s278",
+            "s279",
+            "s280",
+            "s281",
+            "s282",
+            "s283",
+            "s284",
+            "s285",
+            "s286",
+            "s287",
+            "s288",
+            "s289",
+            "s290",
+            "s291",
+            "s292",
+            "s293",
+            "s294",
+            "s295",
+            "s296",
+            "s297",
+            "s298",
+            "s299",
+            "s300",
+            "s301",
+            "s302"
+          ],
+          "function": "压力反思与求三连春天CTA",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「接下来就让我们开始」「接下来有请」「快阳生继续讲」「说实话」转场。",
+      "patterns": [
+        "开始比赛",
+        "有请下一位",
+        "继续讲催促",
+        "说实话收心"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "開始比賽",
+          "note": "开始比赛"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "有請我們視頻組的世博出戰",
+          "note": "有请世博"
+        },
+        {
+          "sentence_id": "s135",
+          "snippet": "快 陽生 繼續講",
+          "note": "继续讲"
+        },
+        {
+          "sentence_id": "s278",
+          "snippet": "說實話",
+          "note": "说实话"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "纸飞机88米 vs 高尔夫100米轻松；理论音速 vs 实际40米/秒；埋头苦干 vs 拍得开心。",
+      "patterns": [
+        "纸飞机/高尔夫",
+        "理论/实际速度",
+        "苦干/开心"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "紙飛機的世界紀錄是88米",
+          "note": "88米"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "一桿打100米輕輕松松",
+          "note": "高尔夫100米"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "紙飛鏢的初速度可以達到音速",
+          "note": "理论音速"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "40米每秒 這樣吧",
+          "note": "实际40米/秒"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "拍得开心"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你以前打过高尔夫吗」「实际速度是多少呢」「这么有信心吗」现场问答。",
+      "patterns": [
+        "经验追问",
+        "速度追问",
+        "信心追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "你以前打過高爾夫球嗎",
+          "note": "打过高尔夫吗"
+        },
+        {
+          "sentence_id": "s151",
+          "snippet": "那實際的速度是多少呢",
+          "note": "实际速度"
+        },
+        {
+          "sentence_id": "s169",
+          "snippet": "這麽有信心嗎",
+          "note": "有信心吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "揉纸当高尔夫球打出4.8米；冰山一角橡皮筋双蓄力发射；目标飞出场。",
+      "patterns": [
+        "高尔夫失败例",
+        "双蓄力装置例",
+        "飞出场目标"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "所以我決定把紙揉成一個球",
+          "note": "揉成球"
+        },
+        {
+          "sentence_id": "s139",
+          "snippet": "就可以給橡皮筋完成第一次蓄力",
+          "note": "第一次蓄力"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "我的目標是飛出場地",
+          "note": "飞出场地"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象「简单快乐项目」落到18000奖金、4.8米、340米/秒以内、求三连。",
+      "patterns": [
+        "奖金落地",
+        "米数落地",
+        "速度上限",
+        "三连落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "準備了18000的獎金",
+          "note": "18000"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "4.8米"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "維持在了340米每秒以內",
+          "note": "340以内"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "求贊 求收藏 求硬幣 求轉發",
+          "note": "求赞收藏"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「不开玩笑真的是至高无上」「废了呀」「感觉真的很好」。",
+      "patterns": [
+        "荣誉强调",
+        "废了评价",
+        "体感很好"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "真的是至高無上的榮譽",
+          "note": "至高无上"
+        },
+        {
+          "sentence_id": "s171",
+          "snippet": "廢了呀",
+          "note": "废了呀"
+        },
+        {
+          "sentence_id": "s289",
+          "snippet": "盡情運動的感覺真的很好",
+          "note": "感觉很好"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先觉高尔夫不难，打完承认不远但是第一；理论音速收斂到不音爆。",
+      "patterns": [
+        "不难预期修正",
+        "音速收敛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "我感覺應該不是很難",
+          "note": "应该不难"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "雖然說不遠吧",
+          "note": "虽然不远"
+        },
+        {
+          "sentence_id": "s148",
+          "snippet": "我稍微收斂了一點",
+          "note": "稍微收敛"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "规则说明中速→打球短句笑点→装置讲解加速→三二一发射顿挫→CTA排比加速。",
+      "patterns": [
+        "规则中速",
+        "笑点短句",
+        "装置加速",
+        "倒计时顿挫",
+        "CTA排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "比賽的規則非常簡單",
+          "note": "规则"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "4.8米笑点"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "三",
+          "note": "倒计时"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "求贊 求收藏 求硬幣 求轉發",
+          "note": "CTA排比"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "轻松春游→自信翻车→装置期待→发射紧张爽→创作反思温情→求关注热络。",
+      "patterns": [
+        "轻松",
+        "翻车",
+        "期待",
+        "紧张爽",
+        "温情",
+        "热络"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "一起跑一跑 跳一跳",
+          "note": "轻松"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "翻车"
+        },
+        {
+          "sentence_id": "s159",
+          "snippet": "發射",
+          "note": "发射"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "温情"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场减压扔纸赛，收束发现拍得开心才好看，邀请出门感受春天并求三连。",
+      "patterns": [
+        "减压赛开",
+        "拍得开心收",
+        "春天+三连"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "扔一張紙大賽",
+          "note": "扔纸大赛开"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "拍得开心"
+        },
+        {
+          "sentence_id": "s291",
+          "snippet": "可以出門感受這個春天",
+          "note": "感受春天"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "求赞收藏硬币转发+大大关注；评论区征集扔纸办法；下期再见。",
+      "patterns": [
+        "四连求",
+        "评论征集",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s294",
+          "snippet": "求贊 求收藏 求硬幣 求轉發",
+          "note": "求三连"
+        },
+        {
+          "sentence_id": "s295",
+          "snippet": "最重要的是點個大大的關註",
+          "note": "求关注"
+        },
+        {
+          "sentence_id": "s300",
+          "snippet": "歡迎分享在評論區",
+          "note": "评论区分享"
+        },
+        {
+          "sentence_id": "s302",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "同事出战点名、电脑打过高尔夫自嘲、理论音速被打脸40米/秒，团队现场感强。",
+      "patterns": [
+        "同事点名",
+        "自嘲经验",
+        "理论打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "有請我們視頻組的世博出戰",
+          "note": "世博出战"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "我在電腦上打過",
+          "note": "电脑上打过"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "40米每秒 這樣吧",
+          "note": "40米每秒"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口TRUNCATED，多选手过程缺失；收束励志略长；奖金与结果未在窗口完结。",
+      "patterns": [
+        "过程截断",
+        "励志略长",
+        "结果不全"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "世博 你的方案是什麽",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "我還以為他整了個什麽大活",
+          "note": "跳入装置"
+        },
+        {
+          "sentence_id": "s273",
+          "snippet": "我們至高無上的榮譽",
+          "note": "荣誉收跳入"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示检索纸飞机纪录后改高尔夫策略；装置双蓄力与防音爆收敛逻辑。",
+      "patterns": [
+        "检索改策略",
+        "双蓄力外露",
+        "防音爆收敛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "但是我在網上搜過了",
+          "note": "网上搜过"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "上面的這套連桿機構會拉伸橡皮筋",
+          "note": "连杆再蓄力"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "但是為了不讓音爆把紙飛鏢炸掉",
+          "note": "防音爆"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准想看工程师玩的观众与屏幕前需要出门的人，用「带大家春游」同盟。",
+      "patterns": [
+        "带大家同盟",
+        "屏幕前的你",
+        "工程师玩家"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "帶大家出來春遊",
+          "note": "带大家春游"
+        },
+        {
+          "sentence_id": "s290",
+          "snippet": "也希望屏幕前的你",
+          "note": "屏幕前的你"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我們的工程師有時也想做一些",
+          "note": "工程师想做"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "18000奖金；88米纪录；4.8米；340米/秒；40米/秒实测。",
+      "patterns": [
+        "奖金锚",
+        "纪录锚",
+        "4.8米",
+        "速度锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "準備了18000的獎金",
+          "note": "18000"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "紙飛機的世界紀錄是88米",
+          "note": "88米"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "4.8米"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "40米每秒 這樣吧",
+          "note": "40米每秒"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "规则中密→翻车低密笑点→装置原理高密→发射低密→反思中密→CTA低密。",
+      "patterns": [
+        "规则中密",
+        "笑点低密",
+        "原理高密",
+        "CTA低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "除了人力之外的能量輸入的情況下",
+          "note": "规则密"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "低密笑"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "上面的這套連桿機構會拉伸橡皮筋",
+          "note": "原理高密"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "求贊 求收藏 求硬幣 求轉發",
+          "note": "CTA低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "标题独句后规则长句；现场短对白；装置说明条件句；CTA排比句。",
+      "patterns": [
+        "标题独句",
+        "短对白",
+        "条件说明",
+        "CTA排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不用電 你能把一張A4紙扔多遠",
+          "note": "标题"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "飛出去了嗎",
+          "note": "短对白"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "只要橡皮筋拉力足夠大",
+          "note": "条件句"
+        },
+        {
+          "sentence_id": "s294",
+          "snippet": "求贊 求收藏 求硬幣 求轉發",
+          "note": "排比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "温和队长型工程师：敢设1.8万奖金玩票，收束强调先拍得开心再给观众开心。",
+      "patterns": [
+        "温和队长",
+        "玩票奖金",
+        "开心优先"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "準備了18000的獎金",
+          "note": "奖金"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "拍得开心"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "真的是至高無上的榮譽",
+          "note": "荣誉认真"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "不用电扔A4多远；18000奖金；4.8米第一名；冰山一角；自己得先拍得开心。",
+      "patterns": [
+        "标题挑战",
+        "奖金",
+        "4.8米",
+        "冰山一角",
+        "拍得开心"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "不用電 你能把一張A4紙扔多遠",
+          "note": "标题"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "準備了18000的獎金",
+          "note": "奖金"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "4.8米"
+        },
+        {
+          "sentence_id": "s136",
+          "snippet": "我的裝置叫冰山一角",
+          "note": "冰山一角"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "拍得开心"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "挑战赛规则+方案翻车+装置高潮+创作哲思+标准三连，观宇科技娱乐赛季可直接复用。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "比賽的規則非常簡單",
+          "note": "规则模板可复用"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "我打了4.8米",
+          "note": "翻车笑点可复用"
+        },
+        {
+          "sentence_id": "s286",
+          "snippet": "我們自己得先拍得開心",
+          "note": "开心哲思可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s10",
+    "s20",
+    "s16",
+    "s30",
+    "s45",
+    "s165",
+    "s286",
+    "s27",
+    "s132",
+    "s273",
+    "s26",
+    "s49",
+    "s135",
+    "s278",
+    "s32",
+    "s146",
+    "s152",
+    "s35",
+    "s151",
+    "s169",
+    "s33",
+    "s139",
+    "s170",
+    "s150",
+    "s294",
+    "s24",
+    "s171",
+    "s289",
+    "s37",
+    "s46",
+    "s148",
+    "s14",
+    "s156",
+    "s11",
+    "s159",
+    "s13",
+    "s291",
+    "s295",
+    "s300",
+    "s302",
+    "s36",
+    "s50",
+    "s29",
+    "s141",
+    "s147",
+    "s290",
+    "s7",
+    "s39",
+    "s145",
+    "s136"
+  ],
+  "fields_complete_25": true
+}

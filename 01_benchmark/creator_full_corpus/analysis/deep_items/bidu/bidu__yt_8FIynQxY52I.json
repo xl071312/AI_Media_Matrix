@@ -1,0 +1,952 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_8FIynQxY52I",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=8FIynQxY52I",
+  "source_sha256": "8748e9213ea7aefda6248a5db36301480d934bfc3ff540299c6d30dcda3c331d",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 40,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "那我问你"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "把木板换成白纸"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 2,
+      "snippet": "白纸"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 14,
+      "snippet": "拿起来后,夜面的清微 微下醉"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "导致气体略微膨胀"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "压力低于大气压"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 19,
+      "snippet": "水,水就能流出,这就是小学二年纪学部的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "锐利态略不稳定性"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "这是一个颠等的夜面"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 13,
+      "snippet": "理想状态下大气能称助上的水"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "夜面压强复等于大气"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 13,
+      "snippet": "但水面很小皮,说不断弄一下"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "水面一个没帮助,这就关了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 23,
+      "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 75,
+      "snippet": "这块水面上涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 13,
+      "snippet": "我哥们的张立能把起初拉回来"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 20,
+      "snippet": "但滚月粗,表面张立效果越弱,准拉不回来了"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "那么,这个临界粗细是多少?"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "我哥们的刘子学意通计算猛如虎"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 11,
+      "snippet": "告诉我明界直径是1厘米"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "我要找到了1堆习管"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "10侧的明界直径是1.3厘米"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "直径1.2厘米"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "已经以下的习管都能成功"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 13,
+      "snippet": "1.3厘米有时成功有时失败"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "1.4厘米以上的习管还就不行了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "理论和实际30%的午茶"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 10,
+      "snippet": "色不眼中这相当的进去"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 11,
+      "snippet": "且丝往实验中水能倒进去"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 12,
+      "snippet": "但漏不出来也是一样的原理"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "在每个小格子里"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "表面着理能稳定项念起伏"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "锐利看到不一定性被暗物住的"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 10,
+      "snippet": "大气就能把水稳稳托住"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 4,
+      "snippet": "我误到了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 8,
+      "snippet": "我就像这个铁色了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 3,
+      "snippet": "这么说"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "虽然我平时漏洞摆出"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "但还好我抗日工作也比较水"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "最后他不下来"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "问答钩子「那我问你」后换木板为白纸，用气压差引出水面托水实验。",
+      "patterns": [
+        "问答开场",
+        "材料替换钩子",
+        "气压差铺垫"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那我问你",
+          "note": "那我问你"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "把木板换成白纸",
+          "note": "木板换成白纸"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "导致气体略微膨胀",
+          "note": "气体略微膨胀"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "压力低于大气压",
+          "note": "压力低于大气压"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "白纸拿起→气压低于大气→水能流出；再转表面张力稳定凹面→临界直径实验→铁丝网同理。",
+      "patterns": [
+        "气压因果链",
+        "表面张力临界",
+        "铁丝网类推"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "水,水就能流出,这就是小学二年纪学部的",
+          "note": "水就能流出"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "但滚月粗,表面张立效果越弱,准拉不回来了",
+          "note": "表面张立效果越弱"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "告诉我明界直径是1厘米",
+          "note": "明界直径是1厘米"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但漏不出来也是一样的原理",
+          "note": "漏不出来也是一样"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "paper_pressure_hook",
+          "note": "白纸替换与气压差致出水"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "surface_tension_ideal",
+          "note": "理想凹面与表面张力拉回"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "critical_diameter_test",
+          "note": "理论1cm vs 实测1.2-1.4管径"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "function": "wire_mesh_analogy",
+          "note": "铁丝网格子稳定凹面同理"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "self_roast_close",
+          "note": "自嘲漏洞收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用「那么」转入临界粗细提问，再以「且丝往实验」类推铁丝网。",
+      "patterns": [
+        "那么提问转",
+        "实验类推转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "那么,这个临界粗细是多少?",
+          "note": "那么临界粗细"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "且丝往实验中水能倒进去",
+          "note": "且丝往实验中"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "理论1cm vs 实测1.2成功/1.3临界/1.4失败；理想大气托水 vs 扰动即垮。",
+      "patterns": [
+        "理论实测差",
+        "管径阶梯对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "告诉我明界直径是1厘米",
+          "note": "明界直径是1厘米"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "已经以下的习管都能成功",
+          "note": "以下的习管都能成功"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "1.4厘米以上的习管还就不行了",
+          "note": "1.4以上还就不行"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "理论和实际30%的午茶",
+          "note": "理论和实际30%"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场「那我问你」+中段「临界粗细是多少」推动实验验证。",
+      "patterns": [
+        "开场设问",
+        "临界提问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那我问你",
+          "note": "那我问你"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "那么,这个临界粗细是多少?",
+          "note": "临界粗细是多少"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "吸管直径阶梯实测 + 铁丝网小格子表面张力稳定作为同构例。",
+      "patterns": [
+        "管径阶梯例",
+        "铁丝网格子例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "我要找到了1堆习管",
+          "note": "找到了1堆习管"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "在每个小格子里",
+          "note": "在每个小格子里"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "大气就能把水稳稳托住",
+          "note": "大气就能把水托住"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "瑞利-泰勒不稳定性/表面张力抽象概念落地为管径厘米数与涂涂水面手势。",
+      "patterns": [
+        "概念→厘米数",
+        "手势具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "锐利态略不稳定性",
+          "note": "锐利态略不稳定性"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "告诉我明界直径是1厘米",
+          "note": "直径是1厘米"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "水面下涂涂涂"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「色不眼中这相当的进去」认可误差；「还就不行了」对超临界管径下硬结论。",
+      "patterns": [
+        "误差认可判断",
+        "超临界否决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "1.4厘米以上的习管还就不行了",
+          "note": "还就不行了"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "色不眼中这相当的进去",
+          "note": "相当的进去"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "结尾自嘲「平时漏洞摆出」但抗日工作也「比较水」，用双关承认表达瑕疵。",
+      "patterns": [
+        "自嘲漏洞",
+        "双关收口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "我误到了",
+          "note": "我误到了"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "虽然我平时漏洞摆出",
+          "note": "平时漏洞摆出"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "抗日工作也比较水"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "原理短句快切→涂涂拟声拖长→管径阶梯报数加速→自嘲慢收。",
+      "patterns": [
+        "短句快切",
+        "拟声拖长",
+        "报数加速",
+        "自嘲慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "压力低于大气压",
+          "note": "压力低于大气压"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "涂涂涂涂涂"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "1.3厘米有时成功有时失败",
+          "note": "有时成功有时失败"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "最后他不下来",
+          "note": "最后他不下来"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "水,水"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "涂涂涂"
+        },
+        {
+          "type": "discourse",
+          "form": "那么"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "水,水就能流出,这就是小学二年纪学部的",
+          "note": "水水重复"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "涂涂拟声填充"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "那么,这个临界粗细是多少?",
+          "note": "那么话语标记"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇设问→原理冷静→实验兴奋报数→自嘲轻松落地。",
+      "patterns": [
+        "好奇",
+        "冷静原理",
+        "报数兴奋",
+        "自嘲轻松"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那我问你",
+          "note": "问你"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "夜面压强复等于大气",
+          "note": "压强复等于大气"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "10侧的明界直径是1.3厘米",
+          "note": "1.3厘米"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "虽然我平时漏洞摆出",
+          "note": "漏洞摆出"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "铁丝网托水回扣标题问题，自嘲「比较水」双关收束。",
+      "patterns": [
+        "回扣铁丝网",
+        "双关收口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "大气就能把水稳稳托住",
+          "note": "大气托住"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "我就像这个铁色了",
+          "note": "就像这个铁色了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "也比较水"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无明显订阅CTA，以自嘲金句收尾替代行动号召。",
+      "patterns": [
+        "无硬CTA",
+        "金句代CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "也比较水"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "最后他不下来",
+          "note": "最后他不下来"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR乱码夹杂、涂涂拟声、口语「还就不行了」、自嘲双关，非模板科普腔。",
+      "patterns": [
+        "ASR毛刺",
+        "拟声",
+        "口语硬判",
+        "自嘲双关"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "拿起来后,夜面的清微 微下醉",
+          "note": "夜面清微乱码"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "涂涂涂"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "1.4厘米以上的习管还就不行了",
+          "note": "还就不行了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "比较水"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损坏（锐利态/习管/明界）；中段涂涂失控；物理术语听写失真。",
+      "patterns": [
+        "ASR损坏",
+        "拟声失控",
+        "术语失真"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "锐利态略不稳定性",
+          "note": "锐利态略"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "这块水面上涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "涂涂超长"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我要找到了1堆习管",
+          "note": "习管"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开「哥们刘子学意通计算」→我找吸管实测→报告30%误差，暴露验证过程。",
+      "patterns": [
+        "朋友计算",
+        "实测对照",
+        "误差坦白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我哥们的刘子学意通计算猛如虎",
+          "note": "计算猛如虎"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我要找到了1堆习管",
+          "note": "找到了习管"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "理论和实际30%的午茶",
+          "note": "30%午茶"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「那我问你」把观众当成小学科学课同学，共验临界直径。",
+      "patterns": [
+        "同学式提问",
+        "共验实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那我问你",
+          "note": "那我问你"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "水,水就能流出,这就是小学二年纪学部的",
+          "note": "小学二年纪"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "那么,这个临界粗细是多少?",
+          "note": "临界粗细是多少"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "1.2/1.3/1.4厘米管径、铁丝网小格子、白纸替换木板。",
+      "patterns": [
+        "厘米管径",
+        "铁丝网格",
+        "白纸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "把木板换成白纸",
+          "note": "换成白纸"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "直径1.2厘米",
+          "note": "直径1.2厘米"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "在每个小格子里",
+          "note": "每个小格子里"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低压钩子→中段原理高密→管径数据峰→结尾低密自嘲。",
+      "patterns": [
+        "低压开",
+        "原理密",
+        "数据峰",
+        "低密收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "把木板换成白纸",
+          "note": "白纸"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "夜面压强复等于大气",
+          "note": "压强复等于"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "理论和实际30%的午茶",
+          "note": "30%午茶"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "虽然我平时漏洞摆出",
+          "note": "漏洞摆出"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问答短句→因果链→拟声中断→数据列举→类推→自嘲，口语碎片流。",
+      "patterns": [
+        "短句因果",
+        "拟声中断",
+        "列举流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "导致气体略微膨胀",
+          "note": "气体膨胀"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这一块水面下涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂涂",
+          "note": "涂涂中断"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "已经以下的习管都能成功",
+          "note": "都能成功"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式「小学二年级学过」降维+哥们计算猛如虎+自嘲漏水双关。",
+      "patterns": [
+        "降维小学梗",
+        "哥们计算",
+        "漏水双关"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "水,水就能流出,这就是小学二年纪学部的",
+          "note": "小学二年纪"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "我哥们的刘子学意通计算猛如虎",
+          "note": "猛如虎"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "比较水"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "铁丝网托水反差画面 + 1.3厘米临界数字 + 「比较水」双关。",
+      "patterns": [
+        "反差画面",
+        "临界数字",
+        "双关金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "告诉我明界直径是1厘米",
+          "note": "1厘米"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "大气就能把水稳稳托住",
+          "note": "托住"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "但还好我抗日工作也比较水",
+          "note": "比较水"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "设问→原理→临界实测→同构类推骨架可改编观宇科普口播；需重录清晰术语并删ASR乱码段。",
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "那么,这个临界粗细是多少?",
+          "note": "临界提问可迁"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "理论和实际30%的午茶",
+          "note": "误差坦白可迁"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但漏不出来也是一样的原理",
+          "note": "同理类推可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s17",
+    "s20",
+    "s30",
+    "s3",
+    "s4",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40"
+  ],
+  "fields_complete_25": true
+}

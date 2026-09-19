@@ -1,0 +1,1371 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_OuBZ2m2DRYI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=OuBZ2m2DRYI",
+  "source_sha256": "856168aaffddbb204936943be37e714c8338e4d547a16e8bc5665a94bd0c2173",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 111,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 17,
+      "snippet": "我剛剛在現場，看完了wwdc發佈會"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "讓我用最快的速度"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 18,
+      "snippet": "跟大家說一下最有用的 10 個新功能"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 11,
+      "snippet": "但說實話我離舞台太遠了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "所以我其實還是在電腦上看的"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "一、大模型Siri"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "今年的Siri，外觀上"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 9,
+      "snippet": "從樸素內斂的玻璃球"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "變成了炫酷的RGB跑馬燈"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "內在里，它可以理解更加複雜的指令"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 16,
+      "snippet": "還能根據你的信息和當前所處的場景"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "給出個性化的回復"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "比如現在問，我媽媽的航班幾點到？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": "Siri會給你找個網頁"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 16,
+      "snippet": "而未來的Siri，則可以結合郵件"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 13,
+      "snippet": "短信里的信息精准給出回復："
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 6,
+      "snippet": "二、寫作工具"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "這是系統級的AI寫作工具"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "可以潤色你的文案"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "只需選中一段文本"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "點擊邊上的小圖標"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "選擇重寫，就可以生成更得體的文本"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "它還可以選擇不同的語言風格"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "校對則會幫助你找出筆誤"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "同樣點擊邊上的小圖標"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 16,
+      "snippet": "選擇校對，就可以幫你梳理句法問題"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "給出對應建議和修改"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 15,
+      "snippet": "蘋果還原生接入了ChatGPT"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "在經過你的同意後"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "就可以回答更難的問題"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "或者幫你擴寫內容"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "三、圖像生成"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "大熱的AI作圖自然也沒落下"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 12,
+      "snippet": "簡單選擇場景、人物、風格"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "就可以進行圖像生成"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 16,
+      "snippet": "當然，你也可以選擇直接輸入提示詞"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "進一步優化"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "你還能用Genmoji功能"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 13,
+      "snippet": "生成和某人很像的emoji"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 16,
+      "snippet": "而在備忘錄里，通過分析手繪和文字"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 16,
+      "snippet": "則可以直接把草圖轉換為精美的圖片"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "四、照片編輯"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "好用的AI消除"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 14,
+      "snippet": "終於也出現在了iPhone上"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 6,
+      "snippet": "通過簡單圈選"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "你可以將畫面里不需要的內容消除"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 21,
+      "snippet": "比較有意思的是這個功能會自動識別出人物輪廓"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "圈選時會從主體後面划過去"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 12,
+      "snippet": "這樣不至於把自己也消除掉"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "那實況照片能不能修復呢？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "Siri讀出來+梗圖："
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 17,
+      "snippet": "以上這些功能，被賦予了一個新名字："
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 18,
+      "snippet": "Apple Intelligence"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "簡稱，AI"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 17,
+      "snippet": "這個AI不是人工智能，而是蘋果智能"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 21,
+      "snippet": "僅iPhone 15 Pro以上的手機支持"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 12,
+      "snippet": "對於Mac和iPad來說"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "則必須是M芯片"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 13,
+      "snippet": "另外這些功能目前還不能體驗"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "預計今夏上線"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "僅支持英語"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 16,
+      "snippet": "而其他語言得等到明年才會陸續推出"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "五、主屏幕圖標自定義"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 17,
+      "snippet": "AI之外，iOS還迎來了重大更新："
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 14,
+      "snippet": "主屏幕的圖標，可以隨便擺了！"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 17,
+      "snippet": "沒錯，之前iOS是不能空著擺圖標的"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "現在終於可以了！"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 27,
+      "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 16,
+      "snippet": "除此之外，你還能自定義圖標的顏色"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 16,
+      "snippet": "比如把所有App，都弄成一個色的"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 6,
+      "snippet": "六、遊戲模式"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 11,
+      "snippet": "蘋果終於有遊戲模式了！"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "在遊戲模式下"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 15,
+      "snippet": "iPhone會控制後台應用活動"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 10,
+      "snippet": "留出更多的性能給遊戲"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 13,
+      "snippet": "還會提升無線設備的響應速度"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 14,
+      "snippet": "看來除了Siri的RGB之外"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 14,
+      "snippet": "iPhone的內在也更電競了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 13,
+      "snippet": "七、iPad OS的計算器"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 6,
+      "snippet": "史詩級更新！"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "在上市14年後"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 22,
+      "snippet": "在Apple Watch上，智能疊放更智能了"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 12,
+      "snippet": "各類小組件會根據使用場景"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 8,
+      "snippet": "在需要時自動出現"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 14,
+      "snippet": "例如快下雨時有降水預測小組件"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 16,
+      "snippet": "出國時有翻譯小組件，使用聽寫功能"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 14,
+      "snippet": "可以直接在手腕上看到翻譯內容"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 16,
+      "snippet": "九、macOS iPhone鏡像"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 16,
+      "snippet": "Mac終於可以控制iPhone了"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 19,
+      "snippet": "手機畫面可以以鏡像的形式顯示在mac上"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 14,
+      "snippet": "然後用mac的鼠標和鍵盤控制"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 15,
+      "snippet": "非常蘋果的是鏡像還保留了靈動島"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 19,
+      "snippet": "iPhone的通知也可以顯示在mac上"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 17,
+      "snippet": "點進去就可以直接轉跳到手機界面操作"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 21,
+      "snippet": "電腦的上的文件也可以直接拖進手機的APP中"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 4,
+      "snippet": "非常方便"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 16,
+      "snippet": "十、Vision Pro中國上市"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 6,
+      "snippet": "這不是個功能"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 22,
+      "snippet": "但是蘋果公佈了Vision Pro的國行價格"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 6,
+      "snippet": "29999元"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 15,
+      "snippet": "6月14日開始預定，28日發售"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 9,
+      "snippet": "挺貴的，而且還限購"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 20,
+      "snippet": "國行vision pro里會支持哪些應用"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 14,
+      "snippet": "又能看哪些平台的視頻內容呢？"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 23,
+      "snippet": "到時我們還會做一期國行Vision Pro上手"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 8,
+      "snippet": "在那個視頻里細聊"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 23,
+      "snippet": "這就是今年 WWDC 我覺得最有用的十個功能啦"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 13,
+      "snippet": "如果大家還有什麼關注的功能"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 8,
+      "snippet": "歡迎在評論區交流"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 16,
+      "snippet": "如果你想更新系統後可以再回來看看"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 14,
+      "snippet": "也可以點個收藏，再見朋友們！"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "现场看完WWDC后用最快速度讲十个最有用新功能，并自嘲离舞台太远其实看电脑。",
+      "patterns": [
+        "现场时效钩",
+        "十功能预告",
+        "自嘲距离"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我剛剛在現場，看完了wwdc發佈會",
+          "note": "刚看完"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "跟大家說一下最有用的 10 個新功能",
+          "note": "十功能"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "但說實話我離舞台太遠了",
+          "note": "自嘲远"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "Siri大模型→写作/作图/消除→Apple Intelligence门槛→主屏图标/游戏/iPad计算器残段→Watch叠放→Mac镜像→Vision Pro国行。",
+      "patterns": [
+        "AI功能簇→门槛→系统体验→硬件上市"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一、大模型Siri",
+          "note": "Siri"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "Apple Intelligence",
+          "note": "AI品牌"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "门槛"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "Mac終於可以控制iPhone了",
+          "note": "镜像"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "29999元",
+          "note": "国行价"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "function": "hook_promise",
+          "note": "现场十功能承诺"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "ai_features",
+          "note": "Siri写作作图消除与AI门槛"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107"
+          ],
+          "function": "system_ux",
+          "note": "主屏游戏计算器残Watch Mac"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122"
+          ],
+          "function": "vision_cta",
+          "note": "Vision Pro与互动收"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "一/二/三编号推进；比如现在问；以上这些功能被赋予新名字；AI之外；看来除了。",
+      "patterns": [
+        "编号清单",
+        "比如场景",
+        "以上赋予名",
+        "AI之外"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一、大模型Siri",
+          "note": "编号一"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "比如現在問，我媽媽的航班幾點到？",
+          "note": "比如"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "以上這些功能，被賦予了一個新名字：",
+          "note": "赋予名"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "AI之外，iOS還迎來了重大更新：",
+          "note": "AI之外"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "现在Siri找网页vs未来结合邮件短信；玻璃球vs RGB跑马灯；10年前安卓已有图标摆放。",
+      "patterns": [
+        "现在vs未来Siri",
+        "外观前后",
+        "安卓早有"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "從樸素內斂的玻璃球",
+          "note": "旧外观"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "變成了炫酷的RGB跑馬燈",
+          "note": "新外观"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "Siri會給你找個網頁",
+          "note": "现在弱"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "而未來的Siri，則可以結合郵件",
+          "note": "未来强"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話",
+          "note": "安卓早有"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "妈妈航班几点到示例问；实况照片能不能修复；国行支持哪些应用/视频。",
+      "patterns": [
+        "场景示例问",
+        "修复能否",
+        "国行内容问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "比如現在問，我媽媽的航班幾點到？",
+          "note": "航班问"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "那實況照片能不能修復呢？",
+          "note": "修复问"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "國行vision pro里會支持哪些應用",
+          "note": "国行问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "航班场景演示Siri；圈选消除不伤主体；快下雨降水组件；出国翻译组件。",
+      "patterns": [
+        "航班演示",
+        "圈选消除",
+        "场景组件"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "比如現在問，我媽媽的航班幾點到？",
+          "note": "航班"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "圈選時會從主體後面划過去",
+          "note": "圈选"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "例如快下雨時有降水預測小組件",
+          "note": "降水"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "出國時有翻譯小組件，使用聽寫功能",
+          "note": "翻译"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "Apple Intelligence抽象品牌落到15 Pro/M芯片/英语/今夏；镜像保留灵动岛。",
+      "patterns": [
+        "机型门槛",
+        "语言时间",
+        "灵动岛"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "15Pro"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "僅支持英語",
+          "note": "英语"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "非常蘋果的是鏡像還保留了靈動島",
+          "note": "灵动岛"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "最有用、史诗级更新、大更新带安卓讽刺、挺贵且限购。",
+      "patterns": [
+        "最有用",
+        "史诗级",
+        "安卓讽刺",
+        "挺贵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "跟大家說一下最有用的 10 個新功能",
+          "note": "最有用"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "史詩級更新！",
+          "note": "史诗"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話",
+          "note": "讽刺"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "挺貴的，而且還限購",
+          "note": "挺贵"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "现场→其实电脑看的；这不是个功能但报国行价；AI不是人工智能是苹果智能。",
+      "patterns": [
+        "现场修正",
+        "非功能声明",
+        "AI释义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "所以我其實還是在電腦上看的",
+          "note": "电脑看"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "這個AI不是人工智能，而是蘋果智能",
+          "note": "释义"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "這不是個功能",
+          "note": "非功能"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "编号短标题→功能说明中速→门槛限制连发加速→结尾互动放慢。",
+      "patterns": [
+        "编号顿挫",
+        "门槛连发",
+        "互动放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "二、寫作工具",
+          "note": "编号"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "另外這些功能目前還不能體驗",
+          "note": "门槛"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "而其他語言得等到明年才會陸續推出",
+          "note": "连发"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "也可以點個收藏，再見朋友們！",
+          "note": "放慢收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "现场兴奋→功能种草→门槛失望冷静→安卓讽刺乐→国行贵无奈→友好再见。",
+      "patterns": [
+        "兴奋→种草→冷静→讽刺→友好"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我剛剛在現場，看完了wwdc發佈會",
+          "note": "兴奋"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話",
+          "note": "讽刺乐"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "挺貴的，而且還限購",
+          "note": "无奈"
+        },
+        {
+          "sentence_id": "s128",
+          "snippet": "也可以點個收藏，再見朋友們！",
+          "note": "友好"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开头十个最有用→结尾这就是十个功能啦+评论收藏再见。",
+      "patterns": [
+        "十功能首尾",
+        "收藏再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "跟大家說一下最有用的 10 個新功能",
+          "note": "开头十"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "這就是今年 WWDC 我覺得最有用的十個功能啦",
+          "note": "收十"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "也可以點個收藏，再見朋友們！",
+          "note": "再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "评论区交流+收藏+预告国行Vision Pro上手+再见朋友们。",
+      "patterns": [
+        "评论",
+        "收藏",
+        "下期预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s120",
+          "snippet": "歡迎在評論區交流",
+          "note": "评论"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "到時我們還會做一期國行Vision Pro上手",
+          "note": "预告"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "也可以點個收藏，再見朋友們！",
+          "note": "收藏再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "自嘲离舞台太远、安卓十年前用过、Siri读梗图插入，个人吐槽毛边。",
+      "patterns": [
+        "自嘲距离",
+        "安卓吐槽",
+        "梗图插入"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "但說實話我離舞台太遠了",
+          "note": "自嘲"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話",
+          "note": "安卓"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "Siri讀出來+梗圖：",
+          "note": "梗图"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断缺计算器细节(s81后跳s93)；十功能不完整；部分像提词稿少现场反应。",
+      "patterns": [
+        "截断缺段",
+        "清单不全"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s81",
+          "snippet": "在上市14年後",
+          "note": "计算器截断"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "在Apple Watch上，智能疊放更智能了",
+          "note": "跳号"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场远→改电脑看的坦白；AI命名释义；功能后立刻报机型/语言限制。",
+      "patterns": [
+        "坦白观看方式",
+        "门槛紧跟功能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "所以我其實還是在電腦上看的",
+          "note": "坦白"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "這個AI不是人工智能，而是蘋果智能",
+          "note": "释义"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "门槛"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当想快速获知WWDC要点的果粉，用跟大家说/欢迎评论拉近。",
+      "patterns": [
+        "快速要点受众",
+        "跟大家说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "跟大家說一下最有用的 10 個新功能",
+          "note": "跟大家"
+        },
+        {
+          "sentence_id": "s119",
+          "snippet": "如果大家還有什麼關注的功能",
+          "note": "如果大家"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "RGB跑马灯、ChatGPT接入、15 Pro/M芯片、29999、6月14订28日发售。",
+      "patterns": [
+        "RGB",
+        "ChatGPT",
+        "机型",
+        "价格日期"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "變成了炫酷的RGB跑馬燈",
+          "note": "RGB"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "蘋果還原生接入了ChatGPT",
+          "note": "ChatGPT"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "29999元",
+          "note": "价格"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "6月14日開始預定，28日發售",
+          "note": "日期"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密→AI功能段高密→门槛中密→系统功能中密→价格低密收。",
+      "patterns": [
+        "功能高密",
+        "门槛中",
+        "价格低收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "內在里，它可以理解更加複雜的指令",
+          "note": "功能密"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "门槛"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "29999元",
+          "note": "价格"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "承诺→编号功能块→品牌命名夹注→系统块→硬件价→CTA。",
+      "patterns": [
+        "编号块",
+        "夹注门槛",
+        "CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一、大模型Siri",
+          "note": "块起"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "以上這些功能，被賦予了一個新名字：",
+          "note": "夹注"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "這就是今年 WWDC 我覺得最有用的十個功能啦",
+          "note": "收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理性测评分发型：快速盘点+轻讽刺，不神化苹果更新。",
+      "patterns": [
+        "盘点型",
+        "轻讽刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "這可真是個大更新——如果我10年前沒有在安卓上用過的話",
+          "note": "轻讽"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "挺貴的，而且還限購",
+          "note": "冷静价"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "十个最有用、Apple Intelligence简称AI、15Pro门槛、29999国行。",
+      "patterns": [
+        "十功能",
+        "AI简称",
+        "15Pro",
+        "29999"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s53",
+          "snippet": "Apple Intelligence",
+          "note": "品牌"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "簡稱，AI",
+          "note": "简称"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "门槛"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "29999元",
+          "note": "价"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "发布会十功能清单+门槛夹注结构可改编数码快讯，需补缺段并加强现场判断。",
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "跟大家說一下最有用的 10 個新功能",
+          "note": "清单钩"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "僅iPhone 15 Pro以上的手機支持",
+          "note": "门槛"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "這就是今年 WWDC 我覺得最有用的十個功能啦",
+          "note": "闭环"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s28",
+    "s48",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s59",
+    "s61",
+    "s62",
+    "s64",
+    "s68",
+    "s80",
+    "s81",
+    "s93",
+    "s96",
+    "s97",
+    "s100",
+    "s103",
+    "s109",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s116",
+    "s118",
+    "s119",
+    "s120",
+    "s122"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,984 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_kHq0zFixGYQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=kHq0zFixGYQ",
+  "source_sha256": "b770c13958216022b70e0a168a040a0a0489215dcd8db9884cda2981ece2d1ba",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 52,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 4,
+      "snippet": "每次都夕"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 5,
+      "snippet": "彭丝 彭丝"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 1,
+      "snippet": "�"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "彭 彭"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "彌製"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 3,
+      "snippet": ", 彭"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 1,
+      "snippet": "彌"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "彭, 彭"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 3,
+      "snippet": "�ry"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 12,
+      "snippet": "� Commission"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 1,
+      "snippet": "彭"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "诛功灯 并不是"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "究竟是"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 27,
+      "snippet": "说 说 说 说 说 说 说 说 说 说 说 说 说 说"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 7,
+      "snippet": "实际上闪穿了呀"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "只和苏道代基本不受电磁影响"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "但他们都想了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "所以电磁脉冲销"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 3,
+      "snippet": "也排除"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 10,
+      "snippet": "那正确的答案就只能兴"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 5,
+      "snippet": "不是真会啊"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "没错最有车能党就是铁盆"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 19,
+      "snippet": "受热说 铁盆新收光能转后一烦 受热膨胀"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 30,
+      "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "你有什么证据呢"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 16,
+      "snippet": "这一张A4 只上 答应了四个方法"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 16,
+      "snippet": "你一个比一个黑 我们来分别听一下"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 8,
+      "snippet": "听一下他们的声音"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 16,
+      "snippet": "啊 哈哈 哈哈 哈哈 哈哈 哈哈"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 99,
+      "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非常 非"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 1,
+      "snippet": ","
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "at  ."
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 3,
+      "snippet": "ate"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "开场以连续「彭」拟声模拟铁盆被闪光灯隔空敲响，先表演再解释。",
+      "patterns": [
+        "拟声表演开场",
+        "悬念先于原理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "彭丝 彭丝",
+          "note": "彭丝拟声"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "彭",
+          "note": "单声彭"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "诛功灯 并不是",
+          "note": "闪光灯切入"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "排除电磁影响→锁定光声效应：铁盆吸光受热膨胀发声→黑白对照实验验证。",
+      "patterns": [
+        "排除法→机制",
+        "光声命名",
+        "黑白验证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "只和苏道代基本不受电磁影响",
+          "note": "不受电磁"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "也排除",
+          "note": "电磁排除"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "受热说 铁盆新收光能转后一烦 受热膨胀",
+          "note": "受热膨胀"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "光声效应"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "黑响白静"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "sound_demo",
+          "note": "连续彭声表演营造隔空敲盆奇观"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43"
+          ],
+          "function": "mechanism_reveal",
+          "note": "排除电磁→光能转热膨胀→光声效应"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52"
+          ],
+          "function": "black_white_proof",
+          "note": "A4四色实验听声验证吸光差异"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「究竟是」「所以」「那正确的答案就只能」「你有什么证据呢」推进排除与求证。",
+      "patterns": [
+        "究竟是求解",
+        "所以排除",
+        "证据追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "究竟是",
+          "note": "究竟是"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "所以电磁脉冲销",
+          "note": "所以电磁"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "那正确的答案就只能兴",
+          "note": "答案只能"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "你有什么证据呢",
+          "note": "证据呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "电磁脉冲假说vs光声真因；白处几乎无声vs黑处极响。",
+      "patterns": [
+        "假说排除对比",
+        "黑白吸光对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "只和苏道代基本不受电磁影响",
+          "note": "不受电磁"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "所以电磁脉冲销",
+          "note": "电磁脉冲"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "白静黑响"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用「究竟是」「你有什么证据呢」把观众从奇观拉进证伪与实证。",
+      "patterns": [
+        "究竟求解问",
+        "证据追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "究竟是",
+          "note": "究竟是"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "你有什么证据呢",
+          "note": "证据呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "A4纸涂四色听声实验，把光声效应做成可听的课堂演示。",
+      "patterns": [
+        "四色纸实验",
+        "听声具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "这一张A4 只上 答应了四个方法",
+          "note": "四个方法"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "你一个比一个黑 我们来分别听一下",
+          "note": "分别听"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "听一下他们的声音",
+          "note": "听声音"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "抽象「光声效应」落到铁盆受热膨胀与黑纸更响的可听结果。",
+      "patterns": [
+        "命名→受热膨胀",
+        "原理→黑白听感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "受热说 铁盆新收光能转后一烦 受热膨胀",
+          "note": "受热膨胀"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "光声效应"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "黑非常响"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言「也排除」「正确答案就只能」「没错最有车能党就是铁盆」锁定结论。",
+      "patterns": [
+        "排除断语",
+        "只能断语",
+        "没错确认"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "也排除",
+          "note": "也排除"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "那正确的答案就只能兴",
+          "note": "只能"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "没错最有车能党就是铁盆",
+          "note": "没错铁盆"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先提电磁脉冲再公开排除，展示纠偏路径而非一次到位。",
+      "patterns": [
+        "假说后排除"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "所以电磁脉冲销",
+          "note": "电磁脉冲"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "也排除",
+          "note": "排除"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "前段彭声密集节奏鼓点→中段讲解减速→黑处「非常」连环加速高潮。",
+      "patterns": [
+        "拟声鼓点",
+        "讲解减速",
+        "非常加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "彭 彭",
+          "note": "彭彭"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "小学光声"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "非常连环"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "onomatopoeia_repeat",
+          "form": "彭"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "说说说"
+        },
+        {
+          "type": "laughter",
+          "form": "哈哈"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "彭丝 彭丝",
+          "note": "彭丝"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "说 说 说 说 说 说 说 说 说 说 说 说 说 说",
+          "note": "说重复"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "啊 哈哈 哈哈 哈哈 哈哈 哈哈",
+          "note": "哈哈"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "奇观兴奋→求解紧张→排除释然→黑响爆笑高潮。",
+      "patterns": [
+        "奇观→求解→释然→爆笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "彭丝 彭丝",
+          "note": "奇观彭"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "究竟是",
+          "note": "紧张求解"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "也排除",
+          "note": "排除释然"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "啊 哈哈 哈哈 哈哈 哈哈 哈哈",
+          "note": "哈哈"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从隔空敲盆回到小学二年级光声效应课堂记忆，奇观闭环为知识点。",
+      "patterns": [
+        "奇观回课堂命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "小学光声"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "黑白验证"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无明显关注/点赞硬CTA，以实验听声邀请代替转化。",
+      "patterns": [
+        "听声邀请软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "你一个比一个黑 我们来分别听一下",
+          "note": "分别听"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "听一下他们的声音",
+          "note": "听声音"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "超长「彭」「非常」重复与笑声，ASR噪声夹杂，不像平滑生成稿。",
+      "patterns": [
+        "拟声过载",
+        "非常连环",
+        "笑声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "彭, 彭",
+          "note": "彭彭"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "啊 哈哈 哈哈 哈哈 哈哈 哈哈",
+          "note": "哈哈"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "非常过载"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "前30句ASR几乎纯拟声/乱码，原理句也有错别字，信息检索成本高。",
+      "patterns": [
+        "开场ASR崩坏",
+        "错字干扰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "�",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "�ry",
+          "note": "乱码ry"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "诛功灯 并不是",
+          "note": "诛功灯错字"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显排除电磁→只剩光声的推理链，再主动要证据并做实验。",
+      "patterns": [
+        "排除推理外露",
+        "要证据再实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "只和苏道代基本不受电磁影响",
+          "note": "不受电磁"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "那正确的答案就只能兴",
+          "note": "只能"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "你有什么证据呢",
+          "note": "证据"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当课堂同学：小学知识回顾+「我们来分别听一下」。",
+      "patterns": [
+        "课堂同学位",
+        "一起听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "小学二年"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "你一个比一个黑 我们来分别听一下",
+          "note": "我们听"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "铁盆、闪光灯、A4四色、光声效应、黑响白静。",
+      "patterns": [
+        "铁盆锚",
+        "A4四色",
+        "光声名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "没错最有车能党就是铁盆",
+          "note": "铁盆"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这一张A4 只上 答应了四个方法",
+          "note": "A4四色"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "光声"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "前段低密拟声→中段机制中密→黑白验证句高密重复形容词。",
+      "patterns": [
+        "低拟声→中机制→高验证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "彭",
+          "note": "低密彭"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "受热说 铁盆新收光能转后一烦 受热膨胀",
+          "note": "机制中密"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "高密非常"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短拟声碎片连打→中长说明句→「非常」排比收束。",
+      "patterns": [
+        "碎片拟声",
+        "说明句",
+        "排比收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "彭 彭",
+          "note": "碎片"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "说明"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "排比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导式「先整活再科普」：用夸张听感证明严肃物理名。",
+      "patterns": [
+        "整活科普",
+        "听感证伪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "没错最有车能党就是铁盆",
+          "note": "铁盆确认"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "课堂命名"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "闪光灯敲铁盆；光声效应；白几乎没声/黑非常响。",
+      "patterns": [
+        "隔空敲盆",
+        "光声名",
+        "黑白听感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "没错最有车能党就是铁盆",
+          "note": "铁盆"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "光声"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "黑白"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「奇观表演→排除假说→课堂命名→对照实验」可改编为观宇科技口播骨架，需重录清晰旁白因ASR不可直接用。",
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "也排除",
+          "note": "排除"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "这凭张便行 发出的声音 这就是我们小学二年计学过的 光声小音",
+          "note": "命名"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "白癌的地方 几乎没选 黑的地方 非常 非常 非常 非常 非常 非常 非常 非常 ",
+          "note": "对照"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52"
+  ],
+  "fields_complete_25": true
+}

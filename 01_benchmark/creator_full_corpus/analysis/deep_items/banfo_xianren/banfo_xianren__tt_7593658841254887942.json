@@ -1,0 +1,1229 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7593658841254887942",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7593658841254887942/",
+  "source_sha256": "6f572e8806f166b4c651c3d9237095293afa500ae381f86834a5e28187f87933",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 111,
+  "sentences_index": [
+    {
+      "sentence_id": "s1"
+    },
+    {
+      "sentence_id": "s2"
+    },
+    {
+      "sentence_id": "s3"
+    },
+    {
+      "sentence_id": "s4"
+    },
+    {
+      "sentence_id": "s5"
+    },
+    {
+      "sentence_id": "s6"
+    },
+    {
+      "sentence_id": "s7"
+    },
+    {
+      "sentence_id": "s8"
+    },
+    {
+      "sentence_id": "s9"
+    },
+    {
+      "sentence_id": "s10"
+    },
+    {
+      "sentence_id": "s11"
+    },
+    {
+      "sentence_id": "s12"
+    },
+    {
+      "sentence_id": "s13"
+    },
+    {
+      "sentence_id": "s14"
+    },
+    {
+      "sentence_id": "s15"
+    },
+    {
+      "sentence_id": "s16"
+    },
+    {
+      "sentence_id": "s17"
+    },
+    {
+      "sentence_id": "s18"
+    },
+    {
+      "sentence_id": "s19"
+    },
+    {
+      "sentence_id": "s20"
+    },
+    {
+      "sentence_id": "s21"
+    },
+    {
+      "sentence_id": "s22"
+    },
+    {
+      "sentence_id": "s23"
+    },
+    {
+      "sentence_id": "s24"
+    },
+    {
+      "sentence_id": "s25"
+    },
+    {
+      "sentence_id": "s26"
+    },
+    {
+      "sentence_id": "s27"
+    },
+    {
+      "sentence_id": "s28"
+    },
+    {
+      "sentence_id": "s29"
+    },
+    {
+      "sentence_id": "s30"
+    },
+    {
+      "sentence_id": "s31"
+    },
+    {
+      "sentence_id": "s32"
+    },
+    {
+      "sentence_id": "s33"
+    },
+    {
+      "sentence_id": "s34"
+    },
+    {
+      "sentence_id": "s35"
+    },
+    {
+      "sentence_id": "s36"
+    },
+    {
+      "sentence_id": "s37"
+    },
+    {
+      "sentence_id": "s38"
+    },
+    {
+      "sentence_id": "s39"
+    },
+    {
+      "sentence_id": "s40"
+    },
+    {
+      "sentence_id": "s41"
+    },
+    {
+      "sentence_id": "s42"
+    },
+    {
+      "sentence_id": "s43"
+    },
+    {
+      "sentence_id": "s44"
+    },
+    {
+      "sentence_id": "s45"
+    },
+    {
+      "sentence_id": "s46"
+    },
+    {
+      "sentence_id": "s47"
+    },
+    {
+      "sentence_id": "s48"
+    },
+    {
+      "sentence_id": "s49"
+    },
+    {
+      "sentence_id": "s50"
+    },
+    {
+      "sentence_id": "s51"
+    },
+    {
+      "sentence_id": "s52"
+    },
+    {
+      "sentence_id": "s53"
+    },
+    {
+      "sentence_id": "s54"
+    },
+    {
+      "sentence_id": "s55"
+    },
+    {
+      "sentence_id": "s56"
+    },
+    {
+      "sentence_id": "s57"
+    },
+    {
+      "sentence_id": "s58"
+    },
+    {
+      "sentence_id": "s59"
+    },
+    {
+      "sentence_id": "s60"
+    },
+    {
+      "sentence_id": "s61"
+    },
+    {
+      "sentence_id": "s62"
+    },
+    {
+      "sentence_id": "s63"
+    },
+    {
+      "sentence_id": "s64"
+    },
+    {
+      "sentence_id": "s65"
+    },
+    {
+      "sentence_id": "s66"
+    },
+    {
+      "sentence_id": "s67"
+    },
+    {
+      "sentence_id": "s68"
+    },
+    {
+      "sentence_id": "s69"
+    },
+    {
+      "sentence_id": "s70"
+    },
+    {
+      "sentence_id": "s71"
+    },
+    {
+      "sentence_id": "s72"
+    },
+    {
+      "sentence_id": "s73"
+    },
+    {
+      "sentence_id": "s74"
+    },
+    {
+      "sentence_id": "s75"
+    },
+    {
+      "sentence_id": "s76"
+    },
+    {
+      "sentence_id": "s77"
+    },
+    {
+      "sentence_id": "s78"
+    },
+    {
+      "sentence_id": "s79"
+    },
+    {
+      "sentence_id": "s80"
+    },
+    {
+      "sentence_id": "s81"
+    },
+    {
+      "sentence_id": "s93"
+    },
+    {
+      "sentence_id": "s94"
+    },
+    {
+      "sentence_id": "s95"
+    },
+    {
+      "sentence_id": "s96"
+    },
+    {
+      "sentence_id": "s97"
+    },
+    {
+      "sentence_id": "s98"
+    },
+    {
+      "sentence_id": "s99"
+    },
+    {
+      "sentence_id": "s100"
+    },
+    {
+      "sentence_id": "s101"
+    },
+    {
+      "sentence_id": "s102"
+    },
+    {
+      "sentence_id": "s103"
+    },
+    {
+      "sentence_id": "s104"
+    },
+    {
+      "sentence_id": "s105"
+    },
+    {
+      "sentence_id": "s106"
+    },
+    {
+      "sentence_id": "s107"
+    },
+    {
+      "sentence_id": "s108"
+    },
+    {
+      "sentence_id": "s109"
+    },
+    {
+      "sentence_id": "s110"
+    },
+    {
+      "sentence_id": "s111"
+    },
+    {
+      "sentence_id": "s112"
+    },
+    {
+      "sentence_id": "s113"
+    },
+    {
+      "sentence_id": "s114"
+    },
+    {
+      "sentence_id": "s115"
+    },
+    {
+      "sentence_id": "s116"
+    },
+    {
+      "sentence_id": "s117"
+    },
+    {
+      "sentence_id": "s118"
+    },
+    {
+      "sentence_id": "s119"
+    },
+    {
+      "sentence_id": "s120"
+    },
+    {
+      "sentence_id": "s121"
+    },
+    {
+      "sentence_id": "s122"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "朋友问日子难怎么办，直接答熬着撑着活着就是一切，拒绝成功学鸡汤。",
+      "patterns": [
+        "提问接住",
+        "熬着三字诀",
+        "拒鸡汤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "很多朋友会问现在日子觉得过得不咋地，好累好难，要怎么办。",
+          "note": "朋友提问"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我没啥办法，我自己的经验就是熬着，撑着，活着就是一切。",
+          "note": "熬着撑着"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我没法给你说出什么你一定会成功，什么你一定能成为更好的自己，什么努力就一定会成功",
+          "note": "拒成功学"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "成功不可控→仍要熬着试错→自曝读书生意写作三重失败→运气是熬出来的→20年邪火写作→无常世界继续熬。",
+      "patterns": [
+        "成功不可控",
+        "熬着试错",
+        "三重失败",
+        "熬出运气",
+        "20年邪火",
+        "无常续熬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这些完全不可控，很有可能熬到后面一场空。",
+          "note": "可能一场空"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "活下去，坚持活下去，不顾一切的活下去，熬着，并且在熬之余疯狂试错，试到你的版本的",
+          "note": "熬着试错"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "开垮两位数"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我再告诉你，这是熬出来的运气。",
+          "note": "熬出来的运气"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "熬了近20年"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "世界的真理，是“无常”。",
+          "note": "真理是无常"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "function": "拒鸡汤与熬着立论",
+          "note": "开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "读书与做生意失败自曝",
+          "note": "失败史1"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59"
+          ],
+          "function": "写作失败到熬出运气的心态",
+          "note": "失败史2+心态"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81"
+          ],
+          "function": "20年日更邪火与命运对赌",
+          "note": "方法论"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122"
+          ],
+          "function": "无常打脸与熬下去闭环",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "编号「1/2/3/4」；「说完读书说做生意」「然后说做自媒体」；「怎么办？不怎么办」。",
+      "patterns": [
+        "编号分段",
+        "话题切换口头禅",
+        "怎么办循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "说完读书，说做生意。",
+          "note": "说完读书说生意"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "然后说做自媒体，码字这件事儿。",
+          "note": "然后说自媒体"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "怎么办？",
+          "note": "怎么办"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "不怎么办，熬着。",
+          "note": "不怎么办"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "爸妈读书开挂 vs 自己不中用；想当营销号都当不成 vs 现在有人骂也乐意；坦途预期 vs 脸被打肿。",
+      "patterns": [
+        "父母/自己",
+        "没人看/有人骂",
+        "坦途/打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我爸妈都是读书王者，从农村考出来，一路开挂，卷到起飞。",
+          "note": "爸妈开挂"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我不行，我读书是真不行，很多大佬是没条件读书，我是给我机会我不中用啊。",
+          "note": "我不中用"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那时候连骂我是营销号的人都没啊，我多想有人骂我啊。",
+          "note": "想被人骂"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "但是没过多久我的脸都被打肿了。",
+          "note": "脸被打肿"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你是不是觉得我算做成了」「你能不能熬20年」「存在的意义是什么」逼问读者。",
+      "patterns": [
+        "做成了吗",
+        "熬20年吗",
+        "存在意义"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "你是不是觉得我算是做成了？",
+          "note": "算做成了吗"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "但你，能不能，熬20年？",
+          "note": "能不能熬20年"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "不然，我存在的意义是什么呢？",
+          "note": "存在意义"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "开垮饭店外卖剧本杀民宿；支付宝打赏被榨干；天涯猫扑到公众号20年；2019跨年被打脸。",
+      "patterns": [
+        "开垮店例",
+        "支付宝被坑",
+        "平台迁移史",
+        "2019打脸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "开垮两位数"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "说到被坑，被房东坑，被朋友坑，被同学坑，被同事坑，被自己蠢坑，写个文章想要打赏留",
+          "note": "支付宝被榨"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "从天涯猫扑QQ空间人人（校内）糗百豆瓣微博，还写过网络小说，线下各种杂志投稿就不",
+          "note": "多平台写作"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "就在2019年的最后一天，我还在开心的和朋友们说，公众号写得还行，B站也开始涨粉",
+          "note": "2019跨年"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「熬着」落到临睡写一二千、20年等10w+、枪手底稿、白天上班晚上写。",
+      "patterns": [
+        "字数落地",
+        "20年落地",
+        "枪手落地",
+        "作息落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "闲的时候多写点，忙的时候工作一天累得要死，临睡前怎么着也得写个一两千，不然我不允",
+          "note": "写一二千"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "近20年"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "网文写不成功，那就给其他作者当枪手，写底稿，他自己再去润色语言，好歹有点稳定的钱",
+          "note": "当枪手"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "读书的时候我白天上学晚上写，大学的时候逃课写，工作了白天上班晚上写。",
+          "note": "白天上班晚上写"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「活下去就是一切」「我智商真的不高」「世界的真理是无常」。",
+      "patterns": [
+        "活着一切",
+        "自贬智商",
+        "无常真理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "撑下去，就是一切。",
+          "note": "撑下去一切"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "这充分证明了我智商真的不高。",
+          "note": "智商不高"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "世界的真理，是“无常”。",
+          "note": "无常"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说全是运气，马上补「熬出来的运气」；坦途宣告后承认脸被打肿。",
+      "patterns": [
+        "运气再定义",
+        "坦途打脸修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "我告诉你，全是运气。",
+          "note": "全是运气"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我再告诉你，这是熬出来的运气。",
+          "note": "熬出来的运气"
+        },
+        {
+          "sentence_id": "s103",
+          "snippet": "但是没过多久我的脸都被打肿了。",
+          "note": "脸被打肿"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句锤击→失败列举加速→「没人看啊」三连顿挫→20年抒情放慢→怎么办循环收。",
+      "patterns": [
+        "短句锤击",
+        "列举加速",
+        "三连顿挫",
+        "抒情放慢",
+        "循环收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "没了。",
+          "note": "没了短句"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "列举加速"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "没人看啊，没人看啊，没人看啊。",
+          "note": "没人看三连"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "20年放慢"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "不怎么办，熬着。",
+          "note": "循环"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "无力共情→自嘲惨败→渴望被看见→邪火决绝→无常释然→熬着坚韧。",
+      "patterns": [
+        "共情",
+        "自嘲",
+        "渴望",
+        "决绝",
+        "释然",
+        "坚韧"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "很多朋友会问现在日子觉得过得不咋地，好累好难，要怎么办。",
+          "note": "共情"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "自嘲"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那时候连骂我是营销号的人都没啊，我多想有人骂我啊。",
+          "note": "渴望"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "这些年的每一天，我都在写，我带着邪火在写，烧死命运，或者烧死我自己。",
+          "note": "邪火"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "不知道，但熬下去，就是一切的答案。",
+          "note": "坚韧"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场熬着就是一切，中段用失败与20年证实，收束「熬下去就是一切的答案」闭环。",
+      "patterns": [
+        "熬着开",
+        "20年证实",
+        "答案闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我没啥办法，我自己的经验就是熬着，撑着，活着就是一切。",
+          "note": "熬着开"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "20年证实"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "不知道，但熬下去，就是一切的答案。",
+          "note": "一切的答案"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无关注硬广；行动号召是「熬着、撑着、活下去」重复指令式软CTA。",
+      "patterns": [
+        "指令式软CTA",
+        "无硬广"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s116",
+          "snippet": "但我知道撑下去，就是一切。",
+          "note": "撑下去"
+        },
+        {
+          "sentence_id": "s121",
+          "snippet": "活下去，坚持，活下去。",
+          "note": "活下去坚持"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "直到花开的那天。",
+          "note": "直到花开"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "开垮店清单、支付宝被坑、骂营销号也乐意贴脸、邪火同归于尽，强烈私密自传。",
+      "patterns": [
+        "开垮清单",
+        "被坑细节",
+        "营销号自嘲",
+        "邪火修辞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "开垮清单"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "说到被坑，被房东坑，被朋友坑，被同学坑，被同事坑，被自己蠢坑，写个文章想要打赏留",
+          "note": "支付宝坑"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "因为我他喵当年就是梦想成为一个营销号，能靠写东西赚钱养活自己，但我想当个营销号都",
+          "note": "想当营销号"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "告诉命运你有种就摁死我，别给我一点点的运气和机会，我全身都是邪火，我想和你同归于",
+          "note": "同归于尽"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口略截断致第4-5节跳号；重复「熬着」可能劝退疲劳；成功因素归因偏运气。",
+      "patterns": [
+        "跳号截断",
+        "重复疲劳",
+        "运气归因偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s81",
+          "snippet": "告诉命运你有种就摁死我，别给我一点点的运气和机会，我全身都是邪火，我想和你同归于",
+          "note": "截断前"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "是一边工作一边坚持业余写作，看着那几个可怜的赞傻乐。",
+          "note": "跳入"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "熬着，撑着，熬着，撑着，直到希望来的那一天。",
+          "note": "熬着重复"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "暴露失败后换平台换ID换风格、白天上班晚上写的试错系统；怕放弃变普通人的动机。",
+      "patterns": [
+        "换平台试错",
+        "双轨作息",
+        "怕变普通人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s63",
+          "snippet": "在各路社交媒体写作不成功，那就不停的换平台，换ID，换风格，给各种大号兼职写稿写",
+          "note": "换平台换风格"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "读书的时候我白天上学晚上写，大学的时候逃课写，工作了白天上班晚上写。",
+          "note": "双轨写作"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "而是我怕我放弃了，我就变得和别人一样了。",
+          "note": "怕变得一样"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对准觉得日子难的朋友，用「你我都知道不现实」同盟，再逼问能否熬20年。",
+      "patterns": [
+        "日子难朋友",
+        "你我同盟",
+        "熬20年逼问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "很多朋友会问现在日子觉得过得不咋地，好累好难，要怎么办。",
+          "note": "日子难朋友"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我没法给你说出什么你一定会成功，什么你一定能成为更好的自己，什么努力就一定会成功",
+          "note": "你我都知道"
+        },
+        {
+          "sentence_id": "s79",
+          "snippet": "但你，能不能，熬20年？",
+          "note": "你能不能熬"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "开垮店破两位数；近20年等10w+；临睡写一二千；2019跨年打脸；共享单车押金没了。",
+      "patterns": [
+        "两位数店",
+        "20年",
+        "一二千字",
+        "2019",
+        "押金"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "两位数"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "近20年"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "闲的时候多写点，忙的时候工作一天累得要死，临睡前怎么着也得写个一两千，不然我不允",
+          "note": "一二千"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "就在2019年的最后一天，我还在开心的和朋友们说，公众号写得还行，B站也开始涨粉",
+          "note": "2019"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "共享单车押金"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密金句→失败列举高密→心态段中密→20年抒情中密→无常收束低密循环。",
+      "patterns": [
+        "金句低密",
+        "失败高密",
+        "心态中密",
+        "循环低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "撑下去，就是一切。",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "失败高密"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "抒情中密"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "不怎么办，熬着。",
+          "note": "循环低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "三字诀短句锤击；失败长列举；「没人看啊」三连；怎么办短问答循环。",
+      "patterns": [
+        "三字短句",
+        "长列举",
+        "三连重复",
+        "短问答循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "没了。",
+          "note": "没了"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "长列举"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "没人看啊，没人看啊，没人看啊。",
+          "note": "三连"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "怎么办？",
+          "note": "怎么办"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "自嘲苦修者：拒成功学，把运气重定义为熬出来的，用邪火与命运对赌。",
+      "patterns": [
+        "拒鸡汤",
+        "运气重定义",
+        "邪火对赌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我没法给你说出什么你一定会成功，什么你一定能成为更好的自己，什么努力就一定会成功",
+          "note": "拒鸡汤"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我再告诉你，这是熬出来的运气。",
+          "note": "熬出运气"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "这些年的每一天，我都在写，我带着邪火在写，烧死命运，或者烧死我自己。",
+          "note": "邪火"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "熬着撑着活着就是一切；开垮两位数；没人看啊；熬了近20年；世界真理是无常。",
+      "patterns": [
+        "熬着一切",
+        "开垮两位数",
+        "没人看",
+        "20年",
+        "无常"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我没啥办法，我自己的经验就是熬着，撑着，活着就是一切。",
+          "note": "熬着"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我开垮过多家饭店，多家外卖店，开垮过剧本杀，开垮过民宿，开垮的店数到了今年，成功",
+          "note": "开垮"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "没人看啊，没人看啊，没人看啊。",
+          "note": "没人看"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "从我6年级发表第一篇文章开始，到我在公众号拿到第一篇10w+，这一天，我熬了将近",
+          "note": "20年"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "世界的真理，是“无常”。",
+          "note": "无常"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "拒鸡汤+失败自曝+熬出运气+无常闭环可改编观宇励志口播，需收敛脏话与重复密度。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我没啥办法，我自己的经验就是熬着，撑着，活着就是一切。",
+          "note": "三字诀可改编"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我再告诉你，这是熬出来的运气。",
+          "note": "熬出运气可改编"
+        },
+        {
+          "sentence_id": "s120",
+          "snippet": "不知道，但熬下去，就是一切的答案。",
+          "note": "闭环金句可改编"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s7",
+    "s9",
+    "s11",
+    "s25",
+    "s33",
+    "s73",
+    "s110",
+    "s1",
+    "s16",
+    "s29",
+    "s60",
+    "s93",
+    "s24",
+    "s30",
+    "s111",
+    "s112",
+    "s19",
+    "s20",
+    "s41",
+    "s103",
+    "s31",
+    "s79",
+    "s99",
+    "s26",
+    "s35",
+    "s102",
+    "s68",
+    "s62",
+    "s67",
+    "s5",
+    "s28",
+    "s32",
+    "s6",
+    "s40",
+    "s74",
+    "s120",
+    "s116",
+    "s121",
+    "s122",
+    "s39",
+    "s81",
+    "s118",
+    "s63",
+    "s101"
+  ],
+  "fields_complete_25": true
+}

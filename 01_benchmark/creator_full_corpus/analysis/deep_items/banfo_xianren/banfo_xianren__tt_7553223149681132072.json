@@ -1,0 +1,1114 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7553223149681132072",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7553223149681132072/",
+  "source_sha256": "dd6fccbe833a6ae2f3aedc8a2abfa3af5ab55d562f6c6eeb8d26c09f6bda5eb3",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 74,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 22,
+      "snippet": "图片截取自: 今天的支付宝，这么“邪修”吗？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 11,
+      "snippet": "今天你打开支付宝了吗？"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 23,
+      "snippet": "主屏界面那个抽象的emoji猜谜广告看到了吧？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 22,
+      "snippet": "图片截取自: 今天的支付宝，这么“邪修”吗？"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 46,
+      "snippet": "说真的我非常能够理解这几年阿里搞营销越来越魔幻越来越抽象，毕竟跟AI玩久了，多少会有点人机。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 16,
+      "snippet": "我不介意被耍，但要注意方式方法。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 80,
+      "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏界面人给纹了，蛋糕师傅把表情包给做了，办公室老师把PDF的图标给打印了有啥区别？"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 16,
+      "snippet": "我都能想到策划团队说我有个创意。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "别问意不意，你就说看了之后创不创吧。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 57,
+      "snippet": "我是设计老师我也没想到，玩着手机就把活儿给干了，谁说这年头工作压力大的，就这样下去，我干五年数位板还是自用九九新。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 64,
+      "snippet": "就是我担心他们复盘时不好复盘，这次主要重要工作是给数亿人抠了仨表情包，我是老板都笑了，诶下回别光投emoji，简历也记得投一投。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "但更颠的是他们吗？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 31,
+      "snippet": "不，是我，是我真好奇啊，这个谜我猜不出来是真抓心挠肝的难受啊。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 49,
+      "snippet": "就像这一期是直升机房子饼干，我下了AQ才发现谜底是脂肪肝这个答案时，有一股被摸了一把屁股的调戏感。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 30,
+      "snippet": "这导致他们说明天还要整活时，我脑海里全都是还来，还来，还来？"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 35,
+      "snippet": "通过这种诡异的方式提醒我注意身体，可真的谢谢你们啊，天打雷劈的好心人。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 28,
+      "snippet": "但我也特别谢谢支付宝整了这么个好活，非常谢谢他们耍了我。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 30,
+      "snippet": "因为他们的营销很简单很漂亮，就是在讲， 【答案】就在AQ上。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "什么答案？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 24,
+      "snippet": "日常生活的答案，身体状态的答案，求知不解的答案。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 72,
+      "snippet": "就像脂肪肝这种越来愈越高发，大家知道却又不足够了解的问题一样，AQ每周一二定期让大家猜起来，用周更的方式让大家追更健康知识，这一手，真的很漂亮。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 70,
+      "snippet": "是是是这种营销很颠，但生活这狗东西是更颠啊，很多时候这些方面就是没有答案，要刷卡才能付费解锁的啊，这些知识可太，他，喵，的，重，要，了，啊！"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "我为什么这么共情？"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 31,
+      "snippet": "笑死了，就我今年这一身毛病，小智来了都会把我当成神奇宝贝抓走；"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 32,
+      "snippet": "今年我犯毛病了九个月，不是说我还有3个月健康，而是现在才到九月；"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 62,
+      "snippet": "我的五官就跟西湖醋鱼兑了可乐一样，各种不致命但致郁的毛病就像是把我当成糊锅的鱼簸箕的米肾里的结石梅西的足球一样我颠颠颠颠颠！"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "！"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 4,
+      "snippet": "发狠了！"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "忘情了！"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "不要命了！"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 20,
+      "snippet": "不知天地为何物了就是颠颠颠颠颠颠颠颠颠！"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "好！"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 53,
+      "snippet": "说到春天，我想带娃去偏远小县城看民俗，实际证明我选址太成功了真的太偏了，店都下班了我耳侧三叉神经痛上班了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 74,
+      "snippet": "痛到我午夜跟山里灵活的狗一样疾驰半个县城，仍然找不到一个会说普通话的大夫，第二天我才知道吃啥能好点，只要吃了就好，但我前一晚啥都不知道只能整夜嗷嚎。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 57,
+      "snippet": "诶到夏天了，这回我有麦粒肿，是这很常见，容易得到答案，但更容易得到错误答案，就比如会有小可爱会把冷敷和热敷给搞反。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 38,
+      "snippet": "这就导致我肿到大夫看到了都啧啧称奇，他说你这个大小不该叫麦粒肿，该叫麦丽素。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 36,
+      "snippet": "眼瞅着入秋了，我更是再次喜提鼻窦炎的花式起飞，喘气频繁了都好似灵魂在飞；"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 29,
+      "snippet": "是，这个东西该吃啥是能穷举出来的，不值当再去麻烦人家大夫。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 55,
+      "snippet": "但我硬是吃最多的苦，挨最毒的打，最后疼到医院的老师都笑了，他真的很好奇我吃这些乱七八糟的东西有没有吃出饱腹感。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 53,
+      "snippet": "所以我真的求求了，既然生病无法避免，我真的很需要一个健康管家，能在需要答案时，给我更加客观和可信赖的答案。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 56,
+      "snippet": "在我找不到或者不方便，或者问题过小，不至于不值当单独跑趟医院的时刻，能回答我，甚至日常就把健康知识往我耳朵里灌。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 18,
+      "snippet": "这就是中间地带，得有人，当个事儿办。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 21,
+      "snippet": "所以有AQ这么个小东西太好了，真的太好了。"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 50,
+      "snippet": "就这一手，直接将有好奇心，爱猜谜的朋友已经被诱捕到了这个app上，不但得到了答案，还得到了一份宝藏。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 36,
+      "snippet": "这里有许多类似于“喝红酒能不能软化血管”、“怎样改善睡眠质量”等好问题。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 31,
+      "snippet": "当你刷它时，这些关键的健康知识就以诡异的姿势进入了你的脑袋里。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 22,
+      "snippet": "图片截取自: 今天的支付宝，这么“邪修”吗？"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 37,
+      "snippet": "就这个简洁干净的页面，有问有答还能打电话，在关键时刻，它响应也是真的快啊。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 60,
+      "snippet": "就比如我这几天走路走多了，屁股上的肌肉疼，刚刚突发奇想问了它，它神奇地推测出我可能梨状肌有问题，还附上了参考文献和资料。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 28,
+      "snippet": "我追问了多久能好，该注意什么，它也给我推荐了相关的动作。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 59,
+      "snippet": "实际上，能进行对话的AI不少，但最大的问题是太多了，内容也不够专业，就算给你建议你也不敢信，因为你真的关心自己的身体。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 32,
+      "snippet": "但阿里系的优势在于，支付宝一直在为你的生活方式服务，AI更懂你。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 88,
+      "snippet": "论专业，阿里系在AI医疗领域精耕深耕了十多年，以医疗大模型为基础，打造了扎实的机构、医生、用户三维服务体系，知道什么是用户所需，也知道哪里有专业人士，能够用算力"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 32,
+      "snippet": "这个AQ别说能追问，还能看报告，看药盒，为各种大小问题答疑解惑。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 62,
+      "snippet": "更6的是，当我打开侧边栏，还有各大医院名医乃至院士的智能体，这问出来的答案都不只是心里有底，简直像是直接钻进纳戒跟药老学习。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 91,
+      "snippet": "AI最大的意义这时直接拉满，现在自身问题难以准确描述，或者行动不便的老年人们，能够低成本的方式与忙碌的专家们，通过模拟医生多轮互动的方式答疑解惑，就这一点，它真"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 16,
+      "snippet": "甚至可以说，AQ，是个好的开始。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 49,
+      "snippet": "人生该有四大商，除了智商(IQ)情商(EQ)和财商(FQ)，最重要的AQ（健商），也应该重视起来。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 28,
+      "snippet": "现在有了支付宝和AQ这样的健康管家，直接盘活了我的生活。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 13,
+      "snippet": "这一波，我愿称为神仙好活。"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 49,
+      "snippet": "这几年，大家越来越想明白了，什么房子车子事业工作，什么都不如好好活着，健康的活着才有后面的这一切。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 16,
+      "snippet": "所以谢谢支付宝耍我，谢谢，谢谢。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 19,
+      "snippet": "活儿很抽象，属于酱油不叫酱油，叫生抽。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 50,
+      "snippet": "但能通过最粗暴简单的方式，把健康领域的信息给大家传递建好，把信息渠道打通，能有这个出发点，就是好的。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 87,
+      "snippet": "各种乱七八糟营销号和养生知识之所以能火起来，各种古法育儿健康焦虑，就是因为大家真的需要专业且有趣的医学知识，更缺乏全天候自由沟通的渠道，这中间的空白地带自然会被"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 34,
+      "snippet": "摁着爸妈的手让他们下了AQ，每天多沟通多学知识，他们安心，我也放心。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 22,
+      "snippet": "多学点，勤用点，生活更好一点，未来更美一点。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 12,
+      "snippet": "身体健康，生活才有盼头。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "连续追问「打开支付宝了吗」「emoji猜谜看到了吧」把读者拉进主屏场景，再立「邪修营销」吐槽位。",
+      "patterns": [
+        "场景追问开场",
+        "emoji广告立靶",
+        "邪修评价定调"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "今天你打开支付宝了吗？",
+          "note": "今天打开支付宝吗"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "主屏界面那个抽象的emoji猜谜广告看到了吧？",
+          "note": "emoji猜谜广告"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏",
+          "note": "太颠太邪修"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "嘲emoji邪修→承认被调戏抓心→反转为夸AQ营销漂亮→共情自身病痛证明中间地带需求→产品能力与医疗大模型背书→健商收束致谢。",
+      "patterns": [
+        "嘲→痒→夸→共情需求→产品证成→价值观收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏",
+          "note": "邪修嘲讽"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "因为他们的营销很简单很漂亮，就是在讲， 【答案】就在AQ上。",
+          "note": "答案在AQ上"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "人生该有四大商，除了智商(IQ)情商(EQ)和财商(FQ)，最重要的AQ（健商）",
+          "note": "四大商健商"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "roast_hook",
+          "note": "emoji邪修吐槽与脂肪肝谜底调戏感"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "reframe_thanks",
+          "note": "谢谢耍我→答案在AQ→健康知识周更"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46"
+          ],
+          "function": "illness_empathy",
+          "note": "自身九个月毛病四季病例证明答案缺口"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65"
+          ],
+          "function": "product_proof",
+          "note": "AQ对话/报告/名医智能体与阿里医疗体系"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74"
+          ],
+          "function": "value_close",
+          "note": "健康大于事业→谢谢耍我→爸妈下AQ"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但更颠的是…不，是我」「但我也特别谢谢」「所以有AQ」完成嘲→谢→证成转向。",
+      "patterns": [
+        "不，是我自我转折",
+        "但我也特别谢谢反转",
+        "所以有AQ因果收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "但更颠的是他们吗？",
+          "note": "但更颠的是吗"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "不，是我，是我真好奇啊，这个谜我猜不出来是真抓心挠肝的难受啊。",
+          "note": "不，是我"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但我也特别谢谢支付宝整了这么个好活，非常谢谢他们耍了我。",
+          "note": "特别谢谢耍我"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "邪修emoji vs 漂亮营销；泛AI不敢信 vs 阿里医疗专业；生活更颠 vs 营销很颠。",
+      "patterns": [
+        "邪修/漂亮对翻",
+        "泛AI/专业医疗",
+        "生活更颠对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "是是是这种营销很颠，但生活这狗东西是更颠啊，很多时候这些方面就是没有答案，要刷卡",
+          "note": "营销颠生活更颠"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "实际上，能进行对话的AI不少，但最大的问题是太多了，内容也不够专业，就算给你建议",
+          "note": "AI太多不敢信"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "论专业，阿里系在AI医疗领域精耕深耕了十多年，以医疗大模型为基础，打造了扎实的机",
+          "note": "阿里医疗十多年"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "开场场景问、自我「为什么这么共情」、产品「什么答案？」层层逼近需求。",
+      "patterns": [
+        "场景勾问",
+        "共情自问",
+        "答案追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "今天你打开支付宝了吗？",
+          "note": "打开支付宝吗"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "什么答案？",
+          "note": "什么答案"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我为什么这么共情？",
+          "note": "为什么共情"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "脂肪肝谜底、三叉神经痛求医、麦粒肿误敷、鼻窦炎乱吃、梨状肌追问等病例串。",
+      "patterns": [
+        "谜底案例",
+        "四季病痛叙事",
+        "即时追问演示"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "就像这一期是直升机房子饼干，我下了AQ才发现谜底是脂肪肝这个答案时，有一股被摸了",
+          "note": "脂肪肝谜底"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "痛到我午夜跟山里灵活的狗一样疾驰半个县城，仍然找不到一个会说普通话的大夫，第二天",
+          "note": "半夜找大夫"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "就比如我这几天走路走多了，屁股上的肌肉疼，刚刚突发奇想问了它，它神奇地推测出我可",
+          "note": "梨状肌推测"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「中间地带需要健康管家」落地为猜谜引流、对话答疑、看报告看药盒、院士智能体。",
+      "patterns": [
+        "抽象管家→功能清单",
+        "健商概念商品化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "这就是中间地带，得有人，当个事儿办。",
+          "note": "中间地带"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "这个AQ别说能追问，还能看报告，看药盒，为各种大小问题答疑解惑。",
+          "note": "看报告看药盒"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "更6的是，当我打开侧边栏，还有各大医院名医乃至院士的智能体，这问出来的答案都不只",
+          "note": "院士智能体"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「真的很漂亮」「神仙好活」与「天打雷劈的好心人」半讽半赞并用。",
+      "patterns": [
+        "漂亮/神仙好活力赞",
+        "半讽致谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "就像脂肪肝这种越来愈越高发，大家知道却又不足够了解的问题一样，AQ每周一二定期让",
+          "note": "这一手很漂亮"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "通过这种诡异的方式提醒我注意身体，可真的谢谢你们啊，天打雷劈的好心人。",
+          "note": "天打雷劈好心人"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这一波，我愿称为神仙好活。",
+          "note": "神仙好活"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "从嘲策划抠表情包，纠到「更颠的是我猜不出」再纠到「谢谢他们耍我」。",
+      "patterns": [
+        "嘲→自嘲→致谢三重纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就是我担心他们复盘时不好复盘，这次主要重要工作是给数亿人抠了仨表情包，我是老板都",
+          "note": "抠仨表情包"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "不，是我，是我真好奇啊，这个谜我猜不出来是真抓心挠肝的难受啊。",
+          "note": "是我好奇"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "但我也特别谢谢支付宝整了这么个好活，非常谢谢他们耍了我。",
+          "note": "谢谢耍我"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短感叹「！」与「颠颠颠」爆破句打断长病痛叙事，形成喜剧节奏。",
+      "patterns": [
+        "感叹号爆破",
+        "颠字连打",
+        "长短交替"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "！",
+          "note": "感叹爆破"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不知天地为何物了就是颠颠颠颠颠颠颠颠颠！",
+          "note": "颠颠颠连打"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "我的五官就跟西湖醋鱼兑了可乐一样，各种不致命但致郁的毛病就像是把我当成糊锅的鱼簸",
+          "note": "长病痛句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "嫌弃戏谑→抓心挠肝→共情崩溃喜剧→感激产品→温情劝爸妈→健康盼头。",
+      "patterns": [
+        "戏谑→痒→崩→谢→温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏",
+          "note": "嫌弃邪修"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "不，是我，是我真好奇啊，这个谜我猜不出来是真抓心挠肝的难受啊。",
+          "note": "抓心挠肝"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "身体健康，生活才有盼头。",
+          "note": "健康盼头"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场被emoji耍 → 结尾「谢谢支付宝耍我」闭环，并以身体健康升维。",
+      "patterns": [
+        "耍我首尾呼应",
+        "健康升维收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我不介意被耍，但要注意方式方法。",
+          "note": "不介意被耍"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "所以谢谢支付宝耍我，谢谢，谢谢。",
+          "note": "谢谢耍我"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "身体健康，生活才有盼头。",
+          "note": "身体健康"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性种草AQ+嘱咐「摁着爸妈的手」下载，生活更好一点式轻号召。",
+      "patterns": [
+        "产品软种草",
+        "代际使用嘱咐"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "所以有AQ这么个小东西太好了，真的太好了。",
+          "note": "有AQ太好了"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "摁着爸妈的手让他们下了AQ，每天多沟通多学知识，他们安心，我也放心。",
+          "note": "摁爸妈下AQ"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "多学点，勤用点，生活更好一点，未来更美一点。",
+          "note": "多学勤用"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "纹身师/蛋糕师傅类比链、西湖醋鱼兑可乐、麦丽素大夫冷幽默、纳戒药老梗。",
+      "patterns": [
+        "职业翻车类比链",
+        "身体怪喻",
+        "网文梗入文"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏",
+          "note": "纹身师蛋糕师傅"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这就导致我肿到大夫看到了都啧啧称奇，他说你这个大小不该叫麦粒肿，该叫麦丽素。",
+          "note": "该叫麦丽素"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "更6的是，当我打开侧边栏，还有各大医院名医乃至院士的智能体，这问出来的答案都不只",
+          "note": "纳戒药老"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "商业软文感偏强；病痛段夸张过密可能稀释产品信息；感叹号堆叠略吵。",
+      "patterns": [
+        "软文感",
+        "病痛段过密",
+        "感叹堆叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "论专业，阿里系在AI医疗领域精耕深耕了十多年，以医疗大模型为基础，打造了扎实的机",
+          "note": "官方背书段"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "不知天地为何物了就是颠颠颠颠颠颠颠颠颠！",
+          "note": "颠字过密"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外化「先觉得邪修→谜底打脸→想到自己缺答案→验证AQ→升到健商」思考链。",
+      "patterns": [
+        "体验驱动推理链外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "就像这一期是直升机房子饼干，我下了AQ才发现谜底是脂肪肝这个答案时，有一股被摸了",
+          "note": "谜底打脸"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以我真的求求了，既然生病无法避免，我真的很需要一个健康管家，能在需要答案时，给",
+          "note": "需要健康管家"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者定为「也被主屏谜题耍过、也有小病不敢老跑医院」的同病者。",
+      "patterns": [
+        "同被耍共犯",
+        "小病中间地带用户"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "主屏界面那个抽象的emoji猜谜广告看到了吧？",
+          "note": "你也看到了吧"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "在我找不到或者不方便，或者问题过小，不至于不值当单独跑趟医院的时刻，能回答我，甚",
+          "note": "不值当跑医院"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "直升机房子饼干→脂肪肝、麦粒肿/麦丽素、梨状肌、红酒软化血管等具体问答。",
+      "patterns": [
+        "emoji谜面锚",
+        "病名锚",
+        "问答示例锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "就像这一期是直升机房子饼干，我下了AQ才发现谜底是脂肪肝这个答案时，有一股被摸了",
+          "note": "直升机房子饼干"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "这里有许多类似于“喝红酒能不能软化血管”、“怎样改善睡眠质量”等好问题。",
+          "note": "红酒睡眠问题"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "就比如我这几天走路走多了，屁股上的肌肉疼，刚刚突发奇想问了它，它神奇地推测出我可",
+          "note": "梨状肌"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密吐槽→中段病痛叙事中密→AQ能力与医疗体系高密→结尾口号降密。",
+      "patterns": [
+        "吐槽低→能力高→口号降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "说真的我非常能够理解这几年阿里搞营销越来越魔幻越来越抽象，毕竟跟AI玩久了，多少",
+          "note": "低密吐槽"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "论专业，阿里系在AI医疗领域精耕深耕了十多年，以医疗大模型为基础，打造了扎实的机",
+          "note": "高密背书"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "身体健康，生活才有盼头。",
+          "note": "降密收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "问句钩子→类比开火→转折致谢→病例排比→功能举证→价值观收束。",
+      "patterns": [
+        "问-嘲-转-证-收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "这用仨emoji就把广告给对付过去了，这是不是也太颠太邪修了，你这跟纹身师把锁屏",
+          "note": "类比开火"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "因为他们的营销很简单很漂亮，就是在讲， 【答案】就在AQ上。",
+          "note": "转折命题"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "人生该有四大商，除了智商(IQ)情商(EQ)和财商(FQ)，最重要的AQ（健商）",
+          "note": "价值观收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "自嘲病号+营销鉴赏家：又损又谢，把被广告耍写成被关爱。",
+      "patterns": [
+        "自嘲病号人格",
+        "半损半吹鉴赏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "笑死了，就我今年这一身毛病，小智来了都会把我当成神奇宝贝抓走；",
+          "note": "一身毛病自嘲"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "这一波，我愿称为神仙好活。",
+          "note": "神仙好活"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「答案就在AQ上」命题句+「麦丽素」大夫金句+四大商AQ健商命名。",
+      "patterns": [
+        "命题短句",
+        "麦丽素笑点",
+        "健商命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "因为他们的营销很简单很漂亮，就是在讲， 【答案】就在AQ上。",
+          "note": "答案在AQ"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "这就导致我肿到大夫看到了都啧啧称奇，他说你这个大小不该叫麦粒肿，该叫麦丽素。",
+          "note": "麦丽素"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "人生该有四大商，除了智商(IQ)情商(EQ)和财商(FQ)，最重要的AQ（健商）",
+          "note": "健商AQ"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「嘲营销→承认被击中→自身痛点证明→产品承接→代际CTA」适合健康/工具类软文改编，需降广告腔并换病例。",
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "但我也特别谢谢支付宝整了这么个好活，非常谢谢他们耍了我。",
+          "note": "嘲转谢模板"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以我真的求求了，既然生病无法避免，我真的很需要一个健康管家，能在需要答案时，给",
+          "note": "痛点承接"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "摁着爸妈的手让他们下了AQ，每天多沟通多学知识，他们安心，我也放心。",
+          "note": "代际CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s8",
+    "s20",
+    "s63",
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74"
+  ],
+  "fields_complete_25": true
+}

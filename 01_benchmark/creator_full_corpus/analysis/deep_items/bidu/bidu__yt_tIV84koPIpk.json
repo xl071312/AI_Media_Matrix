@@ -1,0 +1,887 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_tIV84koPIpk",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=tIV84koPIpk",
+  "source_sha256": "88f3497d5625c509a58e9fa218bc2f876ec4a852d3c9d8502521125f307083f0",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 41,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "剛買的李子放進水裡竟然變成多的球"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 13,
+      "snippet": "不止李子,很多水果丟進水裡"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "都能跟著透明的後長度"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 11,
+      "snippet": "當場買來每一隻烤子李子"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 16,
+      "snippet": "我後來就 in 成了一個三國局面"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "每一隻外面真的出現了一圈透明殼"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "一隻李子也讀六斤斤的"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "真是媒條裡"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 8,
+      "snippet": "為啥會有一層殼呢"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "我百思不得其解"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 5,
+      "snippet": "直到前幾天"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 12,
+      "snippet": "我在預防裡炮早時發現了同"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "這是我買的炮早球"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 22,
+      "snippet": "仍水裡會冒金油炮炮,讓我預更 the 更有錢"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "炮早球外面有層塑料膜"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 13,
+      "snippet": "如果不�.司膜直接放進水裡"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 10,
+      "snippet": "我也照上了一層透明殼"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 8,
+      "snippet": "效果比每一隻還好"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "但把膜一撕"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "透明殼就會瞬間消失"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "所以問題就出在這張膜"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "油一撕"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "省錢嘛,一撕穿上吧"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "我們來看就一下"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "這層膜佔傻了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 14,
+      "snippet": "一個普通木球放進水裡沒有變化"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 11,
+      "snippet": "但在外面照上一層保鞋膜"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 14,
+      "snippet": "外面也出,出現在的透明大殼子"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "但你仔細看就會發現"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 11,
+      "snippet": "其實並不是木球大小沒變"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 1,
+      "snippet": "但"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 13,
+      "snippet": "但外面長出的在更大的透明殼"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "而是保鞋膜大小沒變"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "但裡面的木球縮小了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 11,
+      "snippet": "現得中間出現在的透明殼"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 4,
+      "snippet": "對比這看"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 8,
+      "snippet": "他有貨物在他身上"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "他有貨物在他身上"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "他有貨物"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "他有貨物在他身上"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "李子入水长透明壳的生活异常直接开场，当场买来复现。",
+      "patterns": [
+        "异常现象钩子",
+        "当场复现"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "剛買的李子放進水裡竟然變成多的球",
+          "note": "李子变球"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "當場買來每一隻烤子李子",
+          "note": "当场买来"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "每一隻外面真的出現了一圈透明殼",
+          "note": "出现透明壳"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "水果入水现壳→困惑→泡泡球同类→撕膜壳消失→问题在膜→木球保鲜膜对照证明是间隙错觉。",
+      "patterns": [
+        "现象→类比→撕膜→对照纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "為啥會有一層殼呢",
+          "note": "为啥有壳"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "我也照上了一層透明殼",
+          "note": "泡泡球也有壳"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "透明殼就會瞬間消失",
+          "note": "撕膜壳消失"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "问题在膜"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "木球缩小了"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "phenomenon",
+          "note": "李子透明壳现象"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "bathbomb_clue",
+          "note": "泡泡球类比线索"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "controlled_test",
+          "note": "木球保鲜膜对照"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "asr_tail_noise",
+          "note": "尾部ASR重复噪声"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「直到前几天」「所以问题就出在」「我们来看」连接发现与实验。",
+      "patterns": [
+        "直到发现转折",
+        "所以定位因果",
+        "对照实验引导"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "直到前幾天",
+          "note": "直到前几天"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "所以问题在膜"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "我們來看就一下",
+          "note": "我们来看"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "有膜/撕膜；裸木球/贴膜木球；长出壳错觉vs球缩小真相。",
+      "patterns": [
+        "撕膜有无对比",
+        "裸球贴膜对比",
+        "错觉真相对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "但把膜一撕",
+          "note": "撕膜前效果好"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "透明殼就會瞬間消失",
+          "note": "撕膜壳消失"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "一個普通木球放進水裡沒有變化",
+          "note": "裸球无变化"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "球缩小真相"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "核心「为啥会有一层壳」驱动百思不得其解到实验解答。",
+      "patterns": [
+        "核心因果问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "為啥會有一層殼呢",
+          "note": "为啥有壳"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "李子、泡泡球、木球+保鲜膜三重实物演示。",
+      "patterns": [
+        "水果例",
+        "泡泡球例",
+        "木球对照例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "剛買的李子放進水裡竟然變成多的球",
+          "note": "李子"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "這是我買的炮早球",
+          "note": "泡泡球"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "一個普通木球放進水裡沒有變化",
+          "note": "普通木球"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "膜间隙类问题落成可见透明壳与球缩小的视觉纠偏。",
+      "patterns": [
+        "可见壳具象",
+        "缩小纠偏具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "每一隻外面真的出現了一圈透明殼",
+          "note": "一圈透明壳"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "木球缩小了"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言「所以问题就出在这张膜」，结论干脆。",
+      "patterns": [
+        "定位膜的决断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "问题出在膜"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先以为外面长更大壳，仔细看纠正为膜不变、里面球缩小。",
+      "patterns": [
+        "错觉先述后纠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "其實並不是木球大小沒變",
+          "note": "并不是大小没变"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但外面長出的在更大的透明殼",
+          "note": "先述长壳错觉"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "纠正缩小"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句现象→困惑停顿→类比加速→对照放慢纠偏；尾部噪声碎裂。",
+      "patterns": [
+        "困惑停顿",
+        "实验放慢",
+        "尾噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我百思不得其解",
+          "note": "百思不得"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但你仔細看就會發現",
+          "note": "仔细看"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "他有貨物在他身上",
+          "note": "重复噪声"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "但但"
+        },
+        {
+          "type": "discourse",
+          "form": "为啥"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "所以问题"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "但",
+          "note": "但"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "為啥會有一層殼呢",
+          "note": "为啥"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊奇→困惑→类比惊喜→揭秘痛快；尾ASR削弱情绪。",
+      "patterns": [
+        "惊奇困惑",
+        "揭秘痛快",
+        "噪声削弱"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "剛買的李子放進水裡竟然變成多的球",
+          "note": "惊奇"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "我百思不得其解",
+          "note": "困惑"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "揭秘"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "他有貨物在他身上",
+          "note": "噪声尾"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "揭秘后未完整收口，被重复句打断，闭环偏弱。",
+      "patterns": [
+        "揭秘后缺完整收口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "現得中間出現在的透明殼",
+          "note": "透明壳解释止"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "他有貨物在他身上",
+          "note": "重复打断"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无显式CTA，属现象揭秘短视频体。",
+      "patterns": [
+        "无硬CTA揭秘体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "揭秘即终点倾向"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "当场购买复现、百思不得其解、错觉自纠显真人实验感；ASR严重。",
+      "patterns": [
+        "当场复现",
+        "错觉自纠",
+        "ASR损伤"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "當場買來每一隻烤子李子",
+          "note": "当场买"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "我百思不得其解",
+          "note": "百思不得"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "自纠缩小"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR乱码严重；原理未升到光学名词；结尾重复崩溃。",
+      "patterns": [
+        "ASR乱码",
+        "原理名词缺失",
+        "结尾崩溃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我後來就 in 成了一個三國局面",
+          "note": "三国局面乱码"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "現得中間出現在的透明殼",
+          "note": "未命名光学"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "他有貨物在他身上",
+          "note": "重复货物"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "外显从困惑到泡腾球联想再到对照实验的发现路径。",
+      "patterns": [
+        "联想路径外显",
+        "仔细看纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我百思不得其解",
+          "note": "困惑"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "我在預防裡炮早時發現了同",
+          "note": "发现同类"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但你仔細看就會發現",
+          "note": "仔细看"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "带观众一起看实验，用「我们来看」同位观察。",
+      "patterns": [
+        "一起看实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "我們來看就一下",
+          "note": "我们来看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "李子透明壳、泡泡球塑料膜、木球保鲜膜对照。",
+      "patterns": [
+        "李子壳锚",
+        "撕膜锚",
+        "木球对照锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "每一隻外面真的出現了一圈透明殼",
+          "note": "透明壳"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "透明殼就會瞬間消失",
+          "note": "撕膜消失"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "但在外面照上一層保鞋膜",
+          "note": "保鲜膜"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "现象低密→类比中密→对照纠偏高密→尾噪声无效密。",
+      "patterns": [
+        "纠偏段高密",
+        "尾无效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "剛買的李子放進水裡竟然變成多的球",
+          "note": "低密现象"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "高密纠偏"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "他有貨物",
+          "note": "无效重复"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现象→提问→类比→定位→对照→纠偏（尾噪声）。",
+      "patterns": [
+        "现象-问-类比-实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "剛買的李子放進水裡竟然變成多的球",
+          "note": "现象"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "為啥會有一層殼呢",
+          "note": "提问"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "一個普通木球放進水裡沒有變化",
+          "note": "对照"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "生活冷知识实验者：先懵再找同源现象，重视仔细看纠错。",
+      "patterns": [
+        "先懵后验",
+        "仔细看人格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我百思不得其解",
+          "note": "先懵"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但你仔細看就會發現",
+          "note": "仔细看"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "透明壳、撕膜消失、其实是球缩小了。",
+      "patterns": [
+        "透明壳视觉",
+        "撕膜反转",
+        "缩小真相"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "每一隻外面真的出現了一圈透明殼",
+          "note": "透明壳"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "透明殼就會瞬間消失",
+          "note": "撕膜"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "缩小"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "现象→类比→对照→错觉纠偏短科普骨架可改编，需重录清晰口播并补光学名词。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "為啥會有一層殼呢",
+          "note": "提问驱动"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以問題就出在這張膜",
+          "note": "定位膜"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "但裡面的木球縮小了",
+          "note": "纠偏点"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s7",
+    "s10",
+    "s18",
+    "s21",
+    "s22",
+    "s35",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41"
+  ],
+  "fields_complete_25": true
+}

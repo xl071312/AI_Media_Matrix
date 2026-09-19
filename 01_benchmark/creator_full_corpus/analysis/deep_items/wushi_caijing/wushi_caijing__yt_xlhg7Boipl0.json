@@ -1,0 +1,733 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_xlhg7Boipl0",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=xlhg7Boipl0",
+  "source_sha256": "9ca74435751b1e77ab38ca6e8be41e6c55c397af185f081a22a666af8581f2f6",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 187,
+  "fields": {
+    "opening_move": {
+      "summary": "把咪蒙定位为情绪变现鼻祖，年入过亿却在资本化前夜被按在地上，用崩塌钩住全篇。",
+      "patterns": [
+        "鼻祖定位加崩塌反差",
+        "封杀即最后作品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "這條線的一個鼻鼠機人物把戰精體、",
+          "note": "鼻祖线人物"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "就是秘蒙,",
+          "note": "点名咪蒙"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "大傻崩塌",
+          "note": "大厦崩塌"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "价值观批判偏浅，本质是激进拥抱流量；马琳正道履历反差；时代碾压纸媒；折腾失败后回到写作大杀器；粉丝再强也扛不住主流价值。",
+      "patterns": [
+        "批判降维到生意逻辑",
+        "履历反差",
+        "时代大于个人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但背後其實是激進的擁抱流量的內活",
+          "note": "拥抱流量内核"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "和你們知道的秘蒙完全相反了",
+          "note": "与公众人设相反"
+        },
+        {
+          "sentence_id": "s162",
+          "snippet": "無論你的粉絲群體年輕都無法對抗社會主盒心價",
+          "note": "无法对抗主流价值"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s12"
+          ],
+          "function": "人物定位与崩塌结局",
+          "note": "黄金年代差点资本化"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s13",
+            "s14",
+            "s15",
+            "s19",
+            "s21",
+            "s24",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "骂战生态与生意视角重写价值观批评",
+          "note": "上帝视角把文章当生意"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s35",
+            "s36",
+            "s37",
+            "s41",
+            "s42",
+            "s43",
+            "s49",
+            "s50"
+          ],
+          "function": "马琳履历：普通家庭到山大到南方报系首席",
+          "note": "与咪蒙人设相反"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s57",
+            "s59",
+            "s61",
+            "s73",
+            "s74",
+            "s84",
+            "s87",
+            "s89",
+            "s91",
+            "s95",
+            "s96"
+          ],
+          "function": "时代碾压纸媒与跨界折腾失败",
+          "note": "影视公司十个月烧光"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s102",
+            "s103",
+            "s106",
+            "s108",
+            "s111",
+            "s158",
+            "s162",
+            "s168",
+            "s172",
+            "s173"
+          ],
+          "function": "公号大杀器与封杀前流量巅峰反讽",
+          "note": "高光即封杀前夜"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "但我觉得略显下策、加上这个逻辑、还是那句话，完成视角切换与时代框定。",
+      "patterns": [
+        "但我觉得纠偏",
+        "加上这个逻辑导入",
+        "还是那句话复用母题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "但我覺得現在討論家日官",
+          "note": "但我觉得"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "加上這個邏輯",
+          "note": "加上这个逻辑"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "還是那句話",
+          "note": "还是那句话"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "强对比公众咪蒙与现实马琳，对比纸媒正道与流量生意，对比粉丝体量与主流价值。",
+      "patterns": [
+        "人设对比履历",
+        "正道纸媒对比流量生意",
+        "粉丝体量对比主流价值"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "和你們知道的秘蒙完全相反了",
+          "note": "完全相反"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我們把顯文章當上一個生意",
+          "note": "文章当生意"
+        },
+        {
+          "sentence_id": "s162",
+          "snippet": "無論你的粉絲群體年輕都無法對抗社會主盒心價",
+          "note": "无法对抗"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "用为什么叫折腾不叫创业，与报纸认知玩笑问推动反思。",
+      "patterns": [
+        "命名元问题",
+        "观众认知玩笑问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s92",
+          "snippet": "為什麼我現在管這個叫折騰而不叫創業",
+          "note": "为什么叫折腾"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "多少人還在每天看報紙",
+          "note": "多少人还看报"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "為了觀眾裡面有多少",
+          "note": "有多少知道报纸"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "履历节点、十个月烧光影视公司、封杀日舆论爆炸作例。",
+      "patterns": [
+        "履历时间线例",
+        "失败创业例",
+        "封杀高光例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "然後在南方冬如報工作的13年",
+          "note": "南方报13年"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "十個月燒光的其中自己很切人戰",
+          "note": "十个月烧光"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "也是流量最爆炸的一天",
+          "note": "流量最爆炸一天"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "拥抱流量的内核抽象后落到马琳高考、报系、跨界烧钱具体故事。",
+      "patterns": [
+        "抽象内核到履历落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但背後其實是激進的擁抱流量的內活",
+          "note": "拥抱流量内核"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "考入山東大學中文系",
+          "note": "考入山大中文系"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "也就創立了影視傳媒公司",
+          "note": "创立影视公司"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "宣称讨论价值观下策，自封上帝视角，并用牛逼盖牌口语抬写作资产。",
+      "patterns": [
+        "价值观讨论降权",
+        "上帝视角自授",
+        "口语褒贬混用"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "事業還是略顯下債",
+          "note": "略显下策"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "我這還是達到上帝視角",
+          "note": "上帝视角"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "甚至他自己當時都不知道自己的蓋牌這麼牛逼",
+          "note": "盖牌这么牛逼"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "承认南方系争议但坚持资本视角复盘；把创业改称折腾以纠偏美化叙事。",
+      "patterns": [
+        "争议承认后坚持视角",
+        "创业改称折腾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "我知道大家可能對南方系列還有一些爭議",
+          "note": "南方系列争议"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "為什麼我現在管這個叫折騰而不叫創業",
+          "note": "叫折腾不叫创业"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场高概念短句，履历叙事拉长，折腾失败顿挫，封杀高潮加速。",
+      "patterns": [
+        "履历拉长",
+        "失败顿挫",
+        "封杀加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "然後在南方冬如報工作的13年",
+          "note": "13年履历"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "十個月燒光的其中自己很切人戰",
+          "note": "烧光顿挫"
+        },
+        {
+          "sentence_id": "s170",
+          "snippet": "也是流量最爆炸的一天",
+          "note": "爆炸一天"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "当然了口头垫词",
+        "还是那句话口头禅",
+        "牛逼口语褒奖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "當然了",
+          "note": "当然了"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "還是那句話",
+          "note": "还是那句话"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "甚至他自己當時都不知道自己的蓋牌這麼牛逼",
+          "note": "牛逼"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "介绍期冷静，骂战戏谑，对正道履历敬意，对跨界失败同情，封杀反讽高潮。",
+      "patterns": [
+        "戏谑到敬意到同情到反讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "罵秘蒙又能養活一千人",
+          "note": "骂也能养活人"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "現實中的馬林在我看來是一個有文宣天賦",
+          "note": "文宣天赋正道"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "這事兒對他本人打戒而很大",
+          "note": "打击很大"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "僅是封殺的錢業",
+          "note": "封杀前夜"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用高流量巅峰恰是封杀前夜回收开场崩塌，并预告图文生涯限定与后续。",
+      "patterns": [
+        "巅峰等于崩塌前夜回收",
+        "以后你们就知道预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s172",
+          "snippet": "迷蒙意志追求的高流量的顛峰",
+          "note": "高流量巅峰"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "僅是封殺的錢業",
+          "note": "封杀前夜"
+        },
+        {
+          "sentence_id": "s176",
+          "snippet": "以後你們就知道",
+          "note": "以后你们就知道"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬CTA；以后你们就知道作系列留钩。",
+      "patterns": [
+        "系列留钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s176",
+          "snippet": "以後你們就知道",
+          "note": "以后你们就知道"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "脏话级口语、自我命名折腾、骂战段子体，个人立场鲜明。",
+      "patterns": [
+        "口语脏话褒贬",
+        "折腾重命名",
+        "段子体骂战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s90",
+          "snippet": "甚至他自己當時都不知道自己的蓋牌這麼牛逼",
+          "note": "牛逼"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "為什麼我現在管這個叫折騰而不叫創業",
+          "note": "折腾"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "罵秘蒙又能養活一千人",
+          "note": "骂养活一千人"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "繁简混杂与大量ASR错字；尾段破碎。",
+      "patterns": [
+        "专名ASR错误",
+        "尾段破碎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "就是秘蒙,",
+          "note": "秘蒙错字"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "很多人認為他錯誤的家日官",
+          "note": "家日官"
+        },
+        {
+          "sentence_id": "s178",
+          "snippet": "在� I am 正的這條有不經人死不休的",
+          "note": "尾段乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开切换到上帝视角与生意逻辑，并解释为何现在才叫折腾。",
+      "patterns": [
+        "视角切换外化",
+        "命名理由外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "我這還是達到上帝視角",
+          "note": "上帝视角"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我們把顯文章當上一個生意",
+          "note": "当生意"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "為什麼我現在管這個叫折騰而不叫創業",
+          "note": "为什么叫折腾"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把爱骂咪蒙的网民与价值观批评者放到对面，邀请用资本复盘视角重看。",
+      "patterns": [
+        "对抗骂战听众",
+        "邀请资本视角"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "中文互聯網的特件就是你不罵他",
+          "note": "中文互联网特性"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "相比要請那些批判家日官的人",
+          "note": "批判价值观的人"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "都並想從資本市角的腐盤",
+          "note": "资本市场角复盘"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "锚定70后、南方报13年、2014折腾、十个月烧光等节点。",
+      "patterns": [
+        "履历年份锚",
+        "烧光时长锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "70後的秘蒙",
+          "note": "70后"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "然後在南方冬如報工作的13年",
+          "note": "13年"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "14年迷蒙下半決心開始自己折騰",
+          "note": "14年"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "十個月燒光的其中自己很切人戰",
+          "note": "十个月"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "定位段中密，履历高密，时代背景中密，封杀舆论高密。",
+      "patterns": [
+        "履历峰",
+        "舆论峰"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "然後在南方冬如報工作的13年",
+          "note": "履历密"
+        },
+        {
+          "sentence_id": "s166",
+          "snippet": "參與的自媒體媒體的帳號之多",
+          "note": "账号之多密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "崩塌钩到骂战到生意重写到履历反差到时代框到失败折腾到公号杀器到封杀反讽。",
+      "patterns": [
+        "重写批评框架后回溯人物"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但背後其實是激進的擁抱流量的內活",
+          "note": "重写"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "和你們知道的秘蒙完全相反了",
+          "note": "反差"
+        },
+        {
+          "sentence_id": "s173",
+          "snippet": "僅是封殺的錢業",
+          "note": "反讽收"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "资本上帝视角人格：不站价值观审判，站生意与时代结构。",
+      "patterns": [
+        "拒价值观审判",
+        "时代结构决定论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "事業還是略顯下債",
+          "note": "讨论价值观下策"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "任何人的成功都離不開",
+          "note": "离不开时代"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "咪蒙养活一批人骂咪蒙养活一千人；写作是大杀器；巅峰即封杀前夜。",
+      "patterns": [
+        "养活与骂养活对句",
+        "写作大杀器",
+        "巅峰封杀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "秘蒙養活力批人",
+          "note": "养活一批人"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "罵秘蒙又能養活一千人",
+          "note": "骂养活一千人"
+        },
+        {
+          "sentence_id": "s108",
+          "snippet": "我的寫作是一步大連使",
+          "note": "写作大杀器"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "人物反差履历加生意视角重写道德批评的方法可迁，但需统一专名并删减ASR噪声与过强口语脏词。",
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "和你們知道的秘蒙完全相反了",
+          "note": "人设履历反差可迁"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "我們把顯文章當上一個生意",
+          "note": "生意视角可迁"
+        },
+        {
+          "sentence_id": "s92",
+          "snippet": "為什麼我現在管這個叫折騰而不叫創業",
+          "note": "折腾命名可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s3",
+    "s9",
+    "s24",
+    "s36",
+    "s162",
+    "s2",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s19",
+    "s21",
+    "s26",
+    "s27",
+    "s28",
+    "s31",
+    "s32",
+    "s35",
+    "s37",
+    "s41",
+    "s42",
+    "s43",
+    "s49",
+    "s50",
+    "s57",
+    "s59",
+    "s61",
+    "s73",
+    "s74",
+    "s84",
+    "s87",
+    "s89",
+    "s91",
+    "s95",
+    "s96",
+    "s102",
+    "s103",
+    "s106",
+    "s108",
+    "s111",
+    "s158",
+    "s168",
+    "s172",
+    "s173",
+    "s29",
+    "s58",
+    "s92",
+    "s80",
+    "s82",
+    "s170",
+    "s20",
+    "s90",
+    "s44",
+    "s75",
+    "s97",
+    "s176",
+    "s178",
+    "s25",
+    "s47",
+    "s166"
+  ],
+  "fields_complete_25": true
+}

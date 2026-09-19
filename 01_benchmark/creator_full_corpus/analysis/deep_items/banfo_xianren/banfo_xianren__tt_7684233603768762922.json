@@ -1,0 +1,1392 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7684233603768762922",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7684233603768762922/",
+  "source_sha256": "3fbecd4ec3961fee25e439580cb13e8dba13395a57bc3d68ae59299789778ec4",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 114,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "人类最极端的行业，就是月饼行业。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 17,
+      "snippet": "因为我就没见过这么两极反转的行业。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "它之前是什么样？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 29,
+      "snippet": "是五仁负责主C，冬瓜负责辅助，枣泥负责打野，豆沙负责清图。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 47,
+      "snippet": "它的口味都不是保守了，是保值，商家都要质问你凭啥说今年的月饼不如去年，今年就是去"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 40,
+      "snippet": "我说嫦娥在月球上看到人类还在吃五仁都笑发财，多亏我跑的早，这才是真正的流浪地球。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "但现在呢？"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 40,
+      "snippet": "你去沃尔玛逛一圈，你都要说诺贝尔奖也就那么回事儿吧，弄不好以后都被月饼界包圆了。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 63,
+      "snippet": "它创新到你成了保守派了，你看看那个馅都要说人类居然还能发现那种排列方式，你再一看"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "就该这么创！"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "就该这么创！"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 10,
+      "snippet": "就往我的消化道猛攻！"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "快点快点快点！"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "我已经等不及啦！"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 29,
+      "snippet": "首先我要给大家介绍第一个沃集鲜狠活，云腿X野生菌小饼礼盒。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "这礼盒它6到哪儿？"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "你别去云南了，云南来找你了。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 22,
+      "snippet": "吃它你都得捂着眉毛吃，不然你都担心鲜掉了呀。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "这个月饼有啥？"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 16,
+      "snippet": "有宣威火腿，有鸡枞菌，有牛肝菌。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 39,
+      "snippet": "本身这个宣威火腿的猪，就是大长腿低体脂的天选之猪，猪界迎来了自己的黑皮体育生。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 41,
+      "snippet": "现在做成火腿，别说氨基酸在嘎嘎熟成，本就不多的脂肪就在魔功逆练，对着肌肉纤维猛攻"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 70,
+      "snippet": "火腿又香又醇，再加上鲜到在云南巴不得每日打卡的牛肝菌，我都不敢想象咸口爱好者吃一"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 20,
+      "snippet": "但最大的特色，不是这个，是里面的鸡枞菌。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 62,
+      "snippet": "这个菌，它调皮，它会长在白蚁窝里，雇白蚁给它提供养分，它给白蚁反哺，你侬我侬之下"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 59,
+      "snippet": "现在鸡枞为你打工，它成了鲜味搬运工，它们仨就成了鲜味三叉戟，搅的你味觉翻来又覆去"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 63,
+      "snippet": "一张粉色票子够呛能给你送到云南，但能把云南送给你，不管是云贵川本地人，还是向往西"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "不要控制你寄几。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 42,
+      "snippet": "如果这个是鲜香猎奇，那接下来这款主推的珍膳秋养月饼礼盒，就是今年中秋合家欢乐的秘"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 25,
+      "snippet": "整个礼盒是精致百子柜造型，送人有面子，摆设有里子。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 32,
+      "snippet": "很多时候不仅需要一方水土养一方人，也希望各地水土能养好我这个人。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 53,
+      "snippet": "巧了，精选宁夏枸杞、甘肃黄芪、新会陈皮、雪梨、山楂、百合等优质珍材入馅，都是哆啦"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 29,
+      "snippet": "这些健康的食材很多时候太健康了，那个味道容易让人接受不了。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 20,
+      "snippet": "但经过沃集鲜处理后，你会觉得刚，刚，好。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "日常饮食，是妙，妙，妙。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 34,
+      "snippet": "类似的将健康配料融入月饼的思路，别的月饼不是没想过，但容易发力过猛。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 48,
+      "snippet": "但这个小礼盒它妙就妙在准确回答了一个问题，行不行，怎么行，怎么别太行的问题，它把"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 67,
+      "snippet": "精准做出四款超适配秋日的健康馅料：雪梨百合、陈皮山楂、苹果黄芪、覆盆子枸杞，每一"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 23,
+      "snippet": "这几个食材属于是公认不出错的好东西，是舒适区。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 38,
+      "snippet": "做成清爽适口的月饼，你把这个礼盒送给亲人，你还没进门槛，就已经进了亲人心坎。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 35,
+      "snippet": "吃完了月饼这古风小柜礼盒也能收纳首饰、小物件，亲人每次看到都能想起你。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 18,
+      "snippet": "你就说它是不是完美阐释了月饼的寓意。"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 40,
+      "snippet": "网友们都要锐评市场部混入了鬼才，它精准地卡在猎奇和神奇的分界线上，挠的人心痒痒。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 11,
+      "snippet": "这不，更奇葩的馅还有。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "我先绕道了。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "（截图来自小红书）"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 33,
+      "snippet": "如果你觉得前面的两款太便宜了，你必须要让自己的钱包经受一波儿考验。"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 24,
+      "snippet": "或者你就是有送客户礼盒的需求，太便宜的拿不出手。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 15,
+      "snippet": "那么这一款月饼正，正，好，好。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 19,
+      "snippet": "意大利进口的松露，优选之后来到了这里。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 36,
+      "snippet": "什么叫黑白双雄，什么叫中西合璧，什么叫小当家留学归来，只为做最好的自己。"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "说白了，松露为什么名头响？"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 36,
+      "snippet": "就是因为它藏在土里，成熟的那一刻会散发迷人的味道，黑的珍贵，白的更珍贵。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 13,
+      "snippet": "因为这玩意不能大规模量产。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 23,
+      "snippet": "甚至欧美人认为它是纯雷劈出来的，是大地的赠礼。"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 19,
+      "snippet": "挖掘松露的猎人会把松露地图当作传家宝。"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 33,
+      "snippet": "每到采摘季那就是西方人自己的千与千寻，大山里的one piece。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 66,
+      "snippet": "这个浓郁的味道，再加上西班牙赛兰诺火腿和鄱阳湖的鸭蛋黄，新西兰的进口黄油，可以说"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 25,
+      "snippet": "这个东西更好讲了，别人送月饼，你不一样，咱送自由。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 23,
+      "snippet": "送他中西合璧，送他横贯东西，送他全世界的奇旅。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 27,
+      "snippet": "但这还不是沃集鲜的极限，不信你看看他们玩弄松露的操作。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 17,
+      "snippet": "松露脑袋都要说，怎么这就过上年啦。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 3,
+      "snippet": "雅吗？"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 2,
+      "snippet": "雅。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "同样雅的，还有。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 31,
+      "snippet": "如果是对于生活、香味、质感、审美有追求的女孩子，这一盒更是绝。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 40,
+      "snippet": "这一款我都不用说别的，它标价159，你把这个颜值拍个照发朋友圈，是不是值599？"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 33,
+      "snippet": "各大酒店精致下午茶要是有这个级别的点心，那该报多少钱，我都不敢想。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "这个月饼，妙在哪儿？"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 35,
+      "snippet": "春天的玫瑰，初夏的栀子花，夏天的百合，秋季的桂花，这就是江南四时四香。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 31,
+      "snippet": "夏天的无花果，秋天的梨，冬天的板栗，春天的柿饼，这是四时四果。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 31,
+      "snippet": "春天喝雪芽，夏天铁观音，秋天乌龙茶，冬天喝普洱，这是四时四茶。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 43,
+      "snippet": "哇你再叠加着这封面的江南园林，蝴蝶飞鸟水墨画，江南这点风情算是被这一盒月饼研究明"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 34,
+      "snippet": "家人跟你在一起的时刻，也不问什么爱与不爱了，因为嘴里在忙着排列组合。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 45,
+      "snippet": "最后，如果你是健身爱好者，对于减脂有追求，或者你不想让小朋友吃太甜的东西，我给你"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 10,
+      "snippet": "这个礼盒有啥特点呢？"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 11,
+      "snippet": "是缝合怪，但全缝上了。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 15,
+      "snippet": "不光提供营养，更提供情绪价值。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 40,
+      "snippet": "兄弟问你吃没吃月饼，有没有偷偷加练的时刻，你拿着这个月饼说没练没练，兄弟放心了。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 23,
+      "snippet": "但他不知道，你这月饼饼皮，是加了新西兰乳粉的；"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 18,
+      "snippet": "馅儿，是有甜菜根，姜黄，羽衣甘蓝的。"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 35,
+      "snippet": "就这几个成分，我都怕你越吃越有泵感，拎着月饼盒就开始给自己的卧推加片。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 38,
+      "snippet": "里面什么牛油果，奇亚籽，亚麻籽，紫薯蓝莓的，你月饼不用咬，上面全是热量缺口。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 37,
+      "snippet": "再也不操心孩子抵触蔬菜了，就这花花绿绿的配色，轮到孩子操心你偷吃他的月饼。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 10,
+      "snippet": "就这么一盒，129。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 23,
+      "snippet": "我建议你吃的时候记得沉肩，八口一组，连做四组。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 7,
+      "snippet": "这样，才更好。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "还有更多好东西吗？"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 5,
+      "snippet": "海了去了。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 34,
+      "snippet": "沃集鲜这么6的月饼还有很多，传统的，不传统的，创新的，创飞的，都有。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 22,
+      "snippet": "每个价格都非常合理，压根就不跟你玩儿弯弯绕。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 16,
+      "snippet": "为什么沃尔玛是月饼节的创造神仙？"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 49,
+      "snippet": "因为以它的出货量，以及它背后的供应链，它根本不需要等到中秋这天跟你讲故事，它每天"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 36,
+      "snippet": "你敢想和不敢想的东西它都能搞定，那怎么创新出好吃好玩的东西，它更有创意。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 8,
+      "snippet": "中秋节该相聚吧？"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 2,
+      "snippet": "该。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 9,
+      "snippet": "走亲访友是喜事吧？"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 2,
+      "snippet": "是。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 45,
+      "snippet": "正好今年沃集鲜中秋还有惊喜，9月14日-21日，沃集鲜简单食铺在深圳潮流地标深业"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 12,
+      "snippet": "深圳的朋友简直太享福了！"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 35,
+      "snippet": "沃集鲜月饼的中式美学、月饼馅里的食材本味，在这几天让你了解得明明白白。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 34,
+      "snippet": "现场“挖”黄芪、品茯苓、闻当归，还有免费中秋香囊制作，猎奇月饼尝鲜。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 3,
+      "snippet": "正啊！"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 4,
+      "snippet": "有得食！"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 38,
+      "snippet": "在中式的氛围感里解锁食材的故事，了解一日三餐的神奇，这不叫惊喜，什么叫惊喜？"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 48,
+      "snippet": "你就交给沃尔玛解决性价比，你就负责解决热价比，月饼是好东西，那就让你的每一口热量"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 12,
+      "snippet": "好日子，选沃尔玛就够了。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 7,
+      "snippet": "千里，共欢喜。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 7,
+      "snippet": "长按识别二维码"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 7,
+      "snippet": "点击进入沃尔玛"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 6,
+      "snippet": "【特约发布】"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "极断开场：月饼=人类最极端行业，再用游戏分路隐喻旧口味阵营。",
+      "patterns": [
+        "极端断言钩子",
+        "游戏分路拟人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "人类最极端的行业，就是月饼行业。",
+          "note": "极端行业断言"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "是五仁负责主C，冬瓜负责辅助，枣泥负责打野，豆沙负责清图。",
+          "note": "五仁主C分路"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "因为我就没见过这么两极反转的行业。",
+          "note": "两极反转铺垫"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "旧月饼保值保守→沃尔玛创新到诺奖级→逐款礼盒实证→供应链日创故事→现场活动收束。",
+      "patterns": [
+        "旧新两极对照链",
+        "产品矩阵递进",
+        "供应链能力收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它的口味都不是保守了，是保值，商家都要质问你凭啥说今年的月饼不如去年，今年就是去",
+          "note": "旧保值口味"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你去沃尔玛逛一圈，你都要说诺贝尔奖也就那么回事儿吧，弄不好以后都被月饼界包圆了。",
+          "note": "创新诺奖级"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "因为以它的出货量，以及它背后的供应链，它根本不需要等到中秋这天跟你讲故事，它每天",
+          "note": "日创故事"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "function": "hook_contrast",
+          "note": "旧五仁阵营vs新创新极端"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "product_demo",
+          "note": "云腿野生菌鲜味三叉戟"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "product_demo",
+          "note": "珍膳秋养健康度拿捏"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76"
+          ],
+          "function": "premium_aesthetic",
+          "note": "松露高端+江南四时礼盒"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89"
+          ],
+          "function": "niche_fit",
+          "note": "健身减脂缝合怪礼盒"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114"
+          ],
+          "function": "cta_close",
+          "note": "供应链神仙论+深圳活动CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用「但现在呢/首先/如果…那接下来/那么这一款」在产品段间切换。",
+      "patterns": [
+        "但现在呢转折",
+        "如果…那接下来递进",
+        "那么这一款承接"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "但现在呢？",
+          "note": "但现在呢"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "首先我要给大家介绍第一个沃集鲜狠活，云腿X野生菌小饼礼盒。",
+          "note": "首先介绍"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "如果这个是鲜香猎奇，那接下来这款主推的珍膳秋养月饼礼盒，就是今年中秋合家欢乐的秘",
+          "note": "如果…那接下来"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "旧保值翻新 vs 新猎奇神级；便宜拿不出手 vs 松露正正好；传统甜腻 vs 清淡秋养。",
+      "patterns": [
+        "旧新口味对撞",
+        "价格档位对撞",
+        "甜腻vs清淡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "它的口味都不是保守了，是保值，商家都要质问你凭啥说今年的月饼不如去年，今年就是去",
+          "note": "旧保值"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "它创新到你成了保守派了，你看看那个馅都要说人类居然还能发现那种排列方式，你再一看",
+          "note": "创新到保守派"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "精准做出四款超适配秋日的健康馅料：雪梨百合、陈皮山楂、苹果黄芪、覆盆子枸杞，每一",
+          "note": "无甜腻负担"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "设问驱动产品卖点：礼盒6到哪儿、有啥、妙在哪儿、是否完美阐释寓意。",
+      "patterns": [
+        "卖点自问自答",
+        "价值确认问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "这礼盒它6到哪儿？",
+          "note": "礼盒6到哪儿"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "这个月饼有啥？",
+          "note": "有啥"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "这个月饼，妙在哪儿？",
+          "note": "妙在哪儿"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "你就说它是不是完美阐释了月饼的寓意。",
+          "note": "是否完美阐释"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "逐款具名礼盒+具体食材清单作证据，辅以场景送礼/健身兄弟对话。",
+      "patterns": [
+        "具名礼盒举证",
+        "场景对话例证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有宣威火腿，有鸡枞菌，有牛肝菌。",
+          "note": "火腿菌清单"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "精准做出四款超适配秋日的健康馅料：雪梨百合、陈皮山楂、苹果黄芪、覆盆子枸杞，每一",
+          "note": "四款健康馅"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "兄弟问你吃没吃月饼，有没有偷偷加练的时刻，你拿着这个月饼说没练没练，兄弟放心了。",
+          "note": "兄弟加练对话"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "鲜味/江南风情等抽象感受落到菌种、四时香果茶、具体价格与地点。",
+      "patterns": [
+        "抽象鲜味→菌种三叉戟",
+        "风情→四时清单",
+        "价值→价签场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "现在鸡枞为你打工，它成了鲜味搬运工，它们仨就成了鲜味三叉戟，搅的你味觉翻来又覆去",
+          "note": "鲜味三叉戟"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "春天的玫瑰，初夏的栀子花，夏天的百合，秋季的桂花，这就是江南四时四香。",
+          "note": "江南四时四香"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "这一款我都不用说别的，它标价159，你把这个颜值拍个照发朋友圈，是不是值599？",
+          "note": "159拍出599感"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "强主观褒贬：就该这么创、正正好、雅、创造神仙、好日子选沃尔玛。",
+      "patterns": [
+        "连复赞叹",
+        "神仙级总评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "就该这么创！",
+          "note": "就该这么创"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "那么这一款月饼正，正，好，好。",
+          "note": "正正好好"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "为什么沃尔玛是月饼节的创造神仙？",
+          "note": "创造神仙"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "几乎无自我纠错；以「但最大的特色不是这个」作卖点重心重定向。",
+      "patterns": [
+        "卖点重心重定向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "但最大的特色，不是这个，是里面的鸡枞菌。",
+          "note": "最大特色不是这个"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短断言+中段长比喻堆叠+结尾口号短句；重复「就该这么创」加压。",
+      "patterns": [
+        "短断言开场",
+        "长比喻中段",
+        "口号短句收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "人类最极端的行业，就是月饼行业。",
+          "note": "短断言"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "就该这么创！",
+          "note": "重复加压"
+        },
+        {
+          "sentence_id": "s110",
+          "snippet": "好日子，选沃尔玛就够了。",
+          "note": "口号收束"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "嘲讽旧月饼→兴奋猎奇→雅致审美→健身戏谑→节日欢喜收口。",
+      "patterns": [
+        "嘲讽→兴奋",
+        "雅致→戏谑→欢喜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我说嫦娥在月球上看到人类还在吃五仁都笑发财，多亏我跑的早，这才是真正的流浪地球。",
+          "note": "嘲讽五仁"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "我已经等不及啦！",
+          "note": "等不及兴奋"
+        },
+        {
+          "sentence_id": "s111",
+          "snippet": "千里，共欢喜。",
+          "note": "共欢喜"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣「玩弄人类」到沃尔玛解决性价比/热价比，二维码行动闭环。",
+      "patterns": [
+        "主题词回扣",
+        "二维码闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s109",
+          "snippet": "你就交给沃尔玛解决性价比，你就负责解决热价比，月饼是好东西，那就让你的每一口热量",
+          "note": "性价比热价比"
+        },
+        {
+          "sentence_id": "s112",
+          "snippet": "长按识别二维码",
+          "note": "长按二维码"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "直接催购+场景邀约：不要犹豫寄几、深圳深业上城、点进沃尔玛。",
+      "patterns": [
+        "催寄几",
+        "线下惊喜邀约",
+        "识码进店"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "不要控制你寄几。",
+          "note": "不要控制寄几"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "正好今年沃集鲜中秋还有惊喜，9月14日-21日，沃集鲜简单食铺在深圳潮流地标深业",
+          "note": "深业上城等你"
+        },
+        {
+          "sentence_id": "s113",
+          "snippet": "点击进入沃尔玛",
+          "note": "点击进入"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "游戏黑话分路、网络拟声「刚刚好/妙妙妙」、嫦娥流浪地球梗密度高。",
+      "patterns": [
+        "游戏分路黑话",
+        "叠词拟声褒贬",
+        "跨梗混搭"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "是五仁负责主C，冬瓜负责辅助，枣泥负责打野，豆沙负责清图。",
+          "note": "主C辅助打野"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "但经过沃集鲜处理后，你会觉得刚，刚，好。",
+          "note": "刚刚好"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我说嫦娥在月球上看到人类还在吃五仁都笑发财，多亏我跑的早，这才是真正的流浪地球。",
+          "note": "流浪地球梗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "软广痕迹重、截图占位句打断、产品段同构易疲劳。",
+      "patterns": [
+        "软广同构疲劳",
+        "截图占位打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "（截图来自小红书）",
+          "note": "截图来自小红书"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "【特约发布】",
+          "note": "特约发布"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "少暴露犹豫过程，多以「说白了/我都不敢想象」假装共思后给结论。",
+      "patterns": [
+        "说白了揭底",
+        "不敢想象共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "说白了，松露为什么名头响？",
+          "note": "说白了松露"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "火腿又香又醇，再加上鲜到在云南巴不得每日打卡的牛肝菌，我都不敢想象咸口爱好者吃一",
+          "note": "不敢想象声音"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者定位为送礼人/咸口爱好者/精致女孩/健身党等可切换人设。",
+      "patterns": [
+        "送礼人定位",
+        "人群切片切换"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "一张粉色票子够呛能给你送到云南，但能把云南送给你，不管是云贵川本地人，还是向往西",
+          "note": "送礼超合适"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "如果是对于生活、香味、质感、审美有追求的女孩子，这一盒更是绝。",
+          "note": "追求审美女孩"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "最后，如果你是健身爱好者，对于减脂有追求，或者你不想让小朋友吃太甜的东西，我给你",
+          "note": "健身爱好者"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "宣威火腿/鸡枞/松露/159元/129元/9月14-21深圳深业上城等硬锚。",
+      "patterns": [
+        "食材地名锚",
+        "价签锚",
+        "档期地点锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "有宣威火腿，有鸡枞菌，有牛肝菌。",
+          "note": "宣威火腿菌"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "就这么一盒，129。",
+          "note": "129价"
+        },
+        {
+          "sentence_id": "s102",
+          "snippet": "正好今年沃集鲜中秋还有惊喜，9月14日-21日，沃集鲜简单食铺在深圳潮流地标深业",
+          "note": "深圳档期"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密度情绪钩→产品段高密度食材清单→结尾中密度供应链+活动信息。",
+      "patterns": [
+        "钩子低密",
+        "产品高密清单",
+        "结尾活动中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "人类最极端的行业，就是月饼行业。",
+          "note": "低密钩子"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "精准做出四款超适配秋日的健康馅料：雪梨百合、陈皮山楂、苹果黄芪、覆盆子枸杞，每一",
+          "note": "高密馅料"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "现场“挖”黄芪、品茯苓、闻当归，还有免费中秋香囊制作，猎奇月饼尝鲜。",
+          "note": "活动项目"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "断言→设问→长比喻排比→叠词短句爆发→编号分段推进。",
+      "patterns": [
+        "设问接长喻",
+        "叠词短爆发",
+        "编号分段"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "它之前是什么样？",
+          "note": "设问"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "现在鸡枞为你打工，它成了鲜味搬运工，它们仨就成了鲜味三叉戟，搅的你味觉翻来又覆去",
+          "note": "长喻排比"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "2",
+          "note": "编号2"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛式戏谑吃货嘴：把行业当游戏、把送礼当寄几、把沃尔玛当神仙。",
+      "patterns": [
+        "戏谑吃货视角",
+        "游戏化品评"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "就往我的消化道猛攻！",
+          "note": "消化道猛攻"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "为什么沃尔玛是月饼节的创造神仙？",
+          "note": "创造神仙"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "鲜味三叉戟、江南四时四香/果/茶、寄几、创造神仙等可复述标签。",
+      "patterns": [
+        "三叉戟标签",
+        "四时矩阵",
+        "神仙标签"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "现在鸡枞为你打工，它成了鲜味搬运工，它们仨就成了鲜味三叉戟，搅的你味觉翻来又覆去",
+          "note": "鲜味三叉戟"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "春天的玫瑰，初夏的栀子花，夏天的百合，秋季的桂花，这就是江南四时四香。",
+          "note": "四时四香"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "为什么沃尔玛是月饼节的创造神仙？",
+          "note": "创造神仙"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "产品矩阵+人群切片+供应链能力叙事可改编观宇消费口播，需大幅降软广口吻并去特约痕迹。",
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先我要给大家介绍第一个沃集鲜狠活，云腿X野生菌小饼礼盒。",
+          "note": "产品开讲"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "因为以它的出货量，以及它背后的供应链，它根本不需要等到中秋这天跟你讲故事，它每天",
+          "note": "供应链日创"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "你就交给沃尔玛解决性价比，你就负责解决热价比，月饼是好东西，那就让你的每一口热量",
+          "note": "性价比热价比"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s5",
+    "s3",
+    "s6",
+    "s9",
+    "s96",
+    "s4",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s48",
+    "s16"
+  ],
+  "fields_complete_25": true
+}

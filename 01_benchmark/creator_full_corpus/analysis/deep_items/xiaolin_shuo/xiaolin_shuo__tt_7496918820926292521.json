@@ -1,0 +1,3454 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__tt_7496918820926292521",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7496918820926292521/",
+  "source_sha256": "f9443d24131615eff0f8b4c7e3d89d865fefd1f2c591ee2664bc90011a6b032d",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 484,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 2,
+      "snippet": "瑞士"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "独特的\"老钱\""
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 36,
+      "snippet": "瑞士其实是一个非常非常奇特的经济体：首先它非常有钱，或者说它非常能赚钱。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 34,
+      "snippet": "2024年瑞士的人均GDP达到了惊人的10.6万美元，全球排名第二。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 37,
+      "snippet": "第一名是卢森堡，人口才60多万，所以瑞士基本上就是全球人均最能赚钱的国家。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 45,
+      "snippet": "而神奇的是，边上的德国、法国，就紧挨着，几乎就是自由贸易，但人均GDP只有瑞士的一半左右；"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "意大利就更不行了。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "这不奇怪么？"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 68,
+      "snippet": "瑞士是怎么做到在人力成本和物价极高，自然资源极其匮乏的情况下，依然能甩开边上邻居们，甚至说甩开全球所有国家，保持住这么高的人均GDP的？"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 14,
+      "snippet": "而且瑞士为什么非要保持中立？"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 16,
+      "snippet": "它凭什么两百年就能保持得住中立？"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 20,
+      "snippet": "它的手表怎么就能做得那么好，卖那么老贵？"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "它的银行怎么就那么安全？"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 26,
+      "snippet": "我们今天就来一口气了解一下，这个奇特的——瑞士经济。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "瑞士的\"中立\""
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 19,
+      "snippet": "瑞士身上最大的标签，就是它的\"中立\"。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 80,
+      "snippet": "当然，瑞士所谓的中立，也会有很多立场，也会受到各种国际政治博弈的影响，比如说前两年俄乌战争期间，瑞士迫于美国和欧盟的压力，冻结了俄罗斯相关资产超过150亿美元。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 12,
+      "snippet": "类似的事儿瑞士也没少干。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 42,
+      "snippet": "但至少相对而言，尤其是在欧洲的核心位置，他能做到如此的中立，已经是相当不可思议的了。"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 42,
+      "snippet": "瑞士不加入欧盟、不加入欧元区、也不加入北约，连联合国都是2002年不情不愿才加入的。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 48,
+      "snippet": "别的国家的国旗都是长方形的，它就一定要是正方形的，你从哪个方向看，从正面反面看，都可以，都一样。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 16,
+      "snippet": "显示我们的公正、独立、不偏不倚。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 23,
+      "snippet": "有的时候，瑞士甚至都让人感觉它有点特立独行了。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 26,
+      "snippet": "比如纸币，人家都是横着的，瑞士的瑞郎就非得是竖着的。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 68,
+      "snippet": "其实宣称自己中立的国家有很多，比如 爱尔兰、墨西哥、奥地利、加纳、梵蒂冈、巴拿马等等，但说实在的，很多国家吧，咱说直白点，就是那么一说。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 18,
+      "snippet": "尤其是和平时期，宣称自己中立并不难:"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 41,
+      "snippet": "\"我宣布了啊，我们国家就好好发展经济，你们别的国家如果打架别带上我啊，我们要和平。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "这确实很合理。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 38,
+      "snippet": "但是一旦真的被战争波及到，甚至打到了家门口，你还想继续保持中立就非常困难了。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 28,
+      "snippet": "这可不是说一句 \"我中立啊，你们都别打我\"就能躲过去的。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 51,
+      "snippet": "比如挪威、荷兰，其实也和瑞士类似，从19世纪就开始宣布自己永久中立，但二战一开打就保持不住被卷了进去。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 70,
+      "snippet": "瑞典甚至都扛过了一战二战、抗住了冷战，保持中立没参战，但是2022年俄乌战争一爆发，紧张了，坐不住了，加入了北约，相当于放弃了中立国的身份。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 33,
+      "snippet": "所以，想要在数百年经过战争的洗礼后，始终保持中立，难度是非常大的。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 36,
+      "snippet": "而瑞士从1815年确立了自己的中立国位置，就从来没有参与过任何外国战争。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "你说它是怎么做到的？"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "二战时期"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 47,
+      "snippet": "尤其是二战期间，瑞士可是身处漩涡中心，北边挨着德国，南边就是意大利，西边是法国，东边是奥地利。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 61,
+      "snippet": "简直是魔鬼地带了，家门口都打疯了、炸烂了，它居然真的就像有个\"金刚罩\"一样，独善其身，完好无损的保持中立，这是怎么做到的?"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 26,
+      "snippet": "这背后既要有非常合理的策略，同时又要付出巨大的代价。"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 22,
+      "snippet": "我总结啊，它在二战的时候主要有这么两大战略:"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "第一：你得够狠辣；"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "第二：你得够圆滑。"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "战略一：狠辣"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 19,
+      "snippet": "狠辣并不是对别人狠辣，而是对自己狠辣。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 43,
+      "snippet": "核心思想就是: 把炸药绑在自己身上，说 \"你别过来啊，你要是再靠近，我就跟你同归于尽。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 21,
+      "snippet": "其实瑞士的地形，它整个国家有点像个三明治："
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 15,
+      "snippet": "南边和东边是绵延的阿尔卑斯山；"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 20,
+      "snippet": "西北边和法国接壤的部分，主要是侏罗山脉；"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 17,
+      "snippet": "北边和德国接壤的是莱茵河和博登湖；"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 25,
+      "snippet": "中间夹着这一条瑞士高原，也是大部分人口生活的地方。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 40,
+      "snippet": "所以，整个国家四周，不是山就是水，和外界主要的连接主要是少量的隧道、桥梁、山路。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 55,
+      "snippet": "这从经济活动、对外交流的角度来看，简直就是一个交通地狱，但是从军事的角度来看，那就是一个绝佳的天险，易守难攻。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 13,
+      "snippet": "这就给了瑞士人很大的底气。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 22,
+      "snippet": "当时二战爆发，他们也非常紧张，完全不想参战。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 15,
+      "snippet": "就秘密实施了\"国家堡垒计划\":"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 46,
+      "snippet": "围绕阿尔卑斯山区，修建了一系列防御工事，大量的反坦克大炮、机枪隐藏在山体里，或者伪装成谷仓。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 38,
+      "snippet": "直到现在很多大炮都还保留着，很多平平无奇的小房子一拉开门，后面就是一个大炮。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 26,
+      "snippet": "而这些大炮，就对准了这些关键性公路、桥梁、或者隧道。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 50,
+      "snippet": "其实这很难把德国的坦克全都摧毁，但是它很主要的功能是摧毁自己的道路，甚至对准山上以备随时制造泥石流。"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 52,
+      "snippet": "这还不够，它们在整个国家四周上百个大大小小的交通要塞，每个地方都埋了成吨的炸药，随时准备切断和外界联系。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 19,
+      "snippet": "这些炸药直到2015年才基本清理完成。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 27,
+      "snippet": "这还不够，瑞士还在大量的山体里挖洞，作为掩体、防空洞。"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 45,
+      "snippet": "据不完全统计挖了上万个大型掩体，小型掩体无数，里面准备了足够的必需品、通讯设备，还有炸药。"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 12,
+      "snippet": "这就是它的\"刺猬战略\"。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 57,
+      "snippet": "给其它国家很明确的信号，我攻击力不一定强，但是也绝对不好惹，你要是想强行拿下我，我就跟你拼死一搏，至少扎你一手血。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 40,
+      "snippet": "有一座连接德国和瑞士的桥，2006年翻新完工，瑞士人居然还是在桥墩上藏了TNT。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 46,
+      "snippet": "由此可见，这瑞士人也是够谨慎的，二战都过去六十多年了，苏联都解体十多年了，它还留着这些炸药。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "战略二：圆滑"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 6,
+      "snippet": "但这还不够。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 10,
+      "snippet": "我们说回到二战时期。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 24,
+      "snippet": "就算埋了这些炸药、隐藏了这些大炮、挖了这些掩体。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 35,
+      "snippet": "当时的德国军队如果铁了心要拿下瑞士，虽然成本会很高，但也是问题不大的。"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 26,
+      "snippet": "实际上，当时希特勒已经作了详细的拿下瑞士的作战计划。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 17,
+      "snippet": "所以瑞士同时还有第二招，就是圆滑。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 33,
+      "snippet": "瑞士作为一个刺猬的同时，还会和大家合作，还是一个有利用价值的刺猬。"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 74,
+      "snippet": "瑞士的银行作为中立的银行，甭管你是英国人、法国人、美国人，还是德国人、意大利人，甭管你的钱是赚来的、赢来的，还是偷来的、抢来的，我都愿意和你做生意。"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 11,
+      "snippet": "钱放在我这您就放心吧！"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 38,
+      "snippet": "因为有中立国的身份，瑞士法郎是二战期间全球唯一可以自由兑换、自由流通的货币。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 34,
+      "snippet": "所以当时纳粹德国、包括英法大量的金条，都存在瑞士的银行里，换来瑞郎。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 31,
+      "snippet": "瑞士的银行就能以低于市场的价格，去收购很多战争中掠夺来的黄金。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 69,
+      "snippet": "1998年瑞士国家银行才承认，瑞士在二战中从纳粹手中获得了当时价值4.4亿美元的黄金，瑞士的金融帮助，其实也是支撑当时德国经济的关键一环。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 46,
+      "snippet": "所以这些事爆料出来之后，大大损害了瑞士的国际形象，也导致了瑞士的重大变革，这个我们下文会聊。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 41,
+      "snippet": "而瑞士人的辩护方表示：我们只是为了自保啊，而且也只是无差别的和任何人做生意而已嘛。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 12,
+      "snippet": "我们这就不做道德评判了。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 48,
+      "snippet": "总之，瑞士确实通过对自己够狠，对纳粹德国够圆滑，顺利躲过了二战的摧残，甚至还通过战争小赚了一笔。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 6,
+      "snippet": "为什么要中立"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 16,
+      "snippet": "瑞士人怎么对中立有这么大的执念？"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 5,
+      "snippet": "这是怂么？"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 13,
+      "snippet": "其实不是，它是非常能打的。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 31,
+      "snippet": "能打到什么程度呢，历史上很长一段时间瑞士人是以当雇佣兵闻名的。"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 54,
+      "snippet": "13世纪开始，经历了大大小小多次战争之后，欧洲这些国家们就发现了，这瑞士人是真能打，战斗力又强、纪律性还好。"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 32,
+      "snippet": "再加上瑞士本身又没什么自然资源，与外界又连通不畅，经济并不发达。"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 61,
+      "snippet": "所以瑞士人经常去给附近别的国家当雇佣兵，他们的长矛兵尤其厉害，组成的方阵也是跟个刺猬似的，开始在战场上横冲直撞，所向披靡。"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 38,
+      "snippet": "在15世纪的时候，几乎是垄断了欧洲的长矛兵市场，之后开始被其它国家纷纷效仿。"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 21,
+      "snippet": "直到现在，你知道保卫教皇的护卫队叫什么吗？"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 20,
+      "snippet": "就叫Swiss Guard，瑞士护卫队。"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 87,
+      "snippet": "到17世纪开始，一方面瑞士经历了几次惨败之后有点被战争打累了，而且在几百年的雇佣兵经济里也有了自己的原始积累，连银行业都很大程度是为了管理雇佣兵的佣金，而迅速发"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 17,
+      "snippet": "经济有底了，才决定宣布自己中立的。"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 50,
+      "snippet": "但当时即便宣布自己中立，还是加了一条: 我虽然说自己中立，但还是可以当雇佣兵啊，甲方朋友们不用担心。"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 17,
+      "snippet": "后来，瑞士被短暂的入侵了一段时间。"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 50,
+      "snippet": "最终在1815年的维也纳会议中，欧洲各国正式确立了瑞士永久中立国的身份，并保持了两百多年，直至今日。"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 54,
+      "snippet": "这才吸引了比如世贸组织、世界卫生组织、国际清算银行、红十字会、国际足联等全球50多个国际组织把总部设在瑞士。"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 2,
+      "snippet": "保密"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 6,
+      "snippet": "银行业的崛起"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 62,
+      "snippet": "而因为这个中立国身份最受益的一个行业之一，也是瑞士在全球的一个王牌产业，就是它的银行业，再具体说一点，就是它银行的财富管理。"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 22,
+      "snippet": "财富管理说白了就是给高净值人群，给富人管钱。"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 44,
+      "snippet": "大概从二战之后，瑞士就是全球最大的离岸金融中心，全球1/4的跨境资产是存在瑞士的银行中。"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 59,
+      "snippet": "据瑞银UBS统计，全球的Billionaires，资产超过10亿美元的超级富豪，46%，也就是接近一半都是他们的客户。"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 19,
+      "snippet": "为什么瑞士的银行能够吸引全球的富豪呢？"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 27,
+      "snippet": "它曾经的杀手锏，注意啊，是曾经的杀手锏，就是——保密。"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 51,
+      "snippet": "瑞士早在1934年就推行了它具有里程碑意义的一个联邦法律《联邦银行和储蓄银行法》，俗称《瑞士银行法》。"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 19,
+      "snippet": "法案最有名的就是第47条，明确规定了:"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 56,
+      "snippet": "\"未经同意或者未经接受的刑事投诉，向外国实体、第三方甚至是瑞士当局披露客户在国内银行的信息或活动，属于联邦犯罪。"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 49,
+      "snippet": "说白了就是银行不能向任何人透露客户信息，包括瑞士当局、包括任何其它国家，这都是写进联邦法律里头的。"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 27,
+      "snippet": "\"你来我这管钱就放一百个心吧，我们的嘴用锯子都锯不开。"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 1,
+      "snippet": "\""
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 79,
+      "snippet": "二战打得那么你死我活，战争双方竟然都能放心的把贵重物品保管在瑞士的银行，虽然很多人为此对瑞士从道德层面上口诛笔伐，但这可以说是它银行业的保密程度最好的广告了。"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 54,
+      "snippet": "凭借着保密的特点，再加上瑞士把税率调到很低，成了个避税天堂，让它的银行在二战之后迅速吸引来自全球的资本落户。"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 28,
+      "snippet": "也迅速成长起来了 两大巨头银行: 瑞士银行和瑞士信贷 。"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 21,
+      "snippet": "这些银行也不断的强化自己保密、安全的特点。"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 53,
+      "snippet": "正好瑞士不是挖了很多掩体、地道么，瑞银干脆就买下一些山洞，把金库就藏在阿尔卑山下，瑞信就把保险箱藏在水下。"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 32,
+      "snippet": "虽然不一定有这个必要，但听着就很安全，名声也越传越远，越传越神。"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 24,
+      "snippet": "各种影视作品中，瑞士就是最高级别保密的代名词了:"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 23,
+      "snippet": "我记得《华尔街之狼》里就有利用瑞士的银行洗钱；"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 22,
+      "snippet": "《达·芬奇密码》里头也利用了瑞士的匿名账户；"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 35,
+      "snippet": "《谍影重重》Jason Bourne也是在瑞士的保险箱里拿到护照和钱；"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 11,
+      "snippet": "《007》里就更多了。"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 49,
+      "snippet": "所以我小时候都感觉，瑞士的银行和保险箱恨不得感觉瑞士的银行金库就是全世界最神秘、最坚不可摧的地方。"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 77,
+      "snippet": "有银行法、低税收和媒体宣传联合推动，瑞士的私人银行业迅速壮大，瑞银在2023年收购了瑞信之后，管理资产达到了5.8万亿美元, 这相当于瑞士GDP的7倍多!"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 64,
+      "snippet": "虽然瑞士的银行业，单看它对瑞士GDP的贡献并没有那么突出，不到10%，但是它通过吸引外来富豪所带来的名片效用、连带作用是巨大的。"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 18,
+      "snippet": "成为了瑞士经济至关重要的发动机之一。"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 8,
+      "snippet": "保密机制的黑暗面"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 32,
+      "snippet": "不过，这么好的保密机制，富豪过来存钱的目的可能有些就不太干净了。"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 10,
+      "snippet": "最常见的，就是逃税。"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 49,
+      "snippet": "很多人去开曼群岛建个离岸的空壳公司，以这个公司的名义在瑞士开个户，以此来掩盖银行账户背后的所有者。"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 20,
+      "snippet": "开曼群岛我们之前聊过，就是一层信息隔离；"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 29,
+      "snippet": "瑞士的银行又是一层隔离，不管是美国、欧洲来要，瑞士能不给。"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 17,
+      "snippet": "这不就可以通过隐藏收入来逃税了么。"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 29,
+      "snippet": "当然我强调一下，这是以前啊，现在不能这么干了，下文会提到。"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 33,
+      "snippet": "而逃税可能都算是比较干净的理由了，还有大量的罪犯会把脏钱放在瑞士。"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 67,
+      "snippet": "比如菲律宾前总统马科斯，1965年 - 1986年执政期间贪污、受贿了一百多亿美元，被吉尼斯世界纪录评为\"有史以来最大的政府盗窃案\"。"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 26,
+      "snippet": "马科斯家族当时很多财富都通过匿名账户存到了瑞士银行。"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 39,
+      "snippet": "最后经过了16年的诉讼，犯罪定性了, 瑞士政府才向菲律宾返还了6.83亿美元。"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 46,
+      "snippet": "类似的还有尼日利亚前总统、伊拉克前总统等等很多政客，都在瑞士的银行中存了至少数亿美元的资产。"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 21,
+      "snippet": "这还是爆出来的，实际上肯定只是冰山一角了。"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 30,
+      "snippet": "另外像毒枭、诈骗集团、黑帮等等在瑞士的银行账户更是数不胜数。"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 7,
+      "snippet": "保密机制的终结"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 8,
+      "snippet": "瑞士的保密机制。"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 14,
+      "snippet": "成了全球资本藏污纳垢的一角。"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 46,
+      "snippet": "最开始还都是一些坊间传闻，一些流言蜚语，有也都是一些极个别的案例说哪个犯罪分子在瑞士开了户。"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 31,
+      "snippet": "90年代之前各国对瑞士的施压，要求信息共享，瑞士也基本不搭理。"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 13,
+      "snippet": "但纸终究是包不住火的..."
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 111,
+      "snippet": "1997年，一个叫梅利 (Christoph Meili) 的不到30岁的年轻人，他当时在瑞士银行当警卫，偶然间发现瑞银正在销毁大屠杀时期，犹太孤儿相关的资产文"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 38,
+      "snippet": "于是梅利偷偷把这些文件带回了家并交给了一个犹太组织，最后这个文件被公之于众。"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 33,
+      "snippet": "梅利也成为了第一个因为违反《瑞士银行法》遭到瑞士联邦政府通缉的人。"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 12,
+      "snippet": "他不得不赶紧跑到了美国。"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 26,
+      "snippet": "而公众在看到了文件信息之后对瑞士银行排山倒海的谴责。"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 30,
+      "snippet": "瑞银在1998年8月和犹太受害者达成了12.5亿美元的和解。"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 17,
+      "snippet": "并且和梅利达成了75万美元的和解。"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 43,
+      "snippet": "这个事件虽然平息了，但可以说是撕开了一个口子，让公众认识到瑞士的银行业不可告人的一面。"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 71,
+      "snippet": "这个事件可以说是瑞士银行业的一个关键转折点，你别看之后的十年随着全球资本过热，瑞士银行业也跟着疯狂了一把，这其实更像是一波\"末日Party\"。"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 53,
+      "snippet": "2005年之后，接二连三的有关瑞士银行业的内部文件被爆出来，揭露了瑞士的银行通过各种方式帮助海外客户逃税。"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 55,
+      "snippet": "2009年，瑞银和美国司法部达成协议，支付了7.8亿美元的罚款，并给美国提供超过4000个美国客户的账户信息。"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 48,
+      "snippet": "原本的小口子一下子就被扯开了，包括德国、法国、比利时等国都纷纷开始调查瑞士是否帮助本国公民逃税。"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 34,
+      "snippet": "瑞士迫于各国政府，以及舆论的压力，和美国、欧盟纷纷签了信息交换协议。"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 23,
+      "snippet": "涉及这些国家居民的账户信息是需要和它们共享的。"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 81,
+      "snippet": "虽然现在在信息共享的时候瑞士还是会有很多限制，虽然它的保密制度仍然适用于所有瑞士公民，但是在国际上瑞士之前半个世纪的成名标签 - \"保密\"，实际上已经名存实亡了"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 65,
+      "snippet": "从2008年之后，瑞士的金融业一路下坡，虽说还不至于富豪们直接大规模撤资，但是整体银行业的竞争力是基本上没办法和美国那些银行比的。"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 39,
+      "snippet": "瑞士银行业的GDP占比也从2007年的11.2%下滑到2022年的8.9% 。"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 67,
+      "snippet": "这两大银行里，瑞士信贷更是因为它投行部过于激进的策略，管理层持续动荡，高层频频陷入丑闻，再加上市场这么稍微一动荡，2023年遭到挤兑。"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 47,
+      "snippet": "最终瑞士央行强势介入，差不多是把刀架在瑞银和瑞信的脖子上，最终瑞银以32.5亿美元收购了瑞信。"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 44,
+      "snippet": "当时瑞信的管理资产还超过一万亿美元呢，这么庞大的收购案几天就决定了，后来真的是一地鸡毛。"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 15,
+      "snippet": "瑞银也成了瑞士唯一的银行巨头。"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 27,
+      "snippet": "但不管怎么说，\"保密\"让瑞士的银行业吃到了巨大的红利。"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 6,
+      "snippet": "日内瓦自由港"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 37,
+      "snippet": "而且瑞士的这种\"保密\"的思想，并不仅限于银行，它能保守的秘密也不仅限于钱。"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 66,
+      "snippet": "这个看起来非常正常、非常不起眼的大楼，它其实是个在全球富豪圈闻名的隐形金库，非常神秘，藏着大概有120万件艺术品，相当于两个卢浮宫。"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 26,
+      "snippet": "光毕加索的画就有上千幅，还有梵高、达芬奇、莫奈等等。"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 39,
+      "snippet": "据估算，藏品总估值超过了1000亿美元, 被称为\"全球最大的隐形艺术博物馆\"。"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 27,
+      "snippet": "而这个地方，也是很多地下交易、避税、逃税、洗钱的核心。"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 13,
+      "snippet": "这就是 —— 日内瓦自由港"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 25,
+      "snippet": "虽然它叫港口，Port, 但其实没有水，更没有船。"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 12,
+      "snippet": "就是一个免税的经济特区。"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 79,
+      "snippet": "很多国家其实都有为了促进贸易、吸引海外投资而设立的自由贸易区、自由经济区等等的经济特区，在这些经济特区里面很多经济活动，比如进出口、投资、加工等等可以免关税。"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 92,
+      "snippet": "而自由港也属于一类经济特区，它就有点像个临时的免税储藏柜，比如你要是想把货物临时在我这存放一下，之后就运走，这种\"过境\"的情况，那我就不收你进口再出口的关税了，"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 31,
+      "snippet": "其实自由港在很多国家都很常见，全球加起来有超过600个自由港。"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 15,
+      "snippet": "而日内瓦自由港有什么不一样呢？"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 21,
+      "snippet": "它除了免税，还有一个很大的卖点，是什么啊？"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 8,
+      "snippet": "没错，就是保密。"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 46,
+      "snippet": "之前在日内瓦自由港，存储者身份、物品来源及价值都是严格保密，租用者甚至可通过壳公司匿名操作。"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 64,
+      "snippet": "港口可能就知道开曼群岛的一个神秘的公司，存了一个里面不知道放了什么艺术品的箱子，具体是什么我也不管，就负责保管好然后收钱就是了。"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 31,
+      "snippet": "这种保密制度对于艺术品收藏行业来说，你懂的，可以说是至关重要。"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 26,
+      "snippet": "这个地方又免税，又保密，很多艺术品收藏家会怎么干呢。"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 66,
+      "snippet": "他花重金拍下艺术品以后，不用运回自己的国家，直接拉到日内瓦自由港存着就好，存他个几年十几年，等到合适的时机、找到合适的买家转手卖掉。"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 37,
+      "snippet": "这样就不用交任何国家的关税和增值税，整个过程他可能压根就没见过这个艺术品。"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 66,
+      "snippet": "反正对于那些昂贵艺术品的收藏家来说，买卖艺术品主要是投资需求，就跟我们买股票一样，并不是摆在家里欣赏的，所以放在自由港的仓库里就行。"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 66,
+      "snippet": "很多艺术品就坐在日内瓦自由港里，经历买家卖家各种转手，整个过程东西本身可能都放在那没动过，每次转手就向海关出示个所有权转移文件就行。"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 73,
+      "snippet": "后来日内瓦自由港也发现自己吸引来了很多艺术品，所以加上了全套的服务，配上顶级安保措施、多名艺术专家，还有针对文物的修复、维护、保险等等的增值服务。"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 16,
+      "snippet": "你甚至还可以在自由港里办艺术展！"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 55,
+      "snippet": "其实它吸引来的不光是艺术品，还有很多红酒、古董，总之都是那种进出口可能会收很多税、同时又不怕长期存放的投资品。"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 20,
+      "snippet": "当然这么完善的设施，储存价格自然也不菲。"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 28,
+      "snippet": "现在一幅普通大小的画存在那，每个月大约需要1000美元。"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 27,
+      "snippet": "你要是想租一个小储藏间，每个月需要至少12000美元。"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 6,
+      "snippet": "整改和正规化"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 38,
+      "snippet": "这么保密的制度会吸引来什么，我相信你已经猜到了，就是大量非法的艺术品和文物。"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 21,
+      "snippet": "日内瓦自由港多次被卷入文物走私、洗钱案件。"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 67,
+      "snippet": "2005年之后，为了关闭非法文化财产交易的渠道，瑞士先后通过了一系列法案要求, 所有进口道瑞士的文物必须声明来源、所有权是谁以及价值。"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 16,
+      "snippet": "它保密的属性可以说逐渐被削弱掉。"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 23,
+      "snippet": "从那之后新存入的艺术品就都有详细的信息档案了。"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 45,
+      "snippet": "不过2009年之前存入的文物，大多数依然不清楚它们都是什么、那些匿名拥有者是谁、价值多少。"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 29,
+      "snippet": "瑞士又不能采取什么强制措施，不然就完全是砸了自己的招牌么。"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 53,
+      "snippet": "所以只能继续为这些不知名的匿名公司保管不知道是什么的神秘箱子，这个自由港中到底存了多少宝藏，至今还是个谜。"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 43,
+      "snippet": "大家发现没有，瑞士的一个核心战略是中立，而保持中立的一个重点就是保密，对一切客户保密。"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 27,
+      "snippet": "这在20世纪成为了瑞士吸引全球富豪、全球财富的杀手锏。"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 56,
+      "snippet": "而到了21世纪，各种保密协议开始土崩瓦解，标志着瑞士的保密时代的完结，它便没法再吃到保密背后灰色产业带来的红利。"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 5,
+      "snippet": "经济发动机"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 46,
+      "snippet": "但瑞士的经济并没有走下坡路，相反还能在四周都深受欧债危机拖累的大环境下，依然坚挺，逆势上涨。"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 6,
+      "snippet": "这是为什么？"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 43,
+      "snippet": "其实，瑞士早就逐渐摸索出来了一些新的王牌产业，新的杀手锏，早就不只是靠保密和银行业了。"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 4,
+      "snippet": "医药化工"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 30,
+      "snippet": "首先，我来考考大家: 你们知道瑞士市值最高的三个公司是谁吗？"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 25,
+      "snippet": "甚至都没有瑞士的宇宙大银行瑞银啊, 也不是劳力士。"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 13,
+      "snippet": "实际上是罗氏、雀巢和诺华。"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 24,
+      "snippet": "大家发现没有，这前三大公司里有两个都是医药公司。"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 22,
+      "snippet": "这就明朗了，瑞士经济的一大推动产业就是医药。"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 41,
+      "snippet": "对比瑞士过去25年的出口产品分布，这里面涨势最猛的就是底部红色的部分，这就是医药。"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 20,
+      "snippet": "现在 医药化工占了瑞士出口的半壁江山 。"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 39,
+      "snippet": "这也是为什么四周都是欧债危机的四面楚歌，瑞士依旧人均GDP高歌猛进的一大原因。"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 44,
+      "snippet": "观察下面的\"部分国家人均GDP\"对比图，是不是也很好理解，为什么瑞士不愿意加入欧盟了吧。"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 52,
+      "snippet": "瑞士：\"谁愿意加入你们啊，也不掂量掂量你们自己有几斤几两，看看你们自己的工资单，你们赚多少，我赚多少~\""
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 18,
+      "snippet": "瑞士的医药化工行业，怎么这么厉害呢？"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 70,
+      "snippet": "当然肯定是有机缘巧合的因素了，同时加上瑞士稳定的政治环境、高质量的人才、税收相对友好，还有它的货币瑞郎非常的可靠稳定，这个我们一会儿会分析。"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 72,
+      "snippet": "就给了医药行业一个非常优渥的土壤环境，而医药这个行业因为人才稀缺，聚集效应会非常明显，所以瑞士逐渐吸引整个欧洲甚至全球的人才、公司都来瑞士落户。"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 37,
+      "snippet": "这个行业它占GDP的比重不一定很高，但它对瑞士很重要的作用是什么你知道么。"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 25,
+      "snippet": "就是能拉高瑞士人的平均收入，当然也推高了它的物价。"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 57,
+      "snippet": "瑞士大约有75000人从事这个行业，平均月薪达到了超过11500美元, 也就是超过 8.3万人民币，月薪，平均 。"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 28,
+      "snippet": "你知道全球人均GDP第四的国家，紧跟在瑞士之后的是谁吗？"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 34,
+      "snippet": "就是爱尔兰，它能有这么高的GDP很大程度上也是受到了医药行业的推动。"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 3,
+      "snippet": "制造业"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 33,
+      "snippet": "瑞士经济的第二大功臣就是制造业，尤其是它的机床、精密仪器全球领先。"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 69,
+      "snippet": "它最初其实起源于19世纪瑞士的纺织业，之后瑞士的公司开始机械化生产、开发自己的机器，后来瑞士发现：咱在机器制造上的天赋，好像比纺织还要强。"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 59,
+      "snippet": "所以逐渐的，瑞士诞生了有很多家族企业，就坚持精专在某个细分领域，比如就加工齿轮、或者某个精密零件，把一个产品做到极致。"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 26,
+      "snippet": "最终整合起来的精密仪器在全球形成了非常高的技术壁垒。"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 36,
+      "snippet": "比如有家公司，叫做迅达，你可能没怎么听说过，但你看这个Logo眼不眼熟。"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 23,
+      "snippet": "他们就是全球最大的几个的做自动扶梯的公司之一。"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 32,
+      "snippet": "瑞士还有像ABB、利勃海尔(Liebherr) 都是制造业巨头。"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 4,
+      "snippet": "瑞士钟表"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 29,
+      "snippet": "而精密制造的极致，也是瑞士的一大王牌产业，就是它的手表了。"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 19,
+      "snippet": "瑞士表几乎可以说就是奢侈手表的代名词。"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 57,
+      "snippet": "从19世纪开始，瑞士的机械怀表、机械手表开始规模化生产，到20世纪初瑞士表年产量超过1亿只，占到全球总量的40%。"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 58,
+      "snippet": "后来收到日本石英表的冲击，瑞士的机械表一度面临重大危机，尤其是在低端市场岌岌可危，浪琴、雷达、Omega都濒临破产。"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 60,
+      "snippet": "于是两个陷入财务困境的公司(ASUAG/SSIH)在1983年合并，并且推出了一个让人意想不到的手表品牌：Swatch。"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 51,
+      "snippet": "以低成本、时尚、艺术为核心理念打造，大部分就是塑料表壳，完全颠覆了传统手表的形象，在全球市场迅速走红。"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 44,
+      "snippet": "很大程度上帮瑞士的手表市场抗住了冲击，也通过资本运作带着很多传统品牌都成功的转型高端化。"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 16,
+      "snippet": "你知道全球最大的手表集团是谁吗？"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 25,
+      "snippet": "不是劳力士，也不是LVMH，而是Swatch集团！"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 44,
+      "snippet": "现在像Omega、浪琴、汉密尔顿、雷达、天梭、宝玑等等品牌，都是Swatch集团旗下的。"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 7,
+      "snippet": "瑞士的教育体制"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 39,
+      "snippet": "其实我感觉瑞士的教育体制是促成它精密制造、机械表制造这么成功的一个很大的原因。"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 11,
+      "snippet": "它的教育体系非常独特。"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 36,
+      "snippet": "它采取双轨制，只有大概1/3的人像大部分其它国家一样一路从小学上到大学；"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 17,
+      "snippet": "而有2/3的学生，会走\"学徒制\"。"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 46,
+      "snippet": "他们接受了九年义务教育之后，就直接进入职场了，成为一家企业的实习生，它们叫\"学徒\"，做四年。"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 32,
+      "snippet": "每个星期有3-4天去公司工作，1-2天在学校学习职业相关的知识。"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 18,
+      "snippet": "大公司会设立专门的学徒项目，招学徒；"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 23,
+      "snippet": "而学生们真的相当于初中毕业就要去面试、找工作。"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 41,
+      "snippet": "逼着你在15岁的时候就要了解自己，逼着父母了解自己的孩子，帮着他们做决策、找工作。"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 59,
+      "snippet": "这种提前的分流教育制度肯定是有好处有坏处了，但是对于精密制造啊、手表制造这种复杂且需要经验积累的行业, 就非常适合了。"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 21,
+      "snippet": "这才成就了瑞士全球闻名的制表行业和制造业。"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 4,
+      "snippet": "品牌效应"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 41,
+      "snippet": "我感觉吧，\"瑞士制造\"现在已经形成了一个品牌，甚至都不是高端品牌，而是奢侈品品牌。"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 43,
+      "snippet": "瑞士的手表虽然卖得不多，GDP不高，但是它给瑞士这个国家带来的品牌效应确实无法估量的。"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 25,
+      "snippet": "什么东西贴上Swiss MADE，价格恨不得翻倍。"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 29,
+      "snippet": "不光手表，军刀、巧克力、奶酪、牛奶，好像什么都高端、都贵。"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 38,
+      "snippet": "这不是说它坑人，这是市场供需决定的，就是大家对\"瑞士制造\"的一种信任和认可。"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 42,
+      "snippet": "毕竟奢侈品，利润率就是会高，一定程度上，就可以避开跟别的国家去拼劳动力成本、利润率。"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 14,
+      "snippet": "打造一个奢侈品品牌需要什么:"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 31,
+      "snippet": "品控，就是产品本身，从制作到设计，必须得非常好，这个是必须的；"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 19,
+      "snippet": "但这还不够，还需要稀缺，供给的量得少；"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 22,
+      "snippet": "再有，非常重要的就是需要恰到好处的市场营销。"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 17,
+      "snippet": "三者缺一不可，而瑞士恰好都具备了。"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 32,
+      "snippet": "瑞士的手表、仪器、军刀、巧克力什么的，产品好这个就是人家有实力；"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 58,
+      "snippet": "同时，因为瑞士资源有限、人力有限，而它还贼讲究，手表得是手工打造，奶牛恨不得都得在阿尔卑斯山下放牧，产量就非常有限；"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 74,
+      "snippet": "最关键的是，瑞士又是个中立国，国家本身漂亮得跟AI生成的似的，阿尔卑斯山更是全球闻名，这些看起来八竿子打不着的点，其实都潜在的打造了瑞士的国家形象。"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 3,
+      "snippet": "高物价"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 40,
+      "snippet": "这其实就解释了为什么瑞士的人均GDP这么高，物价这么高，它还是一个很大的出口国。"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 29,
+      "snippet": "要知道，瑞士不光人均GDP排在全球前三，物价也是高得离谱。"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 22,
+      "snippet": "苏黎世和日内瓦常年排在全球最贵的城市前十名。"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 61,
+      "snippet": "就因为瑞士的物价太高，很多边境的居民经常周末会跑到意大利、或者法国去购物、买东西，带着边上国家区域的物价也跟着起来了..."
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 47,
+      "snippet": "我记得我以前有个瑞士的朋友说过，他在瑞士生活惯了，最爽的一点就是去全世界哪旅游都会觉得好便宜~"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 42,
+      "snippet": "瑞士这么高的人工成本，你在瑞士雇一个工程师的成本，在印度可能能雇一整个足球队的人了。"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 32,
+      "snippet": "它怎么还能保持自己的国际竞争力，可不是简单的说中立就可以做到的。"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 77,
+      "snippet": "很主要的一个原因就是瑞士的公司逐渐打造出了\"瑞士制造\"奢侈品的形象，而这个标签又反过来自发的筛选出来了那些高精度的、高附加值，同时又有足够市场需求的产业。"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 54,
+      "snippet": "它还不是只找到一个，至少找到了三个，我们刚才说的三大产业: 医药化工、精密制造、手表就是瑞士的三大出口产业。"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 17,
+      "snippet": "而且，瑞士还持续保持经常账户顺差。"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 2,
+      "snippet": "货币"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 72,
+      "snippet": "而因为瑞士的经济非常的坚挺，同时它又是中立国，政治还稳定，这就给瑞士带来了一个听起来非常凡尔赛的烦恼: 就是它的货币，瑞士法郎，需求过于旺盛了。"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 4,
+      "snippet": "需求旺盛"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 33,
+      "snippet": "每次全球经济动荡，全球资本就一股脑的涌向瑞郎避险，推动它大幅升值。"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 16,
+      "snippet": "货币需求太旺盛会导致什么结果呢？"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 13,
+      "snippet": "就是对瑞士出口的打击太大。"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 35,
+      "snippet": "所以瑞士央行为了控制瑞郎别升值太厉害，不得不成年把利率调到非常非常低。"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 76,
+      "snippet": "尤其是2008年金融海啸加上之后欧债危机爆发，瑞郎持续升值，瑞士央行不停的往市场上注入流动性，来对冲市场对瑞郎过分旺盛的需求，并把利率压到了0.25%。"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 13,
+      "snippet": "可市场还是持续的买入瑞郎。"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 46,
+      "snippet": "2011年，希腊债务危机高潮阶段，经济学人根据\"巨无霸指数\"估算，瑞郎兑美元被高估了98%。"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 42,
+      "snippet": "瑞郎兑欧元马上就要突破平价，瑞士央行坐不住了，这么没完没了的升值对瑞士出口打击太大。"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 36,
+      "snippet": "所以瑞士央行突然放出了个大招，它宣布，欧元兑瑞郎有一个限制，就是1.2。"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 34,
+      "snippet": "瑞郎的升值幅度就被限制死了，如果再升值超过1.2，央行就无限量购买。"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 19,
+      "snippet": "同时，它又把利率降到了0，真的就是0。"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 11,
+      "snippet": "这一下震惊了整个市场。"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 31,
+      "snippet": "瑞郎立刻迎来有史以来最大跌幅，欧元兑瑞郎瞬间跳回了1.2以上。"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 35,
+      "snippet": "由此可见，真是家家有本难念的经，边上的欧元区求着资本说你们别走，别卖；"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 21,
+      "snippet": "瑞士央行这边求着资本说你们别来了，别买了。"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 32,
+      "snippet": "但这还没完啊，因为欧债危机持续发酵，市场对瑞郎的需求实在是旺盛。"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 26,
+      "snippet": "瑞士央行正常应该降利率，但是利率已经是0了，怎么降？"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 6,
+      "snippet": "你说怎么降？"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 7,
+      "snippet": "怎么就不能降?"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 1,
+      "snippet": "!"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 24,
+      "snippet": "瑞士在2014年底直接把利率降到了-0.75%。"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 20,
+      "snippet": "但即便如此，依然没有按住瑞郎升值的压力。"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 52,
+      "snippet": "不到一个月后，2015年1月15日，瑞士国家银行又突然宣布，取消瑞郎和欧元的限制，一下又震惊了整个市场。"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 12,
+      "snippet": "瑞郎立刻暴涨超过15%。"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 42,
+      "snippet": "最近尤其是俄乌战争爆发之后，瑞郎不出意外的继续升值，现在已经比美元、欧元都要值钱了。"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 45,
+      "snippet": "所以，瑞士央行真的是因为担心大家对瑞郎的买入需求太强，太热情，可能会影响出口，操了不少心。"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 38,
+      "snippet": "而它\"雷厉风行\"的政策管理方式，两次\"震惊市场\"也是让很多对冲基金爆仓倒闭。"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 43,
+      "snippet": "都给市场的交易员吓出后遗症了，瑞士央行的小铃铛和推送必须得打开，随时做好被震惊的准备。"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 68,
+      "snippet": "为什么瑞士央行经常爱\"震惊\"市场呢，因为它的理念就是信息不透明策略，我做什么决定、政策之前没有任何预兆，我不给你整那些虚的，上来就发布。"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 33,
+      "snippet": "不像美联储，讲求一定要充分沟通，各种语言技巧、释放信号、预期管理。"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 4,
+      "snippet": "避险货币"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 22,
+      "snippet": "我们知道瑞郎和日元是两个全球闻名的避险货币。"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 26,
+      "snippet": "它们的表象都是一旦遇到动荡，市场就会买入，就会升值。"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 19,
+      "snippet": "但实际上背后推动的逻辑是完全不一样的。"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 43,
+      "snippet": "日元很大程度上是因为有大量的Carry Trade，套息交易，包括大量日本的对外投资。"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 29,
+      "snippet": "一旦动荡发生，这些海外资本回流、套息交易平仓导致日元升值；"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 43,
+      "snippet": "而瑞郎，要我说才是真避险货币，大家就是觉得它能避险、它经济靠谱、货币稳定，所以去避险。"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 31,
+      "snippet": "为什么瑞郎都负利率了，但国际上利用它来做套息交易的资本并不多?"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 43,
+      "snippet": "因为套息交易，实际上就是在持续不断的做空瑞郎，就它这么个升值法，谁受得了一直做空它啊。"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 30,
+      "snippet": "更何况瑞士央行还没事儿给你\"震惊\"一下，一般投资人都受不了。"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 4,
+      "snippet": "瑞士央行"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 105,
+      "snippet": "而瑞士央行为了压低瑞郎，不停的卖瑞郎买欧元、或者买美元，再加上瑞士本来就是持续的经常账户顺差，所以瑞士的央行就积累起来了庞大的外汇储备，达到了万亿美元的规模，让"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 36,
+      "snippet": "这些外汇储备，瑞士央行还有1/4，也就是大概2500亿美元投资的是股票。"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 50,
+      "snippet": "我看了一下持仓，大部分都投在了美股，最大的持仓不出意外，就是苹果、英伟达、微软、亚马逊这些科技公司。"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 6,
+      "snippet": "去中心化管理"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 25,
+      "snippet": "瑞士央行，有一个很特别的地方，就是它居然是上市的。"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 30,
+      "snippet": "换言之，你是可以买到瑞士国家的中央银行，印钱的机构的股权的。"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 10,
+      "snippet": "这是不是听起来很扯。"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 24,
+      "snippet": "而且更夸张的是，它的市值只有可怜的3.5亿瑞郎。"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 46,
+      "snippet": "瑞士的央行现在大概有66%的股权是瑞士的各州以及银行持有，剩下的部分都是私人投资者持有股票。"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 33,
+      "snippet": "但其实，虽然你可以名义上买它的股票，实际上是几乎没有任何投票权的。"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 7,
+      "snippet": "收益是什么呢？"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 11,
+      "snippet": "央行又不是个营利组织。"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 22,
+      "snippet": "就是每年股民最多可以每股获得15瑞郎的股息。"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 9,
+      "snippet": "这就是买它的收益。"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 36,
+      "snippet": "虽然它名义上是股票，但实际上更像是个债券，永远给你付利息的一个永续债券。"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 60,
+      "snippet": "瑞士央行也就是带你玩玩，至于它业务上做的所有决策，肯定都是为了维持瑞士货币体系的稳定，和股东利益是完全没有半毛钱关系的。"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 120,
+      "snippet": "它为什么要搞这套呢，说实在的，就是历史遗留原因了，20世纪初，中央银行和现在的感觉不太一样，那时候大家并不觉得中央银行是一个类似于国家的核心机构，而更像是一个为"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 34,
+      "snippet": "不光瑞士，美联储最开始成立的时候也类似，直到现在也是众多小银行控股。"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 25,
+      "snippet": "瑞士就更极端一点，谁都可以在二级市场上买它的股票。"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 22,
+      "snippet": "这其实反映出了瑞士内部管理很重要的一个特点:"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 31,
+      "snippet": "刚才我们说瑞士中立，它特立独行的风格是对外，在国际市场的风格；"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 35,
+      "snippet": "而对内的制度，它很主要的一个理念就是 去中心化，讲求自下而上的管理 。"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 29,
+      "snippet": "比如央行让民众可以持股，其实就是这种去中心化的理念推动的。"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 63,
+      "snippet": "当然后来因为央行实在太重要了，所以这种所谓持股基本上变成了个象征意义，不过瑞士去中心化的理念，其实是深入到它国内各种制度中的。"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 12,
+      "snippet": "图片截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 2,
+      "snippet": "政治"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 65,
+      "snippet": "瑞士有26个州，叫26个 Cantons, 每个州的自治权相当大，有自己的教育体系、自己的税收政策、自己的法律，甚至有自己的语言。"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 28,
+      "snippet": "瑞士光官方语言就有四个，德语、法语、意大利语、罗曼什语。"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 40,
+      "snippet": "当然实际上罗曼什语现在已经很少了，只有不到1%的人作为第一语言，主要是另外三个。"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 26,
+      "snippet": "这里面说德语的最多，大概有2/3的人第一语言是德语。"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 48,
+      "snippet": "瑞士有这么多语言，而英语又是大多数人的第二语言，大家互相之间交流经常突然莫名其妙就开始切换语言。"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 22,
+      "snippet": "超过2/3的瑞士人每周都会用到至少2种语言。"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 26,
+      "snippet": "那些电视节目、产品说明书什么都得来好多份儿，很魔幻。"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 30,
+      "snippet": "我估计瑞士人从小接触这么多语言，是不是也锻炼了它们的大脑啊~"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 12,
+      "snippet": "我们说回瑞士的去中心化。"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 46,
+      "snippet": "它不光各个州的权利很大， 中央核心决策层也不是一个人，而是由7个组成的联邦委员会共同决策 。"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 42,
+      "snippet": "连这七个人也是摊开了，一般有4个人来自德语区，2个人来自法语区，1个人是意大利语区。"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 34,
+      "snippet": "它的总统每个任期就一年，年年换，还不能连任，也基本不来自同一个党派。"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 36,
+      "snippet": "其实总统就是个外交头衔，实际上的权力和联邦委员会剩下6个人并没什么区别。"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 31,
+      "snippet": "而凡是遇到国家的重大决策、或者修改宪法，瑞士就会进行全民公投。"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 39,
+      "snippet": "任何公民对议会批准的法律有异议、有不满，收集到5万个签名就可以挑战，全民公投；"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 38,
+      "snippet": "甚至任何公民对宪法有不满，只要收集到10万个支持者签名，也可以展开全民公投。"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 57,
+      "snippet": "瑞士真的是特别爱全民公投，它理论上每个季度都有一次全民公投的时间，有事儿就投，没事儿就不投， 平均每年要投三次 。"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 17,
+      "snippet": "看看这三个月有什么要决定的大事儿。"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 45,
+      "snippet": "比如2002年，对于要不要加入联合国，瑞士举行了全民公投，最后 54.6%的人投了同意 。"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 9,
+      "snippet": "瑞士加入了联合国。"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 20,
+      "snippet": "很多时候，你觉得没多大点事儿它就会投票。"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 56,
+      "snippet": "比如刚刚2月份，就进行了一次全民公投，要不要\"尊重地球极限，建设负责任的经济\", 最后 70%的人投了不同意 。"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 42,
+      "snippet": "不光全民公投，各个市政、各个村庄也会经常投票，可能就是大家聚在广场上举手，还挺逗的。"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 29,
+      "snippet": "由此可见，瑞士就是这种去中心化的政治体制，没事儿就投个票。"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 43,
+      "snippet": "所以瑞士公民的主人翁意识很浓，这其实也是他们为什么没有选择加入欧盟的一个很主要的原因。"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 55,
+      "snippet": "这里面我看到一个挺有意思的公投，在2012年的时候，要投票决定要不要将瑞士的带薪年假从每年4周增加到每年6周。"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 36,
+      "snippet": "这投票说实在的，如果你就是想着自己每年能多放点假的话，肯定是无脑支持啊。"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 65,
+      "snippet": "但实际投票结果，却是 66.5%的人投了反对 ，2/3的人说不行，你别给我放假，这样对整个经济的成本太高了，长期来说是弊大于利的。"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 48,
+      "snippet": "之前2002年的时候，它们还 公投否决过一个要把每周工作时间，从42小时缩短到36小时的提案 。"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 44,
+      "snippet": "我倒不是说这些决策一定是对的，但这种长期利益和短期利益的选择，是很容易出现集体非理性的。"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 35,
+      "snippet": "这能反映出来瑞士人投票，真的是站在国家长期层面上去投票，还是挺难得的。"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 27,
+      "snippet": "当然也有可能，就是瑞士人单纯的都是工作狂，就喜欢工作~"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 4,
+      "snippet": "写在最后"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 8,
+      "snippet": "我们这一期内容:"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 17,
+      "snippet": "看了瑞士为了保持中立所付出的代价；"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 15,
+      "snippet": "看了瑞士的保密和银行业的兴衰；"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 23,
+      "snippet": "看了瑞士的明星产业和它打造出来的奢侈品牌效应；"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 20,
+      "snippet": "看了瑞郎为什么能成为全球闻名的避险货币；"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 23,
+      "snippet": "也看了它政治的去中心化，和实用主义的教育体系。"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 39,
+      "snippet": "说实话，这些都是瑞士人均GDP可以做到这么高的原因，我们很难一两句话总结清楚。"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 12,
+      "snippet": "视频截取自: 小Lin说"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 71,
+      "snippet": "但最近几年瑞士的经济，确实在持续面临巨大的挑战，我们以前聊过新加坡，感觉和瑞士有点像，都摸索出来了一套在全球资本市场、贸易市场狠狠赚钱的逻辑。"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 33,
+      "snippet": "但瑞士明显感觉更像是\"老钱\"的感觉，底蕴更足，但经济转型也更困难。"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 36,
+      "snippet": "比如我们已经提到过的保密协议的消失，已经让瑞士银行业的领先优势消耗殆尽；"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 30,
+      "snippet": "周围欧洲其它国家的经济持续萎靡，短期内看不到重新提速的迹象；"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 35,
+      "snippet": "去全球化对瑞士的制药、精密制造行业的供应链和需求可能会有双重打击..."
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 28,
+      "snippet": "我觉得这些都是非常底层的、长期的对瑞士经济的挑战和冲击。"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 32,
+      "snippet": "老钱能否抗住时代的冲击，或许20年后，我们可以再做一期视频看看~"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 11,
+      "snippet": "—— E N D ——"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 16,
+      "snippet": "图片截取自: 一口气了解瑞士经济"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "瑞士奇特老钱：人均GDP第二+邻居一半反差，连发中立/手表/银行设问后一口气道明。",
+      "patterns": [
+        "老钱奇特钩",
+        "邻居反差",
+        "连发设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "瑞士其实是一个非常非常奇特的经济体：首先它非常有钱，或者说它非常能赚钱。",
+          "note": "非常非常奇特的经济体"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "2024年瑞士的人均GDP达到了惊人的10.6万美元，全球排名第二。",
+          "note": "人均GDP10.6万美元"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "而神奇的是，边上的德国、法国，就紧挨着，几乎就是自由贸易，但人均GDP只有瑞士的",
+          "note": "德法人均只有一半"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "而且瑞士为什么非要保持中立？",
+          "note": "为什么非要保持中立"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我们今天就来一口气了解一下，这个奇特的——瑞士经济。",
+          "note": "一口气了解瑞士经济"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "中立标签→中立难且有代价→二战狠+圆滑（窗口）→保密银行业兴衰→自由港→医药新引擎→（窗口）公投长期主义→老钱挑战收。",
+      "patterns": [
+        "中立代价",
+        "保密兴衰",
+        "医药新引擎",
+        "老钱挑战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "瑞士身上最大的标签，就是它的\"中立\"。",
+          "note": "最大标签中立"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "所以，想要在数百年经过战争的洗礼后，始终保持中立，难度是非常大的。",
+          "note": "保持中立难度非常大"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "这背后既要有非常合理的策略，同时又要付出巨大的代价。",
+          "note": "策略加巨大代价"
+        },
+        {
+          "sentence_id": "s241",
+          "snippet": "这在20世纪成为了瑞士吸引全球富豪、全球财富的杀手锏。",
+          "note": "保密杀手锏"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "而到了21世纪，各种保密协议开始土崩瓦解，标志着瑞士的保密时代的完结，它便没法再",
+          "note": "保密时代完结"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "这就明朗了，瑞士经济的一大推动产业就是医药。",
+          "note": "医药推动产业"
+        },
+        {
+          "sentence_id": "s476",
+          "snippet": "但瑞士明显感觉更像是\"老钱\"的感觉，底蕴更足，但经济转型也更困难。",
+          "note": "更像老钱"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "我觉得这些都是非常底层的、长期的对瑞士经济的挑战和冲击。",
+          "note": "底层长期挑战"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20"
+          ],
+          "function": "odd_rich_hook",
+          "note": "奇特有钱与连问开场"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "neutrality_hard",
+          "note": "中立标签与难保持"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261",
+            "s262"
+          ],
+          "function": "secrecy_to_pharma",
+          "note": "保密/自由港到医药引擎（中段窗）"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s455",
+            "s456",
+            "s457",
+            "s458",
+            "s459",
+            "s460",
+            "s461",
+            "s462",
+            "s463",
+            "s464",
+            "s465",
+            "s466",
+            "s467",
+            "s468",
+            "s469",
+            "s470",
+            "s471",
+            "s472",
+            "s473",
+            "s474",
+            "s475",
+            "s476",
+            "s477",
+            "s478",
+            "s479",
+            "s480",
+            "s481",
+            "s482",
+            "s483",
+            "s484"
+          ],
+          "function": "referendum_oldmoney",
+          "note": "公投理性与老钱挑战收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "当然/但至少/所以/大家发现没有/但瑞士经济并没有/比如说。",
+      "patterns": [
+        "当然转",
+        "所以转",
+        "大家发现没有",
+        "但并没有走下坡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "当然，瑞士所谓的中立，也会有很多立场，也会受到各种国际政治博弈的影响，比如说前两",
+          "note": "当然瑞士中立也有立场"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "所以，想要在数百年经过战争的洗礼后，始终保持中立，难度是非常大的。",
+          "note": "所以想保持很难"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "大家发现没有，瑞士的一个核心战略是中立，而保持中立的一个重点就是保密，对一切客户",
+          "note": "大家发现没有"
+        },
+        {
+          "sentence_id": "s245",
+          "snippet": "但瑞士的经济并没有走下坡路，相反还能在四周都深受欧债危机拖累的大环境下，依然坚挺",
+          "note": "但瑞士经济并没有走下坡路"
+        },
+        {
+          "sentence_id": "s477",
+          "snippet": "比如我们已经提到过的保密协议的消失，已经让瑞士银行业的领先优势消耗殆尽；",
+          "note": "比如保密协议消失"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "瑞士人均vs德法一半；宣称中立易vs战时难；挪威荷兰瑞典失中立vs瑞士守住；保密红利vs21世纪瓦解；银行业vs医药新王牌。",
+      "patterns": [
+        "人均反差",
+        "中立易/难",
+        "他国失/瑞士守",
+        "保密/瓦解",
+        "银行/医药"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "而神奇的是，边上的德国、法国，就紧挨着，几乎就是自由贸易，但人均GDP只有瑞士的",
+          "note": "德法一半"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "尤其是和平时期，宣称自己中立并不难:",
+          "note": "和平期宣称不难"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "但是一旦真的被战争波及到，甚至打到了家门口，你还想继续保持中立就非常困难了。",
+          "note": "打到家门口就难"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "比如挪威、荷兰，其实也和瑞士类似，从19世纪就开始宣布自己永久中立，但二战一开打",
+          "note": "挪威荷兰守不住"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "而瑞士从1815年确立了自己的中立国位置，就从来没有参与过任何外国战争。",
+          "note": "瑞士从未参战"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "而到了21世纪，各种保密协议开始土崩瓦解，标志着瑞士的保密时代的完结，它便没法再",
+          "note": "保密时代完结"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "甚至都没有瑞士的宇宙大银行瑞银啊, 也不是劳力士。",
+          "note": "不是瑞银劳力士"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "罗氏雀巢诺华"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "怎么做到高人均；凭什么两百年中立；手表银行为何；你说它怎么做到；市值最高三公司是谁。",
+      "patterns": [
+        "怎么做到连问",
+        "考考大家问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "瑞士是怎么做到在人力成本和物价极高，自然资源极其匮乏的情况下，依然能甩开边上邻居",
+          "note": "怎么做到高人均"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "它凭什么两百年就能保持得住中立？",
+          "note": "凭什么保持中立"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "你说它是怎么做到的？",
+          "note": "你说它是怎么做到的"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "首先，我来考考大家: 你们知道瑞士市值最高的三个公司是谁吗？",
+          "note": "市值最高三个公司是谁"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "冻结俄资产150亿；方旗/竖钞象征；挪威荷兰瑞典对照；日内瓦自由港月租；罗氏诺华雀巢。",
+      "patterns": [
+        "冻资例",
+        "方旗竖钞例",
+        "北欧对照",
+        "自由港租例",
+        "药企例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "当然，瑞士所谓的中立，也会有很多立场，也会受到各种国际政治博弈的影响，比如说前两",
+          "note": "冻结俄资产150亿"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "别的国家的国旗都是长方形的，它就一定要是正方形的，你从哪个方向看，从正面反面看，",
+          "note": "正方形国旗"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "比如纸币，人家都是横着的，瑞士的瑞郎就非得是竖着的。",
+          "note": "瑞郎竖着"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "比如挪威、荷兰，其实也和瑞士类似，从19世纪就开始宣布自己永久中立，但二战一开打",
+          "note": "挪威荷兰"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "瑞典甚至都扛过了一战二战、抗住了冷战，保持中立没参战，但是2022年俄乌战争一爆",
+          "note": "瑞典入约"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "现在一幅普通大小的画存在那，每个月大约需要1000美元。",
+          "note": "画每月1000美元"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "罗氏雀巢诺华"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "中立落到不加盟欧/北约与二战金刚罩；保密落到自由港匿名箱；新引擎落到医药出口半壁江山。",
+      "patterns": [
+        "中立→不加盟",
+        "保密→自由港",
+        "引擎→医药出口"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "瑞士不加入欧盟、不加入欧元区、也不加入北约，连联合国都是2002年不情不愿才加入",
+          "note": "不加入欧盟欧元北约"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "简直是魔鬼地带了，家门口都打疯了、炸烂了，它居然真的就像有个\"金刚罩\"一样，独善",
+          "note": "金刚罩独善其身"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "所以只能继续为这些不知名的匿名公司保管不知道是什么的神秘箱子，这个自由港中到底存",
+          "note": "匿名公司神秘箱子"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "现在 医药化工占了瑞士出口的半壁江山 。",
+          "note": "医药化工占出口半壁江山"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "相当不可思议；难度非常大；没法再吃灰色红利；底蕴更足转型更难。",
+      "patterns": [
+        "不可思议断",
+        "难度大断",
+        "老钱转型难断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "但至少相对而言，尤其是在欧洲的核心位置，他能做到如此的中立，已经是相当不可思议的",
+          "note": "相当不可思议"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "所以，想要在数百年经过战争的洗礼后，始终保持中立，难度是非常大的。",
+          "note": "难度非常大"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "而到了21世纪，各种保密协议开始土崩瓦解，标志着瑞士的保密时代的完结，它便没法再",
+          "note": "没法再吃灰色红利"
+        },
+        {
+          "sentence_id": "s476",
+          "snippet": "但瑞士明显感觉更像是\"老钱\"的感觉，底蕴更足，但经济转型也更困难。",
+          "note": "底蕴更足转型更难"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承中立也有立场/冻资，再强调相对中立已不可思议；先猜市值银行手表再揭药企。",
+      "patterns": [
+        "先承不纯再相对中立",
+        "先猜错再揭药企"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "当然，瑞士所谓的中立，也会有很多立场，也会受到各种国际政治博弈的影响，比如说前两",
+          "note": "中立也有立场冻资"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但至少相对而言，尤其是在欧洲的核心位置，他能做到如此的中立，已经是相当不可思议的",
+          "note": "相对而言已不可思议"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "甚至都没有瑞士的宇宙大银行瑞银啊, 也不是劳力士。",
+          "note": "甚至没有瑞银劳力士"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "实际上是罗氏雀巢诺华"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "设问连珠开场→中立史中密→自由港细节高密→医药揭晓加速→公投例放慢→老钱挑战降速收。",
+      "patterns": [
+        "设问连珠",
+        "细节高密",
+        "揭晓加速",
+        "挑战降速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "而且瑞士为什么非要保持中立？",
+          "note": "设问连珠"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "现在一幅普通大小的画存在那，每个月大约需要1000美元。",
+          "note": "自由港高密"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "药企揭晓"
+        },
+        {
+          "sentence_id": "s457",
+          "snippet": "但实际投票结果，却是 66.5%的人投了反对 ，2/3的人说不行，你别给我放假，",
+          "note": "公投放慢"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "我觉得这些都是非常底层的、长期的对瑞士经济的挑战和冲击。",
+          "note": "挑战降速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "惊叹有钱→困惑反差→中立敬畏→保密暧昧→药企恍然→公投佩服→老钱忧思。",
+      "patterns": [
+        "惊叹",
+        "困惑",
+        "敬畏",
+        "恍然",
+        "忧思"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "2024年瑞士的人均GDP达到了惊人的10.6万美元，全球排名第二。",
+          "note": "惊叹GDP"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这不奇怪么？",
+          "note": "困惑奇怪"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "简直是魔鬼地带了，家门口都打疯了、炸烂了，它居然真的就像有个\"金刚罩\"一样，独善",
+          "note": "敬畏金刚罩"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "恍然药企"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "我觉得这些都是非常底层的、长期的对瑞士经济的挑战和冲击。",
+          "note": "忧思挑战"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇奇特老钱在结尾「老钱能否抗住时代冲击，20年后再看」呼应开放。",
+      "patterns": [
+        "老钱首尾呼应",
+        "20年后再看开放"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "独特的\"老钱\"",
+          "note": "独特的老钱"
+        },
+        {
+          "sentence_id": "s476",
+          "snippet": "但瑞士明显感觉更像是\"老钱\"的感觉，底蕴更足，但经济转型也更困难。",
+          "note": "更像老钱"
+        },
+        {
+          "sentence_id": "s481",
+          "snippet": "老钱能否抗住时代的冲击，或许20年后，我们可以再做一期视频看看~",
+          "note": "20年后我们再做一期"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬关注；以「20后再做一期」续更期待与END标记收。",
+      "patterns": [
+        "续更期待代CTA",
+        "END"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s481",
+          "snippet": "老钱能否抗住时代的冲击，或许20年后，我们可以再做一期视频看看~",
+          "note": "20年后我们再做一期"
+        },
+        {
+          "sentence_id": "s482",
+          "snippet": "—— E N D ——",
+          "note": "END"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "方旗哪面看都一样、竖着瑞郎、谁愿意加入你们工资单吐槽、单纯工作狂玩笑。",
+      "patterns": [
+        "方旗玩笑",
+        "竖钞",
+        "工资单吐槽",
+        "工作狂玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "别的国家的国旗都是长方形的，它就一定要是正方形的，你从哪个方向看，从正面反面看，",
+          "note": "正方形国旗"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "比如纸币，人家都是横着的，瑞士的瑞郎就非得是竖着的。",
+          "note": "非得竖着"
+        },
+        {
+          "sentence_id": "s262",
+          "snippet": "瑞士：\"谁愿意加入你们啊，也不掂量掂量你们自己有几斤几两，看看你们自己的工资单，",
+          "note": "看看工资单"
+        },
+        {
+          "sentence_id": "s461",
+          "snippet": "当然也有可能，就是瑞士人单纯的都是工作狂，就喜欢工作~",
+          "note": "单纯都是工作狂"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "120句窗口从484截断，二战策略与中间产业大段缺失；自由港与公投间跳跃。",
+      "patterns": [
+        "截断缺中段",
+        "章节跳跃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "第二：你得够圆滑。",
+          "note": "窗内停在二战策略开头"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "后来日内瓦自由港也发现自己吸引来了很多艺术品，所以加上了全套的服务，配上顶级安保",
+          "note": "跳入自由港"
+        },
+        {
+          "sentence_id": "s455",
+          "snippet": "这里面我看到一个挺有意思的公投，在2012年的时候，要投票决定要不要将瑞士的带薪",
+          "note": "再跳公投"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「反差设问→中立难度→保密逻辑→产业换挡→政治文化补强→长期风险」百科带读程序。",
+      "patterns": [
+        "设问驱动",
+        "揭晓三公司外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我们今天就来一口气了解一下，这个奇特的——瑞士经济。",
+          "note": "一口气了解承诺"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "首先，我来考考大家: 你们知道瑞士市值最高的三个公司是谁吗？",
+          "note": "考考大家"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "这就明朗了，瑞士经济的一大推动产业就是医药。",
+          "note": "这就明朗了"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当好奇瑞士神话的通识学习者，用考考大家互动。",
+      "patterns": [
+        "通识好奇位",
+        "考考大家互动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "我们今天就来一口气了解一下，这个奇特的——瑞士经济。",
+          "note": "一口气了解"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "首先，我来考考大家: 你们知道瑞士市值最高的三个公司是谁吗？",
+          "note": "考考大家"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这不奇怪么？",
+          "note": "这不奇怪么"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "人均10.6万美元、冻资150亿、自由港画月租1000刀、医药出口半壁江山、公投66.5%反对多放假。",
+      "patterns": [
+        "10.6万锚",
+        "150亿冻资",
+        "月租1000",
+        "66.5%公投"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "2024年瑞士的人均GDP达到了惊人的10.6万美元，全球排名第二。",
+          "note": "10.6万美元"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "当然，瑞士所谓的中立，也会有很多立场，也会受到各种国际政治博弈的影响，比如说前两",
+          "note": "150亿美元"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "现在一幅普通大小的画存在那，每个月大约需要1000美元。",
+          "note": "每月约1000美元"
+        },
+        {
+          "sentence_id": "s257",
+          "snippet": "现在 医药化工占了瑞士出口的半壁江山 。",
+          "note": "出口半壁江山"
+        },
+        {
+          "sentence_id": "s457",
+          "snippet": "但实际投票结果，却是 66.5%的人投了反对 ，2/3的人说不行，你别给我放假，",
+          "note": "66.5%反对"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场设问中密→中立论证高密→自由港细节高密→医药揭晓中密→挑战清单高密→开放问降密。",
+      "patterns": [
+        "中立高密",
+        "自由港高密",
+        "挑战清单高密",
+        "开放降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "所以，想要在数百年经过战争的洗礼后，始终保持中立，难度是非常大的。",
+          "note": "中立高密"
+        },
+        {
+          "sentence_id": "s227",
+          "snippet": "现在一幅普通大小的画存在那，每个月大约需要1000美元。",
+          "note": "自由港高密"
+        },
+        {
+          "sentence_id": "s477",
+          "snippet": "比如我们已经提到过的保密协议的消失，已经让瑞士银行业的领先优势消耗殆尽；",
+          "note": "挑战高密"
+        },
+        {
+          "sentence_id": "s481",
+          "snippet": "老钱能否抗住时代的冲击，或许20年后，我们可以再做一期视频看看~",
+          "note": "开放降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "连问短句开场；史例长句；揭晓短句；公投故事中长；挑战省略号列举。",
+      "patterns": [
+        "连问短",
+        "史例长",
+        "揭晓短",
+        "列举省略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "而且瑞士为什么非要保持中立？",
+          "note": "连问短"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "瑞典甚至都扛过了一战二战、抗住了冷战，保持中立没参战，但是2022年俄乌战争一爆",
+          "note": "史例长"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "揭晓短"
+        },
+        {
+          "sentence_id": "s479",
+          "snippet": "去全球化对瑞士的制药、精密制造行业的供应链和需求可能会有双重打击...",
+          "note": "列举省略号"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin百科科普：又惊又损（工资单嘲欧盟），收尾冷静列长期冲击。",
+      "patterns": [
+        "惊叹+吐槽",
+        "冷静列冲击"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "瑞士其实是一个非常非常奇特的经济体：首先它非常有钱，或者说它非常能赚钱。",
+          "note": "非常奇特"
+        },
+        {
+          "sentence_id": "s262",
+          "snippet": "瑞士：\"谁愿意加入你们啊，也不掂量掂量你们自己有几斤几两，看看你们自己的工资单，",
+          "note": "工资单嘲"
+        },
+        {
+          "sentence_id": "s480",
+          "snippet": "我觉得这些都是非常底层的、长期的对瑞士经济的挑战和冲击。",
+          "note": "底层长期挑战"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "老钱、德法一半、金刚罩中立、保密完结、罗氏诺华、66.5%不放假、20后再看。",
+      "patterns": [
+        "老钱",
+        "德法一半",
+        "金刚罩",
+        "药企三巨头",
+        "不放假公投"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "独特的\"老钱\"",
+          "note": "老钱"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "而神奇的是，边上的德国、法国，就紧挨着，几乎就是自由贸易，但人均GDP只有瑞士的",
+          "note": "一半"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "简直是魔鬼地带了，家门口都打疯了、炸烂了，它居然真的就像有个\"金刚罩\"一样，独善",
+          "note": "金刚罩"
+        },
+        {
+          "sentence_id": "s253",
+          "snippet": "实际上是罗氏、雀巢和诺华。",
+          "note": "罗氏诺华"
+        },
+        {
+          "sentence_id": "s457",
+          "snippet": "但实际投票结果，却是 66.5%的人投了反对 ，2/3的人说不行，你别给我放假，",
+          "note": "66.5%反对"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "反差设问→制度代价→旧红利终结→新引擎→文化补强→开放风险，是观宇国家经济百科口播高复用骨架（需补全截断中段）。",
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "而神奇的是，边上的德国、法国，就紧挨着，几乎就是自由贸易，但人均GDP只有瑞士的",
+          "note": "反差钩"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "而到了21世纪，各种保密协议开始土崩瓦解，标志着瑞士的保密时代的完结，它便没法再",
+          "note": "旧红利终结"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "这就明朗了，瑞士经济的一大推动产业就是医药。",
+          "note": "新引擎医药"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s5",
+    "s6",
+    "s8",
+    "s12",
+    "s16",
+    "s21",
+    "s41",
+    "s47",
+    "s241",
+    "s242",
+    "s255",
+    "s476",
+    "s480",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s48",
+    "s49",
+    "s50",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s252",
+    "s253",
+    "s254",
+    "s256",
+    "s257",
+    "s258",
+    "s259",
+    "s260",
+    "s261",
+    "s262",
+    "s455",
+    "s456",
+    "s457",
+    "s458",
+    "s459",
+    "s460",
+    "s461",
+    "s462",
+    "s463",
+    "s464",
+    "s465",
+    "s466",
+    "s467",
+    "s468",
+    "s469",
+    "s470",
+    "s471",
+    "s472",
+    "s473",
+    "s474",
+    "s475",
+    "s477",
+    "s478",
+    "s479",
+    "s481",
+    "s482",
+    "s483",
+    "s484"
+  ],
+  "fields_complete_25": true
+}

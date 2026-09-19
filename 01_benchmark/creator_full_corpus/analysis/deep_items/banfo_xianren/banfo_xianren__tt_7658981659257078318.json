@@ -1,0 +1,854 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7658981659257078318",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7658981659257078318/",
+  "source_sha256": "7e04f5ab38287b74f0c67bceb395405815acc4b9e8be01cdce0c62d3fe72842a",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 39,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 19,
+      "snippet": "图片截取自: 输给LV要赔1000万？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "茉莉奶白快笑疯了"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 10,
+      "snippet": "周末不卷，随便写点。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 33,
+      "snippet": "真的很久没有这么让我开心的新闻了，你也不知道奢侈品脑子是怎么想的。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 27,
+      "snippet": "一个奶茶品牌因为侵权输了官司，要赔给LV1000多万。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 19,
+      "snippet": "图片截取自: 输给LV要赔1000万？"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "茉莉奶白快笑疯了"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "（新闻来自钱江晚报）"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 36,
+      "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 12,
+      "snippet": "奶茶公司正在家里庆祝呢。"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 28,
+      "snippet": "真的，茉莉奶白都可以笑发财了，这什么天上掉馅饼的机会啊。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 50,
+      "snippet": "只要1000万（而且注意，只是一审，还可以不断上诉拖官司），就可以牢牢的在品牌周期跟LV绑定在一起。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 77,
+      "snippet": "这笔钱在2026年，不够请一个一线明星代言的，也不够开多少家店的，更不够做一次集中投放的，但却可以结结实实的跟奢侈品品牌恩怨纠葛在一起，整出一个全网热点。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 21,
+      "snippet": "百年品牌历史弄不好以后就多个奶茶店的梗了。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 38,
+      "snippet": "别的奶茶品牌跟奢侈品联名还要被质问配不配，茉莉奶白直接就上位顶多被问赔不赔。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 38,
+      "snippet": "在茉莉奶白面前，所有奶茶店都得降一个档次了，毕竟人家对线奢侈品真是重拳出击。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 57,
+      "snippet": "更魔幻的是，这个侵权本身还不是侵权了人家的logo的那种丢人的山寨，而是那个在很多园林都有的图案，是我国传统图案。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 19,
+      "snippet": "图片截取自: 输给LV要赔1000万？"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "茉莉奶白快笑疯了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 34,
+      "snippet": "案子是苏州，苏州拙政园就有这个图案，总不能说拙政园提前几百年侵权吧。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 36,
+      "snippet": "所以就跟之前那个乔丹的案子看起来就丢人还不一样，这次的案子还有的掰扯呢。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 51,
+      "snippet": "而掰扯的另一端，LV也没闲着，送助攻，还在跟鸭血粉丝汤店博弈呢，你没看错，奢侈品跟鸭血粉丝汤店在对线。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "图片截取自: 输给LV要赔1000万？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "茉莉奶白快笑疯了"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "（新闻来自现代快报）"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "这直接拉低了品牌格调。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 51,
+      "snippet": "如果你觉得遇见小面之前做的不地道，那LV做的也没好到哪里去，起码遇见小面没说拙政园的东西是他们的产权。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 37,
+      "snippet": "而且越是掰扯，就相当于给茉莉奶白做宣传，每次有法院更新结果都可以作为宣传。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 30,
+      "snippet": "照这么下去，以后奢侈得背着LV去鸭血粉丝店再喝一杯茉莉奶白。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 8,
+      "snippet": "哇哦，太奢侈了。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 38,
+      "snippet": "现在再看茉莉奶白，简直是欢天喜地地告诉大家这件事儿，生怕有人不知道这件事儿。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 68,
+      "snippet": "就真的，从没见过这么以小博大高性价比的宣传策略，上次还是在电影里看到王多鱼这么干，这种策略理论上是不可能实现的，结果天时地利人和都有了。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 26,
+      "snippet": "天时是2026年，大家对奢侈品祛魅，而奶茶蹭得起飞。"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 28,
+      "snippet": "地利是这是苏州判的，而苏州园林的C位拙政园也有这个图案。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 33,
+      "snippet": "人和是刚刚发生了遇见小面事件，LV连鸭血粉丝汤都盯着，做得更恶劣。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 36,
+      "snippet": "就这一手要素但凡换一点都不行，关键是LV还配合，就好像被天意操纵了一样。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 23,
+      "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "只能说，我爱这个魔幻的世界。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「周末不卷随便写」轻松起，再抛「从没这么开心的新闻」+奶茶赔LV千万。",
+      "patterns": [
+        "周末不卷随笔",
+        "开心新闻钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "真的很久没有这么让我开心的新闻了，你也不知道奢侈品脑子是怎么想的。",
+          "note": "很久这么开心"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "一个奶茶品牌因为侵权输了官司，要赔给LV1000多万。",
+          "note": "赔LV1000多万"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "输一审看似惨→实为低成本绑LV热点→图案可掰扯→LV还在怼鸭血粉丝→天时地利人和→智商嘲讽收束。",
+      "patterns": [
+        "惨输→宣传胜→可掰扯→助攻→三合→嘲讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "怀疑想要的效果"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "只要1000万（而且注意，只是一审，还可以不断上诉拖官司），就可以牢牢的在品牌周",
+          "note": "1000万绑LV"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更魔幻的是，这个侵权本身还不是侵权了人家的logo的那种丢人的山寨，而是那个在很",
+          "note": "传统图案非山寨"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "人和是刚刚发生了遇见小面事件，LV连鸭血粉丝汤都盯着，做得更恶劣。",
+          "note": "人和遇见小面"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "hook_news",
+          "note": "标题图+周末随笔+赔1000万新闻钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "win_by_losing",
+          "note": "输官司反成品牌绑定LV的宣传胜利"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24"
+          ],
+          "function": "pattern_duck",
+          "note": "传统图案/拙政园+鸭血粉丝汤助攻"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "tian_di_ren",
+          "note": "天时地利人和要素拆解"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39"
+          ],
+          "function": "mock_close",
+          "note": "智商拼音梗+爱魔幻世界收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "就这个事情/更魔幻的是/所以/照这么下去/现在再看 推进嘲讽升级。",
+      "patterns": [
+        "就这个事情",
+        "更魔幻的是",
+        "照这么下去"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "就这个事情"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "更魔幻的是，这个侵权本身还不是侵权了人家的logo的那种丢人的山寨，而是那个在很",
+          "note": "更魔幻的是"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "照这么下去，以后奢侈得背着LV去鸭血粉丝店再喝一杯茉莉奶白。",
+          "note": "照这么下去"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "别家联名被问配不配 vs 茉莉被问赔不赔；乔丹丢人案 vs 本案有得掰扯；遇见小面 vs LV更恶劣。",
+      "patterns": [
+        "配不配vs赔不赔",
+        "乔丹案对照",
+        "遇见小面对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "别的奶茶品牌跟奢侈品联名还要被质问配不配，茉莉奶白直接就上位顶多被问赔不赔。",
+          "note": "配不配vs赔不赔"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "所以就跟之前那个乔丹的案子看起来就丢人还不一样，这次的案子还有的掰扯呢。",
+          "note": "乔丹案子不一样"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "如果你觉得遇见小面之前做的不地道，那LV做的也没好到哪里去，起码遇见小面没说拙政",
+          "note": "遇见小面对照"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题设问「输给LV要赔1000万？」；正文少用问句，多用反讽陈述。",
+      "patterns": [
+        "标题赔付设问",
+        "正文反讽陈述为主"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "图片截取自: 输给LV要赔1000万？",
+          "note": "赔1000万设问"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "真的很久没有这么让我开心的新闻了，你也不知道奢侈品脑子是怎么想的。",
+          "note": "脑子怎么想的"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "钱江晚报新闻；拙政园图案；鸭血粉丝汤店博弈；王多鱼电影策略；一线明星代言价对比。",
+      "patterns": [
+        "晚报新闻例",
+        "拙政园图案",
+        "鸭血粉丝店",
+        "王多鱼策略"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "（新闻来自钱江晚报）",
+          "note": "钱江晚报"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "案子是苏州，苏州拙政园就有这个图案，总不能说拙政园提前几百年侵权吧。",
+          "note": "拙政园图案"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而掰扯的另一端，LV也没闲着，送助攻，还在跟鸭血粉丝汤店博弈呢，你没看错，奢侈品",
+          "note": "鸭血粉丝汤"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "就真的，从没见过这么以小博大高性价比的宣传策略，上次还是在电影里看到王多鱼这么干",
+          "note": "王多鱼这么干"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「以小博大宣传」落到1000万不够代言/开店/投放，却能全网热点绑百年品牌。",
+      "patterns": [
+        "千万成本账",
+        "绑定LV具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "这笔钱在2026年，不够请一个一线明星代言的，也不够开多少家店的，更不够做一次集",
+          "note": "不够一线代言"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "只要1000万（而且注意，只是一审，还可以不断上诉拖官司），就可以牢牢的在品牌周",
+          "note": "跟LV绑定"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「笑发财」「拉低格调」「智商跟LV拼音读一样」「我爱魔幻世界」。",
+      "patterns": [
+        "笑发财",
+        "拉低格调",
+        "拼音智商嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "真的，茉莉奶白都可以笑发财了，这什么天上掉馅饼的机会啊。",
+          "note": "笑发财了"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "这直接拉低了品牌格调。",
+          "note": "拉低品牌格调"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。",
+          "note": "按拼音读一样"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认输一审，随即反转为「就是想要的效果」；注意还可上诉拖官司。",
+      "patterns": [
+        "承认输再反转",
+        "一审可上诉注释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "输了一审但怀疑"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "只要1000万（而且注意，只是一审，还可以不断上诉拖官司），就可以牢牢的在品牌周",
+          "note": "还可上诉拖"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "随笔慢起→论点加速嘲讽→案例连击→天时地利人和三段式→短句毒舌收。",
+      "patterns": [
+        "慢起",
+        "嘲讽加速",
+        "三段式",
+        "毒舌短收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "周末不卷，随便写点。",
+          "note": "随便写点"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这笔钱在2026年，不够请一个一线明星代言的，也不够开多少家店的，更不够做一次集",
+          "note": "成本账加速"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "天时是2026年，大家对奢侈品祛魅，而奶茶蹭得起飞。",
+          "note": "天时"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "爱魔幻世界"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "开心猎奇→替奶茶偷乐→对LV不屑升级→魔幻爽感→戏谑收束。",
+      "patterns": [
+        "猎奇开心→偷乐→不屑→魔幻爽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的很久没有这么让我开心的新闻了，你也不知道奢侈品脑子是怎么想的。",
+          "note": "让我开心"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "真的，茉莉奶白都可以笑发财了，这什么天上掉馅饼的机会啊。",
+          "note": "笑发财"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "哇哦，太奢侈了。",
+          "note": "哇哦太奢侈"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "爱魔幻世界"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从「奢侈品脑子怎么想」回到「智商拼音+爱魔幻世界」，嘲讽闭环。",
+      "patterns": [
+        "脑子开场→拼音收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "真的很久没有这么让我开心的新闻了，你也不知道奢侈品脑子是怎么想的。",
+          "note": "脑子怎么想"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。",
+          "note": "拼音读一样"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "魔幻世界"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无行动号召，以态度金句结束。",
+      "patterns": [
+        "无CTA态度收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "我爱魔幻世界"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "周末不卷口吻、哇哦、拼音读LV、天上掉馅饼，半佛式毒舌随笔。",
+      "patterns": [
+        "周末不卷",
+        "哇哦",
+        "拼音毒舌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "哇哦，太奢侈了。",
+          "note": "哇哦太奢侈"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。",
+          "note": "拼音读"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "图片截取自标题反复占位；法律细节少，论证偏情绪爽感；可能高估「故意输」。",
+      "patterns": [
+        "截图占位",
+        "法律薄",
+        "故意输臆测"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "图片截取自: 输给LV要赔1000万？",
+          "note": "截取自重复"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "想要的效果臆测"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「已经开始怀疑这就是想要的效果」的推理翻转过程。",
+      "patterns": [
+        "怀疑翻转推理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "开始怀疑"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "奶茶公司正在家里庆祝呢。",
+          "note": "家里庆祝呢"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当周末吃瓜围观群众，共享「祛魅奢侈品」爽感。",
+      "patterns": [
+        "周末吃瓜",
+        "祛魅共同体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "周末不卷，随便写点。",
+          "note": "周末不卷"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "天时是2026年，大家对奢侈品祛魅，而奶茶蹭得起飞。",
+          "note": "对奢侈品祛魅"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "赔1000万；拙政园；鸭血粉丝汤；2026天时；王多鱼。",
+      "patterns": [
+        "1000万",
+        "拙政园",
+        "鸭血粉丝"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "一个奶茶品牌因为侵权输了官司，要赔给LV1000多万。",
+          "note": "赔1000多万"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "案子是苏州，苏州拙政园就有这个图案，总不能说拙政园提前几百年侵权吧。",
+          "note": "拙政园"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "而掰扯的另一端，LV也没闲着，送助攻，还在跟鸭血粉丝汤店博弈呢，你没看错，奢侈品",
+          "note": "鸭血粉丝汤"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密随笔→中段成本账与案例高密→三合短段中密→金句低密收。",
+      "patterns": [
+        "随笔低",
+        "成本高密",
+        "金句低收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "周末不卷，随便写点。",
+          "note": "随便写"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这笔钱在2026年，不够请一个一线明星代言的，也不够开多少家店的，更不够做一次集",
+          "note": "投放对比账"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "只能说，我爱这个魔幻的世界。",
+          "note": "金句收"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短句嘲讽为主，夹长成本对比句；「真的」口语反复加重。",
+      "patterns": [
+        "短嘲讽",
+        "长成本句",
+        "真的加重"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "奶茶公司正在家里庆祝呢。",
+          "note": "庆祝短句"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "这笔钱在2026年，不够请一个一线明星代言的，也不够开多少家店的，更不够做一次集",
+          "note": "成本长句"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "真的，茉莉奶白都可以笑发财了，这什么天上掉馅饼的机会啊。",
+          "note": "真的笑发财"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "半佛仙人商业毒舌：把侵权败诉读成性价比宣传，嘲奢侈品智商税。",
+      "patterns": [
+        "败诉读成宣传",
+        "嘲智商税"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "只要1000万（而且注意，只是一审，还可以不断上诉拖官司），就可以牢牢的在品牌周",
+          "note": "绑定LV"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。",
+          "note": "智商拼音"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "赔1000万笑发财；配不配vs赔不赔；拙政园图案；LV拼音智商。",
+      "patterns": [
+        "笑发财",
+        "赔不赔",
+        "拼音LV"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "真的，茉莉奶白都可以笑发财了，这什么天上掉馅饼的机会啊。",
+          "note": "笑发财"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "别的奶茶品牌跟奢侈品联名还要被质问配不配，茉莉奶白直接就上位顶多被问赔不赔。",
+          "note": "赔不赔"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "这个智商表现真的是跟LV那俩字母按拼音读一样。",
+          "note": "拼音读"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「败诉即营销」反转框架+天时地利人和拆解可改编为观宇品牌/舆情评论，需补法律事实核验、降毒舌密度。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "就这个事情，虽然输了一审，但我现在已经开始怀疑这就是奶茶公司想要的效果。",
+          "note": "反转框架"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "天时是2026年，大家对奢侈品祛魅，而奶茶蹭得起飞。",
+          "note": "天时地利人和"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "就真的，从没见过这么以小博大高性价比的宣传策略，上次还是在电影里看到王多鱼这么干",
+          "note": "以小博大策略"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s4",
+    "s5",
+    "s6",
+    "s10",
+    "s13",
+    "s18",
+    "s36",
+    "s30",
+    "s16",
+    "s22",
+    "s28",
+    "s1",
+    "s9",
+    "s21",
+    "s23",
+    "s33",
+    "s14",
+    "s12",
+    "s27",
+    "s38",
+    "s34",
+    "s39",
+    "s31",
+    "s7",
+    "s11"
+  ],
+  "fields_complete_25": true
+}

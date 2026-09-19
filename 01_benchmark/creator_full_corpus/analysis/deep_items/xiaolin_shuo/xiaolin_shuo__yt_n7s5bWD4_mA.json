@@ -1,0 +1,4498 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_n7s5bWD4_mA",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=n7s5bWD4_mA",
+  "source_sha256": "0e973e2235c9c67df43ccaf837a771fe3a0e110c8d2281d3897fda7a2ab5deb6",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 710,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 8,
+      "snippet": "大家好我是蝙蝠俠"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "歡迎來到小Lin說"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "我們今天來聊一聊"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 2,
+      "snippet": "樂高"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "樂高毫無疑問"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "是地球上最成功最賺錢的玩具公司"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 11,
+      "snippet": "每年都能賣出上億套玩具"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 16,
+      "snippet": "2023年它的營收高達98億美元"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "我跟你說過去這半個多世紀"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 15,
+      "snippet": "樂高總共生產了超過一萬億塊積木"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "而且這一萬億塊積木之間"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 15,
+      "snippet": "它相互是幾乎可以完全隨意組合的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 13,
+      "snippet": "你想要是把這些全都收集起來"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "再平分給世界上的每一個人"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 17,
+      "snippet": "這樣每個人都能拿一套一千多塊的樂高"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "回家玩去"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 15,
+      "snippet": "你要知道樂高這些套裝真是挺貴的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "比較大的套裝能賣到500美元"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "甚至800美元"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "但就這麼貴的價格它還經常斷貨"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 18,
+      "snippet": "真的會有很多小偷就跑到玩具店裡偷樂高"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "甚至有坊間傳聞說"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "這個樂高比黃金都還要保值"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "你比如說這個"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 9,
+      "snippet": "是2013年動漫展"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "限量款的一個蜘蛛人小人"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "就這麼個小東西"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 17,
+      "snippet": "在二手市場的價值竟然超過了一萬美元"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 4,
+      "snippet": "你敢想嗎"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 16,
+      "snippet": "有人可能會覺得說你看樂高賣這麼貴"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "肯定是手裡握著專利"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 11,
+      "snippet": "坐地起價把價格抬得爆高"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 15,
+      "snippet": "然後跟奢侈品似的搞飢餓營銷那套"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "我跟你說還真不是"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 15,
+      "snippet": "樂高的利潤率確實比LVMH要高"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 16,
+      "snippet": "但是它的專利早在三十年前就過期了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 10,
+      "snippet": "現在誰都可以跟它競爭"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "但是依然沒有人可以撼動"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "它在玩具圈的地位"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "你說是資本的力量配置樂高"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "搞互聯網那套打法嗎"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "那就更不是了"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 4,
+      "snippet": "恰恰相反"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 14,
+      "snippet": "你看這個是樂高現在的股權結構"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 14,
+      "snippet": "這裡邊佔四分之三股份的大股東"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 14,
+      "snippet": "其實就是樂高的創始家族控制的"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 15,
+      "snippet": "而另外那25%是樂高自己創建的"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "一個樂高基金會控制"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 13,
+      "snippet": "反正總之就是全是樂高自己人"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "它還是個家族企業"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 12,
+      "snippet": "就是那種最私營的私營企業"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 11,
+      "snippet": "和資本完全就是兩個極端"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "資本的玩法一般就是咵咵燒錢"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 12,
+      "snippet": "然後靠資本的力量迅速擴張"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "而樂高它恰好反過來"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "它是咵咵賺錢"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 17,
+      "snippet": "然後靠著某種神秘的力量也是迅速擴張"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 13,
+      "snippet": "你說它靠的是什麼神秘的力量"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "在電子遊戲盛行"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "短視頻大行其道的今天"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 14,
+      "snippet": "就靠著賣積木玩具風靡全球的呢"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 16,
+      "snippet": "咱們今天來看看樂高背後的商業秘密"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "樂高是一家丹麥的公司"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "它是1932年"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 15,
+      "snippet": "由一個丹麥人克里斯蒂安森建立的"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "這個老克里斯是個木工"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 9,
+      "snippet": "他也沒什麼雄心壯志"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 17,
+      "snippet": "就想在鎮上開一個那種木質的玩具小店"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "做點什麼小鴨子小狗"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "然後弄個小輪弄根繩"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 12,
+      "snippet": "可以拉著走的那種木質玩具"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "其實跟現在的樂高沒什麼關係"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 9,
+      "snippet": "後來他就給這個公司"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 20,
+      "snippet": "就這間木製玩具店的公司起名叫樂高lego"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 14,
+      "snippet": "源自丹麥語的Leg-Godt"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 11,
+      "snippet": "大概就是玩得開心的意思"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 9,
+      "snippet": "樂高後來的那種積木"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "我就管它叫做點點積木"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 10,
+      "snippet": "它其實不是樂高發明的"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "而是一個英國的玩具公司"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 12,
+      "snippet": "在1939年的時候發明的"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "也申請了專利"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 14,
+      "snippet": "它跟現在的樂高已經長得很像了"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 8,
+      "snippet": "但如果你仔細觀察"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 18,
+      "snippet": "你會發現它跟樂高有一個非常關鍵的不同"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 10,
+      "snippet": "不知道你能不能看出來"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 6,
+      "snippet": "我們一會揭曉"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 12,
+      "snippet": "這個老克里斯在1947年"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 14,
+      "snippet": "他也買了一個做塑膠玩具的機器"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 11,
+      "snippet": "打算開始做這種點點積木"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 17,
+      "snippet": "他當時還專門打電話給這個英國的公司"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 16,
+      "snippet": "就說你好我是一個來自丹麥的小公司"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 15,
+      "snippet": "能不能生產和你們這種類似的玩具"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 13,
+      "snippet": "結果人家給了一個明確的回复"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "我不反對"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 19,
+      "snippet": "而且還補上了一句\"Good Luck\""
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 4,
+      "snippet": "祝你好運"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 17,
+      "snippet": "這老克里斯一看高興壞了立刻投入生產"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 14,
+      "snippet": "不過後來隨著銷量一點一點起來"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 18,
+      "snippet": "他們就發現這個積木在設計上的一個問題"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 13,
+      "snippet": "就是這東西它連接的不太結實"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 13,
+      "snippet": "你看這個積木裡頭它完全空的"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 16,
+      "snippet": "它就只能靠四個角那個摩擦力來固定"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 15,
+      "snippet": "搭的稍微複雜一點或多一點高一點"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 6,
+      "snippet": "就很容易散架"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "所以樂高在1958年"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 10,
+      "snippet": "對這個設計進行了改進"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 14,
+      "snippet": "最主要的就是在這個積木的中間"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 9,
+      "snippet": "加了一些空心的管子"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 12,
+      "snippet": "增加了積木之間它接觸的點"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 17,
+      "snippet": "從而大大加強了積木之間連結的穩定性"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 10,
+      "snippet": "你別看就這麼改進對吧"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 14,
+      "snippet": "看起來不大但它其實是非常關鍵"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 7,
+      "snippet": "基本上從那之後"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 14,
+      "snippet": "樂高它的一個基礎形態就固定了"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 7,
+      "snippet": "就你現在買的樂"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 14,
+      "snippet": "高跟 你半個世紀之前買的樂高"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 9,
+      "snippet": "它是可以相互拼接的"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 14,
+      "snippet": "而之前那個英國公司申請的專利"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 12,
+      "snippet": "樂高也在1982年的時候"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 13,
+      "snippet": "以很便宜的價格就給買下來了"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 17,
+      "snippet": "總之就是這個點點積木它在專利問題上"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 12,
+      "snippet": "基本上沒出現什麼大的糾紛"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 13,
+      "snippet": "你看這個是最早期樂高的積木"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 8,
+      "snippet": "它完全沒有說明書"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 9,
+      "snippet": "也沒有什麼最終形態"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 11,
+      "snippet": "就給你一堆這種點點積木"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 11,
+      "snippet": "孩子們想怎麼拼就怎麼拼"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 9,
+      "snippet": "讓你充分發揮想像力"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 16,
+      "snippet": "因為它很容易上手同時擴展性又很強"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 11,
+      "snippet": "所以銷量也就不斷地攀升"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 15,
+      "snippet": "而樂高玩具的形態也在迅速地進化"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 9,
+      "snippet": "先是推出了樂高小鎮"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 14,
+      "snippet": "有了這麼一套它玩具系統的概念"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 12,
+      "snippet": "六十年代它又成功的推出了"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 2,
+      "snippet": "輪子"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 10,
+      "snippet": "你別說看著有點小兒科"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 10,
+      "snippet": "但這玩意小孩是真喜歡"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 11,
+      "snippet": "拼完了你看還能當小車玩"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 7,
+      "snippet": "銷售就開始大漲"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 6,
+      "snippet": "到1968年"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 17,
+      "snippet": "樂高在全球就賣出了1800萬套玩具"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 16,
+      "snippet": "後來這個老克里斯的接班人小克里斯"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 9,
+      "snippet": "他為了能更好地賣貨"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 9,
+      "snippet": "甚至在1960年代"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 9,
+      "snippet": "在他的總部比隆小鎮"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 9,
+      "snippet": "建了一個小型的機場"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 12,
+      "snippet": "後來這個機場一點點的擴建"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 17,
+      "snippet": "現在已經變成了丹麥第二大的國際機場"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 6,
+      "snippet": "也是在同一年"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 8,
+      "snippet": "樂高還在比隆小鎮"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 11,
+      "snippet": "開了一個樂高的主題公園"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 8,
+      "snippet": "最開始只有三英畝"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 10,
+      "snippet": "逐漸擴建了二十四英畝"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 10,
+      "snippet": "現在已經成了丹麥一個"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 9,
+      "snippet": "非常著名的旅遊景點"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 12,
+      "snippet": "你可以想像六十年代的時候"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 13,
+      "snippet": "樂高其實已經賣得非常成功了"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 5,
+      "snippet": "但我跟你說"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 14,
+      "snippet": "這個只是它後面起飛的一個開始"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 8,
+      "snippet": "接下來的二十年裡"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 12,
+      "snippet": "發展可以說是如入無人之境"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 17,
+      "snippet": "七十年代樂高又有一個重磅的設計出現"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 9,
+      "snippet": "就是它這個樂高小人"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 11,
+      "snippet": "整個玩具體系進一步完善"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 14,
+      "snippet": "之後又出現了一個接一個的爆款"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 15,
+      "snippet": "太空船系列城堡系列海盜系列等等"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 7,
+      "snippet": "到 1990年"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 14,
+      "snippet": "樂高的營收已經達到了五億美元"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 11,
+      "snippet": "成為了全球玩具業的巨頭"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 11,
+      "snippet": "說到這兒我順便考考大家"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 13,
+      "snippet": "咱剛才不是說樂高是丹麥的嘛"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 5,
+      "snippet": "那除了樂高"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 15,
+      "snippet": "丹麥其實還有很多全球知名的企業"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 12,
+      "snippet": "你比如說嘉士伯就賣啤酒的"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 15,
+      "snippet": "那你知道丹麥市值最高的上市公司"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 16,
+      "snippet": "其實也是歐洲市值最高的公司是誰嗎"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 10,
+      "snippet": "就是製藥巨頭諾和諾德"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 9,
+      "snippet": "好咱接著回來聊樂高"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 9,
+      "snippet": "咱剛才說樂高的發展"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 11,
+      "snippet": "一路順風 順水勢如破竹"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 12,
+      "snippet": "但它可不是就這麼平平淡淡"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 9,
+      "snippet": "就一路發展到今天的"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 14,
+      "snippet": "不然咱也不會做這期視頻了是吧"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 16,
+      "snippet": "九十年代樂高的增長就陷入了瓶頸期"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 12,
+      "snippet": "感覺這個玩具有點賣到頭了"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 7,
+      "snippet": "市場有點飽和了"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 8,
+      "snippet": "同時專利還過期了"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 10,
+      "snippet": "市場的競爭者們就開始"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 8,
+      "snippet": "紛紛湧入這個賽道"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 5,
+      "snippet": "更糟糕的是"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 17,
+      "snippet": "整個玩具業界都在遭受時代巨大的衝擊"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 15,
+      "snippet": "遊戲產業和互聯網產業開始興起了"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 12,
+      "snippet": "咱之前聊英偉達那期的時候"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 6,
+      "snippet": "其實也提到過"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 9,
+      "snippet": "隨著顯卡技術的進步"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 18,
+      "snippet": "九十年代可以說是電子遊戲的一個井噴期"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 16,
+      "snippet": "很多經典的遊戲都是那個年代推出的"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 10,
+      "snippet": "所以說這個時候的樂高"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 15,
+      "snippet": "本身在行業內部就受到劇烈的衝擊"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 10,
+      "snippet": "同時整個行業還在萎縮"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 6,
+      "snippet": "你說它怎麼辦"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 16,
+      "snippet": "它一方面開始加速推出各種主題套裝"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 11,
+      "snippet": "很多你可能甚至都看不到"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 10,
+      "snippet": "什麼經典樂高的影子了"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 16,
+      "snippet": "同時也在瘋狂嘗試各種新的娛樂形式"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 9,
+      "snippet": "例如推出自己的遊戲"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 11,
+      "snippet": "自己的雜誌小說電視節目"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 16,
+      "snippet": "包括媒體服飾擴建自己的遊樂園等等"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 12,
+      "snippet": "總之就是雖然它嘴上沒明說"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 11,
+      "snippet": "但是行動已經在告訴大家"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 15,
+      "snippet": "我感覺我原來的那個王牌點點積木"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 10,
+      "snippet": "可能似乎已經快不行了"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 12,
+      "snippet": "已經要進入時代的垃圾桶了"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 16,
+      "snippet": "我得抓緊時間在被淘汰之前完成轉型"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 4,
+      "snippet": "那結果呢"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 17,
+      "snippet": "你聽著我這語氣你就知道這結果好不了"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 11,
+      "snippet": "雖然它的收益在持續增長"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 9,
+      "snippet": "員工數也在持續增加"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 10,
+      "snippet": "可是利潤卻一年比年低"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 5,
+      "snippet": "1998年"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 15,
+      "snippet": "樂高的營收達到了77億丹麥克朗"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 10,
+      "snippet": "也就是大概十多億美元"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 7,
+      "snippet": "創下了歷史新高"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 10,
+      "snippet": "可是卻首次出現了虧損"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 12,
+      "snippet": "淨利潤負2.8億丹麥克朗"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 14,
+      "snippet": "這很顯然也表明樂高它正在掙扎"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 9,
+      "snippet": "它也被迫裁員一千人"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 9,
+      "snippet": "但依舊沒有挽回頹勢"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 16,
+      "snippet": "2003年更是進入企業的至暗時刻"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 6,
+      "snippet": "不光再次虧損"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 17,
+      "snippet": "而且可以說是幾乎看不到站起來的希望"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 15,
+      "snippet": "樂高這個成長了七十年的玩具巨頭"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 10,
+      "snippet": "已經站到了破產的邊緣"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 13,
+      "snippet": "於是2004年樂高選擇換帥"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 16,
+      "snippet": "他選擇了一個之前在麥肯錫工作過的"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 7,
+      "snippet": "叫克努德斯托普"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 15,
+      "snippet": "這個丹麥人的名字確實不太好翻譯"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 12,
+      "snippet": "我們就叫他小克作為CEO"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 18,
+      "snippet": "事後也證明這是一個非常非常成功的決定"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 10,
+      "snippet": "小克可以說是拯救樂高"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 12,
+      "snippet": "並且再次把它推向神壇的人"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 6,
+      "snippet": "再來看看小克"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 12,
+      "snippet": "他是怎麼思考問題解決問題"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 6,
+      "snippet": "小克想了很久"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 10,
+      "snippet": "他發現樂高在過去十年"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 8,
+      "snippet": "忽略了一個最簡單"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 7,
+      "snippet": "、最基礎的問題"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 2,
+      "snippet": "就是"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 15,
+      "snippet": "Why do we exist"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 15,
+      "snippet": "其實你站在樂高當時的處境想一想"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 12,
+      "snippet": "它有這種危機感是非常合理"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 11,
+      "snippet": "你看遊戲產業互聯網產業"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 8,
+      "snippet": "之後發展確實很猛"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 16,
+      "snippet": "樂高它要想拓展一些其他的新興業務"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 8,
+      "snippet": "其實也沒什麼問題"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 6,
+      "snippet": "問題出在哪呢"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 13,
+      "snippet": "就是它有點失去重點它失焦了"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 15,
+      "snippet": "本來這些新興業務你也沒什麼經驗"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 11,
+      "snippet": "然後哪個跟哪個又不挨著"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 8,
+      "snippet": "就掛了個樂高的名"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 11,
+      "snippet": "他們之間就沒法聯合起來"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 9,
+      "snippet": "形成一個協同的效應"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 12,
+      "snippet": "這就導致它戰線拉得這麼開"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 12,
+      "snippet": "但幾乎每一項業務都在虧錢"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 13,
+      "snippet": "所以小克他做出的第一個改變"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 17,
+      "snippet": "就是把重心重新放到樂高的王牌業務上"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 9,
+      "snippet": "就是這個點點積木上"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 12,
+      "snippet": "其他那些亂七八糟的業務線"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 14,
+      "snippet": "對這個核心業務有幫助的我保留"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 9,
+      "snippet": "跟它沒幫助的全砍掉"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 9,
+      "snippet": "這套降本增效的打法"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 15,
+      "snippet": "可以說是一些處在困難階段企業的"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 6,
+      "snippet": "一個常規操作"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 9,
+      "snippet": "不過這肯定是不夠的"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 6,
+      "snippet": "咱之前也說了"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 10,
+      "snippet": "樂高它其實在核心業務"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 9,
+      "snippet": "就是點點玩具這塊兒"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 7,
+      "snippet": "它也遇到瓶頸了"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 15,
+      "snippet": "按照原來那套模式它有點賣不動了"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 10,
+      "snippet": "這個才是它核心的問題"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 9,
+      "snippet": "怎麼解決這個問題呢"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 11,
+      "snippet": "小克的選擇其實也很簡單"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 12,
+      "snippet": "他就打出了他的第一張手牌"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 10,
+      "snippet": "就是回歸用戶回歸粉絲"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 8,
+      "snippet": "聽著有點雞湯是吧"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 11,
+      "snippet": "就像現在很多公司都會喊"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 6,
+      "snippet": "一切為了客戶"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 6,
+      "snippet": "客戶就是上帝"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 7,
+      "snippet": "使用者就是核心"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 16,
+      "snippet": "不過樂高它不是個口號它是真不含糊"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 11,
+      "snippet": "例如它在當時的設計環節"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 7,
+      "snippet": "玩具設計的時候"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 16,
+      "snippet": "就會把家長和孩子都讓他們參與進來"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 15,
+      "snippet": "去觀察他們在玩的時候的狀態互動"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 17,
+      "snippet": "一旦發現這個小孩不感興趣了不喜歡了"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 14,
+      "snippet": "不行這個玩具你得回爐重新設計"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 15,
+      "snippet": "而且它回歸的這個用戶不光是孩子"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 14,
+      "snippet": "你別看樂高這個業務是做玩具的"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 11,
+      "snippet": "但其實它有著非常巨量的"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 6,
+      "snippet": "成人粉絲群體"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 16,
+      "snippet": "這個群體還有個名叫\"AFOLs\""
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 18,
+      "snippet": "雖然2000年之前樂高推出的那些玩具"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 9,
+      "snippet": "基本就是針對孩子的"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 11,
+      "snippet": "你看一般它那個建議年齡"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 7,
+      "snippet": "最多就到十六歲"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 16,
+      "snippet": "但很多成年人他會自己在家裡攢樂高"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 10,
+      "snippet": "然後自創一些拼法玩法"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 10,
+      "snippet": "他們之間還會互相交流"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 6,
+      "snippet": "之前樂高其實"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 15,
+      "snippet": "並沒有把這幫成人粉絲群當回事兒"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 14,
+      "snippet": "甚至會覺得這些狂熱的成年粉絲"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 11,
+      "snippet": "會污染了他們的品牌形象"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 11,
+      "snippet": "但後來隨著互聯網的普及"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 9,
+      "snippet": "各種貼吧論壇的出現"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 8,
+      "snippet": "樂高它驚訝地發現"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 15,
+      "snippet": "這群成年粉絲的群體是如此地龐大"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 16,
+      "snippet": "而且在網路的助推之下也迅速地壯大"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 16,
+      "snippet": "它終於意識到這群成年粉絲的重要性"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 9,
+      "snippet": "20 05年的時候"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 13,
+      "snippet": "推出了一個叫樂高大使的計劃"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 8,
+      "snippet": "他們在全球範圍內"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 12,
+      "snippet": "挑了二十個樂高的成年大使"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 16,
+      "snippet": "負責跟全世界的成人粉絲去交流互動"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 11,
+      "snippet": "組成了一個成人的粉絲團"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 17,
+      "snippet": "極力地幫助樂高進行產品設計產品推廣"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 15,
+      "snippet": "這個作用是大大超越了樂高的預期"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 20,
+      "snippet": "它又在2017年推出了Lego life"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 12,
+      "snippet": "就是一個社交平台社交雜誌"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 17,
+      "snippet": "大家就可以在裡邊分享你對樂高的看法"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 10,
+      "snippet": "自己的模型自己的設計"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 13,
+      "snippet": "一方面增加了粉絲之間的交互"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 13,
+      "snippet": "另外樂高也能在這個交互當中"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 11,
+      "snippet": "得到最及時的產品的反饋"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 5,
+      "snippet": "小克就說了"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 16,
+      "snippet": "雖然我們只有一百二十個員工設計師"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 16,
+      "snippet": "但是我們可能有十二萬個志工設計師"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 10,
+      "snippet": "樂高也開始推出了一些"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 10,
+      "snippet": "專門針對成年人的系列"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 11,
+      "snippet": "複雜度更高觀賞性也更強"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 5,
+      "snippet": "2007年"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 18,
+      "snippet": "他們推出了一個超過五千塊的千年隼模型"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 14,
+      "snippet": "到現在都是非常暢銷的經典系列"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 17,
+      "snippet": "後來又推出了九千多塊兒的泰坦尼克號"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 11,
+      "snippet": "一萬多塊兒的艾菲爾鐵塔"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 12,
+      "snippet": "這些可以說都是樂高的名作"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 14,
+      "snippet": "我有個朋友他就非常喜歡收藏樂"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 20,
+      "snippet": "高就 剛剛我們說的那三大件兒他家裡 都有"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 14,
+      "snippet": "都特別大個子就在他家客廳擺著"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 10,
+      "snippet": "他家那客廳本來就不大"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 15,
+      "snippet": "幾乎被樂高全佔滿了都沒地方下腳"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 7,
+      "snippet": "其實你仔細想想"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 14,
+      "snippet": "樂高它這種以用戶為中心的戰略"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 13,
+      "snippet": "不光是說一個品牌形象的宣傳"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 9,
+      "snippet": "咱們就從商業的角度"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 10,
+      "snippet": "它其實也是非常合理的"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 8,
+      "snippet": "你想樂高這些積木"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 10,
+      "snippet": "它的核心競爭力是什麼"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 14,
+      "snippet": "當然品質供應鏈這肯定得有保障"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 14,
+      "snippet": "但它其實非常核心非常難的一點"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 18,
+      "snippet": "就是你怎麼利用這些非常簡單的點點積木"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 15,
+      "snippet": "去把它組裝設計成大家愛玩的套裝"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 11,
+      "snippet": "它不能太簡單也不能太難"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 9,
+      "snippet": "還得有足夠的可玩性"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 14,
+      "snippet": "而且你不光是設計出一套就好了"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 7,
+      "snippet": "而是持續不斷地"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 12,
+      "snippet": "每年可能幾百套的產出設計"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 15,
+      "snippet": "持續不斷地給大家帶來這種新鮮感"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 9,
+      "snippet": "你聽著是不是就挺難"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 17,
+      "snippet": "這個產品設計可以說是樂高的重中之重"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 14,
+      "snippet": "你與其說它是一個玩具製造公司"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 18,
+      "snippet": "不如說它的核心其實是一個玩具設計公司"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 9,
+      "snippet": "樂高它就非常巧妙地"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 17,
+      "snippet": "把它已經擁有的這麼龐大的一個粉絲群"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 15,
+      "snippet": "融合到了自己的玩具設計環節當中"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 11,
+      "snippet": "關鍵樂高這個東西很神奇"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 8,
+      "snippet": "它不像大多數產品"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 11,
+      "snippet": "設計環節可能非常地枯燥"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 9,
+      "snippet": "或專業性要求特別高"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 12,
+      "snippet": "它在設計的階段就很有意思"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 10,
+      "snippet": "本身就有很強的娛樂性"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 13,
+      "snippet": "甚至對於很多資深的粉絲來說"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 12,
+      "snippet": "你給我一套都設計好的套裝"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 6,
+      "snippet": "那有什麼意思"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 8,
+      "snippet": "他就喜歡自己設計"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 13,
+      "snippet": "自己建造一套與眾不同的東西"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 14,
+      "snippet": "所以這些粉絲他們也非常有激勵"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 11,
+      "snippet": "去幫助樂高完成產品設計"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 12,
+      "snippet": "這樣當樂高形成了這麼一個"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 8,
+      "snippet": "龐大的粉絲群之後"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 12,
+      "snippet": "在生產之前有粉絲可以幫助"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 9,
+      "snippet": "不斷地設計建議反饋"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 11,
+      "snippet": "生產之後粉絲又可以去玩"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 13,
+      "snippet": "這就形成了一個完整的生態圈"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 14,
+      "snippet": "也是樂高一個非常強大的護城河"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 8,
+      "snippet": "讓它不用依靠專利"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 7,
+      "snippet": "也可以持續推出"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 9,
+      "snippet": "讓人眼前一亮的設計"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 4,
+      "snippet": "Nice"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 4,
+      "snippet": "我跟你說"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 15,
+      "snippet": "我真的是無數次經過樂高店的時候"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 7,
+      "snippet": "我自己就會感嘆"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 8,
+      "snippet": "你說這東西雖然貴"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 7,
+      "snippet": "但設計的是真好"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 7,
+      "snippet": "不過我說明一下"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 5,
+      "snippet": "雖然粉絲群"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 15,
+      "snippet": "在樂高整個設計鏈條裡邊非常重要"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 14,
+      "snippet": "但也不是說它就全靠粉絲設計的"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 4,
+      "snippet": "主要工作"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 16,
+      "snippet": "肯定還是人家專門的設計師去完成的"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 6,
+      "snippet": "粉絲一般就是"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 12,
+      "snippet": "提供一些建議想法回饋等等"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 4,
+      "snippet": "是這樣的"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 10,
+      "snippet": "你看咱剛才聊了這麼多"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 12,
+      "snippet": "其實都是小克的第一條戰略"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 8,
+      "snippet": "回歸用戶回歸粉絲"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 9,
+      "snippet": "因為它確實比較重要"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 12,
+      "snippet": "所以我們展開聊得多了一點"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 8,
+      "snippet": "這個確實會幫助它"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 11,
+      "snippet": "設計出來大家喜歡的產品"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 13,
+      "snippet": "培養出來一個特別緊密的圈子"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 7,
+      "snippet": "但你說就靠這個"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 16,
+      "snippet": "它就能成為宇宙第一大玩具公司了嗎"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 6,
+      "snippet": "這肯定不是吧"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 13,
+      "snippet": "樂高它其實還有另外兩張手牌"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 11,
+      "snippet": "都是為了能讓自己更出圈"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 15,
+      "snippet": "去吸引那些不熟悉樂高的人路轉粉"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 5,
+      "snippet": "第二張手牌"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 14,
+      "snippet": "就是透過跟別的品牌的IP合作"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 10,
+      "snippet": "去打造自己的樂高宇宙"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 16,
+      "snippet": "你比如說樂高早在1999年的時候"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 9,
+      "snippet": "就跟盧卡斯影業合作"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 11,
+      "snippet": "推出了《星際大戰》系列"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 10,
+      "snippet": "《星際大戰》這個IP"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 15,
+      "snippet": "在亞洲人這邊可能一直都不溫不火"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 7,
+      "snippet": "但在歐美人眼裡"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 11,
+      "snippet": "那就是一個現象級的存在"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 17,
+      "snippet": "一直到現在都是樂高最暢銷的系列之一"
+    },
+    {
+      "sentence_id": "s441",
+      "char_len": 9,
+      "snippet": "樂高其實就是憑藉著"
+    },
+    {
+      "sentence_id": "s442",
+      "char_len": 11,
+      "snippet": "早期的《星球大戰》系列"
+    },
+    {
+      "sentence_id": "s443",
+      "char_len": 8,
+      "snippet": "《哈利波特》系列"
+    },
+    {
+      "sentence_id": "s444",
+      "char_len": 6,
+      "snippet": "才勉強熬過了"
+    },
+    {
+      "sentence_id": "s445",
+      "char_len": 13,
+      "snippet": "1998年後那最黑暗的幾年"
+    },
+    {
+      "sentence_id": "s446",
+      "char_len": 11,
+      "snippet": "後來它又陸續合作推出了"
+    },
+    {
+      "sentence_id": "s447",
+      "char_len": 9,
+      "snippet": "《復仇者聯盟》系列"
+    },
+    {
+      "sentence_id": "s448",
+      "char_len": 10,
+      "snippet": "《蝙蝠俠》 《魔戒》"
+    },
+    {
+      "sentence_id": "s449",
+      "char_len": 14,
+      "snippet": "《蜘蛛人》《侏羅紀公園》等等"
+    },
+    {
+      "sentence_id": "s450",
+      "char_len": 8,
+      "snippet": "大量最知名的IP"
+    },
+    {
+      "sentence_id": "s451",
+      "char_len": 14,
+      "snippet": "都能出現在樂高的這個宇宙裡頭"
+    },
+    {
+      "sentence_id": "s452",
+      "char_len": 12,
+      "snippet": "所以你也就在樂高的電影裡"
+    },
+    {
+      "sentence_id": "s453",
+      "char_len": 14,
+      "snippet": "又能看到蝙蝠俠超人神力女超人"
+    },
+    {
+      "sentence_id": "s454",
+      "char_len": 7,
+      "snippet": "這些DC的角色"
+    },
+    {
+      "sentence_id": "s455",
+      "char_len": 17,
+      "snippet": "又能看到《復仇者聯盟》這種漫威角色"
+    },
+    {
+      "sentence_id": "s456",
+      "char_len": 13,
+      "snippet": "甚至還能看到什麼林肯忍者龜"
+    },
+    {
+      "sentence_id": "s457",
+      "char_len": 7,
+      "snippet": "甚至奧尼爾等等"
+    },
+    {
+      "sentence_id": "s458",
+      "char_len": 8,
+      "snippet": "是吧就非常地神奇"
+    },
+    {
+      "sentence_id": "s459",
+      "char_len": 16,
+      "snippet": "這些IP對樂高有著巨大的推動作用"
+    },
+    {
+      "sentence_id": "s460",
+      "char_len": 6,
+      "snippet": "這個很好理解"
+    },
+    {
+      "sentence_id": "s461",
+      "char_len": 9,
+      "snippet": "不然那個蜘蛛人小人"
+    },
+    {
+      "sentence_id": "s462",
+      "char_len": 16,
+      "snippet": "也不可能在二手市場上炒到上萬美元"
+    },
+    {
+      "sentence_id": "s463",
+      "char_len": 14,
+      "snippet": "不過這裡頭我最想探討的是什麼"
+    },
+    {
+      "sentence_id": "s464",
+      "char_len": 10,
+      "snippet": "就為什麼這些各大公司"
+    },
+    {
+      "sentence_id": "s465",
+      "char_len": 15,
+      "snippet": "什麼迪士尼索尼華納兄弟環球影業"
+    },
+    {
+      "sentence_id": "s466",
+      "char_len": 12,
+      "snippet": "它們全都樂意和樂高合作呢"
+    },
+    {
+      "sentence_id": "s467",
+      "char_len": 17,
+      "snippet": "你要知道它們之間可是掐得死去活來的"
+    },
+    {
+      "sentence_id": "s468",
+      "char_len": 19,
+      "snippet": "它們很少會願意授權自己的IP形象給對方"
+    },
+    {
+      "sentence_id": "s469",
+      "char_len": 12,
+      "snippet": "但是它們跟樂高都是好朋友"
+    },
+    {
+      "sentence_id": "s470",
+      "char_len": 12,
+      "snippet": "甚至可以出現在一個電影裡"
+    },
+    {
+      "sentence_id": "s471",
+      "char_len": 8,
+      "snippet": "你不覺得很神奇嗎"
+    },
+    {
+      "sentence_id": "s472",
+      "char_len": 12,
+      "snippet": "首先樂高和這些其他的品牌"
+    },
+    {
+      "sentence_id": "s473",
+      "char_len": 9,
+      "snippet": "它們是怎麼合作的呢"
+    },
+    {
+      "sentence_id": "s474",
+      "char_len": 5,
+      "snippet": "其實很簡單"
+    },
+    {
+      "sentence_id": "s475",
+      "char_len": 14,
+      "snippet": "大部分情況下就是一個授權許可"
+    },
+    {
+      "sentence_id": "s476",
+      "char_len": 17,
+      "snippet": "比如說我一個《冰雪奇緣》的樂高玩具"
+    },
+    {
+      "sentence_id": "s477",
+      "char_len": 5,
+      "snippet": "賣一百塊錢"
+    },
+    {
+      "sentence_id": "s478",
+      "char_len": 15,
+      "snippet": "這裡邊可能十塊錢就要交給迪士尼"
+    },
+    {
+      "sentence_id": "s479",
+      "char_len": 10,
+      "snippet": "作為這個IP的授權費"
+    },
+    {
+      "sentence_id": "s480",
+      "char_len": 5,
+      "snippet": "具體分多少"
+    },
+    {
+      "sentence_id": "s481",
+      "char_len": 17,
+      "snippet": "這個比例那就取決於這個IP的價值了"
+    },
+    {
+      "sentence_id": "s482",
+      "char_len": 9,
+      "snippet": "它不是一個公開資訊"
+    },
+    {
+      "sentence_id": "s483",
+      "char_len": 4,
+      "snippet": "據我所知"
+    },
+    {
+      "sentence_id": "s484",
+      "char_len": 16,
+      "snippet": "好像大概會在5%到20%這個區間"
+    },
+    {
+      "sentence_id": "s485",
+      "char_len": 15,
+      "snippet": "那你看這種合作對迪士尼的好處呢"
+    },
+    {
+      "sentence_id": "s486",
+      "char_len": 7,
+      "snippet": "首先它風險很小"
+    },
+    {
+      "sentence_id": "s487",
+      "char_len": 17,
+      "snippet": "你看樂高它品牌形象又好產品質量又好"
+    },
+    {
+      "sentence_id": "s488",
+      "char_len": 9,
+      "snippet": "它不會砸了我的招牌"
+    },
+    {
+      "sentence_id": "s489",
+      "char_len": 13,
+      "snippet": "第二它不會搶了我現有的生意"
+    },
+    {
+      "sentence_id": "s490",
+      "char_len": 17,
+      "snippet": "你看樂高宇宙它是一個非常封閉的體系"
+    },
+    {
+      "sentence_id": "s491",
+      "char_len": 12,
+      "snippet": "它跟什麼漫威《星球大戰》"
+    },
+    {
+      "sentence_id": "s492",
+      "char_len": 9,
+      "snippet": "都完全不是一個賽道"
+    },
+    {
+      "sentence_id": "s493",
+      "char_len": 17,
+      "snippet": "那些小人它雖然也叫蜘蛛人也叫蝙蝠俠"
+    },
+    {
+      "sentence_id": "s494",
+      "char_len": 11,
+      "snippet": "但它長得一看就是個樂高"
+    },
+    {
+      "sentence_id": "s495",
+      "char_len": 5,
+      "snippet": "在大家心裡"
+    },
+    {
+      "sentence_id": "s496",
+      "char_len": 14,
+      "snippet": "可能我是喜歡漫威還是喜歡DC"
+    },
+    {
+      "sentence_id": "s497",
+      "char_len": 6,
+      "snippet": "他確實會打架"
+    },
+    {
+      "sentence_id": "s498",
+      "char_len": 10,
+      "snippet": "就像有些人喜歡肯德基"
+    },
+    {
+      "sentence_id": "s499",
+      "char_len": 10,
+      "snippet": "有些人喜歡麥當勞一樣"
+    },
+    {
+      "sentence_id": "s500",
+      "char_len": 5,
+      "snippet": "可是樂高呢"
+    },
+    {
+      "sentence_id": "s501",
+      "char_len": 9,
+      "snippet": "它就有點像個番茄醬"
+    },
+    {
+      "sentence_id": "s502",
+      "char_len": 14,
+      "snippet": "甭管您是喜歡肯德基還是麥當勞"
+    },
+    {
+      "sentence_id": "s503",
+      "char_len": 10,
+      "snippet": "都可以蘸一蘸我番茄醬"
+    },
+    {
+      "sentence_id": "s504",
+      "char_len": 17,
+      "snippet": "我只要保持我在番茄醬領域的霸主地位"
+    },
+    {
+      "sentence_id": "s505",
+      "char_len": 10,
+      "snippet": "你們就都會來跟我合作"
+    },
+    {
+      "sentence_id": "s506",
+      "char_len": 10,
+      "snippet": "而且大家還能一起賺錢"
+    },
+    {
+      "sentence_id": "s507",
+      "char_len": 4,
+      "snippet": "所以你看"
+    },
+    {
+      "sentence_id": "s508",
+      "char_len": 5,
+      "snippet": "它形象又好"
+    },
+    {
+      "sentence_id": "s509",
+      "char_len": 13,
+      "snippet": "又不會搶了我自己的主營業務"
+    },
+    {
+      "sentence_id": "s510",
+      "char_len": 8,
+      "snippet": "又能給我帶來營收"
+    },
+    {
+      "sentence_id": "s511",
+      "char_len": 6,
+      "snippet": "何樂而不為呢"
+    },
+    {
+      "sentence_id": "s512",
+      "char_len": 16,
+      "snippet": "所以你發沒發現咱這麼一通分析下來"
+    },
+    {
+      "sentence_id": "s513",
+      "char_len": 10,
+      "snippet": "樂高它發展的一個關鍵"
+    },
+    {
+      "sentence_id": "s514",
+      "char_len": 12,
+      "snippet": "就是你的野心不能太大隻要"
+    },
+    {
+      "sentence_id": "s515",
+      "char_len": 14,
+      "snippet": "你一直都圍繞著自己的樂高宇宙"
+    },
+    {
+      "sentence_id": "s516",
+      "char_len": 3,
+      "snippet": "去打造"
+    },
+    {
+      "sentence_id": "s517",
+      "char_len": 10,
+      "snippet": "大家就一直都是好朋友"
+    },
+    {
+      "sentence_id": "s518",
+      "char_len": 12,
+      "snippet": "咱就老老實地做咱的番茄醬"
+    },
+    {
+      "sentence_id": "s519",
+      "char_len": 13,
+      "snippet": "那不光什麼肯德基麥當勞對吧"
+    },
+    {
+      "sentence_id": "s520",
+      "char_len": 8,
+      "snippet": "什麼必勝客達美樂"
+    },
+    {
+      "sentence_id": "s521",
+      "char_len": 12,
+      "snippet": "那不就有朋自遠方來了對吧"
+    },
+    {
+      "sentence_id": "s522",
+      "char_len": 17,
+      "snippet": "好樂高除了打造它自己的樂高宇宙之外"
+    },
+    {
+      "sentence_id": "s523",
+      "char_len": 9,
+      "snippet": "還有它的第三張手牌"
+    },
+    {
+      "sentence_id": "s524",
+      "char_len": 11,
+      "snippet": "就是透過不同的媒介傳播"
+    },
+    {
+      "sentence_id": "s525",
+      "char_len": 10,
+      "snippet": "去打造自己的樂高矩陣"
+    },
+    {
+      "sentence_id": "s526",
+      "char_len": 10,
+      "snippet": "剛才是宇宙這回是矩陣"
+    },
+    {
+      "sentence_id": "s527",
+      "char_len": 10,
+      "snippet": "這個矩陣是什麼意思呢"
+    },
+    {
+      "sentence_id": "s528",
+      "char_len": 13,
+      "snippet": "就是透過電影週邊遊樂場等等"
+    },
+    {
+      "sentence_id": "s529",
+      "char_len": 17,
+      "snippet": "不同的形式去打造自己的一個推廣矩陣"
+    },
+    {
+      "sentence_id": "s530",
+      "char_len": 6,
+      "snippet": "你是不是想說"
+    },
+    {
+      "sentence_id": "s531",
+      "char_len": 8,
+      "snippet": "剛才你不是說了嗎"
+    },
+    {
+      "sentence_id": "s532",
+      "char_len": 12,
+      "snippet": "90年代樂高就做了那麼多"
+    },
+    {
+      "sentence_id": "s533",
+      "char_len": 4,
+      "snippet": "你都說不"
+    },
+    {
+      "sentence_id": "s534",
+      "char_len": 8,
+      "snippet": "那不都是推廣矩陣"
+    },
+    {
+      "sentence_id": "s535",
+      "char_len": 12,
+      "snippet": "非也雖然形式還是那些形式"
+    },
+    {
+      "sentence_id": "s536",
+      "char_len": 15,
+      "snippet": "但是它的底層邏輯是完全不一樣的"
+    },
+    {
+      "sentence_id": "s537",
+      "char_len": 14,
+      "snippet": "那些其他的產業不是說就不能做"
+    },
+    {
+      "sentence_id": "s538",
+      "char_len": 16,
+      "snippet": "但是它得圍繞著你的核心產品去展開"
+    },
+    {
+      "sentence_id": "s539",
+      "char_len": 8,
+      "snippet": "那核心產品是什麼"
+    },
+    {
+      "sentence_id": "s540",
+      "char_len": 6,
+      "snippet": "咱說點點積木"
+    },
+    {
+      "sentence_id": "s541",
+      "char_len": 12,
+      "snippet": "你是不是聽著總覺得怪怪的"
+    },
+    {
+      "sentence_id": "s542",
+      "char_len": 8,
+      "snippet": "因為人家就要樂高"
+    },
+    {
+      "sentence_id": "s543",
+      "char_len": 10,
+      "snippet": "對吧這還不說明問題嗎"
+    },
+    {
+      "sentence_id": "s544",
+      "char_len": 15,
+      "snippet": "這個樂高玩具才是它的核心競爭力"
+    },
+    {
+      "sentence_id": "s545",
+      "char_len": 8,
+      "snippet": "它所有外圍的產品"
+    },
+    {
+      "sentence_id": "s546",
+      "char_len": 16,
+      "snippet": "都應該圍繞著這個核心競爭力去展開"
+    },
+    {
+      "sentence_id": "s547",
+      "char_len": 8,
+      "snippet": "他們的目的是什麼"
+    },
+    {
+      "sentence_id": "s548",
+      "char_len": 17,
+      "snippet": "就是去給這個核心給這個玩具去打輔助"
+    },
+    {
+      "sentence_id": "s549",
+      "char_len": 13,
+      "snippet": "用矩陣的打法去推廣樂高宇宙"
+    },
+    {
+      "sentence_id": "s550",
+      "char_len": 17,
+      "snippet": "這裡邊最成功最出圈的就是樂高的電影"
+    },
+    {
+      "sentence_id": "s551",
+      "char_len": 15,
+      "snippet": "它在2013年跟盧卡斯影業合作"
+    },
+    {
+      "sentence_id": "s552",
+      "char_len": 6,
+      "snippet": "推出了一系列"
+    },
+    {
+      "sentence_id": "s553",
+      "char_len": 16,
+      "snippet": "完全以樂高小人為主人公的動畫短片"
+    },
+    {
+      "sentence_id": "s554",
+      "char_len": 5,
+      "snippet": "反響非常好"
+    },
+    {
+      "sentence_id": "s555",
+      "char_len": 7,
+      "snippet": "於是就趁熱打鐵"
+    },
+    {
+      "sentence_id": "s556",
+      "char_len": 13,
+      "snippet": "2014年又跟華納兄弟合作"
+    },
+    {
+      "sentence_id": "s557",
+      "char_len": 10,
+      "snippet": "推出了首部獨立大電影"
+    },
+    {
+      "sentence_id": "s558",
+      "char_len": 10,
+      "snippet": "我跟你說就這個大電影"
+    },
+    {
+      "sentence_id": "s559",
+      "char_len": 9,
+      "snippet": "我不知道你看沒看過"
+    },
+    {
+      "sentence_id": "s560",
+      "char_len": 11,
+      "snippet": "可以說是讓樂高道即巔峰"
+    },
+    {
+      "sentence_id": "s561",
+      "char_len": 9,
+      "snippet": "說實話我是真沒想到"
+    },
+    {
+      "sentence_id": "s562",
+      "char_len": 16,
+      "snippet": "就這麼一個完全以樂高小人樂高玩具"
+    },
+    {
+      "sentence_id": "s563",
+      "char_len": 8,
+      "snippet": "為基礎的一個電影"
+    },
+    {
+      "sentence_id": "s564",
+      "char_len": 5,
+      "snippet": "能這麼出圈"
+    },
+    {
+      "sentence_id": "s565",
+      "char_len": 15,
+      "snippet": "連續三週霸榜美國電影票房的榜首"
+    },
+    {
+      "sentence_id": "s566",
+      "char_len": 17,
+      "snippet": "最終拿下了4.68億美元的全球票房"
+    },
+    {
+      "sentence_id": "s567",
+      "char_len": 8,
+      "snippet": "而這個電影的成功"
+    },
+    {
+      "sentence_id": "s568",
+      "char_len": 14,
+      "snippet": "它不光是讓樂高的粉絲嗨了一把"
+    },
+    {
+      "sentence_id": "s569",
+      "char_len": 13,
+      "snippet": "更關鍵的是它讓很多像我這樣"
+    },
+    {
+      "sentence_id": "s570",
+      "char_len": 10,
+      "snippet": "可能對樂高不是很了解"
+    },
+    {
+      "sentence_id": "s571",
+      "char_len": 14,
+      "snippet": "或者可能很多年都沒玩樂高的人"
+    },
+    {
+      "sentence_id": "s572",
+      "char_len": 7,
+      "snippet": "又重新認識了它"
+    },
+    {
+      "sentence_id": "s573",
+      "char_len": 12,
+      "snippet": "就算看完電影你不去買樂高"
+    },
+    {
+      "sentence_id": "s574",
+      "char_len": 12,
+      "snippet": "但至少你對樂高的這個形象"
+    },
+    {
+      "sentence_id": "s575",
+      "char_len": 7,
+      "snippet": "這個好感度對吧"
+    },
+    {
+      "sentence_id": "s576",
+      "char_len": 7,
+      "snippet": "它是有所提升的"
+    },
+    {
+      "sentence_id": "s577",
+      "char_len": 14,
+      "snippet": "之後樂高又陸續推出了幾部電影"
+    },
+    {
+      "sentence_id": "s578",
+      "char_len": 14,
+      "snippet": "雖然沒有第一部那麼炸那麼出圈"
+    },
+    {
+      "sentence_id": "s579",
+      "char_len": 12,
+      "snippet": "但是也都帶來了不錯的反響"
+    },
+    {
+      "sentence_id": "s580",
+      "char_len": 13,
+      "snippet": "而這恰恰就是矩陣打法的好處"
+    },
+    {
+      "sentence_id": "s581",
+      "char_len": 18,
+      "snippet": "它不是說我出一部電影賺點票房那麼簡單"
+    },
+    {
+      "sentence_id": "s582",
+      "char_len": 11,
+      "snippet": "關鍵是大家看完電影以後"
+    },
+    {
+      "sentence_id": "s583",
+      "char_len": 9,
+      "snippet": "會更喜歡樂高的玩具"
+    },
+    {
+      "sentence_id": "s584",
+      "char_len": 9,
+      "snippet": "會更愛買樂高的玩具"
+    },
+    {
+      "sentence_id": "s585",
+      "char_len": 13,
+      "snippet": "或者更愛給孩子買樂高的玩具"
+    },
+    {
+      "sentence_id": "s586",
+      "char_len": 12,
+      "snippet": "這個玩具的銷量它就上去了"
+    },
+    {
+      "sentence_id": "s587",
+      "char_len": 15,
+      "snippet": "類似它在自媒體的運營也非常成功"
+    },
+    {
+      "sentence_id": "s588",
+      "char_len": 9,
+      "snippet": "也差不多是這個邏輯"
+    },
+    {
+      "sentence_id": "s589",
+      "char_len": 16,
+      "snippet": "它在YouTube帳號的動畫片上"
+    },
+    {
+      "sentence_id": "s590",
+      "char_len": 17,
+      "snippet": "經常就能出現那種破千萬播放量的視頻"
+    },
+    {
+      "sentence_id": "s591",
+      "char_len": 27,
+      "snippet": "樂高還推出了一檔真人秀叫做《LEGO Masters》"
+    },
+    {
+      "sentence_id": "s592",
+      "char_len": 6,
+      "snippet": "《樂高大師》"
+    },
+    {
+      "sentence_id": "s593",
+      "char_len": 16,
+      "snippet": "簡單來說就是大家去比誰樂高拼得好"
+    },
+    {
+      "sentence_id": "s594",
+      "char_len": 10,
+      "snippet": "這個簡單來說夠簡單吧"
+    },
+    {
+      "sentence_id": "s595",
+      "char_len": 4,
+      "snippet": "這檔節目"
+    },
+    {
+      "sentence_id": "s596",
+      "char_len": 15,
+      "snippet": "在全球範圍內也是有不小的影響力"
+    },
+    {
+      "sentence_id": "s597",
+      "char_len": 8,
+      "snippet": "不光是在美國英國"
+    },
+    {
+      "sentence_id": "s598",
+      "char_len": 12,
+      "snippet": "包括澳大利亞德國波蘭等等"
+    },
+    {
+      "sentence_id": "s599",
+      "char_len": 7,
+      "snippet": "將近二十個國家"
+    },
+    {
+      "sentence_id": "s600",
+      "char_len": 15,
+      "snippet": "都推出了自己版本的《樂高大師》"
+    },
+    {
+      "sentence_id": "s601",
+      "char_len": 9,
+      "snippet": "而且像美國澳大利亞"
+    },
+    {
+      "sentence_id": "s602",
+      "char_len": 10,
+      "snippet": "都推出了至少四季是吧"
+    },
+    {
+      "sentence_id": "s603",
+      "char_len": 8,
+      "snippet": "你可見它的影響力"
+    },
+    {
+      "sentence_id": "s604",
+      "char_len": 16,
+      "snippet": "你看圍繞著樂高這些積木玩具搭建的"
+    },
+    {
+      "sentence_id": "s605",
+      "char_len": 12,
+      "snippet": "這些非玩具形式的業務拓展"
+    },
+    {
+      "sentence_id": "s606",
+      "char_len": 15,
+      "snippet": "它其實會大大增加樂高玩具的受眾"
+    },
+    {
+      "sentence_id": "s607",
+      "char_len": 18,
+      "snippet": "結合著剛才咱們說的IP授權的樂高宇宙"
+    },
+    {
+      "sentence_id": "s608",
+      "char_len": 16,
+      "snippet": "讓樂高可以持續不斷地吸引新的粉絲"
+    },
+    {
+      "sentence_id": "s609",
+      "char_len": 11,
+      "snippet": "不管是成人還是孩子入坑"
+    },
+    {
+      "sentence_id": "s610",
+      "char_len": 15,
+      "snippet": "好我們再來整體看一下這三大戰略"
+    },
+    {
+      "sentence_id": "s611",
+      "char_len": 11,
+      "snippet": "首先它抓住了核心競爭力"
+    },
+    {
+      "sentence_id": "s612",
+      "char_len": 13,
+      "snippet": "就是積木玩具讓粉絲深度參與"
+    },
+    {
+      "sentence_id": "s613",
+      "char_len": 14,
+      "snippet": "打造了一個積木玩具的生態帝國"
+    },
+    {
+      "sentence_id": "s614",
+      "char_len": 10,
+      "snippet": "讓樂高在這個積木領域"
+    },
+    {
+      "sentence_id": "s615",
+      "char_len": 11,
+      "snippet": "成了一個無敵一般的存在"
+    },
+    {
+      "sentence_id": "s616",
+      "char_len": 11,
+      "snippet": "然後基於這個核心競爭力"
+    },
+    {
+      "sentence_id": "s617",
+      "char_len": 10,
+      "snippet": "和其他廠商的IP合作"
+    },
+    {
+      "sentence_id": "s618",
+      "char_len": 12,
+      "snippet": "囊括了幾乎所有大火的IP"
+    },
+    {
+      "sentence_id": "s619",
+      "char_len": 10,
+      "snippet": "打造了自己的樂高宇宙"
+    },
+    {
+      "sentence_id": "s620",
+      "char_len": 11,
+      "snippet": "同時利用不同的媒介形式"
+    },
+    {
+      "sentence_id": "s621",
+      "char_len": 9,
+      "snippet": "漫畫電影真人秀等等"
+    },
+    {
+      "sentence_id": "s622",
+      "char_len": 14,
+      "snippet": "圍繞著玩具打造了一個推廣矩陣"
+    },
+    {
+      "sentence_id": "s623",
+      "char_len": 10,
+      "snippet": "穩步擴大自己的影響力"
+    },
+    {
+      "sentence_id": "s624",
+      "char_len": 9,
+      "snippet": "這麼一套組合拳下來"
+    },
+    {
+      "sentence_id": "s625",
+      "char_len": 10,
+      "snippet": "既穩住了自己的基本盤"
+    },
+    {
+      "sentence_id": "s626",
+      "char_len": 11,
+      "snippet": "又穩步地向外去擴展擴張"
+    },
+    {
+      "sentence_id": "s627",
+      "char_len": 11,
+      "snippet": "而且這個成本也比較可控"
+    },
+    {
+      "sentence_id": "s628",
+      "char_len": 10,
+      "snippet": "還能保住自己的利潤率"
+    },
+    {
+      "sentence_id": "s629",
+      "char_len": 10,
+      "snippet": "幫樂高在現在娛樂方式"
+    },
+    {
+      "sentence_id": "s630",
+      "char_len": 9,
+      "snippet": "這麼眼花繚亂的今天"
+    },
+    {
+      "sentence_id": "s631",
+      "char_len": 14,
+      "snippet": "就靠著積木玩具成為了一個巨頭"
+    },
+    {
+      "sentence_id": "s632",
+      "char_len": 17,
+      "snippet": "在經歷了2000年初的至暗時刻之後"
+    },
+    {
+      "sentence_id": "s633",
+      "char_len": 17,
+      "snippet": "樂高2004年還是虧損將近3億美元"
+    },
+    {
+      "sentence_id": "s634",
+      "char_len": 7,
+      "snippet": "到了2005年"
+    },
+    {
+      "sentence_id": "s635",
+      "char_len": 15,
+      "snippet": "就開始轉向盈利1. 17億美元"
+    },
+    {
+      "sentence_id": "s636",
+      "char_len": 6,
+      "snippet": "之後持續增長"
+    },
+    {
+      "sentence_id": "s637",
+      "char_len": 18,
+      "snippet": "到2023年利潤已經達到了19億美元"
+    },
+    {
+      "sentence_id": "s638",
+      "char_len": 7,
+      "snippet": "營收98億美元"
+    },
+    {
+      "sentence_id": "s639",
+      "char_len": 17,
+      "snippet": "這個增長可能跟那些互聯網科技公司比"
+    },
+    {
+      "sentence_id": "s640",
+      "char_len": 7,
+      "snippet": "它沒有那麼誇張"
+    },
+    {
+      "sentence_id": "s641",
+      "char_len": 16,
+      "snippet": "但是作為一個傳統的實體的玩具公司"
+    },
+    {
+      "sentence_id": "s642",
+      "char_len": 11,
+      "snippet": "已經可以說是天花板級別"
+    },
+    {
+      "sentence_id": "s643",
+      "char_len": 6,
+      "snippet": "而且你別忘了"
+    },
+    {
+      "sentence_id": "s644",
+      "char_len": 14,
+      "snippet": "它是幾乎沒有融資沒有資本運作"
+    },
+    {
+      "sentence_id": "s645",
+      "char_len": 7,
+      "snippet": "就是持續不斷地"
+    },
+    {
+      "sentence_id": "s646",
+      "char_len": 16,
+      "snippet": "穩定的現金流穩定的利潤穩定的賺錢"
+    },
+    {
+      "sentence_id": "s647",
+      "char_len": 8,
+      "snippet": "那可能有些人說了"
+    },
+    {
+      "sentence_id": "s648",
+      "char_len": 9,
+      "snippet": "它賺錢因為他賣的貴"
+    },
+    {
+      "sentence_id": "s649",
+      "char_len": 7,
+      "snippet": "它是不是暴利呢"
+    },
+    {
+      "sentence_id": "s650",
+      "char_len": 12,
+      "snippet": "咱來看看它的這個成本構成"
+    },
+    {
+      "sentence_id": "s651",
+      "char_len": 7,
+      "snippet": "根據樂高的財報"
+    },
+    {
+      "sentence_id": "s652",
+      "char_len": 14,
+      "snippet": "你買的這個樂高玩具的價格裡頭"
+    },
+    {
+      "sentence_id": "s653",
+      "char_len": 13,
+      "snippet": "大概有三分之一是純生產成本"
+    },
+    {
+      "sentence_id": "s654",
+      "char_len": 14,
+      "snippet": "包括像材料製造生產的人工等等"
+    },
+    {
+      "sentence_id": "s655",
+      "char_len": 9,
+      "snippet": "然後有大概三分之一"
+    },
+    {
+      "sentence_id": "s656",
+      "char_len": 9,
+      "snippet": "是銷售和運輸的成本"
+    },
+    {
+      "sentence_id": "s657",
+      "char_len": 13,
+      "snippet": "還有一些其他亂七八糟的成本"
+    },
+    {
+      "sentence_id": "s658",
+      "char_len": 13,
+      "snippet": "樂高的營運利潤大概是25%"
+    },
+    {
+      "sentence_id": "s659",
+      "char_len": 6,
+      "snippet": "就是四分之一"
+    },
+    {
+      "sentence_id": "s660",
+      "char_len": 8,
+      "snippet": "這個水平確實不低"
+    },
+    {
+      "sentence_id": "s661",
+      "char_len": 11,
+      "snippet": "但你肯定不能說它是暴利"
+    },
+    {
+      "sentence_id": "s662",
+      "char_len": 10,
+      "snippet": "你比如說蘋果就比它高"
+    },
+    {
+      "sentence_id": "s663",
+      "char_len": 8,
+      "snippet": "說到這個財務數據"
+    },
+    {
+      "sentence_id": "s664",
+      "char_len": 15,
+      "snippet": "我覺得有一點樂高做的還挺不錯的"
+    },
+    {
+      "sentence_id": "s665",
+      "char_len": 9,
+      "snippet": "它作為一個私人企業"
+    },
+    {
+      "sentence_id": "s666",
+      "char_len": 10,
+      "snippet": "大概從2000年開始"
+    },
+    {
+      "sentence_id": "s667",
+      "char_len": 16,
+      "snippet": "每年都會發布非常詳細的自己的財報"
+    },
+    {
+      "sentence_id": "s668",
+      "char_len": 7,
+      "snippet": "還有可持續報告"
+    },
+    {
+      "sentence_id": "s669",
+      "char_len": 12,
+      "snippet": "把它的財務狀況發展的戰略"
+    },
+    {
+      "sentence_id": "s670",
+      "char_len": 7,
+      "snippet": "遇到的問題等等"
+    },
+    {
+      "sentence_id": "s671",
+      "char_len": 11,
+      "snippet": "清清楚楚地去跟大眾交流"
+    },
+    {
+      "sentence_id": "s672",
+      "char_len": 8,
+      "snippet": "你要知道這種做法"
+    },
+    {
+      "sentence_id": "s673",
+      "char_len": 14,
+      "snippet": "在私營企業裡其實是非常少見的"
+    },
+    {
+      "sentence_id": "s674",
+      "char_len": 10,
+      "snippet": "所以說丹麥對私營企業"
+    },
+    {
+      "sentence_id": "s675",
+      "char_len": 16,
+      "snippet": "確實有一定的這種財務透明度的要求"
+    },
+    {
+      "sentence_id": "s676",
+      "char_len": 15,
+      "snippet": "但像樂高這麼坦誠這麼敞開大門的"
+    },
+    {
+      "sentence_id": "s677",
+      "char_len": 7,
+      "snippet": "可以說少之又少"
+    },
+    {
+      "sentence_id": "s678",
+      "char_len": 10,
+      "snippet": "我覺得它可能就是希望"
+    },
+    {
+      "sentence_id": "s679",
+      "char_len": 16,
+      "snippet": "小Lin可以更全面地了解它分析它"
+    },
+    {
+      "sentence_id": "s680",
+      "char_len": 10,
+      "snippet": "所以才這麼全面的公開"
+    },
+    {
+      "sentence_id": "s681",
+      "char_len": 8,
+      "snippet": "你看咱們今天聊的"
+    },
+    {
+      "sentence_id": "s682",
+      "char_len": 16,
+      "snippet": "其實主要是站在一個商業財經的角度"
+    },
+    {
+      "sentence_id": "s683",
+      "char_len": 9,
+      "snippet": "說樂高是怎麼發展的"
+    },
+    {
+      "sentence_id": "s684",
+      "char_len": 7,
+      "snippet": "它的戰略是什麼"
+    },
+    {
+      "sentence_id": "s685",
+      "char_len": 6,
+      "snippet": "護城河是什麼"
+    },
+    {
+      "sentence_id": "s686",
+      "char_len": 16,
+      "snippet": "但我就站在一個特別感性的人的角度"
+    },
+    {
+      "sentence_id": "s687",
+      "char_len": 16,
+      "snippet": "我覺得樂高成功還有一個關鍵是什麼"
+    },
+    {
+      "sentence_id": "s688",
+      "char_len": 14,
+      "snippet": "就是它是一個挺招人喜歡的公司"
+    },
+    {
+      "sentence_id": "s689",
+      "char_len": 11,
+      "snippet": "可能因為它是個做玩具的"
+    },
+    {
+      "sentence_id": "s690",
+      "char_len": 17,
+      "snippet": "或者有些人說因為它是一個北歐的企業"
+    },
+    {
+      "sentence_id": "s691",
+      "char_len": 12,
+      "snippet": "或者因為它是一個私營企業"
+    },
+    {
+      "sentence_id": "s692",
+      "char_len": 10,
+      "snippet": "沒有那麼多資本的味道"
+    },
+    {
+      "sentence_id": "s693",
+      "char_len": 16,
+      "snippet": "總之不管你是接觸它的產品它的電影"
+    },
+    {
+      "sentence_id": "s694",
+      "char_len": 11,
+      "snippet": "它的真人秀它的樂園等等"
+    },
+    {
+      "sentence_id": "s695",
+      "char_len": 16,
+      "snippet": "都會感覺到你進入了一個充充滿創意"
+    },
+    {
+      "sentence_id": "s696",
+      "char_len": 6,
+      "snippet": "而且非常簡單"
+    },
+    {
+      "sentence_id": "s697",
+      "char_len": 14,
+      "snippet": "但又飽和度拉滿的這麼一個世界"
+    },
+    {
+      "sentence_id": "s698",
+      "char_len": 10,
+      "snippet": "不太會感覺到什麼商業"
+    },
+    {
+      "sentence_id": "s699",
+      "char_len": 10,
+      "snippet": "或者金錢的味道在裡面"
+    },
+    {
+      "sentence_id": "s700",
+      "char_len": 13,
+      "snippet": "你看只要是在玩樂高的那些人"
+    },
+    {
+      "sentence_id": "s701",
+      "char_len": 16,
+      "snippet": "不管是小孩子還是大孩子還是老孩子"
+    },
+    {
+      "sentence_id": "s702",
+      "char_len": 10,
+      "snippet": "你都能從他們的眼神裡"
+    },
+    {
+      "sentence_id": "s703",
+      "char_len": 8,
+      "snippet": "看到認真看到童真"
+    },
+    {
+      "sentence_id": "s704",
+      "char_len": 15,
+      "snippet": "這個在現在這麼一個商業環境裡邊"
+    },
+    {
+      "sentence_id": "s705",
+      "char_len": 8,
+      "snippet": "我覺得還是挺難得"
+    },
+    {
+      "sentence_id": "s706",
+      "char_len": 15,
+      "snippet": "就說你好我就是一個丹麥的小公司"
+    },
+    {
+      "sentence_id": "s707",
+      "char_len": 15,
+      "snippet": "能不能生產和你們這種類似的玩具"
+    },
+    {
+      "sentence_id": "s708",
+      "char_len": 6,
+      "snippet": "它其實會大大"
+    },
+    {
+      "sentence_id": "s709",
+      "char_len": 10,
+      "snippet": "它其實會大大增Juo"
+    },
+    {
+      "sentence_id": "s710",
+      "char_len": 9,
+      "snippet": "霸榜美國電影票房的"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "蝙蝠侠自嘲开场+频道名入题，紧接「樂高」单字定题，用营收/积木天文数字砸出赚钱奇迹感。",
+      "patterns": [
+        "角色自嘲入场",
+        "单字定题",
+        "天文数字砸钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大家好我是蝙蝠俠",
+          "note": "蝙蝠俠自嘲"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "歡迎來到小Lin說",
+          "note": "小Lin說频道"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "樂高",
+          "note": "樂高定题"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年它的營收高達98億美元",
+          "note": "98亿美元营收"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "最赚钱玩具→贵仍断货保值→非专利垄断→家族控股非资本打法→用户共创/成人系列→核心是设计公司→感性招人喜欢收束。",
+      "patterns": [
+        "神话数字链",
+        "否定专利/资本假说",
+        "设计护城河",
+        "感性品牌收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "是地球上最成功最賺錢的玩具公司",
+          "note": "最成功最赚钱"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "但是它的專利早在三十年前就過期了",
+          "note": "专利三十年前过期"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "反正總之就是全是樂高自己人",
+          "note": "全是自己人"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "玩具设计公司"
+        },
+        {
+          "sentence_id": "s688",
+          "snippet": "就是它是一個挺招人喜歡的公司",
+          "note": "招人喜欢的公司"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "myth_and_price",
+          "note": "赚钱神话+贵仍断货保值"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "reject_false_moats",
+          "note": "否定专利垄断与资本打法假说"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s336",
+            "s337",
+            "s338",
+            "s339",
+            "s340",
+            "s341",
+            "s342",
+            "s343",
+            "s344",
+            "s345",
+            "s346",
+            "s347",
+            "s348",
+            "s349",
+            "s350",
+            "s351",
+            "s352",
+            "s353",
+            "s354",
+            "s355",
+            "s356",
+            "s357",
+            "s358",
+            "s359",
+            "s360"
+          ],
+          "function": "adult_co_creation",
+          "note": "志工设计师与成人超大套装"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s361",
+            "s362",
+            "s363",
+            "s364",
+            "s365",
+            "s366",
+            "s367",
+            "s368",
+            "s369",
+            "s370",
+            "s371",
+            "s372",
+            "s373",
+            "s374",
+            "s375"
+          ],
+          "function": "design_core",
+          "note": "用户中心战略落到产品设计核心"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s681",
+            "s682",
+            "s683",
+            "s684",
+            "s685",
+            "s686",
+            "s687",
+            "s688",
+            "s689",
+            "s690",
+            "s691",
+            "s692",
+            "s693",
+            "s694",
+            "s695",
+            "s696",
+            "s697",
+            "s698",
+            "s699",
+            "s700",
+            "s701",
+            "s702",
+            "s703",
+            "s704",
+            "s705",
+            "s706",
+            "s707",
+            "s708",
+            "s709",
+            "s710"
+          ],
+          "function": "soft_brand_close",
+          "note": "财经视角转感性招人喜欢收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「我跟你說」「還真不是」「恰恰相反」「與其說…不如說」「但我就站在」层层纠偏再升维。",
+      "patterns": [
+        "我跟你说强调转",
+        "还真不是纠偏",
+        "与其不如重定义",
+        "感性角度升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "我跟你說",
+          "note": "我跟你說"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "还真不是"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "恰恰相反",
+          "note": "恰恰相反"
+        },
+        {
+          "sentence_id": "s373",
+          "snippet": "你與其說它是一個玩具製造公司",
+          "note": "与其说不如说"
+        },
+        {
+          "sentence_id": "s686",
+          "snippet": "但我就站在一個特別感性的人的角度",
+          "note": "站在感性角度"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "专利坐地起价假说 vs 专利已过期；互联网资本打法 vs 家族/基金会控股；玩具制造 vs 玩具设计；财经硬分析 vs 感性招人喜欢。",
+      "patterns": [
+        "假说/事实对打",
+        "制造/设计重定义",
+        "硬财经/软感性双镜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "然後跟奢侈品似的搞飢餓營銷那套",
+          "note": "饥饿营销假说"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "但是它的專利早在三十年前就過期了",
+          "note": "专利已过期"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "设计公司重定义"
+        },
+        {
+          "sentence_id": "s682",
+          "snippet": "其實主要是站在一個商業財經的角度",
+          "note": "商业财经角度"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你敢想嗎」夸张问；「是資本的力量嗎」假说问；「核心競爭力是什麼」机制问；「聽著是不是就挺難」共情问。",
+      "patterns": [
+        "夸张共情问",
+        "假说排除问",
+        "核心竞争力问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "你敢想嗎",
+          "note": "你敢想吗"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "你說是資本的力量配置樂高",
+          "note": "是资本的力量吗"
+        },
+        {
+          "sentence_id": "s360",
+          "snippet": "它的核心競爭力是什麼",
+          "note": "核心竞争力是什么"
+        },
+        {
+          "sentence_id": "s371",
+          "snippet": "你聽著是不是就挺難",
+          "note": "是不是就挺难"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "一万亿积木人均一千块；蜘蛛人限量小人过万美元；千年隼/泰坦尼克/艾菲尔大套装；朋友客厅被乐高占满。",
+      "patterns": [
+        "人均积木换算例",
+        "限量保值例",
+        "成人三大件例",
+        "朋友客厅场景"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "這樣每個人都能拿一套一千多塊的樂高",
+          "note": "每人一千多块"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "在二手市場的價值竟然超過了一萬美元",
+          "note": "小人超一万美元"
+        },
+        {
+          "sentence_id": "s343",
+          "snippet": "他們推出了一個超過五千塊的千年隼模型",
+          "note": "千年隼五千块"
+        },
+        {
+          "sentence_id": "s353",
+          "snippet": "幾乎被樂高全佔滿了都沒地方下腳",
+          "note": "客厅没地方下脚"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「几乎随意组合」落到人均套装；「用户中心战略」落到成人观赏套装与每年几百套设计产能。",
+      "patterns": [
+        "组合力→人均套装",
+        "用户战略→设计产能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "它相互是幾乎可以完全隨意組合的",
+          "note": "随意组合"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "這樣每個人都能拿一套一千多塊的樂高",
+          "note": "人均一千多块"
+        },
+        {
+          "sentence_id": "s355",
+          "snippet": "樂高它這種以用戶為中心的戰略",
+          "note": "用户为中心战略"
+        },
+        {
+          "sentence_id": "s369",
+          "snippet": "每年可能幾百套的產出設計",
+          "note": "每年几百套产出"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言地球上最成功最赚钱；专利非护城河；与其制造不如设计；招人喜欢是关键。",
+      "patterns": [
+        "最成功断语",
+        "还真不是纠偏断",
+        "设计公司重定义断",
+        "招人喜欢感性断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "是地球上最成功最賺錢的玩具公司",
+          "note": "最成功最赚钱"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "还真不是"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "核心是设计公司"
+        },
+        {
+          "sentence_id": "s688",
+          "snippet": "就是它是一個挺招人喜歡的公司",
+          "note": "挺招人喜欢"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先抛专利/资本假说再「还真不是」「恰恰相反」自驳；结尾从财经主线改口「感性角度还有一个关键」。",
+      "patterns": [
+        "假说自驳",
+        "财经→感性补线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "还真不是"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "那就更不是了",
+          "note": "那就更不是了"
+        },
+        {
+          "sentence_id": "s686",
+          "snippet": "但我就站在一個特別感性的人的角度",
+          "note": "站在感性角度补"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句+数字轰炸加速→假说排除中速→中段成人套装例加速→设计论证中密→感性收束降速。",
+      "patterns": [
+        "数字轰炸加速",
+        "假说排除中速",
+        "感性收束降速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年它的營收高達98億美元",
+          "note": "98亿数字密"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "纠偏短句"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "设计公司金句"
+        },
+        {
+          "sentence_id": "s705",
+          "snippet": "我覺得還是挺難得",
+          "note": "挺难得降速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "神话惊叹→贵到离谱→纠偏冷静→客厅喜剧→设计敬意→童真温情。",
+      "patterns": [
+        "神话惊叹",
+        "客厅喜剧",
+        "童真温情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "是地球上最成功最賺錢的玩具公司",
+          "note": "最成功惊叹"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "你敢想嗎",
+          "note": "你敢想吗"
+        },
+        {
+          "sentence_id": "s353",
+          "snippet": "幾乎被樂高全佔滿了都沒地方下腳",
+          "note": "客厅喜剧"
+        },
+        {
+          "sentence_id": "s703",
+          "snippet": "看到認真看到童真",
+          "note": "认真看到童真"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇赚钱神话在结尾落到「不太会感觉到商业金钱味道」+童真眼神，用招人喜欢解释护城河闭环。",
+      "patterns": [
+        "赚钱神话→无金钱味",
+        "童真眼神收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "是地球上最成功最賺錢的玩具公司",
+          "note": "最赚钱开题"
+        },
+        {
+          "sentence_id": "s698",
+          "snippet": "不太會感覺到什麼商業",
+          "note": "不太会感觉商业"
+        },
+        {
+          "sentence_id": "s703",
+          "snippet": "看到認真看到童真",
+          "note": "眼神里童真"
+        },
+        {
+          "sentence_id": "s705",
+          "snippet": "我覺得還是挺難得",
+          "note": "挺难得"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "截断窗口未见硬CTA，收束偏感悟分享式，弱邀约「说你好我就是一个丹麦小公司」戏仿式留白。",
+      "patterns": [
+        "感悟收束弱CTA",
+        "戏仿对话留白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s681",
+          "snippet": "你看咱們今天聊的",
+          "note": "今天聊的回顾"
+        },
+        {
+          "sentence_id": "s706",
+          "snippet": "就說你好我就是一個丹麥的小公司",
+          "note": "丹麦小公司戏仿"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「我跟你說」复沓、朋友客厅口语、蝙蝠侠开场、ASR断裂句「高就 刚刚」等非平滑书面腔。",
+      "patterns": [
+        "我跟你说复沓",
+        "朋友客厅口语",
+        "角色开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "大家好我是蝙蝠俠",
+          "note": "蝙蝠俠开场"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "我跟你說",
+          "note": "我跟你說"
+        },
+        {
+          "sentence_id": "s350",
+          "snippet": "高就 剛剛我們說的那三大件兒他家裡 都有",
+          "note": "朋友收藏口语"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "包体截断缺中间危机史；结尾ASR崩坏「增Juo/霸榜」；成人套装段略清单化；CTA弱。",
+      "patterns": [
+        "窗口截断缺口",
+        "收尾ASR崩",
+        "清单化风险"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s336",
+          "snippet": "小克就說了",
+          "note": "中段跳入志工"
+        },
+        {
+          "sentence_id": "s709",
+          "snippet": "它其實會大大增Juo",
+          "note": "增Juo崩坏"
+        },
+        {
+          "sentence_id": "s710",
+          "snippet": "霸榜美國電影票房的",
+          "note": "霸榜残句"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「常见解释→证伪→股权事实→设计难题拆解→感性补因」的排假求真过程。",
+      "patterns": [
+        "排假求真外露",
+        "设计难题拆解"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "排专利假说"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "你看這個是樂高現在的股權結構",
+          "note": "股权结构取证"
+        },
+        {
+          "sentence_id": "s360",
+          "snippet": "它的核心競爭力是什麼",
+          "note": "核心竞争力自问自答"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「我跟你說/你想/你聽著」把观众放在好奇外行位，用客厅朋友故事拉近同好。",
+      "patterns": [
+        "外行好奇位",
+        "同好客厅共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "我跟你說過去這半個多世紀",
+          "note": "我跟你說半世纪"
+        },
+        {
+          "sentence_id": "s359",
+          "snippet": "你想樂高這些積木",
+          "note": "你想乐高积木"
+        },
+        {
+          "sentence_id": "s349",
+          "snippet": "我有個朋友他就非常喜歡收藏樂",
+          "note": "我有个朋友"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "98亿美元、一万亿积木、蜘蛛人万元、股权3/4+25%、千年隼五千块、客厅没下脚处。",
+      "patterns": [
+        "98亿营收锚",
+        "蜘蛛人万元锚",
+        "股权结构锚",
+        "客厅占满锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年它的營收高達98億美元",
+          "note": "98亿美元"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "在二手市場的價值竟然超過了一萬美元",
+          "note": "超一万美元"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "這裡邊佔四分之三股份的大股東",
+          "note": "四分之三股份"
+        },
+        {
+          "sentence_id": "s353",
+          "snippet": "幾乎被樂高全佔滿了都沒地方下腳",
+          "note": "没地方下脚"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数字高密→假说排除中密→套装例中密→设计论证高密→感性收束降密。",
+      "patterns": [
+        "数字高密",
+        "设计论证高密",
+        "感性降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "2023年它的營收高達98億美元",
+          "note": "营收高密"
+        },
+        {
+          "sentence_id": "s369",
+          "snippet": "每年可能幾百套的產出設計",
+          "note": "每年几百套高密"
+        },
+        {
+          "sentence_id": "s703",
+          "snippet": "看到認真看到童真",
+          "note": "童真降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "超短定题句与长数字说明交替；纠偏短句打断；结尾排比「小孩子大孩子老孩子」。",
+      "patterns": [
+        "短定题+长数字",
+        "纠偏短句打断",
+        "年龄排比收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "樂高",
+          "note": "樂高短定题"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "樂高總共生產了超過一萬億塊積木",
+          "note": "一万亿长句"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "还真不是短"
+        },
+        {
+          "sentence_id": "s701",
+          "snippet": "不管是小孩子還是大孩子還是老孩子",
+          "note": "孩子排比"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "财经讲解员兼玩具同好：敢砸数字证伪，又愿意承认「招人喜欢」这种软解释。",
+      "patterns": [
+        "财经证伪者",
+        "软感性同好"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "我跟你說還真不是",
+          "note": "敢证伪"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "设计公司判断"
+        },
+        {
+          "sentence_id": "s688",
+          "snippet": "就是它是一個挺招人喜歡的公司",
+          "note": "招人喜欢感性"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "一万亿积木、比黄金保值、还真不是专利、玩具设计公司、招人喜欢。",
+      "patterns": [
+        "一万亿积木",
+        "比黄金保值",
+        "设计公司",
+        "招人喜欢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "樂高總共生產了超過一萬億塊積木",
+          "note": "一万亿块积木"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "這個樂高比黃金都還要保值",
+          "note": "比黄金保值"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "玩具设计公司"
+        },
+        {
+          "sentence_id": "s688",
+          "snippet": "就是它是一個挺招人喜歡的公司",
+          "note": "招人喜欢"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「排假说→真护城河（设计/用户共创）→感性品牌补因」骨架可改编品牌护城河口播，需补完整危机史并修ASR尾。",
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "但是它的專利早在三十年前就過期了",
+          "note": "专利过期证伪"
+        },
+        {
+          "sentence_id": "s374",
+          "snippet": "不如說它的核心其實是一個玩具設計公司",
+          "note": "设计公司核心"
+        },
+        {
+          "sentence_id": "s688",
+          "snippet": "就是它是一個挺招人喜歡的公司",
+          "note": "招人喜欢补因"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s8",
+    "s6",
+    "s37",
+    "s50",
+    "s374",
+    "s688",
+    "s3",
+    "s5",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s336",
+    "s337",
+    "s338",
+    "s339",
+    "s340",
+    "s341",
+    "s342",
+    "s343",
+    "s344",
+    "s345",
+    "s346",
+    "s347",
+    "s348",
+    "s349",
+    "s350",
+    "s351",
+    "s352",
+    "s353",
+    "s354",
+    "s355",
+    "s356",
+    "s357",
+    "s358",
+    "s359",
+    "s360",
+    "s361",
+    "s362",
+    "s363",
+    "s364",
+    "s365",
+    "s366",
+    "s367",
+    "s368",
+    "s369",
+    "s370",
+    "s371",
+    "s372",
+    "s373",
+    "s375",
+    "s681",
+    "s682",
+    "s683",
+    "s684",
+    "s685",
+    "s686",
+    "s687",
+    "s689",
+    "s690",
+    "s691",
+    "s692",
+    "s693",
+    "s694",
+    "s695",
+    "s696",
+    "s697",
+    "s698",
+    "s699",
+    "s700",
+    "s701",
+    "s702",
+    "s703",
+    "s704",
+    "s705",
+    "s706",
+    "s707",
+    "s708",
+    "s709",
+    "s710"
+  ],
+  "fields_complete_25": true
+}

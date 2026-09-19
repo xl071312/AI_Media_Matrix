@@ -1,0 +1,1016 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_gGSipBqT7nQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=gGSipBqT7nQ",
+  "source_sha256": "2a326a63a0108e8858335b7a98f586f679334278550480dbe690da40b31589dc",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 69,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "是帶著我們餐館"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 12,
+      "snippet": "因為通人氣息或是主人一樣"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 7,
+      "snippet": "現在帶你去看看"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "要不要忘記了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "當時也碰韌的學員"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "還有面臂的表演"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "是今天實習菜不行"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "菜品都高"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 5,
+      "snippet": "這也是教育"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "這不是教育的"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "這不是教育的"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 3,
+      "snippet": "教育的"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "還可以做的"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "這兩個太努力了"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "他們做菜還有繳作業"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 2,
+      "snippet": "天啊"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "最後一種我已經做"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 9,
+      "snippet": "有一個新化學的實驗"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "方編譯人員"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 14,
+      "snippet": "is a great job"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "一邊觀察一邊出現"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "然後這兒你們"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 5,
+      "snippet": "一天做大場"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "所有人都做大場"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 8,
+      "snippet": "每個人都一排大場"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "剛剛那天"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 9,
+      "snippet": "孩子那大場沒太攘爛"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "我已經攪了五分鐘"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "一開始就"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "就有點"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "我現在很浪費"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 9,
+      "snippet": "扭傷的菜比較輕大啦"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "我現在很浪費了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 33,
+      "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "做雕刻的菜的菜"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "是有病检查了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 8,
+      "snippet": "但是下次是有病的"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "是有A檢的時候"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "他就沒有辦法保持"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "沒有問題的心態"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "我們請教學怎麼修理"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "你也看起來"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 10,
+      "snippet": "你看起來看我都沒在看"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 1,
+      "snippet": "對"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "你看起來"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 4,
+      "snippet": "你看起來"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 47,
+      "snippet": "- 大家都在看我都在看我都在看我都在看我都在看我都在看我都在看我都在看我都在看我"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "一直在下了在打了一口"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "一直在下了在"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 7,
+      "snippet": "一直在打了一口"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "一直在打了"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 8,
+      "snippet": "如果攻擊都死不對"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 8,
+      "snippet": "但是非常不能阻止"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "他們剛好不住"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 12,
+      "snippet": "因為他們剛soulsou"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "因為他們剛會不住"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 8,
+      "snippet": "他們的影子都是那"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 10,
+      "snippet": "都是那種表現好的電競"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "因為他們的主席也"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 10,
+      "snippet": "因為他們的主席也不住"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 10,
+      "snippet": "因為他們的主席也不住"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "因為他們的主席也不住"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 6,
+      "snippet": "因為他們的主"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "带看蓝翔场景起笔，但ASR严重损坏，开场意图仅可辨参观引导。",
+      "patterns": [
+        "参观引导残",
+        "ASR损开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "現在帶你去看看",
+          "note": "带你看"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "是帶著我們餐館",
+          "note": "残句起"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "ASR链断裂：菜品/教育重复→雕刻菜→修理→攻击死循环重复，几乎无清晰主张。",
+      "patterns": [
+        "主张不可复原",
+        "重复噪声链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這也是教育",
+          "note": "教育残"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "這不是教育的",
+          "note": "否定重复"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "做雕刻的菜的菜",
+          "note": "雕刻"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "重复打"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "campus_tour_broken",
+          "note": "参观开场ASR损"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41"
+          ],
+          "function": "cooking_carve_broken",
+          "note": "做菜雕刻段损"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69"
+          ],
+          "function": "repeat_collapse",
+          "note": "看我/一直打重复崩坏"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "因为/然后/一开始就等连接词残存，逻辑过渡被ASR吞没。",
+      "patterns": [
+        "残存因为然后",
+        "过渡不可辨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "因為通人氣息或是主人一樣",
+          "note": "因为残"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "然後這兒你們",
+          "note": "然后"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "一開始就",
+          "note": "一开始"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "这也是教育vs这不是教育的口头对照，其余对比被噪声淹没。",
+      "patterns": [
+        "是教育vs不是"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這也是教育",
+          "note": "是教育"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "這不是教育的",
+          "note": "不是教育"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "文本窗口几乎无清晰疑问句，问答结构不可辨。",
+      "patterns": [
+        "无可辨设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "要不要忘記了",
+          "note": "残问可能"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你也看起來",
+          "note": "残催看"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "试图展示学员做菜交作业、搅拌五分钟、雕刻菜，细节被错词吞噬。",
+      "patterns": [
+        "做菜作业",
+        "搅拌",
+        "雕刻残例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "他們做菜還有繳作業",
+          "note": "交作业"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我已經攪了五分鐘",
+          "note": "五分钟"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "做雕刻的菜的菜",
+          "note": "雕刻"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "教育抽象词反复出现但落不到可核验动作，仅剩搅拌五分钟等碎片。",
+      "patterns": [
+        "抽象教育词",
+        "五分钟碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "這也是教育",
+          "note": "抽象教育"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我已經攪了五分鐘",
+          "note": "五分钟"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "太努力了/天啊/很浪费等情绪判断残片，无完整评判句。",
+      "patterns": [
+        "太努力",
+        "天啊",
+        "很浪费"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "這兩個太努力了",
+          "note": "太努力"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "天啊",
+          "note": "天啊"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "我現在很浪費",
+          "note": "浪费"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "这不是教育的→教育的来回改口；就有点未完成修复。",
+      "patterns": [
+        "教育改口",
+        "未完成修复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "這不是教育的",
+          "note": "否定"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "教育的",
+          "note": "改回"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "就有點",
+          "note": "未完成"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短残句→同句疯狂重复（一直在打了×N）形成机械节奏崩溃。",
+      "patterns": [
+        "短残",
+        "机械重复崩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "這不是教育的",
+          "note": "短残"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "一直在打了",
+          "note": "重复崩"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_exclaim",
+          "form": "天啊"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "一直在打了"
+        },
+        {
+          "type": "repair_like",
+          "form": "這不是教育的"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "你看起來"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "天啊",
+          "note": "天啊"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "重复打"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "這不是教育的",
+          "note": "repair"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "你看起來",
+          "note": "你看起来重复"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "参观好奇残→惊叹太努力→浪费焦虑→重复段失控烦躁（文本层）。",
+      "patterns": [
+        "好奇→惊叹→焦虑→失控"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "現在帶你去看看",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "這兩個太努力了",
+          "note": "惊叹"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我現在很浪費了",
+          "note": "焦虑"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "一直在打了",
+          "note": "失控"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "无有效闭环；结尾卡在主席也不住残句，开场参观未收回。",
+      "patterns": [
+        "无闭环",
+        "残句截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "現在帶你去看看",
+          "note": "开场未收"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "因為他們的主",
+          "note": "截断尾"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无CTA可辨。",
+      "patterns": [
+        "无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "現在帶你去看看",
+          "note": "仅引导无CTA"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "英文is a great job插入、菜的菜的…ed up、soulsou等ASR胡言，反成强毛边信号。",
+      "patterns": [
+        "中英混",
+        "胡言重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "is a great job",
+          "note": "英文插"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up",
+          "note": "胡言"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "因為他們剛soulsou",
+          "note": "soulsou"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR灾难性失败，分析只能标噪声；无法支撑内容迁移；与标题挖掘机体验严重不符。",
+      "patterns": [
+        "ASR灾难",
+        "题文不符",
+        "不可迁移"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up",
+          "note": "ASR崩"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "无信息重复"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场思考几乎不可读，仅见看起来/对等确认碎片。",
+      "patterns": [
+        "确认碎片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "對",
+          "note": "对"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "你也看起來",
+          "note": "催看"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "带你去看看第二人称残留，其余称呼被噪声覆盖。",
+      "patterns": [
+        "带你残留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "現在帶你去看看",
+          "note": "带你"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "然後這兒你們",
+          "note": "你们"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "仅残存交作业、搅拌五分钟、雕刻菜等弱锚，无蓝翔/挖掘机可核验锚点。",
+      "patterns": [
+        "交作业",
+        "五分钟",
+        "缺校名锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "他們做菜還有繳作業",
+          "note": "作业"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我已經攪了五分鐘",
+          "note": "五分钟"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "全程近零有效密度，中段英文/雕刻噪声，后段重复使密度塌缩。",
+      "patterns": [
+        "近零有效",
+        "重复塌缩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "is a great job",
+          "note": "噪声峰"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "塌缩"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "残短句并列→否定重复→超长胡言句→同句循环，无叙事弧。",
+      "patterns": [
+        "残并列",
+        "胡言",
+        "循环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "這不是教育的",
+          "note": "否定"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up",
+          "note": "胡言"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "一直在打了",
+          "note": "循环"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "人设被ASR抹掉，仅余惊叹/浪费等情绪碎片，无法识别毕导风格。",
+      "patterns": [
+        "人设不可辨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "天啊",
+          "note": "情绪碎"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "我現在很浪費",
+          "note": "浪费碎"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "无可靠记忆点；若硬记则是ASR灾难与一直在打了循环本身。",
+      "patterns": [
+        "无可靠记点",
+        "ASR灾难自指"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "循环记"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up",
+          "note": "胡言记"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "ASR严重损坏致主张/证据不可用，拒绝作为观宇迁移样本，需重转写后再评。",
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "做雕刻的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的菜的ed up",
+          "note": "ASR崩"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "一直在打了",
+          "note": "无信息"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "因為他們的主",
+          "note": "截断"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s20",
+    "s22",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s35",
+    "s42",
+    "s44",
+    "s45",
+    "s54",
+    "s55",
+    "s57",
+    "s61",
+    "s69"
+  ],
+  "fields_complete_25": true
+}

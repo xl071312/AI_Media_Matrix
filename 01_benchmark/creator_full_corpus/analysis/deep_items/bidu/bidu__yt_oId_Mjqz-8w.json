@@ -1,0 +1,1437 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_oId_Mjqz-8w",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=oId_Mjqz-8w",
+  "source_sha256": "b0093b8b73a1af3e874bcadafc134fe1094d9e7ac7ea4aeceadf9eaaf648a915",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 94,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 14,
+      "snippet": "很多警区会在水时你摆一个罐子"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 7,
+      "snippet": "让你任意必许愿"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "但应不得落点很难控制"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "今天就教大家"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 14,
+      "snippet": "把你分支白白印幣扔进去的方法"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 2,
+      "snippet": "首先"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "这种罐子并不在你看到的那个位置"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "我们12元就知道"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 6,
+      "snippet": "水对光有车射"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "所以底下罐子的实际位置"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "会比你看到的近一些"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 14,
+      "snippet": "你扔的时候得往近一点的地方描"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 7,
+      "snippet": "其次你可能觉得"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "印幣进水里之外"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 5,
+      "snippet": "继续向前出"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 11,
+      "snippet": "所以我一个打一颗提前料"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "但其实不用"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "水的阻力很大"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 5,
+      "snippet": "印幣一入水"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 12,
+      "snippet": "水平方向的速度就变成0了"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 10,
+      "snippet": "所以其实不管你怎么扔"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 14,
+      "snippet": "都和直接自由落体释放没啥去变"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "你就努力往罐子上方的水面扔就行"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 12,
+      "snippet": "那印幣到了罐子上方的水面"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "就会直接掉进罐子里吗"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "不不不不"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "没有那么简单"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "印幣入水后"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "并不会乖乖数值下落"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 9,
+      "snippet": "而是不由自主作用飞"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 7,
+      "snippet": "你不许看不清楚"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 15,
+      "snippet": "你许的愿望就这样被留提你学羞辱"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "这要怎么办呢"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "其实早在1853年"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "麦克思伟就研究过这的问题"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 2,
+      "snippet": "没错"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "就是那位电磁学组事业"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "原来大牢也懂得学学"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 12,
+      "snippet": "这篇1997年的内车漏文"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 18,
+      "snippet": "把一堆小元 73 年度不同的业题里面"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "扔出了四种运动形态"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "分别是稳定型"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 3,
+      "snippet": "周七型"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 3,
+      "snippet": "随机型"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 4,
+      "snippet": "和翻滚型"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "水的年度很小"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "如果你许愿用意愿印幣"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "那份的参数符合随机型"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "意愿印幣付水后"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "真就一定会向旁边随机飘走"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 6,
+      "snippet": "于是贪通描迟"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 6,
+      "snippet": "于是头部进去"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "但亲自印幣的运动规矩"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "符合周七型"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 15,
+      "snippet": "我当场掏出了小学二年纪的存千段"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 13,
+      "snippet": "找到了旅适的一毛钱和一分钱"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 7,
+      "snippet": "把他们人进水里"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 9,
+      "snippet": "印幣在水中作用飘荡"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 12,
+      "snippet": "爹爹壮壮去的落在罐子之上"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 11,
+      "snippet": "否俗泥物的运动也被点亮"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "所以许愿不要用一块钱"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 7,
+      "snippet": "它会随机飘走的"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 12,
+      "snippet": "用旅质的一毛和一分钱许愿"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 11,
+      "snippet": "才更有可能跳进罐子里面"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "希望管实质的神仙"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "别嫌轻易分家"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 17,
+      "snippet": "但你要是觉得旅应幣的存东力还不足着"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "我这儿还有三招"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 3,
+      "snippet": "第一招"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "力大专飞流"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 11,
+      "snippet": "只要把一对印幣绑在一起"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "这玩意儿比十多还重"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "谁的小小姐弟根本组织不了他"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 8,
+      "snippet": "人进罐子亲玩意局"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 3,
+      "snippet": "第二招"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 5,
+      "snippet": "你撒幣把流"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "如果你觉得绑在一起"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 7,
+      "snippet": "人外的就推大了"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 10,
+      "snippet": "那我推荐你把这对印幣"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 8,
+      "snippet": "直接撒进实质里面"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "只要不是倒霉的人身部分"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 12,
+      "snippet": "总能有几个印幣落进罐子吧"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 3,
+      "snippet": "第三招"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "中东土豪流"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 15,
+      "snippet": "其实只要吃自己的烈体原子足够大"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 14,
+      "snippet": "印幣就能撕滑又稳定的数值落下"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 8,
+      "snippet": "那什么也提慢租呢"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 2,
+      "snippet": "没错"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 2,
+      "snippet": "石油"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 8,
+      "snippet": "游几亿也是许愿进"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 13,
+      "snippet": "我看中东球长的许愿都挺好的"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 11,
+      "snippet": "欢迎家里有游景的朋友们"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "也是也是"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 10,
+      "snippet": "我猜猜这些鸣子流不灵"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "景区水池许愿罐难点切入，承诺教「把硬币扔进去」的方法，先破错觉位置。",
+      "patterns": [
+        "景区许愿难点",
+        "教方法承诺",
+        "先破错觉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "很多警区会在水时你摆一个罐子",
+          "note": "水池罐子"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就教大家",
+          "note": "今天就教"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "这种罐子并不在你看到的那个位置",
+          "note": "不在看到位置"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "折射使罐看起来更远要往近扔→入水水平速度近似归零不必提前量→硬币入水会飘→麦克斯韦/圆盘四模态→1元随机飘1毛1分周期稳→绑币/撒币/石油三招。",
+      "patterns": [
+        "折射往近",
+        "阻力归零",
+        "飘移",
+        "四模态",
+        "面额策略",
+        "三招"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "会比你看到的近一些",
+          "note": "实际更近"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "水平方向的速度就变成0了",
+          "note": "速度变0"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "而是不由自主作用飞",
+          "note": "飞"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "分别是稳定型",
+          "note": "四形态"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "所以许愿不要用一块钱",
+          "note": "不用一块"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "我这儿还有三招",
+          "note": "三招"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23"
+          ],
+          "function": "optics_drag",
+          "note": "折射与阻力两点纠正"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60"
+          ],
+          "function": "modes_demo",
+          "note": "飘移模态与面额实验"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94"
+          ],
+          "function": "hacks_close",
+          "note": "别用一块钱与三招收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先」「其次」「那…吗」「不不不不」「其实早在」「第一招/第二招/第三招」。",
+      "patterns": [
+        "首先其次",
+        "不不否定",
+        "其实早在",
+        "三招编号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "首先",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "其次你可能觉得",
+          "note": "其次"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不不不不",
+          "note": "不不"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "其实早在1853年",
+          "note": "早在"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "第一招",
+          "note": "第一招"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "看到的位置vs实际更近；以为要提前量vs阻力归零；1元随机vs1毛1分周期；普通水vs高粘度石油。",
+      "patterns": [
+        "视位差",
+        "提前量否",
+        "面额模态",
+        "粘度差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "会比你看到的近一些",
+          "note": "更近"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "但其实不用",
+          "note": "其实不用"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "真就一定会向旁边随机飘走",
+          "note": "随机飘"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "符合周七型",
+          "note": "周期型"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "石油",
+          "note": "石油"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "到了上方就会掉进吗；这要怎么办；什么流体够黏。",
+      "patterns": [
+        "会掉进吗",
+        "怎么办",
+        "什么流体"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "就会直接掉进罐子里吗",
+          "note": "会掉进吗"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "这要怎么办呢",
+          "note": "怎么办"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "那什么也提慢租呢",
+          "note": "什么流体"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "折射小学知识；1997论文四模态；掏出铝质1毛1分现场扔；绑两枚/撒一把/石油土豪。",
+      "patterns": [
+        "折射课",
+        "论文模态",
+        "铝币实验",
+        "三招示例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "水对光有车射",
+          "note": "折射"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "扔出了四种运动形态",
+          "note": "四种形态"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "找到了旅适的一毛钱和一分钱",
+          "note": "一毛一分"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "只要把一对印幣绑在一起",
+          "note": "绑一起"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "直接撒进实质里面",
+          "note": "撒进去"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "流体模态落到别用一元用铝币；稳定下落落到绑币加重与高粘度石油玩笑。",
+      "patterns": [
+        "模态→面额",
+        "稳定→绑币石油"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s48",
+          "snippet": "那份的参数符合随机型",
+          "note": "随机型参数"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "用旅质的一毛和一分钱许愿",
+          "note": "一毛一分"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "只要把一对印幣绑在一起",
+          "note": "绑一起"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "石油",
+          "note": "石油"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "没有那么简单；真就一定会飘走；才更有可能；力大砖飞；中东土豪流。",
+      "patterns": [
+        "没那么简单",
+        "一定飘",
+        "更有可能",
+        "招式命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "没有那么简单",
+          "note": "没那么简单"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "真就一定会向旁边随机飘走",
+          "note": "一定飘"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "才更有可能跳进罐子里面",
+          "note": "更有可能"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "力大专飞流",
+          "note": "力大"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "中东土豪流",
+          "note": "土豪流"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "纠正「要往远/要提前量」两个常识；用「不不不不」打断「到上方就进罐」的天真。",
+      "patterns": [
+        "纠两个常识",
+        "打断天真"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你扔的时候得往近一点的地方描",
+          "note": "往近描"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "但其实不用",
+          "note": "其实不用"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不不不不",
+          "note": "不不"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "要点短讲→否定急刹→历史论文插入→面额实验加速→三招排比收→土豪玩笑。",
+      "patterns": [
+        "短讲",
+        "急刹",
+        "实验加速",
+        "三招排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你扔的时候得往近一点的地方描",
+          "note": "短讲"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不不不不",
+          "note": "急刹"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "把他们人进水里",
+          "note": "扔进水"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "第一招",
+          "note": "三招"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repair_repeat",
+          "form": "不不不不"
+        },
+        {
+          "type": "discourse",
+          "form": "没错"
+        },
+        {
+          "type": "discourse",
+          "form": "首先"
+        },
+        {
+          "type": "filler",
+          "form": "也是也是"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "不不不不",
+          "note": "不不不不"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "没错",
+          "note": "没错"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "首先",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "也是也是",
+          "note": "也是也是"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "实用期待→恍然纠正→被飘走羞辱感→科学权威感→铝币成功喜悦→土豪荒诞笑。",
+      "patterns": [
+        "期待",
+        "恍然",
+        "羞辱",
+        "权威",
+        "喜悦",
+        "荒诞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就教大家",
+          "note": "期待"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "你扔的时候得往近一点的地方描",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "你许的愿望就这样被留提你学羞辱",
+          "note": "羞辱"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "就是那位电磁学组事业",
+          "note": "电磁学"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "爹爹壮壮去的落在罐子之上",
+          "note": "落罐"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "我看中东球长的许愿都挺好的",
+          "note": "中东"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从许愿进罐回到面额选择与三招：别用一块，铝币/绑/撒/石油，玩笑收。",
+      "patterns": [
+        "回扣进罐",
+        "面额+三招",
+        "玩笑收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "把你分支白白印幣扔进去的方法",
+          "note": "扔进去"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "所以许愿不要用一块钱",
+          "note": "别用一块"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "我这儿还有三招",
+          "note": "三招"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我猜猜这些鸣子流不灵",
+          "note": "灵不灵"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：欢迎有油井的朋友验证；猜灵不灵互动，无强三连句于窗内。",
+      "patterns": [
+        "欢迎验证",
+        "猜灵不灵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s92",
+          "snippet": "欢迎家里有游景的朋友们",
+          "note": "欢迎有油井"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "我猜猜这些鸣子流不灵",
+          "note": "灵不灵"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "小学存钱罐掏铝币；「麦克斯韦也懂许愿」梗；中东石油土豪流自嘲。",
+      "patterns": [
+        "掏铝币",
+        "麦克斯韦梗",
+        "土豪流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s55",
+          "snippet": "我当场掏出了小学二年纪的存千段",
+          "note": "存钱罐"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "就是那位电磁学组事业",
+          "note": "电磁学"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "中东土豪流",
+          "note": "土豪流"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR乱码重影响术语精度；论文年份表述打架感；石油招纯玩笑缺安全边界。",
+      "patterns": [
+        "ASR乱码",
+        "年份表述",
+        "玩笑缺边界"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "这篇1997年的内车漏文",
+          "note": "年份乱"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "把一堆小元 73 年度不同的业题里面",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "石油",
+          "note": "石油"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示「常识错→物理纠偏→文献模态→面额实验→外挂三招」的解题升级。",
+      "patterns": [
+        "纠偏升级链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "但其实不用",
+          "note": "纠偏"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "扔出了四种运动形态",
+          "note": "模态"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "把他们人进水里",
+          "note": "实验"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "我这儿还有三招",
+          "note": "三招"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把游客许愿者当学员；「希望神仙别嫌弃铝币」共谋式安抚。",
+      "patterns": [
+        "许愿学员",
+        "共谋安抚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就教大家",
+          "note": "教大家"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "希望管实质的神仙",
+          "note": "别嫌弃"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "往近扔；水平速度变0；1元会飘；铝质1毛1分；绑币；石油。",
+      "patterns": [
+        "往近",
+        "速度0",
+        "1元飘",
+        "铝币",
+        "绑币",
+        "石油"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "你扔的时候得往近一点的地方描",
+          "note": "往近"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "水平方向的速度就变成0了",
+          "note": "变0"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "所以许愿不要用一块钱",
+          "note": "一块"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "找到了旅适的一毛钱和一分钱",
+          "note": "一毛一分"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "只要把一对印幣绑在一起",
+          "note": "绑"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "石油",
+          "note": "石油"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "两纠正中密→模态理论高峰→面额实验中高→三招降密玩笑。",
+      "patterns": [
+        "纠正中",
+        "理论峰",
+        "实验中高",
+        "三招降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "水对光有车射",
+          "note": "折射"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "扔出了四种运动形态",
+          "note": "四形态"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "把他们人进水里",
+          "note": "实验"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "中东土豪流",
+          "note": "土豪"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "教学祈使短句；「不不不不」阻断；招式标题独立成句。",
+      "patterns": [
+        "祈使短",
+        "阻断重复",
+        "招式标题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "你就努力往罐子上方的水面扔就行",
+          "note": "往水面扔"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不不不不",
+          "note": "不不"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "第一招",
+          "note": "第一招"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导「许愿也要讲物理」：把功德玩笑接上麦克斯韦，认真教完再土豪解构。",
+      "patterns": [
+        "许愿讲物理",
+        "麦克斯韦接头",
+        "土豪解构"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "把你分支白白印幣扔进去的方法",
+          "note": "扔进去方法"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "麦克思伟就研究过这的问题",
+          "note": "麦克斯韦"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "中东土豪流",
+          "note": "土豪"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "罐比看起来近；入水水平速度归零；别用一块钱；用铝币；力大砖飞绑两枚。",
+      "patterns": [
+        "更近",
+        "速度0",
+        "别用一块",
+        "铝币",
+        "绑两枚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "会比你看到的近一些",
+          "note": "更近"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "水平方向的速度就变成0了",
+          "note": "变0"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "所以许愿不要用一块钱",
+          "note": "别用一块"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "用旅质的一毛和一分钱许愿",
+          "note": "一毛一分"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "只要把一对印幣绑在一起",
+          "note": "绑一起"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "生活痛点→纠常识→文献/实验→可执行技巧的短科普骨架可改编观宇冷知识，需重录清晰并淡化石油玩笑。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就教大家",
+          "note": "教方法"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "扔出了四种运动形态",
+          "note": "模态"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "用旅质的一毛和一分钱许愿",
+          "note": "可执行"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94"
+  ],
+  "fields_complete_25": true
+}

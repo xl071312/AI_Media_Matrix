@@ -1,0 +1,1194 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_EC4k4q8URoo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=EC4k4q8URoo",
+  "source_sha256": "6a0b3a911eaf2e84d64fd973b17e0104800f9a817f503662f75dd4239d8fc0dc",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 76,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 15,
+      "snippet": "这点狠火的命力还是郭文宇听了吗"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "博主教他叫茂名字"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "郭文宇听到"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "但是有人听到的是"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "有人听到的是"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 7,
+      "snippet": "郭文宇听到的是"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "郭文宇听到的是"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "人生命力跟郭文宇也有信啊"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 6,
+      "snippet": "这怎么回事呢"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 16,
+      "snippet": "我们在AOLE导致的音频可以看出"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "郭文宇听到的是"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 8,
+      "snippet": "一两千克字的位置"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "作为高频和低频两部分"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "单独播放两千克字以上的高频部分"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "你现在听到的是不是像"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "秘密单独播放低频部分"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "你听到的是不是像"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "郭文宇听到的是什么"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "这一声真的是"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "秘密和孤独的混合"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 9,
+      "snippet": "有些耳朵的高频敏感"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "他就容易听到秘密"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "有些不容易感觉是他"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "而且同一个人听到的也会变"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "我后来听到的"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "怎么听到是孤独"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "但是冷却了一段时间"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "无意间再打赛的时候"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 10,
+      "snippet": "听到的又重新是秘密了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "如果把元素才整体升高"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "12个半音"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 8,
+      "snippet": "你可能更容易听到"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 9,
+      "snippet": "如果降低12个半音"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "你就更容易听到"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "我自己弄了一个"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 6,
+      "snippet": "如果分别降低"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 8,
+      "snippet": "81216个半音"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 7,
+      "snippet": "听着越来越孤独"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 9,
+      "snippet": "宗少所说我的才小事"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 2,
+      "snippet": "第一"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 5,
+      "snippet": "秘密和孤独"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "本来就是一个高频和低频的"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "蓝色兄弟"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 2,
+      "snippet": "第二"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "这个博主也天赋一遍"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "他说的孤独里面"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 5,
+      "snippet": "按摊着一个"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "很清楚的高频的秘密"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "他可能是一个很耐高手"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "理论是能听到秘密的人"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 11,
+      "snippet": "听力放我应该更广泽一些"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 8,
+      "snippet": "为了验证这个才小"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "我去测试的一下直数"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 1,
+      "snippet": "听"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 6,
+      "snippet": "他说的是什么"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "怎么说的"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 9,
+      "snippet": "我听到的是ga独独"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 2,
+      "snippet": "现在"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "他叫的什么呀"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "再听一遍"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 4,
+      "snippet": "怎么叫的"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 2,
+      "snippet": "秘密"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "他坚定的觉得就是"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "秘密看来还是我老了呀"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 8,
+      "snippet": "赶紧把这儿的视频"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 7,
+      "snippet": "转发给你的朋友"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 8,
+      "snippet": "看看他耳朵行不行"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用「咪咪还是咕噜」听觉歧义钩子开场，先抛听感对立再追问怎么回事。",
+      "patterns": [
+        "听感对立钩",
+        "怎么回事追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "秘密",
+          "note": "秘密/咪咪听感"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这怎么回事呢",
+          "note": "这怎么回事呢"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "同一音频可拆高频/低频→听成咪咪或咕噜→个体敏感度不同→升降调可变→亲测儿子验证→转发测耳朵。",
+      "patterns": [
+        "高低频拆分",
+        "敏感度差异",
+        "升降半音",
+        "亲子验证",
+        "转发测耳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "高频和低频两部分"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "秘密和孤独的混合",
+          "note": "秘密和孤独的混合"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "有些耳朵的高频敏感",
+          "note": "高频敏感"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "如果降低12个半音",
+          "note": "降低12个半音"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我听到的是ga独独",
+          "note": "我听到的是ga独独"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "转发给你的朋友",
+          "note": "转发给你的朋友"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "illusion_hook",
+          "note": "听感对立抛出"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25"
+          ],
+          "function": "freq_split_explain",
+          "note": "AOE频谱高低频拆听"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45"
+          ],
+          "function": "pitch_shift_demo",
+          "note": "冷却再听+升降半音实验"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76"
+          ],
+          "function": "thesis_and_son_test",
+          "note": "双子结论+测儿子+转发CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "用我们可以看出/单独播放/如果把/第一第二推进实验逻辑。",
+      "patterns": [
+        "我们可以看出",
+        "单独播放",
+        "如果升降",
+        "第一第二"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我们在AOLE导致的音频可以看出",
+          "note": "我们在AOLE可以看出"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "单独播放两千克字以上的高频部分",
+          "note": "单独播放高频"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "如果把元素才整体升高",
+          "note": "如果把元素升高"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "第一",
+          "note": "第一"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "高频咪咪 vs 低频咕噜；同人前后听感变；升调易咪咪降调易咕噜。",
+      "patterns": [
+        "高低频对立",
+        "同人听感变",
+        "升降半音对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "秘密单独播放低频部分",
+          "note": "秘密单独播放低频"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "怎么听到是孤独",
+          "note": "怎么听到是孤独"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "听到的又重新是秘密了",
+          "note": "又重新是秘密了"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "听着越来越孤独",
+          "note": "听着越来越孤独"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "这怎么回事/是不是像/听到的是什么/他说的是什么连问逼听众自测。",
+      "patterns": [
+        "怎么回事",
+        "是不是像",
+        "听到什么",
+        "怎么说的"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这怎么回事呢",
+          "note": "这怎么回事呢"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "你现在听到的是不是像",
+          "note": "是不是像"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "郭文宇听到的是什么",
+          "note": "听到的是什么"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他说的是什么",
+          "note": "他说的是什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "现场拆频播放、自做升降半音、拿儿子复测作活证据。",
+      "patterns": [
+        "拆频播放",
+        "升降半音样例",
+        "儿子复测"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "单独播放两千克字以上的高频部分",
+          "note": "单独播放两千克字以上"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "81216个半音",
+          "note": "81216个半音"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "我去测试的一下直数",
+          "note": "测试的一下直数"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "他坚定的觉得就是",
+          "note": "他坚定的觉得就是"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "听觉歧义→具体2kHz分界；敏感度→秘密/孤独；老化→儿子听秘密我听咕噜。",
+      "patterns": [
+        "歧义→2kHz",
+        "敏感→秘密孤独",
+        "老化→父子差异"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "一两千克字的位置",
+          "note": "一两千克字的位置"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "秘密和孤独",
+          "note": "秘密和孤独"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "秘密看来还是我老了呀",
+          "note": "秘密看来还是我老了呀"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "蓝色兄弟、博主天赋、耐高手、我老了等轻松定论。",
+      "patterns": [
+        "蓝色兄弟",
+        "天赋博主",
+        "我老了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "蓝色兄弟",
+          "note": "蓝色兄弟"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "这个博主也天赋一遍",
+          "note": "博主也天赋一遍"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "秘密看来还是我老了呀",
+          "note": "看来还是我老了呀"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "自己先听成孤独，冷却后再听又变秘密，暴露听感不稳定。",
+      "patterns": [
+        "听感自我翻转",
+        "冷却后再听"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "我后来听到的",
+          "note": "我后来听到的"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "怎么听到是孤独",
+          "note": "怎么听到是孤独"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "听到的又重新是秘密了",
+          "note": "又重新是秘密了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短听感标签与实验说明交替，末段父子问答快切加速。",
+      "patterns": [
+        "标签短句",
+        "实验说明加长",
+        "父子快问快答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "秘密",
+          "note": "秘密"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "作为高频和低频"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "他叫的什么呀",
+          "note": "他叫的什么呀"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "我们"
+        },
+        {
+          "type": "filler_like",
+          "form": "这怎么回事呢"
+        },
+        {
+          "type": "repair",
+          "form": "怎么听到是"
+        },
+        {
+          "type": "closing",
+          "form": "赶紧把"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "我们在AOLE导致的音频可以看出",
+          "note": "我们在AOLE"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "这怎么回事呢",
+          "note": "这怎么回事呢"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "怎么听到是孤独",
+          "note": "怎么听到是孤独"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "赶紧把这儿的视频",
+          "note": "赶紧把这儿的视频"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "好奇对立→科学拆解冷静→自我听感惊讶→亲子反差幽默→温和自嘲收。",
+      "patterns": [
+        "好奇",
+        "冷静拆解",
+        "自我惊讶",
+        "亲子幽默",
+        "自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这怎么回事呢",
+          "note": "怎么回事"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "高低频拆分"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "怎么听到是孤独",
+          "note": "听到是孤独"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我听到的是ga独独",
+          "note": "ga独独"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "秘密看来还是我老了呀",
+          "note": "我老了呀"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣测耳朵主题，转发朋友验证闭环。",
+      "patterns": [
+        "转发测耳闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "转发给你的朋友",
+          "note": "转发给你的朋友"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "看看他耳朵行不行",
+          "note": "看看他耳朵行不行"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性社交CTA：转发给朋友测听力。",
+      "patterns": [
+        "转发测友CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s75",
+          "snippet": "转发给你的朋友",
+          "note": "转发给你的朋友"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR噪点、亲测儿子对话、听感自我翻转具现场感。",
+      "patterns": [
+        "亲子现场对话",
+        "听感翻转",
+        "半音步进实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s65",
+          "snippet": "我听到的是ga独独",
+          "note": "我听到的是ga独独"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "听到的又重新是秘密了",
+          "note": "又重新是秘密了"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "81216个半音",
+          "note": "81216个半音"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真（郭文宇/秘密/孤独混听），科学名词被吃字削弱可信度。",
+      "patterns": [
+        "ASR吃字重",
+        "术语被污染",
+        "片头重复毛刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这点狠火的命力还是郭文宇听了吗",
+          "note": "郭文宇听了吗失真"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "郭文宇听到的是",
+          "note": "郭文宇听到的是重复"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "宗少所说我的才小事",
+          "note": "宗少所说我的才小事"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "现场演示：拆频→自听变化→升降调→再找儿子验证。",
+      "patterns": [
+        "拆频自听",
+        "升降实验",
+        "儿子验证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "单独播放两千克字以上的高频部分",
+          "note": "单独播放高频"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "如果把元素才整体升高",
+          "note": "如果把元素升高"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "为了验证这个才小",
+          "note": "为了验证这个才小"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众拉进耳侦察兵，用你听到的是不是像强制参与。",
+      "patterns": [
+        "强制自测听感",
+        "朋友耳朵挑战"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "你现在听到的是不是像",
+          "note": "你现在听到的是不是像"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "你听到的是不是像",
+          "note": "你听到的是不是像"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "看看他耳朵行不行",
+          "note": "看看他耳朵行不行"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2kHz分界、12/8/12/16半音、秘密孤独双子、儿子复测。",
+      "patterns": [
+        "2kHz",
+        "12半音",
+        "秘密孤独",
+        "儿子"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "一两千克字的位置",
+          "note": "一两千克字"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "12个半音",
+          "note": "12个半音"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "秘密和孤独",
+          "note": "秘密和孤独"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "我听到的是ga独独",
+          "note": "ga独独"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低信息→频谱解释高峰→半音实验中高→结论与CTA下降。",
+      "patterns": [
+        "钩子低",
+        "频谱峰",
+        "半音中高",
+        "CTA降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "秘密",
+          "note": "秘密钩子"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "高低频说明"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "81216个半音",
+          "note": "半音步进"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "转发给你的朋友",
+          "note": "转发CTA"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "极短听感词与解释句交替，问答体推动。",
+      "patterns": [
+        "听感词孤句",
+        "问答推进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "秘密",
+          "note": "秘密"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "秘密",
+          "note": "秘密"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "他说的是什么",
+          "note": "他说的是什么"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "科学解说型毕导：用实验拆错觉，末尾自嘲耳老。",
+      "patterns": [
+        "实验拆错觉",
+        "父子对照",
+        "耳老自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "高频低频拆"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "秘密看来还是我老了呀",
+          "note": "我老了呀"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "这个博主也天赋一遍",
+          "note": "博主天赋"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "咪咪/咕噜对立、高低频兄弟、转发测耳朵。",
+      "patterns": [
+        "咪咪咕噜",
+        "高低频兄弟",
+        "测耳朵"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "秘密和孤独的混合",
+          "note": "秘密和孤独的混合"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "蓝色兄弟",
+          "note": "蓝色兄弟"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "看看他耳朵行不行",
+          "note": "耳朵行不行"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "对立听感钩→拆频实验→变量操控→亲测验证→社交CTA，科普口播骨架完整可直接改编观宇错觉/感知类。",
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "这怎么回事呢",
+          "note": "怎么回事钩"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "作为高频和低频两部分",
+          "note": "拆频核心"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "转发给你的朋友",
+          "note": "转发CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s5",
+    "s10",
+    "s14",
+    "s21",
+    "s22",
+    "s35",
+    "s65",
+    "s75",
+    "s1",
+    "s11",
+    "s26",
+    "s46",
+    "s15",
+    "s31",
+    "s17",
+    "s27",
+    "s30",
+    "s44",
+    "s16",
+    "s19",
+    "s62",
+    "s40",
+    "s59",
+    "s72",
+    "s13",
+    "s47",
+    "s73",
+    "s49",
+    "s51",
+    "s68",
+    "s74",
+    "s76",
+    "s7",
+    "s45",
+    "s58",
+    "s18",
+    "s32",
+    "s34"
+  ],
+  "fields_complete_25": true
+}

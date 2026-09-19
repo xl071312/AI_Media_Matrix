@@ -1,0 +1,1076 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_HE8bnnBwQVQ",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=HE8bnnBwQVQ",
+  "source_sha256": "547eb5cc8c6f43eb0384b3b83c8d548d76058d8a9a40e42c42f6365b47b376ea",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 60,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 5,
+      "snippet": "在我面前的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 16,
+      "snippet": "就是刚刚发布的新iPad Pro"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "大家好 我是何同学"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 12,
+      "snippet": "今天就在现场给大家看一看"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 11,
+      "snippet": "苹果5月7号发布的新品"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "这就是新的iPad Pro"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 16,
+      "snippet": "外观上看它最大的变化就是薄了很多"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "只有5.3毫米"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 15,
+      "snippet": "但整体上看外观的变化其实并不大"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 4,
+      "snippet": "内在的话"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 23,
+      "snippet": "这代所有的iPad Pro都换上了OLED屏幕"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 12,
+      "snippet": "这个屏幕有个很霸气的名字"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 17,
+      "snippet": "叫Ultra Retina XDR"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 8,
+      "snippet": "我肉眼看这个屏幕"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 4,
+      "snippet": "怎么说呢"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "其实感受没有很明显"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "也许更亮一点吧"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 17,
+      "snippet": "我们有评测样机后会进行更细致的测试"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 24,
+      "snippet": "而且这一代iPad还可以选配抗反光的纳米纹理玻璃"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 16,
+      "snippet": "我们还是不知道能不能在写字的时候"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "提供一种类似于类纸膜的感觉"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "然后就是iPad Pro的芯片"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "从M2直接升级到了M4"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 15,
+      "snippet": "要知道现在Mac上面都没有M4"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 11,
+      "snippet": "所以很期待它的性能表现"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 14,
+      "snippet": "虽然说M2的性能我也用不太上"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 12,
+      "snippet": "这次的配件也有很大的升级"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 38,
+      "snippet": "Apple Pencil在六年后终于升级成了Apple Pencil Pro"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 27,
+      "snippet": "不禁让我们怀疑是不是以后苹果的手机壳也会出一个Pro版"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 25,
+      "snippet": "这次的Apple Pencil Pro升级点有3个"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 14,
+      "snippet": "一个就是它多了一个维度的操控"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 15,
+      "snippet": "大家可以看到这个笔在旋转的时候"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "画笔底下的角度也会跟着一起旋转"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "然后它还支持了一个挤压的操作"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "它挤一下就可以出这个快捷键"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 12,
+      "snippet": "然后妙控键盘这边也更新了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 12,
+      "snippet": "它的这个材质变成了铝合金"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "不得不说摸起来还是非常舒服"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 9,
+      "snippet": "而且更加高端了一些"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "然后整体也更加轻了一些"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 16,
+      "snippet": "然后这个触控板明显是大了很多很多"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 10,
+      "snippet": "这里还多了一排功能键"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "所以确实是一个很好的升级"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 20,
+      "snippet": "iPad Air这边的升级就没有这么大了"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 22,
+      "snippet": "好消息是我们现在有了13寸的iPad Air"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 15,
+      "snippet": "它的处理器也从M1升级到了M2"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 18,
+      "snippet": "但是坏消息是它应该还是60Hz的屏幕"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 11,
+      "snippet": "没有错 还是60Hz的"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "最后再说一说颜色"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 14,
+      "snippet": "iPad Air这边的颜色有"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 2,
+      "snippet": "灰色"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 3,
+      "snippet": "星光色"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 2,
+      "snippet": "紫色"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 3,
+      "snippet": "和绿色"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 16,
+      "snippet": "这是我在现场可以拍到的全部信息了"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "感谢你可以看到这里"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 6,
+      "snippet": "在拿到样机后"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 13,
+      "snippet": "我们还会出一期首发体验视频"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 8,
+      "snippet": "大家可以关注一下"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "再见朋友们"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "现场指物开场：面前就是新iPad Pro，自报何同学后承诺现场看5月7日新品。",
+      "patterns": [
+        "现场指物",
+        "自报身份",
+        "发布日锚定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "在我面前的",
+          "note": "在我面前"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "就是刚刚发布的新iPad Pro",
+          "note": "新iPad Pro"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "大家好 我是何同学",
+          "note": "我是何同学"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "苹果5月7号发布的新品",
+          "note": "5月7号"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "外观更薄→OLED Ultra Retina观感克制→纳米纹理未知→M2跳M4期待→Pencil Pro三升级→妙控铝壳触控板→Air升级有限60Hz坏消息→颜色罗列→预告样机视频。",
+      "patterns": [
+        "薄→屏→芯→配件",
+        "Air对比",
+        "预告收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有5.3毫米",
+          "note": "5.3毫米"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "这代所有的iPad Pro都换上了OLED屏幕",
+          "note": "OLED"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "从M2直接升级到了M4",
+          "note": "M2到M4"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这次的Apple Pencil Pro升级点有3个",
+          "note": "升级点3个"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但是坏消息是它应该还是60Hz的屏幕",
+          "note": "60Hz坏消息"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6"
+          ],
+          "function": "现场开场",
+          "note": "指物自报发布日"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "外观屏幕",
+          "note": "薄+OLED观感保留"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26"
+          ],
+          "function": "玻璃芯片",
+          "note": "纳米纹理与M4"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43"
+          ],
+          "function": "配件升级",
+          "note": "Pencil Pro与妙控"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60"
+          ],
+          "function": "Air颜色收",
+          "note": "Air好坏消息与关注预告"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「内在的话」「然后就是」「然后妙控键盘这边」「最后再说一说」条目推进。",
+      "patterns": [
+        "内在的话",
+        "然后就是",
+        "最后再说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "内在的话",
+          "note": "内在的话"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "然后就是iPad Pro的芯片",
+          "note": "然后就是芯片"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "然后妙控键盘这边也更新了",
+          "note": "然后妙控"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "最后再说一说颜色",
+          "note": "最后颜色"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "外观变化大(薄) vs 整体变化不大；肉眼感受不明显 vs 官方霸气命名；Pro配件大升级 vs Air升级有限；好消息13寸 vs 坏消息60Hz。",
+      "patterns": [
+        "薄vs变化不大",
+        "观感vs命名",
+        "ProvsAir",
+        "好坏消息对"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "外观上看它最大的变化就是薄了很多",
+          "note": "薄了很多"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "但整体上看外观的变化其实并不大",
+          "note": "变化不大"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "其实感受没有很明显",
+          "note": "感受不明显"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "好消息是我们现在有了13寸的iPad Air",
+          "note": "好消息"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但是坏消息是它应该还是60Hz的屏幕",
+          "note": "坏消息"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「怎么说呢」拖延评价；「是不是以后手机壳也会出Pro」反讽设问。",
+      "patterns": [
+        "评价拖延问",
+        "Pro版反讽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "怎么说呢",
+          "note": "怎么说呢"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不禁让我们怀疑是不是以后苹果的手机壳也会出一个Pro版",
+          "note": "手机壳Pro版"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "现场演示笔旋转带动笔刷角度、挤压出快捷键，把功能说成可见动作。",
+      "patterns": [
+        "旋转演示",
+        "挤压快捷键"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "大家可以看到这个笔在旋转的时候",
+          "note": "旋转时"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "画笔底下的角度也会跟着一起旋转",
+          "note": "角度跟着转"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "它挤一下就可以出这个快捷键",
+          "note": "挤一下快捷键"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "薄落到5.3毫米；屏幕落到Ultra Retina XDR；芯片落到M2→M4且Mac尚无；触控板「大了很多很多」。",
+      "patterns": [
+        "毫米数",
+        "屏幕专名",
+        "M4超Mac",
+        "触控板体感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有5.3毫米",
+          "note": "5.3毫米"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "叫Ultra Retina XDR",
+          "note": "Ultra Retina"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "要知道现在Mac上面都没有M4",
+          "note": "Mac没有M4"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "然后这个触控板明显是大了很多很多",
+          "note": "触控板大很多"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「摸起来非常舒服」「更加高端」「确实很好的升级」；对OLED保留「感受不明显」。",
+      "patterns": [
+        "体感舒服高端",
+        "克制屏幕评价"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "其实感受没有很明显",
+          "note": "感受不明显"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "不得不说摸起来还是非常舒服",
+          "note": "非常舒服"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以确实是一个很好的升级",
+          "note": "很好升级"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先说最大变化很薄，随即补「整体外观变化其实并不大」；先期待M4再自嘲M2性能也用不太上。",
+      "patterns": [
+        "薄后降调",
+        "性能自嘲降期望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "但整体上看外观的变化其实并不大",
+          "note": "变化并不大"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "虽然说M2的性能我也用不太上",
+          "note": "M2也用不太上"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "指物短句→参数短插→观感犹豫→配件条目中速→Air好坏对打→告别短收。",
+      "patterns": [
+        "参数短插",
+        "犹豫节拍",
+        "好坏对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有5.3毫米",
+          "note": "5.3毫米短"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "怎么说呢",
+          "note": "怎么说呢"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "好消息是我们现在有了13寸的iPad Air",
+          "note": "好消息"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "再见朋友们",
+          "note": "再见"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "现场兴奋→屏幕克制失望感→M4期待→Pencil幽默→Air无奈→感谢预告温和。",
+      "patterns": [
+        "克制失望",
+        "M4期待",
+        "Air无奈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "其实感受没有很明显",
+          "note": "不明显"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "所以很期待它的性能表现",
+          "note": "很期待"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "没有错 还是60Hz的",
+          "note": "还是60Hz"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场现场看新品，收束「这是现场全部信息」+样机后再出首发体验，形成预告闭环。",
+      "patterns": [
+        "现场信息收束",
+        "样机预告闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就在现场给大家看一看",
+          "note": "现场看一看"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "这是我在现场可以拍到的全部信息了",
+          "note": "全部信息"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "我们还会出一期首发体验视频",
+          "note": "首发体验"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "感谢看到这里+关注下期样机视频+再见朋友们，轻关注型。",
+      "patterns": [
+        "感谢看到这里",
+        "关注下期",
+        "再见朋友们"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s56",
+          "snippet": "感谢你可以看到这里",
+          "note": "感谢"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "大家可以关注一下",
+          "note": "关注一下"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "再见朋友们",
+          "note": "再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "肉眼观感保留、M2自嘲用不完、手机壳Pro玩笑、现场拍到的颜色清单。",
+      "patterns": [
+        "肉眼克制",
+        "性能自嘲",
+        "壳Pro玩笑"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "我肉眼看这个屏幕",
+          "note": "肉眼看"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "虽然说M2的性能我也用不太上",
+          "note": "用不太上"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不禁让我们怀疑是不是以后苹果的手机壳也会出一个Pro版",
+          "note": "手机壳Pro"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "现场上手缺对比 quant 数据；纳米纹理「类纸膜」悬而未决；Air段信息薄。",
+      "patterns": [
+        "缺量化对比",
+        "悬而未决",
+        "Air薄"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "提供一种类似于类纸膜的感觉",
+          "note": "类纸膜未知"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "其实感受没有很明显",
+          "note": "感受不明显"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "iPad Air这边的升级就没有这么大了",
+          "note": "Air升级不大"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "屏幕评价现场犹豫「怎么说呢」；纳米纹理能否类纸膜公开不确定；样机后再测承诺。",
+      "patterns": [
+        "现场犹豫",
+        "公开不确定",
+        "延后测试"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "怎么说呢",
+          "note": "怎么说呢"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我们还是不知道能不能在写字的时候",
+          "note": "不知道能不能"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "我们有评测样机后会进行更细致的测试",
+          "note": "样机后再测"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当现场同行看客与下期关注者，用「大家」拉近。",
+      "patterns": [
+        "现场同行",
+        "大家关注"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "今天就在现场给大家看一看",
+          "note": "给大家看"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "大家可以关注一下",
+          "note": "大家可以关注"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "5.3mm、Ultra Retina XDR、M4、Pencil Pro三升级、铝合金妙控、13寸Air、60Hz、四色。",
+      "patterns": [
+        "毫米",
+        "屏幕名",
+        "M4",
+        "60Hz",
+        "四色"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有5.3毫米",
+          "note": "5.3毫米"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "叫Ultra Retina XDR",
+          "note": "屏幕名"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "从M2直接升级到了M4",
+          "note": "M4"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "没有错 还是60Hz的",
+          "note": "60Hz"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密→外观屏芯中密→配件演示抬升→Air/颜色下降→CTA低密。",
+      "patterns": [
+        "配件段峰值",
+        "尾段降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "这次的Apple Pencil Pro升级点有3个",
+          "note": "三升级峰值"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "iPad Air这边的颜色有",
+          "note": "颜色罗列降"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短指物句→说明→犹豫插入→枚举升级点→好坏消息对句→告别。",
+      "patterns": [
+        "短指物",
+        "枚举升级",
+        "对句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "在我面前的",
+          "note": "短指物"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "一个就是它多了一个维度的操控",
+          "note": "一个就是"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "好消息是我们现在有了13寸的iPad Air",
+          "note": "好消息"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "克制型现场科技UP：敢说不明显、敢自嘲性能过剩，幽默轻讽Pro命名通胀。",
+      "patterns": [
+        "克制实测感",
+        "命名通胀幽默"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "其实感受没有很明显",
+          "note": "不明显"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "不禁让我们怀疑是不是以后苹果的手机壳也会出一个Pro版",
+          "note": "壳也Pro"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "5.3毫米、M4抢先Mac、Pencil挤一挤、Air仍60Hz四记点。",
+      "patterns": [
+        "5.3mm",
+        "M4先于Mac",
+        "挤压",
+        "60Hz"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有5.3毫米",
+          "note": "5.3"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "要知道现在Mac上面都没有M4",
+          "note": "Mac无M4"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "它挤一下就可以出这个快捷键",
+          "note": "挤一下"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "没有错 还是60Hz的",
+          "note": "60Hz"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "现场分层（外观/屏/芯/配件/同门对比）+克制评价可改编观宇数码上手，需补数据与非苹果对标。",
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "外观上看它最大的变化就是薄了很多",
+          "note": "薄"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "这次的Apple Pencil Pro升级点有3个",
+          "note": "三升级"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "但是坏消息是它应该还是60Hz的屏幕",
+          "note": "60Hz"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s8",
+    "s11",
+    "s23",
+    "s30",
+    "s47",
+    "s4",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60"
+  ],
+  "fields_complete_25": true
+}

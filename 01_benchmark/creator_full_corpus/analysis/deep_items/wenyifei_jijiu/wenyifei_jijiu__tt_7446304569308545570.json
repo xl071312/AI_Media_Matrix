@@ -1,0 +1,956 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7446304569308545570",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7446304569308545570/",
+  "source_sha256": "065721a3940771a8a64d674cca1e59b791b672f6b05040407f75a3bbe2ec49e8",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 47,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 35,
+      "snippet": "今天来揭秘一个超硬核的区域经济冷知识：为什么山东是中国的“战备大省”？"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 24,
+      "snippet": "一句古话就能解释：“天下之胜，势不在秦必在齐”。"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 49,
+      "snippet": "山东，不仅在关键时刻扛大旗，平时更像一座资源满满的战略补给站，源源不断地为国家“上装备、加士气”。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "为什么这么说呢？"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "咱们一起来看看。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 13,
+      "snippet": "你以为山东只有煎饼和大葱？"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "错了！"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 33,
+      "snippet": "山东可是战略物资生产基地，农业、工业、能源矿产，全都“稳”到起飞！"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 27,
+      "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 47,
+      "snippet": "虽然耕地面积只占全国的6%，但却贡献了8%的粮食、11%的水果、12%的蔬菜和13%的水产品。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 28,
+      "snippet": "网友调侃：“山东的大葱高过姚明，山东的苹果比柚子还大”！"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 23,
+      "snippet": "一个山东，顶了半个中国的粮仓、菜篮子和果园子。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 17,
+      "snippet": "这“战备大省”的名号，这不是吹的！"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 14,
+      "snippet": "再看能源矿产，山东也超硬核。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 14,
+      "snippet": "全国十大金矿，山东占了五个！"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 20,
+      "snippet": "全国第二大油田、第四大煤矿，也都在山东。"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 25,
+      "snippet": "左手黄金，右手石油，稳稳端住东部能源的“大饭碗”。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 21,
+      "snippet": "工业更不用说，山东的重工业简直“硬邦邦”！"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 27,
+      "snippet": "全国制造业装备百强企业中，山东独占了16家，排名第一。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 27,
+      "snippet": "发动机、重型汽车、挖掘机这些“钢铁猛兽”，山东都能造。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 14,
+      "snippet": "和平时期，默默支持国家发展；"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 15,
+      "snippet": "非常时期，立马转型，火力全开。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "山东能稳，国家就能稳。"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 19,
+      "snippet": "山东的位置，简直就是为战备量身定做的！"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 32,
+      "snippet": "北靠渤海、南临黄海，海岸线长达3000多公里，占全国的六分之一。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 30,
+      "snippet": "不论是支援京津冀，还是保卫东部沿海，山东都是关键的“C位”！"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 21,
+      "snippet": "更牛的是，山东的交通配置堪称满级“神装”！"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 19,
+      "snippet": "高铁总里程突破3000公里，全国第一！"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 19,
+      "snippet": "坐高铁，从山东出发，可以到达全国各地。"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 36,
+      "snippet": "高速公路总里程全国第六，路网密的跟“蜘蛛侠”织的网一样，随便去哪都通畅。"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 26,
+      "snippet": "海运更是霸气，2023年山东港口吞吐量稳居全球第一。"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 14,
+      "snippet": "有货直接装船开跑，效率拉满。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 32,
+      "snippet": "内河运输也不含糊，京杭大运河就是山东的“莱茵河”，水运一路畅通。"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 17,
+      "snippet": "而且，山东还建了多条战备高速公路！"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 40,
+      "snippet": "这些路能让军用飞机直接起飞降落，路面又宽又厚，哪怕炮弹砸下来，照样“稳如老狗”。"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 15,
+      "snippet": "这配置，全国没几个省份能做到。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 32,
+      "snippet": "在中国大家庭里，北京是政治中心，上海是经济中心，广东是改革先锋。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 21,
+      "snippet": "而山东，就是关键时刻扛大旗的“战备大省”！"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 14,
+      "snippet": "历史早就写满了山东人的担当。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 25,
+      "snippet": "抗战时期，八路军90多万人中，近三分之一是山东人。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 58,
+      "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.5亿斤军粮到前线，占了总军粮的一半。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 25,
+      "snippet": "抗美援朝，28万山东志愿军参战，牺牲人数全国第二。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 23,
+      "snippet": "拼劲、硬气、顶得住，这就是山东人骨子里的担当。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 40,
+      "snippet": "所以，中国第一艘国产航母叫“山东舰”，这名字是山东人民用汗水和牺牲拼出来的荣耀！"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 58,
+      "snippet": "山东可能没有北上广那么光鲜亮丽，也不像江浙那么“高精尖”，但它沉稳、硬核，为国家默默付出，关键时刻能顶得住、扛得起。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 28,
+      "snippet": "这个“战备大省”的名号，不用官方说，大家心里早就有数了。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 28,
+      "snippet": "我是温义飞，关注我，带你了解更多关于中国区域经济的秘密！"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "揭秘冷知识设问山东为何战备大省，古话胜势不在秦必在齐定调。",
+      "patterns": [
+        "冷知识揭秘钩子",
+        "古话定调",
+        "战略补给站意象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "今天来揭秘一个超硬核的区域经济冷知识：为什么山东是中国的“战备大省”？",
+          "note": "战备大省设问"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "一句古话就能解释：“天下之胜，势不在秦必在齐”。",
+          "note": "古话定调"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "山东，不仅在关键时刻扛大旗，平时更像一座资源满满的战略补给站，源源不断地为国家“",
+          "note": "补给站意象"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "农业万亿+矿产能源+重工业→沿海区位满级交通→历史兵员军粮→山东舰荣耀→沉稳硬核定位。",
+      "patterns": [
+        "产能→区位交通→历史→命名荣耀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "农产品万亿"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "全国十大金矿，山东占了五个！",
+          "note": "十金五在鲁"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "全国制造业装备百强企业中，山东独占了16家，排名第一。",
+          "note": "装备百强16家"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "不论是支援京津冀，还是保卫东部沿海，山东都是关键的“C位”！",
+          "note": "沿海C位"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "小推车军粮"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以，中国第一艘国产航母叫“山东舰”，这名字是山东人民用汗水和牺牲拼出来的荣耀！",
+          "note": "山东舰"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "hook_thesis",
+          "note": "战备大省命题与古话"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23"
+          ],
+          "function": "agri_energy_industry",
+          "note": "农矿产工业硬核"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36"
+          ],
+          "function": "geo_transport",
+          "note": "区位与交通神装"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44"
+          ],
+          "function": "history_honor",
+          "note": "历史担当与山东舰"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s45",
+            "s46",
+            "s47"
+          ],
+          "function": "close_cta",
+          "note": "沉稳定位与关注CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「为什么这么说呢」「先说农业」「再看能源」「工业更不用说」分块导航。",
+      "patterns": [
+        "设问导入",
+        "先说再看分块",
+        "更不用说递进"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "为什么这么说呢？",
+          "note": "为什么这么说"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "先说农业"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "再看能源矿产，山东也超硬核。",
+          "note": "再看能源"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "工业更不用说，山东的重工业简直“硬邦邦”！",
+          "note": "工业更不用说"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "煎饼大葱刻板vs战略物资；和平支持vs非常火力；北上广光鲜vs山东沉稳。",
+      "patterns": [
+        "刻板印象对比",
+        "平时战时对比",
+        "省际角色对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你以为山东只有煎饼和大葱？",
+          "note": "以为煎饼大葱"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "和平时期，默默支持国家发展；",
+          "note": "和平支持"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "非常时期，立马转型，火力全开。",
+          "note": "非常转型"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "山东可能没有北上广那么光鲜亮丽，也不像江浙那么“高精尖”，但它沉稳、硬核，为国家",
+          "note": "不如北上广但硬核"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "标题设问+你以为只有煎饼反问破刻板。",
+      "patterns": [
+        "标题设问",
+        "刻板反问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "今天来揭秘一个超硬核的区域经济冷知识：为什么山东是中国的“战备大省”？",
+          "note": "凭什么设问"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "你以为山东只有煎饼和大葱？",
+          "note": "以为煎饼吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "产值占比、金矿油田、高铁港口、抗战解放战争抗美援朝数据。",
+      "patterns": [
+        "农业占比例",
+        "交通里程例",
+        "历史兵员例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "虽然耕地面积只占全国的6%，但却贡献了8%的粮食、11%的水果、12%的蔬菜和1",
+          "note": "6%耕地贡献多"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "高铁总里程突破3000公里，全国第一！",
+          "note": "高铁3000公里"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "抗战时期，八路军90多万人中，近三分之一是山东人。",
+          "note": "近三分之一山东人"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "4.5亿斤军粮"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "战备落成大葱高过姚明、战备高速可起降军机、小推车送军粮。",
+      "patterns": [
+        "网友调侃具象",
+        "战备高速具象",
+        "小推车军粮"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "网友调侃：“山东的大葱高过姚明，山东的苹果比柚子还大”！",
+          "note": "大葱高过姚明"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这些路能让军用飞机直接起飞降落，路面又宽又厚，哪怕炮弹砸下来，照样“稳如老狗”。",
+          "note": "军机起降路面"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "小推车军粮"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "这不是吹的、山东能稳国家就能稳、全国没几个省能做到。",
+      "patterns": [
+        "名号坐实",
+        "稳则国稳",
+        "全国稀缺配置"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这“战备大省”的名号，这不是吹的！",
+          "note": "不是吹的"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "山东能稳，国家就能稳。",
+          "note": "鲁稳国稳"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "这配置，全国没几个省份能做到。",
+          "note": "没几个省能做到"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "主动打破只有煎饼大葱误解，用错了强校正。",
+      "patterns": [
+        "刻板强校正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你以为山东只有煎饼和大葱？",
+          "note": "刻板预期"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "错了！",
+          "note": "错了"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "设问慢起→产业排比加速→交通继续加速→历史加重→抒情定调收。",
+      "patterns": [
+        "产业排比加速",
+        "历史加重",
+        "抒情收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "农业块"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "更牛的是，山东的交通配置堪称满级“神装”！",
+          "note": "交通神装"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "拼劲、硬气、顶得住，这就是山东人骨子里的担当。",
+          "note": "骨子担当"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "这个“战备大省”的名号，不用官方说，大家心里早就有数了。",
+          "note": "心里有数"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇揭秘→自豪数据→地理霸气→历史感动→沉稳敬意收。",
+      "patterns": [
+        "自豪数据",
+        "历史感动",
+        "沉稳敬意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "这“战备大省”的名号，这不是吹的！",
+          "note": "自豪名号"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "军粮感动"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "山东可能没有北上广那么光鲜亮丽，也不像江浙那么“高精尖”，但它沉稳、硬核，为国家",
+          "note": "沉稳敬意"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回到战备大省名号心里有数，再自我介绍关注CTA。",
+      "patterns": [
+        "名号回扣",
+        "关注CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "这个“战备大省”的名号，不用官方说，大家心里早就有数了。",
+          "note": "名号心里有数"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "我是温义飞，关注我，带你了解更多关于中国区域经济的秘密！",
+          "note": "关注我"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "标准我是温义飞，关注我，带你了解更多区域经济秘密。",
+      "patterns": [
+        "人设+关注+系列预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "我是温义飞，关注我，带你了解更多关于中国区域经济的秘密！",
+          "note": "关注CTA"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "网友调侃、蜘蛛侠/稳如老狗网络语、作者署名收尾。",
+      "patterns": [
+        "网友调侃",
+        "网络喻",
+        "署名收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "网友调侃：“山东的大葱高过姚明，山东的苹果比柚子还大”！",
+          "note": "网友调侃"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "高速公路总里程全国第六，路网密的跟“蜘蛛侠”织的网一样，随便去哪都通畅。",
+          "note": "蜘蛛侠网"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这些路能让军用飞机直接起飞降落，路面又宽又厚，哪怕炮弹砸下来，照样“稳如老狗”。",
+          "note": "稳如老狗"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "我是温义飞，关注我，带你了解更多关于中国区域经济的秘密！",
+          "note": "我是温义飞"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "宣传腔较满；战备高速细节缺来源；省情压成单一战备人设。",
+      "patterns": [
+        "宣传腔",
+        "细节缺出处",
+        "人设简化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "这些路能让军用飞机直接起飞降落，路面又宽又厚，哪怕炮弹砸下来，照样“稳如老狗”。",
+          "note": "战备高速缺出处"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "而山东，就是关键时刻扛大旗的“战备大省”！",
+          "note": "角色标签化"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "思维外显较弱，以结论+数据堆叠为主，少过程犹豫。",
+      "patterns": [
+        "结论先行少过程"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "咱们一起来看看。",
+          "note": "一起来看引导"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "山东可是战略物资生产基地，农业、工业、能源矿产，全都“稳”到起飞！",
+          "note": "直接下稳到起飞结论"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者当对山东有刻板印象的国人，用你以为拉近再教育。",
+      "patterns": [
+        "刻板读者定位",
+        "咱们一起看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "你以为山东只有煎饼和大葱？",
+          "note": "你以为"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "咱们一起来看看。",
+          "note": "咱们一起看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "农产品万亿、十金占五、高铁3000公里、4.5亿斤军粮、山东舰。",
+      "patterns": [
+        "万亿锚",
+        "金矿锚",
+        "军粮锚",
+        "舰名锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "万亿"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "全国十大金矿，山东占了五个！",
+          "note": "十金五"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "4.5亿斤"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以，中国第一艘国产航母叫“山东舰”，这名字是山东人民用汗水和牺牲拼出来的荣耀！",
+          "note": "山东舰"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场中密→农矿产高密→交通高密→历史高密→抒情降密CTA。",
+      "patterns": [
+        "数据段高密",
+        "抒情降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "虽然耕地面积只占全国的6%，但却贡献了8%的粮食、11%的水果、12%的蔬菜和1",
+          "note": "农业高密"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "历史高密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "我是温义飞，关注我，带你了解更多关于中国区域经济的秘密！",
+          "note": "CTA降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "设问定调→破刻板→产业三块→区位交通→历史→定位CTA。",
+      "patterns": [
+        "破刻板-三块产业",
+        "史-定位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "错了！",
+          "note": "破刻板"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "产业"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "历史早就写满了山东人的担当。",
+          "note": "历史"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "区域经济解说官：爱用硬核数据+网络热词为省份打标签。",
+      "patterns": [
+        "硬核数据控",
+        "省份标签官"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "山东可是战略物资生产基地，农业、工业、能源矿产，全都“稳”到起飞！",
+          "note": "硬核稳"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "而山东，就是关键时刻扛大旗的“战备大省”！",
+          "note": "战备大省标签"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "战备大省、大葱高过姚明、小推车军粮、山东舰。",
+      "patterns": [
+        "战备大省标签",
+        "大葱梗",
+        "军粮意象",
+        "舰名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "今天来揭秘一个超硬核的区域经济冷知识：为什么山东是中国的“战备大省”？",
+          "note": "战备大省"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "网友调侃：“山东的大葱高过姚明，山东的苹果比柚子还大”！",
+          "note": "大葱姚明"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "小推车"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "所以，中国第一艘国产航母叫“山东舰”，这名字是山东人民用汗水和牺牲拼出来的荣耀！",
+          "note": "山东舰"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "省域角色定位+产业/区位/历史三块证据链可改编观宇区域财经，需降宣传腔并补来源。",
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "今天来揭秘一个超硬核的区域经济冷知识：为什么山东是中国的“战备大省”？",
+          "note": "角色设问"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "先说农业，山东可是全国第一个农产品产值突破万亿的省份！",
+          "note": "产业块"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "解放战争中，山东籍战士占了全军的四分之一，淮海战役里，山东老乡推着小推车送了4.",
+          "note": "历史锚"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s9",
+    "s15",
+    "s19",
+    "s26",
+    "s41",
+    "s44",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s42",
+    "s43",
+    "s45",
+    "s46",
+    "s47"
+  ],
+  "fields_complete_25": true
+}

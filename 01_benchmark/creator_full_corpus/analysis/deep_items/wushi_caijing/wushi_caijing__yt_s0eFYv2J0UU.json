@@ -1,0 +1,938 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_s0eFYv2J0UU",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=s0eFYv2J0UU",
+  "source_sha256": "34d36e5f5ebe2f5c25430393b5fa32aea9231d2aa133a2298c02121eab88f16e",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 35,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 72,
+      "snippet": "基建議有向官民日報這樣的主流媒體批評孫曉的粉's  now  also  also  also have such a主流媒體批評孫曉春和出相文"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 1,
+      "snippet": "者"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 28,
+      "snippet": "and then we are going to the"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 24,
+      "snippet": "and then we are going to"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 19,
+      "snippet": "虽然这些东北网市的IP都借不到什么广告"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "网络风平也不好"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 13,
+      "snippet": "更别自己做生意带货了什么的"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 18,
+      "snippet": "市场连最基本的直播打赏都可以忽略不计"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 8,
+      "snippet": "但是就是在那个时"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 24,
+      "snippet": "网络在那时代以这些人为代表一大利IP所创造的内容"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "由于突破了边界"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "为平台带来的大量流量"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "并且这些流量愿去讨论."
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "去朝鲁,去互动"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 17,
+      "snippet": "为平台带来的巨大的生机形成了社区性"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 17,
+      "snippet": "但这类内容有一挑战攻取两组的车出性"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "也是为什么打算成为很火"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 11,
+      "snippet": "虽然也不能被资本所接受"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 14,
+      "snippet": "所以在监管区为监管区域也安役"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "毫无遇发成处的埋落下"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 11,
+      "snippet": "线内容自然没有生存空间"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 13,
+      "snippet": "而近两年能找到最精彩的政府"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "也都是发生在PK这个玩法中"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "并且大家也都是在批试"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 10,
+      "snippet": "一个时代的结束的标志"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 10,
+      "snippet": "就是人们开始把它浪漫"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 15,
+      "snippet": "如今我不可能在吃到那样的好果汁"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 8,
+      "snippet": "适应杨大街进油载"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 4,
+      "snippet": "不见亮了"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 21,
+      "snippet": "有一个博主经常把那个时代的一些视频进行二创"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 13,
+      "snippet": "让把 it 先的那种家公后"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "顺旋破剂浪漫主义色彩"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "我就不指路了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "但似乎有一本全问题"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 13,
+      "snippet": "而自信則是人格发展成熟和最"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "ASR噪声后切入东北网红IP商业困境：广告/风评/带货/打赏皆弱，却用「但是」翻转为平台流量贡献。",
+      "patterns": [
+        "困境清单开场",
+        "但是翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "东北IP借不到广告"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "市场连最基本的直播打赏都可以忽略不计",
+          "note": "直播打赏可忽略"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "但是就是在那个时",
+          "note": "但是就是在那个时"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "边界突破内容→平台流量与社区→挑战性难被资本接受→监管落地无生存→时代结束被浪漫化→二创补色→人格自信收束。",
+      "patterns": [
+        "流量贡献链",
+        "资本/监管淘汰",
+        "浪漫化终结标志"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "由于突破了边界",
+          "note": "突破了边界"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为平台带来的大量流量",
+          "note": "大量流量"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "虽然也不能被资本所接受",
+          "note": "不能被资本接受"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "线内容自然没有生存空间",
+          "note": "没有生存空间"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "时代结束的标志"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "顺旋破剂浪漫主义色彩",
+          "note": "浪漫主义色彩"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "function": "asr_noise_lead",
+          "note": "开场ASR噪声与主题残片"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "function": "monetization_fail",
+          "note": "东北IP商业变现全线失败清单"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "platform_value",
+          "note": "突破边界带来流量社区生机"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "capital_reg_kill",
+          "note": "资本不接受与监管下无生存空间"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35"
+          ],
+          "function": "era_romanticize",
+          "note": "PK残火与时代结束被浪漫化/二创"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但是」翻困局；「由于/并且/所以」因果递进；「而近两年」时间切；「如今」今昔对照。",
+      "patterns": [
+        "但是翻转",
+        "由于并且所以因果",
+        "而近两年时间切"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "但是就是在那个时",
+          "note": "但是就是在那个时"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "由于突破了边界",
+          "note": "由于突破了边界"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "所以在监管区为监管区域也安役",
+          "note": "所以在监管"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "而近两年能找到最精彩的政府",
+          "note": "而近两年"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "变现极差vs平台流量巨大；能火vs资本不接受；当年狠活vs如今吃不到好果汁。",
+      "patterns": [
+        "变现/流量反差",
+        "火/资本排斥",
+        "今昔口味反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "借不到广告"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为平台带来的大量流量",
+          "note": "大量流量"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "也是为什么打算成为很火",
+          "note": "为什么很火"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "虽然也不能被资本所接受",
+          "note": "不能被资本接受"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如今我不可能在吃到那样的好果汁",
+          "note": "吃不到好果汁"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎不设完整问句，用「也是为什么…很火」半问半答解释挑战性内容为何火。",
+      "patterns": [
+        "半问解释因果"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "也是为什么打算成为很火",
+          "note": "也是为什么打算成为很火"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "东北网红IP群体作代表；PK玩法作近两年残火；二创博主给旧视频上浪漫滤镜。",
+      "patterns": [
+        "IP群体例",
+        "PK玩法例",
+        "二创博主例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "网络在那时代以这些人为代表一大利IP所创造的内容",
+          "note": "这些人为代表IP"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "也都是发生在PK这个玩法中",
+          "note": "发生在PK玩法"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "有一个博主经常把那个时代的一些视频进行二创",
+          "note": "博主二创视频"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「突破边界/社区性」落到广告打赏带货数字困境；「时代结束」落到二创浪漫滤镜与指路省略。",
+      "patterns": [
+        "抽象社区→变现细节",
+        "时代结束→二创动作"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "为平台带来的巨大的生机形成了社区性",
+          "note": "形成了社区性"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "市场连最基本的直播打赏都可以忽略不计",
+          "note": "打赏可忽略"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "时代结束标志"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "顺旋破剂浪漫主义色彩",
+          "note": "浪漫主义色彩"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断定变现可忽略、资本不接受、监管下无空间；浪漫化即终结标志。",
+      "patterns": [
+        "变现否定判断",
+        "终结标志判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "市场连最基本的直播打赏都可以忽略不计",
+          "note": "打赏可忽略不计"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "虽然也不能被资本所接受",
+          "note": "不能被资本所接受"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "线内容自然没有生存空间",
+          "note": "没有生存空间"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "结束的标志"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「我就不指路了」主动省略具体博主，暗示避嫌/留白；前文「但这类内容有挑战」自我限定。",
+      "patterns": [
+        "指路省略留白",
+        "挑战性自限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "我就不指路了"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但这类内容有一挑战攻取两组的车出性",
+          "note": "有一挑战"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句连射列困境→长因果句堆流量价值→监管收束急刹→怀旧慢板。ASR碎句加剧顿挫。",
+      "patterns": [
+        "困境短句连射",
+        "因果长句",
+        "怀旧慢收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "借不到广告"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "网络风平也不好",
+          "note": "风评也不好"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "为平台带来的巨大的生机形成了社区性",
+          "note": "巨大生机社区性"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如今我不可能在吃到那样的好果汁",
+          "note": "吃不到好果汁"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "但是就是在那个时"
+        },
+        {
+          "type": "hedge",
+          "form": "我就不指路了"
+        },
+        {
+          "type": "repair_asr",
+          "form": "also also also"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "但是就是在那个时",
+          "note": "但是就是"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "就不指路了"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "基建議有向官民日報這樣的主流媒體批評孫曉的粉's  now  also  als",
+          "note": "also重复噪声"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "开场嘈杂→列失败的冷感→翻转为对流量贡献的激赏→监管扼杀的压抑→浪漫化怀旧与无奈。",
+      "patterns": [
+        "冷感列失败",
+        "激赏流量",
+        "压抑淘汰",
+        "怀旧无奈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "借不到广告"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为平台带来的大量流量",
+          "note": "大量流量"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "线内容自然没有生存空间",
+          "note": "没有生存空间"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "顺旋破剂浪漫主义色彩",
+          "note": "浪漫主义"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从狠活时代商业失败回到「时代结束=开始浪漫化」，以二创与人格自信尾句收束，弱闭环。",
+      "patterns": [
+        "浪漫化闭环",
+        "人格尾句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "时代结束标志"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就是人们开始把它浪漫",
+          "note": "开始把它浪漫"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而自信則是人格发展成熟和最",
+          "note": "人格发展成熟"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "几乎无硬CTA；「我就不指路了」反倒抑制追猎；结尾人格句偏金句非行动号召。",
+      "patterns": [
+        "反指路抑制CTA",
+        "金句非行动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "就不指路了"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而自信則是人格发展成熟和最",
+          "note": "人格发展成熟"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR错乱与中英夹杂、东北IP黑话、故意不指路、浪漫化史观，均呈人口播残片感。",
+      "patterns": [
+        "ASR中英夹杂",
+        "故意不指路",
+        "史观金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "基建議有向官民日報這樣的主流媒體批評孫曉的粉's  now  also  als",
+          "note": "中英夹杂噪声"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "不指路"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "时代结束标志"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重损毁开场与部分因果；证据链跳跃；「自信人格」尾句与正文脱节；缺具体IP名。",
+      "patterns": [
+        "ASR损毁",
+        "尾句脱节",
+        "缺具名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "基建議有向官民日報這樣的主流媒體批評孫曉的粉's  now  also  als",
+          "note": "开场不可读"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "者",
+          "note": "碎片者"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而自信則是人格发展成熟和最",
+          "note": "自信人格突兀"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先承认为何火（突破边界），再补资本/监管为何杀；用「似乎有一本全问题」露出未说完的思考残片。",
+      "patterns": [
+        "先火后杀推理",
+        "未说完残片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "也是为什么打算成为很火",
+          "note": "为什么很火"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "虽然也不能被资本所接受",
+          "note": "资本不接受"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "但似乎有一本全问题",
+          "note": "似乎有一本全问题"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "默认听众熟悉东北网红黑话与平台史；「我就不指路」把听众当圈内人，共谋省略。",
+      "patterns": [
+        "圈内共谋省略",
+        "平台史默认知情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "东北网市IP"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "不指路共谋"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "广告/风评/带货/打赏四项变现；PK玩法；二创视频上浪漫滤镜。",
+      "patterns": [
+        "四项变现锚",
+        "PK玩法",
+        "二创滤镜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "广告"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "更别自己做生意带货了什么的",
+          "note": "做生意带货"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "也都是发生在PK这个玩法中",
+          "note": "PK玩法"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "有一个博主经常把那个时代的一些视频进行二创",
+          "note": "视频二创"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "前段噪声低密→变现清单中密→流量/监管因果高密→怀旧段中低密金句。",
+      "patterns": [
+        "噪声低密",
+        "因果高密",
+        "怀旧金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "and then we are going to the",
+          "note": "英文噪声"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "为平台带来的大量流量",
+          "note": "流量高密"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "金句密度"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "清单并列→由于/并且因果链→但是转折→如今今昔→二创插叙→人格断尾。",
+      "patterns": [
+        "清单到因果",
+        "今昔插叙",
+        "断尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "虽然这些东北网市的IP都借不到什么广告",
+          "note": "清单起"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "由于突破了边界",
+          "note": "由于因果"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如今我不可能在吃到那样的好果汁",
+          "note": "如今今昔"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而自信則是人格发展成熟和最",
+          "note": "断尾"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "平台史研究者口吻：承认狠活价值又冷静写监管死刑，带怀旧史官气质。",
+      "patterns": [
+        "平台史官",
+        "怀旧冷笔"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "为平台带来的大量流量",
+          "note": "为平台带来流量"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "线内容自然没有生存空间",
+          "note": "无生存空间"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就是人们开始把它浪漫",
+          "note": "把它浪漫"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「时代结束的标志就是人们开始把它浪漫」；吃不到那样的好果汁；不指路。",
+      "patterns": [
+        "浪漫化终结公式",
+        "好果汁",
+        "不指路"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "结束标志"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "就是人们开始把它浪漫",
+          "note": "开始浪漫"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如今我不可能在吃到那样的好果汁",
+          "note": "好果汁"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "我就不指路了",
+          "note": "不指路"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「边缘内容→平台红利→资本/监管淘汰→事后浪漫化」可改编内容行业史口播，需重录清晰口播并补具名案例。",
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "由于突破了边界",
+          "note": "突破边界"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "虽然也不能被资本所接受",
+          "note": "资本不接受"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "一个时代的结束的标志",
+          "note": "浪漫化标志"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s5",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s18",
+    "s21",
+    "s25",
+    "s32",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s35"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,872 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_nE5XAOe8-R8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=nE5XAOe8-R8",
+  "source_sha256": "a4c809123c4a70e8704f66ac1f46a78bf84bd134748d15aa99af57baa42da02b",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 28,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "all"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "使飞翁"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "跳遠過程中"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 13,
+      "snippet": "主要的動力 來自兩腿登地時"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 8,
+      "snippet": "一給你的反助有力"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 15,
+      "snippet": "登地力量越大 時間越長越長越遠"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 14,
+      "snippet": "往上擺斃的動作會把身體往下推"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 5,
+      "snippet": "增大了登力"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 16,
+      "snippet": "而拿著亞林擺斃 這個登力就會更大"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "of you 跳得更遠"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 14,
+      "snippet": "而且研究表明 輸中的上支擺動"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 11,
+      "snippet": "能讓下支激動的發力更強"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 24,
+      "snippet": "找我技巧 Commissioners 找我技巧後"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 11,
+      "snippet": ",原著十幾厘米花式問題"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "等多重的亞林最好呢"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 12,
+      "snippet": "一般推薦 兩下亞林加起來"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "再體重的百分之百分之八"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 15,
+      "snippet": "大家可以摸索一下自己的最佳配奏"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "除此之外"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 13,
+      "snippet": "我太會力定跳同學經常會往上"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "但碰到的 但體肤老師會強調"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 5,
+      "snippet": "你要往前跳"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 25,
+      "snippet": "身子和企業的夾角最好 the best 45度一下"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 18,
+      "snippet": "matter of the game"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 14,
+      "snippet": "你會不會不由自己的被帶走前跳"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 121,
+      "snippet": "從而跳更遠 and you will be the one who will be the one who will be the one who will b"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 31,
+      "snippet": "如果你提供了一輸物理老師教的 它真的還會告訴你 根據動量手衣服"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 3,
+      "snippet": "把您的"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "直接切入跳远动力来源：蹬地反作用力，几乎无寒暄，ASR噪声中仍可辨科普起手。",
+      "patterns": [
+        "原理直切",
+        "动力来源起手"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "跳遠過程中",
+          "note": "跳远过程"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "主要的動力 來自兩腿登地時",
+          "note": "动力来自蹬地"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "一給你的反助有力",
+          "note": "反作用力"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "蹬地越强越远→上摆把身体下推增大蹬力→持哑铃摆臂更大→上肢摆动增强下肢发力→可多十几厘米→推荐约体重8%→还要强调往前跳约45度。",
+      "patterns": [
+        "反作用力链",
+        "摆臂增力",
+        "配重建议",
+        "角度纠正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "登地力量越大 時間越長越長越遠",
+          "note": "力量时间越远"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "往上擺斃的動作會把身體往下推",
+          "note": "上摆下推"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "哑铃更大"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "能讓下支激動的發力更強",
+          "note": "下肢更强"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "百分之八"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "往前跳"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "force_mechanism",
+          "note": "蹬地反作用与摆臂增力"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18"
+          ],
+          "function": "evidence_weight",
+          "note": "研究与配重建议"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "angle_tip",
+          "note": "往前跳与45度收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「而且研究表明」「除此之外」「但体育老师会强调」短链转场；文本短，转场词少。",
+      "patterns": [
+        "研究表明递进",
+        "除此之外扩",
+        "老师强调转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "而且研究表明 輸中的上支擺動",
+          "note": "而且研究表明"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "除此之外",
+          "note": "除此之外"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "但碰到的 但體肤老師會強調",
+          "note": "老师强调"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "空手摆臂 vs 持哑铃更大蹬力；学生常往上跳 vs 老师强调往前跳/45度以下。",
+      "patterns": [
+        "空手vs哑铃",
+        "往上vs往前"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "增大了登力",
+          "note": "增大蹬力"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "哑铃更大"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "我太會力定跳同學經常會往上",
+          "note": "常往上"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "往前跳"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「等多重的哑铃最好呢」实用设问引出配重；其余以陈述为主。",
+      "patterns": [
+        "配重实用问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "等多重的亞林最好呢",
+          "note": "多重最好"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "上摆增力机制例、研究称多十几厘米、体重8%配重、老师45度口诀；ASR混入英文碎片。",
+      "patterns": [
+        "机制示例",
+        "厘米增益例",
+        "百分比配重",
+        "角度口诀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "往上擺斃的動作會把身體往下推",
+          "note": "上摆下推"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": ",原著十幾厘米花式問題",
+          "note": "十几厘米"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "百分之八"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "身子和企業的夾角最好 the best 45度一下",
+          "note": "45度"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "动量/反作用抽象落到摆臂与哑铃；「最佳配重」落到体重8%；「别往上」落到45度夹角。",
+      "patterns": [
+        "力→摆臂哑铃",
+        "最佳→8%",
+        "方向→45度"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "哑铃摆臂"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "8%"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "身子和企業的夾角最好 the best 45度一下",
+          "note": "45度"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如果你提供了一輸物理老師教的 它真的還會告訴你 根據動量手衣服",
+          "note": "动量守恒"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「一般推荐」温和建议；「老师会强调你要往前跳」权威口吻；结尾动量句未完。",
+      "patterns": [
+        "一般推荐",
+        "老师强调权威"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "一般推薦 兩下亞林加起來",
+          "note": "一般推荐"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "但碰到的 但體肤老師會強調",
+          "note": "老师强调"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "往前跳"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "对学生「往上跳」本能纠偏为往前；配重让「大家摸索最佳」留修正空间。",
+      "patterns": [
+        "往上改往前",
+        "摸索留修正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我太會力定跳同學經常會往上",
+          "note": "常往上"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "改往前"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大家可以摸索一下自己的最佳配奏",
+          "note": "摸索最佳"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "极短科普节奏：原理句→机制句→数据句→问答句→角度句；全长约28句快切。",
+      "patterns": [
+        "快切短科普",
+        "原理到建议一条龙"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "主要的動力 來自兩腿登地時",
+          "note": "原理"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "机制"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等多重的亞林最好呢",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "角度"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "除此之外"
+        },
+        {
+          "type": "discourse",
+          "form": "而且研究表明"
+        },
+        {
+          "type": "asr_noise",
+          "form": "of you / matter of the game"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "除此之外",
+          "note": "除此之外"
+        },
+        {
+          "sentence_id": "s11",
+          "snippet": "而且研究表明 輸中的上支擺動",
+          "note": "研究表明"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "of you 跳得更遠",
+          "note": "of you噪声"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "matter of the game",
+          "note": "英文噪声"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "中性好奇→机制恍然→可操作兴奋（多十几厘米）→提醒别跳错方向；情绪起伏小。",
+      "patterns": [
+        "中性科普",
+        "小兴奋增益",
+        "提醒收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "恍然"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": ",原著十幾厘米花式問題",
+          "note": "小兴奋"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "提醒"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场蹬地动力在哑铃增力与角度建议处落地；动量守恒句被截断，闭环不完整。",
+      "patterns": [
+        "动力命题落地",
+        "动量句截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "主要的動力 來自兩腿登地時",
+          "note": "动力开题"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "哑铃落地"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "如果你提供了一輸物理老師教的 它真的還會告訴你 根據動量手衣服",
+          "note": "动量起头"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "把您的",
+          "note": "截断"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「大家可以摸索一下自己的最佳配重」轻实验CTA，无关注号召。",
+      "patterns": [
+        "摸索实验软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "大家可以摸索一下自己的最佳配奏",
+          "note": "摸索最佳"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "严重ASR中英混杂与重复，反成「非洁净生成」信号；体育老师口头禅感保留。",
+      "patterns": [
+        "ASR脏信号",
+        "老师口头禅"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "從而跳更遠 and you will be the one who will b",
+          "note": "英文重复噪声"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "使飞翁",
+          "note": "使飞翁噪声"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "但碰到的 但體肤老師會強調",
+          "note": "老师强调"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR极差可读性伤；缺实验出处；动量段截断；安全提示不足（持重跳远风险）。",
+      "patterns": [
+        "ASR伤阅读",
+        "缺出处",
+        "安全提示缺",
+        "截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "all",
+          "note": "all噪声"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": ",原著十幾厘米花式問題",
+          "note": "增益无出处"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "把您的",
+          "note": "截断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "短链暴露「力的来源→如何增大→加质量→给剂量→纠方向」物理教学思维。",
+      "patterns": [
+        "物理短链教学"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "主要的動力 來自兩腿登地時",
+          "note": "来源"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "往上擺斃的動作會把身體往下推",
+          "note": "增大"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "加质量"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "剂量"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "方向"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当要考立定跳远的学生，用「体育老师强调」校园口吻对话。",
+      "patterns": [
+        "考生学生位",
+        "体育老师口吻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我太會力定跳同學經常會往上",
+          "note": "立定跳同学"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "但碰到的 但體肤老師會強調",
+          "note": "体育老师"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "大家可以摸索一下自己的最佳配奏",
+          "note": "大家摸索"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "反作用力、多十几厘米、体重8%、45度夹角、动量守恒（未完）。",
+      "patterns": [
+        "厘米增益锚",
+        "8%锚",
+        "45度锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": ",原著十幾厘米花式問題",
+          "note": "十几厘米"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "百分之八"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "身子和企業的夾角最好 the best 45度一下",
+          "note": "45度"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "全片短高密原理；配重与角度段信息尖峰；尾动量句密度中断。",
+      "patterns": [
+        "全程短高密",
+        "建议尖峰",
+        "尾中断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "登地力量越大 時間越長越長越遠",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "尖峰"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "把您的",
+          "note": "中断"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短说明句为主；ASR插入英文碎片打断；问句仅一处配重。",
+      "patterns": [
+        "短说明句",
+        "英文碎片打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "增大了登力",
+          "note": "短句"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "of you 跳得更遠",
+          "note": "英文打断"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "等多重的亞林最好呢",
+          "note": "唯一问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "急促校园科普者：给公式感建议，少人设多动作指令。",
+      "patterns": [
+        "急促校园科普",
+        "动作指令导向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "一般推薦 兩下亞林加起來",
+          "note": "推荐"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "要往前跳"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "拿哑铃立定跳更远、体重8%、往前跳别往上、多十几厘米。",
+      "patterns": [
+        "哑铃跳远钩子",
+        "8%口诀",
+        "往前跳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "哑铃更远"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "8%"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "往前跳"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": ",原著十幾厘米花式問題",
+          "note": "十几厘米"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「力源→增力技巧→剂量→纠常见错」微科普骨架适合观宇短视频；必须重录清音并补安全提示与出处。",
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "主要的動力 來自兩腿登地時",
+          "note": "力源"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "而拿著亞林擺斃 這個登力就會更大",
+          "note": "技巧"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "再體重的百分之百分之八",
+          "note": "剂量"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你要往前跳",
+          "note": "纠错"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s12",
+    "s17",
+    "s22",
+    "s1",
+    "s2",
+    "s8",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28"
+  ],
+  "fields_complete_25": true
+}

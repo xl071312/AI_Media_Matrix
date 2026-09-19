@@ -1,0 +1,1351 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_Zoe9FOZRkJY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Zoe9FOZRkJY",
+  "source_sha256": "80573109df44ee99013d3feb76863d98fd17a3758c6f49a2bf6d14a26e72b8e0",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "PENDING_QA",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 100,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "為了橫掃杭州套圈攤"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 10,
+      "snippet": "我們做了個套圈發射器"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 4,
+      "snippet": "前段時間"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "我們工作室辦了年會"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "結束後我請大家去套圈"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 2,
+      "snippet": "結果"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "一整晚"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "只有老闆是開心的"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "而這個我最想要的大獎"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "居然要套中兩次"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 5,
+      "snippet": "才能抱回家"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "這也太坑了吧"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "既然這樣"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "我們能不能"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "做一個套圈發射器"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 6,
+      "snippet": "提高成功率呢"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 8,
+      "snippet": "這 就是我們做的"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "第一版發射器"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "它有兩個摩擦帶"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "只要讓它們高速轉動"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "就可以用來磨刀"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "就能發射出去"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 7,
+      "snippet": "但是它的效果嘛"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 7,
+      "snippet": "圈在空中的姿態"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "非常隨機"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 8,
+      "snippet": "固定角度打十個圈"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "落點的一致性"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 5,
+      "snippet": "比人手還低"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "可能是因為摩擦帶"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "在高速轉動的時候"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "有很大形變"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "沒有辦法完美地接觸圈"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 6,
+      "snippet": "所以我們做了"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "第二版發射器"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "把帶子換成了"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "不易形變的輪子"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "分布在彈道兩側"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 3,
+      "snippet": "前兩排"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "負責給圈逐級加速"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 3,
+      "snippet": "第三排"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "只有單側的旋轉輪"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 9,
+      "snippet": "這樣發出的圈能自旋"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "在空中就不會隨機飛舞了"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "一致性有了明顯提升"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "但我們發現了一個"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "更嚴重的問題"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "當圈以橫向姿態發出"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "大多數時候是"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "打中而非套中娃娃"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "那麼竪起來"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "增加圈與物品之間的"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 4,
+      "snippet": "投影面積"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "問題是不是就解決了呢"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 1,
+      "snippet": "這"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "是我們的第三版發射器"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 4,
+      "snippet": "它改變了"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 8,
+      "snippet": "摩擦輪的排布方式"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 8,
+      "snippet": "可以把圈竪著發射"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 2,
+      "snippet": "就是"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 4,
+      "snippet": "打不出來"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "原來是因為"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 11,
+      "snippet": "六個輪子與圈接觸的時機"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 4,
+      "snippet": "很難一致"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "下半部分"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "會被先發射出來"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "那有沒有一種方案"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 8,
+      "snippet": "能解決之前出現的"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 5,
+      "snippet": "所有問題呢"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 10,
+      "snippet": "是我們的最終版發射器"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "我們把摩擦輪"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 6,
+      "snippet": "換成了橡皮筋"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 7,
+      "snippet": "向後拉完成蓄力"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "圈就能竪直發射出去"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 5,
+      "snippet": "至於摩擦輪"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 6,
+      "snippet": "則放到了後面"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 6,
+      "snippet": "負責將圈上膛"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "實現快速上彈和連發"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 8,
+      "snippet": "我們還裝了激光筆"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 9,
+      "snippet": "可以用撥輪調節角度"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 4,
+      "snippet": "方便瞄准"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 6,
+      "snippet": "機身上的屏幕"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 10,
+      "snippet": "還能顯示俯仰角和高度"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 6,
+      "snippet": "幫助我們校准"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 2,
+      "snippet": "最後"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "再給它設計一個"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "酷炫的外形"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 6,
+      "snippet": "這就是我們的"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 8,
+      "snippet": "最終版套圈發射器"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 5,
+      "snippet": "打十發出去"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 9,
+      "snippet": "精度有了明顯的提高"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 9,
+      "snippet": "但這版還是有個問題"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "在打輕的玩偶時"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 4,
+      "snippet": "容易打翻"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 5,
+      "snippet": "圈會掉下來"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 3,
+      "snippet": "但如果"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 6,
+      "snippet": "把玩偶固定住"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 5,
+      "snippet": "就可以這樣"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 4,
+      "snippet": "練習結束"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 6,
+      "snippet": "接下來讓我們"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 4,
+      "snippet": "進入實戰"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「为了横扫杭州套圈摊」目标句+年会套圈失败吐槽，直接引出做发射器。",
+      "patterns": [
+        "横扫目标钩",
+        "套圈失败吐槽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了橫掃杭州套圈攤",
+          "note": "横扫杭州"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "只有老闆是開心的",
+          "note": "只有老板开心"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "這也太坑了吧",
+          "note": "太坑了"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "失败刺激→v1摩擦带随机→v2轮子提升仍横打→v3竖直打不出→最终橡皮筋+激光瞄准→轻玩偶易翻待实战。",
+      "patterns": [
+        "迭代失败链",
+        "姿态问题发现",
+        "最终版折中",
+        "遗留问题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "第一版發射器",
+          "note": "第一版"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "一致性有了明顯提升",
+          "note": "一致性提升"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "打中而非套中娃娃",
+          "note": "打中非套中"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "最終版套圈發射器",
+          "note": "最终版"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16"
+          ],
+          "function": "fail_hook_goal",
+          "note": "套圈失败与做发射器目标"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "v1_belt_fail",
+          "note": "摩擦带版随机失败"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53"
+          ],
+          "function": "v2_wheel_spin",
+          "note": "轮子自旋版与横打问题"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68"
+          ],
+          "function": "v3_vertical_jam",
+          "note": "竖直发射接触不同步"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "final_rubber_band_field",
+          "note": "橡皮筋最终版与实战预告"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「既然这样」「所以我们做了」「那么竖起来」「那有没有一种方案」「最后」驱动迭代。",
+      "patterns": [
+        "既然这样立项",
+        "所以做了下一版",
+        "那有没有方案"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "既然這樣",
+          "note": "既然这样"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以我們做了",
+          "note": "所以第二版"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "那有沒有一種方案",
+          "note": "有没有方案"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "最後",
+          "note": "最后"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "人手一致性vs摩擦带更差；横发打中vs竖发投影更大；摩擦轮形变vs橡皮筋蓄力。",
+      "patterns": [
+        "机器vs人手",
+        "横发vs竖发",
+        "轮vs皮筋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "比人手還低",
+          "note": "比人手还低"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "打中而非套中娃娃",
+          "note": "打中非套中"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "投影面積",
+          "note": "投影面积"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "換成了橡皮筋",
+          "note": "换成橡皮筋"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「能不能做发射器提高成功率」「问题是不是就解决了」「有没有方案解决所有问题」迭代设问。",
+      "patterns": [
+        "可行性设问",
+        "是否解决设问",
+        "全问题解决设问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "做一個套圈發射器",
+          "note": "做发射器吗"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "問題是不是就解決了呢",
+          "note": "是否解决"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "那有沒有一種方案",
+          "note": "有没有方案"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "固定角打十圈测一致性、横发打翻娃娃、六轮接触时机、激光笔+俯仰角屏幕校准。",
+      "patterns": [
+        "十圈一致性测",
+        "打翻娃娃例",
+        "六轮时机例",
+        "激光校准例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "固定角度打十個圈",
+          "note": "打十个圈"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "容易打翻",
+          "note": "打翻"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "六個輪子與圈接觸的時機",
+          "note": "六轮时机"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "我們還裝了激光筆",
+          "note": "激光笔"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「提高成功率」目标→各版具体失败模式（随机姿态/打中/打不出）→皮筋竖直+上膛连发方案。",
+      "patterns": [
+        "目标→失败模式",
+        "方案零部件落地"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "提高成功率呢",
+          "note": "提高成功率"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "非常隨機",
+          "note": "姿态随机"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "打不出來",
+          "note": "打不出来"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "圈就能竪直發射出去",
+          "note": "竖直发射"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「这太坑了」「效果嘛…非常随机」「一致性有了明显提升」「精度有了明显提高」边测边判。",
+      "patterns": [
+        "太坑了",
+        "随机判定",
+        "提升判定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "這也太坑了吧",
+          "note": "太坑了"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "非常隨機",
+          "note": "非常随机"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "精度有了明顯的提高",
+          "note": "精度提高"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "每版先报进展再自揭更严重问题；最终版仍承认轻玩偶易翻，用固定玩偶练习补丁。",
+      "patterns": [
+        "进展→自揭问题",
+        "最终版仍留缺陷"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s44",
+          "snippet": "一致性有了明顯提升",
+          "note": "一致性提升"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "但我們發現了一個",
+          "note": "更严重问题"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "但這版還是有個問題",
+          "note": "还有问题"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "把玩偶固定住",
+          "note": "固定住"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "目标短句→失败吐槽→各版「这就是我们做的第N版」节奏反复→功能列举加速→实战预告停在高潮前。",
+      "patterns": [
+        "第N版反复节奏",
+        "功能列举加速",
+        "实战悬念停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "第一版發射器",
+          "note": "第一版"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "是我們的第三版發射器",
+          "note": "第三版"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "最終版套圈發射器",
+          "note": "最终版"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "進入實戰",
+          "note": "进入实战"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "结果"
+        },
+        {
+          "type": "discourse",
+          "form": "既然这样"
+        },
+        {
+          "type": "hedge",
+          "form": "但是它的效果嘛"
+        },
+        {
+          "type": "discourse",
+          "form": "原来是因为"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "結果",
+          "note": "结果"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "既然這樣",
+          "note": "既然这样"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "但是它的效果嘛",
+          "note": "效果嘛"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "原來是因為",
+          "note": "原来是因为"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "憋屈开场→动手期待→v1失望→v2小喜再失望→v3卡住焦躁→最终版爽感→轻留遗憾+实战期待。",
+      "patterns": [
+        "憋屈",
+        "小喜再失望",
+        "最终爽感",
+        "实战期待"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "這也太坑了吧",
+          "note": "太坑"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "一致性有了明顯提升",
+          "note": "小喜"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "打不出來",
+          "note": "打不出"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "精度有了明顯的提高",
+          "note": "精度提高"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗口止于「练习结束进入实战」，回扣开场横扫摊位目标但胜负未揭（完整片尾可能在画外）。",
+      "patterns": [
+        "实战回扣目标",
+        "胜负悬念"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了橫掃杭州套圈攤",
+          "note": "横扫目标"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "練習結束",
+          "note": "练习结束"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "進入實戰",
+          "note": "进入实战"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无标准求赞，以实战悬念作内容型钩子。",
+      "patterns": [
+        "悬念钩非求赞",
+        "内容续看驱动"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s100",
+          "snippet": "進入實戰",
+          "note": "进入实战"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "年会只有老板开心、磨刀误触笑点、第N版失败日志，强DIY过程真实感。",
+      "patterns": [
+        "年会吐槽",
+        "误触磨刀梗",
+        "失败日志"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "只有老闆是開心的",
+          "note": "只有老板开心"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "就可以用來磨刀",
+          "note": "用来磨刀"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "打不出來",
+          "note": "打不出来"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "全文止于实战前，缺结果闭环；部分技术原因解释偏短；无数据表只有「打十发」。",
+      "patterns": [
+        "缺实战结果",
+        "原因偏短",
+        "测样少"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s100",
+          "snippet": "進入實戰",
+          "note": "实战未展开"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "六個輪子與圈接觸的時機",
+          "note": "时机难一致"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "打十發出去",
+          "note": "打十发"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "明确「可能因为形变」假设→改轮；发现横打问题→改竖直；接触不同步→改皮筋分工。",
+      "patterns": [
+        "假设驱动改版",
+        "问题发现驱动改版"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "可能是因為摩擦帶",
+          "note": "可能因为形变"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "打中而非套中娃娃",
+          "note": "打中问题"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "原來是因為",
+          "note": "原来因为时机"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当「一起围观工程迭代的粉丝」，用「我们」拉入共创感。",
+      "patterns": [
+        "围观迭代粉丝",
+        "我们共创"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "我們能不能",
+          "note": "我们能不能"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "所以我們做了",
+          "note": "所以我们做了"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "接下來讓我們",
+          "note": "让我们"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "套两次才抱走大奖、打十圈测一致性、三排轮分工、激光俯仰角高度屏、轻玩偶打翻。",
+      "patterns": [
+        "套两次规则锚",
+        "十圈测锚",
+        "三排轮锚",
+        "激光屏锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "居然要套中兩次",
+          "note": "套中两次"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "固定角度打十個圈",
+          "note": "打十个圈"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "負責給圈逐級加速",
+          "note": "前两排加速"
+        },
+        {
+          "sentence_id": "s81",
+          "snippet": "機身上的屏幕",
+          "note": "屏幕显示"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "故事低密→各版原理中高密→最终功能列举高密→遗留问题降密留悬念。",
+      "patterns": [
+        "原理中高密",
+        "功能列举高密",
+        "悬念降密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "負責給圈逐級加速",
+          "note": "加速说明"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "我們還裝了激光筆",
+          "note": "激光功能"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "但這版還是有個問題",
+          "note": "问题降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "失败故事→v1→v2→v3→最终版→缺陷→实战，线性迭代日志体。",
+      "patterns": [
+        "线性迭代",
+        "每版问题闭环",
+        "悬念截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "第一版發射器",
+          "note": "v1"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "是我們的第三版發射器",
+          "note": "v3"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "是我們的最終版發射器",
+          "note": "最终版"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学工程Vlog人格：坦诚失败、幽默自嘲、用迭代证明创造力。",
+      "patterns": [
+        "坦诚失败",
+        "迭代证明力"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "但是它的效果嘛",
+          "note": "效果嘛"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "打不出來",
+          "note": "打不出来"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "精度有了明顯的提高",
+          "note": "精度提高"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「横扫套圈摊」目标+第N版失败节奏+激光瞄准最终机。",
+      "patterns": [
+        "横扫目标钩",
+        "第N版节奏",
+        "激光最终机"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了橫掃杭州套圈攤",
+          "note": "横扫"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "是我們的第三版發射器",
+          "note": "第三版"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "我們還裝了激光筆",
+          "note": "激光笔"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "失败驱动的硬件迭代日志体可直接改编观宇制作/实验类口播骨架，悬念收尾可保留。",
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "做一個套圈發射器",
+          "note": "立项目标"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "但我們發現了一個",
+          "note": "自揭问题"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "最終版套圈發射器",
+          "note": "最终版"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s8",
+    "s12",
+    "s18",
+    "s44",
+    "s49",
+    "s88",
+    "s2",
+    "s17",
+    "s33",
+    "s34",
+    "s54",
+    "s55",
+    "s69",
+    "s70",
+    "s13",
+    "s66",
+    "s84",
+    "s28",
+    "s52",
+    "s71",
+    "s15",
+    "s53",
+    "s26",
+    "s93",
+    "s62",
+    "s78",
+    "s16",
+    "s25",
+    "s60",
+    "s73",
+    "s90",
+    "s45",
+    "s91",
+    "s96",
+    "s100",
+    "s6",
+    "s23",
+    "s61",
+    "s98",
+    "s21",
+    "s89",
+    "s29",
+    "s14",
+    "s99",
+    "s10",
+    "s39",
+    "s81"
+  ],
+  "fields_complete_25": true
+}

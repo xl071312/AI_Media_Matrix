@@ -1,0 +1,1421 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_jbsn0gCsipY",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=jbsn0gCsipY",
+  "source_sha256": "e23fd1c5a0a55c2cc967217735a26192761be69d073d9f3faca05fb5025e6c45",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 89,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 14,
+      "snippet": "整个中国的进去我是发生了转变"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 18,
+      "snippet": "让全球把目光去交在了中国的房地产市场"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "恆大这个名字"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 6,
+      "snippet": "我相信这样年"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 10,
+      "snippet": "大家二多岛都听不见了"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 9,
+      "snippet": "我认为这种大军里的"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 9,
+      "snippet": "我这种大军里的预言"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 7,
+      "snippet": "拿到了更多的钱"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "是老板就更不可能收受"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 10,
+      "snippet": "因为这种持续赢钱的人"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 8,
+      "snippet": "一般都会觉得自己"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 7,
+      "snippet": "会以同样的方式"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 5,
+      "snippet": "继续赢下去"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 12,
+      "snippet": "他就继续跳起了更大的杠杆"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "开始了新一轮的好"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 18,
+      "snippet": "一会叫做业� on 多元的综合性公司"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 12,
+      "snippet": "2016年正式把红大地产"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "增名为通过红罢"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 2,
+      "snippet": "组�"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 13,
+      "snippet": "除了广州和大拿几次冠农之外"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 9,
+      "snippet": "基本上是概差差不行"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "那钱就多大水票"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "2019到16年"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 15,
+      "snippet": "红 can 负债都翻了20多倍"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 13,
+      "snippet": "号价和和尔尔身家全是接出来"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "但要命的时候"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 16,
+      "snippet": "就是因为许老板这种包举高打的作丛"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "在16年的时候"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 10,
+      "snippet": "他的负债就已经超过了"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 3,
+      "snippet": "一万一"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 3,
+      "snippet": "而手,"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 13,
+      "snippet": "好债当时的房价是持续上涨的"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 7,
+      "snippet": "就算是非常极限"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 11,
+      "snippet": "但他不停的借新,环旝债"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "资金屏能够"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "玩得是贼六了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "意见愿意借责的钱的人"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "还是大大大"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 17,
+      "snippet": "你说在当时谁能想到中国很大会出问题"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 15,
+      "snippet": "2016年,从大界市开始除备A"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "借可是身身房上市"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 15,
+      "snippet": "举家严成功引入了三批战略投资者"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "包括中鲜苏宁等等"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 9,
+      "snippet": "合地合计1300亿"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "议议议议议议议议议议"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "就承诺他们说"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 7,
+      "snippet": "假如上市不成功"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 16,
+      "snippet": "我会连本带力的回够你们手里的股份"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 6,
+      "snippet": "但是好净不长"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 11,
+      "snippet": "2016年开始房住部少"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 8,
+      "snippet": "而且还有一堆限构"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "现代现售等等的"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 2,
+      "snippet": "混蛋"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 8,
+      "snippet": "他们还想嘴部更大"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "就想趁着潮水退"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 14,
+      "snippet": "毕竟自己一路都是这么赢过来的"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "所以恒大嘴上"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 10,
+      "snippet": "虽然喊着我要降低复债"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 10,
+      "snippet": "但实际上还是继续借钱"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 5,
+      "snippet": "继续拿地的"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 15,
+      "snippet": "简直可以说是房地产行业的孤雄者"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 10,
+      "snippet": "甚至2018年的时候"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 3,
+      "snippet": "还要把"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "2020年时候"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "恒大借债的利息"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 12,
+      "snippet": "已经是当时万科的两倍多了"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 10,
+      "snippet": "这时候许老板怎么办呢"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "别忘了他有一个救命稻草"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 11,
+      "snippet": "从2016年开始仇备的"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 10,
+      "snippet": "那个在A股的借客上市"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 15,
+      "snippet": "只可惜恒大这次没能判来救火的水"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "而是等来了稍火的油"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 1,
+      "snippet": "呀"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 17,
+      "snippet": "2020年房地产市场的三条红校发布"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 8,
+      "snippet": "恒大因为债务太高"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 8,
+      "snippet": "上市直接选高输败"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 2,
+      "snippet": "同时"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 5,
+      "snippet": "还得限制了"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 14,
+      "snippet": "大那些大股动当然也包括最大的"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 17,
+      "snippet": "最大的股动就是他自己他一七到一九年"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 15,
+      "snippet": "平均每年就要给自己分一百多亿的"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 10,
+      "snippet": "分�.这么多年加起来"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 8,
+      "snippet": "拿了五百多亿分红"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 3,
+      "snippet": "分红吗"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 8,
+      "snippet": "产生产生产生产生"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 12,
+      "snippet": "没有人愿要恒大的债券商票"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 3,
+      "snippet": "吉加尼"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 9,
+      "snippet": "再找不到下一届台下"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "ASR噪声中仍可辨：中国经济转向把全球目光拉到楼市，恒大名字人人听过，切入许家印加杠杆叙事。",
+      "patterns": [
+        "楼市目光钩子",
+        "恒大名字共鸣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "让全球把目光去交在了中国的房地产市场",
+          "note": "全球目光房地产"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "恆大这个名字",
+          "note": "恆大这个名字"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "大家二多岛都听不见了",
+          "note": "大家都听过"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "持续赢钱幻觉→更大杠杆多元化→负债翻倍→房价上涨掩盖→房住不炒与限购→口头降负债实则继续借→借壳上市失败→三条红线→分红抽血→无人接盘。",
+      "patterns": [
+        "赢钱幻觉杠杆",
+        "负债翻倍",
+        "政策转向",
+        "红线上市败",
+        "分红抽血"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "他就继续跳起了更大的杠杆",
+          "note": "更大的杠杆"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "红 can 负债都翻了20多倍",
+          "note": "负债翻了20多倍"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "2016年开始房住部少",
+          "note": "房住不炒"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百多亿分红"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "function": "hook_name",
+          "note": "楼市目光与恒大名字引入"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30"
+          ],
+          "function": "leverage_up",
+          "note": "赢钱幻觉与加杠杆多元化"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55"
+          ],
+          "function": "policy_turn",
+          "note": "借新还旧与房住不炒转向"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75"
+          ],
+          "function": "listing_fail",
+          "note": "口头降负债与借壳上市失败"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89"
+          ],
+          "function": "redline_collapse",
+          "note": "三条红线分红抽血无人接盘"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "因为；要命的时候就是；但是好景不长；别忘了他有；同时。",
+      "patterns": [
+        "因为",
+        "要命的时候",
+        "好景不长",
+        "别忘了",
+        "同时"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "是老板就更不可能收受",
+          "note": "因为"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "但要命的时候",
+          "note": "要命的时候"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "但是好净不长",
+          "note": "好景不长"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "别忘了他有一个救命稻草",
+          "note": "别忘了"
+        },
+        {
+          "sentence_id": "s78",
+          "snippet": "同时",
+          "note": "同时"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "口头降负债vs实际继续借地；借壳盼来救火水vs等来浇火油；万科利息对比恒大两倍多。",
+      "patterns": [
+        "口头/实际",
+        "救火/浇油",
+        "利息对比万科"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s59",
+          "snippet": "虽然喊着我要降低复债",
+          "note": "喊着降低负债"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "但实际上还是继续借钱",
+          "note": "继续借钱"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "只可惜恒大这次没能判来救火的水",
+          "note": "没能盼来救火"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "等来浇火的油"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "已经是当时万科的两倍多了",
+          "note": "万科两倍多"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "你会选吗隐含在叙事；这时候许老板怎么办呢；上市不成功怎么办承诺设问。",
+      "patterns": [
+        "许老板怎么办",
+        "上市不成功怎么办"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "这时候许老板怎么办呢",
+          "note": "许老板怎么办呢"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "假如上市不成功",
+          "note": "假如上市不成功"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "2016改名恒大；中信苏宁战略投资1300亿；三条红线；每年分红一百多亿累计五百亿。",
+      "patterns": [
+        "改名例",
+        "战投入股例",
+        "红线例",
+        "分红数字例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "增名为通过红罢",
+          "note": "改名为恒大"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "合地合计1300亿",
+          "note": "合计1300亿"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        },
+        {
+          "sentence_id": "s82",
+          "snippet": "平均每年就要给自己分一百多亿的",
+          "note": "一百多亿"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百多亿"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "包举高打作风落到负债过万亿；救命稻草落到A股借壳；浇火油落到红线卡死上市。",
+      "patterns": [
+        "作风→负债数字",
+        "稻草→借壳",
+        "浇油→红线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "就是因为许老板这种包举高打的作丛",
+          "note": "包举高打"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一万一",
+          "note": "一万一"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "别忘了他有一个救命稻草",
+          "note": "救命稻草"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "玩得贼六了；简直孤勇者；吃相难看隐含；没人愿要商票。",
+      "patterns": [
+        "贼六了",
+        "孤勇者",
+        "没人愿要"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "玩得是贼六了",
+          "note": "玩得贼六了"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "简直可以说是房地产行业的孤雄者",
+          "note": "孤勇者"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "没有人愿要恒大的债券商票",
+          "note": "没有人愿要"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "ASR大量错词下仍保留「我这种/我这种」自我重说；救火水再修正为浇火油。",
+      "patterns": [
+        "自我重说",
+        "救火改浇油"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "我认为这种大军里的",
+          "note": "我这种大军里的"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "我这种大军里的预言",
+          "note": "我这种大军里的预言"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "只可惜恒大这次没能判来救火的水",
+          "note": "救火的水"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "浇火的油"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "噪声短句碎切→负债数字加速→政策转向顿挫→红线崩盘连打→尾段崩坏。",
+      "patterns": [
+        "短句碎切",
+        "数字加速",
+        "红线连打",
+        "尾段崩坏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "红 can 负债都翻了20多倍",
+          "note": "翻了20多倍"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "2016年开始房住部少",
+          "note": "房住不炒"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "产生产生产生产生",
+          "note": "产生产生噪声"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "议议议"
+        },
+        {
+          "type": "discourse",
+          "form": "呀"
+        },
+        {
+          "type": "repair",
+          "form": "我/我这种"
+        },
+        {
+          "type": "discourse",
+          "form": "别忘了"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "议议议议议议议议议议",
+          "note": "议议连环"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "呀",
+          "note": "呀"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "我认为这种大军里的",
+          "note": "我这种大军里的"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "别忘了他有一个救命稻草",
+          "note": "别忘了他有"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "名称共鸣→加杠杆得意→政策转向憋闷→上市希望→红线绝望→抽血愤怒。",
+      "patterns": [
+        "共鸣",
+        "得意",
+        "憋闷",
+        "希望",
+        "绝望",
+        "愤怒"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "恆大这个名字",
+          "note": "恆大名字"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "玩得是贼六了",
+          "note": "贼六"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "2016年开始房住部少",
+          "note": "房住不炒"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "别忘了他有一个救命稻草",
+          "note": "救命稻草"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "上市直接选高输败",
+          "note": "上市失败"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百亿分红"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "从名字人人听说收束到债券商票无人要、找不到下一棒，闭环信用崩塌。",
+      "patterns": [
+        "名字引入",
+        "无人接盘收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "恆大这个名字",
+          "note": "恆大名字"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "没有人愿要恒大的债券商票",
+          "note": "没人愿要"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "再找不到下一届台下",
+          "note": "找不到下一届台下"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "弱CTA：叙事本身警示，无显式点赞关注；以「怎么办」悬问驱动看完。",
+      "patterns": [
+        "悬问驱动",
+        "弱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s68",
+          "snippet": "这时候许老板怎么办呢",
+          "note": "怎么办呢"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你说在当时谁能想到中国很大会出问题",
+          "note": "谁能想到会出问题"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "贼六/孤勇者口语；救火浇油意象；ASR重复噪声反成口播毛边；分红五百亿刺点。",
+      "patterns": [
+        "贼六孤勇者",
+        "救火浇油",
+        "ASR毛边",
+        "分红刺点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "玩得是贼六了",
+          "note": "贼六"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "简直可以说是房地产行业的孤雄者",
+          "note": "孤勇者"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "浇火的油"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百多亿"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重：专名错乱、数字碎片、尾段几乎不可读；时间线需对照文稿校准。",
+      "patterns": [
+        "ASR严重",
+        "专名错乱",
+        "尾段不可读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "一会叫做业� on 多元的综合性公司",
+          "note": "业 on 多元噪声"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "议议议议议议议议议议",
+          "note": "议议议"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "产生产生产生产生",
+          "note": "产生产生"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "叙事推理外显：持续赢钱的人会觉得继续赢；口头降负债但实际继续；救命稻草变浇油。",
+      "patterns": [
+        "赢钱幻觉推理",
+        "口头vs实际",
+        "稻草变浇油"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "因为这种持续赢钱的人",
+          "note": "持续赢钱的人"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "虽然喊着我要降低复债",
+          "note": "喊着降低"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "但实际上还是继续借钱",
+          "note": "继续借钱"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "只可惜恒大这次没能判来救火的水",
+          "note": "救火"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "浇油"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当听说过恒大的大众：我相信大家都听过；谁能想到会出问题共情当时幻觉。",
+      "patterns": [
+        "大众听众",
+        "共情当时幻觉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "大家二多岛都听不见了",
+          "note": "大家都听过"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "你说在当时谁能想到中国很大会出问题",
+          "note": "谁能想到"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "负债翻20倍；一万亿；1300亿战投；利息万科两倍；分红一年百亿累计五百亿；三条红线。",
+      "patterns": [
+        "20倍",
+        "一万亿",
+        "1300亿",
+        "两倍利息",
+        "五百亿",
+        "红线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "红 can 负债都翻了20多倍",
+          "note": "20多倍"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "一万一",
+          "note": "一万一"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "合地合计1300亿",
+          "note": "1300亿"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "已经是当时万科的两倍多了",
+          "note": "两倍多"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百多亿"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密共鸣→加杠杆中密→政策数字高密→红线崩盘高密→尾声ASR密度崩溃。",
+      "patterns": [
+        "共鸣低密",
+        "数字高密",
+        "崩盘高密",
+        "ASR崩溃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "恆大这个名字",
+          "note": "名字"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "红 can 负债都翻了20多倍",
+          "note": "20倍"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "红线"
+        },
+        {
+          "sentence_id": "s86",
+          "snippet": "产生产生产生产生",
+          "note": "噪声"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "目光钩子→赢钱幻觉→加杠杆→政策转向→假降债→上市败→红线→抽血→无人接盘。",
+      "patterns": [
+        "幻觉杠杆",
+        "政策假降债",
+        "红线抽血"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "他就继续跳起了更大的杠杆",
+          "note": "更大杠杆"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "2016年开始房住部少",
+          "note": "房住不炒"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "红线"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "分红"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "冷静追责叙事者：用孤勇者/贼六讽刺，把个人作风与制度红线并置。",
+      "patterns": [
+        "讽刺追责",
+        "作风并置红线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "简直可以说是房地产行业的孤雄者",
+          "note": "孤勇者"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就是因为许老板这种包举高打的作丛",
+          "note": "包举高打"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "恒大名字；贼六；孤勇者；救火变浇油；三条红线；五百亿分红；无人要商票。",
+      "patterns": [
+        "恒大",
+        "贼六",
+        "孤勇者",
+        "浇油",
+        "红线",
+        "五百亿",
+        "商票"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "恆大这个名字",
+          "note": "恆大"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "玩得是贼六了",
+          "note": "贼六"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "简直可以说是房地产行业的孤雄者",
+          "note": "孤勇者"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "浇油"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "红线"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "拿了五百多亿分红",
+          "note": "五百亿"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "没有人愿要恒大的债券商票",
+          "note": "商票"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "加杠杆幻觉→政策转向→救命稻草成浇油的危机叙事可改编，观宇需重听校对ASR并补齐时间线图表。",
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "他就继续跳起了更大的杠杆",
+          "note": "更大杠杆"
+        },
+        {
+          "sentence_id": "s73",
+          "snippet": "而是等来了稍火的油",
+          "note": "浇火的油"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "2020年房地产市场的三条红校发布",
+          "note": "三条红线"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s5",
+    "s14",
+    "s24",
+    "s50",
+    "s75",
+    "s84",
+    "s1",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89"
+  ],
+  "fields_complete_25": true
+}

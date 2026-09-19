@@ -1,0 +1,1420 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_Pgk1G6KIjIo",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Pgk1G6KIjIo",
+  "source_sha256": "f1a2cf1253396f07483beb5a822a13328135a8623bbcf8bc63416c19fc383fe7",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 118,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "那是我的第一次"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 5,
+      "snippet": "我� so"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 1,
+      "snippet": "的"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 2,
+      "snippet": "我认"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 3,
+      "snippet": "and"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 2,
+      "snippet": "然后"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "就到了这一条彻底"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 4,
+      "snippet": "最难的点"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 8,
+      "snippet": "怎么把这个小间间"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 7,
+      "snippet": "拆到这个锋里呢"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "一开始"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 3,
+      "snippet": "迷你先"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 9,
+      "snippet": "但是这个间会往外批"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 4,
+      "snippet": "往往外扁"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "会提不到锋利"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 3,
+      "snippet": "我认为"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 5,
+      "snippet": "我 the"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 1,
+      "snippet": "我"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 2,
+      "snippet": "ga"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 12,
+      "snippet": "我 Commission"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 5,
+      "snippet": "考虑到她是"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 13,
+      "snippet": "她是她是她是她是她是她是她"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "她是她是她是她是"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 10,
+      "snippet": "她是她是她是 she"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 1,
+      "snippet": "这"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 8,
+      "snippet": "这一步对人的方向"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "有些麻烦"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 5,
+      "snippet": "而且很难ы"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 6,
+      "snippet": "很难把我煎剧"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 6,
+      "snippet": "把一个小钢片"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 2,
+      "snippet": ",把"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 2,
+      "snippet": "丑出"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 1,
+      "snippet": "丑"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 14,
+      "snippet": "丑出的方法就是用手心心的捏纸"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 8,
+      "snippet": "把手指头发到手上"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 8,
+      "snippet": "把手指挥上手发动"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 6,
+      "snippet": "把手指头发动"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 1,
+      "snippet": "处"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 13,
+      "snippet": "处理 Commission"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 2,
+      "snippet": "处理"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 18,
+      "snippet": "处理 and the content"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 1,
+      "snippet": "s"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 1,
+      "snippet": "s"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 1,
+      "snippet": "是"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 1,
+      "snippet": "是"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "残缺开场「那是我的第一次」后陷入「我认为」ASR连环重复，叙事起点几乎被噪声吞没。",
+      "patterns": [
+        "残缺第一人称起",
+        "ASR重复淹没开场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那是我的第一次",
+          "note": "第一次残起"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我认为",
+          "note": "我认为重复始"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "可辨片段暗示流水线难点：小件拆入锋利工位失败→手捏出型→处理工序；整体链被ASR切断。",
+      "patterns": [
+        "难点提问残片",
+        "外批失败残片",
+        "手捏方法残片",
+        "处理工序残片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "最难的点",
+          "note": "最难点"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "拆入锋问"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "会提不到锋利",
+          "note": "提不到锋利"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "手心捏纸"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17"
+          ],
+          "function": "asr_noise_open",
+          "note": "开场被我认为/外语词噪声主导"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "line_hardpoint_fragment",
+          "note": "流水线难点与外批失败残片"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73"
+          ],
+          "function": "hand_pinch_method",
+          "note": "她是重复噪声后手捏出型方法"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118"
+          ],
+          "function": "process_loop_collapse",
+          "note": "处理/是 单字循环坍塌"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "仅见「然后」「一开始」「但是」残转，其余被重复词切断，过渡几乎失效。",
+      "patterns": [
+        "然后残转",
+        "一开始时间转",
+        "但是转折残"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "然后",
+          "note": "然后"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一开始",
+          "note": "一开始"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但是这个间会往外批",
+          "note": "但是"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "意图对比迷你方案vs外批变形提不到锋利，但对照句被噪声截断，对比力弱。",
+      "patterns": [
+        "迷你/外批对照残",
+        "锋利失败对照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "迷你先",
+          "note": "迷你先"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "但是这个间会往外批",
+          "note": "往外批"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "会提不到锋利",
+          "note": "提不到锋利"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "核心工艺问「怎么把小间间拆到锋里」尚存，其余问句被噪声淹没。",
+      "patterns": [
+        "工艺难点问残存"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "怎么把这个小间间",
+          "note": "小间间"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "拆到锋里呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "「用手心捏纸」「把手指头发动」试图示范出型手法，但例示被同一句狂复读破坏。",
+      "patterns": [
+        "手心捏纸示范",
+        "手指发动复读例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "捏纸方法"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "把手指头发动",
+          "note": "手指发动复读"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「最难的点」落到小钢片/手捏纸具体动作，抽象难度有落地意图但语义糊。",
+      "patterns": [
+        "难点→钢片动作",
+        "出型→捏纸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "最难的点",
+          "note": "最难点"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "把一个小钢片",
+          "note": "小钢片"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "捏纸"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「有些麻烦」「很难」等弱判断残存；缺乏清晰工艺成败结论句。",
+      "patterns": [
+        "麻烦弱判",
+        "很难弱判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "有些麻烦",
+          "note": "有些麻烦"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "而且很难ы",
+          "note": "很难"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「一开始迷你先」暗示路线试错，但纠正后文被噪声吞掉，自校正链不完整。",
+      "patterns": [
+        "一开始路线暗示",
+        "自校正链断裂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "一开始",
+          "note": "一开始"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "迷你先",
+          "note": "迷你先"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "有效短问偶发后迅速坠入「我认为/处理/是」机械复读，节奏坍塌为噪声环。",
+      "patterns": [
+        "短问偶发",
+        "复读坍塌"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "处理",
+          "note": "处理复读"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "是",
+          "note": "是复读"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "我认为"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "处理"
+        },
+        {
+          "type": "code_switch",
+          "form": "and/Commission"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我认为",
+          "note": "我认为填充"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "处理",
+          "note": "处理复读"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "and",
+          "note": "and插入"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "开场第一人称好奇→难点受挫→手作尝试→ASR噪声导致情绪不可读。",
+      "patterns": [
+        "好奇→受挫→尝试→噪声失读"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那是我的第一次",
+          "note": "好奇"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "有些麻烦",
+          "note": "麻烦受挫"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "手作"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "窗口末端陷入「是」单字循环，无收束、无回顾、无CTA，闭环缺失。",
+      "patterns": [
+        "单字循环无收",
+        "闭环缺失"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s102",
+          "snippet": "是",
+          "note": "是循环"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "是",
+          "note": "末端无收"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无关注/下期/互动召唤，CTA完全缺失。",
+      "patterns": [
+        "无CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s118",
+          "snippet": "是",
+          "note": "末端无召唤"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "大量「我认为/处理」复读与中英夹杂更像坏ASR而非风格标记，反AI信号不可用。",
+      "patterns": [
+        "坏ASR伪口语",
+        "中英噪声夹杂"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "我 the",
+          "note": "我the"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "处理 and the content",
+          "note": "处理and"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "转录严重损坏：同一词百次级复读、语义不可连，导致多数字段只能做残片推断。",
+      "patterns": [
+        "ASR复读灾",
+        "语义链断裂",
+        "字段可析度极低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "她是她是她是她是她是她是她",
+          "note": "她是狂复"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "把手指头发动",
+          "note": "发动狂复"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "是",
+          "note": "是狂复"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "残存「最难的点→怎么拆→一开始方案」显示试错思维轮廓，细节丢失。",
+      "patterns": [
+        "难点定位残",
+        "一开始试错残"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "最难的点",
+          "note": "难点"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "怎么拆"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "一开始",
+          "note": "一开始"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "第一人称工艺独白，假定观众跟看制作；噪声使定位几乎失效。",
+      "patterns": [
+        "跟看制作独白",
+        "噪声致定位失效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那是我的第一次",
+          "note": "第一人称"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "这一步对人的方向",
+          "note": "对人的方向"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "仅「小钢片」「手心捏纸」「锋利」等残锚，缺完整尺寸/节拍/良率数字。",
+      "patterns": [
+        "小钢片锚",
+        "捏纸动作锚",
+        "锋利失败锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s60",
+          "snippet": "把一个小钢片",
+          "note": "小钢片"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "捏纸"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "会提不到锋利",
+          "note": "锋利"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场近零密噪声→中段难点问短暂抬升→手捏段半密→处理/是循环归零。",
+      "patterns": [
+        "噪声近零",
+        "难点短暂升",
+        "手捏半密",
+        "循环归零"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "我认为",
+          "note": "噪声零"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "问升"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "半密"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "处理",
+          "note": "归零"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "有效短问后接失败描述，随即被同句复读打断，流动被机械循环替换。",
+      "patterns": [
+        "短问+失败",
+        "复读打断流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "短问"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "会提不到锋利",
+          "note": "失败"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "把手指头发动",
+          "note": "复读断"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "何同学式制作Vlog人格被ASR严重遮罩，仅残留「第一次/最难点」创作者口吻碎片。",
+      "patterns": [
+        "制作Vlog碎片",
+        "人格被噪声遮罩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "那是我的第一次",
+          "note": "第一次"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "最难的点",
+          "note": "最难点"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "可记残片仅「最难的点」「拆到锋里」「手心捏纸」；无完整金句。",
+      "patterns": [
+        "最难点残句",
+        "拆到锋里",
+        "手心捏纸"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "最难的点",
+          "note": "最难点"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "拆到这个锋里呢",
+          "note": "拆到锋"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "丑出的方法就是用手心心的捏纸",
+          "note": "捏纸"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "REJECT",
+      "reason": "转录损坏导致叙事与证据链不可用，无法安全迁移到观宇脚本。",
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "她是她是她是她是她是她是她",
+          "note": "复读灾"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "处理",
+          "note": "处理循环"
+        },
+        {
+          "sentence_id": "s118",
+          "snippet": "是",
+          "note": "无收束"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s19",
+    "s21",
+    "s26",
+    "s64",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116",
+    "s117",
+    "s118"
+  ],
+  "fields_complete_25": true
+}

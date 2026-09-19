@@ -1,0 +1,1500 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_SyTFGv3J03Q",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=SyTFGv3J03Q",
+  "source_sha256": "d1b8658e47545a7899b69c216fad0eb2adda3c185d29d40e26317b6b35a649b0",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "每回合"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "每回合"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 3,
+      "snippet": "每回合"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 3,
+      "snippet": "每回合"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 3,
+      "snippet": "这回合"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 3,
+      "snippet": "每回合"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 3,
+      "snippet": "这回合"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 3,
+      "snippet": "这回合"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 3,
+      "snippet": "这回合"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 3,
+      "snippet": "这回合"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "而在和平年代"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 2,
+      "snippet": "实际"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "实世焦虑的经典代表"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "就是善满特"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 15,
+      "snippet": "突然干在宗教生活的基本形式中说"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "而一世至于分类的作用"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 15,
+      "snippet": "首先在于提高某一类别的进入难度"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "你进入善满特群体"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 6,
+      "snippet": "应该活得出去"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "你得做头发"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 6,
+      "snippet": "你得加入家族"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "你得会用火星文"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "善满特别的一套东西"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "就大家制定的特殊的规定"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "确定的分类编辑"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 5,
+      "snippet": "在民族意识"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "种族意识"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "另一世学院意识之外"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "形成一个新的y识"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 7,
+      "snippet": "从而满足失去教"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 5,
+      "snippet": "面来的分类"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 6,
+      "snippet": "但也很稀緒了"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 15,
+      "snippet": "以部分人因為失去教育成為上萬特"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 10,
+      "snippet": "以部分人因為失去教育"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "而成為獵殺上萬特的意外"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 9,
+      "snippet": "最終杉弱都被打破了"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 5,
+      "snippet": "因為互聯網"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 9,
+      "snippet": "我改成了范愁小文化"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "如果要叫青魯抽象"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 17,
+      "snippet": "那孤如还得从1%生三、三成万物所起"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 11,
+      "snippet": "那互联网的1%是什么呢"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 15,
+      "snippet": "时间收了很多次的互联网技术建设"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 6,
+      "snippet": "这些是没错的"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "互联网的发展"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "就是产生了论坛"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 7,
+      "snippet": "产生了突温平台"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 12,
+      "snippet": "后来产生了视频和直播平台"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 6,
+      "snippet": "当然在我眼里"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 9,
+      "snippet": "互联网的1%是什么"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 3,
+      "snippet": "是T8"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 4,
+      "snippet": "而第二点"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 12,
+      "snippet": "李干继续利用空机这个套路"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 8,
+      "snippet": "比如嘴臭叠动选手"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 7,
+      "snippet": "挑起地独泡等等"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 5,
+      "snippet": "来挑斗观众"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 13,
+      "snippet": "或者说引导观众中的不同群体"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 6,
+      "snippet": "进行友好互动"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 3,
+      "snippet": "第三点"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 11,
+      "snippet": "则是李干把一个直播套路"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 11,
+      "snippet": "在那个红方时代发言逛大"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 7,
+      "snippet": "就是查方女主播"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 11,
+      "snippet": "集体其他主播房电刷弹幕"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 6,
+      "snippet": "各种嘴臭攻击"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 5,
+      "snippet": "物如和调砍"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 10,
+      "snippet": "说话独自是主播重口房"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 4,
+      "snippet": "而这一点"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 7,
+      "snippet": "在现在的直播中"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 16,
+      "snippet": "查方已经减化为温和的流量书存机制"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 11,
+      "snippet": "没有了到年内分血型之气"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 7,
+      "snippet": "产到甜头的抵干"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 6,
+      "snippet": "动了更多性似"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 11,
+      "snippet": "一方面是解放自己的时间"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 11,
+      "snippet": "跟一方面是想更多的恰乌"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 8,
+      "snippet": "比干在15年9月"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 7,
+      "snippet": "成立抽象工作室"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 13,
+      "snippet": "招勿了几个直播员来帮她直播"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 14,
+      "snippet": "一方面是直播停在生物上时间算"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "李干希望用倒班制"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 10,
+      "snippet": "让刘散尔斯这个直播间"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 9,
+      "snippet": "二四也要是不断直播"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 4,
+      "snippet": "另一方面"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 5,
+      "snippet": "诸大家所说"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 6,
+      "snippet": "李干是调烂狗"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 9,
+      "snippet": "通过其他直播原北马"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 9,
+      "snippet": "来或计收益和影响力"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 7,
+      "snippet": "在一些直播原中"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 7,
+      "snippet": "有一个叫孙小川"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 9,
+      "snippet": "也是李干的通常好友"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 6,
+      "snippet": "是不知这个人"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 9,
+      "snippet": "成为后面的故事主角"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 9,
+      "snippet": "那在直播这个场景下"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 11,
+      "snippet": "平台工都的是才盼的身份"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 7,
+      "snippet": "离干自然也知道"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 5,
+      "snippet": "人在无言下"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 10,
+      "snippet": "不得不低头的基本逻辑"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 7,
+      "snippet": "并用他这个粉丝"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 6,
+      "snippet": "讯息的特殊性"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 5,
+      "snippet": "是无发给他"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 4,
+      "snippet": "带来广告"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 6,
+      "snippet": "和带言受入的"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 4,
+      "snippet": "而他自己"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 6,
+      "snippet": "并不及被购用"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 3,
+      "snippet": "链能力"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 5,
+      "snippet": "就算有购用"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 3,
+      "snippet": "链能力"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 8,
+      "snippet": "我也不觉得他带货"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 2,
+      "snippet": "能用"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 5,
+      "snippet": "多大水会儿"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 5,
+      "snippet": "所以离干在"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 2,
+      "snippet": "往上"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 5,
+      "snippet": "这条菜道上"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 3,
+      "snippet": "唯一收"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 6,
+      "snippet": "收到平台工资"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 3,
+      "snippet": "也就是"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 3,
+      "snippet": "上面说"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 6,
+      "snippet": "那个平台合约"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 4,
+      "snippet": "所以离干"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 5,
+      "snippet": "口中的前途"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 5,
+      "snippet": "也就是前途"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 6,
+      "snippet": "大部分是平台"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "“每回合”噪声后切入和平年代世俗焦虑代表=杀马特，用涂尔干分类门槛起论。",
+      "patterns": [
+        "噪声残段后入题",
+        "焦虑代表定位",
+        "分类门槛起论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "每回合噪声"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "就是善满特",
+          "note": "就是杀马特"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "首先在于提高某一类别的进入难度",
+          "note": "提高进入难度"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "杀马特靠发型家族火星文设门槛→失教造就拥趸与猎杀者→互联网打破→抽象源于直播1%→李赣套路工作室→前途系于平台。",
+      "patterns": [
+        "门槛分类",
+        "失教双分叉",
+        "互联网打破",
+        "直播抽象起源",
+        "平台依附收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "做头发"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "以部分人因為失去教育成為上萬特",
+          "note": "失教成杀马特"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "因為互聯網",
+          "note": "因为互联网"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "是T8"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "大部分是平台"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "每回合噪声开场残段",
+          "note": "ASR噪声"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "杀马特门槛分类与互联网打破",
+          "note": "杀马特机制"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "转向抽象文化与互联网1%",
+          "note": "抽象起源过渡"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s114",
+            "s115",
+            "s116",
+            "s117",
+            "s118",
+            "s119",
+            "s120",
+            "s121",
+            "s122",
+            "s123",
+            "s124",
+            "s125",
+            "s126",
+            "s127",
+            "s128",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153"
+          ],
+          "function": "李赣套路工作室与孙笑川伏笔",
+          "note": "抽象产业化"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251",
+            "s252",
+            "s253",
+            "s254",
+            "s255",
+            "s256",
+            "s257",
+            "s258",
+            "s259",
+            "s260",
+            "s261",
+            "s262",
+            "s263",
+            "s264",
+            "s265",
+            "s266"
+          ],
+          "function": "平台劳资关系与前途=平台",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "而在和平年代/如果要叫…还得从/当然在我眼里/而第二点/第三点/所以李赣在。",
+      "patterns": [
+        "而在切换",
+        "如果要叫追溯",
+        "第二点第三点",
+        "所以收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "而在和平年代",
+          "note": "而在和平年代"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "如果要叫青魯抽象",
+          "note": "如果要叫抽象"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "而第二点",
+          "note": "而第二点"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "所以离干在",
+          "note": "所以离干在"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "进入门槛仪式vs猎杀意外；早期查房血气vs今日温和流量机制；粉丝可变现vs本人带货不行。",
+      "patterns": [
+        "门槛vs猎杀",
+        "血气查房vs温和机制",
+        "粉丝变现vs带货不能"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "你进入善满特群体",
+          "note": "进入群体"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "而成為獵殺上萬特的意外",
+          "note": "猎杀意外"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "查方已经减化为温和的流量书存机制",
+          "note": "减化为温和"
+        },
+        {
+          "sentence_id": "s252",
+          "snippet": "我也不觉得他带货",
+          "note": "带货不能"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "“互联网的1%是什么呢”自问自答，把技术史回答推翻为T8/直播间。",
+      "patterns": [
+        "1%自问",
+        "自答推翻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "那互联网的1%是什么呢",
+          "note": "1%是什么呢"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "互联网的1%是什么",
+          "note": "在我眼里1%"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "是T8"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "做头发/家族/火星文门槛；嘴臭叠选手挑地域；查房刷弹幕；2015抽象工作室倒班；孙笑川伏笔。",
+      "patterns": [
+        "门槛三项例",
+        "挑斗例",
+        "查房例",
+        "工作室例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "做头发"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "你得会用火星文",
+          "note": "火星文"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "比如嘴臭叠动选手",
+          "note": "嘴臭叠选手"
+        },
+        {
+          "sentence_id": "s138",
+          "snippet": "成立抽象工作室",
+          "note": "抽象工作室"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "有一个叫孙小川",
+          "note": "孙小川"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "分类门槛落到发型家族火星文；抽象产业化落到倒班直播间与北漂主播。",
+      "patterns": [
+        "门槛三要件具象",
+        "工作室倒班具象"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "做头发"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "你得加入家族",
+          "note": "加入家族"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "李干希望用倒班制",
+          "note": "倒班制"
+        },
+        {
+          "sentence_id": "s142",
+          "snippet": "让刘散尔斯这个直播间",
+          "note": "直播间"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "“这些是没错的”先让步再夺义；“调烂狗”贬称；“前途也就是前途大部分是平台”冷峭判决。",
+      "patterns": [
+        "让步再夺义",
+        "贬称定性",
+        "平台判决"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "这些是没错的",
+          "note": "这些是没错的"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "李干是调烂狗",
+          "note": "调烂狗"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "大部分是平台"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认技术建设史说法没错，随即改口“在我眼里1%是T8”，完成视角校正。",
+      "patterns": [
+        "先承认再改口",
+        "视角校正"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s43",
+          "snippet": "这些是没错的",
+          "note": "没错的"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "当然在我眼里",
+          "note": "当然在我眼里"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "是T8"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场重复噪声→门槛短句列举加速→1%思辨放慢→三点套路中速→平台段碎句收。",
+      "patterns": [
+        "噪声重复",
+        "短句门槛",
+        "思辨放慢",
+        "碎句收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "重复噪声"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "短句门槛"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "互联网的1%是什么",
+          "note": "思辨"
+        },
+        {
+          "sentence_id": "s258",
+          "snippet": "唯一收",
+          "note": "碎句"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "filler_repeat",
+          "form": "每回合"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "这回合"
+        },
+        {
+          "type": "discourse",
+          "form": "当然在我眼里"
+        },
+        {
+          "type": "repair",
+          "form": "实际/实世"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "每回合填充"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "这回合",
+          "note": "这回合"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "当然在我眼里",
+          "note": "当然在我眼里"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "实际",
+          "note": "实际修补"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "噪声冷场→结构分析冷峭→抽象起源兴味→套路段戏谑→平台前途苍凉。",
+      "patterns": [
+        "冷场",
+        "冷峭分析",
+        "兴味",
+        "戏谑",
+        "苍凉"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "就是善满特",
+          "note": "入题"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "兴味T8"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "李干是调烂狗",
+          "note": "戏谑"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "苍凉平台"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "以“口中的前途=平台合约”收束抽象网红商业本质，回扣互联网改变分类的主题。",
+      "patterns": [
+        "前途=平台",
+        "回扣互联网主题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s264",
+          "snippet": "口中的前途",
+          "note": "口中的前途"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "大部分是平台"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "因為互聯網",
+          "note": "因为互联网"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "窗口内无明显关注CTA，偏论述收束；孙笑川“后面主角”是预告钩。",
+      "patterns": [
+        "伏笔预告钩",
+        "无硬关注CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s152",
+          "snippet": "是不知这个人",
+          "note": "不知此人"
+        },
+        {
+          "sentence_id": "s153",
+          "snippet": "成为后面的故事主角",
+          "note": "后面主角"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR口吃重复、T8黑话、调烂狗、恰烂钱口吻，亚文化现场感强。",
+      "patterns": [
+        "ASR重复",
+        "T8黑话",
+        "调烂狗口吻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "重复"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "T8"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "李干是调烂狗",
+          "note": "调烂狗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重失真（善满特/离干/查方）；开场“每回合”空洞；论点跳跃依赖听众先验。",
+      "patterns": [
+        "ASR失真",
+        "开场空洞",
+        "先验依赖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "就是善满特",
+          "note": "善满特失真"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "空洞重复"
+        },
+        {
+          "sentence_id": "s255",
+          "snippet": "所以离干在",
+          "note": "离干失真"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式用分类理论解释门槛，再自问互联网1%并给出非主流答案T8。",
+      "patterns": [
+        "分类理论演绎",
+        "1%自问自答"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先在于提高某一类别的进入难度",
+          "note": "分类作用"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "那互联网的1%是什么呢",
+          "note": "1%自问"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "T8答案"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "你进入…你得…；诸大家所说；把观众当懂梗亚文化观察者。",
+      "patterns": [
+        "你得门槛第二人称",
+        "诸大家所说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "你进入善满特群体",
+          "note": "你进入"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "你得做头发"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "诸大家所说",
+          "note": "诸大家所说"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "发型/家族/火星文、T8、2015抽象工作室、刘易斯直播间、孙笑川、平台合约。",
+      "patterns": [
+        "门槛三件",
+        "T8",
+        "工作室年份",
+        "平台合约"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你得会用火星文",
+          "note": "火星文"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "T8"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "比干在15年9月",
+          "note": "15年9月"
+        },
+        {
+          "sentence_id": "s262",
+          "snippet": "那个平台合约",
+          "note": "平台合约"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场稀（噪声）→门槛中密→1%思辨中密→套路点列高密→平台段碎且稀。",
+      "patterns": [
+        "噪声稀",
+        "门槛中密",
+        "套路高密",
+        "平台碎稀"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "稀"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "你得做头发",
+          "note": "中密"
+        },
+        {
+          "sentence_id": "s122",
+          "snippet": "则是李干把一个直播套路",
+          "note": "套路密"
+        },
+        {
+          "sentence_id": "s256",
+          "snippet": "往上",
+          "note": "碎稀"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "噪声→杀马特分类→互联网打断→抽象1%→李赣三点套路→工作室人物→平台前途。",
+      "patterns": [
+        "分类到打断",
+        "1%到套路",
+        "人物到平台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先在于提高某一类别的进入难度",
+          "note": "分类"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "我改成了范愁小文化",
+          "note": "改成抽象"
+        },
+        {
+          "sentence_id": "s138",
+          "snippet": "成立抽象工作室",
+          "note": "工作室"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "平台"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "巫师式亚文化史论：冷峭升维、爱用理论词、结尾把网红前途钉死在平台。",
+      "patterns": [
+        "冷峭升维",
+        "理论词",
+        "钉死平台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先在于提高某一类别的进入难度",
+          "note": "分类理论"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "非主流1%"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "钉死平台"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "门槛三件套、互联网1%=T8、查房变流量机制、前途大部分是平台。",
+      "patterns": [
+        "门槛三件",
+        "1%=T8",
+        "查房演化",
+        "前途=平台"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "你得会用火星文",
+          "note": "火星文"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "T8"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "查方已经减化为温和的流量书存机制",
+          "note": "温和机制"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "平台"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "门槛分类→互联网改写→平台依附链条可迁到观屿亚文化评论，但需重做口播降噪并校正专名。",
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "首先在于提高某一类别的进入难度",
+          "note": "分类框架可迁"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "是T8",
+          "note": "1%反转可迁"
+        },
+        {
+          "sentence_id": "s266",
+          "snippet": "大部分是平台",
+          "note": "平台依附可迁"
+        },
+        {
+          "sentence_id": "s1",
+          "snippet": "每回合",
+          "note": "噪声需弃用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s14",
+    "s17",
+    "s20",
+    "s33",
+    "s37",
+    "s50",
+    "s266",
+    "s11",
+    "s39",
+    "s114",
+    "s255",
+    "s18",
+    "s35",
+    "s131",
+    "s252",
+    "s41",
+    "s49",
+    "s22",
+    "s116",
+    "s138",
+    "s150",
+    "s21",
+    "s141",
+    "s142",
+    "s43",
+    "s146",
+    "s48",
+    "s258",
+    "s5",
+    "s12",
+    "s264",
+    "s152",
+    "s153",
+    "s145",
+    "s137",
+    "s262",
+    "s122",
+    "s256",
+    "s38"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,712 @@
+{
+  "creator_id": "wushi_caijing",
+  "work_id": "wushi_caijing__yt_2oFB24-8_X4",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=2oFB24-8_X4",
+  "source_sha256": "c530d158069404e063e04d1fd86b46ea8da266060955d44140f782403e34d4d4",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 104,
+  "fields": {
+    "opening_move": {
+      "summary": "从网红合作带股价涨停切入，立刻抛出傻子共识也是共识，再反转靠业绩说话。",
+      "patterns": [
+        "股价涨停钩子",
+        "共识金句后业绩反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "此后股价一路上涨最终掌听",
+          "note": "股价上涨涨停"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "傻子共识"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "还要靠夜级说话",
+          "note": "靠业绩说话"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "网红能炒作股价但救不了业绩，新华传媒ST收场；Olay价格事件显品牌与主播目的冲突；再切到09电竞商业化缺位。",
+      "patterns": [
+        "市值刺激不等于业绩拯救",
+        "品牌目标不等于主播目标",
+        "电竞选手商业化觉醒迟"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "救不了业绩"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "新闻化便公为ST新闻",
+          "note": "ST新华"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "来自于其目的的不同",
+          "note": "目的不同"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "还没有意识到其他重要性",
+          "note": "没意识到重要性"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s6",
+            "s8",
+            "s9",
+            "s13",
+            "s15",
+            "s16"
+          ],
+          "function": "网红合作炒作股价与监管提示",
+          "note": "换手率与关注函"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s25",
+            "s27",
+            "s28",
+            "s30",
+            "s36"
+          ],
+          "function": "共识涨股价但业绩寒冬走向ST",
+          "note": "金句后证伪"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s55",
+            "s58",
+            "s59"
+          ],
+          "function": "Olay事件：价差投诉与解约，拆目的冲突",
+          "note": "品牌清库存逻辑"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s74",
+            "s76",
+            "s77",
+            "s81",
+            "s83"
+          ],
+          "function": "09世界冠军到账注冲突，商业化问题首次摆上台面",
+          "note": "系列人物切换"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s87",
+            "s88",
+            "s89",
+            "s99",
+            "s100",
+            "s101",
+            "s104"
+          ],
+          "function": "流量变现：淘宝店与肉松饼梗",
+          "note": "轻商业门坎例"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "还是那句话引出金句；也就是Olay事件切案例；朋友们上面说的汇总。",
+      "patterns": [
+        "还是那句话复用",
+        "也就是切案例",
+        "朋友们汇总"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "还是那句话",
+          "note": "还是那句话"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "也就是二一年四级读",
+          "note": "也就是Olay"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "朋友们上面说的几个",
+          "note": "朋友们上面说的"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "共识上涨对比业绩下跌；网红抬股价对比救不了基本面；品牌清仓对比主播口碑。",
+      "patterns": [
+        "共识对比业绩",
+        "市值刺激对比基本面",
+        "品牌目标对比主播目标"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "只要有共识就能股家上涨",
+          "note": "共识上涨"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "救不了业绩"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "来自于其目的的不同",
+          "note": "目的不同"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "本段少用直问，更多用断言后留这部分之后细讲悬置。",
+      "patterns": [
+        "后话悬置代替提问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "这部分等之后说到自己的时候的细节",
+          "note": "等之后说到自己时"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "新华传媒涨停到ST、Olay价差、09 TI冠军、肉松饼电商店为串联例。",
+      "patterns": [
+        "上市公司ST例",
+        "直播价差例",
+        "电竞冠军例",
+        "带货梗例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "新闻化便公为ST新闻",
+          "note": "ST新华"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "Olayer事件",
+          "note": "Olay事件"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "刀塔基因总绝赛中互的冠军",
+          "note": "刀塔冠军"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "而店里最伙伴的视频之一就是肉松兵",
+          "note": "肉松饼"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "傻子共识抽象法则立刻落到新华传媒涨停数字与ST结果。",
+      "patterns": [
+        "共识法则到具体股票结局"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "共识法则"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "换手率高达本人7.3次",
+          "note": "换手率7.3次"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "新闻化便公为ST新闻",
+          "note": "ST结果"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "傻子们的共识也是共识辛辣；就已经很不错了降低对网红资本的期待。",
+      "patterns": [
+        "辛辣共识判断",
+        "降低期待判断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "傻子共识"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "就已经很不错了",
+          "note": "就已经很不错了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先承认炒作有效，再补但要靠业绩自我补全；对09资料源作推荐纠偏。",
+      "patterns": [
+        "有效后补业绩条件",
+        "资料源推荐纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "只要有共识就能股家上涨",
+          "note": "共识能涨"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "还要靠夜级说话",
+          "note": "还要靠业绩"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "那我不推荐你去09的主业力去找",
+          "note": "不推荐去09主页"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "行情叙述快，金句停顿，寒冬下行，Olay冲突加快，09段落放慢讲觉醒。",
+      "patterns": [
+        "金句停顿",
+        "冲突加速",
+        "觉醒段放慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "金句"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "并大量投诉",
+          "note": "大量投诉"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "第一次车额摆在09面前",
+          "note": "问题摆在面前"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "PRESENT",
+      "markers": [
+        "还是那句话口头禅",
+        "朋友们称呼",
+        "ASR中英夹杂噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "还是那句话",
+          "note": "口头禅"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "朋友们上面说的几个",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "都开特宝店卖肉松兵 I'm not a fan of the company's",
+          "note": "中英夹杂"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "行情兴奋，冷嘲共识，寒冬无奈，Olay冲突紧张，09段同情调侃。",
+      "patterns": [
+        "兴奋到冷嘲到无奈到紧张到调侃"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "此后股价一路上涨最终掌听",
+          "note": "上涨兴奋"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "冷嘲"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "新闻化便公为ST新闻",
+          "note": "ST无奈"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "而这个肉松兵也成了一个梗 Commission",
+          "note": "肉松饼梗"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用肉松饼梗轻收09流量变现门坎，呼应前文因为有流量就开始演化。",
+      "patterns": [
+        "梗收束商业化门坎"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s92",
+          "snippet": "因为有流量",
+          "note": "因为有流量"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "而这个肉松兵也成了一个梗 Commission",
+          "note": "肉松饼梗"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无强CTA；不推荐与我推荐资料指引带一点导流感。",
+      "patterns": [
+        "资料推荐弱CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s84",
+          "snippet": "那我不推荐你去09的主业力去找",
+          "note": "不推荐"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我可能会推荐伊利沙外",
+          "note": "推荐别处"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "傻子共识金句、朋友们称呼、肉松饼梗，网感强。",
+      "patterns": [
+        "辛辣金句",
+        "朋友们称呼",
+        "梗收尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "傻子共识"
+        },
+        {
+          "sentence_id": "s90",
+          "snippet": "朋友们上面说的几个",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "而这个肉松兵也成了一个梗 Commission",
+          "note": "梗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "开场与多处ASR严重损坏；09段落与李佳琦段落切换突兀；英文残留。",
+      "patterns": [
+        "开场乱码",
+        "主题硬切",
+        "英文残留"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "� at 和今次和腿合作",
+          "note": "开场乱码"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "不受担对在SM世界",
+          "note": "突然刀塔"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "第一� because of高",
+          "note": "英文残留"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "把共识能涨想法说完再自己补刀业绩；公开资料源选择偏好。",
+      "patterns": [
+        "想法说出再补刀",
+        "资料偏好外化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "共识想法"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "还要靠夜级说话",
+          "note": "补刀业绩"
+        },
+        {
+          "sentence_id": "s85",
+          "snippet": "我可能会推荐伊利沙外",
+          "note": "推荐偏好"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把听众当易被网红概念股刺激的散户，用ST与价差打醒。",
+      "patterns": [
+        "敲打概念股听众"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "并向偷自者充分提示风险",
+          "note": "向投资者提示风险"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "救不了业绩"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "换手率7.3次、4月29日ST、2021年四季度Olay、肉松饼店。",
+      "patterns": [
+        "交易数据锚",
+        "监管日期锚",
+        "事件季度锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "换手率高达本人7.3次",
+          "note": "换手率"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "公司自4月29日起",
+          "note": "4月29日"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "也就是二一年四级读",
+          "note": "21年四季度"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "行情数字中密，金句低密高冲击，ST段中密，Olay细节高密，09前半叙事中密，带货梗低密。",
+      "patterns": [
+        "Olay细节峰",
+        "金句冲击亮点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "换手率高达本人7.3次",
+          "note": "行情数字"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "用上折扣价格要高",
+          "note": "价差细节"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "而这个肉松兵也成了一个梗 Commission",
+          "note": "梗低密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "炒作行情到共识法则到业绩证伪到ST到品牌冲突案例到人物线切换09到轻商业梗。",
+      "patterns": [
+        "法则证伪案例切线"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "法则"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "证伪"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "Olayer事件",
+          "note": "案例"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "嘲散户共识又承认其有效的矛盾巫师：既犬儒又讲基本面。",
+      "patterns": [
+        "犬儒金句加基本面补丁"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "犬儒"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "还要靠夜级说话",
+          "note": "基本面"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "傻子们的共识也是共识；救不了公司的业绩；肉松饼梗。",
+      "patterns": [
+        "共识金句",
+        "救不了业绩",
+        "肉松饼"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "共识金句"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "救不了业绩"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "而这个肉松兵也成了一个梗 Commission",
+          "note": "肉松饼"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "共识涨股价不等于救业绩论证链可迁到观屿，但需重录清洗ASR并理顺李佳琦与09双线切换。",
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "傻子们的共识也而共识",
+          "note": "共识金句可迁"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "但救不了公司的夜级",
+          "note": "业绩证伪可迁"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "来自于其目的的不同",
+          "note": "目的冲突可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s18",
+    "s21",
+    "s30",
+    "s36",
+    "s58",
+    "s77",
+    "s1",
+    "s3",
+    "s6",
+    "s8",
+    "s9",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s25",
+    "s27",
+    "s28",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s55",
+    "s59",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s74",
+    "s76",
+    "s81",
+    "s83",
+    "s87",
+    "s88",
+    "s89",
+    "s99",
+    "s100",
+    "s101",
+    "s104",
+    "s90",
+    "s86",
+    "s39",
+    "s84",
+    "s92",
+    "s85",
+    "s97",
+    "s33"
+  ],
+  "fields_complete_25": true
+}

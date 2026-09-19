@@ -1,0 +1,3167 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_EfJK3EJP4Yc",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=EfJK3EJP4Yc",
+  "source_sha256": "05cca1273398da7aa84b315ecc873c893fdb67daafed4d15d8eef052e2d2b279",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 440,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 10,
+      "snippet": "我发现大家对这个爆雷"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "就是热情非常高涨"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 8,
+      "snippet": "咱之前聊韩国那期"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 12,
+      "snippet": "不是讲到韩国全租房爆雷嘛"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "都强烈要求我再仔细讲一讲"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 11,
+      "snippet": "咱今天就详细说说这个事"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 4,
+      "snippet": "最近国内"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "不也是房地产市场"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "风起云涌 新闻不断"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 11,
+      "snippet": "别急 我们下一期安排上"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 6,
+      "snippet": "这韩国的房价"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 6,
+      "snippet": "是从1997"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "年亚洲金融危机时候"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 7,
+      "snippet": "开始就持续上涨"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 11,
+      "snippet": "你想韩国五分之一的人口"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 13,
+      "snippet": "都挤在首尔那么一个城市里头"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 9,
+      "snippet": "那房价涨得就更猛了"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 13,
+      "snippet": "所以韩国的上一任总统文在寅"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "他在上任的时候就立下了豪言"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 7,
+      "snippet": "说一定要抑制住"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "韩国的房地产泡沫"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "可是你猜怎么着"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 10,
+      "snippet": "虽然他确确实实出台了"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 10,
+      "snippet": "25次抑制房价的政策"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "比如说收紧房贷"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "高端房产压根就不让你贷款"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 7,
+      "snippet": "提高房产税等等"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 9,
+      "snippet": "可是房价就是摁不住"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 8,
+      "snippet": "反倒在他的任期内"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "长得是最猛的"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 12,
+      "snippet": "搞得文在寅着实是非常丢人"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "就在他任期快结束的时候"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 4,
+      "snippet": "非常无奈"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 9,
+      "snippet": "已经开始自我检讨了"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 7,
+      "snippet": "就说我真的已经"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 7,
+      "snippet": "因为房地产的事"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 10,
+      "snippet": "跟大家道过好多次歉了"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 6,
+      "snippet": "但是我今天还"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "那你说为什么韩国的房价"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 11,
+      "snippet": "这两年就怎么摁都摁不住"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 7,
+      "snippet": "反而涨得更猛呢"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 5,
+      "snippet": "这就要说到"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "韩国独有的这个租房制度"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 12,
+      "snippet": "在韩国大概有60%的房子"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "都是以这种形式出租的"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 9,
+      "snippet": "全租房是怎么回事呢"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "它的规则其实很简单"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 10,
+      "snippet": "我们一般是按月租房子"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 13,
+      "snippet": "就比如说一个200万的房子"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 5,
+      "snippet": "我们按月交"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 11,
+      "snippet": "比如说租金5000块钱"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 8,
+      "snippet": "在全租房的模式下"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "你一分钱都不用交"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 5,
+      "snippet": "可以免费住"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 12,
+      "snippet": "但是你得给房东来交个押金"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 9,
+      "snippet": "这个押金其实非常多"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 5,
+      "snippet": "大概能占到"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 10,
+      "snippet": "房价的50%到80%"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 8,
+      "snippet": "也就是说你一开始"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "就得押120万"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 6,
+      "snippet": "押在房东那儿"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "之后你租房期间呢"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 11,
+      "snippet": "你也不用再给房东付房租"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "然后房东"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 10,
+      "snippet": "也不会因为你交了押金"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "要给你付利息"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 5,
+      "snippet": "到两年之后"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 8,
+      "snippet": "房东把那120万"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "如数全都还给你"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 12,
+      "snippet": "你们俩这个租约就算完事了"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 3,
+      "snippet": "说到儿"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 10,
+      "snippet": "肯定有人就要有疑问了"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 10,
+      "snippet": "你说我都有120万了"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 7,
+      "snippet": "那我买房不香吗"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 7,
+      "snippet": "当然大多数租客"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 9,
+      "snippet": "肯定没有那120万"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 11,
+      "snippet": "这个钱其实他找银行借的"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 13,
+      "snippet": "而银行借给你120万的贷款"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 7,
+      "snippet": "比如说利率4%"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 11,
+      "snippet": "那你其实每个月只要支付"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 11,
+      "snippet": "大概4000块钱的利息"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 4,
+      "snippet": "就能住在"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 12,
+      "snippet": "这个价值200万的房子里"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 5,
+      "snippet": "正常情况下"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 6,
+      "snippet": "这房子一个月"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 9,
+      "snippet": "可是租5000块钱"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 12,
+      "snippet": "那不就省了1000块钱吗"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 8,
+      "snippet": "那有朋友就要问了"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 11,
+      "snippet": "我都能贷到这120万了"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 11,
+      "snippet": "我为什么不贷款买房子呢"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 11,
+      "snippet": "注意 这时候这120万"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 12,
+      "snippet": "它只是两年的一个短期贷款"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 11,
+      "snippet": "而我们买房子大家都知道"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 3,
+      "snippet": "可能是"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 12,
+      "snippet": "10年 20年 30年的"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 3,
+      "snippet": "长期贷"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 8,
+      "snippet": "很多年轻人哪愿意"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 13,
+      "snippet": "背上这么重的房贷负担去买房"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 8,
+      "snippet": "所以他们才选择了"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 6,
+      "snippet": "全租房的模式"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 6,
+      "snippet": "这也是为什么"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 12,
+      "snippet": "在韩国20多岁年轻人里边"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 13,
+      "snippet": "这种全租房模式是最受欢迎的"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 12,
+      "snippet": "你看韩国国民的住房持有率"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 4,
+      "snippet": "是56%"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 12,
+      "snippet": "而这个数字在中国是90%"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 4,
+      "snippet": "也就是说"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 11,
+      "snippet": "韩国只有一半多一点的人"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 7,
+      "snippet": "是有自己的房子"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 7,
+      "snippet": "剩下全都是租房"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 11,
+      "snippet": "这里边很重要的一个原因"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 12,
+      "snippet": "就是因为在低利率的环境下"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 13,
+      "snippet": "这个全租房模式实在是太爽了"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 11,
+      "snippet": "你看咱经过缜密地一分析"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 12,
+      "snippet": "租客肯定是更喜欢全租房的"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "那银行呢 对吧"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 10,
+      "snippet": "我能给租客多贷一次款"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 10,
+      "snippet": "业务更多 那当然开心"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 12,
+      "snippet": "所以银行也很喜欢这种模式"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 6,
+      "snippet": "你是不是想说"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 13,
+      "snippet": "这么折腾一趟意义到底在哪呢"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 12,
+      "snippet": "你看租客找银行贷款给房东"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 12,
+      "snippet": "房东拿到钱以后再存回银行"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 2,
+      "snippet": "玩呢"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 13,
+      "snippet": "房东拿着钱肯定不是存银行了"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 11,
+      "snippet": "他得拿这120万去投资"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 6,
+      "snippet": "这投资回报率"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 7,
+      "snippet": "他指望着肯定得"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 11,
+      "snippet": "比那5000块钱租金高"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 3,
+      "snippet": "投股票"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 13,
+      "snippet": "韩国的股市虽然也是震荡上涨"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 12,
+      "snippet": "但是那回报率还不如存银行"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 8,
+      "snippet": "而且风险也太大了"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 5,
+      "snippet": "所以这里边"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 10,
+      "snippet": "其实最主要的投资方式"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 5,
+      "snippet": "还是去炒房"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 13,
+      "snippet": "你想如果一套200万的房子"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 5,
+      "snippet": "首付30%"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 10,
+      "snippet": "那就是说你要花60万"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 2,
+      "snippet": "然后"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 12,
+      "snippet": "你这全租房的方式一租出去"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 8,
+      "snippet": "立刻回笼120万"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 6,
+      "snippet": "这相当于什么"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 7,
+      "snippet": "就你买了套房子"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 6,
+      "snippet": "还多了60万"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 7,
+      "snippet": "当然你得还房贷"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 8,
+      "snippet": "那这简直就是一个"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 14,
+      "snippet": "现金流管理的大bug 对不对"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 5,
+      "snippet": "所以理论上"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 10,
+      "snippet": "只要你能保证这个房子"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 5,
+      "snippet": "一直租出去"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 8,
+      "snippet": "而且房价一直在涨"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 9,
+      "snippet": "那你就可以循环往复"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 8,
+      "snippet": "就把韩国所有房子"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 6,
+      "snippet": "全都给买下来"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 12,
+      "snippet": "事实上韩国确实有这么一个"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 9,
+      "snippet": "特别有名的叫金先生"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 4,
+      "snippet": "他在首尔"
+    },
+    {
+      "sentence_id": "s159",
+      "char_len": 10,
+      "snippet": "买了一共1139套房"
+    },
+    {
+      "sentence_id": "s160",
+      "char_len": 12,
+      "snippet": "就被媒体戏称叫做公寓大王"
+    },
+    {
+      "sentence_id": "s161",
+      "char_len": 12,
+      "snippet": "合着这么一套全租房的模式"
+    },
+    {
+      "sentence_id": "s162",
+      "char_len": 3,
+      "snippet": "它其实"
+    },
+    {
+      "sentence_id": "s163",
+      "char_len": 11,
+      "snippet": "没有产生什么实际的价值"
+    },
+    {
+      "sentence_id": "s164",
+      "char_len": 7,
+      "snippet": "那这么一圈下来"
+    },
+    {
+      "sentence_id": "s165",
+      "char_len": 8,
+      "snippet": "租客 房东 银行"
+    },
+    {
+      "sentence_id": "s166",
+      "char_len": 6,
+      "snippet": "全都不高兴了"
+    },
+    {
+      "sentence_id": "s167",
+      "char_len": 11,
+      "snippet": "这怎么听也不合理 对吧"
+    },
+    {
+      "sentence_id": "s168",
+      "char_len": 9,
+      "snippet": "它不符合经济学原理"
+    },
+    {
+      "sentence_id": "s169",
+      "char_len": 10,
+      "snippet": "但是问题到底出在哪呢"
+    },
+    {
+      "sentence_id": "s170",
+      "char_len": 8,
+      "snippet": "它底层上这套架构"
+    },
+    {
+      "sentence_id": "s171",
+      "char_len": 7,
+      "snippet": "额外收益的背后"
+    },
+    {
+      "sentence_id": "s172",
+      "char_len": 7,
+      "snippet": "其实是有成本的"
+    },
+    {
+      "sentence_id": "s173",
+      "char_len": 12,
+      "snippet": "这个成本就是它额外的风险"
+    },
+    {
+      "sentence_id": "s174",
+      "char_len": 6,
+      "snippet": "你想这套房子"
+    },
+    {
+      "sentence_id": "s175",
+      "char_len": 10,
+      "snippet": "假设30%首付的时候"
+    },
+    {
+      "sentence_id": "s176",
+      "char_len": 10,
+      "snippet": "它其实就三倍多的杠杆"
+    },
+    {
+      "sentence_id": "s177",
+      "char_len": 11,
+      "snippet": "但你要在全租房的模式下"
+    },
+    {
+      "sentence_id": "s178",
+      "char_len": 11,
+      "snippet": "你就不需要任何初始资金"
+    },
+    {
+      "sentence_id": "s179",
+      "char_len": 10,
+      "snippet": "或者说你这个初始资金"
+    },
+    {
+      "sentence_id": "s180",
+      "char_len": 6,
+      "snippet": "可以立马回笼"
+    },
+    {
+      "sentence_id": "s181",
+      "char_len": 11,
+      "snippet": "那这杠杆就变成无穷大了"
+    },
+    {
+      "sentence_id": "s182",
+      "char_len": 8,
+      "snippet": "所以才有人能买上"
+    },
+    {
+      "sentence_id": "s183",
+      "char_len": 8,
+      "snippet": "成百上千套的房子"
+    },
+    {
+      "sentence_id": "s184",
+      "char_len": 8,
+      "snippet": "这个全租房的模式"
+    },
+    {
+      "sentence_id": "s185",
+      "char_len": 4,
+      "snippet": "它相当于"
+    },
+    {
+      "sentence_id": "s186",
+      "char_len": 13,
+      "snippet": "给韩国上了一个非常大的杠杆"
+    },
+    {
+      "sentence_id": "s187",
+      "char_len": 13,
+      "snippet": "你看韩国的家庭负债比GDP"
+    },
+    {
+      "sentence_id": "s188",
+      "char_len": 7,
+      "snippet": "超过了100%"
+    },
+    {
+      "sentence_id": "s189",
+      "char_len": 3,
+      "snippet": "超过了"
+    },
+    {
+      "sentence_id": "s190",
+      "char_len": 13,
+      "snippet": "包括美国 中国 日本在内的"
+    },
+    {
+      "sentence_id": "s191",
+      "char_len": 11,
+      "snippet": "全球绝大多数主要经济体"
+    },
+    {
+      "sentence_id": "s192",
+      "char_len": 6,
+      "snippet": "而我又找到了"
+    },
+    {
+      "sentence_id": "s193",
+      "char_len": 12,
+      "snippet": "韩国经济研究学院这份报告"
+    },
+    {
+      "sentence_id": "s194",
+      "char_len": 2,
+      "snippet": "它说"
+    },
+    {
+      "sentence_id": "s195",
+      "char_len": 12,
+      "snippet": "要是完全算上全租房的杠杆"
+    },
+    {
+      "sentence_id": "s196",
+      "char_len": 13,
+      "snippet": "这个比例可能会达到157%"
+    },
+    {
+      "sentence_id": "s197",
+      "char_len": 10,
+      "snippet": "那可真就是冠绝全球了"
+    },
+    {
+      "sentence_id": "s198",
+      "char_len": 11,
+      "snippet": "杠杆本身它只能说是干柴"
+    },
+    {
+      "sentence_id": "s199",
+      "char_len": 9,
+      "snippet": "它自己是着不起来的"
+    },
+    {
+      "sentence_id": "s200",
+      "char_len": 8,
+      "snippet": "它还需要一把烈火"
+    },
+    {
+      "sentence_id": "s201",
+      "char_len": 10,
+      "snippet": "而这个烈火就是低利率"
+    },
+    {
+      "sentence_id": "s202",
+      "char_len": 3,
+      "snippet": "你看看"
+    },
+    {
+      "sentence_id": "s203",
+      "char_len": 13,
+      "snippet": "这个是文在寅时期韩国的利率"
+    },
+    {
+      "sentence_id": "s204",
+      "char_len": 9,
+      "snippet": "那你说这房价能不涨"
+    },
+    {
+      "sentence_id": "s205",
+      "char_len": 9,
+      "snippet": "而对于韩国这个烈火"
+    },
+    {
+      "sentence_id": "s206",
+      "char_len": 10,
+      "snippet": "可不只是降息那么一点"
+    },
+    {
+      "sentence_id": "s207",
+      "char_len": 9,
+      "snippet": "2020年之后疫情"
+    },
+    {
+      "sentence_id": "s208",
+      "char_len": 6,
+      "snippet": "全球都大放水"
+    },
+    {
+      "sentence_id": "s209",
+      "char_len": 11,
+      "snippet": "你别看人都被关在家里了"
+    },
+    {
+      "sentence_id": "s210",
+      "char_len": 9,
+      "snippet": "那资本可是在大狂欢"
+    },
+    {
+      "sentence_id": "s211",
+      "char_len": 11,
+      "snippet": "钱也多 韩国出口也旺盛"
+    },
+    {
+      "sentence_id": "s212",
+      "char_len": 11,
+      "snippet": "而疫情又让房屋供给停滞"
+    },
+    {
+      "sentence_id": "s213",
+      "char_len": 8,
+      "snippet": "好家伙 需求旺盛"
+    },
+    {
+      "sentence_id": "s214",
+      "char_len": 5,
+      "snippet": "供给还停滞"
+    },
+    {
+      "sentence_id": "s215",
+      "char_len": 7,
+      "snippet": "那房价自然飞涨"
+    },
+    {
+      "sentence_id": "s216",
+      "char_len": 7,
+      "snippet": "这可不光是韩国"
+    },
+    {
+      "sentence_id": "s217",
+      "char_len": 7,
+      "snippet": "全球大部分国家"
+    },
+    {
+      "sentence_id": "s218",
+      "char_len": 11,
+      "snippet": "除了中国 基本都差不多"
+    },
+    {
+      "sentence_id": "s219",
+      "char_len": 4,
+      "snippet": "所以你看"
+    },
+    {
+      "sentence_id": "s220",
+      "char_len": 13,
+      "snippet": "面对楼市这么猛烈的干柴烈火"
+    },
+    {
+      "sentence_id": "s221",
+      "char_len": 13,
+      "snippet": "文在寅虽然有一些限价的政策"
+    },
+    {
+      "sentence_id": "s222",
+      "char_len": 6,
+      "snippet": "但顶多就算是"
+    },
+    {
+      "sentence_id": "s223",
+      "char_len": 12,
+      "snippet": "在这熊熊大火旁边喷头花洒"
+    },
+    {
+      "sentence_id": "s224",
+      "char_len": 9,
+      "snippet": "到2022年的时候"
+    },
+    {
+      "sentence_id": "s225",
+      "char_len": 8,
+      "snippet": "韩国首尔一套房子"
+    },
+    {
+      "sentence_id": "s226",
+      "char_len": 13,
+      "snippet": "均价已经超过了100万美元"
+    },
+    {
+      "sentence_id": "s227",
+      "char_len": 8,
+      "snippet": "就700万人民币"
+    },
+    {
+      "sentence_id": "s228",
+      "char_len": 6,
+      "snippet": "每平米的均价"
+    },
+    {
+      "sentence_id": "s229",
+      "char_len": 9,
+      "snippet": "达到了2.2万美元"
+    },
+    {
+      "sentence_id": "s230",
+      "char_len": 12,
+      "snippet": "而在这个大名鼎鼎的江南区"
+    },
+    {
+      "sentence_id": "s231",
+      "char_len": 8,
+      "snippet": "房价已经被炒到了"
+    },
+    {
+      "sentence_id": "s232",
+      "char_len": 7,
+      "snippet": "7万块钱每平米"
+    },
+    {
+      "sentence_id": "s233",
+      "char_len": 9,
+      "snippet": "那就是50万人民币"
+    },
+    {
+      "sentence_id": "s234",
+      "char_len": 8,
+      "snippet": "这时候不管是房东"
+    },
+    {
+      "sentence_id": "s235",
+      "char_len": 9,
+      "snippet": "还是租客 还是银行"
+    },
+    {
+      "sentence_id": "s236",
+      "char_len": 12,
+      "snippet": "那脸上每天都是笑开了花的"
+    },
+    {
+      "sentence_id": "s237",
+      "char_len": 6,
+      "snippet": "可我们都知道"
+    },
+    {
+      "sentence_id": "s238",
+      "char_len": 8,
+      "snippet": "杠杆的作用是什么"
+    },
+    {
+      "sentence_id": "s239",
+      "char_len": 13,
+      "snippet": "就是它会放大你的收益和亏损"
+    },
+    {
+      "sentence_id": "s240",
+      "char_len": 8,
+      "snippet": "所以房价涨的时候"
+    },
+    {
+      "sentence_id": "s241",
+      "char_len": 11,
+      "snippet": "你杠杆越大 赚的就越多"
+    },
+    {
+      "sentence_id": "s242",
+      "char_len": 11,
+      "snippet": "但如果在房价下跌的时候"
+    },
+    {
+      "sentence_id": "s243",
+      "char_len": 11,
+      "snippet": "2022年美国通胀抬头"
+    },
+    {
+      "sentence_id": "s244",
+      "char_len": 11,
+      "snippet": "一年之内加息超过了5%"
+    },
+    {
+      "sentence_id": "s245",
+      "char_len": 13,
+      "snippet": "韩国的通胀紧接着跟着起来了"
+    },
+    {
+      "sentence_id": "s246",
+      "char_len": 4,
+      "snippet": "我们说过"
+    },
+    {
+      "sentence_id": "s247",
+      "char_len": 12,
+      "snippet": "通胀是经济的头号洪水猛兽"
+    },
+    {
+      "sentence_id": "s248",
+      "char_len": 13,
+      "snippet": "韩元兑美元也开始飞速的贬值"
+    },
+    {
+      "sentence_id": "s249",
+      "char_len": 5,
+      "snippet": "那韩国央行"
+    },
+    {
+      "sentence_id": "s250",
+      "char_len": 10,
+      "snippet": "也不得不跟着开始加息"
+    },
+    {
+      "sentence_id": "s251",
+      "char_len": 2,
+      "snippet": "加息"
+    },
+    {
+      "sentence_id": "s252",
+      "char_len": 8,
+      "snippet": "这可是杠杆游戏里"
+    },
+    {
+      "sentence_id": "s253",
+      "char_len": 6,
+      "snippet": "最怕听到的词"
+    },
+    {
+      "sentence_id": "s254",
+      "char_len": 8,
+      "snippet": "加息会导致什么呢"
+    },
+    {
+      "sentence_id": "s255",
+      "char_len": 9,
+      "snippet": "咱还是回到那个例子"
+    },
+    {
+      "sentence_id": "s256",
+      "char_len": 7,
+      "snippet": "咱先看租客这边"
+    },
+    {
+      "sentence_id": "s257",
+      "char_len": 2,
+      "snippet": "原来"
+    },
+    {
+      "sentence_id": "s258",
+      "char_len": 13,
+      "snippet": "我一个月4000块钱的利息"
+    },
+    {
+      "sentence_id": "s259",
+      "char_len": 8,
+      "snippet": "可以贷到120万"
+    },
+    {
+      "sentence_id": "s260",
+      "char_len": 6,
+      "snippet": "现在利率涨了"
+    },
+    {
+      "sentence_id": "s261",
+      "char_len": 12,
+      "snippet": "那一个月就得6000块钱"
+    },
+    {
+      "sentence_id": "s262",
+      "char_len": 11,
+      "snippet": "那我还不如5000块钱"
+    },
+    {
+      "sentence_id": "s263",
+      "char_len": 7,
+      "snippet": "直接去租那房子"
+    },
+    {
+      "sentence_id": "s264",
+      "char_len": 9,
+      "snippet": "我才不给你交这押金"
+    },
+    {
+      "sentence_id": "s265",
+      "char_len": 8,
+      "snippet": "所以加息刚刚开始"
+    },
+    {
+      "sentence_id": "s266",
+      "char_len": 7,
+      "snippet": "真的是刚刚开始"
+    },
+    {
+      "sentence_id": "s267",
+      "char_len": 12,
+      "snippet": "韩国就出现了逆全租的现象"
+    },
+    {
+      "sentence_id": "s268",
+      "char_len": 10,
+      "snippet": "数量超过了100万套"
+    },
+    {
+      "sentence_id": "s269",
+      "char_len": 9,
+      "snippet": "而且不光是租客这边"
+    },
+    {
+      "sentence_id": "s270",
+      "char_len": 7,
+      "snippet": "房东自己也一样"
+    },
+    {
+      "sentence_id": "s271",
+      "char_len": 12,
+      "snippet": "受到了加息带来很大的冲击"
+    },
+    {
+      "sentence_id": "s272",
+      "char_len": 12,
+      "snippet": "韩国超过80%的抵押贷款"
+    },
+    {
+      "sentence_id": "s273",
+      "char_len": 10,
+      "snippet": "它其实都是浮动利率的"
+    },
+    {
+      "sentence_id": "s274",
+      "char_len": 5,
+      "snippet": "意思就是说"
+    },
+    {
+      "sentence_id": "s275",
+      "char_len": 9,
+      "snippet": "你每个月要还的利息"
+    },
+    {
+      "sentence_id": "s276",
+      "char_len": 13,
+      "snippet": "是随着当时的利率环境而变的"
+    },
+    {
+      "sentence_id": "s277",
+      "char_len": 13,
+      "snippet": "所以像前两年那种低利率环境"
+    },
+    {
+      "sentence_id": "s278",
+      "char_len": 12,
+      "snippet": "那你每个月要付的利息就少"
+    },
+    {
+      "sentence_id": "s279",
+      "char_len": 13,
+      "snippet": "现在加息了你要付的就更多了"
+    },
+    {
+      "sentence_id": "s280",
+      "char_len": 9,
+      "snippet": "其实中国的抵押贷款"
+    },
+    {
+      "sentence_id": "s281",
+      "char_len": 14,
+      "snippet": "你看咱知道是以LPR为基础的"
+    },
+    {
+      "sentence_id": "s282",
+      "char_len": 8,
+      "snippet": "所以它其实也类似"
+    },
+    {
+      "sentence_id": "s283",
+      "char_len": 8,
+      "snippet": "也算是个浮动利率"
+    },
+    {
+      "sentence_id": "s284",
+      "char_len": 9,
+      "snippet": "这跟美国就不一样了"
+    },
+    {
+      "sentence_id": "s285",
+      "char_len": 7,
+      "snippet": "美国超过95%"
+    },
+    {
+      "sentence_id": "s286",
+      "char_len": 8,
+      "snippet": "其实都是固定利率"
+    },
+    {
+      "sentence_id": "s287",
+      "char_len": 12,
+      "snippet": "就比如说我贷的时候是5%"
+    },
+    {
+      "sentence_id": "s288",
+      "char_len": 9,
+      "snippet": "那这三十年就锁死了"
+    },
+    {
+      "sentence_id": "s289",
+      "char_len": 6,
+      "snippet": "一直都是5%"
+    },
+    {
+      "sentence_id": "s290",
+      "char_len": 8,
+      "snippet": "8% 它就是8%"
+    },
+    {
+      "sentence_id": "s291",
+      "char_len": 6,
+      "snippet": "之后这三十年"
+    },
+    {
+      "sentence_id": "s292",
+      "char_len": 9,
+      "snippet": "不管利率市场怎么变"
+    },
+    {
+      "sentence_id": "s293",
+      "char_len": 6,
+      "snippet": "美联储怎么变"
+    },
+    {
+      "sentence_id": "s294",
+      "char_len": 8,
+      "snippet": "那都是银行的风险"
+    },
+    {
+      "sentence_id": "s295",
+      "char_len": 7,
+      "snippet": "和你没啥关系了"
+    },
+    {
+      "sentence_id": "s296",
+      "char_len": 7,
+      "snippet": "所以你发现没有"
+    },
+    {
+      "sentence_id": "s297",
+      "char_len": 9,
+      "snippet": "就固定利率的环境下"
+    },
+    {
+      "sentence_id": "s298",
+      "char_len": 10,
+      "snippet": "其实这个贷款买房的人"
+    },
+    {
+      "sentence_id": "s299",
+      "char_len": 12,
+      "snippet": "他对利率的敏感度是更高的"
+    },
+    {
+      "sentence_id": "s300",
+      "char_len": 8,
+      "snippet": "因为我一旦定下来"
+    },
+    {
+      "sentence_id": "s301",
+      "char_len": 10,
+      "snippet": "之后就都得按这个还了"
+    },
+    {
+      "sentence_id": "s302",
+      "char_len": 6,
+      "snippet": "我肯定更谨慎"
+    },
+    {
+      "sentence_id": "s303",
+      "char_len": 5,
+      "snippet": "这就为什么"
+    },
+    {
+      "sentence_id": "s304",
+      "char_len": 10,
+      "snippet": "前两年的低利率环境下"
+    },
+    {
+      "sentence_id": "s305",
+      "char_len": 10,
+      "snippet": "美国的房价是一路高涨"
+    },
+    {
+      "sentence_id": "s306",
+      "char_len": 9,
+      "snippet": "贷款就跟不要钱似的"
+    },
+    {
+      "sentence_id": "s307",
+      "char_len": 9,
+      "snippet": "三十年息还不到4%"
+    },
+    {
+      "sentence_id": "s308",
+      "char_len": 8,
+      "snippet": "那谁不是都努一努"
+    },
+    {
+      "sentence_id": "s309",
+      "char_len": 7,
+      "snippet": "就买个房子玩玩"
+    },
+    {
+      "sentence_id": "s310",
+      "char_len": 7,
+      "snippet": "而像韩国 中国"
+    },
+    {
+      "sentence_id": "s311",
+      "char_len": 10,
+      "snippet": "这种以浮动利率为主的"
+    },
+    {
+      "sentence_id": "s312",
+      "char_len": 7,
+      "snippet": "它其实就是已经"
+    },
+    {
+      "sentence_id": "s313",
+      "char_len": 9,
+      "snippet": "贷款的人更容易受到"
+    },
+    {
+      "sentence_id": "s314",
+      "char_len": 9,
+      "snippet": "这个利率变化的波及"
+    },
+    {
+      "sentence_id": "s315",
+      "char_len": 9,
+      "snippet": "但是韩国一加息3%"
+    },
+    {
+      "sentence_id": "s316",
+      "char_len": 1,
+      "snippet": "好"
+    },
+    {
+      "sentence_id": "s317",
+      "char_len": 8,
+      "snippet": "所有贷款买房的人"
+    },
+    {
+      "sentence_id": "s318",
+      "char_len": 7,
+      "snippet": "你每个月都多还"
+    },
+    {
+      "sentence_id": "s319",
+      "char_len": 11,
+      "snippet": "比如说3000块钱利息"
+    },
+    {
+      "sentence_id": "s320",
+      "char_len": 10,
+      "snippet": "正常 3%可能也能忍"
+    },
+    {
+      "sentence_id": "s321",
+      "char_len": 13,
+      "snippet": "但你别忘了在全租房的模式下"
+    },
+    {
+      "sentence_id": "s322",
+      "char_len": 8,
+      "snippet": "那些开满杠杆的人"
+    },
+    {
+      "sentence_id": "s323",
+      "char_len": 6,
+      "snippet": "比如说金先生"
+    },
+    {
+      "sentence_id": "s324",
+      "char_len": 7,
+      "snippet": "那一千多套房子"
+    },
+    {
+      "sentence_id": "s325",
+      "char_len": 10,
+      "snippet": "每套多还3000块钱"
+    },
+    {
+      "sentence_id": "s326",
+      "char_len": 13,
+      "snippet": "再加上好多人直接选择不租了"
+    },
+    {
+      "sentence_id": "s327",
+      "char_len": 10,
+      "snippet": "那就是毁灭性的打击了"
+    },
+    {
+      "sentence_id": "s328",
+      "char_len": 5,
+      "snippet": "这位金先生"
+    },
+    {
+      "sentence_id": "s329",
+      "char_len": 9,
+      "snippet": "在2020年10月"
+    },
+    {
+      "sentence_id": "s330",
+      "char_len": 7,
+      "snippet": "被警方发现死亡"
+    },
+    {
+      "sentence_id": "s331",
+      "char_len": 6,
+      "snippet": "原因并未透露"
+    },
+    {
+      "sentence_id": "s332",
+      "char_len": 3,
+      "snippet": "就类似"
+    },
+    {
+      "sentence_id": "s333",
+      "char_len": 13,
+      "snippet": "还有很多利用这全租房的杠杆"
+    },
+    {
+      "sentence_id": "s334",
+      "char_len": 4,
+      "snippet": "炒房客们"
+    },
+    {
+      "sentence_id": "s335",
+      "char_len": 12,
+      "snippet": "是破产的破产 跑路的跑路"
+    },
+    {
+      "sentence_id": "s336",
+      "char_len": 12,
+      "snippet": "这就让这些全租房客的押金"
+    },
+    {
+      "sentence_id": "s337",
+      "char_len": 4,
+      "snippet": "岌岌可危"
+    },
+    {
+      "sentence_id": "s338",
+      "char_len": 9,
+      "snippet": "虽然大部分的全租房"
+    },
+    {
+      "sentence_id": "s339",
+      "char_len": 11,
+      "snippet": "它是有个保险公司担保的"
+    },
+    {
+      "sentence_id": "s340",
+      "char_len": 5,
+      "snippet": "但就在去年"
+    },
+    {
+      "sentence_id": "s341",
+      "char_len": 9,
+      "snippet": "还是发生了两千多起"
+    },
+    {
+      "sentence_id": "s342",
+      "char_len": 9,
+      "snippet": "全租房押金的并吞案"
+    },
+    {
+      "sentence_id": "s343",
+      "char_len": 5,
+      "snippet": "涉及的金额"
+    },
+    {
+      "sentence_id": "s344",
+      "char_len": 9,
+      "snippet": "达到了七千多亿韩元"
+    },
+    {
+      "sentence_id": "s345",
+      "char_len": 12,
+      "snippet": "预计今年全租房带来的损失"
+    },
+    {
+      "sentence_id": "s346",
+      "char_len": 13,
+      "snippet": "可能会达到18000亿韩元"
+    },
+    {
+      "sentence_id": "s347",
+      "char_len": 5,
+      "snippet": "就光我查到"
+    },
+    {
+      "sentence_id": "s348",
+      "char_len": 12,
+      "snippet": "韩国今年就已经发生了四起"
+    },
+    {
+      "sentence_id": "s349",
+      "char_len": 8,
+      "snippet": "因为全租房的债务"
+    },
+    {
+      "sentence_id": "s350",
+      "char_len": 6,
+      "snippet": "而自杀的租客"
+    },
+    {
+      "sentence_id": "s351",
+      "char_len": 9,
+      "snippet": "那房东们就只能被迫"
+    },
+    {
+      "sentence_id": "s352",
+      "char_len": 9,
+      "snippet": "清仓甩卖自己的房产"
+    },
+    {
+      "sentence_id": "s353",
+      "char_len": 8,
+      "snippet": "韩国在今年1月份"
+    },
+    {
+      "sentence_id": "s354",
+      "char_len": 8,
+      "snippet": "待出售的这个房屋"
+    },
+    {
+      "sentence_id": "s355",
+      "char_len": 9,
+      "snippet": "达到了75000套"
+    },
+    {
+      "sentence_id": "s356",
+      "char_len": 13,
+      "snippet": "是2012年以来的最高水平"
+    },
+    {
+      "sentence_id": "s357",
+      "char_len": 8,
+      "snippet": "房企们也被逼急了"
+    },
+    {
+      "sentence_id": "s358",
+      "char_len": 10,
+      "snippet": "真的是什么招都用上了"
+    },
+    {
+      "sentence_id": "s359",
+      "char_len": 8,
+      "snippet": "就但凡你来看房子"
+    },
+    {
+      "sentence_id": "s360",
+      "char_len": 13,
+      "snippet": "我就直接送你AirPods"
+    },
+    {
+      "sentence_id": "s361",
+      "char_len": 3,
+      "snippet": "买房子"
+    },
+    {
+      "sentence_id": "s362",
+      "char_len": 11,
+      "snippet": "他就可能送你一台奔驰车"
+    },
+    {
+      "sentence_id": "s363",
+      "char_len": 7,
+      "snippet": "或者直接送金条"
+    },
+    {
+      "sentence_id": "s364",
+      "char_len": 5,
+      "snippet": "韩国的房价"
+    },
+    {
+      "sentence_id": "s365",
+      "char_len": 9,
+      "snippet": "从2022年下半年"
+    },
+    {
+      "sentence_id": "s366",
+      "char_len": 10,
+      "snippet": "一加息立刻就开始下跌"
+    },
+    {
+      "sentence_id": "s367",
+      "char_len": 10,
+      "snippet": "持续跌到了今年4月份"
+    },
+    {
+      "sentence_id": "s368",
+      "char_len": 8,
+      "snippet": "整体缩水了10%"
+    },
+    {
+      "sentence_id": "s369",
+      "char_len": 7,
+      "snippet": "很多地方的房价"
+    },
+    {
+      "sentence_id": "s370",
+      "char_len": 9,
+      "snippet": "甚至下跌了3到4成"
+    },
+    {
+      "sentence_id": "s371",
+      "char_len": 9,
+      "snippet": "成交量下跌了70%"
+    },
+    {
+      "sentence_id": "s372",
+      "char_len": 8,
+      "snippet": "这韩国家庭的贷款"
+    },
+    {
+      "sentence_id": "s373",
+      "char_len": 7,
+      "snippet": "也就是这个杠杆"
+    },
+    {
+      "sentence_id": "s374",
+      "char_len": 7,
+      "snippet": "也开始逆转下滑"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 7,
+      "snippet": "可能有人就说了"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 4,
+      "snippet": "那前两年"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 10,
+      "snippet": "它不是暴涨了那么多吗"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 11,
+      "snippet": "里外里 房价可能也还好"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 11,
+      "snippet": "这么说吧 可能也有道理"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 13,
+      "snippet": "但问题就是当房价上涨的时候"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 8,
+      "snippet": "大家都加足了杠杆"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 6,
+      "snippet": "房价这么一跌"
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 13,
+      "snippet": "就可能会导致一小部分人破产"
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 4,
+      "snippet": "甚至自杀"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 12,
+      "snippet": "那对原有的社会秩序的打击"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 4,
+      "snippet": "其实很大"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 5,
+      "snippet": "这就好比说"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 4,
+      "snippet": "如果社会"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 11,
+      "snippet": "整体大家都缩水了10%"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 5,
+      "snippet": "那可能还好"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 9,
+      "snippet": "你挺一挺也就过去了"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 9,
+      "snippet": "但是假设90%的人"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 5,
+      "snippet": "没什么问题"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 10,
+      "snippet": "10%的人就完全停摆"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 4,
+      "snippet": "倾家荡产"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 5,
+      "snippet": "你看这两边"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 11,
+      "snippet": "可能财富都是损失10%"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 10,
+      "snippet": "但是后者对社会的打击"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 5,
+      "snippet": "是非常大的"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 12,
+      "snippet": "所以面临潜在的房地产危机"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 9,
+      "snippet": "你说韩国政府怎么办"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 5,
+      "snippet": "还能怎么办"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 6,
+      "snippet": "赶紧出来救市"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 11,
+      "snippet": "之前文在寅使劲浑身解数"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 10,
+      "snippet": "而求之不得的房市降温"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 10,
+      "snippet": "这新总统尹锡悦一上来"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 4,
+      "snippet": "就达到了"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 8,
+      "snippet": "只不过可能有点过"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 10,
+      "snippet": "开始各种unwind"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 9,
+      "snippet": "就是撤销之前文在寅"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 9,
+      "snippet": "各种限制楼市的政策"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 12,
+      "snippet": "就比如放宽首套房贷款规定"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 5,
+      "snippet": "减少房产税"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 8,
+      "snippet": "提供贷款优惠等等"
+    },
+    {
+      "sentence_id": "s415",
+      "char_len": 5,
+      "snippet": "但我们知道"
+    },
+    {
+      "sentence_id": "s416",
+      "char_len": 8,
+      "snippet": "最重要的调控手段"
+    },
+    {
+      "sentence_id": "s417",
+      "char_len": 6,
+      "snippet": "其实是什么呢"
+    },
+    {
+      "sentence_id": "s418",
+      "char_len": 4,
+      "snippet": "还是利率"
+    },
+    {
+      "sentence_id": "s419",
+      "char_len": 9,
+      "snippet": "所以韩国央行也说了"
+    },
+    {
+      "sentence_id": "s420",
+      "char_len": 11,
+      "snippet": "为了刺激经济 刺激楼市"
+    },
+    {
+      "sentence_id": "s421",
+      "char_len": 11,
+      "snippet": "今年年底可能就要降息了"
+    },
+    {
+      "sentence_id": "s422",
+      "char_len": 6,
+      "snippet": "搞笑是什么呢"
+    },
+    {
+      "sentence_id": "s423",
+      "char_len": 7,
+      "snippet": "这还没开始降息"
+    },
+    {
+      "sentence_id": "s424",
+      "char_len": 11,
+      "snippet": "因为之前房租开始飞涨了"
+    },
+    {
+      "sentence_id": "s425",
+      "char_len": 13,
+      "snippet": "全租房的模式又成了香饽饽了"
+    },
+    {
+      "sentence_id": "s426",
+      "char_len": 6,
+      "snippet": "开始盛行起来"
+    },
+    {
+      "sentence_id": "s427",
+      "char_len": 7,
+      "snippet": "这个房地产市场"
+    },
+    {
+      "sentence_id": "s428",
+      "char_len": 11,
+      "snippet": "似乎又要开始原来的老路"
+    },
+    {
+      "sentence_id": "s429",
+      "char_len": 13,
+      "snippet": "你看 这似乎就是房地产市场"
+    },
+    {
+      "sentence_id": "s430",
+      "char_len": 8,
+      "snippet": "逃不过的一个轮回"
+    },
+    {
+      "sentence_id": "s431",
+      "char_len": 7,
+      "snippet": "稍微一碰它就崩"
+    },
+    {
+      "sentence_id": "s432",
+      "char_len": 7,
+      "snippet": "一刺激就撒欢儿"
+    },
+    {
+      "sentence_id": "s433",
+      "char_len": 7,
+      "snippet": "它底层是什么呢"
+    },
+    {
+      "sentence_id": "s434",
+      "char_len": 9,
+      "snippet": "还是因为杠杆太高了"
+    },
+    {
+      "sentence_id": "s435",
+      "char_len": 6,
+      "snippet": "这个大概就是"
+    },
+    {
+      "sentence_id": "s436",
+      "char_len": 12,
+      "snippet": "韩国房地产市场危机的始末"
+    },
+    {
+      "sentence_id": "s437",
+      "char_len": 7,
+      "snippet": "很多朋友就说了"
+    },
+    {
+      "sentence_id": "s438",
+      "char_len": 6,
+      "snippet": "你别光聊韩国"
+    },
+    {
+      "sentence_id": "s439",
+      "char_len": 6,
+      "snippet": "你也说说中国"
+    },
+    {
+      "sentence_id": "s440",
+      "char_len": 5,
+      "snippet": "我们下期见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「大家对爆雷热情高涨」+应要求细讲全租房，并预告下期国内楼市，系列钩子开场。",
+      "patterns": [
+        "爆雷热情钩子",
+        "应要求细讲",
+        "下期预告钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我发现大家对这个爆雷",
+          "note": "对这个爆雷"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "就是热情非常高涨",
+          "note": "热情非常高涨"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "都强烈要求我再仔细讲一讲",
+          "note": "强烈要求我再仔细讲"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "别急 我们下一期安排上",
+          "note": "下一期安排上"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "文在寅25次调控反涨→全租房制度引入→干柴烈火低利率疫情→首尔均价破百万美元→杠杆放大→救市降息又轮回→杠杆过高。",
+      "patterns": [
+        "调控失效",
+        "利率烈火",
+        "房价峰值",
+        "轮回杠杆结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "25次抑制房价的政策",
+          "note": "25次抑制房价"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "可是房价就是摁不住",
+          "note": "房价就是摁不住"
+        },
+        {
+          "sentence_id": "s201",
+          "snippet": "而这个烈火就是低利率",
+          "note": "烈火就是低利率"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "超过了100万美元"
+        },
+        {
+          "sentence_id": "s434",
+          "snippet": "还是因为杠杆太高了",
+          "note": "杠杆太高了"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11"
+          ],
+          "function": "demand_hook",
+          "note": "应观众要求与国内预告"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42"
+          ],
+          "function": "moon_fail",
+          "note": "文在寅调控反涨与道歉"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "jeonse_intro",
+          "note": "全租房制度引入与规则起头"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s201",
+            "s202",
+            "s203",
+            "s204",
+            "s205",
+            "s206",
+            "s207",
+            "s208",
+            "s209",
+            "s210",
+            "s211",
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220"
+          ],
+          "function": "rate_fire",
+          "note": "低利率疫情干柴烈火推涨"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s221",
+            "s222",
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235"
+          ],
+          "function": "price_peak",
+          "note": "首尔江南房价峰值与杠杆提醒"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s411",
+            "s412",
+            "s413",
+            "s414",
+            "s415",
+            "s416",
+            "s417",
+            "s418",
+            "s419",
+            "s420",
+            "s421",
+            "s422",
+            "s423",
+            "s424",
+            "s425",
+            "s426",
+            "s427",
+            "s428",
+            "s429",
+            "s430"
+          ],
+          "function": "rescue_cycle",
+          "note": "救市手段与降息轮回"
+        },
+        {
+          "unit_id": "u7",
+          "sentence_ids": [
+            "s431",
+            "s432",
+            "s433",
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440"
+          ],
+          "function": "close_tease",
+          "note": "杠杆结论与下期中国预告"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「可是你猜怎么着」「那就要说到」「所以你看」「搞笑是什么呢」口语路标。",
+      "patterns": [
+        "你猜怎么着",
+        "那就要说到",
+        "搞笑是什么呢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "可是你猜怎么着",
+          "note": "可是你猜怎么着"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这就要说到",
+          "note": "这就要说到"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "所以你看",
+          "note": "所以你看"
+        },
+        {
+          "sentence_id": "s422",
+          "snippet": "搞笑是什么呢",
+          "note": "搞笑是什么呢"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "25次抑制 vs 任期内涨最猛；花洒喷大火 vs 限价无效；一碰就崩 vs 一刺激撒欢。",
+      "patterns": [
+        "调控/涨幅反差",
+        "花洒/大火喻",
+        "崩/撒欢轮回对比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "25次抑制房价的政策",
+          "note": "25次抑制"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "长得是最猛的",
+          "note": "长得是最猛的"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "稍微一碰它就崩",
+          "note": "一碰它就崩"
+        },
+        {
+          "sentence_id": "s432",
+          "snippet": "一刺激就撒欢儿",
+          "note": "一刺激就撒欢儿"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为什么房价摁不住」追问；「全租房怎么回事」教学问；「最重要调控手段是什么」自问自答利率。",
+      "patterns": [
+        "为何摁不住追问",
+        "怎么回事教学问",
+        "调控手段自问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "那你说为什么韩国的房价",
+          "note": "为什么韩国的房价"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "全租房是怎么回事呢",
+          "note": "全租房是怎么回事呢"
+        },
+        {
+          "sentence_id": "s417",
+          "snippet": "其实是什么呢",
+          "note": "其实是什么呢"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "收紧房贷/提房产税政策清单；首尔100万美元/江南7万每平；放宽首套贷减税等救市清单。",
+      "patterns": [
+        "政策清单例",
+        "房价数字例",
+        "救市清单例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "比如说收紧房贷",
+          "note": "收紧房贷"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "100万美元"
+        },
+        {
+          "sentence_id": "s232",
+          "snippet": "7万块钱每平米",
+          "note": "7万块钱每平米"
+        },
+        {
+          "sentence_id": "s412",
+          "snippet": "就比如放宽首套房贷款规定",
+          "note": "放宽首套房贷款"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「干柴烈火」落到文在寅利率曲线与疫情放水；「轮回」落到未降息全租又香。",
+      "patterns": [
+        "烈火→利率疫情",
+        "轮回→全租又香"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s201",
+          "snippet": "而这个烈火就是低利率",
+          "note": "烈火就是低利率"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "全球都大放水",
+          "note": "全球都大放水"
+        },
+        {
+          "sentence_id": "s425",
+          "snippet": "全租房的模式又成了香饽饽了",
+          "note": "全租房又成了香饽饽"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言房价摁不住、限价顶多花洒；杠杆放大盈亏；逃不过轮回因杠杆太高。",
+      "patterns": [
+        "摁不住判断",
+        "花洒无效判断",
+        "轮回杠杆结论"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "可是房价就是摁不住",
+          "note": "房价就是摁不住"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "但顶多就算是",
+          "note": "顶多就算是"
+        },
+        {
+          "sentence_id": "s239",
+          "snippet": "就是它会放大你的收益和亏损",
+          "note": "放大你的收益和亏损"
+        },
+        {
+          "sentence_id": "s434",
+          "snippet": "还是因为杠杆太高了",
+          "note": "杠杆太高了"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「别急我们下一期安排上」把跑题国内楼市按下；承认文在寅确确实实出台了政策再翻盘。",
+      "patterns": [
+        "跑题按下预告",
+        "承认政策再翻盘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "别急 我们下一期安排上",
+          "note": "别急 我们下一期"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "虽然他确确实实出台了",
+          "note": "虽然他确确实实出台了"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "可是房价就是摁不住",
+          "note": "可是房价就是摁不住"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "热情短开→政策枚举中速→烈火比喻加速→房价数字重音→崩/撒欢对句收→下期钩。",
+      "patterns": [
+        "短开",
+        "比喻加速",
+        "对句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是热情非常高涨",
+          "note": "热情非常高涨"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "100万美元"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "稍微一碰它就崩",
+          "note": "一碰它就崩"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "共鸣热情→文在寅丢人无奈→推涨兴奋→峰值炫目→轮回无奈→对中国话题期待。",
+      "patterns": [
+        "热情→无奈→炫目→轮回无奈"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是热情非常高涨",
+          "note": "热情非常高涨"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "搞得文在寅着实是非常丢人",
+          "note": "非常丢人"
+        },
+        {
+          "sentence_id": "s236",
+          "snippet": "那脸上每天都是笑开了花的",
+          "note": "笑开了花的"
+        },
+        {
+          "sentence_id": "s430",
+          "snippet": "逃不过的一个轮回",
+          "note": "逃不过的一个轮回"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇应要求讲韩国危机，收「始末」+「别光聊韩国说说中国」下期见，系列闭环。",
+      "patterns": [
+        "应要求→始末收",
+        "中国下期钩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "都强烈要求我再仔细讲一讲",
+          "note": "再仔细讲一讲"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "韩国房地产市场危机的始末",
+          "note": "危机的始末"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "你也说说中国",
+          "note": "你也说说中国"
+        },
+        {
+          "sentence_id": "s440",
+          "snippet": "我们下期见",
+          "note": "我们下期见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "下期见+回应评论区「说说中国」作系列续订CTA，无点赞硬广。",
+      "patterns": [
+        "下期见续订",
+        "回应评论区选题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "别急 我们下一期安排上",
+          "note": "下一期安排上"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "你也说说中国",
+          "note": "你也说说中国"
+        },
+        {
+          "sentence_id": "s440",
+          "snippet": "我们下期见",
+          "note": "我们下期见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「干柴烈火/花洒」土味喻、道歉口述、崩/撒欢对句、窗口ASR自然口语。",
+      "patterns": [
+        "干柴烈火土味喻",
+        "崩撒欢对句",
+        "道歉口述"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s201",
+          "snippet": "而这个烈火就是低利率",
+          "note": "烈火就是低利率"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "跟大家道过好多次歉了",
+          "note": "道过好多次歉了"
+        },
+        {
+          "sentence_id": "s432",
+          "snippet": "一刺激就撒欢儿",
+          "note": "一刺激就撒欢儿"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "120句窗口从规则中段跳到利率段再跳救市，机制中间演算缺失；与文字版信息重叠。",
+      "patterns": [
+        "窗口大跳跃缺演算",
+        "与文字版重叠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "我们按月交",
+          "note": "我们按月交"
+        },
+        {
+          "sentence_id": "s201",
+          "snippet": "而这个烈火就是低利率",
+          "note": "烈火就是低利率"
+        },
+        {
+          "sentence_id": "s411",
+          "snippet": "各种限制楼市的政策",
+          "note": "各种限制楼市"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先讲调控失败再追问制度；用「烈火」框架解释低利率+疫情供给停滞推涨逻辑。",
+      "patterns": [
+        "失败→追问制度",
+        "烈火框架解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s39",
+          "snippet": "那你说为什么韩国的房价",
+          "note": "为什么韩国的房价"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "这就要说到",
+          "note": "这就要说到"
+        },
+        {
+          "sentence_id": "s201",
+          "snippet": "而这个烈火就是低利率",
+          "note": "烈火就是低利率"
+        },
+        {
+          "sentence_id": "s214",
+          "snippet": "供给还停滞",
+          "note": "供给还停滞"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "「咱之前聊韩国那期」「很多朋友就说了」把观众当系列老同学并回应诉求。",
+      "patterns": [
+        "系列老同学",
+        "回应朋友诉求"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "咱之前聊韩国那期",
+          "note": "咱之前聊韩国那期"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "都强烈要求我再仔细讲一讲",
+          "note": "都强烈要求我"
+        },
+        {
+          "sentence_id": "s437",
+          "snippet": "很多朋友就说了",
+          "note": "很多朋友就说了"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "25次政策；首尔100万美元/2.2万每平；江南7万每平；年底可能降息。",
+      "patterns": [
+        "25次锚",
+        "百万美元锚",
+        "江南7万锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "25次抑制房价的政策",
+          "note": "25次抑制房价"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "100万美元"
+        },
+        {
+          "sentence_id": "s229",
+          "snippet": "达到了2.2万美元",
+          "note": "2.2万美元"
+        },
+        {
+          "sentence_id": "s232",
+          "snippet": "7万块钱每平米",
+          "note": "7万块钱每平米"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密互动→政策枚举中密→利率疫情高密→房价数字高峰→轮回金句中密。",
+      "patterns": [
+        "低密互动→中密政策→高密宏观→数字峰→金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "就是热情非常高涨",
+          "note": "热情非常高涨"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "25次抑制房价的政策",
+          "note": "25次"
+        },
+        {
+          "sentence_id": "s208",
+          "snippet": "全球都大放水",
+          "note": "全球都大放水"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "100万美元"
+        },
+        {
+          "sentence_id": "s434",
+          "snippet": "还是因为杠杆太高了",
+          "note": "杠杆太高"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "口语短句起→政策列举短句串→比喻中长句→数字短句重击→对句收束。",
+      "patterns": [
+        "口语短句起",
+        "列举短句串",
+        "对句收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "我发现大家对这个爆雷",
+          "note": "我发现大家"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "比如说收紧房贷",
+          "note": "比如说收紧房贷"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "稍微一碰它就崩",
+          "note": "稍微一碰它就崩"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "同文字版财经老师，口语更弹：你猜怎么着、好家伙、撒欢儿，课堂聊天感。",
+      "patterns": [
+        "口语弹课堂感",
+        "好家伙感叹人格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "可是你猜怎么着",
+          "note": "可是你猜怎么着"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "好家伙 需求旺盛",
+          "note": "好家伙 需求旺盛"
+        },
+        {
+          "sentence_id": "s432",
+          "snippet": "一刺激就撒欢儿",
+          "note": "一刺激就撒欢儿"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "干柴烈火/花洒；百万美元均价；一碰就崩一刺激撒欢；杠杆太高。",
+      "patterns": [
+        "干柴烈火花洒",
+        "崩撒欢对句",
+        "杠杆太高"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "均价已经超过了100万美元",
+          "note": "100万美元"
+        },
+        {
+          "sentence_id": "s431",
+          "snippet": "稍微一碰它就崩",
+          "note": "一碰它就崩"
+        },
+        {
+          "sentence_id": "s434",
+          "snippet": "还是因为杠杆太高了",
+          "note": "杠杆太高了"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "与文字版同骨架，口语音频版可作口播改编参考；迁移时需补全窗口缺失的规则演算段。",
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "25次抑制房价的政策",
+          "note": "25次抑制房价"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "在这熊熊大火旁边喷头花洒",
+          "note": "喷头花洒"
+        },
+        {
+          "sentence_id": "s434",
+          "snippet": "还是因为杠杆太高了",
+          "note": "杠杆太高了"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s5",
+    "s10",
+    "s24",
+    "s28",
+    "s201",
+    "s226",
+    "s434",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s202",
+    "s203",
+    "s204",
+    "s205",
+    "s206",
+    "s207",
+    "s208",
+    "s209",
+    "s210",
+    "s211",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s411",
+    "s412",
+    "s413",
+    "s414",
+    "s415",
+    "s416",
+    "s417",
+    "s418",
+    "s419",
+    "s420",
+    "s421",
+    "s422",
+    "s423",
+    "s424",
+    "s425",
+    "s426",
+    "s427",
+    "s428",
+    "s429",
+    "s430",
+    "s431",
+    "s432",
+    "s433",
+    "s435",
+    "s436",
+    "s437",
+    "s438",
+    "s439",
+    "s440"
+  ],
+  "fields_complete_25": true
+}

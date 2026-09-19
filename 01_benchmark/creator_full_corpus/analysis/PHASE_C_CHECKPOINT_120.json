@@ -1,0 +1,23 @@
+{
+  "checkpoint": 120,
+  "structural_pass": true,
+  "schema_errs": [],
+  "template_risk": 0,
+  "creators": {
+    "wushi_caijing": 43,
+    "banfo_xianren": 13,
+    "bidu": 13,
+    "wenyifei_jijiu": 13,
+    "hetongxue": 13,
+    "xiaolin_shuo": 25
+  },
+  "mods": {
+    "FULL_SPOKEN": 81,
+    "COMPLETE_TEXT": 39
+  },
+  "tiers": {
+    "HIGH": 96,
+    "MEDIAN": 16,
+    "CONTROL": 8
+  }
+}

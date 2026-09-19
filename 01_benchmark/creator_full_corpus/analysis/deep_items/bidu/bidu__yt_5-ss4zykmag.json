@@ -1,0 +1,1191 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_5-ss4zykmag",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=5-ss4zykmag",
+  "source_sha256": "bd35a59fa5a919fc2fb29e77a174903cbb67d148c170d5461364b88b161e1afa",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 66,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "有人说说大学同学一起看的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 8,
+      "snippet": "有人说是学校放的"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 14,
+      "snippet": "连视频的具体内容大家都回去了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 4,
+      "snippet": "闭到说了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 12,
+      "snippet": "用专业机器就可以断成两段"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 8,
+      "snippet": "放在学里就不会断"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "而是晚钻断的动作"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 4,
+      "snippet": "一个道理"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 12,
+      "snippet": "清洗的记得闭到局面的画面"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 18,
+      "snippet": "最后还把意义面跟桥梁联系在一起升华了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 11,
+      "snippet": "你们懂得种鬼意的感觉吗"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 10,
+      "snippet": "大家把一起我从来没呀"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "没做过的视频完整的拥挂出来了"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "以后我的视频哪儿还要我写着"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 8,
+      "snippet": "全靠你们众筹得了"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 9,
+      "snippet": "我们团团团� up"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 5,
+      "snippet": "唯一人生了"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "翻变了历史视频"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "搜变了公用耗利式突允"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 3,
+      "snippet": "都没有"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 8,
+      "snippet": "头前这么多人在说"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "但是没有一个人"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 9,
+      "snippet": "能把我之前发的视频"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "听出来这还不说明问题吗"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 12,
+      "snippet": "结果有人说是我这次发之前"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 4,
+      "snippet": "把之前发"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 5,
+      "snippet": "发的删掉了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 4,
+      "snippet": "我猜测哪"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 7,
+      "snippet": "合起来就变成了"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 4,
+      "snippet": "闭桃讲过"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "掰意大利面会断成三级"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 11,
+      "snippet": "哎 你看娘娘这这个天才"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "为了迷不大家的缺换"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 14,
+      "snippet": "我就把你们回忠的视频做出来吧"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 1,
+      "snippet": "�"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 14,
+      "snippet": "大家回忠的视频是不是这样的呢"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 17,
+      "snippet": "想要上面这双集体出现错误记忆的现象"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "就是我们小学二年纪就学过的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 5,
+      "snippet": "曼德拉效忆"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 7,
+      "snippet": "但他今天发一些"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 7,
+      "snippet": "这件事错误记忆"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 6,
+      "snippet": "曼德拉出于后"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 7,
+      "snippet": "当时的南非总统"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "直到2013年才去世"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "更奇怪的是"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "有几千人都说"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "他们也有一样的错误记忆"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "所以后来呢"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 11,
+      "snippet": "一群人检测到同样错误记"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "就会叫做曼德拉效忆"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 10,
+      "snippet": "这样的例子还真挺多的"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 7,
+      "snippet": "现在快速告诉我"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 7,
+      "snippet": "5 世流得山吗"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "5 史流之华"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 14,
+      "snippet": "是不是脑子里第一个帽出来的是"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "5 世流得民族"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "但骑士是"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 7,
+      "snippet": "平卡秋尾巴之后"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 5,
+      "snippet": "什么也认识"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "哎 你会脑补书"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 9,
+      "snippet": "好像是个黑色的间间"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 2,
+      "snippet": "但骑"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 12,
+      "snippet": "今天这期曼德拉效忆的视频"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 2,
+      "snippet": "哇不"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 4,
+      "snippet": "哎 弟弟"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 19,
+      "snippet": "我记得你发过曼德 at 要效忆的视频啊"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "众人声称看过毕导「从未做过」的视频，用集体回忆细节抛曼德拉效应钩子。",
+      "patterns": [
+        "集体伪记忆开场",
+        "从未做过反差"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "有人说说大学同学一起看的",
+          "note": "大学同学一起看的"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "有人说是学校放的",
+          "note": "学校放的"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "没做过的视频完整的拥挂出来了",
+          "note": "没做过的视频"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "评论区拼出完整伪片→无人能出示原片→有人指控删帖→创作者按回忆重做→点名曼德拉效应并举皮卡丘等例。",
+      "patterns": [
+        "众筹伪片",
+        "无原片",
+        "删帖指控",
+        "按忆重做",
+        "曼德拉命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "没做过的视频完整的拥挂出来了",
+          "note": "众筹挂出来"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但是没有一个人",
+          "note": "没有一个人能"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "发的删掉了",
+          "note": "把之前发的删掉"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "回忠的视频做出来"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "曼德拉效忆",
+          "note": "曼德拉效忆"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14"
+          ],
+          "function": "false_memory_chorus",
+          "note": "众人回忆细节与伪片拼贴"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "no_evidence_challenge",
+          "note": "翻历史搜不到与删帖指控"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "function": "remake_and_name",
+          "note": "按回忆重做并命名曼德拉"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53"
+          ],
+          "function": "origin_story",
+          "note": "曼德拉本人错误记忆起源"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66"
+          ],
+          "function": "more_examples_tease",
+          "note": "更多例子快问与结尾互动"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「结果有人说」「所以后来呢」「更奇怪的是」「现在快速告诉我」推进。",
+      "patterns": [
+        "结果有人说",
+        "所以后来",
+        "更奇怪",
+        "快速告诉我"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "结果有人说是我这次发之前",
+          "note": "结果有人说"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "所以后来呢",
+          "note": "所以后来呢"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "更奇怪的是",
+          "note": "更奇怪的是"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "现在快速告诉我"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "几万人说看过 vs 作者从未做过；清晰记忆画面 vs 搜遍没有；曼德拉以为死了 vs 2013才去世。",
+      "patterns": [
+        "众人vs作者",
+        "记忆vs检索",
+        "以为死vs在世"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "没做过的视频完整的拥挂出来了",
+          "note": "没做过"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "都没有",
+          "note": "都没有"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "当时的南非总统",
+          "note": "当时的南非总统"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "直到2013年才去世",
+          "note": "2013年才去世"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「你们懂得种鬼意的感觉吗」「听出来这还不说明问题吗」「是不是脑子里第一个冒出来」。",
+      "patterns": [
+        "鬼感提问",
+        "反诘说明",
+        "快速测问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你们懂得种鬼意的感觉吗",
+          "note": "懂得鬼意感觉吗"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "还不说明问题吗"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "是不是脑子里第一个帽出来的是",
+          "note": "第一个帽出来的是"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "掰意大利面断成三段伪记忆；曼德拉去世谣言；五世/皮卡丘尾巴测题。",
+      "patterns": [
+        "意面伪记忆例",
+        "曼德拉本尊例",
+        "皮卡丘测题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "掰意大利面会断成三级",
+          "note": "意大利面会断成三级"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "曼德拉出于后",
+          "note": "曼德拉出于后"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "平卡秋尾巴之后",
+          "note": "平卡秋尾巴"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "曼德拉效应抽象→集体错误记忆定义→意面实验/皮卡丘尾巴具体测题。",
+      "patterns": [
+        "效应→定义",
+        "定义→测题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "想要上面这双集体出现错误记忆的现象",
+          "note": "集体出现错误记忆"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就会叫做曼德拉效忆",
+          "note": "叫做曼德拉效忆"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "5 世流得山吗",
+          "note": "5世流得山吗"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「这还不说明问题吗」「哎你看娘娘这这个天才」半讽半认评论区脑补。",
+      "patterns": [
+        "反诘坐实",
+        "半讽天才"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "还不说明问题吗"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "哎 你看娘娘这这个天才",
+          "note": "这个天才"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "结尾「哇不」打断后接弟弟「我记得你发过」互动，像现场改口。",
+      "patterns": [
+        "哇不打断",
+        "评论改口感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s64",
+          "snippet": "哇不",
+          "note": "哇不"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我记得你发过曼德 at 要效忆的视频啊",
+          "note": "我记得你发过"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "回忆罗列中速→搜证加速质问→重做段戏谑→曼德拉科普中速→快问测题加速。",
+      "patterns": [
+        "罗列中",
+        "质问加速",
+        "戏谑",
+        "科普中",
+        "测题加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "连视频的具体内容大家都回去了",
+          "note": "具体内容都回忆"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "说明问题吗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "做出来吧"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就会叫做曼德拉效忆",
+          "note": "叫做曼德拉"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "快速告诉我"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "哎"
+        },
+        {
+          "type": "repair",
+          "form": "哇不"
+        },
+        {
+          "type": "filler_repeat",
+          "form": "发的删掉了/发"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "哎 你看娘娘这这个天才",
+          "note": "哎你看"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哇不",
+          "note": "哇不"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "把之前发",
+          "note": "把之前发"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "诡异熟悉感→搜不到焦躁→重做戏谑→科普冷静→测题兴奋→互动打断。",
+      "patterns": [
+        "诡异",
+        "焦躁",
+        "戏谑",
+        "冷静",
+        "兴奋",
+        "打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你们懂得种鬼意的感觉吗",
+          "note": "鬼意感觉"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "但是没有一个人",
+          "note": "没有一个人"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "做出来吧"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "曼德拉效忆",
+          "note": "曼德拉"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "快速告诉我"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哇不",
+          "note": "哇不"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "用更多曼德拉例子快问回扣开场「集体错误记忆」，弟弟评论打断作开放尾。",
+      "patterns": [
+        "例子回扣",
+        "评论打断开放尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "想要上面这双集体出现错误记忆的现象",
+          "note": "集体错误记忆"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "这样的例子还真挺多的",
+          "note": "例子还真挺多"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我记得你发过曼德 at 要效忆的视频啊",
+          "note": "我记得你发过"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「现在快速告诉我」互动测验式软CTA，无关注硬广。",
+      "patterns": [
+        "测验互动CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "现在快速告诉我"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "评论区众筹叙事、ASR毛刺、哇不打断、皮卡丘测题口误，强现场科普感。",
+      "patterns": [
+        "众筹叙事",
+        "ASR毛刺",
+        "哇不",
+        "口误测题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "全靠你们众筹得了",
+          "note": "众筹得了"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "我们团团团� up",
+          "note": "团团乱码"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "哇不",
+          "note": "哇不"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "平卡秋尾巴之后",
+          "note": "平卡秋"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR损坏（闭到/效忆/平卡秋）；叙事跳跃；结尾被评论打断不完整。",
+      "patterns": [
+        "ASR损坏",
+        "叙事跳",
+        "结尾打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "闭到说了",
+          "note": "闭到说了"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "曼德拉效忆",
+          "note": "效忆"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "我记得你发过曼德 at 要效忆的视频啊",
+          "note": "结尾打断"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开「翻遍历史视频都没有」→「我猜测哪合起来就变成」→决定按回忆重做。",
+      "patterns": [
+        "检索过程",
+        "猜测拼合",
+        "决定重做"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "翻变了历史视频",
+          "note": "翻变了历史视频"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我猜测哪",
+          "note": "我猜测哪"
+        },
+        {
+          "sentence_id": "s29",
+          "snippet": "合起来就变成了",
+          "note": "合起来就变成"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "做出来吧"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当共同经历幻觉的同学，「你们懂得鬼感吗」「快速告诉我」拉齐。",
+      "patterns": [
+        "共同幻觉同学",
+        "快速测验同伴"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "你们懂得种鬼意的感觉吗",
+          "note": "你们懂得吗"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "全靠你们众筹得了",
+          "note": "全靠你们众筹"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "快速告诉我"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "意大利面断三段、曼德拉2013去世、皮卡丘尾巴测题、众筹伪片内容。",
+      "patterns": [
+        "意面三段",
+        "2013",
+        "皮卡丘",
+        "伪片内容"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "掰意大利面会断成三级",
+          "note": "断成三级"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "直到2013年才去世",
+          "note": "2013年才去世"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "平卡秋尾巴之后",
+          "note": "平卡秋尾巴"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "用专业机器就可以断成两段",
+          "note": "断成两段"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场回忆中密→质证高密→重做低密戏谑→定义中密→测题高密。",
+      "patterns": [
+        "中密回忆",
+        "高密质证",
+        "低密戏谑",
+        "中密定义",
+        "高密测"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "连视频的具体内容大家都回去了",
+          "note": "具体内容"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "说明问题"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "做出来"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就会叫做曼德拉效忆",
+          "note": "叫做"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "是不是脑子里第一个帽出来的是",
+          "note": "冒出来"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "众口回忆→检索反诘→重做兑现→定义科普→快问例子，口语碎片衔接。",
+      "patterns": [
+        "众口",
+        "反诘",
+        "兑现",
+        "科普",
+        "快问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "有人说说大学同学一起看的",
+          "note": "有人说"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "说明问题吗"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "做出来"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "曼德拉效忆",
+          "note": "曼德拉"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "现在快速告诉我",
+          "note": "快速"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "毕导「用观众幻觉做片」元科普：半讽天才评论区，又认真给效应起源。",
+      "patterns": [
+        "元科普",
+        "半讽评论区",
+        "认真起源"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s32",
+          "snippet": "哎 你看娘娘这这个天才",
+          "note": "这个天才"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "我就把你们回忠的视频做出来吧",
+          "note": "回忠视频做出来"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "曼德拉出于后",
+          "note": "曼德拉出于后"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "从未做过却万人看过 + 意大利面三段 + 曼德拉效应命名。",
+      "patterns": [
+        "万人伪看",
+        "意面三段",
+        "效应命名"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "没做过的视频完整的拥挂出来了",
+          "note": "没做过的视频"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "掰意大利面会断成三级",
+          "note": "断成三级"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "曼德拉效忆",
+          "note": "曼德拉效忆"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "集体伪记忆钩→检索证伪→按忆重做→命名科普骨架可改编观宇心理/科普口播；需清理ASR。",
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "没做过的视频完整的拥挂出来了",
+          "note": "伪片钩可迁"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "听出来这还不说明问题吗",
+          "note": "证伪反诘可迁"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "就会叫做曼德拉效忆",
+          "note": "命名收可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s13",
+    "s22",
+    "s27",
+    "s34",
+    "s39",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66"
+  ],
+  "fields_complete_25": true
+}

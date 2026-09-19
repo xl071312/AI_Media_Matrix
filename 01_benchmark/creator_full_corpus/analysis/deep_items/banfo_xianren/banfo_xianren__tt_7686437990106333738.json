@@ -1,0 +1,1358 @@
+{
+  "creator_id": "banfo_xianren",
+  "work_id": "banfo_xianren__tt_7686437990106333738",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7686437990106333738/",
+  "source_sha256": "fb5d31d8fbcfd1e45a65a5d8a691b1797467dacccd432c8d8e12ea8294f94023",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 107,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 1,
+      "snippet": "1"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 23,
+      "snippet": "酒店行业为什么很多时候给人一种快要完了的感觉？"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "因为太多搞酒店的没文化了。"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 5,
+      "snippet": "这很麻烦。"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 34,
+      "snippet": "当酒店，尤其是中高端酒店没文化的时候，就意味着你的品牌其实并不存在。"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 24,
+      "snippet": "用户从来不是在选你，只是没得选了只剩你还有房间。"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "比你好的，没房间了而已。"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 28,
+      "snippet": "酒店行业卷到今天，用的都是差不多的供应商、差不多的外包。"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 29,
+      "snippet": "这个时候，就更需要一些不一样的理由，来回答“为什么是你”。"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 16,
+      "snippet": "而文化，正是这个问题的根源答案。"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 1,
+      "snippet": "2"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 24,
+      "snippet": "2026年9月13日，舞剧《栋梁》全季专场落幕。"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 6,
+      "snippet": "我也去看了。"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 43,
+      "snippet": "说实话，我对舞剧这个形式了解并不多，但并不影响我感受真正高品质艺术作品带来的那种震撼。"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 28,
+      "snippet": "在光与影之间捕捉模糊感觉，本就是一种非常高级的文化具象。"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 89,
+      "snippet": "甚至主创们选择去做这个事情，本就是一种追求艺术的表现——近五十个演员的调度和编排、历时三年的心血，而且不像电影或电视剧做出来就可以零成本复刻，舞剧的每一次演出都"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 20,
+      "snippet": "艺术当然不可被估价，但投入是一种试金石。"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 42,
+      "snippet": "演后谈中，韩真、周莉亚提到由于这部舞剧是新剧，宣发过程中能披露给全季的信息少得可怜。"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 31,
+      "snippet": "但全季依然给了极大的耐心，其力度和决心足以让艺术家都为之感念。"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 22,
+      "snippet": "很简单，因为全季走的，一直都是人文关怀路线。"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 18,
+      "snippet": "很多人一听到人文关怀就理解为掉书袋。"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 31,
+      "snippet": "其实当你走进大堂的时候，那一抹禅茶香气，就是全季对人文的理解。"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "谁说人文关怀只限于掉书袋？"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "谁说做文化只能空对空？"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 16,
+      "snippet": "人生有五感，视觉之外，亦有乾坤。"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 24,
+      "snippet": "人的记忆与感受，二者都是指引人文关怀落地的坐标。"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 23,
+      "snippet": "全季十年如一日做人文大赏，是在烙印用户的记忆。"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 16,
+      "snippet": "而这种记忆，会在时间里慢慢发酵。"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 1,
+      "snippet": "3"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 48,
+      "snippet": "过去十年，季琦和一众艺术家开启对全季美学的探讨，邀请多位艺术家分享他们眼中“何为人生最好时节”；"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 34,
+      "snippet": "让顾客在声与影中遇见诗的季节，用诗和艺术寻找“生命的湖”......"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 27,
+      "snippet": "这个酒店品牌，一直在用自己的方式探索和回答人文的边界。"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "人文是《红楼梦》？"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 5,
+      "snippet": "是大自然？"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 12,
+      "snippet": "还是戏剧《暗恋桃花源》？"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 30,
+      "snippet": "亦或者是童话和昆曲，是观众和艺术家们同做的一场永不结束的梦。"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 69,
+      "snippet": "艺术的力量不仅在于当下的触动，更在于将来的怀念——你曾亲眼见过某个震撼人心的艺术作品，于是在各种相关场景里，你都会一次次回想起曾经的触动。"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 30,
+      "snippet": "这种在顾客生命中留下痕迹的力量，正是所有品牌梦寐以求的效果。"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 34,
+      "snippet": "关键是，全季做的这一系列东西，虽然历时十年，主题包罗万象，但并不散。"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 16,
+      "snippet": "这就是有文化的体现，而且不刻意。"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 34,
+      "snippet": "真刻意的都去搞巡演和游乐园了，不会像全季这样一年又一年地做文化活动。"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 44,
+      "snippet": "因为文化活动这东西太复杂也太不可控了，阴间和阳间只有一线之隔，自嗨和自信也只有一字之差。"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 40,
+      "snippet": "但凡品牌的水平和眼光差上那么一点儿，那就是钱也花了，文化也没弄好，最后成了笑话。"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "全季为什么敢这么做？"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 25,
+      "snippet": "因为真有自信、真有一套，也因为真有文化、真有风骨。"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 18,
+      "snippet": "不要觉得“做人文”是一件简单的事情。"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 11,
+      "snippet": "花钱简单，但花在哪里？"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 4,
+      "snippet": "怎么花？"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 4,
+      "snippet": "花多久？"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 34,
+      "snippet": "是艺术家把东西做火了再去摘桃子，还是像全季一样，认定作品就毫不迟疑？"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 12,
+      "snippet": "这里面，是有巨大差异的。"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 17,
+      "snippet": "关键是，这是全季人文大赏的第十年。"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "十年是什么概念？"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 13,
+      "snippet": "很多企业甚至都活不到十年。"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 36,
+      "snippet": "但全季把一个不知道什么时候有回报、也不知道能不能有回报的事情，做了十年。"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 10,
+      "snippet": "十年种树，今日花开。"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 1,
+      "snippet": "4"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 48,
+      "snippet": "还有一个很重要的问题：在全季人文大赏的第十年，全季为什么要选择请观众看一部有关中国建筑史的舞剧？"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 19,
+      "snippet": "答案其实很简单：因为全季足够尊重顾客。"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 26,
+      "snippet": "那些没文化的酒店不仅自己没文化，还觉得顾客也没文化。"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 42,
+      "snippet": "整富丽堂皇堆砌的那套，归根究底是看不起顾客，觉得顾客只能理解土财主、暴发户那套东西。"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 27,
+      "snippet": "而全季不仅自己有文化，还尊重顾客，认为顾客能理解文化。"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 64,
+      "snippet": "巴山夜雨十年灯，跟闪闪亮亮、富丽堂皇、只要看得见的地方就给我闪起来相比，前者不仅要有文化，更重要的是要相信顾客能get这种意境。"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 57,
+      "snippet": "而后者则是把人当机器，默认你没文化、只能欣赏一些流于表面的东西，所以懒得为你花心思，多放几个小灯泡意思意思就得了。"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 7,
+      "snippet": "俞伯牙厉害吧？"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 18,
+      "snippet": "可他终其一生，都找不到第二个钟子期。"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 13,
+      "snippet": "但全季相信，曲高未必和寡。"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 25,
+      "snippet": "它做这个默默做了十年，就是在等一个停下来聆听的你。"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 13,
+      "snippet": "说白了，全季不是相信自己。"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 7,
+      "snippet": "而是，相信你。"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 12,
+      "snippet": "说到这里，必须说回季琦。"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 16,
+      "snippet": "别人请客，啖的是好酒好肉好热闹；"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 13,
+      "snippet": "季琦请客，品的是戏梦人生。"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 21,
+      "snippet": "请人什么，代表你想和对方建立什么样的连接。"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 14,
+      "snippet": "请吃大鱼大肉，那是兄弟情谊；"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 12,
+      "snippet": "请喝大酒，那是利益交换；"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 42,
+      "snippet": "请看一场关于文化根脉的舞剧，那是在说——我觉得你也是会在意这件事的人，我们是同路人。"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 52,
+      "snippet": "2026年，全季酒店通关全球酒店品牌榜，新品牌全季大观亮相巴黎设计周，商业规模和国际影响力同时抵达新高。"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 51,
+      "snippet": "但全季没有把人文大赏十周年做成一场商业庆典，没有发一堆通稿生怕别人不知道，没有在舞台上陈列奖杯和数据。"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 29,
+      "snippet": "他们就是请了一千多个人，安安静静看了一场戏，听了一场对谈。"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "季琦的这份真诚很轻。"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 12,
+      "snippet": "但又很重，压碎无数虚伪。"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 1,
+      "snippet": "5"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 18,
+      "snippet": "但真正让我觉得感叹的，是全季的品味。"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 52,
+      "snippet": "酒店行业里，做文化的不少，甚至现在都在说文化，但大多数是做给媒体看的，做给投资人看的，做给评奖机构看的。"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 20,
+      "snippet": "真正把文化做成品牌基因的，全季睥睨群雄。"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 74,
+      "snippet": "不谈虚的，只说实在的，有哪个酒店品牌，能连续十年，请白先勇、林怀民、赖声川、张军、北岛这些人，不为了卖货，不为了上热搜，就是认认真真做一场人文活动？"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 22,
+      "snippet": "甚至，如果没有刻意说，大部分用户都未必知道。"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 20,
+      "snippet": "在人不知道的地方下本，才能说明真的是爱。"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 56,
+      "snippet": "有哪个酒店品牌，能在商业通关的时候，不去花天酒地锣鼓喧天鞭炮齐鸣通稿乱飞，而是请一千多个会员安安静静看一场舞剧？"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 45,
+      "snippet": "有哪个酒店品牌，能把“温良恭俭让”五个字，从设计理念一路做到客房里的每一缕光、每一寸木纹？"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 14,
+      "snippet": "全季的人文，是长在骨子里的。"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 19,
+      "snippet": "这种品味，装不出来，学不会，也抄不走。"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 42,
+      "snippet": "因为它背后是一个人——季琦——对文化的真正敬畏，对审美的真正坚持，对顾客的真正尊重。"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 30,
+      "snippet": "更狠的是，季琦做得了东方文化，更做得了有东方文化神韵的酒店。"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 15,
+      "snippet": "东方这两个字，形好找，意难抓。"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 37,
+      "snippet": "就说那个新品牌全季大观，就是把十年人文大赏积累的判断力，落进了一间客舍里。"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 57,
+      "snippet": "用茶室代替前台，用水、云、山、茶、松的设计元素替代富丽堂皇的装饰，别人还在卷SOP，全季大观已经把文化做成了产品。"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 24,
+      "snippet": "文化这种概念，就是会真实地影响用户对酒店的决策。"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 60,
+      "snippet": "因为酒店这个市场已经不缺供给，甚至早已供给过剩，而当消费者面临太多选择的时候，文化自然就成为了天平上那颗不可忽视的砝码。"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 26,
+      "snippet": "但另一方面，文化又从来都不是一个可以一蹴而就的东西。"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 24,
+      "snippet": "它需要时间，需要积淀，需要持之以恒的相信和付出。"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 28,
+      "snippet": "当整个行业苦着脸思考怎么做文化的时候，全季可以从容一笑。"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 18,
+      "snippet": "为了今天这一笑，全季足足准备了十年。"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 29,
+      "snippet": "就像一棵树想要成为栋梁，甚至要从几十年乃至百年前开始生长。"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 33,
+      "snippet": "而那些还在卷SOP、卷价格、卷流量的同行，可能连种子都还没埋下去。"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 9,
+      "snippet": "而全季的花，开了。"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "「酒店为何快完了」设问，答案「没文化」立刻立题，再落到「为什么是你」需文化回答。",
+      "patterns": [
+        "行业危机设问",
+        "没文化破题",
+        "为什么是你"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "酒店行业为什么很多时候给人一种快要完了的感觉？",
+          "note": "酒店为何快完了"
+        },
+        {
+          "sentence_id": "s3",
+          "snippet": "因为太多搞酒店的没文化了。",
+          "note": "太多没文化"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "这个时候，就更需要一些不一样的理由，来回答“为什么是你”。",
+          "note": "为什么是你"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "中高端无文化=无品牌→《栋梁》专场见证人文→十年人文大赏烙印记忆→选建筑史舞剧=尊重顾客→季琦请客是同路人→品味学不会→十年种花开。",
+      "patterns": [
+        "无文化无品牌→专场见证→十年积淀→尊重顾客→同路人→学不会"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "当酒店，尤其是中高端酒店没文化的时候，就意味着你的品牌其实并不存在。",
+          "note": "没文化则品牌不存在"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "很简单，因为全季走的，一直都是人文关怀路线。",
+          "note": "人文关怀路线"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "学不会抄不走"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "function": "crisis_thesis",
+          "note": "没文化=品牌不存在"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28"
+          ],
+          "function": "show_witness",
+          "note": "栋梁专场+禅茶香气具象人文"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56"
+          ],
+          "function": "ten_year_craft",
+          "note": "十年人文边界探索与敢做自信"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82"
+          ],
+          "function": "respect_guest",
+          "note": "相信顾客有文化+季琦请客同路人"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107"
+          ],
+          "function": "taste_moat",
+          "note": "品味在骨子里+大观落产品+树成栋梁"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「很简单因为全季」「说到这里必须说回季琦」「但真正让我感叹的是品味」升级。",
+      "patterns": [
+        "很简单归因",
+        "必须说回人物",
+        "但真正感叹升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "很简单，因为全季走的，一直都是人文关怀路线。",
+          "note": "很简单因为全季"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "说到这里，必须说回季琦。",
+          "note": "必须说回季琦"
+        },
+        {
+          "sentence_id": "s84",
+          "snippet": "但真正让我觉得感叹的，是全季的品味。",
+          "note": "真正感叹品味"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "富丽堂皇堆砌看不起顾客 vs 巴山夜雨相信顾客；摘桃子巡演 vs 十年默默做；卷SOP价格 vs 文化成产品。",
+      "patterns": [
+        "土豪堆砌/意境信任",
+        "摘桃/十年耕耘",
+        "SOP/文化产品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "整富丽堂皇堆砌的那套，归根究底是看不起顾客，觉得顾客只能理解土财主、暴发户那套东",
+          "note": "富丽堂皇看不起"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "巴山夜雨十年灯，跟闪闪亮亮、富丽堂皇、只要看得见的地方就给我闪起来相比，前者不仅",
+          "note": "巴山夜雨对照"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "用茶室代替前台，用水、云、山、茶、松的设计元素替代富丽堂皇的装饰，别人还在卷SO",
+          "note": "别人卷SOP"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「人文是红楼梦？大自然？暗恋桃花源？」枚举问+「全季为何敢」+连续「有哪个酒店」排比质证。",
+      "patterns": [
+        "人文边界枚举问",
+        "敢做追问",
+        "有哪个排比质证"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s33",
+          "snippet": "人文是《红楼梦》？",
+          "note": "人文是红楼梦"
+        },
+        {
+          "sentence_id": "s44",
+          "snippet": "全季为什么敢这么做？",
+          "note": "为什么敢这么做"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "不谈虚的，只说实在的，有哪个酒店品牌，能连续十年，请白先勇、林怀民、赖声川、张军",
+          "note": "有哪个连续十年"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "舞剧《栋梁》、禅茶大堂香、白先勇林怀民赖声川名单、全季大观茶室代前台。",
+      "patterns": [
+        "舞剧现场",
+        "感官香气",
+        "艺术家名单",
+        "大观产品"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "2026年9月13日，舞剧《栋梁》全季专场落幕。",
+          "note": "栋梁专场"
+        },
+        {
+          "sentence_id": "s22",
+          "snippet": "其实当你走进大堂的时候，那一抹禅茶香气，就是全季对人文的理解。",
+          "note": "禅茶香气"
+        },
+        {
+          "sentence_id": "s87",
+          "snippet": "不谈虚的，只说实在的，有哪个酒店品牌，能连续十年，请白先勇、林怀民、赖声川、张军",
+          "note": "白先勇等"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "用茶室代替前台，用水、云、山、茶、松的设计元素替代富丽堂皇的装饰，别人还在卷SO",
+          "note": "茶室代前台"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「人文关怀」落到大堂香气、客房光与木纹、水云山茶松设计元素。",
+      "patterns": [
+        "人文→五感触点",
+        "东方神韵→客舍元素"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "其实当你走进大堂的时候，那一抹禅茶香气，就是全季对人文的理解。",
+          "note": "禅茶香气"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "有哪个酒店品牌，能把“温良恭俭让”五个字，从设计理念一路做到客房里的每一缕光、每",
+          "note": "光与木纹"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "用茶室代替前台，用水、云、山、茶、松的设计元素替代富丽堂皇的装饰，别人还在卷SO",
+          "note": "水云山茶松"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「全季睥睨群雄」「装不出来学不会抄不走」「没文化酒店看不起顾客」。",
+      "patterns": [
+        "睥睨判决",
+        "学不会护城河",
+        "看不起顾客批判"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "真正把文化做成品牌基因的，全季睥睨群雄。",
+          "note": "睥睨群雄"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "学不会"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "那些没文化的酒店不仅自己没文化，还觉得顾客也没文化。",
+          "note": "觉得顾客没文化"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "澄清人文≠掉书袋；纠正「相信自己」为「相信你（顾客）」。",
+      "patterns": [
+        "掉书袋误读纠正",
+        "自信对象纠偏到顾客"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "很多人一听到人文关怀就理解为掉书袋。",
+          "note": "人文被理解成掉书袋"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "谁说人文关怀只限于掉书袋？",
+          "note": "谁说只限掉书袋"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "说白了，全季不是相信自己。",
+          "note": "不是相信自己"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "而是，相信你。",
+          "note": "而是相信你"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "章节数字推进；「花在哪里/怎么花/花多久」短问加速；结尾树与花意象缓收。",
+      "patterns": [
+        "章节节奏",
+        "短问三连",
+        "栋梁花开缓收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s47",
+          "snippet": "花钱简单，但花在哪里？",
+          "note": "花在哪里"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "怎么花？",
+          "note": "怎么花"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而全季的花，开了。",
+          "note": "花开了"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "行业焦虑→现场震撼感念→十年敬畏→尊重感动→品味叹服→花开自豪。",
+      "patterns": [
+        "焦虑→震→敬→感→叹→豪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "酒店行业为什么很多时候给人一种快要完了的感觉？",
+          "note": "行业焦虑"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "说实话，我对舞剧这个形式了解并不多，但并不影响我感受真正高品质艺术作品带来的那种",
+          "note": "现场震撼"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而全季的花，开了。",
+          "note": "花开自豪"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开题文化是「为什么是你」的答案，收于「全季的花开了」对栋梁树意象兑现。",
+      "patterns": [
+        "为什么是你→花开兑现",
+        "栋梁意象首尾"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "而文化，正是这个问题的根源答案。",
+          "note": "文化是根源答案"
+        },
+        {
+          "sentence_id": "s105",
+          "snippet": "就像一棵树想要成为栋梁，甚至要从几十年乃至百年前开始生长。",
+          "note": "树成栋梁"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而全季的花，开了。",
+          "note": "花开了"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "标题即反CTA「别学你学不会」；劝同行勿速成抄人文。",
+      "patterns": [
+        "反学习CTA",
+        "护城河宣告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s46",
+          "snippet": "不要觉得“做人文”是一件简单的事情。",
+          "note": "做人文不简单"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "学不会抄不走"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "阴间阳间一线之隔、俞伯牙钟子期、请吃大鱼大肉层级隐喻，文人腔+酒店黑话。",
+      "patterns": [
+        "阴阳自嗨比喻",
+        "伯牙子期",
+        "请客层级隐喻"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s42",
+          "snippet": "因为文化活动这东西太复杂也太不可控了，阴间和阳间只有一线之隔，自嗨和自信也只有一",
+          "note": "阴间阳间"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "俞伯牙厉害吧？",
+          "note": "俞伯牙"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "请吃大鱼大肉，那是兄弟情谊；",
+          "note": "请吃大鱼大肉"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "品牌颂词密度高，批评同行段易显站队；十年叙事重复感。",
+      "patterns": [
+        "颂词偏满",
+        "站队感",
+        "十年重复"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s86",
+          "snippet": "真正把文化做成品牌基因的，全季睥睨群雄。",
+          "note": "睥睨颂"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但全季把一个不知道什么时候有回报、也不知道能不能有回报的事情，做了十年。",
+          "note": "做了十年复述"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "从行业同质化问题→现场观演→追问为何选建筑史→落到尊重与季琦人物。",
+      "patterns": [
+        "问题→现场→追问→人物"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "我也去看了。",
+          "note": "我也去看了"
+        },
+        {
+          "sentence_id": "s58",
+          "snippet": "还有一个很重要的问题：在全季人文大赏的第十年，全季为什么要选择请观众看一部有关中",
+          "note": "为何选建筑史舞剧"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把读者定为能get意境的「同路人」，与被小灯泡糊弄的「机器顾客」对位。",
+      "patterns": [
+        "同路人抬举",
+        "机器顾客他者"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s70",
+          "snippet": "而是，相信你。",
+          "note": "而是相信你"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "请看一场关于文化根脉的舞剧，那是在说——我觉得你也是会在意这件事的人，我们是同路",
+          "note": "我们是同路人"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "而后者则是把人当机器，默认你没文化、只能欣赏一些流于表面的东西，所以懒得为你花心",
+          "note": "把人当机器"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "2026.9.13栋梁专场、近五十演员三年、人文大赏第十年、一千多会员看戏、巴黎设计周大观。",
+      "patterns": [
+        "日期场次锚",
+        "十年数字",
+        "千人静看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "2026年9月13日，舞剧《栋梁》全季专场落幕。",
+          "note": "9月13日栋梁"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "关键是，这是全季人文大赏的第十年。",
+          "note": "第十年"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "他们就是请了一千多个人，安安静静看了一场戏，听了一场对谈。",
+          "note": "一千多人看戏"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开题低密→观演中密→十年史高密→请客隐喻中密→护城河金句降密。",
+      "patterns": [
+        "低→观演中→史高→金句降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "因为太多搞酒店的没文化了。",
+          "note": "开题低密"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "过去十年，季琦和一众艺术家开启对全季美学的探讨，邀请多位艺术家分享他们眼中“何为",
+          "note": "十年史"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "金句降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "危机设问→专场叙事→十年论证→尊重命题→人物象征→品味护城河收。",
+      "patterns": [
+        "危机-叙事-十年-尊重-护城河"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "而文化，正是这个问题的根源答案。",
+          "note": "文化答案"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "答案其实很简单：因为全季足够尊重顾客。",
+          "note": "尊重顾客"
+        },
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "学不会"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "文化鉴赏型品牌观察者：抬顾客智商，贬土豪堆砌，替季琦立传式赞美。",
+      "patterns": [
+        "鉴赏观察者",
+        "立传式赞"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s62",
+          "snippet": "而全季不仅自己有文化，还尊重顾客，认为顾客能理解文化。",
+          "note": "尊重顾客有文化"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "因为它背后是一个人——季琦——对文化的真正敬畏，对审美的真正坚持，对顾客的真正尊",
+          "note": "季琦敬畏审美"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "「别学全季你学不会」+「不是相信自己而是相信你」+「全季的花开了」。",
+      "patterns": [
+        "学不会标题句",
+        "相信你",
+        "花开了"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s93",
+          "snippet": "这种品味，装不出来，学不会，也抄不走。",
+          "note": "学不会"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "而是，相信你。",
+          "note": "相信你"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "而全季的花，开了。",
+          "note": "花开了"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「文化=回答为什么是你+长期不计回报投入+尊重用户智商」可改编到其他服务品牌，需降站队颂词密度。",
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "这个时候，就更需要一些不一样的理由，来回答“为什么是你”。",
+          "note": "为什么是你"
+        },
+        {
+          "sentence_id": "s55",
+          "snippet": "但全季把一个不知道什么时候有回报、也不知道能不能有回报的事情，做了十年。",
+          "note": "十年不知回报"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "而是，相信你。",
+          "note": "相信顾客"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s3",
+    "s9",
+    "s5",
+    "s20",
+    "s93",
+    "s1",
+    "s4",
+    "s6",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107"
+  ],
+  "fields_complete_25": true
+}

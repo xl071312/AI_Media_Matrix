@@ -1,0 +1,1383 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "work_id": "xiaolin_shuo__yt_SdZ-hvVdFTk",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=SdZ-hvVdFTk",
+  "source_sha256": "9729b54b5db1870be407eb8b8e6486d3203c73eb27ed8ef7b4afff3301b74c9d",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 3,
+      "snippet": "Hi~"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 3,
+      "snippet": "朋友們"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 10,
+      "snippet": "不知道你有沒有意識到"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "美元今年是跌慘了"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 9,
+      "snippet": "上半年是近半個世紀"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 7,
+      "snippet": "表現最差的一年"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 6,
+      "snippet": "從年初到現在"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 14,
+      "snippet": "美元指數已經下跌了超過10%"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 11,
+      "snippet": "你別覺得10%沒多少啊"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 5,
+      "snippet": "這可是美元"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 7,
+      "snippet": "不是什麼比特幣"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "這是全球資產的標尺"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 14,
+      "snippet": "這個尺子半年裡頭縮短了10%"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 13,
+      "snippet": "約等於所有人都長高了10%"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 4,
+      "snippet": "與此同時"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 16,
+      "snippet": "全球的資產價格都出現了久違的爆發"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 7,
+      "snippet": "最猛的就是黃金"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 6,
+      "snippet": "你就看這張圖"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 13,
+      "snippet": "這是過去半個世紀黃金的走勢"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 9,
+      "snippet": "我只能用瘋狂來形容"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 10,
+      "snippet": "比特幣也是創出了新高"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 3,
+      "snippet": "也瘋狂"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 11,
+      "snippet": "不過它可能一直都挺瘋狂"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 4,
+      "snippet": "除此之外"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "全球的股市也是"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "什麼美股歐股A股港股日股"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 3,
+      "snippet": "它全漲"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 7,
+      "snippet": "事出反常必有妖"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "這個妖在哪裡"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "咱們今天就來看看"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 9,
+      "snippet": "這個美元暴跌的背後"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 3,
+      "snippet": "今天呢"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 12,
+      "snippet": "我來跟大家來一個專業一點"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 16,
+      "snippet": "但同時又很直觀很有意思的方式來聊"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 6,
+      "snippet": "就是看圖說話"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "來先看幾張圖"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 7,
+      "snippet": "這個是美元指數"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 13,
+      "snippet": "而這個是美股標普500指數"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 3,
+      "snippet": "你看啊"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 16,
+      "snippet": "之前股市跟美元相關性還是非常高的"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 9,
+      "snippet": "大家是一起漲一起跌"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "但你看這兩個人"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 11,
+      "snippet": "手拉手高高興興共振著呢"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "5月份開始"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 5,
+      "snippet": "剛振到一半"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 5,
+      "snippet": "股票就說哎"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "\"算了不跟你玩了\""
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 4,
+      "snippet": "自己跑了"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 14,
+      "snippet": "美元一個人孤零零的留在了底下"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 16,
+      "snippet": "我再給你看個共振得更happy的"
+    },
+    {
+      "sentence_id": "s375",
+      "char_len": 4,
+      "snippet": "學習又好"
+    },
+    {
+      "sentence_id": "s376",
+      "char_len": 9,
+      "snippet": "那我不能減少作業量"
+    },
+    {
+      "sentence_id": "s377",
+      "char_len": 11,
+      "snippet": "不然大家可能精力太充沛"
+    },
+    {
+      "sentence_id": "s378",
+      "char_len": 6,
+      "snippet": "都跑去玩去了"
+    },
+    {
+      "sentence_id": "s379",
+      "char_len": 13,
+      "snippet": "玩多了還可能把身體給玩壞了"
+    },
+    {
+      "sentence_id": "s380",
+      "char_len": 10,
+      "snippet": "到時候學習成績又不好"
+    },
+    {
+      "sentence_id": "s381",
+      "char_len": 5,
+      "snippet": "那更遲完了"
+    },
+    {
+      "sentence_id": "s382",
+      "char_len": 9,
+      "snippet": "這就是經濟的\"漲\""
+    },
+    {
+      "sentence_id": "s383",
+      "char_len": 10,
+      "snippet": "學生他也可能\"智障\""
+    },
+    {
+      "sentence_id": "s384",
+      "char_len": 12,
+      "snippet": "一個精緻的諧音梗送給大家"
+    },
+    {
+      "sentence_id": "s385",
+      "char_len": 9,
+      "snippet": "反正大概就這個意思"
+    },
+    {
+      "sentence_id": "s386",
+      "char_len": 5,
+      "snippet": "這班主任呢"
+    },
+    {
+      "sentence_id": "s387",
+      "char_len": 14,
+      "snippet": "每個月就盯著學生們的健康指標"
+    },
+    {
+      "sentence_id": "s388",
+      "char_len": 13,
+      "snippet": "美聯儲每個月就盯著就業數據"
+    },
+    {
+      "sentence_id": "s389",
+      "char_len": 8,
+      "snippet": "什麼時候足夠差了"
+    },
+    {
+      "sentence_id": "s390",
+      "char_len": 6,
+      "snippet": "我就立刻降息"
+    },
+    {
+      "sentence_id": "s391",
+      "char_len": 8,
+      "snippet": "實際情況是什麼呢"
+    },
+    {
+      "sentence_id": "s392",
+      "char_len": 12,
+      "snippet": "今年上半年它一般但也OK"
+    },
+    {
+      "sentence_id": "s393",
+      "char_len": 11,
+      "snippet": "再加上特朗普那邊的政策"
+    },
+    {
+      "sentence_id": "s394",
+      "char_len": 8,
+      "snippet": "不確定性又非常高"
+    },
+    {
+      "sentence_id": "s395",
+      "char_len": 13,
+      "snippet": "所以聯準會它降一半就不降了"
+    },
+    {
+      "sentence_id": "s396",
+      "char_len": 8,
+      "snippet": "而最近這幾個月呢"
+    },
+    {
+      "sentence_id": "s397",
+      "char_len": 15,
+      "snippet": "你看這個還是12月份預期的利率"
+    },
+    {
+      "sentence_id": "s398",
+      "char_len": 13,
+      "snippet": "這三個月的月初都出現了大跳"
+    },
+    {
+      "sentence_id": "s399",
+      "char_len": 7,
+      "snippet": "這其實都是因為"
+    },
+    {
+      "sentence_id": "s400",
+      "char_len": 13,
+      "snippet": "NFP非農就業數據公佈之後"
+    },
+    {
+      "sentence_id": "s401",
+      "char_len": 7,
+      "snippet": "帶來的市場反應"
+    },
+    {
+      "sentence_id": "s402",
+      "char_len": 10,
+      "snippet": "7月份就業數據還不錯"
+    },
+    {
+      "sentence_id": "s403",
+      "char_len": 16,
+      "snippet": "大家覺得美聯儲可能不會降那麼多了"
+    },
+    {
+      "sentence_id": "s404",
+      "char_len": 10,
+      "snippet": "利率噌的一下就跳起來"
+    },
+    {
+      "sentence_id": "s405",
+      "char_len": 10,
+      "snippet": "8月份就業數據非常慘"
+    },
+    {
+      "sentence_id": "s406",
+      "char_len": 6,
+      "snippet": "你看這個利率"
+    },
+    {
+      "sentence_id": "s407",
+      "char_len": 9,
+      "snippet": "咵嚓一下就掉下來了"
+    },
+    {
+      "sentence_id": "s408",
+      "char_len": 13,
+      "snippet": "這個數據我跟你說非常關鍵哈"
+    },
+    {
+      "sentence_id": "s409",
+      "char_len": 9,
+      "snippet": "因為它真的是太慘了"
+    },
+    {
+      "sentence_id": "s410",
+      "char_len": 11,
+      "snippet": "好像我這個班主任的班裡"
+    },
+    {
+      "sentence_id": "s411",
+      "char_len": 8,
+      "snippet": "學生已經開始眩暈"
+    },
+    {
+      "sentence_id": "s412",
+      "char_len": 5,
+      "snippet": "開始嘔吐了"
+    },
+    {
+      "sentence_id": "s413",
+      "char_len": 16,
+      "snippet": "班主任他就得立刻馬上減少作業量了"
+    },
+    {
+      "sentence_id": "s414",
+      "char_len": 11,
+      "snippet": "所以8月份那次數據之後"
+    },
+    {
+      "sentence_id": "s759",
+      "char_len": 5,
+      "snippet": "美聯儲降息"
+    },
+    {
+      "sentence_id": "s760",
+      "char_len": 4,
+      "snippet": "美元疲軟"
+    },
+    {
+      "sentence_id": "s761",
+      "char_len": 10,
+      "snippet": "是會稍微利好其他國家"
+    },
+    {
+      "sentence_id": "s762",
+      "char_len": 8,
+      "snippet": "尤其是發展中國家"
+    },
+    {
+      "sentence_id": "s763",
+      "char_len": 7,
+      "snippet": "其實對中國也是"
+    },
+    {
+      "sentence_id": "s764",
+      "char_len": 8,
+      "snippet": "中國雖然也在降息"
+    },
+    {
+      "sentence_id": "s765",
+      "char_len": 6,
+      "snippet": "但美國的降息"
+    },
+    {
+      "sentence_id": "s766",
+      "char_len": 13,
+      "snippet": "就會讓中國央行降的舒服一些"
+    },
+    {
+      "sentence_id": "s767",
+      "char_len": 6,
+      "snippet": "不用那麼擔心"
+    },
+    {
+      "sentence_id": "s768",
+      "char_len": 14,
+      "snippet": "人民幣會不會持續下跌這些問題"
+    },
+    {
+      "sentence_id": "s769",
+      "char_len": 12,
+      "snippet": "好咱們今天看了這麼多張圖"
+    },
+    {
+      "sentence_id": "s770",
+      "char_len": 7,
+      "snippet": "知道了美股美債"
+    },
+    {
+      "sentence_id": "s771",
+      "char_len": 10,
+      "snippet": "為什麼跟美元\"分手\""
+    },
+    {
+      "sentence_id": "s772",
+      "char_len": 9,
+      "snippet": "你就說咱這看圖說話"
+    },
+    {
+      "sentence_id": "s773",
+      "char_len": 9,
+      "snippet": "是不是又客觀又直觀"
+    },
+    {
+      "sentence_id": "s774",
+      "char_len": 10,
+      "snippet": "那最後最關鍵的一張圖"
+    },
+    {
+      "sentence_id": "s775",
+      "char_len": 10,
+      "snippet": "到底是什麼神秘的指數"
+    },
+    {
+      "sentence_id": "s776",
+      "char_len": 14,
+      "snippet": "跟標普500的相關性這麼高呢"
+    },
+    {
+      "sentence_id": "s777",
+      "char_len": 1,
+      "snippet": "哎"
+    },
+    {
+      "sentence_id": "s778",
+      "char_len": 9,
+      "snippet": "量股小Lin的粉絲"
+    },
+    {
+      "sentence_id": "s779",
+      "char_len": 5,
+      "snippet": "這說明什麼"
+    },
+    {
+      "sentence_id": "s780",
+      "char_len": 20,
+      "snippet": "說明真正推動美上漲的美量上漲的美量股數8"
+    },
+    {
+      "sentence_id": "s781",
+      "char_len": 6,
+      "snippet": "是你們大家呀"
+    },
+    {
+      "sentence_id": "s782",
+      "char_len": 5,
+      "snippet": "開玩笑的哈"
+    },
+    {
+      "sentence_id": "s783",
+      "char_len": 8,
+      "snippet": "其實說明的是數據"
+    },
+    {
+      "sentence_id": "s784",
+      "char_len": 12,
+      "snippet": "它有的時候也是可以騙人的"
+    },
+    {
+      "sentence_id": "s785",
+      "char_len": 4,
+      "snippet": "相關性高"
+    },
+    {
+      "sentence_id": "s786",
+      "char_len": 9,
+      "snippet": "它也可能就是個巧合"
+    },
+    {
+      "sentence_id": "s787",
+      "char_len": 3,
+      "snippet": "怎麼樣"
+    },
+    {
+      "sentence_id": "s788",
+      "char_len": 12,
+      "snippet": "這個深度是不是一下就有了"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "Hi朋友们+美元今年跌惨了+半世纪最差+10%尺子缩短类比，再抛事出反常必有妖。",
+      "patterns": [
+        "招呼开场",
+        "暴跌数据钩",
+        "尺子类比",
+        "反常必有妖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "Hi~",
+          "note": "Hi"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "美元今年是跌慘了",
+          "note": "跌惨了"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "這個尺子半年裡頭縮短了10%",
+          "note": "尺子缩短"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "事出反常必有妖",
+          "note": "反常必有妖"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "美元跌且资产齐涨→相关性断裂→用班主任作业量类比联储盯就业→非农驱动利率跳→降息利好他国→相关也可能巧合。",
+      "patterns": [
+        "现象异常",
+        "相关性断裂",
+        "联储类比",
+        "数据驱动",
+        "巧合收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "美元指數已經下跌了超過10%",
+          "note": "跌超10%"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "股票就說哎",
+          "note": "股票不跟了"
+        },
+        {
+          "sentence_id": "s388",
+          "snippet": "美聯儲每個月就盯著就業數據",
+          "note": "盯就业"
+        },
+        {
+          "sentence_id": "s786",
+          "snippet": "它也可能就是個巧合",
+          "note": "也可能巧合"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "美元暴跌现象与看图说话承诺",
+          "note": "开场窗"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s375",
+            "s376",
+            "s377",
+            "s378",
+            "s379",
+            "s380",
+            "s381",
+            "s382",
+            "s383",
+            "s384",
+            "s385",
+            "s386",
+            "s387",
+            "s388",
+            "s389",
+            "s390",
+            "s391",
+            "s392",
+            "s393",
+            "s394",
+            "s395",
+            "s396",
+            "s397",
+            "s398",
+            "s399",
+            "s400",
+            "s401",
+            "s402",
+            "s403",
+            "s404",
+            "s405",
+            "s406",
+            "s407",
+            "s408",
+            "s409",
+            "s410",
+            "s411",
+            "s412",
+            "s413"
+          ],
+          "function": "班主任降息类比与非农利率跳",
+          "note": "中段窗"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s759",
+            "s760",
+            "s761",
+            "s762",
+            "s763",
+            "s764",
+            "s765",
+            "s766",
+            "s767",
+            "s768",
+            "s769",
+            "s770",
+            "s771",
+            "s772",
+            "s773",
+            "s774",
+            "s775",
+            "s776",
+            "s777",
+            "s778",
+            "s779",
+            "s780",
+            "s781",
+            "s782",
+            "s783",
+            "s784",
+            "s785",
+            "s786",
+            "s787",
+            "s788"
+          ],
+          "function": "降息外溢与相关性玩笑收束",
+          "note": "收束窗"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "“与此同时/除此之外/今天呢/实际情形是什么呢/好咱们今天”推进看图与解释。",
+      "patterns": [
+        "与此同时并联",
+        "实际情形追问",
+        "好咱们收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "與此同時",
+          "note": "与此同时"
+        },
+        {
+          "sentence_id": "s391",
+          "snippet": "實際情況是什麼呢",
+          "note": "实际情形"
+        },
+        {
+          "sentence_id": "s769",
+          "snippet": "好咱們今天看了這麼多張圖",
+          "note": "好咱们今天"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "美元vs比特币体量；昔日股汇共振vs五月分手；7月就业好利率跳起vs8月惨利率掉。",
+      "patterns": [
+        "资产体量对比",
+        "共振vs分手",
+        "就业好坏利率跳"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "這可是美元",
+          "note": "这是美元不是币"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "不跟你玩了"
+        },
+        {
+          "sentence_id": "s405",
+          "snippet": "8月份就業數據非常慘",
+          "note": "8月就业惨"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "“妖在哪里”“是不是又客观又直观”“神秘指数相关这么高？”连环问拉观众。",
+      "patterns": [
+        "妖在哪里",
+        "元问收束",
+        "相关性追问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s29",
+          "snippet": "這個妖在哪裡",
+          "note": "妖在哪里"
+        },
+        {
+          "sentence_id": "s773",
+          "snippet": "是不是又客觀又直觀",
+          "note": "是不是直观"
+        },
+        {
+          "sentence_id": "s776",
+          "snippet": "跟標普500的相關性這麼高呢",
+          "note": "相关这么高"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "美元指数与标普图、黄金半世纪走势、班主任作业量、NFP非农跳点等例。",
+      "patterns": [
+        "看图例",
+        "班主任类比例",
+        "非农数据例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "這個是美元指數",
+          "note": "美元指数图"
+        },
+        {
+          "sentence_id": "s376",
+          "snippet": "那我不能減少作業量",
+          "note": "作业量"
+        },
+        {
+          "sentence_id": "s400",
+          "snippet": "NFP非農就業數據公佈之後",
+          "note": "NFP"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "“经济的胀”谐音落到学生眩晕呕吐班主任减作业；降息抽象落到人民币减压。",
+      "patterns": [
+        "胀/障谐音具象",
+        "降息→人民币舒服"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s382",
+          "snippet": "這就是經濟的\"漲\"",
+          "note": "经济的涨"
+        },
+        {
+          "sentence_id": "s412",
+          "snippet": "開始嘔吐了",
+          "note": "呕吐减作业"
+        },
+        {
+          "sentence_id": "s766",
+          "snippet": "就會讓中國央行降的舒服一些",
+          "note": "中国降得舒服"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "“我只能用疯狂形容”“这个数据非常关键哈”“数据有时也骗人”层层定调。",
+      "patterns": [
+        "疯狂形容",
+        "关键强调",
+        "数据可骗人"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "我只能用瘋狂來形容",
+          "note": "疯狂形容"
+        },
+        {
+          "sentence_id": "s408",
+          "snippet": "這個數據我跟你說非常關鍵哈",
+          "note": "非常关键"
+        },
+        {
+          "sentence_id": "s784",
+          "snippet": "它有的時候也是可以騙人的",
+          "note": "数据骗人"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "结尾玩笑“推动上涨的是你们粉丝”后立刻“开玩笑的哈，其实说明数据可骗人”。",
+      "patterns": [
+        "玩笑后纠偏",
+        "相关或巧合自纠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s782",
+          "snippet": "開玩笑的哈",
+          "note": "开玩笑的哈"
+        },
+        {
+          "sentence_id": "s786",
+          "snippet": "它也可能就是個巧合",
+          "note": "也可能巧合"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "短句爆点开场→拟人对话加速→类比段拉长→结尾问答短促收束。",
+      "patterns": [
+        "短句爆点",
+        "拟人加速",
+        "类比拉长",
+        "问答收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "它全漲",
+          "note": "它全涨"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "拟人对话"
+        },
+        {
+          "sentence_id": "s788",
+          "snippet": "這個深度是不是一下就有了",
+          "note": "深度收束"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "震惊美元暴跌→看图好奇→类比幽默→非农紧张→玩笑后认知降温收束。",
+      "patterns": [
+        "震惊",
+        "好奇",
+        "幽默",
+        "紧张",
+        "降温"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "美元今年是跌慘了",
+          "note": "震惊"
+        },
+        {
+          "sentence_id": "s384",
+          "snippet": "一個精緻的諧音梗送給大家",
+          "note": "谐音梗幽默"
+        },
+        {
+          "sentence_id": "s409",
+          "snippet": "因為它真的是太慘了",
+          "note": "太惨紧张"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "回扣看图说话方法论，用相关=巧合的深度反转闭合开场“妖在哪里”。",
+      "patterns": [
+        "回扣看图说话",
+        "相关巧合反转",
+        "深度自夸收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s772",
+          "snippet": "你就說咱這看圖說話",
+          "note": "回扣看图"
+        },
+        {
+          "sentence_id": "s786",
+          "snippet": "它也可能就是個巧合",
+          "note": "巧合"
+        },
+        {
+          "sentence_id": "s788",
+          "snippet": "這個深度是不是一下就有了",
+          "note": "深度有了"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "以“怎么样，深度是不是一下就有了”自嗨式收束，弱硬CTA。",
+      "patterns": [
+        "自嗨深度收束",
+        "弱关注导向"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s787",
+          "snippet": "怎麼樣",
+          "note": "怎么样"
+        },
+        {
+          "sentence_id": "s788",
+          "snippet": "這個深度是不是一下就有了",
+          "note": "深度自夸"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "尺子缩短类比、股票拟人分手、班主任谐音梗、粉丝玩笑纠偏，口吻极具个人标记。",
+      "patterns": [
+        "尺子类比",
+        "拟人分手",
+        "谐音梗",
+        "玩笑纠偏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "約等於所有人都長高了10%",
+          "note": "长高10%"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "算了不跟你玩"
+        },
+        {
+          "sentence_id": "s384",
+          "snippet": "一個精緻的諧音梗送給大家",
+          "note": "谐音梗"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口大幅截断，因果主链中间缺失；部分ASR数字句噪声（美量股数8）。",
+      "patterns": [
+        "窗口截断",
+        "中链缺失",
+        "ASR噪声"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s50",
+          "snippet": "我再給你看個共振得更happy的",
+          "note": "窗内截断"
+        },
+        {
+          "sentence_id": "s780",
+          "snippet": "說明真正推動美上漲的美量上漲的美量股數8",
+          "note": "ASR噪声"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "公开展示“看图→发现分手→找妖→班主任类比→非农验证→相关也可能巧合”思维链。",
+      "patterns": [
+        "看图推理",
+        "类比验证",
+        "巧合反思"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "就是看圖說話",
+          "note": "看图说话"
+        },
+        {
+          "sentence_id": "s386",
+          "snippet": "這班主任呢",
+          "note": "班主任类比"
+        },
+        {
+          "sentence_id": "s784",
+          "snippet": "它有的時候也是可以騙人的",
+          "note": "数据反思"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "朋友们/你别觉得/我再给你看，把观众当可被带看图的同伴。",
+      "patterns": [
+        "朋友们",
+        "你别觉得",
+        "再给你看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "朋友們",
+          "note": "朋友们"
+        },
+        {
+          "sentence_id": "s9",
+          "snippet": "你別覺得10%沒多少啊",
+          "note": "你别觉得"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "我再給你看個共振得更happy的",
+          "note": "再给你看"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "跌超10%、黄金半世纪图、标普共振分手、NFP、12月利率预期跳点。",
+      "patterns": [
+        "10%跌幅",
+        "黄金图",
+        "NFP跳点"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "美元指數已經下跌了超過10%",
+          "note": "下跌超过10%"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "這是過去半個世紀黃金的走勢",
+          "note": "黄金走势"
+        },
+        {
+          "sentence_id": "s400",
+          "snippet": "NFP非農就業數據公佈之後",
+          "note": "NFP"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场数据高密→拟人段疏而抓人→类比中密→非农高密→收束疏化升维。",
+      "patterns": [
+        "开场高密",
+        "拟人疏",
+        "非农高密",
+        "收束升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "美元指數已經下跌了超過10%",
+          "note": "高密"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "疏抓人"
+        },
+        {
+          "sentence_id": "s405",
+          "snippet": "8月份就業數據非常慘",
+          "note": "非农密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "现象→承诺方法→看图断裂→类比机制→外溢→方法论反转，跳跃靠口头衔接。",
+      "patterns": [
+        "现象到方法",
+        "图表断裂流",
+        "反转收束流"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s31",
+          "snippet": "這個美元暴跌的背後",
+          "note": "暴跌背后"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "就是看圖說話",
+          "note": "看图方法"
+        },
+        {
+          "sentence_id": "s784",
+          "snippet": "它有的時候也是可以騙人的",
+          "note": "反转"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "小Lin说式：专业但好玩，敢拟人、敢谐音、敢说数据也骗人。",
+      "patterns": [
+        "专业好玩",
+        "拟人谐音",
+        "反数据迷信"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "但同時又很直觀很有意思的方式來聊",
+          "note": "专业又有意思"
+        },
+        {
+          "sentence_id": "s384",
+          "snippet": "一個精緻的諧音梗送給大家",
+          "note": "谐音梗"
+        },
+        {
+          "sentence_id": "s784",
+          "snippet": "它有的時候也是可以騙人的",
+          "note": "数据骗人"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "尺子缩短10%、股票“算了不跟你玩了”、班主任作业量=降息、相关或巧合。",
+      "patterns": [
+        "尺子类比",
+        "分手拟人",
+        "班主任降息",
+        "巧合反转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "這個尺子半年裡頭縮短了10%",
+          "note": "尺子"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "不跟你玩"
+        },
+        {
+          "sentence_id": "s786",
+          "snippet": "它也可能就是個巧合",
+          "note": "巧合"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "看图说话+拟人断裂+生活类比+相关偶然反转，是观屿宏观科普可直接复用的高价值模板。",
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "就是看圖說話",
+          "note": "看图方法"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "\"算了不跟你玩了\"",
+          "note": "拟人断裂"
+        },
+        {
+          "sentence_id": "s786",
+          "snippet": "它也可能就是個巧合",
+          "note": "巧合反转"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s4",
+    "s13",
+    "s28",
+    "s8",
+    "s46",
+    "s388",
+    "s786",
+    "s15",
+    "s391",
+    "s769",
+    "s10",
+    "s47",
+    "s405",
+    "s29",
+    "s773",
+    "s776",
+    "s37",
+    "s376",
+    "s400",
+    "s382",
+    "s412",
+    "s766",
+    "s20",
+    "s408",
+    "s784",
+    "s782",
+    "s27",
+    "s788",
+    "s384",
+    "s409",
+    "s772",
+    "s787",
+    "s14",
+    "s50",
+    "s780",
+    "s35",
+    "s386",
+    "s2",
+    "s9",
+    "s19",
+    "s31",
+    "s34"
+  ],
+  "fields_complete_25": true
+}

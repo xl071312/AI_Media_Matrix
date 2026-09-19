@@ -1,0 +1,1804 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_CYENwrdCZxI",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
+  "source_sha256": "ff81e0e23d907ae7a187b9e740ebc1eb2d187596cfb483dc07b0abade29103c9",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 158,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 9,
+      "snippet": "為了拍到最美的星雲"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 11,
+      "snippet": "我們做了一個移動天文台"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 13,
+      "snippet": "有時候我會去附近的一個山頭"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 3,
+      "snippet": "拍猩猩"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 2,
+      "snippet": "哦不"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 4,
+      "snippet": "是拍星星"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 8,
+      "snippet": "我尤其喜歡拍星雲"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 14,
+      "snippet": "雖然肉眼看只是一個小小的亮點"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "但是長曝光後放大看"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 14,
+      "snippet": "卻像宇宙中層層暈染的油畫一樣"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "用光和塵埃勾勒出夢幻的圖案"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 4,
+      "snippet": "讓人著迷"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 9,
+      "snippet": "為了拍到更好的星雲"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 17,
+      "snippet": "我的器材也一不小心就變得離譜了起來"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "光有望遠鏡肯定不夠"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 10,
+      "snippet": "得有赤道儀來追蹤星雲"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 11,
+      "snippet": "天文盒子告訴它星雲在哪"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 8,
+      "snippet": "冷凍相機拍長曝光"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 9,
+      "snippet": "想拍出絢麗的哈勃色"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "還得加組濾鏡"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "這麼多東西總不能放在地上吧"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 6,
+      "snippet": "得再有個腳架"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 15,
+      "snippet": "光是一台望遠鏡拍攝時需要的配件"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 5,
+      "snippet": "就有這麼多"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 18,
+      "snippet": "每次拍攝我都得先把二十公斤器材弄上車"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "開到目的地後"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 4,
+      "snippet": "再卸下來"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 2,
+      "snippet": "然後"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 2,
+      "snippet": "組裝"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 2,
+      "snippet": "調焦"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 2,
+      "snippet": "對準"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "2小時後終於可以拍了"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 2,
+      "snippet": "結果"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 4,
+      "snippet": "烏雲來了"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 5,
+      "snippet": "我忍不住想"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 16,
+      "snippet": "如果我有一台望遠鏡不需要反復拆裝"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 14,
+      "snippet": "而且我去哪它就能跟著我拍到哪"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 7,
+      "snippet": "那該有多方便啊"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "於是我們做了這個"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 12,
+      "snippet": "這 就是我們的移動天文台"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 17,
+      "snippet": "平時我們的望遠鏡小旺就放在後備箱里"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 4,
+      "snippet": "隨車而動"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 13,
+      "snippet": "需要拍攝時它就可以自動接上"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 10,
+      "snippet": "用來追蹤星星的赤道儀"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "鎖緊鳩尾板並升起"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 14,
+      "snippet": "接著操作上面的電機對準北極星"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 9,
+      "snippet": "在APP上選好目標"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 5,
+      "snippet": "就可以拍了"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "比從前方便了太多"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 4,
+      "snippet": "除此以外"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 9,
+      "snippet": "你只要按下這個按鈕"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 11,
+      "snippet": "小旺周圍的2個置物架上"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 8,
+      "snippet": "放滿了我們拍攝時"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "必不可少的重要設備"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "天還沒黑的時候"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "可以用這個烤盤"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "烤點肉吃"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 12,
+      "snippet": "開個玩笑 我們不會真的烤"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 17,
+      "snippet": "咖啡機則能讓我在寒冷的晚上暖暖身子"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 5,
+      "snippet": "這個風速儀"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 3,
+      "snippet": "沒啥用"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "但可以讓這個裝置"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 7,
+      "snippet": "看得更炫酷一些"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 12,
+      "snippet": "那麼就看看小旺拍的東西吧"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 2,
+      "snippet": "而這"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 6,
+      "snippet": "是它拍的木星"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 5,
+      "snippet": "啥也看不見"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 14,
+      "snippet": "我們的目標是拍8個星雲和星系"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 11,
+      "snippet": "這個放大倍率顯然還不夠"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 15,
+      "snippet": "所以我們還準備了另外一台望遠鏡"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 14,
+      "snippet": "這是一台焦距有2350mm的"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 8,
+      "snippet": "施卡折反式望遠鏡"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 15,
+      "snippet": "由於它的口徑和焦段都比小旺更大"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "所以我們叫它"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 2,
+      "snippet": "施望"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "它拍到的木星是這樣的"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 10,
+      "snippet": "我們還給它裝上高速機"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 4,
+      "snippet": "拍了一段"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 5,
+      "snippet": "中國空間站"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 6,
+      "snippet": "除了望遠鏡外"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 13,
+      "snippet": "我們還搞來了不同焦段的鏡頭"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 7,
+      "snippet": "最廣有12mm"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 13,
+      "snippet": "而我們的施望有2350mm"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 7,
+      "snippet": "讓它們一起拍星"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 20,
+      "snippet": "就可以拍到從地景無限放大到星雲的炫酷畫面"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 6,
+      "snippet": "一切準備就緒"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 13,
+      "snippet": "可正當我們準備上山拍星雲時"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "杭州開始下雨了"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 6,
+      "snippet": "這雨太恐怖了"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 10,
+      "snippet": "它不是說下兩天就停了"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 8,
+      "snippet": "它是要連著下兩周"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 7,
+      "snippet": "而且就算不下雨"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 21,
+      "snippet": "城市裡的光污染也很難讓我們拍到最好看的星雲"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 10,
+      "snippet": "所以我們一咬牙一跺腳"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 19,
+      "snippet": "從浙江杭州來到了全國最適合拍星星的地方"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 4,
+      "snippet": "青海冷湖"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 12,
+      "snippet": "這裡一年有300多個晴天"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 7,
+      "snippet": "而且大氣波動小"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 4,
+      "snippet": "光污染少"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 15,
+      "snippet": "在夜裡一抬頭就能看到滿天的星星"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 17,
+      "snippet": "甚至能看清一顆顆人造衛星划過的痕跡"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 7,
+      "snippet": "拍星星那段時間"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 11,
+      "snippet": "白天我們在冷湖鎮裡休息"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 8,
+      "snippet": "等到天快黑的時候"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 10,
+      "snippet": "就會開著我們的天文台"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 19,
+      "snippet": "到一個彷彿是電影置景一樣的地方準備拍攝"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "這裡是大片的斷壁殘垣"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 7,
+      "snippet": "有一排排的教室"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 7,
+      "snippet": "有中國工商銀行"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 11,
+      "snippet": "甚至還有一座不小的劇院"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 4,
+      "snippet": "這個地方"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 14,
+      "snippet": "就是冷湖石油工業遺址五號基地"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 5,
+      "snippet": "1958年"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 13,
+      "snippet": "鑽頭刺穿了650米深的岩層"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 17,
+      "snippet": "一束原油像噴泉一樣衝上了20米高空"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 7,
+      "snippet": "持續了三天三夜"
+    },
+    {
+      "sentence_id": "s117",
+      "char_len": 11,
+      "snippet": "匯聚成了一座濃黑的油湖"
+    },
+    {
+      "sentence_id": "s118",
+      "char_len": 9,
+      "snippet": "人們從全國各地趕來"
+    },
+    {
+      "sentence_id": "s119",
+      "char_len": 6,
+      "snippet": "曾經的無人區"
+    },
+    {
+      "sentence_id": "s120",
+      "char_len": 14,
+      "snippet": "一夜之間變成了熱火朝天的新城"
+    },
+    {
+      "sentence_id": "s121",
+      "char_len": 10,
+      "snippet": "最多時這裡住著十萬人"
+    },
+    {
+      "sentence_id": "s122",
+      "char_len": 9,
+      "snippet": "可隨著石油開採殆盡"
+    },
+    {
+      "sentence_id": "s123",
+      "char_len": 10,
+      "snippet": "一座座油井停下了運轉"
+    },
+    {
+      "sentence_id": "s124",
+      "char_len": 11,
+      "snippet": "人們也慢慢地離開了這裡"
+    },
+    {
+      "sentence_id": "s125",
+      "char_len": 9,
+      "snippet": "熱鬧逐漸被時間風乾"
+    },
+    {
+      "sentence_id": "s126",
+      "char_len": 8,
+      "snippet": "留在了這片戈壁上"
+    },
+    {
+      "sentence_id": "s127",
+      "char_len": 11,
+      "snippet": "變成了一代人記憶的錨點"
+    },
+    {
+      "sentence_id": "s128",
+      "char_len": 10,
+      "snippet": "而見證了這一切的星空"
+    },
+    {
+      "sentence_id": "s129",
+      "char_len": 9,
+      "snippet": "依舊在無聲地閃耀著"
+    },
+    {
+      "sentence_id": "s130",
+      "char_len": 10,
+      "snippet": "我們這次來是拍星雲的"
+    },
+    {
+      "sentence_id": "s131",
+      "char_len": 11,
+      "snippet": "怎麼在天空中找到星雲呢"
+    },
+    {
+      "sentence_id": "s132",
+      "char_len": 10,
+      "snippet": "首先 找到三顆明亮的"
+    },
+    {
+      "sentence_id": "s133",
+      "char_len": 9,
+      "snippet": "幾乎直線排列的星星"
+    },
+    {
+      "sentence_id": "s134",
+      "char_len": 8,
+      "snippet": "這三顆星星的下方"
+    },
+    {
+      "sentence_id": "s135",
+      "char_len": 10,
+      "snippet": "有一排比較暗淡的星點"
+    },
+    {
+      "sentence_id": "s136",
+      "char_len": 4,
+      "snippet": "中間那個"
+    },
+    {
+      "sentence_id": "s137",
+      "char_len": 8,
+      "snippet": "就是獵戶座大星雲"
+    },
+    {
+      "sentence_id": "s138",
+      "char_len": 15,
+      "snippet": "而如果你沿著那三顆星星延長出去"
+    },
+    {
+      "sentence_id": "s139",
+      "char_len": 10,
+      "snippet": "會看到一顆橙色的星星"
+    },
+    {
+      "sentence_id": "s140",
+      "char_len": 5,
+      "snippet": "它叫畢宿五"
+    },
+    {
+      "sentence_id": "s141",
+      "char_len": 8,
+      "snippet": "距離地球65光年"
+    },
+    {
+      "sentence_id": "s142",
+      "char_len": 11,
+      "snippet": "意味著此刻它展現的光芒"
+    },
+    {
+      "sentence_id": "s143",
+      "char_len": 9,
+      "snippet": "其實就是從石油小鎮"
+    },
+    {
+      "sentence_id": "s144",
+      "char_len": 10,
+      "snippet": "最輝煌的時刻穿越而來"
+    },
+    {
+      "sentence_id": "s145",
+      "char_len": 8,
+      "snippet": "接下來請大家欣賞"
+    },
+    {
+      "sentence_id": "s146",
+      "char_len": 5,
+      "snippet": "我們的成片"
+    },
+    {
+      "sentence_id": "s147",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s148",
+      "char_len": 7,
+      "snippet": "這真是製作週期"
+    },
+    {
+      "sentence_id": "s149",
+      "char_len": 7,
+      "snippet": "很長的一期視頻"
+    },
+    {
+      "sentence_id": "s150",
+      "char_len": 3,
+      "snippet": "從夏天"
+    },
+    {
+      "sentence_id": "s151",
+      "char_len": 3,
+      "snippet": "到冬天"
+    },
+    {
+      "sentence_id": "s152",
+      "char_len": 4,
+      "snippet": "再到夏天"
+    },
+    {
+      "sentence_id": "s153",
+      "char_len": 8,
+      "snippet": "能有這樣一次旅程"
+    },
+    {
+      "sentence_id": "s154",
+      "char_len": 9,
+      "snippet": "看到這麼清澈的星空"
+    },
+    {
+      "sentence_id": "s155",
+      "char_len": 8,
+      "snippet": "我們真的非常感激"
+    },
+    {
+      "sentence_id": "s156",
+      "char_len": 9,
+      "snippet": "感謝大家能看到這裡"
+    },
+    {
+      "sentence_id": "s157",
+      "char_len": 4,
+      "snippet": "OK各位"
+    },
+    {
+      "sentence_id": "s158",
+      "char_len": 6,
+      "snippet": "我們下期再見"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "标题句为了拍到最美星雲/做了移动天文台后，用拍猩猩→哦不→拍星星自嘲纠错切入爱好。",
+      "patterns": [
+        "标题双句开场",
+        "猩猩纠错梗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "為了拍到最美的星雲",
+          "note": "最美的星雲"
+        },
+        {
+          "sentence_id": "s2",
+          "snippet": "我們做了一個移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "拍猩猩",
+          "note": "拍猩猩"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "哦不",
+          "note": "哦不"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "星雲长曝光美→器材堆叠离谱→拆装两小时遇乌云痛点→做车载移动台→小旺不够再上施望→杭州雨逼迁冷湖→找星导航→成片感恩。",
+      "patterns": [
+        "器材堆叠",
+        "拆装痛点",
+        "移动台方案",
+        "冷湖远征",
+        "找星成片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "我的器材也一不小心就變得離譜了起來",
+          "note": "器材离谱"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "2小時後終於可以拍了",
+          "note": "2小时后"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這 就是我們的移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "青海冷湖",
+          "note": "青海冷湖"
+        },
+        {
+          "sentence_id": "s146",
+          "snippet": "我們的成片",
+          "note": "成片"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "function": "hobby_hook",
+          "note": "星雲爱好与视觉钩子"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39"
+          ],
+          "function": "gear_pain",
+          "note": "器材清单与拆装两小时乌云痛点"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73"
+          ],
+          "function": "mobile_rig",
+          "note": "移动天文台小旺演示与风速仪炫酷"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98"
+          ],
+          "function": "upgrade_rain_trip",
+          "note": "施望升级+杭州雨→冷湖远征"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s99",
+            "s129",
+            "s130",
+            "s131",
+            "s132",
+            "s133",
+            "s134",
+            "s135",
+            "s136",
+            "s137",
+            "s138",
+            "s139",
+            "s140",
+            "s141",
+            "s142",
+            "s143",
+            "s144",
+            "s145",
+            "s146",
+            "s147",
+            "s148",
+            "s149",
+            "s150",
+            "s151",
+            "s152",
+            "s153",
+            "s154",
+            "s155",
+            "s156",
+            "s157",
+            "s158"
+          ],
+          "function": "nav_film_thanks",
+          "note": "猎户座导航成片与跨季感恩"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "为了拍到更好；于是我们做了这个；除此以外；所以我们一咬牙；接下来请大家欣赏。",
+      "patterns": [
+        "为了更好",
+        "于是做了",
+        "除此以外",
+        "一咬牙",
+        "请欣赏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "為了拍到更好的星雲",
+          "note": "为了拍到更好"
+        },
+        {
+          "sentence_id": "s39",
+          "snippet": "於是我們做了這個",
+          "note": "于是我们做了"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "除此以外",
+          "note": "除此以外"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "所以我們一咬牙一跺腳",
+          "note": "一咬牙一跺脚"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "接下來請大家欣賞",
+          "note": "请大家欣赏"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "肉眼小亮点vs长曝光油画；从前拆装vs车载升起即拍；小旺木星看不清vs施望清晰；杭州雨光污染vs冷湖晴天。",
+      "patterns": [
+        "肉眼/长曝光",
+        "拆装/车载",
+        "小旺/施望",
+        "杭州/冷湖"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "雖然肉眼看只是一個小小的亮點",
+          "note": "小小亮点"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "卻像宇宙中層層暈染的油畫一樣",
+          "note": "油画一样"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "比從前方便了太多",
+          "note": "方便太多"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "啥也看不見",
+          "note": "啥也看不见"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "青海冷湖",
+          "note": "冷湖"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "痛点隐含该有多方便；怎么在天空中找到星雲呢教学问；较少连环拷问，偏展示驱动。",
+      "patterns": [
+        "该有多方便",
+        "怎么找星雲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "那該有多方便啊",
+          "note": "该有多方便啊"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "怎麼在天空中找到星雲呢",
+          "note": "怎么找到星雲"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "赤道仪/天文盒/冷冻相机/滤镜/脚架清单；小旺后备箱升起流程；木星对比；猎户座三星找星雲；毕宿五65光年。",
+      "patterns": [
+        "配件清单例",
+        "升起流程",
+        "木星对比",
+        "猎户座导航"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "得有赤道儀來追蹤星雲",
+          "note": "赤道儀"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "鎖緊鳩尾板並升起",
+          "note": "升起"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "是它拍的木星",
+          "note": "拍的木星"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "就是獵戶座大星雲",
+          "note": "猎户座大星雲"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "距離地球65光年",
+          "note": "65光年"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "移动天文台落到后备箱接赤道仪升起对准；找星雲落到三星直线+暗淡星点中间。",
+      "patterns": [
+        "概念→车载流程",
+        "找星→三星法则"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s41",
+          "snippet": "平時我們的望遠鏡小旺就放在後備箱里",
+          "note": "后备箱"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "接著操作上面的電機對準北極星",
+          "note": "对准北极星"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "首先 找到三顆明亮的",
+          "note": "三颗明亮"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "就是獵戶座大星雲",
+          "note": "大星雲"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "器材一不小心离谱；风速仪没啥用但炫酷；这雨太恐怖了；比从前方便太多。",
+      "patterns": [
+        "离谱判",
+        "没啥用炫酷",
+        "雨恐怖",
+        "方便太多"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s14",
+          "snippet": "我的器材也一不小心就變得離譜了起來",
+          "note": "离谱了起来"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "沒啥用",
+          "note": "没啥用"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "這雨太恐怖了",
+          "note": "雨太恐怖"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "比從前方便了太多",
+          "note": "方便太多"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "拍猩猩→哦不→拍星星即时纠错；木星失败承认倍率不够再上施望；风速仪自嘲没用。",
+      "patterns": [
+        "猩猩纠错",
+        "倍率不够再升级",
+        "风速仪自嘲"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "哦不",
+          "note": "哦不"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "是拍星星",
+          "note": "拍星星"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "這個放大倍率顯然還不夠",
+          "note": "倍率不够"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "沒啥用",
+          "note": "没啥用"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "诗意短句开场→配件名词连珠加速→然后/组装/调焦顿挫→远征叙事拉长→OK各位收。",
+      "patterns": [
+        "诗意短句",
+        "配件连珠",
+        "顿挫流程",
+        "OK收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "卻像宇宙中層層暈染的油畫一樣",
+          "note": "油画"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "得有赤道儀來追蹤星雲",
+          "note": "赤道儀"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "然後",
+          "note": "然后"
+        },
+        {
+          "sentence_id": "s147",
+          "snippet": "OK各位",
+          "note": "OK各位"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "着迷赞美→拆装崩溃→造物兴奋→木星失望再振作→雨天绝望→冷湖澄澈感恩。",
+      "patterns": [
+        "着迷",
+        "崩溃",
+        "兴奋",
+        "失望振作",
+        "感恩"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "讓人著迷",
+          "note": "让人着迷"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "烏雲來了",
+          "note": "乌云来了"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這 就是我們的移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "啥也看不見",
+          "note": "啥也看不见"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "我們真的非常感激",
+          "note": "非常感激"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "成片展示后用从夏天到冬天再到夏天回扣制作周期，感谢观众并下期再见。",
+      "patterns": [
+        "成片回扣",
+        "跨季周期",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s146",
+          "snippet": "我們的成片",
+          "note": "成片"
+        },
+        {
+          "sentence_id": "s150",
+          "snippet": "從夏天",
+          "note": "从夏天"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "感謝大家能看到這裡",
+          "note": "感谢大家"
+        },
+        {
+          "sentence_id": "s158",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软感谢感谢大家能看到这里+OK各位下期再见，无强关注话术。",
+      "patterns": [
+        "感谢看到这里",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s156",
+          "snippet": "感謝大家能看到這裡",
+          "note": "感谢看到这里"
+        },
+        {
+          "sentence_id": "s158",
+          "snippet": "我們下期再見",
+          "note": "下期再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "猩猩口误梗；风速仪没啥用但炫酷；一咬牙一跺脚口语；毕宿五与石油小镇辉煌时刻诗意锚。",
+      "patterns": [
+        "猩猩梗",
+        "炫酷无用",
+        "一咬牙",
+        "光年诗意"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "拍猩猩",
+          "note": "拍猩猩"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "沒啥用",
+          "note": "没啥用"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "所以我們一咬牙一跺腳",
+          "note": "一咬牙"
+        },
+        {
+          "sentence_id": "s143",
+          "snippet": "其實就是從石油小鎮",
+          "note": "石油小镇"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断跳过中段行程细节；技术参数口播快、新手可能跟不上；光污染/晴天数据略口号化。",
+      "patterns": [
+        "窗口截断",
+        "参数过快",
+        "数据口号"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s71",
+          "snippet": "這是一台焦距有2350mm的",
+          "note": "2350mm"
+        },
+        {
+          "sentence_id": "s97",
+          "snippet": "這裡一年有300多個晴天",
+          "note": "300多晴天"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "除此以外",
+          "note": "除此以外跳窗"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "我忍不住想需求外化；倍率不够所以再准备一台决策链可见；找星步骤首先找到三颗。",
+      "patterns": [
+        "忍不住想",
+        "不够再升级",
+        "首先找三星"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s35",
+          "snippet": "我忍不住想",
+          "note": "我忍不住想"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "這個放大倍率顯然還不夠",
+          "note": "倍率不够"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "所以我們還準備了另外一台望遠鏡",
+          "note": "另外一台"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "首先 找到三顆明亮的",
+          "note": "首先找到"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当一起远征的朋友：教找猎户座、请欣赏成片、共享感激；器材党向科普爱好者。",
+      "patterns": [
+        "远征朋友",
+        "教找星",
+        "欣赏成片"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s131",
+          "snippet": "怎麼在天空中找到星雲呢",
+          "note": "怎么找到"
+        },
+        {
+          "sentence_id": "s145",
+          "snippet": "接下來請大家欣賞",
+          "note": "请大家欣赏"
+        },
+        {
+          "sentence_id": "s155",
+          "snippet": "我們真的非常感激",
+          "note": "我们非常感激"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "二十公斤器材；2小时组装；小旺/施望；2350mm；杭州雨两周；青海冷湖；猎户座；毕宿五65光年。",
+      "patterns": [
+        "20公斤",
+        "2小时",
+        "小旺施望",
+        "冷湖",
+        "猎户座",
+        "65光年"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "每次拍攝我都得先把二十公斤器材弄上車",
+          "note": "二十公斤"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "2小時後終於可以拍了",
+          "note": "2小时"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "施望",
+          "note": "施望"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "青海冷湖",
+          "note": "冷湖"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "就是獵戶座大星雲",
+          "note": "猎户座"
+        },
+        {
+          "sentence_id": "s141",
+          "snippet": "距離地球65光年",
+          "note": "65光年"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场诗意低密→配件清单高密→造物演示中密→远征叙事中密→找星教学高密→致谢低密。",
+      "patterns": [
+        "诗意低",
+        "配件高",
+        "远征中",
+        "教学高",
+        "致谢低"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "卻像宇宙中層層暈染的油畫一樣",
+          "note": "油画"
+        },
+        {
+          "sentence_id": "s18",
+          "snippet": "冷凍相機拍長曝光",
+          "note": "冷冻相机"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "從浙江杭州來到了全國最適合拍星星的地方",
+          "note": "来到冷湖"
+        },
+        {
+          "sentence_id": "s132",
+          "snippet": "首先 找到三顆明亮的",
+          "note": "三颗星"
+        },
+        {
+          "sentence_id": "s156",
+          "snippet": "感謝大家能看到這裡",
+          "note": "感谢"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "爱星→堆器材→痛点→造移动台→升级望远镜→被迫远征→导航拍摄→成片感恩。",
+      "patterns": [
+        "爱→痛→造",
+        "升级远征",
+        "拍→谢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "我尤其喜歡拍星雲",
+          "note": "喜欢拍星雲"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這 就是我們的移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "青海冷湖",
+          "note": "冷湖"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "极客造物者+诗人：既列赤道仪滤镜，又能把星光写成石油小镇辉煌穿越而来。",
+      "patterns": [
+        "极客造物",
+        "诗意旁白"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "得有赤道儀來追蹤星雲",
+          "note": "赤道儀"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "看得更炫酷一些",
+          "note": "更炫酷"
+        },
+        {
+          "sentence_id": "s144",
+          "snippet": "最輝煌的時刻穿越而來",
+          "note": "穿越而来"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "拍猩猩哦不；移动天文台；小旺/施望；2小时乌云；冷湖；猎户座三星；夏天冬天夏天。",
+      "patterns": [
+        "猩猩纠错",
+        "移动台",
+        "小旺施望",
+        "2小时乌云",
+        "冷湖",
+        "三星",
+        "跨季"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "哦不",
+          "note": "哦不"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這 就是我們的移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "施望",
+          "note": "施望"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "烏雲來了",
+          "note": "乌云"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "青海冷湖",
+          "note": "冷湖"
+        },
+        {
+          "sentence_id": "s137",
+          "snippet": "就是獵戶座大星雲",
+          "note": "猎户座"
+        },
+        {
+          "sentence_id": "s152",
+          "snippet": "再到夏天",
+          "note": "再到夏天"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "痛点→自制方案→远征验证→教学找目标→成片的科技Vlog骨架可改编，观宇需换财经营销选题并保留纠错幽默。",
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "如果我有一台望遠鏡不需要反復拆裝",
+          "note": "不需要反复拆装"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "這 就是我們的移動天文台",
+          "note": "移动天文台"
+        },
+        {
+          "sentence_id": "s131",
+          "snippet": "怎麼在天空中找到星雲呢",
+          "note": "怎么找星雲"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s14",
+    "s32",
+    "s40",
+    "s96",
+    "s146",
+    "s3",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s97",
+    "s98",
+    "s99",
+    "s129",
+    "s130",
+    "s131",
+    "s132",
+    "s133",
+    "s134",
+    "s135",
+    "s136",
+    "s137",
+    "s138",
+    "s139",
+    "s140",
+    "s141",
+    "s142",
+    "s143",
+    "s144",
+    "s145",
+    "s147",
+    "s148",
+    "s149",
+    "s150",
+    "s151",
+    "s152",
+    "s153",
+    "s154",
+    "s155",
+    "s156",
+    "s157",
+    "s158"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1537 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_N862G-3Jh6Q",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=N862G-3Jh6Q",
+  "source_sha256": "929dc4c668f2a41929c331ccc0fc49fb06f90609517098ed98b8069fd04639a3",
+  "performance_tier": "MEDIAN",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 116,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 12,
+      "snippet": "学校的中间是一条很长的路"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 6,
+      "snippet": "这条路很长很"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 20,
+      "snippet": "我开始学习视频剪辑 音乐制作 选择放弃了"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "非得鼓励自己多学习"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 16,
+      "snippet": "我把ID改为了老师好 我叫河同学"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "我甚至参加了一个严强比赛"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 15,
+      "snippet": "并且邀请了一位可爱的女同学来看"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 11,
+      "snippet": "然而比赛现场 他没有来"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 9,
+      "snippet": "失落的我表现很一般"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 17,
+      "snippet": "所以要扬一朵脚 买了一个很贵的手机"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 13,
+      "snippet": "起图靠消费 安慰自己的情绪"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "然而买完后 发现"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 13,
+      "snippet": "后面并没有闪相中的那么好用"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 5,
+      "snippet": "加傻之愤怒"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 12,
+      "snippet": "我在宿舍派了一个图草视频"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 18,
+      "snippet": "没想到一周过后 虽然有600多个人看"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "这给了我极大的正反饰"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 14,
+      "snippet": "于是我做牙座 做牙座 做牙座"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 7,
+      "snippet": "一直做到了今天"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 6,
+      "snippet": "可问题就在于"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 13,
+      "snippet": "由于我把同学们做必设的时间"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 2,
+      "snippet": "大哥"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 13,
+      "snippet": "由于我把同学们做必设的时间"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "都发现了做视频上"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 14,
+      "snippet": "随便的必设 我的大脑一片空白"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 6,
+      "snippet": "而更麻烦的是"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 6,
+      "snippet": "除了毕业设计"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 16,
+      "snippet": "我还有一个四年里最重要的视频要做"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 9,
+      "snippet": "那就是我的毕业视频"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 11,
+      "snippet": "视频的鞋尾 我都想好了"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 6,
+      "snippet": "让他学校上空"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 8,
+      "snippet": "放飞几十驾无人机"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 10,
+      "snippet": "摆出毕业快乐几个大字"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 13,
+      "snippet": "可是如果我没有完成毕业设计"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 11,
+      "snippet": "我就连本科文评论拿不到"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 15,
+      "snippet": "我爸妈也不会再同意我继续做视频"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 9,
+      "snippet": "频道不得不信入停更"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 10,
+      "snippet": "十年后 大学4月的我"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 11,
+      "snippet": "在参加第7份工作的面试"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 4,
+      "snippet": "面试观说"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 12,
+      "snippet": "你好像那个做视频的合同学"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 7,
+      "snippet": "我只好一阵苦笑"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 8,
+      "snippet": "泪水在眼睛里打转"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "久久不能停止"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 10,
+      "snippet": "所以我下了一个大决心"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 2,
+      "snippet": "停更"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 10,
+      "snippet": "我整种三个月没有更新"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 11,
+      "snippet": "这段时间我回到了学校里"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 14,
+      "snippet": "开始做一件同学最应该做的事情"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 2,
+      "snippet": "学习"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 14,
+      "snippet": "首先我需要学习三立剑膜和打印"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 9,
+      "snippet": "来制作扫螺益的支架"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 14,
+      "snippet": "我还得复习很久以前的变成知识"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 6,
+      "snippet": "来操作扫螺益"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 10,
+      "snippet": "在学习这些东西的时候"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 7,
+      "snippet": "我只有一个想法"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "我途傻呀"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 14,
+      "snippet": "学生玩儿的做视频有任何帮助吗"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 14,
+      "snippet": "而且时间都发塞了做毕业设计上"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 2,
+      "snippet": "毕业"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "视频还做不做呢"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 13,
+      "snippet": "不过其实学这些还是很有趣的"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 5,
+      "snippet": "我警追不好"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 7,
+      "snippet": "不能老地头看书"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 9,
+      "snippet": "所以我做了一个支架"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 8,
+      "snippet": "可以让我站着看书"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 4,
+      "snippet": "我坚不好"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 7,
+      "snippet": "不能老抬手翻书"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 12,
+      "snippet": "所以我做了一个遥控翻译器"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 6,
+      "snippet": "可以遥控翻书"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 5,
+      "snippet": "我背也不好"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 5,
+      "snippet": "不能老站着"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 9,
+      "snippet": "所以我又做了个支架"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "可以躺着看书"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 7,
+      "snippet": "在这套了很久后"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 10,
+      "snippet": "我的毕业设计也做好了"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 16,
+      "snippet": "拉一点传感器个相机放在两个洞机上"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 13,
+      "snippet": "旋转一会儿就可以生成音乐服"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 5,
+      "snippet": "它可以拍摄"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 9,
+      "snippet": "它有背景设法的照片"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 7,
+      "snippet": "第四算是做完了"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "但这是历证是毕业"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 9,
+      "snippet": "也就是一个月不到了"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 2,
+      "snippet": "毕业"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 4,
+      "snippet": "毕业视频"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 5,
+      "snippet": "搞置一个字"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 4,
+      "snippet": "我意思的"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 7,
+      "snippet": "我还是有时间的"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 11,
+      "snippet": "只要我把毕业设计做成事"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 11,
+      "snippet": "最后我做了一个放大版的"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 20,
+      "snippet": "机梯数没派的3D Lighter 3M1"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 9,
+      "snippet": "不过它还有一个名字"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 7,
+      "snippet": "神奇心鬼拍摄以"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 7,
+      "snippet": "它能拍到什么呢"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 9,
+      "snippet": "它的呈现原理很简单"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 8,
+      "snippet": "我们在拍摄程序里"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 6,
+      "snippet": "输入一张图片"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 12,
+      "snippet": "程序会将图片里向速的作标"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 7,
+      "snippet": "转换为角度作标"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 14,
+      "snippet": "然后云台便会按照这个小多运动"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 4,
+      "snippet": "拍摄照片"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 6,
+      "snippet": "你堆站在一起"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 12,
+      "snippet": "之后只要把星星10列出来"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 9,
+      "snippet": "跌上一层正常的背景"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 7,
+      "snippet": "拼起拍一整个晚"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 10,
+      "snippet": "就可以得到这种效果了"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 10,
+      "snippet": "而制作这个云台的时候"
+    },
+    {
+      "sentence_id": "s108",
+      "char_len": 5,
+      "snippet": "其实已经是"
+    },
+    {
+      "sentence_id": "s109",
+      "char_len": 13,
+      "snippet": "我在大学里的最后一段时间了"
+    },
+    {
+      "sentence_id": "s110",
+      "char_len": 5,
+      "snippet": "这段时间里"
+    },
+    {
+      "sentence_id": "s111",
+      "char_len": 11,
+      "snippet": "我白天改改拍摄用的代码"
+    },
+    {
+      "sentence_id": "s112",
+      "char_len": 15,
+      "snippet": "晚上就带上我的拍摄以一和调育以"
+    },
+    {
+      "sentence_id": "s113",
+      "char_len": 7,
+      "snippet": "拍新鬼直到日出"
+    },
+    {
+      "sentence_id": "s114",
+      "char_len": 6,
+      "snippet": "每天都很充实"
+    },
+    {
+      "sentence_id": "s115",
+      "char_len": 9,
+      "snippet": "每天都能学到新东西"
+    },
+    {
+      "sentence_id": "s116",
+      "char_len": 10,
+      "snippet": "好像自己又回到了大衣"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "校园长路意象起手，迅速切入改ID「老师好我叫河同学」与参赛失落。",
+      "patterns": [
+        "长路意象",
+        "改名立人设",
+        "参赛失落"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "学校的中间是一条很长的路",
+          "note": "学校长路"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "我把ID改为了老师好 我叫河同学",
+          "note": "改ID河同学"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "然而比赛现场 他没有来",
+          "note": "他没有来"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "入坑做视频→毕设冲突→十年后面试幻象恐吓→停更专心学习→怪发明支架→毕设做成→毕业视频星轨装置。",
+      "patterns": [
+        "入坑",
+        "冲突",
+        "恐吓幻象",
+        "停更学习",
+        "怪发明",
+        "双线完成"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "我在宿舍派了一个图草视频",
+          "note": "宿舍拍视频"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我还有一个四年里最重要的视频要做",
+          "note": "最重要毕业视频"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "十年后 大学4月的我",
+          "note": "十年后面试"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "停更",
+          "note": "停更"
+        },
+        {
+          "sentence_id": "s76",
+          "snippet": "我的毕业设计也做好了",
+          "note": "毕设做好"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "机梯数没派的3D Lighter 3M1",
+          "note": "3D Lighter"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "origin_story",
+          "note": "入坑做视频与正反馈"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "conflict_setup",
+          "note": "毕设vs毕业视频冲突"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "nightmare_stop",
+          "note": "十年后幻象→决心停更学习"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81"
+          ],
+          "function": "study_hacks",
+          "note": "学习吐槽+怪发明支架+毕设完成"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100",
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107",
+            "s108",
+            "s109",
+            "s110",
+            "s111",
+            "s112",
+            "s113",
+            "s114",
+            "s115",
+            "s116"
+          ],
+          "function": "grad_video_build",
+          "note": "星轨拍摄装置与最后充实日子"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「可问题就在于」「而更麻烦的是」「所以我下了一个大决心」推进冲突。",
+      "patterns": [
+        "问题在于",
+        "更麻烦",
+        "大决心"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s20",
+          "snippet": "可问题就在于",
+          "note": "问题在于"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "而更麻烦的是",
+          "note": "更麻烦"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "所以我下了一个大决心",
+          "note": "大决心"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "做视频正反馈 vs 毕设空白；毕业无人机梦想 vs 拿不到文凭；吐槽学无用 vs 学这些很有趣。",
+      "patterns": [
+        "正反馈/空白",
+        "梦想/文凭",
+        "无用/有趣"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "这给了我极大的正反饰",
+          "note": "正反馈"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "随便的必设 我的大脑一片空白",
+          "note": "大脑空白"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "我就连本科文评论拿不到",
+          "note": "拿不到文凭"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "不过其实学这些还是很有趣的",
+          "note": "其实很有趣"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「学生玩的对做视频有帮助吗」「毕业视频还做不做」自问压迫。",
+      "patterns": [
+        "有帮助吗",
+        "还做不做"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "学生玩儿的做视频有任何帮助吗",
+          "note": "有帮助吗"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "视频还做不做呢",
+          "note": "还做不做"
+        },
+        {
+          "sentence_id": "s94",
+          "snippet": "它能拍到什么呢",
+          "note": "能拍到什么"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "参赛女同学没来；消费安慰买贵手机；站着/遥控翻书/躺着看书三支架；星轨云台原理。",
+      "patterns": [
+        "参赛失落",
+        "消费安慰",
+        "三支架",
+        "星轨原理"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "然而比赛现场 他没有来",
+          "note": "没来"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "所以要扬一朵脚 买了一个很贵的手机",
+          "note": "买贵手机"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "站着看书支架"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "它的呈现原理很简单",
+          "note": "呈现原理"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "「停更学习」落到三立建模打印扫螺仪；毕业快乐落到几十架无人机摆字。",
+      "patterns": [
+        "建模落地",
+        "无人机摆字"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "首先我需要学习三立剑膜和打印",
+          "note": "三立剑膜打印"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "放飞几十驾无人机",
+          "note": "几十驾无人机"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "摆出毕业快乐几个大字",
+          "note": "毕业快乐大字"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "「我途傻呀」「频道不得不停更」「每天都很充实」自我判决与收束肯定。",
+      "patterns": [
+        "自骂傻",
+        "不得不",
+        "充实肯定"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s57",
+          "snippet": "我途傻呀",
+          "note": "我途傻呀"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "频道不得不信入停更",
+          "note": "不得不停更"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "每天都很充实",
+          "note": "每天充实"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先骂学这些对视频没用，马上改口「其实学这些还是很有趣的」。",
+      "patterns": [
+        "无用→有趣翻转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s58",
+          "snippet": "学生玩儿的做视频有任何帮助吗",
+          "note": "有帮助吗"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "不过其实学这些还是很有趣的",
+          "note": "其实很有趣"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "起源叙事中速→冲突加压→十年幻象突慢→停更短句锤→三支架排比加速→原理讲解放慢。",
+      "patterns": [
+        "叙事中",
+        "冲突加",
+        "幻象慢",
+        "短句锤",
+        "排比加速",
+        "原理慢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "于是我做牙座 做牙座 做牙座",
+          "note": "做牙座三连"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "停更",
+          "note": "停更短句"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "支架排比"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "它的呈现原理很简单",
+          "note": "原理慢"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repeat",
+          "form": "做牙座做牙座"
+        },
+        {
+          "type": "discourse",
+          "form": "可问题就在于"
+        },
+        {
+          "type": "discourse",
+          "form": "而更麻烦的是"
+        },
+        {
+          "type": "self_talk",
+          "form": "我途傻呀"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "于是我做牙座 做牙座 做牙座",
+          "note": "三连重复"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "可问题就在于",
+          "note": "问题在于"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "而更麻烦的是",
+          "note": "更麻烦"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "我途傻呀",
+          "note": "自骂填充"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "失落→正反馈兴奋→焦虑冲突→十年恐惧→决绝停更→吐槽→充实回甘。",
+      "patterns": [
+        "失落",
+        "兴奋",
+        "焦虑",
+        "恐惧",
+        "决绝",
+        "吐槽",
+        "回甘"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "失落的我表现很一般",
+          "note": "失落"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "这给了我极大的正反饰",
+          "note": "正反馈"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "泪水在眼睛里打转",
+          "note": "泪水打转"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "停更",
+          "note": "停更"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "每天都很充实",
+          "note": "充实"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场校园路与做视频起源，收束「又回到了大一」完成大学闭环。",
+      "patterns": [
+        "起源开",
+        "大一闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "学校的中间是一条很长的路",
+          "note": "校园路"
+        },
+        {
+          "sentence_id": "s109",
+          "snippet": "我在大学里的最后一段时间了",
+          "note": "最后一段时间"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "好像自己又回到了大衣",
+          "note": "回到大衣/大一"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "无硬广；叙事本身是毕业宣言式软CTA，鼓励把冲突做成作品。",
+      "patterns": [
+        "宣言式软CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "所以我下了一个大决心",
+          "note": "大决心"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "每天都很充实",
+          "note": "每天充实"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR噪声保留口语破绽；十年面试幻象戏剧化；颈椎不好做三支架私密吐槽。",
+      "patterns": [
+        "幻象戏码",
+        "三支架吐槽",
+        "口语破绽"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "十年后 大学4月的我",
+          "note": "十年后面试"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "我警追不好",
+          "note": "颈椎不好"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "所以我做了一个遥控翻译器",
+          "note": "遥控翻书"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR严重乱码削弱可懂度；开场句子残缺；结尾截在「大衣」未完整收束。",
+      "patterns": [
+        "ASR乱码",
+        "开场残缺",
+        "结尾截断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "这条路很长很",
+          "note": "残缺"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "加傻之愤怒",
+          "note": "乱码"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "好像自己又回到了大衣",
+          "note": "截断大衣"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "暴露毕设与毕业视频二选一权衡，以及用自制支架解决学习痛点的工程思维。",
+      "patterns": [
+        "二选一权衡",
+        "工程补丁思维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "可是如果我没有完成毕业设计",
+          "note": "没完成毕设"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "做支架"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "只要我把毕业设计做成事",
+          "note": "做成事就有时间"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "对创作者学生：用「同学们做毕设的时间都花在视频上」共情拖延焦虑。",
+      "patterns": [
+        "学生创作者",
+        "毕设焦虑共情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s21",
+          "snippet": "由于我把同学们做必设的时间",
+          "note": "做毕设时间"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我还有一个四年里最重要的视频要做",
+          "note": "最重要视频"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "一周600播放；停更三个月；无人机摆「毕业快乐」；放大版3D Lighter星轨仪。",
+      "patterns": [
+        "600播放",
+        "三月停更",
+        "无人机摆字",
+        "星轨仪"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "没想到一周过后 虽然有600多个人看",
+          "note": "600多人看"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "我整种三个月没有更新",
+          "note": "三个月"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "摆出毕业快乐几个大字",
+          "note": "毕业快乐"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "机梯数没派的3D Lighter 3M1",
+          "note": "3D Lighter"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "起源中密→冲突高密→幻象叙事中密→支架排比低密幽默→原理段高密→抒情低密。",
+      "patterns": [
+        "中",
+        "高",
+        "中",
+        "低密幽默",
+        "高密原理",
+        "低密抒情"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "我还有一个四年里最重要的视频要做",
+          "note": "冲突高"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "幽默低"
+        },
+        {
+          "sentence_id": "s98",
+          "snippet": "程序会将图片里向速的作标",
+          "note": "原理高"
+        },
+        {
+          "sentence_id": "s114",
+          "snippet": "每天都很充实",
+          "note": "抒情低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短句叙事串珠；「做牙座」三连；停更单字锤；支架因果排比；原理说明稍长。",
+      "patterns": [
+        "短句串珠",
+        "三连",
+        "单字锤",
+        "因果排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s18",
+          "snippet": "于是我做牙座 做牙座 做牙座",
+          "note": "三连"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "停更",
+          "note": "停更"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "所以我做了"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "它的呈现原理很简单",
+          "note": "原理"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理工创作者自嘲：用灾难幻象逼自己停更，再用怪发明把学习变成作品。",
+      "patterns": [
+        "灾难幻象自驱",
+        "怪发明人格"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "十年后 大学4月的我",
+          "note": "十年幻象"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "我途傻呀",
+          "note": "自骂傻"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "所以我做了一个遥控翻译器",
+          "note": "遥控翻书器"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "老师好我叫河同学；十年后面试苦笑；停更；站着/躺着看书支架；星轨拍摄。",
+      "patterns": [
+        "河同学",
+        "十年面试",
+        "停更",
+        "三支架",
+        "星轨"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "我把ID改为了老师好 我叫河同学",
+          "note": "河同学"
+        },
+        {
+          "sentence_id": "s41",
+          "snippet": "你好像那个做视频的合同学",
+          "note": "合同学"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "停更",
+          "note": "停更"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "可以躺着看书",
+          "note": "躺着看书"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "毕业冲突叙事+怪发明排比+作品收束可改编观宇学生创作口播，需重录清ASR。",
+      "evidence": [
+        {
+          "sentence_id": "s28",
+          "snippet": "我还有一个四年里最重要的视频要做",
+          "note": "冲突钩"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "所以我做了一个支架",
+          "note": "怪发明"
+        },
+        {
+          "sentence_id": "s116",
+          "snippet": "好像自己又回到了大衣",
+          "note": "闭环"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s5",
+    "s8",
+    "s15",
+    "s28",
+    "s38",
+    "s46",
+    "s76",
+    "s91",
+    "s2",
+    "s3",
+    "s4",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s56",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s92",
+    "s93",
+    "s94",
+    "s95",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107",
+    "s108",
+    "s109",
+    "s110",
+    "s111",
+    "s112",
+    "s113",
+    "s114",
+    "s115",
+    "s116"
+  ],
+  "fields_complete_25": true
+}

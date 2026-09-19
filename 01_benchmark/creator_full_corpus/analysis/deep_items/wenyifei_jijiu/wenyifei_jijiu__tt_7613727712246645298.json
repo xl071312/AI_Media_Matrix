@@ -1,0 +1,796 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "work_id": "wenyifei_jijiu__tt_7613727712246645298",
+  "modality": "COMPLETE_TEXT",
+  "source_url": "https://www.toutiao.com/article/7613727712246645298/",
+  "source_sha256": "2a8d3820432ef98c4e4b7de868b0d1de8010b5a11eeaff707d5f7e2014e5b9fb",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "N/A_TEXT",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 51,
+  "fields": {
+    "opening_move": {
+      "summary": "标定十五五开局报告重要性，指出重心从保增长转向练内功与防风险并重，预告机会民生风险三切。",
+      "patterns": [
+        "开局年定调",
+        "重心转向断言",
+        "三切预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "作为“十五五”开局之年，今年的政府工作报告的重要性不用多说",
+          "note": "定调"
+        },
+        {
+          "sentence_id": "s5",
+          "snippet": "接下来，我会从机会、民生、风险三个方面，拆解对普通人的实际影响。",
+          "note": "三切"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "硬科技成支柱→乡村土地延包机遇→绿色岗位→内需增收补贴→民生排序上调→城镇化协同→地产分化重构→反内卷利打工人→开放鲶鱼双刃→顺势能力双赢。",
+      "patterns": [
+        "硬科技支柱",
+        "乡村机遇",
+        "绿色岗",
+        "内需民生",
+        "地产分化",
+        "反内卷",
+        "开放双刃",
+        "顺势收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "新质生产力从以前的“培育”，升级为“支柱”",
+          "note": "支柱"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "而且还多出了开展土地延包试点、组织农业普查",
+          "note": "乡村"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "地产分化"
+        },
+        {
+          "sentence_id": "s46",
+          "snippet": "普通人的工作节奏、竞争环境有望得到明显改善。",
+          "note": "反内卷利好"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "只要紧跟政策导向、顺势而为，不断提升自身能力",
+          "note": "双赢"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "function": "开局定调与三切预告",
+          "note": "总起"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22"
+          ],
+          "function": "机会：硬科技乡村绿色",
+          "note": "机会章"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37"
+          ],
+          "function": "民生：内需就业生育医疗养老城镇化",
+          "note": "民生章"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "风险：地产分化反内卷开放竞争",
+          "note": "风险章"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s51"
+          ],
+          "function": "顺势能力双赢总收",
+          "note": "收束"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "接下来拆解；首先其次；值得注意的是；总的来说。",
+      "patterns": [
+        "接下来预告",
+        "首先其次分层",
+        "值得注意递进",
+        "总的来说收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "接下来，我会从机会、民生、风险三个方面，拆解对普通人的实际影响。",
+          "note": "接下来"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "首先是硬科技与高端制造，会继续是政策扶持的核心领域",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "其次是农村迎来发展新机遇",
+          "note": "其次"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "值得注意的是，今年对于民生保障也更重视了",
+          "note": "值得注意"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "总的来说，今年的政府工作报告非常值得每个人学习",
+          "note": "总的来说"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "保增长对练内功防风险；培育对支柱；民生排序十对八；板块布局对体系协同；普涨普跌结束分化。",
+      "patterns": [
+        "重心对照",
+        "培育支柱",
+        "排序对照",
+        "布局协同",
+        "普涨分化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "是国家发展重心已从以往的“保增长”，逐步转向",
+          "note": "重心"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "新质生产力从以前的“培育”，升级为“支柱”",
+          "note": "培育支柱"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "排序从去年的第十，上调到第八",
+          "note": "排序"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "分化"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "几乎无设问，以陈述拆解代替提问，弱问题驱动。",
+      "patterns": [
+        "弱问题",
+        "陈述代问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "接下来，我会从机会、民生、风险三个方面，拆解对普通人的实际影响。",
+          "note": "结构代问"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "看懂了十五五规划的目标和今年政府工作的十大任务",
+          "note": "代问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "六大新兴四大未来；医保补助+24养老+20；中考报名放宽；电信医疗开放；汽车家电手机补贴。",
+      "patterns": [
+        "产业名录例",
+        "补贴数字例",
+        "中考政策例",
+        "开放领域例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "六大新兴产业和四大未来产业，都是可以重点关注。",
+          "note": "产业名录"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "医疗方面，今年居民医保人均财政补助标准提高24元",
+          "note": "医保"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "今年再提高20元，让晚年生活更安心。",
+          "note": "养老"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "提出扩大电信、医疗等领域的对外开放",
+          "note": "开放"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "政策流向抽象落到专业求职创业；新质生产力落到薪酬领跑；地产稳定落到因城施策库存分化。",
+      "patterns": [
+        "流向→求职",
+        "生产力→薪酬",
+        "稳定→因城分化"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "都清晰指明了国家资金、政策资源的重点流向",
+          "note": "流向"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "这些行业，不管是政策优惠，还是人才需求，薪酬水平，都会领跑。",
+          "note": "薪酬"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "一是不同地方的房子，会迎来更明显的分化",
+          "note": "分化"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "重要性不用多说；都会领跑；重大利好；普涨普跌时代结束；实实在在的福利。",
+      "patterns": [
+        "不用多说",
+        "领跑断语",
+        "重大利好",
+        "时代结束",
+        "实在福利"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "今年的政府工作报告的重要性不用多说",
+          "note": "不用多说"
+        },
+        {
+          "sentence_id": "s13",
+          "snippet": "这些行业，不管是政策优惠，还是人才需求，薪酬水平，都会领跑。",
+          "note": "领跑"
+        },
+        {
+          "sentence_id": "s35",
+          "snippet": "这对随迁子女家庭而言是重大利好",
+          "note": "重大利好"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "时代结束"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "开放段先说福利再补从业者竞争加大，形成机遇挑战并陈自我平衡。",
+      "patterns": [
+        "福利后补挑战",
+        "并陈平衡"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "这些行业，有望迎来鲶鱼效应，进而提高整体发展和服务水平，最终提升生活便利度。",
+          "note": "先福利"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "但与此同时，如果你是这些行业的从业人员，那你面临的竞争也会加大。",
+          "note": "后挑战"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "总起中速，机会章条目加速，民生数字段放慢，风险章短句加速，总收长句放缓。",
+      "patterns": [
+        "总起中速",
+        "条目加速",
+        "数字放慢",
+        "风险短句",
+        "长句收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "机会：风口越来越明显",
+          "note": "条目"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "医疗方面，今年居民医保人均财政补助标准提高24元",
+          "note": "数字慢"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "短句加速"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "总的来说，今年的政府工作报告非常值得每个人学习",
+          "note": "长收"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "N/A_TEXT_MODALITY",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "严肃定调→机会鼓舞→民生安心→风险警醒→双赢鼓励。",
+      "patterns": [
+        "严肃",
+        "鼓舞",
+        "安心",
+        "警醒",
+        "鼓励"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "作为“十五五”开局之年，今年的政府工作报告的重要性不用多说",
+          "note": "严肃"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "机会：风口越来越明显",
+          "note": "鼓舞"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "让晚年生活更安心。",
+          "note": "安心"
+        },
+        {
+          "sentence_id": "s40",
+          "snippet": "也提醒了经济转型期的风险。",
+          "note": "警醒"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "实现个人成长与时代发展的双赢。",
+          "note": "鼓励"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场影响职业财富生活规划，收束紧跟政策提升能力双赢，形成指南闭环。",
+      "patterns": [
+        "影响面开场回扣",
+        "顺势能力闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "会影响到我们的职业选择、财富积累、生活质感",
+          "note": "影响"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "实现个人成长与时代发展的双赢。",
+          "note": "闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "软性号召学习报告与顺势而为，无点赞关注按钮，偏行动指南。",
+      "patterns": [
+        "学习号召",
+        "顺势而为",
+        "弱平台CTA"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "总的来说，今年的政府工作报告非常值得每个人学习",
+          "note": "学习"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "只要紧跟政策导向、顺势而为，不断提升自身能力",
+          "note": "顺势"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "仅在头条发布声明；排序从十到八、用词加大到更大力度等细读痕迹；具体+24+20元。",
+      "patterns": [
+        "平台声明",
+        "排序细读",
+        "具体补贴额"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "*本文仅在今日头条发布，请勿转载",
+          "note": "声明"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "排序从去年的第十，上调到第八",
+          "note": "排序细读"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "今年居民医保人均财政补助标准提高24元",
+          "note": "24元"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "条目罗列感强，故事与人物个案少；风险章对普通人操作建议仍偏宏观。",
+      "patterns": [
+        "罗列感",
+        "个案少",
+        "操作偏宏"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s11",
+          "snippet": "六大新兴产业和四大未来产业，都是可以重点关注。",
+          "note": "罗列"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "除此之外，也要培养个人的新竞争力，尽量跳出过剩产业。",
+          "note": "建议偏宏"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "显式按机会民生风险拆解，并用排序变化、用词升级作为证据链。",
+      "patterns": [
+        "三切框架",
+        "排序证据",
+        "用词升级证据"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "接下来，我会从机会、民生、风险三个方面，拆解对普通人的实际影响。",
+          "note": "三切"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "用词也从加大保障，变成了更大力度。",
+          "note": "用词证据"
+        },
+        {
+          "sentence_id": "s34",
+          "snippet": "也被从去年的第八位提前到了第七位。",
+          "note": "排序证据"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "明确对普通人：选专业求职创业、有幼儿家庭、随迁子女、打工人、行业从业者分层关照。",
+      "patterns": [
+        "普通人主称呼",
+        "家庭分层",
+        "打工人关照"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "拆解对普通人的实际影响。",
+          "note": "普通人"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "减轻有幼儿家庭的托育负担",
+          "note": "幼儿家庭"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "这不单单是企业的事，更是打工人的事。",
+          "note": "打工人"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "如果你是这些行业的从业人员",
+          "note": "从业者"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "十五五开局、十大任务排序、医保+24、养老+20、电信医疗开放、普涨普跌结束。",
+      "patterns": [
+        "规划年锚",
+        "排序锚",
+        "补贴数字锚",
+        "开放领域锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "作为“十五五”开局之年",
+          "note": "十五五"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "提高24元",
+          "note": "24"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "再提高20元",
+          "note": "20"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "地产金句"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "总起高密长句→机会章中高密条目→民生数字高密→风险中密短句→收束中密劝勉。",
+      "patterns": [
+        "总起高密",
+        "条目中高",
+        "数字高密",
+        "风险中密",
+        "收束中密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "作为“十五五”开局之年，今年的政府工作报告的重要性不用多说",
+          "note": "高密起"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "新质生产力从以前的“培育”，升级为“支柱”",
+          "note": "中高"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "提高24元",
+          "note": "数字"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "风险短"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "小标题分段，首先其次并列，数字政策长句与时代结束短句交替。",
+      "patterns": [
+        "小标题分段",
+        "首先其次并列",
+        "长短交替"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "机会：风口越来越明显",
+          "note": "小标题"
+        },
+        {
+          "sentence_id": "s23",
+          "snippet": "民生：消费、就业、生育都有新变化",
+          "note": "小标题"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "风险：普通人的注意点",
+          "note": "小标题"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "短句"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "政策翻译官：冷静拆排序用词，站普通人利益，收束励志但不煽情。",
+      "patterns": [
+        "政策翻译",
+        "普通人立场",
+        "励志克制"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s30",
+          "snippet": "排序从去年的第十，上调到第八",
+          "note": "翻译排序"
+        },
+        {
+          "sentence_id": "s45",
+          "snippet": "更是打工人的事。",
+          "note": "工人立场"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "实现个人成长与时代发展的双赢。",
+          "note": "克制励志"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "保增长转练内功；培育变支柱；普涨普跌时代结束；鲶鱼效应；顺势双赢。",
+      "patterns": [
+        "重心转向",
+        "培育支柱",
+        "普涨结束",
+        "鲶鱼",
+        "双赢"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "升级为“支柱”",
+          "note": "支柱"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "普涨结束"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "有望迎来鲶鱼效应",
+          "note": "鲶鱼"
+        },
+        {
+          "sentence_id": "s51",
+          "snippet": "实现个人成长与时代发展的双赢。",
+          "note": "双赢"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "机会/民生/风险三切+排序用词细读法适合观屿政策解读，但需加案例与更锋利判断以免通报体。",
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "从机会、民生、风险三个方面，拆解对普通人的实际影响。",
+          "note": "三切可迁"
+        },
+        {
+          "sentence_id": "s30",
+          "snippet": "排序从去年的第十，上调到第八",
+          "note": "细读法可迁"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "普涨普跌的时代结束了。",
+          "note": "金句可迁"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51"
+  ],
+  "fields_complete_25": true
+}

@@ -1,0 +1,1171 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_Y_rThz_v6e8",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=Y_rThz_v6e8",
+  "source_sha256": "dbfb0438f49308a8e1e6ae65c8e8628b67678e6c547e004e9e3085dd0416dac7",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 72,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 7,
+      "snippet": "拿著牛奶往外擠"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 9,
+      "snippet": "牛奶竟然在空中扭着"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 6,
+      "snippet": "那一直以覺得"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 8,
+      "snippet": "我選這太奇怪了吧"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 13,
+      "snippet": "最近好多人都在問我這個問題"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 12,
+      "snippet": "但事實上這種現象非常常見"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 10,
+      "snippet": "除了幾牛奶還有幾牛奶"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 8,
+      "snippet": "其實都不一定要擠"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 10,
+      "snippet": "你還可以到捨樂到咖啡"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 9,
+      "snippet": "基本上你到任何液體"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 9,
+      "snippet": "都能看到這種神奇的"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 9,
+      "snippet": "一結合一結束的形狀"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 4,
+      "snippet": "向著鎖鏈"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "甚至世界上有一半的人"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 10,
+      "snippet": "每天都會看到這個現象"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 5,
+      "snippet": "但我從從從"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 4,
+      "snippet": "哎別擠意"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "你馬上就知道了"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 12,
+      "snippet": "我們現在做個實驗看究一下"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 10,
+      "snippet": "拿出家中長輩的水準瓶"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 3,
+      "snippet": "裝滿水"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 7,
+      "snippet": "裝上一盒小骨嘴"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 5,
+      "snippet": "正常情況下"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 8,
+      "snippet": "在那邊的像焦管子"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 6,
+      "snippet": "倒水是那邊的"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 15,
+      "snippet": "都會變成這種一結合一結束的形狀"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "那它為什麼會變成這樣呢"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 6,
+      "snippet": "我們現在看看"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 6,
+      "snippet": "最開始這一節"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 6,
+      "snippet": "剛流出的水流"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 4,
+      "snippet": "貼著杯币"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 5,
+      "snippet": "也要做一個"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "變成一個臀的駕�."
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 6,
+      "snippet": "但熟悉我哥們"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 8,
+      "snippet": "是張力的朋友知道"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 6,
+      "snippet": "液體總是親相"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 2,
+      "snippet": "最小"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 5,
+      "snippet": "這會給臀的"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 8,
+      "snippet": "也住一個收縮的力"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 6,
+      "snippet": "讓它變回正緣"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 5,
+      "snippet": "但液體有關"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 8,
+      "snippet": "它收縮到緣的時候"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 9,
+      "snippet": "還有速度會繼續收縮"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 5,
+      "snippet": "左右再變短"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 8,
+      "snippet": "前後再變成沖過頭"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 6,
+      "snippet": "就變成了一個"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 6,
+      "snippet": "相比初始方向"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 9,
+      "snippet": "旋轉了90度的脫緣"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 8,
+      "snippet": "這下我哥們的張力"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 6,
+      "snippet": "徹底崩不住了"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 4,
+      "snippet": "移入之下"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 10,
+      "snippet": "又把新的脫緣拉回正緣"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 10,
+      "snippet": "但由於慣性又會沖過頭"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 10,
+      "snippet": "然後再用一下再沖過頭"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 7,
+      "snippet": "表面張力和液體"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 6,
+      "snippet": "慣性相愛相殺"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 4,
+      "snippet": "一扯一拉"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 6,
+      "snippet": "液度就形成了"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "一肯一樹交錯的形狀"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 13,
+      "snippet": "這就是我們小學二年級學步的"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 7,
+      "snippet": "液度設流軸交換"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 8,
+      "snippet": "但它倆也不會一直"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 6,
+      "snippet": "這麼拉扯下去"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 4,
+      "snippet": "我們指出"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 9,
+      "snippet": "可以通過男性排藥時"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 7,
+      "snippet": "要做所練的長度"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 9,
+      "snippet": "來監控一些密尿疾病"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 4,
+      "snippet": "想不到吧"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 7,
+      "snippet": "奇怪的牛奶羅旋"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 9,
+      "snippet": "其實一直就在你身邊"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 9,
+      "snippet": "趕緊低下頭仔細觀察"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 11,
+      "snippet": "感受你身上的物理奧密吧"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "牛奶空中扭动视觉钩子+「世界一半人每天看见却不知」制造好奇缺口。",
+      "patterns": [
+        "液体扭动视觉钩",
+        "一半人每天看见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "牛奶竟然在空中扭着",
+          "note": "牛奶空中扭着"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "我選這太奇怪了吧",
+          "note": "太奇怪了吧"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "甚至世界上有一半的人",
+          "note": "一半的人"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "每天都會看到這個現象",
+          "note": "每天都会看到"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "常见液链现象→家中实验→表面张力收缩→惯性冲过→张弛相杀成链→命名液柱轴交换→尿流医疗彩蛋→身边再观察。",
+      "patterns": [
+        "现象普遍化",
+        "张力-惯性机制",
+        "彩蛋应用收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但事實上這種現象非常常見",
+          "note": "现象非常常见"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "液體總是親相",
+          "note": "液体总是亲相最小"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "慣性相愛相殺",
+          "note": "惯性相爱相杀"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "液度設流軸交換",
+          "note": "液度设流轴交换"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "來監控一些密尿疾病",
+          "note": "监控密尿疾病"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19"
+          ],
+          "function": "hook_ubiquity",
+          "note": "扭动钩子与日常普遍性"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27"
+          ],
+          "function": "home_experiment",
+          "note": "水瓶实验复现链状"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62"
+          ],
+          "function": "mechanism",
+          "note": "张力收缩与惯性冲过机制"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69",
+            "s70",
+            "s71",
+            "s72"
+          ],
+          "function": "name_and_twist",
+          "note": "命名+医疗彩蛋+身边观察CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「但事实上」「那它为什么」「但这下」「但它俩也不会」推进因果。",
+      "patterns": [
+        "但事实上纠偏转",
+        "为什么机制转",
+        "但它俩收束转"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但事實上這種現象非常常見",
+          "note": "但事实上"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "那它為什麼會變成這樣呢",
+          "note": "为什么会变成这样"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "徹底崩不住了",
+          "note": "彻底崩不住了"
+        },
+        {
+          "sentence_id": "s62",
+          "snippet": "但它倆也不會一直",
+          "note": "但它俩也不会一直"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "以为奇怪 vs 其实常见；正圆目标 vs 惯性冲过；张力 vs 惯性相爱相杀。",
+      "patterns": [
+        "奇怪/常见对照",
+        "张力惯性对打"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我選這太奇怪了吧",
+          "note": "太奇怪"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但事實上這種現象非常常見",
+          "note": "非常常见"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "慣性相愛相殺",
+          "note": "相爱相杀"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "「为什么会变成这样」驱动机制段；「想不到吧」彩蛋反转问感。",
+      "patterns": [
+        "机制驱动问",
+        "彩蛋反转感叹"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "那它為什麼會變成這樣呢",
+          "note": "为什么会变成这样呢"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "想不到吧",
+          "note": "想不到吧"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "挤牛奶/倒可乐咖啡任意液体；家中水瓶小嘴实验；男性排尿监控疾病彩蛋。",
+      "patterns": [
+        "多液体例",
+        "家中水瓶实验",
+        "排尿医疗彩蛋"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s9",
+          "snippet": "你還可以到捨樂到咖啡",
+          "note": "倒可乐到咖啡"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "拿出家中長輩的水準瓶",
+          "note": "长辈的水瓶"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "可以通過男性排藥時",
+          "note": "男性排药时"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "最小表面积原理→臀形截面→90度旋转变形→一肯一树交错可视形状。",
+      "patterns": [
+        "原理→可视变形",
+        "相杀→链状"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s36",
+          "snippet": "液體總是親相",
+          "note": "亲相最小"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "旋轉了90度的脫緣",
+          "note": "旋转了90度"
+        },
+        {
+          "sentence_id": "s59",
+          "snippet": "一肯一樹交錯的形狀",
+          "note": "一肯一树交错"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言现象常见、一半人每天看见；宣称小学就学过的轴交换命名。",
+      "patterns": [
+        "常见断语",
+        "命名权威感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "但事實上這種現象非常常見",
+          "note": "非常常见"
+        },
+        {
+          "sentence_id": "s15",
+          "snippet": "每天都會看到這個現象",
+          "note": "每天都会看到"
+        },
+        {
+          "sentence_id": "s60",
+          "snippet": "這就是我們小學二年級學步的",
+          "note": "小学二年级学过"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "「其实都不一定要挤」收缩前提；「哎别挤意」口头修补打断。",
+      "patterns": [
+        "前提收缩",
+        "口头修补打断"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s8",
+          "snippet": "其實都不一定要擠",
+          "note": "不一定要挤"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "哎別擠意",
+          "note": "哎别挤意"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "钩子短句密→实验指令中速→机制段加速对打→彩蛋突停→观察号召。",
+      "patterns": [
+        "钩子短密",
+        "机制对打加速",
+        "彩蛋突停"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "拿著牛奶往外擠",
+          "note": "短句钩子"
+        },
+        {
+          "sentence_id": "s57",
+          "snippet": "一扯一拉",
+          "note": "一扯一拉短打"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "想不到吧",
+          "note": "想不到吧停顿"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "repair",
+          "form": "哎别挤意"
+        },
+        {
+          "type": "repeat_glitch",
+          "form": "我从从从"
+        },
+        {
+          "type": "discourse",
+          "form": "但事实上"
+        },
+        {
+          "type": "personify",
+          "form": "我哥们的张力"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "哎別擠意",
+          "note": "哎别挤意修补"
+        },
+        {
+          "sentence_id": "s16",
+          "snippet": "但我從從從",
+          "note": "我从从从复读"
+        },
+        {
+          "sentence_id": "s6",
+          "snippet": "但事實上這種現象非常常見",
+          "note": "但事实上"
+        },
+        {
+          "sentence_id": "s49",
+          "snippet": "這下我哥們的張力",
+          "note": "我哥们的张力"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "惊奇→释然常见→实验好奇→机制紧张对打→彩蛋爆笑→身边温情收。",
+      "patterns": [
+        "惊奇入",
+        "机制紧张",
+        "彩蛋爆笑",
+        "温情观察"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "我選這太奇怪了吧",
+          "note": "太奇怪"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "徹底崩不住了",
+          "note": "崩不住了"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "想不到吧",
+          "note": "想不到吧"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "趕緊低下頭仔細觀察",
+          "note": "低下头仔细观察"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场「扭着奇怪」收束为「一直就在你身边」+低头观察物理奥秘。",
+      "patterns": [
+        "奇怪→身边",
+        "观察号召闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "牛奶竟然在空中扭着",
+          "note": "扭着开场"
+        },
+        {
+          "sentence_id": "s70",
+          "snippet": "其實一直就在你身邊",
+          "note": "一直就在你身边"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "感受你身上的物理奧密吧",
+          "note": "感受物理奥密"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "实验指令式CTA（拿出水瓶）+结尾「赶紧低下头观察」行动号召。",
+      "patterns": [
+        "实验指令CTA",
+        "低头观察号召"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我們現在做個實驗看究一下",
+          "note": "做个实验"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "拿出家中長輩的水準瓶",
+          "note": "拿出水瓶"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "趕緊低下頭仔細觀察",
+          "note": "赶紧低下头"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "「我哥们的张力」「相爱相杀」「一肯一树」拟人口语；ASR毛刺与修补增加现场感。",
+      "patterns": [
+        "哥们拟人",
+        "相爱相杀",
+        "修补毛刺"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s34",
+          "snippet": "但熟悉我哥們",
+          "note": "熟悉我哥们"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "慣性相愛相殺",
+          "note": "相爱相杀"
+        },
+        {
+          "sentence_id": "s17",
+          "snippet": "哎別擠意",
+          "note": "哎别挤意"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "ASR错字多（液度设流/肯树/排药）；机制段专名不可靠；医疗彩蛋表述粗。",
+      "patterns": [
+        "ASR专名损坏",
+        "医学表述粗"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s61",
+          "snippet": "液度設流軸交換",
+          "note": "液度设流轴交换错写"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "可以通過男性排藥時",
+          "note": "男性排药时"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "變成一個臀的駕�.",
+          "note": "臀的驾乱码"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先普遍化再实验再逐步推张力→惯性→命名，展示解题步骤。",
+      "patterns": [
+        "实验求解步骤外露"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我們現在做個實驗看究一下",
+          "note": "做个实验看究"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "我們現在看看",
+          "note": "我们现在看看"
+        },
+        {
+          "sentence_id": "s42",
+          "snippet": "它收縮到緣的時候",
+          "note": "收缩到缘的时候"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众设为「问过我的人/家里有水瓶的普通人」，邀请成为观察者。",
+      "patterns": [
+        "提问者位",
+        "家庭实验者位"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s5",
+          "snippet": "最近好多人都在問我這個問題",
+          "note": "好多人都在问我"
+        },
+        {
+          "sentence_id": "s20",
+          "snippet": "拿出家中長輩的水準瓶",
+          "note": "家中长辈水瓶"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "趕緊低下頭仔細觀察",
+          "note": "赶紧低下头"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "牛奶扭动、水瓶小嘴、90度旋、小学轴交换、尿流监控长度。",
+      "patterns": [
+        "牛奶视觉锚",
+        "90度旋锚",
+        "尿流彩蛋锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "牛奶竟然在空中扭着",
+          "note": "牛奶扭着"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "旋轉了90度的脫緣",
+          "note": "旋转了90度"
+        },
+        {
+          "sentence_id": "s66",
+          "snippet": "要做所練的長度",
+          "note": "所练的长度"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "钩子低密→实验中密→机制高密→彩蛋突变低密口号。",
+      "patterns": [
+        "钩低",
+        "机制高",
+        "彩蛋降"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "牛奶竟然在空中扭着",
+          "note": "钩低密"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "還有速度會繼續收縮",
+          "note": "机制高密"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "想不到吧",
+          "note": "彩蛋降密"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "碎短口播句为主；机制段因果短链；结尾祈使句。",
+      "patterns": [
+        "碎短口播",
+        "因果短链"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "拿著牛奶往外擠",
+          "note": "碎短"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "但由於慣性又會沖過頭",
+          "note": "由于惯性又会"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "趕緊低下頭仔細觀察",
+          "note": "祈使观察"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "俏皮理科解说：叫张力「哥们」、丢排尿彩蛋、鼓励低头看自己身上的物理。",
+      "patterns": [
+        "俏皮拟人理科",
+        "彩蛋恶趣味"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "這下我哥們的張力",
+          "note": "我哥们的张力"
+        },
+        {
+          "sentence_id": "s68",
+          "snippet": "想不到吧",
+          "note": "想不到吧"
+        },
+        {
+          "sentence_id": "s72",
+          "snippet": "感受你身上的物理奧密吧",
+          "note": "身上的物理奥密"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "牛奶锁链形、相爱相杀、一半人每天看见、想不到吧医疗彩蛋。",
+      "patterns": [
+        "锁链形",
+        "相爱相杀",
+        "一半人每天"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s13",
+          "snippet": "向著鎖鏈",
+          "note": "向着锁链"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "慣性相愛相殺",
+          "note": "相爱相杀"
+        },
+        {
+          "sentence_id": "s14",
+          "snippet": "甚至世界上有一半的人",
+          "note": "一半的人"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "日常液链科普结构（钩子-实验-机制-彩蛋-观察）可迁观宇，需重录清洗ASR与医学表述。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "牛奶竟然在空中扭着",
+          "note": "视觉钩"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "慣性相愛相殺",
+          "note": "机制金句"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "趕緊低下頭仔細觀察",
+          "note": "观察CTA"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s4",
+    "s14",
+    "s15",
+    "s6",
+    "s36",
+    "s56",
+    "s61",
+    "s67",
+    "s1",
+    "s3",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s62",
+    "s63",
+    "s64",
+    "s65",
+    "s66",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72"
+  ],
+  "fields_complete_25": true
+}

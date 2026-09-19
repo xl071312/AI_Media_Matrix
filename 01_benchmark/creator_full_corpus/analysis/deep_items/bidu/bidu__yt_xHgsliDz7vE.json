@@ -1,0 +1,1503 @@
+{
+  "creator_id": "bidu",
+  "work_id": "bidu__yt_xHgsliDz7vE",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=xHgsliDz7vE",
+  "source_sha256": "c76a0ba3f27d42639c078416c6520284b74ea35016176aedbb34cabcacf8f2aa",
+  "performance_tier": "CONTROL",
+  "spoken_marker_eligible": "YES_UNSAMPLED",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 107,
+  "sentences_index": [
+    {
+      "sentence_id": "s1",
+      "char_len": 11,
+      "snippet": "他对你吸引力其实很小的"
+    },
+    {
+      "sentence_id": "s2",
+      "char_len": 17,
+      "snippet": "争取万一零零的F等于GMM出来RF"
+    },
+    {
+      "sentence_id": "s3",
+      "char_len": 9,
+      "snippet": "他的体重取70动机"
+    },
+    {
+      "sentence_id": "s4",
+      "char_len": 9,
+      "snippet": "你的体重取60动机"
+    },
+    {
+      "sentence_id": "s5",
+      "char_len": 6,
+      "snippet": "再称6.67"
+    },
+    {
+      "sentence_id": "s6",
+      "char_len": 6,
+      "snippet": "你还有时光进"
+    },
+    {
+      "sentence_id": "s7",
+      "char_len": 12,
+      "snippet": "可是我体重9060动机啊"
+    },
+    {
+      "sentence_id": "s8",
+      "char_len": 10,
+      "snippet": "爱情云真是难以捉摸呀"
+    },
+    {
+      "sentence_id": "s9",
+      "char_len": 7,
+      "snippet": "之前有一期视频"
+    },
+    {
+      "sentence_id": "s10",
+      "char_len": 7,
+      "snippet": "我和大家讨论了"
+    },
+    {
+      "sentence_id": "s11",
+      "char_len": 18,
+      "snippet": "如何在N个喜欢你的人中挑出最优秀的内"
+    },
+    {
+      "sentence_id": "s12",
+      "char_len": 8,
+      "snippet": "就过很多人吐槽我"
+    },
+    {
+      "sentence_id": "s13",
+      "char_len": 11,
+      "snippet": "说我确的是N人的错对吗"
+    },
+    {
+      "sentence_id": "s14",
+      "char_len": 10,
+      "snippet": "我都会提站N的云林啊"
+    },
+    {
+      "sentence_id": "s15",
+      "char_len": 9,
+      "snippet": "在那之后我业不能没"
+    },
+    {
+      "sentence_id": "s16",
+      "char_len": 4,
+      "snippet": "展转反测"
+    },
+    {
+      "sentence_id": "s17",
+      "char_len": 10,
+      "snippet": "终于误透了爱情的阵地"
+    },
+    {
+      "sentence_id": "s18",
+      "char_len": 7,
+      "snippet": "今天就要照大家"
+    },
+    {
+      "sentence_id": "s19",
+      "char_len": 10,
+      "snippet": "其实相爱是一种电磁力"
+    },
+    {
+      "sentence_id": "s20",
+      "char_len": 5,
+      "snippet": "爱情的本质"
+    },
+    {
+      "sentence_id": "s21",
+      "char_len": 5,
+      "snippet": "电磁学学学"
+    },
+    {
+      "sentence_id": "s22",
+      "char_len": 10,
+      "snippet": "首先爱情中的吸引力呢"
+    },
+    {
+      "sentence_id": "s23",
+      "char_len": 8,
+      "snippet": "肯定不是万有引力"
+    },
+    {
+      "sentence_id": "s24",
+      "char_len": 11,
+      "snippet": "因为万有引力予智量承证"
+    },
+    {
+      "sentence_id": "s25",
+      "char_len": 7,
+      "snippet": "但是我变胖之后"
+    },
+    {
+      "sentence_id": "s26",
+      "char_len": 12,
+      "snippet": "亚情骂我的次数反而变多了"
+    },
+    {
+      "sentence_id": "s27",
+      "char_len": 11,
+      "snippet": "就说明我的吸引力下降了"
+    },
+    {
+      "sentence_id": "s28",
+      "char_len": 17,
+      "snippet": "下面我们就有学术研究的使得分析一下"
+    },
+    {
+      "sentence_id": "s29",
+      "char_len": 3,
+      "snippet": "为什么"
+    },
+    {
+      "sentence_id": "s30",
+      "char_len": 8,
+      "snippet": "相爱是一种电磁力"
+    },
+    {
+      "sentence_id": "s31",
+      "char_len": 10,
+      "snippet": "相爱的第一步是要心动"
+    },
+    {
+      "sentence_id": "s32",
+      "char_len": 10,
+      "snippet": "心动就是看到喜欢的人"
+    },
+    {
+      "sentence_id": "s33",
+      "char_len": 9,
+      "snippet": "引发新积距离的收缩"
+    },
+    {
+      "sentence_id": "s34",
+      "char_len": 8,
+      "snippet": "大脑中产生的新粉"
+    },
+    {
+      "sentence_id": "s35",
+      "char_len": 17,
+      "snippet": "通过交展生经系统引发新交展生经系统"
+    },
+    {
+      "sentence_id": "s36",
+      "char_len": 10,
+      "snippet": "抹烧释放去假身上线素"
+    },
+    {
+      "sentence_id": "s37",
+      "char_len": 6,
+      "snippet": "去甲身上线素"
+    },
+    {
+      "sentence_id": "s38",
+      "char_len": 15,
+      "snippet": "会引发细胞表面的盖粒子通脑开启"
+    },
+    {
+      "sentence_id": "s39",
+      "char_len": 7,
+      "snippet": "少量盖粒子内流"
+    },
+    {
+      "sentence_id": "s40",
+      "char_len": 12,
+      "snippet": "同时触发细胞表面的基金网"
+    },
+    {
+      "sentence_id": "s41",
+      "char_len": 8,
+      "snippet": "释放大量的盖粒子"
+    },
+    {
+      "sentence_id": "s42",
+      "char_len": 18,
+      "snippet": "在细胞质与鸡盖在白丝鞋和产生新积数缩"
+    },
+    {
+      "sentence_id": "s43",
+      "char_len": 12,
+      "snippet": "所以不是喜欢的人让你心动"
+    },
+    {
+      "sentence_id": "s44",
+      "char_len": 6,
+      "snippet": "而是神经信号"
+    },
+    {
+      "sentence_id": "s45",
+      "char_len": 7,
+      "snippet": "动作电磁的变化"
+    },
+    {
+      "sentence_id": "s46",
+      "char_len": 12,
+      "snippet": "和新积细胞盖粒子弄的变化"
+    },
+    {
+      "sentence_id": "s47",
+      "char_len": 4,
+      "snippet": "让你心动"
+    },
+    {
+      "sentence_id": "s48",
+      "char_len": 12,
+      "snippet": "这本质上都是电磁力在支配"
+    },
+    {
+      "sentence_id": "s49",
+      "char_len": 7,
+      "snippet": "爱情中你很喜欢"
+    },
+    {
+      "sentence_id": "s50",
+      "char_len": 9,
+      "snippet": "他对你说的土味情话"
+    },
+    {
+      "sentence_id": "s51",
+      "char_len": 15,
+      "snippet": "你知道你喝奶茶是喝点什么糖的吗"
+    },
+    {
+      "sentence_id": "s52",
+      "char_len": 2,
+      "snippet": "不糖"
+    },
+    {
+      "sentence_id": "s53",
+      "char_len": 6,
+      "snippet": "不是我的胸糖"
+    },
+    {
+      "sentence_id": "s54",
+      "char_len": 9,
+      "snippet": "这本质上又是什么呢"
+    },
+    {
+      "sentence_id": "s55",
+      "char_len": 6,
+      "snippet": "他的生代振动"
+    },
+    {
+      "sentence_id": "s56",
+      "char_len": 18,
+      "snippet": "这本质上其实是分子间电磁力的相互排斥"
+    },
+    {
+      "sentence_id": "s57",
+      "char_len": 15,
+      "snippet": "所以如果一个男生很会说土味情话"
+    },
+    {
+      "sentence_id": "s58",
+      "char_len": 16,
+      "snippet": "其实�有能力让你们之间的空气分子"
+    },
+    {
+      "sentence_id": "s59",
+      "char_len": 9,
+      "snippet": "以更-土的方式阵动"
+    },
+    {
+      "sentence_id": "s60",
+      "char_len": 7,
+      "snippet": "爱心中cory"
+    },
+    {
+      "sentence_id": "s61",
+      "char_len": 10,
+      "snippet": "我们就不谈的那么深入"
+    },
+    {
+      "sentence_id": "s62",
+      "char_len": 6,
+      "snippet": "我们就说一点"
+    },
+    {
+      "sentence_id": "s63",
+      "char_len": 9,
+      "snippet": "万克斯伟用四个方程"
+    },
+    {
+      "sentence_id": "s64",
+      "char_len": 9,
+      "snippet": "建起了电磁学的大厦"
+    },
+    {
+      "sentence_id": "s65",
+      "char_len": 14,
+      "snippet": "他被语为世界上最美的方程之一"
+    },
+    {
+      "sentence_id": "s66",
+      "char_len": 4,
+      "snippet": "在我眼中"
+    },
+    {
+      "sentence_id": "s67",
+      "char_len": 15,
+      "snippet": "他是可以屁美心愿结一的美丽存在"
+    },
+    {
+      "sentence_id": "s68",
+      "char_len": 4,
+      "snippet": "不信你屁"
+    },
+    {
+      "sentence_id": "s69",
+      "char_len": 4,
+      "snippet": "你仔细屁"
+    },
+    {
+      "sentence_id": "s70",
+      "char_len": 5,
+      "snippet": "不妄是爱情"
+    },
+    {
+      "sentence_id": "s71",
+      "char_len": 17,
+      "snippet": "其实电磁力几乎除在了我们生活的一切"
+    },
+    {
+      "sentence_id": "s72",
+      "char_len": 9,
+      "snippet": "怎么推理了栗模擦理"
+    },
+    {
+      "sentence_id": "s73",
+      "char_len": 15,
+      "snippet": "你能感受到的一切几乎都是电磁力"
+    },
+    {
+      "sentence_id": "s74",
+      "char_len": 6,
+      "snippet": "你付一块面膜"
+    },
+    {
+      "sentence_id": "s75",
+      "char_len": 14,
+      "snippet": "检开包装是检刀原子的外层电磁"
+    },
+    {
+      "sentence_id": "s76",
+      "char_len": 13,
+      "snippet": "排斥开了只原子的外层的电子"
+    },
+    {
+      "sentence_id": "s77",
+      "char_len": 9,
+      "snippet": "你感受到面膜的水润"
+    },
+    {
+      "sentence_id": "s78",
+      "char_len": 13,
+      "snippet": "是面膜液体和和和你的皮膚间"
+    },
+    {
+      "sentence_id": "s79",
+      "char_len": 8,
+      "snippet": "产生了分子间清淀"
+    },
+    {
+      "sentence_id": "s80",
+      "char_len": 14,
+      "snippet": "然后你看我的视频把面膜效力了"
+    },
+    {
+      "sentence_id": "s81",
+      "char_len": 10,
+      "snippet": "是你的脸丰仅是的效力"
+    },
+    {
+      "sentence_id": "s82",
+      "char_len": 8,
+      "snippet": "让面膜分子分开了"
+    },
+    {
+      "sentence_id": "s83",
+      "char_len": 8,
+      "snippet": "有的观众承认要说"
+    },
+    {
+      "sentence_id": "s84",
+      "char_len": 11,
+      "snippet": "而且电磁力是我们生活中"
+    },
+    {
+      "sentence_id": "s85",
+      "char_len": 7,
+      "snippet": "万无的运心法则"
+    },
+    {
+      "sentence_id": "s86",
+      "char_len": 12,
+      "snippet": "那为了学生学物力满分成绩"
+    },
+    {
+      "sentence_id": "s87",
+      "char_len": 9,
+      "snippet": "那胆胆胆的胆胆胆的"
+    },
+    {
+      "sentence_id": "s88",
+      "char_len": 6,
+      "snippet": "也没有脱单的"
+    },
+    {
+      "sentence_id": "s89",
+      "char_len": 2,
+      "snippet": "别急"
+    },
+    {
+      "sentence_id": "s90",
+      "char_len": 11,
+      "snippet": "我的视频哪次没有用过呢"
+    },
+    {
+      "sentence_id": "s91",
+      "char_len": 10,
+      "snippet": "为什么一般人很难看出"
+    },
+    {
+      "sentence_id": "s92",
+      "char_len": 12,
+      "snippet": "电磷学和爱情之间的关系呢"
+    },
+    {
+      "sentence_id": "s93",
+      "char_len": 12,
+      "snippet": "因为他们中间有好多层带斗"
+    },
+    {
+      "sentence_id": "s94",
+      "char_len": 4,
+      "snippet": "的规优化"
+    },
+    {
+      "sentence_id": "s95",
+      "char_len": 11,
+      "snippet": "这是经公的还原论的方法"
+    },
+    {
+      "sentence_id": "s96",
+      "char_len": 9,
+      "snippet": "然而警告底层的规律"
+    },
+    {
+      "sentence_id": "s97",
+      "char_len": 3,
+      "snippet": "实无法"
+    },
+    {
+      "sentence_id": "s98",
+      "char_len": 5,
+      "snippet": "这就是为啥"
+    },
+    {
+      "sentence_id": "s99",
+      "char_len": 11,
+      "snippet": "你学的再多经济学的规律"
+    },
+    {
+      "sentence_id": "s100",
+      "char_len": 16,
+      "snippet": "还是只能在股市里培的那一库也不甚"
+    },
+    {
+      "sentence_id": "s101",
+      "char_len": 5,
+      "snippet": "我以前也会"
+    },
+    {
+      "sentence_id": "s102",
+      "char_len": 14,
+      "snippet": "说在物理学校的眼中无所谓美女"
+    },
+    {
+      "sentence_id": "s103",
+      "char_len": 17,
+      "snippet": "只不过是皮肤表面分子对击方式不同吧"
+    },
+    {
+      "sentence_id": "s104",
+      "char_len": 4,
+      "snippet": "我扔脸吗"
+    },
+    {
+      "sentence_id": "s105",
+      "char_len": 8,
+      "snippet": "我觉得很有奇发呢"
+    },
+    {
+      "sentence_id": "s106",
+      "char_len": 15,
+      "snippet": "不要忘了 one件三年支持一下"
+    },
+    {
+      "sentence_id": "s107",
+      "char_len": 6,
+      "snippet": "我们下次再见"
+    }
+  ],
+  "fields": {
+    "opening_move": {
+      "summary": "用万有引力公式玩笑算情侣吸引力，自嘲体重后抛「爱情难以捉摸」，再衔上期选人吐槽引入电磁力命题。",
+      "patterns": [
+        "引力公式玩笑",
+        "上期吐槽衔入",
+        "电磁力命题"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "争取万一零零的F等于GMM出来RF",
+          "note": "F等于GMm"
+        },
+        {
+          "sentence_id": "s8",
+          "snippet": "爱情云真是难以捉摸呀",
+          "note": "难以捉摸"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就过很多人吐槽我",
+          "note": "吐槽我"
+        },
+        {
+          "sentence_id": "s19",
+          "snippet": "其实相爱是一种电磁力",
+          "note": "相爱是电磁力"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "非万有引力(变胖被骂更多)→心动=神经/钙离子电磁过程→土味情话=空气分子振动排斥→麦克斯韦方程美比誓言→日常面膜也是电磁→还原论难跨层→物理眼无美女玩笑→关注收。",
+      "patterns": [
+        "证伪引力",
+        "心动机制",
+        "情话分子",
+        "方程之美",
+        "日常电磁",
+        "还原论限"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "肯定不是万有引力",
+          "note": "不是万有引力"
+        },
+        {
+          "sentence_id": "s31",
+          "snippet": "相爱的第一步是要心动",
+          "note": "心动第一步"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这本质上都是电磁力在支配",
+          "note": "电磁力支配"
+        },
+        {
+          "sentence_id": "s56",
+          "snippet": "这本质上其实是分子间电磁力的相互排斥",
+          "note": "分子排斥"
+        },
+        {
+          "sentence_id": "s64",
+          "snippet": "建起了电磁学的大厦",
+          "note": "电磁学大厦"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这是经公的还原论的方法",
+          "note": "还原论"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15",
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21"
+          ],
+          "function": "hook_thesis",
+          "note": "引力玩笑与电磁力命题"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32",
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48"
+          ],
+          "function": "heartbeat_mech",
+          "note": "心动神经钙离子链路"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s49",
+            "s50",
+            "s51",
+            "s52",
+            "s53",
+            "s54",
+            "s55",
+            "s56",
+            "s57",
+            "s58",
+            "s59",
+            "s60",
+            "s61",
+            "s62",
+            "s63",
+            "s64",
+            "s65",
+            "s66",
+            "s67",
+            "s68",
+            "s69"
+          ],
+          "function": "sweet_talk_eq",
+          "note": "土味情话与麦克斯韦美"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s70",
+            "s71",
+            "s72",
+            "s73",
+            "s74",
+            "s75",
+            "s76",
+            "s77",
+            "s78",
+            "s79",
+            "s80",
+            "s81",
+            "s82",
+            "s83",
+            "s84",
+            "s85",
+            "s86",
+            "s87",
+            "s88",
+            "s89",
+            "s90",
+            "s91",
+            "s92",
+            "s93",
+            "s94",
+            "s95",
+            "s96",
+            "s97",
+            "s98",
+            "s99",
+            "s100"
+          ],
+          "function": "everyday_limit",
+          "note": "日常电磁与还原论局限"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s101",
+            "s102",
+            "s103",
+            "s104",
+            "s105",
+            "s106",
+            "s107"
+          ],
+          "function": "close_cta",
+          "note": "物理眼美女玩笑与关注"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "「首先」「下面我们就」「所以」「这本质上」「别急」串科普段。",
+      "patterns": [
+        "首先",
+        "所以",
+        "这本质上",
+        "别急"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "首先爱情中的吸引力呢",
+          "note": "首先吸引力"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以不是喜欢的人让你心动",
+          "note": "所以不是"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这本质上又是什么呢",
+          "note": "本质上又是"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "别急",
+          "note": "别急"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "万有引力随质量增 vs 变胖吸引力降；喜欢的人让你心动 vs 神经电磁变化让你心动；底层规律 vs 跨层无法直接指导股市/脱单。",
+      "patterns": [
+        "质量vs吸引力",
+        "主体翻转",
+        "跨层失效"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s25",
+          "snippet": "但是我变胖之后",
+          "note": "变胖"
+        },
+        {
+          "sentence_id": "s27",
+          "snippet": "就说明我的吸引力下降了",
+          "note": "吸引力下降"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以不是喜欢的人让你心动",
+          "note": "不是喜欢的人"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "让你心动",
+          "note": "让你心动"
+        },
+        {
+          "sentence_id": "s99",
+          "snippet": "你学的再多经济学的规律",
+          "note": "经济学仍亏"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "奶茶糖梗设问、本质追问、为何看不出电磁与爱情关系、物理眼有无美女。",
+      "patterns": [
+        "情话设问",
+        "本质追问",
+        "关系难见问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "你知道你喝奶茶是喝点什么糖的吗",
+          "note": "喝点什么糖"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这本质上又是什么呢",
+          "note": "本质上又是"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "为什么一般人很难看出",
+          "note": "为什么很难看出"
+        },
+        {
+          "sentence_id": "s104",
+          "snippet": "我扔脸吗",
+          "note": "我扔脸吗"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "土味情话「不糖是我的心糖」；敷面膜拆包装/水润/扯裂三步电磁日常。",
+      "patterns": [
+        "土味情话例",
+        "面膜三步"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s52",
+          "snippet": "不糖",
+          "note": "不糖"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "不是我的胸糖",
+          "note": "心糖"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "你付一块面膜",
+          "note": "敷面膜"
+        },
+        {
+          "sentence_id": "s77",
+          "snippet": "你感受到面膜的水润",
+          "note": "水润"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "心动落到心肌收缩、去甲肾上腺素、钙离子通道；麦克斯韦「四个方程」；股市赔钱类比跨层。",
+      "patterns": [
+        "生理链路具象",
+        "四方程",
+        "股市类比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s37",
+          "snippet": "去甲身上线素",
+          "note": "去甲肾上腺素"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "会引发细胞表面的盖粒子通脑开启",
+          "note": "钙离子通道"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "万克斯伟用四个方程",
+          "note": "四个方程"
+        },
+        {
+          "sentence_id": "s100",
+          "snippet": "还是只能在股市里培的那一库也不甚",
+          "note": "股市赔"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "断言「肯定不是万有引力」「本质上都是电磁力」「最美方程之一」「可媲美誓言」。",
+      "patterns": [
+        "肯定不是",
+        "本质断言",
+        "最美方程"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "肯定不是万有引力",
+          "note": "肯定不是"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这本质上都是电磁力在支配",
+          "note": "都是电磁力"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "他被语为世界上最美的方程之一",
+          "note": "最美方程"
+        },
+        {
+          "sentence_id": "s67",
+          "snippet": "他是可以屁美心愿结一的美丽存在",
+          "note": "媲美誓言"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "体重取值玩笑中途插入「可是我体重」；「我们就不谈那么深入我们就说一点」降维；承认以前也会说物理眼无美女。",
+      "patterns": [
+        "体重插科",
+        "降维不深入",
+        "承认旧说"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "可是我体重9060动机啊",
+          "note": "我体重"
+        },
+        {
+          "sentence_id": "s61",
+          "snippet": "我们就不谈的那么深入",
+          "note": "不谈那么深入"
+        },
+        {
+          "sentence_id": "s101",
+          "snippet": "我以前也会",
+          "note": "我以前也会"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "公式口播急促→命题亮相→生理机制密句→情话顿挫→方程抒情→日常列举加速→还原论放慢→关注收。",
+      "patterns": [
+        "机制密句",
+        "情话顿挫",
+        "日常加速"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "争取万一零零的F等于GMM出来RF",
+          "note": "公式急"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "会引发细胞表面的盖粒子通脑开启",
+          "note": "钙离子密"
+        },
+        {
+          "sentence_id": "s52",
+          "snippet": "不糖",
+          "note": "情话顿"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "你付一块面膜",
+          "note": "面膜加速"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "LISTED",
+      "markers": [
+        {
+          "type": "discourse",
+          "form": "首先"
+        },
+        {
+          "type": "discourse",
+          "form": "所以"
+        },
+        {
+          "type": "discourse",
+          "form": "别急"
+        },
+        {
+          "type": "repair_like",
+          "form": "这本质上"
+        },
+        {
+          "type": "filler_loop",
+          "form": "电磁学学学"
+        },
+        {
+          "type": "self_talk",
+          "form": "可是我体重"
+        }
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s22",
+          "snippet": "首先爱情中的吸引力呢",
+          "note": "首先"
+        },
+        {
+          "sentence_id": "s43",
+          "snippet": "所以不是喜欢的人让你心动",
+          "note": "所以"
+        },
+        {
+          "sentence_id": "s89",
+          "snippet": "别急",
+          "note": "别急"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这本质上又是什么呢",
+          "note": "本质上"
+        },
+        {
+          "sentence_id": "s21",
+          "snippet": "电磁学学学",
+          "note": "学学学"
+        },
+        {
+          "sentence_id": "s7",
+          "snippet": "可是我体重9060动机啊",
+          "note": "可是我体重"
+        }
+      ]
+    },
+    "emotion_curve": {
+      "summary": "玩笑轻松→自嘲被骂→科普认真→情话甜腻笑→方程崇拜→日常会心→还原论清醒→关注温和。",
+      "patterns": [
+        "自嘲",
+        "方程崇拜",
+        "清醒收"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s26",
+          "snippet": "亚情骂我的次数反而变多了",
+          "note": "被骂变多"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "他被语为世界上最美的方程之一",
+          "note": "最美方程"
+        },
+        {
+          "sentence_id": "s96",
+          "snippet": "然而警告底层的规律",
+          "note": "底层无法"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "不要忘了 one件三年支持一下",
+          "note": "支持一下"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开篇爱情难捉摸/电磁力命题，收束电磁力渗透一切+关注下次见。",
+      "patterns": [
+        "命题到渗透",
+        "关注闭环"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "其实相爱是一种电磁力",
+          "note": "电磁力命题"
+        },
+        {
+          "sentence_id": "s71",
+          "snippet": "其实电磁力几乎除在了我们生活的一切",
+          "note": "渗透一切"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "我们下次再见",
+          "note": "下次再见"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "「别忘了点赞三连支持一下」「下次再见」轻订阅。",
+      "patterns": [
+        "点赞三连",
+        "下次再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s106",
+          "snippet": "不要忘了 one件三年支持一下",
+          "note": "支持一下"
+        },
+        {
+          "sentence_id": "s107",
+          "snippet": "我们下次再见",
+          "note": "下次再见"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "ASR噪声中仍见体重自嘲、土味情话、面膜扯裂、物理眼美女等毕导标志玩笑（转写讹误本身也像口语现场）。",
+      "patterns": [
+        "体重自嘲",
+        "土味情话",
+        "面膜现场感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s7",
+          "snippet": "可是我体重9060动机啊",
+          "note": "体重"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "不是我的胸糖",
+          "note": "心糖"
+        },
+        {
+          "sentence_id": "s80",
+          "snippet": "然后你看我的视频把面膜效力了",
+          "note": "面膜效力了"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "口语ASR严重失真（动机/盖粒子等）；生理链路简化；爱情隐喻易被当成科学结论。",
+      "patterns": [
+        "ASR失真",
+        "简化风险",
+        "隐喻当真"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s3",
+          "snippet": "他的体重取70动机",
+          "note": "动机讹"
+        },
+        {
+          "sentence_id": "s38",
+          "snippet": "会引发细胞表面的盖粒子通脑开启",
+          "note": "盖粒子讹"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这本质上都是电磁力在支配",
+          "note": "本质断言"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "先排除万有引力再立电磁；层层问「本质上是什么」；用还原论解释为何直觉难连爱情与电磁。",
+      "patterns": [
+        "排除再立",
+        "本质追问链",
+        "还原论解释"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "肯定不是万有引力",
+          "note": "排除引力"
+        },
+        {
+          "sentence_id": "s54",
+          "snippet": "这本质上又是什么呢",
+          "note": "本质追问"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这是经公的还原论的方法",
+          "note": "还原论"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当被吐槽的「N人」前作观众与可被情话逗乐的大众，用「你仔细看」拉近。",
+      "patterns": [
+        "前作观众",
+        "你仔细看"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s12",
+          "snippet": "就过很多人吐槽我",
+          "note": "吐槽我"
+        },
+        {
+          "sentence_id": "s69",
+          "snippet": "你仔细屁",
+          "note": "仔细屁/看"
+        },
+        {
+          "sentence_id": "s83",
+          "snippet": "有的观众承认要说",
+          "note": "有的观众"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "GMm公式、70/60kg、去甲肾上腺素与钙离子、麦克斯韦四方程、面膜、股市赔钱。",
+      "patterns": [
+        "公式体重",
+        "激素离子",
+        "四方程",
+        "面膜"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "争取万一零零的F等于GMM出来RF",
+          "note": "公式"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "你的体重取60动机",
+          "note": "60"
+        },
+        {
+          "sentence_id": "s37",
+          "snippet": "去甲身上线素",
+          "note": "去甲肾"
+        },
+        {
+          "sentence_id": "s63",
+          "snippet": "万克斯伟用四个方程",
+          "note": "四方程"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场玩笑低密→生理机制高密→情话中密→方程抒情降→日常例再抬→还原论中密→CTA低。",
+      "patterns": [
+        "生理峰值",
+        "日常再抬"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "会引发细胞表面的盖粒子通脑开启",
+          "note": "生理峰"
+        },
+        {
+          "sentence_id": "s75",
+          "snippet": "检开包装是检刀原子的外层电磁",
+          "note": "日常抬"
+        },
+        {
+          "sentence_id": "s106",
+          "snippet": "不要忘了 one件三年支持一下",
+          "note": "CTA低"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "短玩笑→命题→因果长链→情话问答→排比日常→设问收束。",
+      "patterns": [
+        "问答情话",
+        "日常排比"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s51",
+          "snippet": "你知道你喝奶茶是喝点什么糖的吗",
+          "note": "问答"
+        },
+        {
+          "sentence_id": "s74",
+          "snippet": "你付一块面膜",
+          "note": "面膜起排比"
+        },
+        {
+          "sentence_id": "s91",
+          "snippet": "为什么一般人很难看出",
+          "note": "设问"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理工男浪漫说书人：用错位严肃把电磁学塞进爱情，自嘲身材与脱单。",
+      "patterns": [
+        "错位严肃",
+        "自嘲脱单"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "其实相爱是一种电磁力",
+          "note": "电磁力爱情"
+        },
+        {
+          "sentence_id": "s88",
+          "snippet": "也没有脱单的",
+          "note": "没有脱单"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "变胖被骂证伪引力、心动是钙离子、心糖情话、麦克斯韦最美方程。",
+      "patterns": [
+        "变胖证伪",
+        "钙离子心动",
+        "心糖",
+        "最美方程"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s27",
+          "snippet": "就说明我的吸引力下降了",
+          "note": "吸引力降"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这本质上都是电磁力在支配",
+          "note": "电磁支配"
+        },
+        {
+          "sentence_id": "s53",
+          "snippet": "不是我的胸糖",
+          "note": "心糖"
+        },
+        {
+          "sentence_id": "s65",
+          "snippet": "他被语为世界上最美的方程之一",
+          "note": "最美"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "ADAPT",
+      "reason": "「证伪常识→机制链→生活例→还原论边界」科普骨架可改编观宇科学口播，须重录清口语并标明隐喻。",
+      "evidence": [
+        {
+          "sentence_id": "s23",
+          "snippet": "肯定不是万有引力",
+          "note": "非引力"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "这本质上都是电磁力在支配",
+          "note": "电磁支配"
+        },
+        {
+          "sentence_id": "s95",
+          "snippet": "这是经公的还原论的方法",
+          "note": "还原论"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s2",
+    "s8",
+    "s12",
+    "s19",
+    "s23",
+    "s31",
+    "s48",
+    "s56",
+    "s64",
+    "s95",
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20",
+    "s21",
+    "s22",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s49",
+    "s50",
+    "s51",
+    "s52",
+    "s53",
+    "s54",
+    "s55",
+    "s57",
+    "s58",
+    "s59",
+    "s60",
+    "s61",
+    "s62",
+    "s63",
+    "s65",
+    "s66",
+    "s67",
+    "s68",
+    "s69",
+    "s70",
+    "s71",
+    "s72",
+    "s73",
+    "s74",
+    "s75",
+    "s76",
+    "s77",
+    "s78",
+    "s79",
+    "s80",
+    "s81",
+    "s82",
+    "s83",
+    "s84",
+    "s85",
+    "s86",
+    "s87",
+    "s88",
+    "s89",
+    "s90",
+    "s91",
+    "s92",
+    "s93",
+    "s94",
+    "s96",
+    "s97",
+    "s98",
+    "s99",
+    "s100",
+    "s101",
+    "s102",
+    "s103",
+    "s104",
+    "s105",
+    "s106",
+    "s107"
+  ],
+  "fields_complete_25": true
+}

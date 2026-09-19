@@ -1,0 +1,947 @@
+{
+  "creator_id": "hetongxue",
+  "work_id": "hetongxue__yt_uSbNu5LsIi0",
+  "modality": "FULL_SPOKEN",
+  "source_url": "https://www.youtube.com/watch?v=uSbNu5LsIi0",
+  "source_sha256": "8bd84222d9b8685738df92dc80d74fd12c966887265df784313975061f518691",
+  "performance_tier": "HIGH",
+  "spoken_marker_eligible": "NO",
+  "analysis_status": "OK",
+  "analyzer_version": "phase_c_v1",
+  "sentence_count": 120,
+  "fields": {
+    "opening_move": {
+      "summary": "视觉对切100块与100万音响，再以数码博主身份抛出生活品质答案与价位实验预告。",
+      "patterns": [
+        "价格对切冷开场",
+        "博主身份立人设",
+        "盲听实验预告"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "是一套100块的音响",
+          "note": "百元锚点"
+        },
+        {
+          "sentence_id": "s4",
+          "snippet": "是一套100万的音响",
+          "note": "百万对切"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "意外生活品质答案"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "来盲听",
+          "note": "盲听机制"
+        }
+      ]
+    },
+    "claim_chain": {
+      "summary": "好音响提升影音层次→价位怎么选需实测→专业与素人盲听猜价→蜡烛矩阵可视化低频→收束到振动还原与现场不可替代。",
+      "patterns": [
+        "价位阶梯实测",
+        "双人盲听猜价",
+        "物理实验可视化",
+        "振动还原收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s15",
+          "snippet": "提升一个层次",
+          "note": "体验升维主张"
+        },
+        {
+          "sentence_id": "s28",
+          "snippet": "这些音响都得多少钱",
+          "note": "猜价任务"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我们用这个蜡烛矩阵",
+          "note": "蜡烛实验"
+        },
+        {
+          "sentence_id": "s449",
+          "snippet": "就是音乐本身",
+          "note": "现场即本体"
+        }
+      ]
+    },
+    "logic_units": {
+      "units": [
+        {
+          "unit_id": "u1",
+          "sentence_ids": [
+            "s1",
+            "s2",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10",
+            "s11",
+            "s12",
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "function": "对切开场与生活品质答案落到音响",
+          "note": "钩子+立论"
+        },
+        {
+          "unit_id": "u2",
+          "sentence_ids": [
+            "s16",
+            "s17",
+            "s18",
+            "s19",
+            "s20",
+            "s21",
+            "s22",
+            "s23",
+            "s24",
+            "s25",
+            "s26",
+            "s27",
+            "s28",
+            "s29",
+            "s30",
+            "s31",
+            "s32"
+          ],
+          "function": "价位疑问与盲听嘉宾+交响乐彩蛋预告",
+          "note": "实验设计"
+        },
+        {
+          "unit_id": "u3",
+          "sentence_ids": [
+            "s33",
+            "s34",
+            "s35",
+            "s36",
+            "s37",
+            "s38",
+            "s39",
+            "s40",
+            "s41",
+            "s42",
+            "s43",
+            "s44",
+            "s45",
+            "s46",
+            "s47",
+            "s48",
+            "s49",
+            "s50"
+          ],
+          "function": "iPhone扬声器校准耳朵与吐槽价位",
+          "note": "低端基准"
+        },
+        {
+          "unit_id": "u4",
+          "sentence_ids": [
+            "s212",
+            "s213",
+            "s214",
+            "s215",
+            "s216",
+            "s217",
+            "s218",
+            "s219",
+            "s220",
+            "s221",
+            "s222"
+          ],
+          "function": "中档价位拆箱体与功放合计猜价核验",
+          "note": "价格拆分"
+        },
+        {
+          "unit_id": "u5",
+          "sentence_ids": [
+            "s223",
+            "s224",
+            "s225",
+            "s226",
+            "s227",
+            "s228",
+            "s229",
+            "s230",
+            "s231",
+            "s232",
+            "s233",
+            "s234",
+            "s235",
+            "s236",
+            "s237",
+            "s238",
+            "s239",
+            "s240",
+            "s241",
+            "s242",
+            "s243",
+            "s244",
+            "s245",
+            "s246",
+            "s247",
+            "s248",
+            "s249",
+            "s250",
+            "s251"
+          ],
+          "function": "落地箱规格对比与蜡烛矩阵证明低频",
+          "note": "规格+实验"
+        },
+        {
+          "unit_id": "u6",
+          "sentence_ids": [
+            "s434",
+            "s435",
+            "s436",
+            "s437",
+            "s438",
+            "s439",
+            "s440",
+            "s441",
+            "s442",
+            "s443",
+            "s444",
+            "s445",
+            "s446",
+            "s447",
+            "s448",
+            "s449",
+            "s450",
+            "s451",
+            "s452",
+            "s453",
+            "s454",
+            "s455",
+            "s456",
+            "s457",
+            "s458",
+            "s459",
+            "s460",
+            "s461",
+            "s462",
+            "s463"
+          ],
+          "function": "现场震撼收束到振动还原与四连求赞关注",
+          "note": "哲思+CTA"
+        }
+      ]
+    },
+    "transition_language": {
+      "summary": "但如果你要买…呢；但是在那之前；好的来我们来听下一个；说到底把价位叙事升到本质。",
+      "patterns": [
+        "条件疑问转场",
+        "但是在那之前预告",
+        "来听下一个串联",
+        "说到底升维"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s16",
+          "snippet": "但如果你要买音响的话",
+          "note": "条件转场"
+        },
+        {
+          "sentence_id": "s33",
+          "snippet": "但是在那之前",
+          "note": "预告缓冲"
+        },
+        {
+          "sentence_id": "s222",
+          "snippet": "来我们来听下一个音响",
+          "note": "下一台串联"
+        },
+        {
+          "sentence_id": "s437",
+          "snippet": "说到底",
+          "note": "本质收束"
+        }
+      ]
+    },
+    "contrast_method": {
+      "summary": "百元对百万开场；书架长高对落地；M3蜡烛对SCM40蜡烛；录音还原对现场振动。",
+      "patterns": [
+        "极端价位对切",
+        "形态长高对比",
+        "蜡烛矩阵并置",
+        "录音vs现场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "是一套100块的音响",
+          "note": "百元"
+        },
+        {
+          "sentence_id": "s230",
+          "snippet": "它就像是书架音响长高了",
+          "note": "形态对比"
+        },
+        {
+          "sentence_id": "s242",
+          "snippet": "M3的蜡烛矩阵是这样的",
+          "note": "对照A"
+        },
+        {
+          "sentence_id": "s448",
+          "snippet": "你耳朵里的声音",
+          "note": "现场直达"
+        }
+      ]
+    },
+    "question_method": {
+      "summary": "哪价位最合适；大家感觉什么水平；怎么样老师们什么感受，推动盲听互动。",
+      "patterns": [
+        "价位选择问",
+        "水平体感问",
+        "老师感受问"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s17",
+          "snippet": "哪个价位最合适呢",
+          "note": "核心选题问"
+        },
+        {
+          "sentence_id": "s48",
+          "snippet": "大家感觉这个音响什么水平",
+          "note": "校准互动问"
+        },
+        {
+          "sentence_id": "s250",
+          "snippet": "大家什么感受",
+          "note": "听后感受问"
+        }
+      ]
+    },
+    "example_method": {
+      "summary": "iPhone双扬声器作校准；SCM40三单元规格；蜡烛矩阵吹动实验；包场交响乐。",
+      "patterns": [
+        "手机校准例",
+        "规格参数例",
+        "蜡烛物理例",
+        "交响乐现场例"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "这 是一台iPhone 15 Plus",
+          "note": "手机例"
+        },
+        {
+          "sentence_id": "s226",
+          "snippet": "和6.5英寸低音",
+          "note": "单元规格"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我们用这个蜡烛矩阵",
+          "note": "实验例"
+        },
+        {
+          "sentence_id": "s32",
+          "snippet": "听了交响乐演出",
+          "note": "现场例"
+        }
+      ]
+    },
+    "abstract_to_concrete": {
+      "summary": "生活品质抽象落到加热马桶垫与音响；共振载体落到蜡烛吹动；贵价音响落到振膜还原现场。",
+      "patterns": [
+        "品质→马桶垫音响",
+        "共振→蜡烛",
+        "贵价→振膜还原"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "具象品质"
+        },
+        {
+          "sentence_id": "s237",
+          "snippet": "为声音提供了充足的共振载体",
+          "note": "共振载体"
+        },
+        {
+          "sentence_id": "s439",
+          "snippet": "都是通过振动振膜",
+          "note": "振膜具象"
+        }
+      ]
+    },
+    "judgement_language": {
+      "summary": "音质确实不能说很好；效果不错；这个价位家里已是顶级享受；被磅礴细腻震撼。",
+      "patterns": [
+        "委婉差评",
+        "肯定不错",
+        "顶级享受定调",
+        "震撼收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s45",
+          "snippet": "音质 确实不能说很好",
+          "note": "委婉差评"
+        },
+        {
+          "sentence_id": "s219",
+          "snippet": "效果我觉得确实是不错",
+          "note": "肯定"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "已经是非常顶级的享受了",
+          "note": "顶级定调"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "震撼到了",
+          "note": "震撼判断"
+        }
+      ]
+    },
+    "self_correction": {
+      "summary": "先给加热马桶垫作生活品质第一答案再改口音响第二；猜价后拆箱体+功放纠正单一标价直觉。",
+      "patterns": [
+        "第一答案再补第二",
+        "标价拆分为箱体功放"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "先答马桶垫"
+        },
+        {
+          "sentence_id": "s12",
+          "snippet": "就是音响",
+          "note": "再补音响"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "它的箱体本身的价格是5999",
+          "note": "拆箱体价"
+        }
+      ]
+    },
+    "rhythm": {
+      "summary": "开场短句对切加速，规格段信息密度升高放慢，蜡烛实验短切加速，哲思长句放缓后CTA连珠。",
+      "patterns": [
+        "对切短句加速",
+        "规格放慢",
+        "实验短切",
+        "哲思放缓+CTA连珠"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这",
+          "note": "极短起拍"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "它有1英寸高音",
+          "note": "规格密排"
+        },
+        {
+          "sentence_id": "s244",
+          "snippet": "是这样",
+          "note": "实验短切"
+        },
+        {
+          "sentence_id": "s459",
+          "snippet": "求赞 求收藏 求评论 求转发",
+          "note": "CTA连珠"
+        }
+      ]
+    },
+    "spoken_markers": {
+      "status": "SKIPPED_INELIGIBLE",
+      "markers": [],
+      "evidence": []
+    },
+    "emotion_curve": {
+      "summary": "好奇对切→校准吐槽轻松→中高价惊喜Wow→现场震撼→感谢收束。",
+      "patterns": [
+        "好奇钩子",
+        "轻松吐槽",
+        "惊喜Wow",
+        "震撼收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s49",
+          "snippet": "9块9不能再多了",
+          "note": "吐槽笑点"
+        },
+        {
+          "sentence_id": "s251",
+          "snippet": "哇",
+          "note": "惊喜"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "震撼到了",
+          "note": "高点"
+        },
+        {
+          "sentence_id": "s457",
+          "snippet": "非常感谢你能看到这里",
+          "note": "感谢"
+        }
+      ]
+    },
+    "closure_loop": {
+      "summary": "开场百万对切的贵，收束到再贵也是振膜还原，现场才是音乐本身，视频只求传递震撼。",
+      "patterns": [
+        "贵价回扣振膜",
+        "现场闭环",
+        "视频传递希望"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s4",
+          "snippet": "是一套100万的音响",
+          "note": "开场贵价"
+        },
+        {
+          "sentence_id": "s449",
+          "snippet": "就是音乐本身",
+          "note": "本质闭环"
+        },
+        {
+          "sentence_id": "s454",
+          "snippet": "可以把这份震撼传递给你",
+          "note": "传递闭环"
+        }
+      ]
+    },
+    "cta_style": {
+      "summary": "OK各位宣告结束，四连求赞收藏评论转发，强调大大关注为最大动力，下期再见。",
+      "patterns": [
+        "OK各位结束语",
+        "四连求互动",
+        "关注=动力",
+        "下期再见"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s456",
+          "snippet": "这就是本期视频的全部内容啦",
+          "note": "结束宣告"
+        },
+        {
+          "sentence_id": "s459",
+          "snippet": "求赞 求收藏 求评论 求转发",
+          "note": "四连求"
+        },
+        {
+          "sentence_id": "s460",
+          "snippet": "最重要的是点一个大大的关注",
+          "note": "关注强调"
+        }
+      ]
+    },
+    "anti_ai_signals": {
+      "summary": "加热马桶垫意外答案、弟弟小鹭素人设定、9块9包邮口播、蜡烛矩阵自制实验，带具体人名价位。",
+      "patterns": [
+        "意外马桶垫答案",
+        "素人弟弟设定",
+        "包邮口播梗",
+        "自制蜡烛实验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "意外答案"
+        },
+        {
+          "sentence_id": "s25",
+          "snippet": "小鹭",
+          "note": "具名素人"
+        },
+        {
+          "sentence_id": "s50",
+          "snippet": "包邮",
+          "note": "口语梗"
+        },
+        {
+          "sentence_id": "s216",
+          "snippet": "它的箱体本身的价格是5999",
+          "note": "精确价"
+        }
+      ]
+    },
+    "weakness": {
+      "summary": "窗口截断中段听感细节；价位结论偏感受化；交响乐段情绪强但可量化指标少。",
+      "patterns": [
+        "中段截断",
+        "感受化结论",
+        "指标偏少"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s219",
+          "snippet": "效果我觉得确实是不错",
+          "note": "感受化"
+        },
+        {
+          "sentence_id": "s248",
+          "snippet": "已经是非常顶级的享受了",
+          "note": "主观顶级"
+        }
+      ]
+    },
+    "thought_process_exposure": {
+      "summary": "展示找价位区间、请专家与素人盲听、先校准耳朵再上阶梯的实验推理链。",
+      "patterns": [
+        "实验设计外露",
+        "先校准再对比",
+        "猜价核验"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s19",
+          "snippet": "我们找到了从100块",
+          "note": "取材过程"
+        },
+        {
+          "sentence_id": "s36",
+          "snippet": "校准一下",
+          "note": "校准逻辑"
+        },
+        {
+          "sentence_id": "s213",
+          "snippet": "我猜一个价格",
+          "note": "猜价过程"
+        }
+      ]
+    },
+    "listener_positioning": {
+      "summary": "把观众当要买音响的朋友，邀请感觉什么水平、老师们什么感受，共担听感判断。",
+      "patterns": [
+        "买音响决策者",
+        "朋友称呼",
+        "共担听感"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s6",
+          "snippet": "很多朋友都问我",
+          "note": "朋友提问"
+        },
+        {
+          "sentence_id": "s47",
+          "snippet": "朋友们",
+          "note": "称呼朋友"
+        },
+        {
+          "sentence_id": "s249",
+          "snippet": "怎么样老师们",
+          "note": "老师互动"
+        }
+      ]
+    },
+    "concrete_anchor": {
+      "summary": "100块/100万、iPhone 15 Plus、5999+3599=9598、SCM40三单元、蜡烛矩阵、交响乐包场。",
+      "patterns": [
+        "极端价锚",
+        "机型锚",
+        "拆分价锚",
+        "型号规格锚"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s38",
+          "snippet": "这 是一台iPhone 15 Plus",
+          "note": "机型"
+        },
+        {
+          "sentence_id": "s218",
+          "snippet": "所以加起来是9598元",
+          "note": "合计价"
+        },
+        {
+          "sentence_id": "s223",
+          "snippet": "这是落地音响SCM40",
+          "note": "型号"
+        }
+      ]
+    },
+    "information_density_curve": {
+      "summary": "开场低密度钩子→规格与价位中高密度→蜡烛实验可视化中密度→哲思低密度情感→CTA低密度。",
+      "patterns": [
+        "钩子低密",
+        "规格高密",
+        "实验中密",
+        "哲思低密"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "是一套100块的音响",
+          "note": "低密钩子"
+        },
+        {
+          "sentence_id": "s228",
+          "snippet": "额定功率300W",
+          "note": "高密规格"
+        },
+        {
+          "sentence_id": "s241",
+          "snippet": "做了一个小实验",
+          "note": "实验"
+        },
+        {
+          "sentence_id": "s449",
+          "snippet": "就是音乐本身",
+          "note": "低密哲思"
+        }
+      ]
+    },
+    "sentence_flow": {
+      "summary": "大量短切镜头旁白句，规格句并列推进，实验段指示代词短句，收束长因果句。",
+      "patterns": [
+        "短切旁白",
+        "规格并列",
+        "指示短句",
+        "长因果收束"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s1",
+          "snippet": "这",
+          "note": "短切"
+        },
+        {
+          "sentence_id": "s224",
+          "snippet": "它有1英寸高音",
+          "note": "规格并列"
+        },
+        {
+          "sentence_id": "s244",
+          "snippet": "是这样",
+          "note": "指示短句"
+        },
+        {
+          "sentence_id": "s450",
+          "snippet": "我们很难通过录音",
+          "note": "长因果"
+        }
+      ]
+    },
+    "viewpoint_personality": {
+      "summary": "理性极客+生活派：敢答马桶垫，敢请弟弟盲听，敢用蜡烛证明低频，收束仍敬畏现场。",
+      "patterns": [
+        "生活派极客",
+        "敢用素人",
+        "物理演示癖",
+        "敬畏现场"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "生活派"
+        },
+        {
+          "sentence_id": "s24",
+          "snippet": "和从来没有听过任何专业音响的我弟",
+          "note": "敢用素人"
+        },
+        {
+          "sentence_id": "s436",
+          "snippet": "震撼到了",
+          "note": "敬畏"
+        }
+      ]
+    },
+    "memory_device": {
+      "summary": "100块对100万；加热马桶垫；蜡烛矩阵；振膜还原现场。",
+      "patterns": [
+        "极端价对仗",
+        "马桶垫记忆点",
+        "蜡烛矩阵",
+        "振膜金句"
+      ],
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "是一套100块的音响",
+          "note": "价对仗"
+        },
+        {
+          "sentence_id": "s10",
+          "snippet": "加热马桶垫",
+          "note": "记忆点"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我们用这个蜡烛矩阵",
+          "note": "视觉记忆"
+        },
+        {
+          "sentence_id": "s449",
+          "snippet": "就是音乐本身",
+          "note": "金句"
+        }
+      ]
+    },
+    "guanyu_transfer_value": {
+      "decision": "KEEP",
+      "reason": "极端价对切+素人/专家盲听+物理小实验+本质收束的结构可直接迁到观屿硬件评测母本。",
+      "evidence": [
+        {
+          "sentence_id": "s2",
+          "snippet": "是一套100块的音响",
+          "note": "对切开场可复用"
+        },
+        {
+          "sentence_id": "s26",
+          "snippet": "来盲听",
+          "note": "盲听机制可复用"
+        },
+        {
+          "sentence_id": "s240",
+          "snippet": "我们用这个蜡烛矩阵",
+          "note": "可视化实验可复用"
+        }
+      ]
+    }
+  },
+  "evidence_sentence_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29",
+    "s30",
+    "s31",
+    "s32",
+    "s33",
+    "s34",
+    "s35",
+    "s36",
+    "s37",
+    "s38",
+    "s39",
+    "s40",
+    "s41",
+    "s42",
+    "s43",
+    "s44",
+    "s45",
+    "s46",
+    "s47",
+    "s48",
+    "s49",
+    "s50",
+    "s212",
+    "s213",
+    "s214",
+    "s215",
+    "s216",
+    "s217",
+    "s218",
+    "s219",
+    "s220",
+    "s221",
+    "s222",
+    "s223",
+    "s224",
+    "s225",
+    "s226",
+    "s227",
+    "s228",
+    "s229",
+    "s230",
+    "s231",
+    "s232",
+    "s233",
+    "s234",
+    "s235",
+    "s236",
+    "s237",
+    "s238",
+    "s239",
+    "s240",
+    "s241",
+    "s242",
+    "s243",
+    "s244",
+    "s245",
+    "s246",
+    "s247",
+    "s248",
+    "s249",
+    "s250",
+    "s251",
+    "s434",
+    "s435",
+    "s436",
+    "s437",
+    "s438",
+    "s439",
+    "s440",
+    "s441",
+    "s442",
+    "s443",
+    "s444",
+    "s445",
+    "s446",
+    "s447",
+    "s448",
+    "s449",
+    "s450",
+    "s451",
+    "s452",
+    "s453",
+    "s454",
+    "s455",
+    "s456",
+    "s457",
+    "s458",
+    "s459",
+    "s460",
+    "s461",
+    "s462",
+    "s463"
+  ],
+  "fields_complete_25": true
+}
