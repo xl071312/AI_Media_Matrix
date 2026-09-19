@@ -56,10 +56,10 @@ Updated: 2026-09-19T02:23:50.347029+00:00
 - 汇总：`_aggregate/CORPUS_COVERAGE_ROLLUP.md` `_aggregate/PHASE_B_DELIVERY.md`
 
 ## 9. Commit SHA
-TBD_AFTER_PUSH
+217abe726d00978c24469a32ea1bf8c96067886b
 
 ## 10. Issue 评论链接
-TBD_AFTER_COMMENT
+https://github.com/xl071312/AI_Media_Matrix/issues/6#issuecomment-5738585992
 
 ## Stop
 Phase B 机械采集交付到此为止；**等待 Lan / ChatGPT 验收**。未进入 Phase C / Voice Profile / 新口播稿。
