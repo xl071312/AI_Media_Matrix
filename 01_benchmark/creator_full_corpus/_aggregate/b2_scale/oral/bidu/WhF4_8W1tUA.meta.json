@@ -1,0 +1,12 @@
+{
+  "creator_id": "bidu",
+  "creator": "毕导",
+  "platform": "youtube",
+  "tag": "AUX_ORAL",
+  "video_id": "WhF4_8W1tUA",
+  "source_url": "https://www.youtube.com/watch?v=WhF4_8W1tUA",
+  "transcript_completeness": "FAIL",
+  "spoken_chars_nospace": 0,
+  "pass": false,
+  "error": "nload failed: \" + (r.stderr[-800:] if r else \"\"))\nRuntimeError: download failed: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: unable to download video data: HTTP Error 403: Forbidden\n\n"
+}

@@ -1,0 +1,22 @@
+{
+  "creator": "巫师财经",
+  "creator_id": "wushi_caijing",
+  "video_id": "GXd5r1KtW0w",
+  "original_url": "https://www.youtube.com/watch?v=GXd5r1KtW0w",
+  "method": "youtube_audio_faster_whisper_tiny",
+  "spoken_chars": 2526,
+  "spoken_chars_nospace": 2264,
+  "is_full_spoken": true,
+  "is_first_30s_only": false,
+  "is_summary": false,
+  "is_article_as_oral": false,
+  "pass": true,
+  "tag": "AUX_ORAL",
+  "platform": "youtube",
+  "identity_verified": true,
+  "transcript_completeness": "FULL_SPOKEN",
+  "from_b11_proof": true,
+  "spoken_marker_eligible": "PENDING_QA",
+  "manual_qa_status": "NOT_REVIEWED",
+  "source_url": "https://www.youtube.com/watch?v=GXd5r1KtW0w"
+}

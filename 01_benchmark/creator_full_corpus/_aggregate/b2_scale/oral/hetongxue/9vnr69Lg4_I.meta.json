@@ -1,0 +1,22 @@
+{
+  "creator": "老师好我叫何同学",
+  "creator_id": "hetongxue",
+  "video_id": "9vnr69Lg4_I",
+  "original_url": "https://www.youtube.com/watch?v=9vnr69Lg4_I",
+  "method": "youtube_public_auto_captions",
+  "spoken_chars": 15845,
+  "spoken_chars_nospace": 14184,
+  "is_full_spoken": true,
+  "is_first_30s_only": false,
+  "is_summary": false,
+  "is_article_as_oral": false,
+  "pass": true,
+  "tag": "AUX_ORAL",
+  "platform": "youtube",
+  "identity_verified": true,
+  "transcript_completeness": "FULL_SPOKEN",
+  "from_b11_proof": true,
+  "spoken_marker_eligible": "PENDING_QA",
+  "manual_qa_status": "NOT_REVIEWED",
+  "source_url": "https://www.youtube.com/watch?v=9vnr69Lg4_I"
+}

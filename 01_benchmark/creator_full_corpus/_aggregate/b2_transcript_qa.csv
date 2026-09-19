@@ -1,0 +1,21 @@
+creator_id,creator,video_id,source_url,transcript_source,asr_model,spoken_chars_nospace,head_particles,mid_particles,tail_particles,full_duration_covered,spoken_marker_eligible,manual_qa_status,qa_notes
+wushi_caijing,巫师财经,jm2Xp-r5-iI,https://www.youtube.com/watch?v=jm2Xp-r5-iI,youtube_audio_asr,base,1376,其实,"其实,然后","呢,吧",True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+wushi_caijing,巫师财经,7V0YPwV6M4g,https://www.youtube.com/watch?v=7V0YPwV6M4g,youtube_audio_asr,base,1292,,,,True,NO,RESTRICTED,few spoken particles in sample windows; keep for logic only
+wushi_caijing,巫师财经,2Y8fCRSZwY4,https://www.youtube.com/watch?v=2Y8fCRSZwY4,youtube_audio_asr,base,1067,,"然后,但是,吧",,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+wushi_caijing,巫师财经,w4TH_dG_4sY,https://www.youtube.com/watch?v=w4TH_dG_4sY,youtube_audio_asr,base,1025,其实,然后,,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+wushi_caijing,巫师财经,KZrgY-806e8,https://www.youtube.com/watch?v=KZrgY-806e8,youtube_audio_asr,base,2277,"但是,吧","然后,呢",啊,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+bidu,毕导,J4dpVQhxxpI,https://www.youtube.com/watch?v=J4dpVQhxxpI,youtube_audio_asr,base,504,"啊,吧","呢,吧","但是,啊,呢",True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+bidu,毕导,InkelXjIR6Y,https://www.youtube.com/watch?v=InkelXjIR6Y,youtube_audio_asr,base,878,呢,"其实,呢,吧",,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+bidu,毕导,7jmPDOf1Uqc,https://www.youtube.com/watch?v=7jmPDOf1Uqc,youtube_audio_asr,base,333,"但是,啊","但是,呢",呢,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+bidu,毕导,yhMq7uSv5Q4,https://www.youtube.com/watch?v=yhMq7uSv5Q4,youtube_audio_asr,base,977,,"啊,呢","啊,呢,吧",True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+bidu,毕导,6vDsLvD4VDY,https://www.youtube.com/watch?v=6vDsLvD4VDY,youtube_audio_asr,base,1293,"啊,呢,吧",然后,呢,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+hetongxue,老师好我叫何同学,txfIzLpR9Uc,https://www.youtube.com/watch?v=txfIzLpR9Uc,youtube_audio_asr,base,827,"但是,啊","但是,呢",,True,YES,PASS,head/mid/tail windows show spoken connectors; full file present
+hetongxue,老师好我叫何同学,vriV1wMJ7VA,https://www.youtube.com/watch?v=vriV1wMJ7VA,youtube_public_caption,,3819,但是,,"但是,你看",True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+hetongxue,老师好我叫何同学,khdXzOVYljg,https://www.youtube.com/watch?v=khdXzOVYljg,youtube_public_caption,,5736,,但是,你看,True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+hetongxue,老师好我叫何同学,CCN3jeueHQ4,https://www.youtube.com/watch?v=CCN3jeueHQ4,youtube_public_caption,,1132,,"然后,但是,呢",,True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+hetongxue,老师好我叫何同学,n_jQGRymHCw,https://www.youtube.com/watch?v=n_jQGRymHCw,youtube_public_caption,,1274,呢,"啊,呢",吧,True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+xiaolin_shuo,小Lin说,NYs-wpYp0bY,https://www.youtube.com/watch?v=NYs-wpYp0bY,youtube_public_caption,,7666,"其实,然后,你看,啊,呢,吧","你看,呢","其实,但是,啊,呢,吧",True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+xiaolin_shuo,小Lin说,4hBpLHqBSOg,https://www.youtube.com/watch?v=4hBpLHqBSOg,youtube_public_caption,,7559,"其实,但是,你看,我觉得,呢","你看,吧","其实,但是,你看,吧",True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+xiaolin_shuo,小Lin说,31FpW6CMmYE,https://www.youtube.com/watch?v=31FpW6CMmYE,youtube_public_caption,,8540,"但是,你看,啊,呢","啊,吧","但是,你看,啊,呢,吧",True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+xiaolin_shuo,小Lin说,6mVX78_nq0A,https://www.youtube.com/watch?v=6mVX78_nq0A,youtube_public_caption,,4293,,"其实,你看","你看,呢",True,NO,PASS_LOGIC_ONLY,auto/manual captions — usable for logic; particles may be cleaned
+xiaolin_shuo,小Lin说,EO0creQnzrM,https://www.youtube.com/watch?v=EO0creQnzrM,youtube_audio_asr,base,1023,"但是,你看",然后,"其实,你看,啊",True,YES,PASS,head/mid/tail windows show spoken connectors; full file present

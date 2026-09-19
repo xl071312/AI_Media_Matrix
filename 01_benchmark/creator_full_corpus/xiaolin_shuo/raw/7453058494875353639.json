@@ -1,0 +1,23 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "platform": "toutiao",
+  "url": "https://www.toutiao.com/article/7453058494875353639/",
+  "id": "7453058494875353639",
+  "title": "【年度总结】一口气了解2024年的全球经济",
+  "author": "小Lin说",
+  "content_type": "article",
+  "page_open": true,
+  "author_match": true,
+  "transcript_status": "FULLTEXT",
+  "transcript_path": "transcripts/7453058494875353639.txt",
+  "body_char_count": 3967,
+  "source": "m.toutiao.com/i{id}/info/v2 JSON content HTML",
+  "collected_at": "2026-09-19T12:00:45+00:00",
+  "publish_time": "1735300463",
+  "likes": 438,
+  "comments": 3,
+  "favorites": 666,
+  "shares": 0,
+  "raw_source_status": "API_INFO_V2",
+  "complete_status": "COMPLETE"
+}
