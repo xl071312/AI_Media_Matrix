@@ -1,0 +1,7 @@
+creator_id,display_name,role,home_platform,FULL_SPOKEN,PARTIAL_SPOKEN,COMPLETE_TEXT,PRIMARY_ORAL,AUX_ORAL,gate_tier,replace_candidate
+yinhang_xiaojiejie,银行小姐姐,ORAL_PRIMARY,douyin,1,0,0,1,0,ORAL_INSUFFICIENT,YES
+zhinan_caijing,直男财经,ORAL_PRIMARY,douyin,0,0,0,0,0,ORAL_INSUFFICIENT,YES
+wenyifei_jijiu,温义飞的急救财经,TEXT_PRIMARY,toutiao,0,0,22,0,0,TEXT_ARGUMENT_OK,NO
+hanxiuyun_jingji,韩秀云讲经济,ORAL_PRIMARY,douyin,0,4,0,0,0,ORAL_INSUFFICIENT,YES
+xiaolin_shuo,小Lin说,TEXT_PRIMARY,toutiao,0,1,20,0,0,TEXT_ARGUMENT_OK,NO
+banfo_xianren,硬核的半佛仙人,TEXT_PRIMARY,toutiao,1,1,25,0,1,TEXT_ARGUMENT_OK,NO

@@ -1,0 +1,6 @@
+candidate_id,display_name,FULL_SPOKEN,PARTIAL_SPOKEN,style_fit,suggested_replace_for,note
+wushi_caijing,巫师财经,0,1,capital_story_mechanism,yinhang_xiaojiejie|zhinan_caijing,PARTIAL_BILI_ONLY; not yet replace-ready
+xiapeng,夏鹏,0,0,macro_oral,hanxiuyun_jingji,NO_FULL_ON_DISK
+yiming_caijing,一鸣财经,0,0,hot_logic_chain,zhinan_caijing,NO_FULL_ON_DISK
+bainian_zhengjing,柏年说政经,0,0,policy_case,hanxiuyun_jingji,NO_FULL_ON_DISK
+benchmark_spoken_pool,Batch001/002/plain_language masked creators,33,0,workplace_money_oral,oral_slots_collective,FULL ASR exists but creator identities MASKED; cannot seat as named roster without re-identification
