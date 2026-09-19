@@ -1,0 +1,17 @@
+{
+  "creator": "毕导",
+  "creator_id": "bidu",
+  "video_id": "ZdhxyGjU2VU",
+  "original_url": "https://www.youtube.com/watch?v=ZdhxyGjU2VU",
+  "method": "youtube_audio_faster_whisper_small",
+  "spoken_chars": 1251,
+  "spoken_chars_nospace": 1121,
+  "is_full_spoken": true,
+  "is_first_30s_only": false,
+  "is_summary": false,
+  "is_article_as_oral": false,
+  "pass": true,
+  "tag": "AUX_ORAL",
+  "platform": "youtube",
+  "identity_verified": true
+}

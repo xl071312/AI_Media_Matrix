@@ -1,0 +1,17 @@
+{
+  "creator": "巫师财经",
+  "creator_id": "wushi_caijing",
+  "video_id": "BV1ViEg6PESR",
+  "original_url": "https://www.bilibili.com/video/BV1ViEg6PESR",
+  "method": "existing_full_asr_local",
+  "spoken_chars": 3409,
+  "spoken_chars_nospace": 3045,
+  "is_full_spoken": true,
+  "is_first_30s_only": false,
+  "is_summary": false,
+  "is_article_as_oral": false,
+  "pass": true,
+  "tag": "AUX_ORAL",
+  "platform": "bilibili",
+  "identity_verified": true
+}

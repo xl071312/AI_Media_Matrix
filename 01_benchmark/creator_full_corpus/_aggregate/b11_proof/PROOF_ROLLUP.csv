@@ -1,0 +1,10 @@
+creator,creator_id,video_id,url,method,spoken_chars_nospace,pass_status,tag,primary_or_aux,expandable_to_40,blocker,replace_recommendation
+巫师财经,wushi_caijing,BV1ViEg6PESR,https://www.bilibili.com/video/BV1ViEg6PESR,existing_full_asr_local,3045,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 本环境 412；YT 常无自动字幕 → 音频ASR可行,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+巫师财经,wushi_caijing,GXd5r1KtW0w,https://www.youtube.com/watch?v=GXd5r1KtW0w,youtube_audio_faster_whisper_tiny,2264,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 本环境 412；YT 常无自动字幕 → 音频ASR可行,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+巫师财经,wushi_caijing,pnW6Ilpjc0Q,https://www.youtube.com/watch?v=pnW6Ilpjc0Q,youtube_audio_faster_whisper_tiny,7676,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 本环境 412；YT 常无自动字幕 → 音频ASR可行,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+毕导,bidu,zXJ8GGbvJ5w,https://www.youtube.com/watch?v=zXJ8GGbvJ5w,youtube_audio_faster_whisper_small,274,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；YT+ASR 可用,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+毕导,bidu,ZdhxyGjU2VU,https://www.youtube.com/watch?v=ZdhxyGjU2VU,youtube_audio_faster_whisper_small,1121,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；YT+ASR 可用,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+毕导,bidu,aDGyz9dHrcs,https://www.youtube.com/watch?v=aDGyz9dHrcs,youtube_audio_faster_whisper_small,1533,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；YT+ASR 可用,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+老师好我叫何同学,hetongxue,9vnr69Lg4_I,https://www.youtube.com/watch?v=9vnr69Lg4_I,youtube_public_auto_captions,14184,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；改用官方 YT 字幕,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+老师好我叫何同学,hetongxue,Zoe9FOZRkJY,https://www.youtube.com/watch?v=Zoe9FOZRkJY,youtube_public_auto_captions,655,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；改用官方 YT 字幕,ACCEPT_AS_AUX_ORAL_REPLACEMENT
+老师好我叫何同学,hetongxue,-tHdM8dOeAc,https://www.youtube.com/watch?v=-tHdM8dOeAc,youtube_public_auto_captions,2485,PASS,AUX_ORAL,AUX,YES_LIKELY,Bilibili 412；改用官方 YT 字幕,ACCEPT_AS_AUX_ORAL_REPLACEMENT
