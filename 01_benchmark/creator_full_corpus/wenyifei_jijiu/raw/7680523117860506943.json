@@ -1,0 +1,12 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "platform": "douyin",
+  "url": "https://www.douyin.com/video/7680523117860506943",
+  "title": null,
+  "content_type": "video",
+  "source_evidence": "B0.1 retrieval proof / direct UI observation",
+  "transcript_status": "NONE",
+  "raw_source_status": "B0.1_PROOF_CAPTURED",
+  "complete_status": "NOT_COMPLETE_FULLTEXT_UNAVAILABLE",
+  "note": "Video UI did not expose full 文案/字幕 text; not marked COMPLETE."
+}

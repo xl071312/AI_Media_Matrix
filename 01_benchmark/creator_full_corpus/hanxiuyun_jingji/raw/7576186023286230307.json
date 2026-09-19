@@ -1,0 +1,26 @@
+{
+  "video_id": "7576186023286230307",
+  "creator_id": "hanxiuyun_jingji",
+  "platform": "douyin",
+  "author": "韩秀云讲经济",
+  "title": "声明！ #声明 #韩秀云 #韩秀云讲经济",
+  "url": "https://www.douyin.com/video/7576186023286230307",
+  "metrics": {
+    "likes": "3663",
+    "comments": "61",
+    "favorites": "339",
+    "shares": "54"
+  },
+  "publish_time": "2025-11-23 23:11",
+  "playback_ok": true,
+  "playback_note": "Douyin detail page loaded; player metadata/duration visible (no captcha/login encountered).",
+  "caption": {
+    "status": "INCOMPLETE",
+    "full_text": null,
+    "notes": "No full 文案 UI panel/text was available. Only on-screen captions/title were visible; no transcript fabricated."
+  },
+  "discovery_mode": "B01_SEED",
+  "opened_at": "2026-09-18T19:22:00-07:00",
+  "transcript_source": null,
+  "blocker": "Douyin full transcript unavailable; yt-dlp 403 is a known blocker and yt-dlp was not used."
+}

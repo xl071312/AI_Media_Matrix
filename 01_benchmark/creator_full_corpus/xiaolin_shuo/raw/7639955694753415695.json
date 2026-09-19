@@ -1,0 +1,15 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "platform": "toutiao",
+  "url": "https://www.toutiao.com/video/7639955694753415695/",
+  "title": "一口气了解亚洲金融危机",
+  "author": "小Lin说",
+  "author_verified": true,
+  "content_type": "video",
+  "duration": "27:53",
+  "transcript_status": "NONE",
+  "raw_source_status": "METADATA_ONLY",
+  "complete_status": "NOT_COMPLETE",
+  "source": "Toutiao video detail UI metadata",
+  "notes": "Video page author UI matched 小Lin说; no full 文案/字幕 UI text exposed, so transcript not inferred from audio/captions."
+}

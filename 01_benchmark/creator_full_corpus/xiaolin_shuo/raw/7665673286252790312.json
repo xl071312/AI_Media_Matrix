@@ -1,0 +1,15 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "platform": "toutiao",
+  "url": "https://www.toutiao.com/video/7665673286252790312/",
+  "title": "特朗普收入曝光，一年狂揽$XX亿，竟然是靠…",
+  "author": "小Lin说",
+  "author_verified": true,
+  "content_type": "video",
+  "duration": "20:53",
+  "transcript_status": "NONE",
+  "raw_source_status": "METADATA_ONLY",
+  "complete_status": "NOT_COMPLETE",
+  "source": "Toutiao video detail UI metadata",
+  "notes": "Video page author UI matched 小Lin说; no full 文案/字幕 UI text exposed, so transcript not inferred from audio/captions."
+}

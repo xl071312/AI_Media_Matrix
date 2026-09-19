@@ -1,0 +1,11 @@
+{
+  "creator_id": "wenyifei_jijiu",
+  "creator_name": "温义飞的急救财经",
+  "homepage_url": "https://www.toutiao.com/c/user/token/MS4wLjABAAAA92PXnGCa5PoJxO09OYd14kXBGpRWWHrXJWrmRbiAPXd1RDV10NIzqJlpiPXsv3_j/",
+  "primary_platform": "toutiao",
+  "b01_complete": "18",
+  "notes": "Toutiao homepage deep-scroll + Article tab yielded 22 unique creator article URLs; 22 full article bodies captured. Douyin homepage reachable only as shell/blank; works grid/login state not exposed, so no new Douyin URLs beyond B0.1 seeds.",
+  "douyin_homepage_url": "https://www.douyin.com/user/MS4wLjABAAAAPc9V-v4o3BdxwccbI5sPhAF-UPPk86Pkql0L9mHAJDY",
+  "homepage_url_source": "retrieval_summary",
+  "phase_b_updated_at": "2026-09-18T19:08:00-07:00"
+}

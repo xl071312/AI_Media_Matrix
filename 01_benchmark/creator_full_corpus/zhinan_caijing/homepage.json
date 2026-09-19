@@ -1,0 +1,17 @@
+{
+  "creator_id": "zhinan_caijing",
+  "creator_name": "直男财经",
+  "homepage_url": "https://www.douyin.com/user/MS4wLjABAAAADUObyc_aoKXnXnV01JEcZMdvU0_ZFvFnVQAU-weztOgHubCQont1aDrDASxWu8B6",
+  "primary_platform": "douyin",
+  "b01_complete": "30",
+  "notes": "logged_in_search翻B0 LOGIN_WALL；57唯一URL停核验于30 COMPLETE；keep_all_three。",
+  "homepage_url_source": "retrieval_summary",
+  "ui_observed_at": "2026-09-18T19:09:00-07:00",
+  "ui_stats": {
+    "works": "1422",
+    "following": "199",
+    "followers": "2311.0万",
+    "likes_received": "4.3亿"
+  },
+  "collection_notes": "Homepage opened successfully. Works grid showed 1422; deep-scroll yielded 57 unique loadable /video/ URLs (30 B01 seeds + 27 B_PHASE_SCROLL). Visible grid is not full history."
+}

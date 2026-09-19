@@ -1,0 +1,26 @@
+{
+  "video_id": "7680116523662396687",
+  "creator_id": "hanxiuyun_jingji",
+  "platform": "douyin",
+  "author": "韩秀云讲经济",
+  "title": "县域消费18条能给老百姓带来什么？ #燃起来的大国重器 #真财实学计划 #民生 #财经 #韩秀云讲经济",
+  "url": "https://www.douyin.com/video/7680116523662396687",
+  "metrics": {
+    "likes": "1.8万",
+    "comments": "416",
+    "favorites": "4073",
+    "shares": "2333"
+  },
+  "publish_time": "2026-08-31 01:54",
+  "playback_ok": true,
+  "playback_note": "Douyin detail page loaded; player metadata/duration visible (no captcha/login encountered).",
+  "caption": {
+    "status": "INCOMPLETE",
+    "full_text": null,
+    "notes": "No full 文案 UI panel/text was available. Only on-screen captions/title were visible; no transcript fabricated."
+  },
+  "discovery_mode": "B01_SEED",
+  "opened_at": "2026-09-18T19:22:00-07:00",
+  "transcript_source": null,
+  "blocker": "Douyin full transcript unavailable; yt-dlp 403 is a known blocker and yt-dlp was not used."
+}

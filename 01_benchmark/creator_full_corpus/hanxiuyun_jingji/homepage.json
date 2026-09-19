@@ -1,0 +1,9 @@
+{
+  "creator_id": "hanxiuyun_jingji",
+  "creator_name": "韩秀云讲经济",
+  "homepage_url": "https://www.douyin.com/user/MS4wLjABAAAAlbkNTw3vjBlQx6pzhzRnFX1YLHlpCoU8nMpnSKiL6-S0WquIQngezW4Ydt_0DXdk",
+  "primary_platform": "douyin",
+  "b01_complete": "30",
+  "notes": "UI verified on Douyin homepage: works=1588; followers=1295.6万; likes=7862.6万; following=13. Deep-scroll surfaced 177 unique /video/ URLs (inventory includes URL-only rows; visible grid is not full history). B0.1: 30/30 opened; no full 文案 panel; transcripts INCOMPLETE.",
+  "homepage_url_source": "retrieval_summary"
+}

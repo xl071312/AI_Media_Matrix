@@ -1,0 +1,26 @@
+{
+  "creator_id": "zhinan_caijing",
+  "creator_name": "直男财经",
+  "author": "直男财经",
+  "author_match": true,
+  "platform": "douyin",
+  "url": "https://www.douyin.com/video/7685735297480477962",
+  "id": "7685735297480477962",
+  "title": "飞书+豆包工作合体，这回AI真能帮你办公了！#2026飞书未来无限大会 #豆包工作 #飞书",
+  "metrics": {
+    "likes": "2.5万",
+    "comments": null,
+    "favorites": null,
+    "shares": null,
+    "author_followers": "2311.0万",
+    "author_likes": "4.3亿"
+  },
+  "publish_time": null,
+  "duration_seconds": 233,
+  "playback_ok": true,
+  "caption_notes": "Video rendered and played in Douyin UI; embedded Chinese on-video captions visible, but no full 文案/字幕 text panel exposed.",
+  "transcript_status": "NONE",
+  "complete_status": "INCOMPLETE",
+  "capture_notes": "Opened directly from B0.1 seed URL. Author page link and profile metrics matched 直男财经.",
+  "captured_at": "2026-09-18T19:09:00-07:00"
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "7662684708089777442",
+  "creator_id": "hanxiuyun_jingji",
+  "platform": "douyin",
+  "author": "韩秀云讲经济",
+  "title": "我国出口连续3个月超预期，全球都在抢什么？ #中国经济 #出口 #燃起来了大国重器 #真财实学计划 #韩秀云",
+  "url": "https://www.douyin.com/video/7662684708089777442",
+  "metrics": {
+    "likes": "7637",
+    "comments": "44",
+    "favorites": "957",
+    "shares": "467"
+  },
+  "publish_time": "2026-07-15 02:30",
+  "playback_ok": true,
+  "playback_note": "Douyin detail page loaded; player metadata/duration visible (no captcha/login encountered).",
+  "caption": {
+    "status": "INCOMPLETE",
+    "full_text": null,
+    "notes": "No full 文案 UI panel/text was available. Only on-screen captions/title were visible; no transcript fabricated."
+  },
+  "discovery_mode": "B01_SEED",
+  "opened_at": "2026-09-18T19:22:00-07:00",
+  "transcript_source": null,
+  "blocker": "Douyin full transcript unavailable; yt-dlp 403 is a known blocker and yt-dlp was not used."
+}

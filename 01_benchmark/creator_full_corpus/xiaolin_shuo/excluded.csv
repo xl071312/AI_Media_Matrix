@@ -1,0 +1,4 @@
+creator_id,platform,url,title,reason,source_proof,notes
+xiaolin_shuo,toutiao,https://www.toutiao.com/video/7657489483410965001/,AI巨头们之间的资本混战，到底是个什么情况？ #真财实学计划,"Author UI and metrics loaded, but video remained black with readyState=0 and no duration; not counted COMPLETE.",retrieval_proof_小Lin说.jsonl,excluded_from_B01
+xiaolin_shuo,toutiao,https://www.toutiao.com/video/7653778630163431467/,大佬变老赖，60万都拿不出来，华谊兄弟怎么了？ #真财实学计划#零距离看懂财经 #华谊,"Author UI and metrics loaded, but video remained black with readyState=0 and no duration; not counted COMPLETE.",retrieval_proof_小Lin说.jsonl,excluded_from_B01
+xiaolin_shuo,toutiao,https://www.toutiao.com/article/7486434702922531379/,抖音2025年3月侵权举报受理公示,"URL surfaced among homepage anchors but verification showed 抖音举报板 official author, not 小Lin说; excluded from COMPLETE.",retrieval_proof_小Lin说.jsonl,excluded_from_B01

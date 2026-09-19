@@ -1,0 +1,26 @@
+{
+  "video_id": "7667874664999292186",
+  "creator_id": "hanxiuyun_jingji",
+  "platform": "douyin",
+  "author": "韩秀云讲经济",
+  "title": "全球经济持续降温，普通人会面临哪些风险与机遇？ #经济 #燃起来了大国重器 #真财实学计划 #零距离看懂财经 #韩秀云",
+  "url": "https://www.douyin.com/video/7667874664999292186",
+  "metrics": {
+    "likes": "1.0万",
+    "comments": "163",
+    "favorites": "1313",
+    "shares": "421"
+  },
+  "publish_time": "2026-07-29 02:09",
+  "playback_ok": true,
+  "playback_note": "Douyin detail page loaded; player metadata/duration visible (no captcha/login encountered).",
+  "caption": {
+    "status": "INCOMPLETE",
+    "full_text": null,
+    "notes": "No full 文案 UI panel/text was available. Only on-screen captions/title were visible; no transcript fabricated."
+  },
+  "discovery_mode": "B01_SEED",
+  "opened_at": "2026-09-18T19:22:00-07:00",
+  "transcript_source": null,
+  "blocker": "Douyin full transcript unavailable; yt-dlp 403 is a known blocker and yt-dlp was not used."
+}

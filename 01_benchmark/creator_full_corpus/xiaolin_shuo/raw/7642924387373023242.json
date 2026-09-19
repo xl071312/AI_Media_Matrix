@@ -1,0 +1,15 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "platform": "toutiao",
+  "url": "https://www.toutiao.com/video/7642924387373023242/",
+  "title": "美国政府破天荒入股民企，是要密谋什么大业...? #零距离看懂财经",
+  "author": "小Lin说",
+  "author_verified": true,
+  "content_type": "video",
+  "duration": "07:38",
+  "transcript_status": "NONE",
+  "raw_source_status": "METADATA_ONLY",
+  "complete_status": "NOT_COMPLETE",
+  "source": "Toutiao video detail UI metadata",
+  "notes": "Video page author UI matched 小Lin说; no full 文案/字幕 UI text exposed, so transcript not inferred from audio/captions."
+}

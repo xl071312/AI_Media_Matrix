@@ -1,0 +1,26 @@
+{
+  "video_id": "7672346387115232553",
+  "creator_id": "hanxiuyun_jingji",
+  "platform": "douyin",
+  "author": "韩秀云讲经济",
+  "title": "黄金为什么大涨？能持续多久？ #黄金 #金价 #燃起来了大国重器 #真财实学计划 #韩秀云",
+  "url": "https://www.douyin.com/video/7672346387115232553",
+  "metrics": {
+    "likes": "4.5万",
+    "comments": "1412",
+    "favorites": "1.0万",
+    "shares": "7608"
+  },
+  "publish_time": "2026-08-10 03:22",
+  "playback_ok": true,
+  "playback_note": "Douyin detail page loaded; player metadata/duration visible (no captcha/login encountered).",
+  "caption": {
+    "status": "INCOMPLETE",
+    "full_text": null,
+    "notes": "No full 文案 UI panel/text was available. Only on-screen captions/title were visible; no transcript fabricated."
+  },
+  "discovery_mode": "B01_SEED",
+  "opened_at": "2026-09-18T19:22:00-07:00",
+  "transcript_source": null,
+  "blocker": "Douyin full transcript unavailable; yt-dlp 403 is a known blocker and yt-dlp was not used."
+}

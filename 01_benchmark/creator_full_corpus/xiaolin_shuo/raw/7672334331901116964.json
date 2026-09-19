@@ -1,0 +1,15 @@
+{
+  "creator_id": "xiaolin_shuo",
+  "platform": "toutiao",
+  "url": "https://www.toutiao.com/video/7672334331901116964/",
+  "title": "王健林现在怎么样了? 万达什么情况? #真财实学计划 #万达",
+  "author": "小Lin说",
+  "author_verified": true,
+  "content_type": "video",
+  "duration": "22:38",
+  "transcript_status": "NONE",
+  "raw_source_status": "METADATA_ONLY",
+  "complete_status": "NOT_COMPLETE",
+  "source": "Toutiao video detail UI metadata",
+  "notes": "Video page author UI matched 小Lin说; no full 文案/字幕 UI text exposed, so transcript not inferred from audio/captions."
+}

@@ -1,0 +1,7 @@
+creator_id,platform,url,title,reason,source_proof,notes
+wenyifei_jijiu,toutiao,https://www.toutiao.com/article/7641608159957697078/,NULL,wrong_author,retrieval_proof_温义飞的急救财经.jsonl,complete=False
+wenyifei_jijiu,toutiao,https://www.toutiao.com/video/7068474047943672327/,NULL,wrong_author,retrieval_proof_温义飞的急救财经.jsonl,complete=False
+wenyifei_jijiu,douyin,https://www.douyin.com/video/7400350941863480628,NULL,wrong_author,retrieval_proof_温义飞的急救财经.jsonl,complete=False
+wenyifei_jijiu,douyin,https://www.douyin.com/video/7419914280511851828,NULL,wrong_author,retrieval_proof_温义飞的急救财经.jsonl,complete=False
+wenyifei_jijiu,douyin,https://www.douyin.com/video/7365844756439584054,NULL,wrong_author,retrieval_proof_温义飞的急救财经.jsonl,complete=False
+wenyifei_jijiu,douyin,https://www.douyin.com/video/7672407837452078388,NULL,login_prompt_encountered,retrieval_proof_温义飞的急救财经.jsonl,complete=False
